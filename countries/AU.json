@@ -672,6 +672,23 @@
    "checked_at": "2026-10-15T18:33:29Z"
   },
   {
+   "name": "Omega Games",
+   "group": "login_required",
+   "city": "Mandurah",
+   "region": "AU-WA",
+   "address": "88 Pinjarra rd, Unit 1, Mandurah, WA, 6210, Australia",
+   "phone": "+61895359710",
+   "website": "https://omegagames.com.au/",
+   "buylist_url": "https://store.storepass.co/retailer/buylist?store_id=OVgkVdM1Sr",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "notes": "StorePass buylist requires a Storepass account login (store setting); feed returns 'Store info needs to be fetched'.",
+   "checked_at": "2026-10-15T18:33:22Z"
+  },
+  {
    "name": "Pro GamerS and Collectables",
    "group": "login_required",
    "city": "Ravenhall",
@@ -3562,22 +3579,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T18:32:58Z"
-  },
-  {
-   "name": "Omega Games",
-   "group": "unknown",
-   "city": "Mandurah",
-   "region": "AU-WA",
-   "address": "88 Pinjarra rd, Unit 1, Mandurah, WA, 6210, Australia",
-   "phone": "+61895359710",
-   "website": "https://omegagames.com.au/",
-   "buylist_url": "https://store.storepass.co/retailer/buylist?store_id=OVgkVdM1Sr",
-   "games_events": [
-    "DIGIMON CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-15T18:33:22Z"
   },
   {
    "name": "Only Packs TCG",
