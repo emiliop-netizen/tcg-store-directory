@@ -2,7 +2,7 @@
  "country": "AU",
  "currency": "AUD",
  "updated": "2026-10-15",
- "store_count": 301,
+ "store_count": 302,
  "stores": [
   {
    "name": "Beskar Forge Gaming",
@@ -13,6 +13,21 @@
    "phone": "(08) 6285 5048",
    "website": "https://beskarforge.com.au/",
    "buylist_url": "https://buylist.beskarforge.com.au/",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.beskarforge.com.au",
+    "store_id": "mPTppP5Tt7",
+    "games": [
+     "One Piece",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
    "mail_in": true,
    "credit_bonus": "20% store credit bonus",
    "games_events": [
@@ -62,6 +77,30 @@
    "checked_at": "2026-10-15T18:32:36Z"
   },
   {
+   "name": "Crystal collectables TCG",
+   "group": "feed",
+   "city": "Hope island",
+   "region": "AU-QLD",
+   "address": "Shop 2 9 John Lund drive hope island , Hope island, AU-QLD, 4212",
+   "phone": "0407616317",
+   "website": "https://crystalcollectablestcg.com.au/",
+   "buylist_url": "https://buylist.sortswift.com/?s=14cfe0c9c39f2eda",
+   "feed": {
+    "platform": "sortswift",
+    "store_key": "14cfe0c9c39f2eda",
+    "games": [
+     "One Piece"
+    ]
+   },
+   "national_mail_in": true,
+   "mail_in": true,
+   "credit_bonus": "Store credit bonus conditionally offered",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:25Z"
+  },
+  {
    "name": "Gameology Clayton",
    "group": "feed",
    "city": "Clayton South",
@@ -70,6 +109,22 @@
    "phone": "0390686040",
    "website": "https://www.gameology.com.au/",
    "buylist_url": "https://www.gameology.com.au/pages/selling-single-cards",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.gameology.com.au",
+    "store_id": "0RFd8HIIRT",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
    "games_events": [
     "Dragon Ball Super Fusion World",
     "Flesh and Blood",
@@ -84,6 +139,28 @@
     "Yu-Gi-Oh!"
    ],
    "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Groovy Collectables",
+   "group": "feed",
+   "city": "Regional Victoria (city not stated)",
+   "region": "VIC",
+   "website": "https://groovycollectables.com.au",
+   "buylist_url": "https://buylist.sortswift.com/?s=790c725a3625be27&source=website",
+   "feed": {
+    "platform": "sortswift",
+    "store_key": "790c725a3625be27",
+    "games": [
+     "Pokemon"
+    ]
+   },
+   "national_mail_in": true,
+   "credit_bonus": "'a bit extra' for store credit (amount not stated)",
+   "games_buys": [
+    "Pokemon (English)",
+    "Pokemon (Japanese)"
+   ],
+   "notes": "Instant online quote via SortSwift portal; post cards then paid on receipt. Buys singles, sealed, graded, collections."
   },
   {
    "name": "Inn Games",
@@ -117,8 +194,10 @@
   {
    "name": "Plenty of Games",
    "group": "feed",
-   "address": "Level 1 278 Collins Street, Melbourne, VIC, 3000, Australia",
-   "phone": "613 9913 8467",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Level 1/278 Collins Street, Melbourne VIC 3000",
+   "phone": "03 9913 8467",
    "website": "https://www.plentyofgames.com.au/",
    "feed": {
     "platform": "storepass",
@@ -148,6 +227,20 @@
    "address": "Shop 24, 20 Benjamin Way, Belconnen, ACT, 2617, Australia",
    "phone": "+61449972281",
    "website": "https://roningames.com.au/",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.roningames.com.au",
+    "store_id": "sOMLSaVE0O",
+    "games": [
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "Dragon Ball Super Fusion World",
@@ -202,7 +295,9 @@
   {
    "name": "The Dragon's Beard",
    "group": "feed",
-   "address": "260 Charters Towers Rd, Hermit Park, QLD, 4812, Australia",
+   "city": "Townsville (Hermit Park)",
+   "region": "AU-QLD",
+   "address": "262 Charters Towers Rd, Hermit Park QLD 4812",
    "phone": "+61480715983",
    "website": "https://thedragonsbeard.com.au/",
    "feed": {
@@ -226,6 +321,41 @@
    "checked_at": "2026-10-15T18:33:51Z"
   },
   {
+   "name": "Trading Card Masters",
+   "group": "feed",
+   "city": "Five Dock (Sydney)",
+   "region": "AU-NSW",
+   "address": "85 Great North Road, Five Dock NSW 2046",
+   "website": "https://buylist.tradingcardmasters.com.au/retailer/buylist",
+   "buylist_url": "https://buylist.tradingcardmasters.com.au/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.tradingcardmasters.com.au",
+    "store_id": "Mz2znmHYEy",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "Magic: The Gathering",
+    "One Piece",
+    "Pokemon",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T18:34:51Z"
+  },
+  {
    "name": "Critical Hit Gaming",
    "group": "public_buylist",
    "city": "Melbourne, Vic",
@@ -241,21 +371,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T18:34:08Z"
-  },
-  {
-   "name": "Groovy Collectables",
-   "group": "public_buylist",
-   "city": "Regional Victoria (city not stated)",
-   "region": "VIC",
-   "website": "https://groovycollectables.com.au",
-   "buylist_url": "https://buylist.sortswift.com/?s=790c725a3625be27&source=website",
-   "national_mail_in": true,
-   "credit_bonus": "'a bit extra' for store credit (amount not stated)",
-   "games_buys": [
-    "Pokemon (English)",
-    "Pokemon (Japanese)"
-   ],
-   "notes": "Instant online quote via SortSwift portal; post cards then paid on receipt. Buys singles, sealed, graded, collections."
   },
   {
    "name": "Mana Market",
@@ -2313,22 +2428,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T18:33:23Z"
-  },
-  {
-   "name": "Crystal collectables TCG",
-   "group": "unknown",
-   "city": "Hope island",
-   "region": "AU-QLD",
-   "address": "Shop 2 9 John Lund drive hope island , Hope island, AU-QLD, 4212",
-   "phone": "0407616317",
-   "website": "https://crystalcollectablestcg.com.au/",
-   "buylist_url": "https://buylist.sortswift.com/?s=14cfe0c9c39f2eda",
-   "mail_in": true,
-   "credit_bonus": "Store credit bonus conditionally offered",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-15T18:34:25Z"
   },
   {
    "name": "CTC Games",
