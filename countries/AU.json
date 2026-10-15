@@ -1,0 +1,4381 @@
+{
+ "country": "AU",
+ "currency": "AUD",
+ "updated": "2026-10-15",
+ "store_count": 301,
+ "stores": [
+  {
+   "name": "Beskar Forge Gaming",
+   "group": "feed",
+   "city": "Victoria Park",
+   "region": "AU-WA",
+   "address": "55 Washington Street, Victoria Park, WA, 6100, Australia",
+   "phone": "(08) 6285 5048",
+   "website": "https://beskarforge.com.au/",
+   "buylist_url": "https://buylist.beskarforge.com.au/",
+   "mail_in": true,
+   "credit_bonus": "20% store credit bonus",
+   "games_events": [
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "One Piece",
+    "Riftbound",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T18:33:14Z"
+  },
+  {
+   "name": "Card House Brisbane",
+   "group": "feed",
+   "city": "Spring Hill",
+   "region": "AU-QLD",
+   "address": "Shop 2 / 169 Leichhardt St, Brisbane, QLD, 4000, AUS",
+   "phone": "+6107 3832 2230",
+   "website": "https://www.cardhouse.com.au/",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "3DZiRDwCss",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:36Z"
+  },
+  {
+   "name": "Gameology Clayton",
+   "group": "feed",
+   "city": "Clayton South",
+   "region": "AU-VIC",
+   "address": "10-12 Eileen Rd Clayton South, Clayton South, AU-VIC, 3169",
+   "phone": "0390686040",
+   "website": "https://www.gameology.com.au/",
+   "buylist_url": "https://www.gameology.com.au/pages/selling-single-cards",
+   "games_events": [
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "Lorcana",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "One Piece",
+    "Pokemon",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Inn Games",
+   "group": "feed",
+   "city": "Moss Vale",
+   "region": "AU-NSW",
+   "address": "16 Clarence Street, Moss Vale, AU-NSW, 2577",
+   "phone": "0248625032",
+   "website": "https://inngames.com.au",
+   "buylist_url": "https://store.storepass.co/retailer/buylist?store_id=iIsiDiIN5V",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "iIsiDiIN5V",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:20Z"
+  },
+  {
+   "name": "Plenty of Games",
+   "group": "feed",
+   "address": "Level 1 278 Collins Street, Melbourne, VIC, 3000, Australia",
+   "phone": "613 9913 8467",
+   "website": "https://www.plentyofgames.com.au/",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "4NYNjaf2IM",
+    "games": [
+     "One Piece",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:55Z"
+  },
+  {
+   "name": "Ronin Games Belconnen",
+   "group": "feed",
+   "city": "Belconnen",
+   "region": "AU-ACT",
+   "address": "Shop 24, 20 Benjamin Way, Belconnen, ACT, 2617, Australia",
+   "phone": "+61449972281",
+   "website": "https://roningames.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "Pokemon",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T18:33:44Z"
+  },
+  {
+   "name": "Shuffled LGS Daw Park",
+   "group": "feed",
+   "city": "Salisbury",
+   "region": "AU-SA",
+   "address": "532-542 Goodwood Rd, Daw Park, SA, 5041, Australia",
+   "phone": "610499 457 166",
+   "website": "https://shuffled.com.au/",
+   "buylist_url": "https://buylist.shuffled.com.au/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.shuffled.com.au",
+    "store_id": "WnKd2c5FmU",
+    "games": [
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "Pokemon",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T18:33:29Z"
+  },
+  {
+   "name": "The Dragon's Beard",
+   "group": "feed",
+   "address": "260 Charters Towers Rd, Hermit Park, QLD, 4812, Australia",
+   "phone": "+61480715983",
+   "website": "https://thedragonsbeard.com.au/",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "cE9AFikdEz",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:51Z"
+  },
+  {
+   "name": "Critical Hit Gaming",
+   "group": "public_buylist",
+   "city": "Melbourne, Vic",
+   "region": "AU-VIC",
+   "address": "Mez, 350 La Trobe St, Melbourne, Vic, AU-VIC, 3000",
+   "phone": "0435077349",
+   "website": "https://www.crithit.com.au/",
+   "buylist_url": "https://www.crithit.com.au/pages/buylist",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:08Z"
+  },
+  {
+   "name": "Groovy Collectables",
+   "group": "public_buylist",
+   "city": "Regional Victoria (city not stated)",
+   "region": "VIC",
+   "website": "https://groovycollectables.com.au",
+   "buylist_url": "https://buylist.sortswift.com/?s=790c725a3625be27&source=website",
+   "national_mail_in": true,
+   "credit_bonus": "'a bit extra' for store credit (amount not stated)",
+   "games_buys": [
+    "Pokemon (English)",
+    "Pokemon (Japanese)"
+   ],
+   "notes": "Instant online quote via SortSwift portal; post cards then paid on receipt. Buys singles, sealed, graded, collections."
+  },
+  {
+   "name": "Mana Market",
+   "group": "public_buylist",
+   "city": "Southport",
+   "region": "AU-QLD",
+   "address": "Shop 8/501 Olsen Avenue , Southport, QLD, 4215, AU",
+   "phone": "617 5625 2777",
+   "website": "https://manamarket.com.au/",
+   "buylist_url": "https://buylist.manamarket.com.au",
+   "mail_in": true,
+   "credit_bonus": "15% credit bonus",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:07Z"
+  },
+  {
+   "name": "Playmantis",
+   "group": "public_buylist",
+   "address": "Unit 7/461 Ipswich Rd, Annerley, QLD, 4103, Australia",
+   "phone": "61361853591",
+   "website": "https://playmantis.com.au/",
+   "buylist_url": "https://playmantis.com.au/collections/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:39Z"
+  },
+  {
+   "name": "Ronin Games",
+   "group": "public_buylist",
+   "city": "Belconnen (Canberra)",
+   "region": "ACT",
+   "website": "Unknown",
+   "national_mail_in": true,
+   "credit_bonus": "Bulk $0.50/100 cash or $0.70/100 credit; sealed Pokemon 70% cash/80% credit",
+   "games_buys": [
+    "Pokemon",
+    "Magic: The Gathering"
+   ],
+   "notes": "Third-party summary only (cardtracker.au): fill buylist, wait for approval, then bring or post. Website not located; verify."
+  },
+  {
+   "name": "SPELLROO GAMING",
+   "group": "public_buylist",
+   "city": "Concord West",
+   "region": "AU-NSW",
+   "address": "327 Concord Rd, Concord West, NSW, 2138, Australia",
+   "phone": "0238137779",
+   "website": "https://spellroogaming.com.au/",
+   "buylist_url": "https://buylist.spellroogaming.com.au",
+   "mail_in": true,
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:27Z"
+  },
+  {
+   "name": "TCG Singles (Unplugged Games)",
+   "group": "public_buylist",
+   "city": "Lismore",
+   "region": "NSW",
+   "website": "https://tcgsingles.com.au",
+   "buylist_url": "https://tcgsingles.com.au/pages/buylist-terms-information",
+   "national_mail_in": true,
+   "credit_bonus": "Store credit auto-applied (no % found)",
+   "games_buys": [
+    "Magic: The Gathering",
+    "Pokemon",
+    "Flesh and Blood"
+   ],
+   "notes": "Post to Unplugged Games ATTN: Buylist, Shop 3, 132 Dawson St Lismore NSW 2480 after confirmation email. No foreign language, played or signed cards."
+  },
+  {
+   "name": "The Games Cube",
+   "group": "public_buylist",
+   "city": "Parramatta",
+   "region": "AU-NSW",
+   "address": "16 Hunter St, Parramatta, NSW, 2150, Australia",
+   "phone": "610404 670 288",
+   "website": "https://www.thegamescube.com/",
+   "buylist_url": "https://www.thegamescube.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "Bonus available",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:35Z"
+  },
+  {
+   "name": "Vault Games (Vault Singles)",
+   "group": "public_buylist",
+   "city": "Brisbane",
+   "region": "QLD",
+   "website": "https://singles.vaultgames.com.au",
+   "buylist_url": "https://singles.vaultgames.com.au/pages/buylist-policy-faq",
+   "national_mail_in": true,
+   "games_buys": [
+    "Magic: The Gathering",
+    "Yu-Gi-Oh!",
+    "Flesh and Blood"
+   ],
+   "notes": "Could not fetch site directly (TLS handshake failure from this machine); facts from search snippets: mail or in-store drop-off, singles team grades and adjusts via email. Verify before use."
+  },
+  {
+   "name": "Aether Wyvern Games",
+   "group": "login_required",
+   "city": "Morwell",
+   "region": "AU-VIC",
+   "address": "Shop 7&8, 16-18 Church St, Morwell, AU-VIC, 3840",
+   "phone": "0341200822",
+   "website": "https://awgames.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:15Z"
+  },
+  {
+   "name": "Dragons Lair Hobbies and Gaming (Edwardstown)",
+   "group": "login_required",
+   "address": "30 Furness Ave, Edwardstown, SA, 5039, Australia",
+   "phone": "610404714805",
+   "website": "https://dragonslair.au",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:31Z"
+  },
+  {
+   "name": "Duellers Den",
+   "group": "login_required",
+   "address": "2/36 Tapleys Hill Rd, Royal Park, SA, 5014, AU",
+   "phone": "61458587205",
+   "website": "https://duellersden.com.au/password",
+   "buylist_url": "https://duellersden.com.au/password",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:35Z"
+  },
+  {
+   "name": "Elemental Arcade",
+   "group": "login_required",
+   "city": "Gosford",
+   "region": "AU-NSW",
+   "address": "190 Mann St, Gosford , NSW, 2250, Australia",
+   "phone": "610458956999",
+   "website": "https://elementalarcade.com.au",
+   "buylist_url": "https://elementalarcade.com.au/pages/selling-tcg-singles-with-elemental-arcade",
+   "mail_in": true,
+   "credit_bonus": "10% bonus credit on most-wanted cards",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:48Z"
+  },
+  {
+   "name": "From The Deep Games",
+   "group": "login_required",
+   "city": "Penrith",
+   "region": "AU-NSW",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+61) 2 4731 3894",
+   "website": "https://fromthedeepgames.com.au/",
+   "buylist_url": "https://fromthedeepgames.com.au/blogs/news/notes-about-our-mtg-buylist",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:45Z"
+  },
+  {
+   "name": "Games Portal",
+   "group": "login_required",
+   "city": "Mitcham",
+   "region": "AU-VIC",
+   "address": "1-5 Station St, Mitcham, VIC, 3132, Australia",
+   "phone": "+61398700025",
+   "website": "https://gamesportal.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:21Z"
+  },
+  {
+   "name": "Gametraders Mt Gravatt",
+   "group": "login_required",
+   "city": "Brisbane",
+   "region": "AU-QLD",
+   "address": "Shop 2053 Westfield Shopping Centre, Upper Mount Gravatt, QLD, 4122, Australia",
+   "phone": "61432278701",
+   "website": "https://www.gametraderschermside.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:42Z"
+  },
+  {
+   "name": "Good Games (TCG online)",
+   "group": "login_required",
+   "city": "Parramatta (HQ/mailing)",
+   "region": "NSW",
+   "website": "https://tcg.goodgames.com.au",
+   "buylist_url": "https://tcg.goodgames.com.au/pages/singles-buylist",
+   "national_mail_in": true,
+   "credit_bonus": "Store credit pays more than cash (no % found)",
+   "games_buys": [
+    "Magic: The Gathering",
+    "Pokemon",
+    "Flesh and Blood",
+    "One Piece"
+   ],
+   "notes": "National chain. Online BinderPOS buylist requires account login. Also in-store kiosks at many stores. Riftbound selling is in-store only at ~10 stores (not online as of Apr 2026). Lorcana mentioned by third parties only. Contact buying@goodgames.com.au."
+  },
+  {
+   "name": "Good Games Morley",
+   "group": "login_required",
+   "city": "Perth",
+   "region": "AU-WA",
+   "address": "1/154 Russell St, Morley, WA, 6062, Australia",
+   "phone": "6108 9375 1416",
+   "website": "https://goodgamesmorley.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:11Z"
+  },
+  {
+   "name": "GUF Werribee",
+   "group": "login_required",
+   "city": "Ballarat",
+   "region": "AU-VIC",
+   "address": "2/86 Cottrell St, Werribee, VIC, 3030, Australia",
+   "phone": "103 9731 7363",
+   "website": "https://guf.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:26Z"
+  },
+  {
+   "name": "Hogan's Hobbies",
+   "group": "login_required",
+   "city": "Kalgoorlie",
+   "region": "AU-WA",
+   "address": "202 Hannan Street, Kalgoorlie, AU-WA, 6430",
+   "phone": "0477960801",
+   "website": "https://www.hoganshobbies.com.au",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:43Z"
+  },
+  {
+   "name": "Mayhem Collectables",
+   "group": "login_required",
+   "city": "Norwood",
+   "region": "AU-SA",
+   "address": "92 The Parade, Norwood, SA, 5067, Australia",
+   "phone": "610870817920",
+   "website": "https://www.mayhemcollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:29Z"
+  },
+  {
+   "name": "Pro GamerS and Collectables",
+   "group": "login_required",
+   "city": "Ravenhall",
+   "region": "AU-VIC",
+   "address": "Shop 14/8-10 Vanessa Dr, Ravenhall, VIC, 3023, Australia",
+   "phone": "61(03) 8358 4899",
+   "website": "https://progamers.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:20Z"
+  },
+  {
+   "name": "Rhystic Nostalgia Gaming",
+   "group": "login_required",
+   "city": "Ormond",
+   "region": "AU-VIC",
+   "address": "Unit 2, 433 North Road, Ormond, VIC, 3204, Australia",
+   "phone": "+61385253293",
+   "website": "https://rhysticnostalgiagaming.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:12Z"
+  },
+  {
+   "name": "The Adventurers Guild",
+   "group": "login_required",
+   "address": "Shop 17/67-69 GEORGE ST, Beenleigh, QLD, 4207, Australia",
+   "phone": "+61422899765",
+   "website": "https://www.theadventurersguild.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:56Z"
+  },
+  {
+   "name": "The Games District",
+   "group": "login_required",
+   "city": "Airport West",
+   "region": "AU-VIC",
+   "address": "Unit 2/55 Parer Rd, Airport West, VIC, 3042, AU",
+   "phone": "+61421499365",
+   "website": "https://thegamesdistrict.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:12Z"
+  },
+  {
+   "name": "The Hall of Heroes",
+   "group": "login_required",
+   "city": "Campbelltown NSW",
+   "region": "AU-NSW",
+   "address": "Shop 4, 11 Downtown Plaza, Campbelltown, NSW, 2560, Australia",
+   "phone": "61(02) 4625 8020",
+   "website": "https://thehallofheroes.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:42Z"
+  },
+  {
+   "name": "Top Deck Games",
+   "group": "login_required",
+   "city": "Footscray",
+   "region": "AU-VIC",
+   "address": "Unit 3, 85 Paisley St, Footscray, AU-VIC, 3011",
+   "phone": "0385939468",
+   "website": "https://topdeckgames.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:58Z"
+  },
+  {
+   "name": "88 Games Arena",
+   "group": "quote_only",
+   "city": "Canterbury",
+   "region": "AU-NSW",
+   "address": "Shop 3/333 Canterbury Rd, Canterbury, NSW, 2193, AU",
+   "phone": "61450924252",
+   "website": "https://www.88gamesarena.com.au/",
+   "buylist_url": "https://www.88gamesarena.com.au/pages/buylist-terms",
+   "mail_in": true,
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:26Z"
+  },
+  {
+   "name": "AW Collectibles",
+   "group": "quote_only",
+   "address": "33-47 Hollywell Rd, Gold Coast, QLD, 4216, AU",
+   "phone": "+610422468097",
+   "website": "https://www.awcollectibles.com.au",
+   "buylist_url": "https://www.goodgames.com.au/",
+   "mail_in": true,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:06Z"
+  },
+  {
+   "name": "Black Crown Cards",
+   "group": "quote_only",
+   "website": "Unknown",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Search-snippet only (valuation from photos/rough list within 24h, prepaid shipping or pickup). Own site not located or verified."
+  },
+  {
+   "name": "Blacklist Cards and Collectables",
+   "group": "quote_only",
+   "city": "Thomastown",
+   "region": "AU-VIC",
+   "address": "4 Prime Street, Thomastown, VIC, 3074, Australia",
+   "phone": "+610494 124 617",
+   "website": "https://blacklistcards.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:16Z"
+  },
+  {
+   "name": "Card X Collectables",
+   "group": "quote_only",
+   "city": "Adelaide",
+   "region": "AU-SA",
+   "address": "12 Charles St, Adelaide, SA, 5000, Australia",
+   "phone": "61421414452",
+   "website": "https://www.cxcollectables.com.au/",
+   "buylist_url": "https://www.cxcollectables.com.au/pages/sell-to-us",
+   "mail_in": true,
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:29Z"
+  },
+  {
+   "name": "Cardz Mate",
+   "group": "quote_only",
+   "city": "Kilkenny",
+   "region": "AU-SA",
+   "address": "Shop 4 433 Torrens Road, Kilkenny, AU-SA, 5009",
+   "phone": "0478062798",
+   "website": "https://www.cardzmate.com.au",
+   "buylist_url": "https://www.cardzmate.com.au/pages/sell-to-us",
+   "mail_in": true,
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:27Z"
+  },
+  {
+   "name": "Chaotic Factory",
+   "group": "quote_only",
+   "city": "Springvale",
+   "region": "VIC",
+   "website": "https://www.chaoticfactory.com.au",
+   "buylist_url": "https://www.chaoticfactory.com.au/sell-to-us",
+   "national_mail_in": true,
+   "credit_bonus": "+15% store credit (stated)",
+   "games_buys": [
+    "Pokemon",
+    "Yu-Gi-Oh!"
+   ],
+   "notes": "Contact with images; published bulk rates (e.g. sealed, PSA 8+ $28 each). No bulk from outside Australia. Mail to PO Box 868 Springvale South VIC 3172."
+  },
+  {
+   "name": "Decked Out Gaming",
+   "group": "quote_only",
+   "city": "Brookvale",
+   "region": "AU-NSW",
+   "address": "Level 1/722 Pittwater Road, Brookvale, NSW, 2100, Australia",
+   "phone": "61(02) 9939 3562",
+   "website": "https://www.deckedoutgaming.com/",
+   "buylist_url": "https://www.deckedoutgaming.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "20% bonus on cash value as store credit",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:27Z"
+  },
+  {
+   "name": "Dog House Collectables",
+   "group": "quote_only",
+   "city": "Underwood",
+   "region": "AU-QLD",
+   "address": "1/2902 Logan Rd, Brisbane, QLD, 4119, AUS",
+   "phone": "61421799652",
+   "website": "https://doghousecollectables.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:48Z"
+  },
+  {
+   "name": "HOKO Collectables",
+   "group": "quote_only",
+   "city": "Regional Victoria (city not stated)",
+   "region": "VIC",
+   "website": "https://www.hokocollectables.com",
+   "buylist_url": "https://www.hokocollectables.com/pages/sell-your-cards",
+   "national_mail_in": true,
+   "credit_bonus": "+5% for store credit (stated)",
+   "games_buys": [
+    "Magic: The Gathering",
+    "Pokemon",
+    "One Piece",
+    "Disney Lorcana",
+    "Gundam",
+    "Dragon Ball Super"
+   ],
+   "notes": "Quote form, itemised offer in 1-2 business days; /pages/buy-prices publishes % of eBay sold (sealed 70-85%, premium singles 70-80%, graded 60-70%). PSA/BGS/CGC only. Also consignment (seller keeps 70%)."
+  },
+  {
+   "name": "LMA CARDS",
+   "group": "quote_only",
+   "city": "Dandenong",
+   "region": "AU-VIC",
+   "address": "16 Sunnyside Ave, Dandenong, AU-VIC, 3175",
+   "phone": "0439328995",
+   "website": "https://www.lmacards.com.au",
+   "buylist_url": "https://www.lmacards.com.au/pages/sell-your-cards",
+   "mail_in": true,
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:27Z"
+  },
+  {
+   "name": "Luna Cards Abbotsford",
+   "group": "quote_only",
+   "city": "Abbotsford",
+   "region": "AU-VIC",
+   "address": "383 Johnston St, Abbotsford, VIC, 3067, AU",
+   "phone": "+610407995678",
+   "website": "https://www.lunacards.com.au/",
+   "buylist_url": "https://www.lunacards.com.au/pages/sell-to-us",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:04Z"
+  },
+  {
+   "name": "Monster Mart",
+   "group": "quote_only",
+   "city": "Norman Park (Brisbane)",
+   "region": "QLD",
+   "website": "https://www.monstermart.com.au",
+   "buylist_url": "https://www.monstermart.com.au/pages/sell-your-cards",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Quote by sharing a Collectr portfolio link; Australian residents only, NM/M only, ID and mobile verification before payment."
+  },
+  {
+   "name": "Neon Skies",
+   "group": "quote_only",
+   "city": "katoomba",
+   "region": "AU-NSW",
+   "address": "194, katoomba, AU-NSW, 2780",
+   "phone": "0407158529",
+   "website": "https://www.neonskies.com.au/",
+   "buylist_url": "https://www.neonskies.com.au/pages/sell-to-us",
+   "mail_in": true,
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:38Z"
+  },
+  {
+   "name": "Northern beaches trading cards",
+   "group": "quote_only",
+   "city": "Dee why",
+   "region": "AU-NSW",
+   "address": "suite 6, 2A Redman Road , Dee why, AU-NSW, 2099",
+   "phone": "0299722211",
+   "website": "https://northernbeachespokemon.com.au/",
+   "buylist_url": "https://northernbeachespokemon.com.au/sell-pokemon-cards-sydney/",
+   "mail_in": true,
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:17Z"
+  },
+  {
+   "name": "Onestoppokeshop",
+   "group": "quote_only",
+   "city": "North Willoughby",
+   "region": "AU-NSW",
+   "address": "Suite 303 (level 2), 354 Eastern Valley Way, Chatswood 2067, North Willoughby, AU-NSW, 2067",
+   "phone": "0281887528",
+   "website": "https://onestoppokeshop.com.au/",
+   "buylist_url": "https://onestoppokeshop.com.au/pages/sell",
+   "mail_in": true,
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:40Z"
+  },
+  {
+   "name": "The Kave Collection",
+   "group": "quote_only",
+   "address": "79 Warrigal Rd, Hughesdale, VIC, 3166, Australia",
+   "phone": "61466782009",
+   "website": "https://www.thekavecollection.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:15Z"
+  },
+  {
+   "name": "Troll Australia",
+   "group": "quote_only",
+   "city": "Brompton",
+   "region": "SA",
+   "website": "https://www.trollaustralia.com.au",
+   "buylist_url": "https://trollaustraliabuylist.com.au/",
+   "national_mail_in": true,
+   "credit_bonus": "Bonus on store credit (amount not stated)",
+   "games_buys": [
+    "Pokemon (English)",
+    "Pokemon (Japanese)"
+   ],
+   "notes": "Page describes email/contact-form quote then mail-in; also links an external buylist portal trollaustraliabuylist.com.au (not reachable from this machine). Buys singles, sealed, graded, bulk, collections."
+  },
+  {
+   "name": "Urban Empire Collectables pty ltd",
+   "group": "quote_only",
+   "address": "4/2 Templar Pl, Bennetts Green, NSW, 2290, AUS",
+   "phone": "+61240492264",
+   "website": "https://urbanempirecollectables.com/pages/magic-the-gathering",
+   "buylist_url": "https://urbanempirecollectables.com/pages/pages-sell-pokemon-nba-nfl-cards",
+   "mail_in": true,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:46Z"
+  },
+  {
+   "name": "Alternate Worlds",
+   "group": "blocked",
+   "city": "Bayswater",
+   "region": "AU-VIC",
+   "address": "Unit 11/13 Malvern Street, Bayswater, Bayswater, AU-VIC, 3153",
+   "phone": "0397382662",
+   "website": "http://alternateworlds.com.au",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:23Z"
+  },
+  {
+   "name": "CardPlus TCG & Collectibles",
+   "group": "blocked",
+   "city": "Chatswood",
+   "region": "AU-NSW",
+   "address": "Shop 16A 369 Victoria Ave, Chatswood, AU-NSW, 2067",
+   "phone": "0278138961",
+   "website": "http://www.cardplustcg.com",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:21Z"
+  },
+  {
+   "name": "Critical Hit",
+   "group": "blocked",
+   "address": "Mez/350 La Trobe St, Melbourne, VIC, 3000, Australia",
+   "phone": "0435077349",
+   "website": "https://criticalhit.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:02Z"
+  },
+  {
+   "name": "EB Games Sydney",
+   "group": "blocked",
+   "address": "Shop LG19 Westfield Sydney 1/ 188 Pitt St, Sydney, NSW, 2000, AU",
+   "phone": "61(02) 9223 7285",
+   "website": "https://www.ebgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Grand J Games",
+   "group": "blocked",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "720 Mt Alexander Rd, Moonee Ponds, VIC, 3039, Australia",
+   "phone": "610452105124",
+   "website": "https://grandjgames.com",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:05Z"
+  },
+  {
+   "name": "Hobby Lords Frankston",
+   "group": "blocked",
+   "address": "9 Station St, Frankston, VIC, 3199, AUS",
+   "phone": "+610427171185",
+   "website": "https://hobbylords.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:30Z"
+  },
+  {
+   "name": "More Than Meeples",
+   "group": "blocked",
+   "address": "17C/455 Brunswick St, Fortitude Valley, QLD, 4006, Australia",
+   "phone": "611300564059",
+   "website": "https://morethanmeeples.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:37Z"
+  },
+  {
+   "name": "MTG MATE",
+   "group": "blocked",
+   "address": "5 Ashtan Pl, Banyo, QLD, 4014, Australia",
+   "phone": "610468462836",
+   "website": "https://www.mtgmate.com.au/pages/event-centre",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:42Z"
+  },
+  {
+   "name": "Nerd Alert Collectables",
+   "group": "blocked",
+   "city": "North Rocks",
+   "region": "AU-NSW",
+   "address": "Shop 11 / 328-336 North Rocks Road, North Rocks Shopping Centre, North Rocks, AU-NSW, 2151",
+   "phone": "0448195327",
+   "website": "https://nerdalertcollectables.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:27Z"
+  },
+  {
+   "name": "Sugo Toys TCG",
+   "group": "blocked",
+   "city": "Sydney Hurstville",
+   "region": "AU-NSW",
+   "address": "Shop 1, 7 Barratt St, Sydney Hurstville, AU-NSW, 2220",
+   "phone": "0283185900",
+   "website": "https://sugotoys.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:03Z"
+  },
+  {
+   "name": "The Gamesmen",
+   "group": "blocked",
+   "address": "491 Forest Rd, Penshurst, NSW, 2222, Australia",
+   "phone": "61295809888",
+   "website": "https://www.gamesmen.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:32Z"
+  },
+  {
+   "name": "[“GATE KEEPERS”]",
+   "group": "in_store",
+   "city": "Brisbane",
+   "region": "AU-QLD",
+   "address": "shop 2/48 bloomfield street cleveland, Brisbane, AU-QLD, 4163",
+   "phone": "0422790089",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:26Z"
+  },
+  {
+   "name": "AJAY's",
+   "group": "in_store",
+   "city": "Mildura",
+   "region": "AU-VIC",
+   "address": "AJAYS SHOP, 54 Tenth Street, Mildura, AU-VIC, 3500",
+   "phone": "0457045787",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "Alliance Games",
+   "group": "in_store",
+   "city": "Kingsford",
+   "region": "AU-NSW",
+   "address": "398 Anzac Parade, Kingsford, NSW, 2032, Australia",
+   "phone": "020280959566",
+   "website": "https://www.facebook.com/AGamesKingsford/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Battlestation",
+   "group": "in_store",
+   "city": "Toowoomba",
+   "region": "AU-QLD",
+   "address": "411 Ruthven Street, Toowoomba, AU-QLD, 4350",
+   "phone": "0439359614",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Black and White Collectibles",
+   "group": "in_store",
+   "city": "Geelong",
+   "region": "AU-VIC",
+   "address": "24 Ryrie Street , Geelong, AU-VIC, 3220",
+   "phone": "6149803420",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Card Konbini - Ashfield",
+   "group": "in_store",
+   "city": "Ashfield",
+   "region": "AU-NSW",
+   "address": "1/232 Liverpool Road, Ashfield, AU-NSW, 2131",
+   "phone": "0481330398",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:48Z"
+  },
+  {
+   "name": "CardTastic Collectables and Gaming",
+   "group": "in_store",
+   "city": "CLAYTON",
+   "region": "AU-VIC",
+   "address": "38B Scotsburn Ave., CLAYTON, AU-VIC, 3162",
+   "phone": "85103571",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:03Z"
+  },
+  {
+   "name": "Cardtastic Collectibles",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "03 8510 3571",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:17Z"
+  },
+  {
+   "name": "Cherry Collectables",
+   "group": "in_store",
+   "city": "West Melbourne",
+   "region": "AU-VIC",
+   "address": "115 Batman St, West Melbourne, AU-VIC, 3003",
+   "phone": "61432555657",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:25Z"
+  },
+  {
+   "name": "Comics Plus",
+   "group": "in_store",
+   "city": "Annerley",
+   "region": "AU-QLD",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "07 3848 7362",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:39Z"
+  },
+  {
+   "name": "Craiola's",
+   "group": "in_store",
+   "city": "Mount Gambier",
+   "region": "AU-SA",
+   "address": "129 Commercial Street West , Mount Gambier, AU-SA, 5290",
+   "phone": "0484920270",
+   "games_events": [
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Dan Solo Comics and Collectables",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "61 (036) 278-9556",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:50Z"
+  },
+  {
+   "name": "Devitt Collectables",
+   "group": "in_store",
+   "city": "Sydney",
+   "region": "AU-NSW",
+   "address": "422 Kent St, Sydney, AU-NSW, 2000",
+   "phone": "0460780904",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:26Z"
+  },
+  {
+   "name": "DICE INN Boardgames",
+   "group": "in_store",
+   "city": "sydney",
+   "region": "AU-NSW",
+   "address": "602, 630 george st, sydney, AU-NSW, 2000",
+   "phone": "0431884538",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Dungeon of Magic",
+   "group": "in_store",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Basement Royal Acde 335 Bourke St, Melbourne, VIC, 3000, Australia",
+   "phone": "+61396505815",
+   "website": "https://www.dungeonofmagic.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:00Z"
+  },
+  {
+   "name": "ELVT ANIME KAIKA",
+   "group": "in_store",
+   "city": "Burwood Sydney",
+   "region": "AU-NSW",
+   "address": "52 Burwood Road ,Burwood , Burwood Sydney, AU-NSW, 2134",
+   "phone": "0451535009",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:08Z"
+  },
+  {
+   "name": "FRANKC COLLECTABLE CARDS",
+   "group": "in_store",
+   "city": "CAMDEN",
+   "region": "AU-NSW",
+   "address": "1/3 IRONBARK AVE, CAMDEN, AU-NSW, 2570",
+   "phone": "0423808240",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:08Z"
+  },
+  {
+   "name": "Games Empire",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "02 8850 6226",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:42Z"
+  },
+  {
+   "name": "Gametraders Chermside",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "07 3861 5000",
+   "website": "https://www.gametraders.com.au",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:41Z"
+  },
+  {
+   "name": "Gametraders Seaford",
+   "group": "in_store",
+   "city": "Noarlunga",
+   "region": "AU-SA",
+   "address": "Shop 113 Beach Rd, Seaford, SA, 5169, AU",
+   "phone": "61(08) 8327 2227",
+   "website": "https://gametradersseaford.com.au",
+   "buylist_url": "https://gametradersseaford.com.au/pages/tcg-trade-ins",
+   "mail_in": false,
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:38Z"
+  },
+  {
+   "name": "Gaming Nexus",
+   "group": "in_store",
+   "city": "Mount Gambier",
+   "region": "AU-SA",
+   "address": "99 commercial Street west, Mount Gambier, AU-SA, 5290",
+   "phone": "0455900468",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Good Games Ballarat",
+   "group": "in_store",
+   "city": "Ballarat",
+   "region": "AU-VIC",
+   "address": "416 Sturt Street, Ballarat, AU-VIC, 3350",
+   "phone": "0353322908",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:32Z"
+  },
+  {
+   "name": "Good Games Fraser Coast",
+   "group": "in_store",
+   "city": "Pialba",
+   "region": "AU-QLD",
+   "address": "Shop 2 63 Old Maryborough Road, Pialba, AU-QLD, 4655",
+   "phone": "0413204572",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "Good Games Greensborough",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "61 (043) 085-1108",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:18Z"
+  },
+  {
+   "name": "Good Games Robina Town Centre",
+   "group": "in_store",
+   "city": "Robina",
+   "region": "AU-QLD",
+   "address": "Shop 5059 Robina Town Centre, Robina, AU-QLD, 4226",
+   "phone": "0755514832",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "GUF Bendigo",
+   "group": "in_store",
+   "city": "Bendigo",
+   "region": "AU-VIC",
+   "address": "346 Hargreaves St, Bendigo, AU-VIC, 3550",
+   "phone": "0402538723",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:19Z"
+  },
+  {
+   "name": "Hobby Forge FNQ",
+   "group": "in_store",
+   "city": "Smithfield",
+   "region": "AU-QLD",
+   "address": "Shop 36/5 - 21 Faculty close, Smithfield, AU-QLD, 4878",
+   "phone": "0740412378",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Legends and Collectables",
+   "group": "in_store",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Unit 9 / 44 Hampstead Road, Melbourne, AU-VIC, 3012",
+   "phone": "93177945",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:58Z"
+  },
+  {
+   "name": "Magoobie Games",
+   "group": "in_store",
+   "city": "Alice Springs",
+   "region": "AU-NT",
+   "address": "Shop 8 Diarama Village, Alice Springs, AU-NT, 0870",
+   "phone": "0418218119",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "Maze of Fitzroy by Tabernacle Games",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(03) 9482 5767",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:05Z"
+  },
+  {
+   "name": "MSE TCG",
+   "group": "in_store",
+   "city": "Boxhill",
+   "region": "AU-VIC",
+   "address": "Level 1,15-17 Prospect St, Boxhill, AU-VIC, 3128",
+   "phone": "0407662199",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Nexus Games",
+   "group": "in_store",
+   "city": "Brisbane",
+   "region": "AU-QLD",
+   "address": "373 Chatswood Road, Shailer Park, Brisbane, AU-QLD, 4128",
+   "phone": "0423884428",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:08Z"
+  },
+  {
+   "name": "Nexus Games Logan",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(07) 3472 5895",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:51Z"
+  },
+  {
+   "name": "One Place Trading Card Shop",
+   "group": "in_store",
+   "city": "Port Macquarie",
+   "region": "AU-NSW",
+   "address": "3-25 Central Rd, Port Macquarie, AU-NSW, 2444",
+   "phone": "0429011245",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Paper or Plastic",
+   "group": "in_store",
+   "city": "Kadina",
+   "region": "AU-SA",
+   "address": "11 Graves Street, Kadina, AU-SA, 5554",
+   "phone": "0439571095",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:31Z"
+  },
+  {
+   "name": "PokeBox",
+   "group": "in_store",
+   "city": "Pascoe Vale",
+   "region": "AU-VIC",
+   "address": "39 Essex St, Pascoe Vale, VIC, 3044, Australia",
+   "phone": "+61426500353",
+   "website": "https://www.pokebox.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:10Z"
+  },
+  {
+   "name": "pokemon store perth",
+   "group": "in_store",
+   "city": "midland",
+   "region": "AU-WA",
+   "address": "86 great northern highway, midland, AU-WA, 6056",
+   "phone": "0447175418",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:32Z"
+  },
+  {
+   "name": "Prestige Collectibles",
+   "group": "in_store",
+   "city": "Bexley",
+   "region": "AU-NSW",
+   "address": "417 Forest Road, Bexley, AU-NSW, 2207",
+   "phone": "0401220260",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:19Z"
+  },
+  {
+   "name": "Realms of Magic & Miniatures",
+   "group": "in_store",
+   "city": "Townsville",
+   "region": "AU-QLD",
+   "address": "7 castlemaine Street, Townsville, AU-QLD, 4817",
+   "phone": "0747952538",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "ROMAN'S CARD VAULT",
+   "group": "in_store",
+   "city": "FairField",
+   "region": "AU-NSW",
+   "address": "36 Dale Street Fairfield 2165 , FairField, AU-NSW, 2165",
+   "phone": "0435204475",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "Ronin Games Woden",
+   "group": "in_store",
+   "address": "Shop 1C, Upper Level, Bonner House",
+   "phone": "0451320826",
+   "website": "https://discord.gg/ndUGPXr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:43Z"
+  },
+  {
+   "name": "Ronz Cardz",
+   "group": "in_store",
+   "city": "Devonport",
+   "region": "AU-TAS",
+   "address": "Shopfront 90B Oldaker St, Devonport, AU-TAS, 7310",
+   "phone": "0497281064",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:38Z"
+  },
+  {
+   "name": "Scenic Isle Gaming",
+   "group": "in_store",
+   "city": "Launceston",
+   "region": "AU-TAS",
+   "address": "21 Yorktown Square, Business: Scenic Isle Gaming, Launceston, AU-TAS, 7250",
+   "phone": "0400450253",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "Sinister Gaming",
+   "group": "in_store",
+   "city": "Broken Hill",
+   "region": "AU-NSW",
+   "address": "170 Patton street, Broken Hill, AU-NSW, 2880",
+   "phone": "0437822242",
+   "games_events": [
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Snowpoint Collectibles",
+   "group": "in_store",
+   "city": "Homebush West",
+   "region": "AU-NSW",
+   "address": "24/16-20 Henley Road, Homebush West, AU-NSW, 2140",
+   "phone": "61475084837",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:38Z"
+  },
+  {
+   "name": "Swap Itt",
+   "group": "in_store",
+   "city": "Wollongong",
+   "region": "AU-NSW",
+   "address": "62 Burelli Street, Wollongong, AU-NSW, 2500",
+   "phone": "0415567755",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:20Z"
+  },
+  {
+   "name": "Swap Itt Melbourne pty ltd",
+   "group": "in_store",
+   "city": "west melbourne",
+   "region": "AU-VIC",
+   "address": "488 latrobe street, west melbourne, AU-VIC, 3003",
+   "phone": "0412181612",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Swap Itt Wollongong",
+   "group": "in_store",
+   "city": "Wantirna South",
+   "region": "AU-VIC",
+   "address": "62 Burelli St, Wollongong, NSW, 2500, Australia",
+   "phone": "61242635209",
+   "website": "https://www.instagram.com/swapitttt/?hl=en",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:54Z"
+  },
+  {
+   "name": "Tactics Perth",
+   "group": "in_store",
+   "address": "119 Barrack Street, Perth, WA, 6000, Australia",
+   "phone": "+61893257081",
+   "website": "https://www.tactics.net.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:12Z"
+  },
+  {
+   "name": "Team Card Titan - Game Store Gladstone",
+   "group": "in_store",
+   "city": "Gladstone",
+   "region": "AU-QLD",
+   "address": "Shop 1, 93 Goondoon Street, Gladstone, AU-QLD, 4680",
+   "phone": "0459782647",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:51Z"
+  },
+  {
+   "name": "Tempest Collectables",
+   "group": "in_store",
+   "city": "brisbane",
+   "region": "AU-QLD",
+   "address": "Shop 40 217 beams road  Taigum Square, Taigum, QLD, 4018, Australia",
+   "phone": "+61412295001",
+   "website": "https://www.tempestcollectables.com/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:46Z"
+  },
+  {
+   "name": "The Cardhub Glen Innes",
+   "group": "in_store",
+   "city": "Glen Innes",
+   "region": "AU-NSW",
+   "address": "208B Grey Street, Glen Innes, AU-NSW, 2370",
+   "phone": "0428025418",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:32Z"
+  },
+  {
+   "name": "The Deck Box",
+   "group": "in_store",
+   "city": "Winnellie",
+   "region": "AU-NT",
+   "address": "Enter Via Rear - 4/83 Coonwarra Road, Winnellie, AU-NT, 0820",
+   "phone": "0447377697",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "The Plug TCG",
+   "group": "in_store",
+   "city": "Yagoona",
+   "region": "AU-NSW",
+   "address": "442 Hume Highway , Yagoona, AU-NSW, 2199",
+   "phone": "0417964009",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:43Z"
+  },
+  {
+   "name": "Top End Trading Cards",
+   "group": "in_store",
+   "city": "Darwin",
+   "region": "AU-NT",
+   "address": "2/32 Bishop Street, Woolner, Darwin, AU-NT, 0820",
+   "phone": "0497066497",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:20Z"
+  },
+  {
+   "name": "Troll Australia Melbourne",
+   "group": "in_store",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "509 St Georges Road, Melbourne, AU-VIC, 3071",
+   "phone": "0410642080",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:26Z"
+  },
+  {
+   "name": "TWOSIDESCOLLECTABLES",
+   "group": "in_store",
+   "city": "Thornlie",
+   "region": "AU-WA",
+   "address": "shop 5/336 Spencer Road, Thornlie, AU-WA, 6108",
+   "phone": "0412724674",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Dragon’s Gate Gaming",
+   "group": "not_buying_singles",
+   "city": "Rocklea",
+   "region": "AU-QLD",
+   "address": "5A/1311 Ipswich Rd, Rocklea, QLD, 4106, Australia",
+   "phone": "61738644990",
+   "website": "https://dragonsgategaming.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:40Z"
+  },
+  {
+   "name": "WarGamers Hub",
+   "group": "not_buying_singles",
+   "address": "12/110 Morayfield Rd, Caboolture South, QLD, 4510, Australia",
+   "phone": "+61(+61) 403803341",
+   "website": "https://www.wargamershub.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:59Z"
+  },
+  {
+   "name": "Worthy Collectables",
+   "group": "not_buying_singles",
+   "city": "Mandurah",
+   "region": "AU-WA",
+   "address": "88 Pinjarra Rd, Mandurah, WA, 6210, Australia",
+   "phone": "61(08) 9535 9710",
+   "website": "https://worthycollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:22Z"
+  },
+  {
+   "name": "2S Collects Pty Ltd",
+   "group": "unknown",
+   "city": "Caboolture",
+   "region": "AU-QLD",
+   "address": "Shop 31 Caboolture Square Shopping Centre, Caboolture, QLD, 4510, Australia",
+   "phone": "610491814746",
+   "website": "https://2scollects.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:01Z"
+  },
+  {
+   "name": "Akikambara",
+   "group": "unknown",
+   "city": "Greenway",
+   "region": "AU-ACT",
+   "address": "10/175 Anketell St, Greenway, ACT, 2900, Australia",
+   "phone": "61432 990 784",
+   "website": "https://www.akicards.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:45Z"
+  },
+  {
+   "name": "Always Lucki TCG & Hobby",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Unit 3/458 Sydney Rd, Brunswick VIC 3056, Melbourne, AU-VIC, 3056",
+   "phone": "0403898090",
+   "website": "https://alwaysluckitcg.square.site/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:50Z"
+  },
+  {
+   "name": "Amazing Figures",
+   "group": "unknown",
+   "city": "Malaga",
+   "region": "AU-WA",
+   "address": "69/7 Bonner Dr, Malaga, WA, 6090, AU",
+   "phone": "61494385801",
+   "website": "https://amazingfigures.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:16Z"
+  },
+  {
+   "name": "Anime Kaika",
+   "group": "unknown",
+   "address": "52 Burwood Rd, Burwood, NSW, 2134, Australia",
+   "phone": "+61292648773",
+   "website": "https://www.kaika.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:25Z"
+  },
+  {
+   "name": "Anything Tcg",
+   "group": "unknown",
+   "city": "South Granville",
+   "region": "AU-NSW",
+   "address": "10/46 Wellington Rd , South Granville, AU-NSW, 2142",
+   "phone": "0434760364",
+   "website": "Https://www.anythingtcg.com",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:03Z"
+  },
+  {
+   "name": "Archangel Collectables",
+   "group": "unknown",
+   "city": "Revesby",
+   "region": "AU-NSW",
+   "address": "2/128 Milperra Rd, Revesby, NSW, 2212, Australia",
+   "phone": "61439458547",
+   "website": "https://www.archangelcollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:34Z"
+  },
+  {
+   "name": "Area 52",
+   "group": "unknown",
+   "city": "Hobart",
+   "region": "AU-TAS",
+   "address": "88 Elizabeth St, Hobart, TAS, 7000, Australia",
+   "phone": "61(03) 6234 2322",
+   "website": "https://www.area52.com.au/",
+   "games_events": [
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:50Z"
+  },
+  {
+   "name": "Arkhaven Games & Hobbies",
+   "group": "unknown",
+   "city": "Charlestown",
+   "region": "AU-NSW",
+   "address": "149-151 Pacific Highway, Charlestown, NSW, 2290, Australia",
+   "phone": "61(02) 4013 4600",
+   "website": "https://arkhaven.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:46Z"
+  },
+  {
+   "name": "Au Pokemon & Collectibles",
+   "group": "unknown",
+   "city": "South Morang",
+   "region": "AU-VIC",
+   "address": "Unit 35/33 Danaher Drive, South Morang, VIC, 3752, Australia",
+   "phone": "+61466106028",
+   "website": "https://www.aupokemonandcollectibles.com/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:22Z"
+  },
+  {
+   "name": "BattleCity Collectors",
+   "group": "unknown",
+   "city": "Miami",
+   "region": "AU-QLD",
+   "address": "Shop 33 1934 Gold Coast HWY, Miami, QLD, 4220, Australia",
+   "phone": "+61423203034",
+   "website": "https://www.battlecitycollectors.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:10Z"
+  },
+  {
+   "name": "Battlehall",
+   "group": "unknown",
+   "address": "Shop 13 4 Walters St, Lowood, QLD, 4311, Australia",
+   "phone": "61458763964",
+   "website": "https://www.battlehall.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:03Z"
+  },
+  {
+   "name": "Bazinga Cards, Collectibles & Arcade",
+   "group": "unknown",
+   "address": "10 Unity Way, Munno Para, SA, 5115, Australia",
+   "phone": "61407614518",
+   "website": "https://www.bazingacards.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:37Z"
+  },
+  {
+   "name": "BeachesTCG",
+   "group": "unknown",
+   "city": "Sydney",
+   "region": "AU-NSW",
+   "address": "Shop 6 12-14 Waratah St, Mona Vale, NSW, 2103, Australia",
+   "phone": "61422422276",
+   "website": "https://beachestcg.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:37Z"
+  },
+  {
+   "name": "Behold Games",
+   "group": "unknown",
+   "address": "C17/99 Jones Street, Ultimo, NSW, 2007, Australia",
+   "phone": "61283582485",
+   "website": "https://beholdgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Beyond Odyssey",
+   "group": "unknown",
+   "city": "Bunbury",
+   "region": "AU-WA",
+   "address": "2/89 Erindale Road, Balcatta, WA, 6021, Australia",
+   "phone": "61(08) 6364 0436",
+   "website": "https://www.beyondgamesandhobby.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:16Z"
+  },
+  {
+   "name": "Big Boss Collectables",
+   "group": "unknown",
+   "city": "hervey bay",
+   "region": "AU-QLD",
+   "address": "5, hervey bay, AU-QLD, 4655",
+   "phone": "0457097628",
+   "website": "https://bigbosscollectables.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:07Z"
+  },
+  {
+   "name": "Board Game Goblin",
+   "group": "unknown",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "61 (040) 061-1481",
+   "website": "https://Boardgamegoblin.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:27Z"
+  },
+  {
+   "name": "Board Games and Battlegrounds",
+   "group": "unknown",
+   "city": "Seymour",
+   "region": "AU-VIC",
+   "address": "1/115 Anzac Avenue, Seymour, AU-VIC, 3660",
+   "phone": "0357921638",
+   "website": "https://www.bgbg.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Boomerang Collectables",
+   "group": "unknown",
+   "city": "Caloundra",
+   "region": "AU-QLD",
+   "address": "1/24 Minchinton Street, Caloundra, AU-QLD, 4551",
+   "phone": "0409112466",
+   "website": "https://boomerangcollectables.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:21Z"
+  },
+  {
+   "name": "Brutal Deluxe Gaming and Collectables",
+   "group": "unknown",
+   "city": "Toowoomba",
+   "region": "AU-QLD",
+   "address": "Grand Central Shopping Center, Toowoomba, AU-QLD, 4350",
+   "phone": "0746323533",
+   "website": "https://brutaldeluxe.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:04Z"
+  },
+  {
+   "name": "Card Den",
+   "group": "unknown",
+   "city": "Ashmore",
+   "region": "AU-QLD",
+   "address": "Shop 4/28-32 Dominions Rd, Ashmore, QLD, 4214, AU",
+   "phone": "61406691180",
+   "website": "https://www.cardden.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:07Z"
+  },
+  {
+   "name": "Card Konbini - Liverpool",
+   "group": "unknown",
+   "city": "Liverpool",
+   "region": "AU-NSW",
+   "address": "5/170 George St. Liverpool NSW, Liverpool, AU-NSW, 2170",
+   "phone": "0423402848",
+   "website": "https://cardkonbini.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Card Vault Australia",
+   "group": "unknown",
+   "address": "36 Dale St, Fairfield, NSW, 2165, AU",
+   "phone": "61435204475",
+   "website": "https://cardvaultaustralia.square.site/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:39Z"
+  },
+  {
+   "name": "Cardboard Cafe",
+   "group": "unknown",
+   "address": "19/7 Packard Ave, Castle Hill, NSW, 2154, Australia",
+   "phone": "610412 799 266",
+   "website": "https://www.cardboardcafe.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:40Z"
+  },
+  {
+   "name": "CardLabs",
+   "group": "unknown",
+   "city": "Adelaide",
+   "region": "AU-SA",
+   "address": "TF4, Adelaide, AU-SA, 5000",
+   "phone": "0423402223",
+   "website": "https://www.cardlabsaus.com.au/password",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:37Z"
+  },
+  {
+   "name": "CardsRus",
+   "group": "unknown",
+   "city": "condell park",
+   "region": "AU-NSW",
+   "address": "124 (Eldridge Road), condell park, AU-NSW, 2200",
+   "phone": "0473400780",
+   "website": "https://www.cardsrus.net.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "Cartell Games",
+   "group": "unknown",
+   "address": "DFO Jindalee, Shop T57C / 16 Amazons Pl, Brisbane, QLD, 4074, AU",
+   "phone": "+610738767283",
+   "website": "https://www.cartellgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:42Z"
+  },
+  {
+   "name": "Chromatic Games",
+   "group": "unknown",
+   "address": "255A Liverpool Rd, Ashfield, NSW, 2131, AU",
+   "phone": "+61(+61) 2 8590 2789",
+   "website": "https://www.chromaticgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Collectermon",
+   "group": "unknown",
+   "city": "sydney",
+   "region": "AU-NSW",
+   "address": "68A/23-27 Macmahon St, Hurstville, NSW, 2220, Australia",
+   "phone": "61452087069",
+   "website": "https://www.collectermon.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:30Z"
+  },
+  {
+   "name": "Collectors Space",
+   "group": "unknown",
+   "city": "Pakenham",
+   "region": "AU-VIC",
+   "address": "Factory1/108 Mulcahy Rd, Pakenham, VIC, 3810, Australia",
+   "phone": "61390084554",
+   "website": "https://www.collectors-space.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:32Z"
+  },
+  {
+   "name": "Collectors Treasure",
+   "group": "unknown",
+   "address": "Shop 7/619 Old Coast Rd, Falcon, WA, 6219, Australia",
+   "phone": "61895844432",
+   "website": "https://www.collectorstreasure.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:23Z"
+  },
+  {
+   "name": "Crystal collectables TCG",
+   "group": "unknown",
+   "city": "Hope island",
+   "region": "AU-QLD",
+   "address": "Shop 2 9 John Lund drive hope island , Hope island, AU-QLD, 4212",
+   "phone": "0407616317",
+   "website": "https://crystalcollectablestcg.com.au/",
+   "buylist_url": "https://buylist.sortswift.com/?s=14cfe0c9c39f2eda",
+   "mail_in": true,
+   "credit_bonus": "Store credit bonus conditionally offered",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:25Z"
+  },
+  {
+   "name": "CTC Games",
+   "group": "unknown",
+   "city": "Sumner",
+   "region": "AU-QLD",
+   "address": "9/49 Jijaws St, Sumner, QLD, 4074, Australia",
+   "phone": "+61434975644",
+   "website": "https://www.ctcgames.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:45Z"
+  },
+  {
+   "name": "Dark wolf collectibles pty ltd",
+   "group": "unknown",
+   "city": "Burpengary",
+   "region": "AU-QLD",
+   "address": "6/171 station road, Burpengary, AU-QLD, 4505",
+   "phone": "0401263465",
+   "website": "https://darkwolfcollectibles.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "DeckaDice",
+   "group": "unknown",
+   "city": "Mackay",
+   "region": "AU-QLD",
+   "address": "Shop A, 75 Victoria Street, Mackay, Mackay, AU-QLD, 4740",
+   "phone": "0748981090",
+   "website": "https://www.deckadice.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "Diablo's Vault",
+   "group": "unknown",
+   "city": "Perth",
+   "region": "AU-WA",
+   "address": "Shop 69 Armadale Central Shopping Centre, Armadale, WA, 6112, Australia",
+   "phone": "+61+61893939227",
+   "website": "https://www.diablosvault.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:19Z"
+  },
+  {
+   "name": "Dice Arcade",
+   "group": "unknown",
+   "address": "591 Kingsway, Miranda, NSW, 2228, Australia",
+   "phone": "+610285813321",
+   "website": "https://www.dicearcade.com.au/?srsltid=AfmBOor3O1QbbwqtyCD77l_O6XnCWLIYIUR-_a6RNRb3R3t04md8kOiq",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:36Z"
+  },
+  {
+   "name": "DICE Collectables",
+   "group": "unknown",
+   "city": "Hobart",
+   "region": "AU-TAS",
+   "address": "42 Murray St, Hobart, TAS, 7000, Australia",
+   "phone": "61460293729",
+   "website": "https://www.dicecollectables.com/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:50Z"
+  },
+  {
+   "name": "Diggaz Trading Cards",
+   "group": "unknown",
+   "city": "Jamisontown",
+   "region": "AU-NSW",
+   "address": "Shop 5 & 6 109-127 Batt St, Jamisontown, NSW, 2750, Australia",
+   "phone": "61402543955",
+   "website": "https://www.diggaztradingcards.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:46Z"
+  },
+  {
+   "name": "Dorky Desires",
+   "group": "unknown",
+   "city": "Springwood",
+   "region": "AU-QLD",
+   "address": "3-15 Dennis Road, Springwood, Springwood, QLD, 4127, Australia",
+   "phone": "+61450715163",
+   "website": "https://www.dorkydesires.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:47Z"
+  },
+  {
+   "name": "Dream Collectables",
+   "group": "unknown",
+   "address": "Shop 3107/425 Burwood Hwy, Wantirna South, VIC, 3152, Australia",
+   "phone": "61403188881",
+   "website": "https://www.dreamcollectables.com.au",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:22Z"
+  },
+  {
+   "name": "EPIC Ipswich",
+   "group": "unknown",
+   "city": "Ipswich",
+   "region": "AU-QLD",
+   "address": "Shop 3/21 Brisbane Street, Ipswich, QLD, 4305, Australia",
+   "phone": "61 (07) 3143 3545",
+   "website": "https://www.epicipswich.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:54Z"
+  },
+  {
+   "name": "Everson Emporium",
+   "group": "unknown",
+   "address": "Shop 3-4/176 Glebe Rd, Booval, QLD, 4304, AU",
+   "phone": "+61732820812",
+   "website": "https://eetcg.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:52Z"
+  },
+  {
+   "name": "Evo Games Springfield",
+   "group": "unknown",
+   "city": "Ipswich",
+   "region": "AU-QLD",
+   "address": "Shop 1.16A/1 Main St,, Springfield Central, QLD, 4306, AU",
+   "phone": "+610402738027",
+   "website": "https://www.evogames.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:51Z"
+  },
+  {
+   "name": "FastBreak Cards & Collectables",
+   "group": "unknown",
+   "city": "Aldinga Beach",
+   "region": "AU-SA",
+   "address": "Shop 52/1 Pridham Blvd, Aldinga Beach, SA, 5173, Australia",
+   "phone": "+61000000000",
+   "website": "https://fastbreakcollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:40Z"
+  },
+  {
+   "name": "First Games Maroubra",
+   "group": "unknown",
+   "city": "Maroubra",
+   "region": "AU-NSW",
+   "address": "Level 1, 830 Anzac Parade, Maroubra, NSW, 2035, Australia",
+   "phone": "+61420532637",
+   "website": "https://firstgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:24Z"
+  },
+  {
+   "name": "FLAGSHIP TCG",
+   "group": "unknown",
+   "city": "ROSEBUD",
+   "region": "AU-VIC",
+   "address": "22 Merino St, Rosebud, VIC, 3939, AUS",
+   "phone": "61411143367",
+   "website": "https://flagshiptcg.square.site/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:34Z"
+  },
+  {
+   "name": "Flinch Coffee & Play",
+   "group": "unknown",
+   "city": "Thornbury",
+   "region": "AU-VIC",
+   "address": "560 High St, Thornbury, VIC, 3071, AU",
+   "phone": "+61493768308",
+   "website": "https://flinchcoffeeplay.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:06Z"
+  },
+  {
+   "name": "Fluke And Box",
+   "group": "unknown",
+   "city": "Springwood",
+   "region": "AU-NSW",
+   "address": "Shop 3 / 5 Raymond Road, Springwood, NSW, 2777, Australia",
+   "phone": "+61431095206",
+   "website": "https://www.flukeandbox.com/",
+   "buylist_url": "https://buylist.flukeandbox.com",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:51Z"
+  },
+  {
+   "name": "Fortress Games Sydney",
+   "group": "unknown",
+   "address": "28 Broadway / Level 2, Sydney, NSW, 2008, AU",
+   "phone": "+61(03) 9606 8800",
+   "website": "https://fortress.games/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Franks collectable cards",
+   "group": "unknown",
+   "address": "3 Ironbark Ave, Sydney, NSW, 2570, AUS",
+   "phone": "+610423808240",
+   "website": "https://frankscollectablecards.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:48Z"
+  },
+  {
+   "name": "Full Spectrum Gaming",
+   "group": "unknown",
+   "city": "BURNIE",
+   "region": "AU-TAS",
+   "address": "Shop 2, City Square Arcade, BURNIE, AU-TAS, 7320",
+   "phone": "0419707956",
+   "website": "https://www.fullspectrumgaming.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:09Z"
+  },
+  {
+   "name": "Game Lobby",
+   "group": "unknown",
+   "address": "22 Hutchinson Street shop 4, Mount Barker, SA, 5251, Australia",
+   "phone": "61(08) 8485 1928",
+   "website": "https://www.gamelobby.zone/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:36Z"
+  },
+  {
+   "name": "Gamer's Resort",
+   "group": "unknown",
+   "city": "Shepparton",
+   "region": "AU-VIC",
+   "address": "20 Edward Street, Shepparton, AU-VIC, 3630",
+   "phone": "0358220598",
+   "website": "http://www.gamersresort.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "Gamers Village",
+   "group": "unknown",
+   "city": "Upper Coomera",
+   "region": "AU-QLD",
+   "address": "Unit 7, 6 Ellis way Upper Coomera, Pimpama, QLD, 4209, Australia",
+   "phone": "+61756483664",
+   "website": "https://www.gamers-village.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:03Z"
+  },
+  {
+   "name": "GamersRoom",
+   "group": "unknown",
+   "city": "Murrumbeena",
+   "region": "AU-VIC",
+   "address": "73 Poath Rd, Murrumbeena, AU-VIC, 3163",
+   "phone": "0481738017",
+   "website": "https://www.gamersroom.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:06Z"
+  },
+  {
+   "name": "Games Corner Parramatta",
+   "group": "unknown",
+   "city": "Parramatta",
+   "region": "AU-NSW",
+   "address": "Shop 5/459 Church Street, Parramatta, NSW, 2150, Australia",
+   "phone": "6102 8677 3473",
+   "website": "https://www.thegamescorner.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:35Z"
+  },
+  {
+   "name": "Games Guild - Belgrave",
+   "group": "unknown",
+   "address": "1656 Burwood Hwy, Melbourne, VIC, 3160, AU",
+   "phone": "+610468424074",
+   "website": "https://gamesguild.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:28Z"
+  },
+  {
+   "name": "Games Realm",
+   "group": "unknown",
+   "city": "Horsham",
+   "region": "AU-VIC",
+   "address": "8 Firebrace Street, Horsham, AU-VIC, 3400",
+   "phone": "0413851461",
+   "website": "https://gamesrealm.com.au",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:45Z"
+  },
+  {
+   "name": "Gamez Knight",
+   "group": "unknown",
+   "city": "Kingaroy",
+   "region": "AU-QLD",
+   "address": "13/119 Youngman St, Kingaroy, AU-QLD, 4610",
+   "phone": "0421440451",
+   "website": "https://www.gamezknight.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Gaming Grounds",
+   "group": "unknown",
+   "city": "Bentleigh East",
+   "region": "AU-VIC",
+   "address": "95 Orange St, Bentleigh East, VIC, 3165, AU",
+   "phone": "+61+6140000000000",
+   "website": "https://www.gaminggrounds.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:16Z"
+  },
+  {
+   "name": "Gap Games",
+   "group": "unknown",
+   "city": "The Gap",
+   "region": "AU-QLD",
+   "address": "2/982 Waterworks Rd, The Gap, QLD, 4061, Australia",
+   "phone": "61733006890",
+   "website": "https://www.gapgames.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:40Z"
+  },
+  {
+   "name": "GCEA Tcg & Collectables pty ltd",
+   "group": "unknown",
+   "city": "EPPING",
+   "region": "AU-VIC",
+   "address": "U 9/543 Cooper st, Service rd, EPPING, AU-VIC, 3076",
+   "phone": "0401781169",
+   "website": "https://www.gceatcgcollectables.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:48Z"
+  },
+  {
+   "name": "General Games Highpoint",
+   "group": "unknown",
+   "city": "Frankston",
+   "region": "AU-VIC",
+   "address": "Shop L02 2090/1, 120-200 Rosamond Rd, Maribyrnong, VIC, 3032, Australia",
+   "phone": "(03) 9330 2626",
+   "website": "https://www.generalgames.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:09Z"
+  },
+  {
+   "name": "Gimko Hobby Shop",
+   "group": "unknown",
+   "city": "Cranbourne West",
+   "region": "AU-VIC",
+   "address": "Gimko Hobby Shop, Cranbourne West, AU-VIC, 3006",
+   "phone": "0389041498",
+   "website": "https://www.gimko.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:14Z"
+  },
+  {
+   "name": "Good Games Adelaide",
+   "group": "unknown",
+   "city": "Adelaide",
+   "region": "AU-SA",
+   "address": "88 Grenfell St, G47 - Rundle Place, Adelaide, SA, 5000, Australia",
+   "phone": "610881217878",
+   "website": "https://ggadelaide.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:24Z"
+  },
+  {
+   "name": "Good Games Chatswood",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "16 Anderson Street, Level 1, Chatswood, NSW, 2067, Australia",
+   "phone": "6102 94100837",
+   "website": "https://eventlink.wizards.com/wpn",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:25Z"
+  },
+  {
+   "name": "Good Games Town Hall",
+   "group": "unknown",
+   "city": "Modbury",
+   "region": "AU-SA",
+   "address": "93 York St, Sydney, NSW, 2000, Australia",
+   "phone": "61(02) 9264 0568",
+   "website": "https://www.goodgames.com.au/",
+   "buylist_url": "https://tcg.goodgames.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Grind Zone TCG",
+   "group": "unknown",
+   "city": "Brookvale",
+   "region": "AU-NSW",
+   "address": "5/688 Pittwater Road, Brookvale, AU-NSW, 2100",
+   "phone": "0401243555",
+   "website": "https://grindzonetcg.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "Grudge Games",
+   "group": "unknown",
+   "city": "Rockingham",
+   "region": "AU-WA",
+   "address": "2/8 Pickard Ave, Rockingham, WA, 6168, AU",
+   "phone": "61865553997",
+   "website": "https://grudgegames.com/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:19Z"
+  },
+  {
+   "name": "Havoc Games",
+   "group": "unknown",
+   "address": "10 Edols Pl, Geelong, VIC, 3215, AU",
+   "phone": "610342520771",
+   "website": "https://www.havocgames.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:33Z"
+  },
+  {
+   "name": "HBT Collectables",
+   "group": "unknown",
+   "city": "Belmont, Geelong",
+   "region": "AU-VIC",
+   "address": "1/1 Tegwen St, Belmont, VIC, 3216, Australia",
+   "phone": "610492 905 573",
+   "website": "https://www.hbtcollectables.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:56Z"
+  },
+  {
+   "name": "Hectic Decals",
+   "group": "unknown",
+   "address": "47 King St, Sydney, NSW, 2042, AU",
+   "phone": "+610423970887",
+   "website": "https://www.hecticdecals.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Heretics Haven",
+   "group": "unknown",
+   "city": "NAMBOUR",
+   "region": "AU-QLD",
+   "address": "91 Currie Street, NAMBOUR, QLD, 4560, Australia",
+   "phone": "617 5338 8919",
+   "website": "https://hereticshaven.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:56Z"
+  },
+  {
+   "name": "Hightide Tabletop Gaming",
+   "group": "unknown",
+   "city": "Fremantle",
+   "region": "AU-WA",
+   "address": "3 Josephson St, Perth, WA, 6160, AUS",
+   "phone": "+610862749707",
+   "website": "https://hightidetabletop.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:16Z"
+  },
+  {
+   "name": "HitDragons",
+   "group": "unknown",
+   "city": "Cannington",
+   "region": "AU-WA",
+   "address": "52 Kent St, Cannington, WA, 6107, Australia",
+   "phone": "61437799799",
+   "website": "https://hitdragons.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:15Z"
+  },
+  {
+   "name": "HobbiShack",
+   "group": "unknown",
+   "city": "Wyong",
+   "region": "AU-NSW",
+   "address": "3/5 Donaldson St, Wyong, NSW, 2259, AU",
+   "phone": "61418449636",
+   "website": "https://www.hobbishack.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:54Z"
+  },
+  {
+   "name": "Hobby Collectors Australia",
+   "group": "unknown",
+   "city": "Fairfield",
+   "region": "AU-NSW",
+   "address": "30 Ware St, Fairfield, NSW, 2165, AU",
+   "phone": "+61432350521",
+   "website": "https://hobbycollectorsaustralia.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:40Z"
+  },
+  {
+   "name": "Hobby Kitz",
+   "group": "unknown",
+   "city": "Annandale",
+   "region": "AU-NSW",
+   "address": "Shop 97 Parramatta Road, Annandale, AU-NSW, 2038",
+   "phone": "0401392616",
+   "website": "https://www.hobbykitz.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:32Z"
+  },
+  {
+   "name": "Horizon Trading Cards",
+   "group": "unknown",
+   "city": "Blair Athol",
+   "region": "AU-SA",
+   "address": "Main N Rd, Blair Athol, SA, 5084, Australia",
+   "phone": "61400078916",
+   "website": "https://horizontradingcards.com/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:35Z"
+  },
+  {
+   "name": "HR Games",
+   "group": "unknown",
+   "city": "Beverly Hills",
+   "region": "AU-NSW",
+   "address": "1/460 King Georges Road, Beverly Hills, NSW, 2209, Australia",
+   "phone": "+61408530739",
+   "website": "https://hrgames.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:30Z"
+  },
+  {
+   "name": "Iconic Nerd",
+   "group": "unknown",
+   "address": "G15/132 Corrimal St,, Wollongong, NSW, 2500, Australia",
+   "phone": "+61406632556",
+   "website": "https://www.iconicnerd.net/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:51Z"
+  },
+  {
+   "name": "In Response Gaming",
+   "group": "unknown",
+   "city": "Seven Hills",
+   "region": "AU-NSW",
+   "address": "20 Hope St, Seven Hills, NSW, 2147, AU",
+   "phone": "+610417094096",
+   "website": "https://inresponse.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:42Z"
+  },
+  {
+   "name": "Innisfail Games & Hobbies",
+   "group": "unknown",
+   "address": "15 Owen St, Innisfail, QLD, 4860, Australia",
+   "phone": "+61419297285",
+   "website": "https://opforcedeltagelblasters.com.au/Product-category/games-hobbies/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:56Z"
+  },
+  {
+   "name": "Irresistible Force",
+   "group": "unknown",
+   "city": "TANAH MERAH",
+   "region": "AU-QLD",
+   "address": "SHOP 18 Colonial Square, Tanah Merah, QLD, 4128, Australia",
+   "phone": "610488 155 717",
+   "website": "https://www.irresistibleforce.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:51Z"
+  },
+  {
+   "name": "Ja Ja's Collectables",
+   "group": "unknown",
+   "address": "17 Grant St, Bacchus Marsh, VIC, 3340, AU",
+   "phone": "61425000730",
+   "website": "https://jajascollectables.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:31Z"
+  },
+  {
+   "name": "JJ Collectibles",
+   "group": "unknown",
+   "city": "Geraldton",
+   "region": "AU-WA",
+   "address": "2/117 Marine Terrace, Geraldton 6530 WA, JJ Collectibles, Geraldton, AU-WA, 6530",
+   "phone": "0448999181",
+   "website": "https://www.jjcollectibles.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:31Z"
+  },
+  {
+   "name": "JoJos Hobbyhouse",
+   "group": "unknown",
+   "city": "Brisbane",
+   "region": "AU-QLD",
+   "address": "1, 544 Kessels rd, Macgregor, QLD, 4109, Australia",
+   "phone": "+61474584952",
+   "website": "https://www.jojoshobbyhouse.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:42Z"
+  },
+  {
+   "name": "Jolt Games",
+   "group": "unknown",
+   "city": "Canberra",
+   "region": "AU-ACT",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(02) 6169 3917",
+   "website": "https://www.joltgames.com.au",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:44Z"
+  },
+  {
+   "name": "JToys",
+   "group": "unknown",
+   "city": "Mount Waverley",
+   "region": "AU-VIC",
+   "address": "Unit 18, 105-111 Ricketts Rd, Mount Waverley, VIC, 3149, Australia",
+   "phone": "+61478249188",
+   "website": "https://www.jtoys.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:17Z"
+  },
+  {
+   "name": "Just Card Stuff",
+   "group": "unknown",
+   "city": "Coomera",
+   "region": "AU-QLD",
+   "address": "Unit 19 10 Naves Dr, Coomera, QLD, 4209, Australia",
+   "phone": "61755155968",
+   "website": "https://justcardstuff.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:05Z"
+  },
+  {
+   "name": "Leo Games Pty Ltd",
+   "group": "unknown",
+   "city": "Campbelltown",
+   "region": "AU-NSW",
+   "address": "4/42-44 Queen St, Campbelltown NSW 2560, Campbelltown, AU-NSW, 2567",
+   "phone": "0455724586",
+   "website": "https://www.leogames.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:45Z"
+  },
+  {
+   "name": "Light of Cards - Zetland",
+   "group": "unknown",
+   "city": "Zetland",
+   "region": "AU-NSW",
+   "address": "SHOP 21, 305 Botany Rd, Sydney, NSW, 2017, AU",
+   "phone": "+610427472289",
+   "website": "https://lightofcards.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Lion's Den Collectibles Hornsby",
+   "group": "unknown",
+   "city": "Warrawong",
+   "region": "AU-NSW",
+   "address": "3037/236 Pacific Hwy, Hornsby, NSW, 2077, AU",
+   "phone": "61298222617",
+   "website": "https://www.lionsdencollectibles.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:37Z"
+  },
+  {
+   "name": "Local Card Shop",
+   "group": "unknown",
+   "city": "East Brisbane",
+   "region": "AU-QLD",
+   "address": "906 Stanley St E, East Brisbane, QLD, 4169, Australia",
+   "phone": "61435086793",
+   "website": "https://www.localcardshop.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:37Z"
+  },
+  {
+   "name": "Loot Goblin Collectables",
+   "group": "unknown",
+   "city": "Shepparton",
+   "region": "AU-VIC",
+   "address": "253 Wyndham St , Shepparton, AU-VIC, 3630",
+   "phone": "0402141067",
+   "website": "https://www.lootgoblincollectables.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:12Z"
+  },
+  {
+   "name": "Lyneham Brain Space",
+   "group": "unknown",
+   "address": "Unit 1B 15 Hall St, Lyneham, ACT, 2602, Australia",
+   "phone": "0491 601 407",
+   "website": "https://lynehambrainspace.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:43Z"
+  },
+  {
+   "name": "Makers TCG",
+   "group": "unknown",
+   "city": "Haymarket",
+   "region": "AU-NSW",
+   "address": "Shop 10 Sussex Arcade, 631 - 635 George St, Haymarket, AU-NSW, 2000",
+   "phone": "0449836688",
+   "website": "https://www.makerstcg.com.au",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:31Z"
+  },
+  {
+   "name": "Man Child Collectables",
+   "group": "unknown",
+   "city": "Margaret River",
+   "region": "AU-WA",
+   "address": "Shop 1, 115 Bussell Highway, Margaret River, AU-WA, 6285",
+   "phone": "0459983923",
+   "website": "https://www.manchildcollectables.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:58Z"
+  },
+  {
+   "name": "Maverick's Collectables",
+   "group": "unknown",
+   "address": "2/46 Beerburrum Rd, Caboolture, QLD, 4510, Australia",
+   "phone": "61493466504",
+   "website": "https://www.maverickscollectables.com.au",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:02Z"
+  },
+  {
+   "name": "Mega Games",
+   "group": "unknown",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(02) 4722 9975",
+   "website": "https://www.megagames.com.au",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:31:46Z"
+  },
+  {
+   "name": "Midian Gaming",
+   "group": "unknown",
+   "city": "Ravenhall",
+   "region": "AU-VIC",
+   "address": "23 Eucumbene Drive, Ravenhall, AU-VIC, 3023",
+   "phone": "0414555990",
+   "website": "https://www.midiangaming.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:02Z"
+  },
+  {
+   "name": "MILLENNIUM COMICS",
+   "group": "unknown",
+   "city": "Rockhampton",
+   "region": "AU-QLD",
+   "address": "158 East Street, Rockhampton, AU-QLD, 4701",
+   "phone": "0749266427",
+   "website": "https://millenniumcomics.com.au/",
+   "buylist_url": "https://www.cardstars.com.au/store/millennium-comics-collectables",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:26Z"
+  },
+  {
+   "name": "Mind Games Melbourne",
+   "group": "unknown",
+   "address": "145 Swanson St, Melbourne, VIC, 3000, Australia",
+   "phone": "61(03) 9663 2828",
+   "website": "https://www.mindgamesmelbourne.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:00Z"
+  },
+  {
+   "name": "Mint Collectables",
+   "group": "unknown",
+   "city": "Kedron",
+   "region": "AU-QLD",
+   "address": "8/359 Gympie Rd, Kedron, QLD, 4031, Australia",
+   "phone": "+61440123046",
+   "website": "https://mintcollectables.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:39Z"
+  },
+  {
+   "name": "Misfits United",
+   "group": "unknown",
+   "address": "440 Oxley Ave, Brisbane, QLD, 4020, AU",
+   "phone": "+610732838769",
+   "website": "https://shop.misfitsunited.com.au/password",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:52Z"
+  },
+  {
+   "name": "Misty's Collectables",
+   "group": "unknown",
+   "city": "Coopers Plains",
+   "region": "AU-QLD",
+   "address": "7/47 Musgrave Road, Coopers Plains, AU-QLD, 4108",
+   "phone": "0468846785",
+   "website": "https://mistyscollectables.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:38Z"
+  },
+  {
+   "name": "Nedzvault",
+   "group": "unknown",
+   "city": "Werrington county",
+   "region": "AU-NSW",
+   "address": "Shop 6/152 Henry Lawson Ave, Sydney, NSW, 2747, AUS",
+   "phone": "61481963560",
+   "website": "https://nedzvault.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:43Z"
+  },
+  {
+   "name": "Next Level Games Dandenong",
+   "group": "unknown",
+   "city": "Dandenong",
+   "region": "AU-VIC",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "03 8774 7998",
+   "website": "http://www.nextlevelgames.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:26Z"
+  },
+  {
+   "name": "NJ Collectables",
+   "group": "unknown",
+   "city": "Tuggerah",
+   "region": "AU-NSW",
+   "address": "Unit 7, 1 Reliance Drive, Tuggerah, NSW, 2259, Australia",
+   "phone": "+61243300317",
+   "website": "https://njcollectables.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:51Z"
+  },
+  {
+   "name": "Obsession Gaming",
+   "group": "unknown",
+   "city": "Boronia",
+   "region": "AU-VIC",
+   "address": "2/88 Boronia Rd, Boronia, VIC, 3155, Australia",
+   "phone": "61407680460",
+   "website": "https://obsessiongaming.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:25Z"
+  },
+  {
+   "name": "ODYSSEY TCG",
+   "group": "unknown",
+   "city": "Morayfield",
+   "region": "AU-QLD",
+   "address": "3/12 Leda Blvd, Morayfield, QLD, 4506, Australia",
+   "phone": "61477246130",
+   "website": "https://www.odysseytcg.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:58Z"
+  },
+  {
+   "name": "Omega Games",
+   "group": "unknown",
+   "city": "Mandurah",
+   "region": "AU-WA",
+   "address": "88 Pinjarra rd, Unit 1, Mandurah, WA, 6210, Australia",
+   "phone": "+61895359710",
+   "website": "https://omegagames.com.au/",
+   "buylist_url": "https://store.storepass.co/retailer/buylist?store_id=OVgkVdM1Sr",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:22Z"
+  },
+  {
+   "name": "Only Packs TCG",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Suite 103/343 Little Collins St, Melbourne, VIC, 3000, AUS",
+   "phone": "61478890000",
+   "website": "https://linktr.ee/onlypackstcg",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:58Z"
+  },
+  {
+   "name": "Ozzie Collectables",
+   "group": "unknown",
+   "city": "Eumemmerring",
+   "region": "AU-VIC",
+   "address": "2a, 50 Princes Highway, Eumemmerring, VIC, 3177, Australia",
+   "phone": "+61387896906",
+   "website": "https://www.ozziecollectables.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:27Z"
+  },
+  {
+   "name": "Packman Collectables",
+   "group": "unknown",
+   "city": "Coonabarabran",
+   "region": "AU-NSW",
+   "address": "36 Dalgarno Street, Coonabarabran, AU-NSW, 2357",
+   "phone": "0272452800",
+   "website": "https://packmancollectables.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:33Z"
+  },
+  {
+   "name": "PACS Collectables",
+   "group": "unknown",
+   "city": "Rothwell",
+   "region": "AU-QLD",
+   "address": "Shop 7, 727 Deception Bay Road, Rothwell, QLD, 4022, Australia",
+   "phone": "+61404053035",
+   "website": "https://www.pacscollectables.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:52Z"
+  },
+  {
+   "name": "Pixel Cards And Collectables",
+   "group": "unknown",
+   "city": "Charlemont",
+   "region": "AU-VIC",
+   "address": "Shop 22/83-93 Precinct Rd, Geelong, VIC, 3217, AUS",
+   "phone": "61425269675",
+   "website": "https://pixelcardsandcollectables.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:56Z"
+  },
+  {
+   "name": "Poketag TCG Store",
+   "group": "unknown",
+   "city": "Gold Coast",
+   "region": "AU-QLD",
+   "address": "130 Scarborough St, Southport, QLD, 4215, Australia",
+   "phone": "61406997005",
+   "website": "https://poketag.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:08Z"
+  },
+  {
+   "name": "Pokidoll Collectables",
+   "group": "unknown",
+   "address": "5/83 Ashmore Rd, Bundall, QLD, 4217, AU",
+   "phone": "+61478991178",
+   "website": "https://pokidoll.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:09Z"
+  },
+  {
+   "name": "Pop Culture Larrikin",
+   "group": "unknown",
+   "address": "6 Church St, Bayswater, VIC, 3153, Australia",
+   "phone": "+61433947211",
+   "website": "https://popculturelarrikin.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:22Z"
+  },
+  {
+   "name": "POPin Collectables",
+   "group": "unknown",
+   "city": "Sydney",
+   "region": "AU-NSW",
+   "address": "Shop 1/570 New Canturbury Road Hurlstone park, Sydney, AU-NSW, 2193",
+   "phone": "0466691804",
+   "website": "https://popincollectables.com.au",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:26Z"
+  },
+  {
+   "name": "Premier Organzier - Let's Play Games",
+   "group": "unknown",
+   "address": "Let's Play Games , Wetherill Park , NSW, 2164, Australia",
+   "phone": "+6111111",
+   "website": "https://anzmtg.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:42Z"
+  },
+  {
+   "name": "Primetime Collectables",
+   "group": "unknown",
+   "address": "107 Poinciana Ave, Tewantin, QLD, 4565, AU",
+   "phone": "61402505738",
+   "website": "https://primetimecollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:56Z"
+  },
+  {
+   "name": "Principality Of G",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "99 Upper Heidelberg Rd, Melbourne, VIC, 3079, AU",
+   "phone": "+610340509111",
+   "website": "https://principalityofg.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:10Z"
+  },
+  {
+   "name": "ProHobbies",
+   "group": "unknown",
+   "address": "1/175 Jackson Road, Sunnybank Hills, QLD, 4109, Australia",
+   "phone": "+61721035076",
+   "website": "https://www.prohobbies.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:46Z"
+  },
+  {
+   "name": "QP Collectables",
+   "group": "unknown",
+   "city": "Perth",
+   "region": "AU-WA",
+   "address": "5/205 Bulwer Street, Perth, WA, 6000, Australia",
+   "phone": "+61438958190",
+   "website": "https://www.qpcollectables.com.au/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:13Z"
+  },
+  {
+   "name": "R&R Hobbies",
+   "group": "unknown",
+   "city": "South Windsor",
+   "region": "AU-NSW",
+   "address": "Shop 2 516 George St, South Windsor, NSW, 2756, AU",
+   "phone": "+61425872222",
+   "website": "https://www.rnrhobbies.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:44Z"
+  },
+  {
+   "name": "Raptor Games",
+   "group": "unknown",
+   "city": "Wynnum",
+   "region": "AU-QLD",
+   "address": "120 Bay Terrace, Wynnum, QLD, 4178, Australia",
+   "phone": "61428048280",
+   "website": "https://raptorgames.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:47Z"
+  },
+  {
+   "name": "RC Crew",
+   "group": "unknown",
+   "city": "Condell Park",
+   "region": "AU-NSW",
+   "address": "124, Condell Park, AU-NSW, 2200",
+   "phone": "61 (029) 709-6999",
+   "website": "https://www.rccrewhobbies.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:34Z"
+  },
+  {
+   "name": "Reefside Games",
+   "group": "unknown",
+   "city": "Bentley Park",
+   "region": "AU-QLD",
+   "address": "Shop 8/5 O’Sullivan Street, Edmonton, QLD, 4869, Australia",
+   "phone": "+61480545306",
+   "website": "https://reefsidegames.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:53Z"
+  },
+  {
+   "name": "Relic Games",
+   "group": "unknown",
+   "city": "Dubbo",
+   "region": "AU-NSW",
+   "address": "54 Cobra St, Dubbo, AU-NSW, 2830",
+   "phone": "61258200189",
+   "website": "https://www.relicgames.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:38Z"
+  },
+  {
+   "name": "Rising Sun FPV",
+   "group": "unknown",
+   "city": "Kirwan",
+   "region": "AU-QLD",
+   "address": "22 Castlemaine St , Kirwan, AU-QLD, 4817",
+   "phone": "61427589007",
+   "website": "https://risingsunfpv.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:19Z"
+  },
+  {
+   "name": "Rogue Online",
+   "group": "unknown",
+   "city": "Knoxfield",
+   "region": "AU-VIC",
+   "address": "Unit 80/1470 Ferntree Gully Rd, Knoxfield, AU-VIC, 3180",
+   "phone": "0422908000",
+   "website": "https://www.rogueonline.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:48Z"
+  },
+  {
+   "name": "Roshi's Card House",
+   "group": "unknown",
+   "city": "Yarrabilba",
+   "region": "AU-QLD",
+   "address": "Unit 19 / 35 Adler Cct, Brisbane, QLD, 4207, AU",
+   "phone": "+61roshiscardhouse@gmail.com",
+   "website": "https://roshiscardhouse.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:57Z"
+  },
+  {
+   "name": "Shuffle 'n' Cut Melbourne",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "AU-VIC",
+   "address": "243A Swan St, Richmond, VIC, 3121, AU",
+   "phone": "61435257143",
+   "website": "https://shuffleandcutgames.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:03Z"
+  },
+  {
+   "name": "Steel City Games",
+   "group": "unknown",
+   "city": "Wollongong",
+   "region": "AU-NSW",
+   "address": "1/4 Auburn St, Wollongong, NSW, 2500, Australia",
+   "phone": "+61405520965",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:54Z"
+  },
+  {
+   "name": "Stone Monkey",
+   "group": "unknown",
+   "city": "Darwin",
+   "region": "AU-NT",
+   "address": "8 Totem Rd, Coconut Grove, NT, 0810, Australia",
+   "phone": "610889455655",
+   "website": "https://stonemonkey.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:51Z"
+  },
+  {
+   "name": "T One Australia",
+   "group": "unknown",
+   "address": "23 Johnson St, Reservoir, VIC, 3073, AU",
+   "phone": "61433099989",
+   "website": "https://www.toneaus.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:15Z"
+  },
+  {
+   "name": "T3 Games",
+   "group": "unknown",
+   "address": "Units 1 & 2  Mieke Court, Burleigh Heads, QLD, 4220, Australia",
+   "phone": "+61430035229",
+   "website": "https://t3games.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:40Z"
+  },
+  {
+   "name": "Table Top Warfare - Adelaide",
+   "group": "unknown",
+   "city": "Gawler",
+   "region": "AU-SA",
+   "address": "211 Pirie St, Adelaide, SA, 5000, Australia",
+   "phone": "610493 990 464",
+   "website": "https://www.tabletopwarfare.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:29Z"
+  },
+  {
+   "name": "Tactica Hobbies and Games Maitland",
+   "group": "unknown",
+   "city": "Maitland",
+   "region": "AU-NSW",
+   "address": "2/385 High St, Maitland, NSW, 2320, Australia",
+   "phone": "61024933 8726",
+   "website": "https://www.maitland@tacticagames.com.au",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:49Z"
+  },
+  {
+   "name": "TCGroup Australia",
+   "group": "unknown",
+   "city": "Epping",
+   "region": "AU-VIC",
+   "address": "13B/58 Willandra Dr, Epping, VIC, 3076, AU",
+   "phone": "+61435387857",
+   "website": "https://www.tcgroupau.com.au",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:18Z"
+  },
+  {
+   "name": "Team Card Titan",
+   "group": "unknown",
+   "city": "Bundaberg",
+   "region": "AU-QLD",
+   "address": "Shop 1/108 Maryborough Street, Bundaberg, AU-QLD, 4670",
+   "phone": "0455488860",
+   "website": "https://teamcardtitan.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:01Z"
+  },
+  {
+   "name": "techzone geelong",
+   "group": "unknown",
+   "city": "Geelong",
+   "region": "AU-VIC",
+   "address": "35 Yarra street, Geelong, AU-VIC, 3220",
+   "phone": "425269675",
+   "website": "https://techzonegeelong.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:34Z"
+  },
+  {
+   "name": "Tezza's Games Shop",
+   "group": "unknown",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "03  9743 4805",
+   "website": "http://www.tezzasgames.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:28Z"
+  },
+  {
+   "name": "The Card Cave",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "Shop 6/25 Separation Street, Northcote, VIC, 3070, Australia",
+   "phone": "61480514605",
+   "website": "https://thecardcave.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:05Z"
+  },
+  {
+   "name": "The Cardhub Greenacre",
+   "group": "unknown",
+   "city": "Greenacre",
+   "region": "AU-NSW",
+   "address": "57 Hume Highway, Greenacre, NSW, 2190, Australia",
+   "phone": "+61493652174",
+   "website": "https://thecardhubaustralia.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:27Z"
+  },
+  {
+   "name": "The Collectivist",
+   "group": "unknown",
+   "city": "Ascot Vale",
+   "region": "AU-VIC",
+   "address": "225 Union Road, Ascot Vale, VIC, 3032, Australia",
+   "phone": "+6137006782",
+   "website": "https://www.thecollectivist.store/events",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:07Z"
+  },
+  {
+   "name": "The Collectors Syndicate",
+   "group": "unknown",
+   "city": "Mount Lawley",
+   "region": "AU-WA",
+   "address": "C9/83 Walcott st, Mount Lawley, AU-WA, 6050",
+   "phone": "0483727243",
+   "website": "https://tcsyndicate.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:32Z"
+  },
+  {
+   "name": "The CollectorSmith",
+   "group": "unknown",
+   "city": "Eaglehawk",
+   "region": "AU-VIC",
+   "address": "18-22 High St, Shop 2, Eaglehawk, AU-VIC, 3556",
+   "phone": "0499440400",
+   "website": "https://www.thecollectorsmith.com.au/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:49Z"
+  },
+  {
+   "name": "The Combat Company",
+   "group": "unknown",
+   "city": "Mortdale",
+   "region": "AU-NSW",
+   "address": "16 Hearne St, Mortdale, NSW, 2223, AU",
+   "phone": "610478602915",
+   "website": "https://thecombatcompany.com/?fbclid=IwAR1e7z2H3UII-8hgUd87Wj2Tlf6N4G84tTuuaeCS-n34zrB1tUccIxVe5d0",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:33Z"
+  },
+  {
+   "name": "The Dark Magician Pop Culture Superstore",
+   "group": "unknown",
+   "address": "203 Brisbane Street, Ipswich, QLD, 4305, Australia",
+   "phone": "+61450977373",
+   "website": "https://dark-magician-games.myshopify.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:56Z"
+  },
+  {
+   "name": "The Dragon Hangar",
+   "group": "unknown",
+   "address": "64 Port Stephens St, Raymond Terrace, NSW, 2324, AU",
+   "phone": "+610434326447",
+   "website": "https://dragonhangar.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:48Z"
+  },
+  {
+   "name": "The Final Boss Collectables",
+   "group": "unknown",
+   "city": "Ravenhall",
+   "region": "AU-VIC",
+   "address": "4/43 Orbis Dr, Ravenhall, VIC, 3023, AU",
+   "phone": "+61435313454",
+   "website": "https://thefinalbosscollectables.com.au/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:19Z"
+  },
+  {
+   "name": "The Game Center - Narellan",
+   "group": "unknown",
+   "city": "SMEATON GRANGE",
+   "region": "AU-NSW",
+   "address": "2 / 9 Yarmouth place , Smeaton Grange, NSW, 2567, Australia",
+   "phone": "61 1300 426 323",
+   "website": "https://thegamecenter.store/password",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:44Z"
+  },
+  {
+   "name": "The Gaming Arena",
+   "group": "unknown",
+   "city": "Coburg North",
+   "region": "AU-VIC",
+   "address": "123 Bakers Rd, Coburg North, VIC, 3058, Australia",
+   "phone": "+61394171221",
+   "website": "https://www.thegamingarena.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:10Z"
+  },
+  {
+   "name": "The Goose & Squirrel",
+   "group": "unknown",
+   "address": "Unit 2, 3-5 Elgin St, Maitland, NSW, 2320, AUS",
+   "phone": "610240325685",
+   "website": "http://www.gooseandsquirrel.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:49Z"
+  },
+  {
+   "name": "The Lost Dice",
+   "group": "unknown",
+   "address": "111 King William Street, Adelaide, SA, 5000, Australia",
+   "phone": "+61883100208",
+   "website": "https://www.thelostdice.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:24Z"
+  },
+  {
+   "name": "The Training Room",
+   "group": "unknown",
+   "city": "Bundaberg East",
+   "region": "AU-QLD",
+   "address": "11/1 Mary Street, Bundaberg East, AU-QLD, 4670",
+   "phone": "0480338666",
+   "website": "https://www.thetrainingroom.com.au",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:27Z"
+  },
+  {
+   "name": "The Wicked Goblin",
+   "group": "unknown",
+   "city": "Cairns City",
+   "region": "AU-QLD",
+   "address": "Level 1 - Shop 38/39, 58 Lake Street, Cairns, QLD, 4870, AUS",
+   "phone": "+61+617 4081 4926",
+   "website": "https://www.thewickedgoblin.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:54Z"
+  },
+  {
+   "name": "Topdeck Gaming",
+   "group": "unknown",
+   "city": "Strathfield",
+   "region": "AU-NSW",
+   "address": "Shop3/ 3-9 The Boulevard, Strathfield, AU-NSW, 2135",
+   "phone": "61400319836",
+   "website": "https://topdeckgaming.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:20Z"
+  },
+  {
+   "name": "Total Tabletop",
+   "group": "unknown",
+   "city": "Dubbo",
+   "region": "AU-NSW",
+   "address": "244 Macquarie Street, Dubbo, AU-NSW, 2830",
+   "phone": "0458876211",
+   "website": "https://www.totaltabletop.com",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:44Z"
+  },
+  {
+   "name": "Troll Aus Melbourne",
+   "group": "unknown",
+   "address": "509 St Georges Rd, Thornbury, VIC, 3071, Australia",
+   "phone": "61410642080",
+   "website": "https://www.trollaustraliamelb.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:09Z"
+  },
+  {
+   "name": "Turn Order Games",
+   "group": "unknown",
+   "city": "Dandenong",
+   "region": "AU-VIC",
+   "address": "253 Princes Hwy, Dandenong, VIC, 3175, Australia",
+   "phone": "610389041478",
+   "website": "https://www.turnordergames.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:24Z"
+  },
+  {
+   "name": "Turtle TCG",
+   "group": "unknown",
+   "city": "Orange",
+   "region": "AU-NSW",
+   "address": "Level 1 - 195 Summer Street, Orange, AU-NSW, 2800",
+   "phone": "0468308824",
+   "website": "https://turtletcg.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:58Z"
+  },
+  {
+   "name": "Ultra Rare",
+   "group": "unknown",
+   "city": "Kogarah",
+   "region": "AU-NSW",
+   "address": "Level 1/92 Railway Parade, Kogarah, NSW, 2217, Australia",
+   "phone": "61478886962",
+   "website": "https://ultrarare.com.au/pages/bio",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:27Z"
+  },
+  {
+   "name": "Unplugged Games",
+   "group": "unknown",
+   "city": "Lismore",
+   "region": "AU-NSW",
+   "address": "Shop 3, 132 Dawson St, Lismore, AU-NSW, 2480",
+   "phone": "0266161795",
+   "website": "https://unpluggedgames.com.au",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:34:46Z"
+  },
+  {
+   "name": "Vault Collectables by The Filmsmen",
+   "group": "unknown",
+   "city": "Summer Hill",
+   "region": "AU-NSW",
+   "address": "114 Smith St, Summer Hill, NSW, 2130, Australia",
+   "phone": "+610456386436",
+   "website": "https://vault-collectables.com/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:20Z"
+  },
+  {
+   "name": "Vault Games",
+   "group": "unknown",
+   "city": "Clayfield",
+   "region": "AU-QLD",
+   "address": "LG 62 Queen St, Brisbane City, QLD, 4000, Australia",
+   "phone": "6107 3211 5472",
+   "website": "https://vaultgames.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:32:35Z"
+  },
+  {
+   "name": "Vrinat Hobbies and Games",
+   "group": "unknown",
+   "city": "North Richmond",
+   "region": "AU-NSW",
+   "address": "35 Bells Line of Rd, North Richmond, NSW, 2754, Australia",
+   "phone": "61406998331",
+   "website": "https://www.vrinat.com.au/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:31:49Z"
+  },
+  {
+   "name": "Warhold Australia",
+   "group": "unknown",
+   "address": "2/2a Church St, Boonah, QLD, 4310, Australia",
+   "phone": "+61484851368",
+   "website": "https://www.warhold.com.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T18:33:09Z"
+  },
+  {
+   "name": "Wiggos TCG and Collectibles",
+   "group": "unknown",
+   "city": "New Norfolk",
+   "region": "AU-TAS",
+   "address": "18 High St, New Norfolk, AU-TAS, 7140",
+   "phone": "61 (036) 261-2407",
+   "website": "https://www.wiggostcgandcollectibles.com/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:50Z"
+  },
+  {
+   "name": "Wonderland Games",
+   "group": "unknown",
+   "city": "Helensvale",
+   "region": "AU-QLD",
+   "address": "4/152-160 Siganto Drive, Helensvale, QLD, 4212, Australia",
+   "phone": "+61423676000",
+   "website": "https://www.wonderlandgames.com.au/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:33:05Z"
+  },
+  {
+   "name": "Zen Collective",
+   "group": "unknown",
+   "city": "Melbourne",
+   "region": "AU-VIC",
+   "address": "280 City Rd, Southbank, VIC, 3006, Australia",
+   "phone": "610385470000",
+   "website": "https://zencollective.co",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T18:32:03Z"
+  }
+ ]
+}
