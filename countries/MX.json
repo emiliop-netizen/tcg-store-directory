@@ -2,29 +2,8 @@
  "country": "MX",
  "currency": "MXN",
  "updated": "2026-10-15",
- "store_count": 631,
+ "store_count": 630,
  "stores": [
-  {
-   "name": "Brute Force Games",
-   "group": "feed",
-   "city": "San Diego",
-   "region": "CA",
-   "address": "3755 Murphy Canyon Rd, San Diego, CA, 92123-4412, US",
-   "phone": "1619-230-5655",
-   "website": "https://www.bruteforcemtg.com/",
-   "buylist_url": "https://www.bruteforcemtg.com/buylist",
-   "feed": {
-    "platform": "crystalcommerce",
-    "base": "https://www.bruteforcemtg.com",
-    "search": "/buylist/search?q=<card name>"
-   },
-   "mail_in": true,
-   "credit_bonus": "25% store credit bonus",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:10Z"
-  },
   {
    "name": "Lofty TCG",
    "group": "feed",
