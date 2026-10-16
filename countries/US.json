@@ -2,7 +2,7 @@
  "country": "US",
  "currency": "USD",
  "updated": "2026-10-15",
- "store_count": 5011,
+ "store_count": 4970,
  "stores": [
   {
    "name": "Balance",
@@ -345,64 +345,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:23:56Z"
-  },
-  {
-   "name": "Danireon Cards & Games",
-   "group": "feed",
-   "city": "Ottawa",
-   "region": "ON",
-   "address": "250 Centrum Blvd Unit 110, Ottawa, ON K1E 3L8, Canada",
-   "phone": "(613) 366-8211",
-   "website": "https://www.danireon.com/",
-   "feed": {
-    "platform": "storepass",
-    "host": "buylist.danireon.com",
-    "store_id": "yaRBQxStq1",
-    "games": [
-     "One Piece",
-     "Pokemon",
-     "Magic: The Gathering",
-     "Yu-Gi-Oh!",
-     "Lorcana",
-     "Dragon Ball Super Fusion World",
-     "Gundam",
-     "Riftbound",
-     "Flesh and Blood",
-     "Star Wars Unlimited",
-     "Weiss Schwarz"
-    ]
-   },
-   "games_events": [
-    "Dragon Ball Super Fusion World",
-    "Flesh and Blood",
-    "Gundam",
-    "Lorcana",
-    "Magic: The Gathering",
-    "One Piece",
-    "Pokemon",
-    "Riftbound",
-    "Star Wars Unlimited",
-    "Weiss Schwarz",
-    "Yu-Gi-Oh!"
-   ],
-   "checked_at": "2026-10-15T21:15:24Z"
-  },
-  {
-   "name": "Dolly's Niagara Cards & Collectibles",
-   "group": "feed",
-   "address": "305 Niagara St, St. Catharines, ON, L2M 4V9, Canada",
-   "phone": "1289-362-5111",
-   "website": "https://www.dollys.ca/",
-   "buylist_url": "https://www.dollys.ca/buylist",
-   "feed": {
-    "platform": "crystalcommerce",
-    "base": "https://www.dollys.ca",
-    "search": "/buylist/search?q=<card name>"
-   },
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:27Z"
   },
   {
    "name": "Duelers Guild",
@@ -934,38 +876,6 @@
    "checked_at": "2026-10-15T20:43:24Z"
   },
   {
-   "name": "Kunaigames",
-   "group": "feed",
-   "city": "Windsor",
-   "region": "ON",
-   "address": "1441 McDougall St, Windsor, ON, N8X 5C9, Canada",
-   "phone": "1226-774-6429",
-   "website": "https://kunaigames.com",
-   "buylist_url": "https://kunaigames.com/pages/sell-your-cards",
-   "feed": {
-    "platform": "sortswift",
-    "store_key": "Kunaigames",
-    "games": [
-     "Disney Lorcana",
-     "Flesh and Blood",
-     "Gundam",
-     "Magic: The Gathering",
-     "One Piece",
-     "Palworld OFFICIAL CARD GAME",
-     "Pokemon",
-     "Riftbound",
-     "Union Arena",
-     "Yu-Gi-Oh!"
-    ],
-    "mail_in": false,
-    "drop_off": true
-   },
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:29:22Z"
-  },
-  {
    "name": "Larry's Game Store",
    "group": "feed",
    "city": "Olathe",
@@ -1019,25 +929,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:26:53Z"
-  },
-  {
-   "name": "Main Phase",
-   "group": "feed",
-   "city": "San Antonio",
-   "region": "TX",
-   "address": "1044 Dufferin Ave, Wallaceburg, ON, N8A 2V8, Canada",
-   "phone": "1519-437-1737 ",
-   "website": "https://www.mainphase.org/",
-   "buylist_url": "https://www.mainphase.org/buylist",
-   "feed": {
-    "platform": "crystalcommerce",
-    "base": "https://www.mainphase.org",
-    "search": "/buylist/search?q=<card name>"
-   },
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:30:01Z"
   },
   {
    "name": "Many Realms",
@@ -2219,17 +2110,6 @@
    "checked_at": "2026-10-15T20:19:14Z"
   },
   {
-   "name": "Boreal Gaming & Cards",
-   "group": "login_required",
-   "address": "1809 Merrittville Hwy, Thorold, ON, L0S 1E6, Canada",
-   "phone": "1289-897-9323",
-   "website": "https://borealgaming.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:22Z"
-  },
-  {
    "name": "Brainwash Cards",
    "group": "login_required",
    "city": "York",
@@ -2728,17 +2608,6 @@
    "checked_at": "2026-10-15T20:40:45Z"
   },
   {
-   "name": "Game Master's Emporium",
-   "group": "login_required",
-   "address": "2-55 St Clair St, Chatham, ON, N7L 3H8, Canada",
-   "phone": "1519-358-1441",
-   "website": "https://thenewgme.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:30:05Z"
-  },
-  {
    "name": "Game On!",
    "group": "login_required",
    "city": "Fayetteville",
@@ -3157,16 +3026,6 @@
    "checked_at": "2026-10-15T20:33:38Z"
   },
   {
-   "name": "PvP Shoppe",
-   "group": "login_required",
-   "city": "Markham",
-   "region": "ON",
-   "address": "2/F, 9390 Woodbine Ave 2/F, Unit 2R2, Markham, ON L6C 0M5, Canada",
-   "phone": "(647) 339-1787",
-   "website": "https://pvpshoppe.com/",
-   "checked_at": "2026-10-15T21:18:56Z"
-  },
-  {
    "name": "Red Fox Gaming",
    "group": "login_required",
    "city": "Hickory",
@@ -3430,17 +3289,6 @@
    "phone": "(214) 238-0302",
    "website": "https://tradingcardworld.store/",
    "checked_at": "2026-10-15T20:56:49Z"
-  },
-  {
-   "name": "UBECARD",
-   "group": "login_required",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "4306 Dunbar St, Vancouver, BC V6S 2G3, Canada",
-   "phone": "(604) 394-2273",
-   "website": "https://ubecard.com/",
-   "buylist_url": "https://ubecard.com/pages/buying-card-policy",
-   "checked_at": "2026-10-15T21:02:54Z"
   },
   {
    "name": "Underhill Gaming",
@@ -5613,17 +5461,6 @@
    "checked_at": "2026-10-15T21:04:25Z"
   },
   {
-   "name": "Niagara Escapement",
-   "group": "blocked",
-   "address": "5001 Victoria Ave, Niagara Falls, ON, L2E 4C9, Canada",
-   "phone": "1289-296-5221",
-   "website": "https://www.niagaraescapement.ca/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:16Z"
-  },
-  {
    "name": "Northtown Card Vault",
    "group": "blocked",
    "city": "Union Gap",
@@ -6861,16 +6698,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:49:14Z"
-  },
-  {
-   "name": "Zephyr Epic",
-   "group": "blocked",
-   "city": "Surrey",
-   "region": "BC",
-   "address": "8065 130 St, Surrey, BC V3W 7X4, Canada",
-   "phone": "(604) 547-0527",
-   "website": "https://zephyrepic.com/?utm_source=google-maps&utm_medium=organic&utm_campaign=GMB",
-   "checked_at": "2026-10-15T20:57:34Z"
   },
   {
    "name": "1st Capital Gaming - Hagerstown",
@@ -11744,17 +11571,6 @@
    "checked_at": "2026-10-15T21:04:29Z"
   },
   {
-   "name": "Hyper Beam Cards",
-   "group": "in_store",
-   "address": "1900 Aeropuerto G11 G18, Tijuana, B.C., 22457, Mexico",
-   "phone": "526643049394",
-   "website": "https://web.facebook.com/HyperBeamCards",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:21:14Z"
-  },
-  {
    "name": "Hyper Beam TCG Gaming",
    "group": "in_store",
    "city": "Los Angeles",
@@ -12849,15 +12665,6 @@
    "checked_at": "2026-10-15T21:11:06Z"
   },
   {
-   "name": "M&L Sports Cards and Collectables",
-   "group": "in_store",
-   "city": "Niagara Falls",
-   "region": "ON",
-   "address": "7174 A Drummond Rd, Niagara Falls, ON L2G 4P6, Canada",
-   "phone": "(905) 371-3010",
-   "checked_at": "2026-10-15T21:18:27Z"
-  },
-  {
    "name": "Ma and Pa's Sports Cards & Collectibles",
    "group": "in_store",
    "city": "Mustang",
@@ -13431,15 +13238,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:43:51Z"
-  },
-  {
-   "name": "My Elite Trainer Box",
-   "group": "in_store",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "11951 Mitchell Rd Ste 155, Richmond, BC V6V 1T6, Canada",
-   "phone": "(604) 715-6778",
-   "checked_at": "2026-10-15T21:17:43Z"
   },
   {
    "name": "Mystic Games & Cards",
@@ -18357,17 +18155,6 @@
    "checked_at": "2026-10-15T20:42:34Z"
   },
   {
-   "name": "Treasure Chest Games & Collectibles",
-   "group": "not_buying_singles",
-   "city": "Port Coquitlam",
-   "region": "BC",
-   "address": "3274 Coast Meridian Rd, Port Coquitlam, BC V3B 3N4, Canada",
-   "phone": "(604) 941-9313",
-   "website": "https://www.tcgames.ca/",
-   "buylist_url": "https://www.tcgames.ca/inactive_buylist",
-   "checked_at": "2026-10-15T20:52:20Z"
-  },
-  {
    "name": "Twist & Shout Records",
    "group": "not_buying_singles",
    "city": "Denver",
@@ -20082,16 +19869,6 @@
    "phone": "(206) 781-4875",
    "website": "https://www.arcanecomicbooks.com/",
    "checked_at": "2026-10-15T21:01:15Z"
-  },
-  {
-   "name": "Arcardia Collectibles & Exchange",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "3700 Number 3 Rd Unit 2320, Richmond, BC V6X 2C1, Canada",
-   "phone": "(778) 320-6991",
-   "website": "https://arcardia.ca/",
-   "checked_at": "2026-10-15T21:17:31Z"
   },
   {
    "name": "Archie's Audiobooks & Cards",
@@ -22536,17 +22313,6 @@
    "phone": "(615) 810-5350",
    "website": "https://www.brickchurchcards.com",
    "checked_at": "2026-10-15T21:03:58Z"
-  },
-  {
-   "name": "Brick Mountian Hobbies",
-   "group": "unknown",
-   "address": "8040 Lundy's Ln, Niagara Falls, ON, L2H 1H1, Canada",
-   "phone": "1289-245-6820",
-   "website": "https://brickmountainhobbies.ca/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:18Z"
   },
   {
    "name": "Bricksville",
@@ -26291,17 +26057,6 @@
    "checked_at": "2026-10-15T20:57:30Z"
   },
   {
-   "name": "Critical Hit !",
-   "group": "unknown",
-   "address": "12500-6 Av. Ejército Nacional, Cd. Juarez, Chih., 32563, Mexico",
-   "phone": "526568193459",
-   "website": "https://www.criticalhit.mx/password/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:43:38Z"
-  },
-  {
    "name": "Critical Hit Games",
    "group": "unknown",
    "city": "St. Petersburg",
@@ -26547,17 +26302,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:50:56Z"
-  },
-  {
-   "name": "D3 Gaming",
-   "group": "unknown",
-   "address": "50 Niagara St, St. Catharines, ON, L2R 2V3, Canada",
-   "phone": "1905-329-1184",
-   "website": "https://d3gaming.ca/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:26Z"
   },
   {
    "name": "D6 Games",
@@ -28047,17 +27791,6 @@
    "checked_at": "2026-10-15T20:48:32Z"
   },
   {
-   "name": "Draw For Turn Games",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "12660 Bridgeport Rd #201, Richmond, BC V6V 1J4, Canada",
-   "phone": "(236) 998-6497",
-   "website": "https://drawforturn.ca/",
-   "buylist_url": "https://drawforturn.ca/pages/sell-to-us",
-   "checked_at": "2026-10-15T21:17:33Z"
-  },
-  {
    "name": "Draw Go Games",
    "group": "unknown",
    "city": "Rutland",
@@ -29477,16 +29210,6 @@
    "phone": "(860) 666-5862",
    "website": "http://theeyeopener.tripod.com/",
    "checked_at": "2026-10-15T21:18:57Z"
-  },
-  {
-   "name": "F & C House of Cards Inc.",
-   "group": "unknown",
-   "city": "Windsor",
-   "region": "ON",
-   "address": "4635 Tecumseh Rd E, Windsor, ON N8W 1K8, Canada",
-   "phone": "(226) 674-0990",
-   "website": "https://fchouseofcards.ca/",
-   "checked_at": "2026-10-15T21:04:46Z"
   },
   {
    "name": "Fable Hobby",
@@ -32569,16 +32292,6 @@
    "checked_at": "2026-10-15T21:22:26Z"
   },
   {
-   "name": "Gem Mint Ten Collectibles",
-   "group": "unknown",
-   "city": "White Rock",
-   "region": "BC",
-   "address": "1289a Johnston Rd, White Rock, BC V4B 3Y9, Canada",
-   "phone": "(236) 480-7229",
-   "website": "https://gemminttencollectibles.com/",
-   "checked_at": "2026-10-15T21:20:47Z"
-  },
-  {
    "name": "Gems & Games",
    "group": "unknown",
    "city": "Lynden",
@@ -34255,16 +33968,6 @@
    "checked_at": "2026-10-15T21:02:33Z"
   },
   {
-   "name": "Helou's Sports Cards and Collectibles",
-   "group": "unknown",
-   "city": "Windsor",
-   "region": "ON",
-   "address": "488 University Ave W, Windsor, ON N9A 5P8, Canada",
-   "phone": "(226) 773-3047",
-   "website": "https://heloushobby.ca/",
-   "checked_at": "2026-10-15T21:04:43Z"
-  },
-  {
    "name": "Here Be Books & Games",
    "group": "unknown",
    "city": "Summerville",
@@ -35330,17 +35033,6 @@
    "checked_at": "2026-10-15T20:27:37Z"
   },
   {
-   "name": "Hyper Beam Cards - Sucursal Playas",
-   "group": "unknown",
-   "address": "725 P.º Playas de Tijuana Local 1, Plaza Aurora, Tijuana, B.C., 22504, Mexico",
-   "phone": "526643049394",
-   "website": "https://www.hyperbeamcards.com",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:21:13Z"
-  },
-  {
    "name": "Hyper Collectibles - New Port Richey",
    "group": "unknown",
    "address": "6347 Massachusetts Ave, New Port Richey, FL, 34653, United States",
@@ -35719,16 +35411,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:33:53Z"
-  },
-  {
-   "name": "Infinity Cards & Collectibles",
-   "group": "unknown",
-   "city": "Langley Twp",
-   "region": "BC",
-   "address": "27256 Fraser Hwy Unit 102, Aldergrove, BC V4W 3P8, Canada",
-   "phone": "(604) 308-5084",
-   "website": "https://infinitycards.ca/",
-   "checked_at": "2026-10-15T21:03:04Z"
   },
   {
    "name": "Infinity Game Lounge 1",
@@ -37789,17 +37471,6 @@
    "checked_at": "2026-10-15T20:25:52Z"
   },
   {
-   "name": "Lets Collect Cards",
-   "group": "unknown",
-   "city": "Burnaby",
-   "region": "BC",
-   "address": "9855 Austin Rd #212, Burnaby, BC V3J 1N4, Canada",
-   "phone": "(236) 979-2270",
-   "website": "https://www.letscollectcards.com",
-   "buylist_url": "https://www.letscollectcards.com/sell",
-   "checked_at": "2026-10-15T20:51:48Z"
-  },
-  {
    "name": "Lets Play Collectibles and Things LLC",
    "group": "unknown",
    "city": "Hooksett",
@@ -38173,16 +37844,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:37:05Z"
-  },
-  {
-   "name": "Local Legends Cards & Collectibles",
-   "group": "unknown",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "1610 Robson St #110, Vancouver, BC V6G 1C7, Canada",
-   "phone": "(604) 674-3676",
-   "website": "https://locallegendscardsncollectibles.com/",
-   "checked_at": "2026-10-15T21:02:52Z"
   },
   {
    "name": "Locker Room",
@@ -38760,16 +38421,6 @@
    "phone": "(915) 502-1414",
    "website": "https://www.magicadventurescomics.com/",
    "checked_at": "2026-10-15T21:22:45Z"
-  },
-  {
-   "name": "Magic Chest",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "5300 Number 3 Rd Unit 841, Richmond, BC V6X 2X9, Canada",
-   "phone": "(604) 902-8746",
-   "website": "https://magicchest.net/",
-   "checked_at": "2026-10-15T21:17:30Z"
   },
   {
    "name": "Magic City Collectibles",
@@ -39561,17 +39212,6 @@
    "checked_at": "2026-10-15T20:21:39Z"
   },
   {
-   "name": "Mexplay",
-   "group": "unknown",
-   "address": "10875 Av. Aquiles Serdan, Tijuana, B.C., 22400, Mexico",
-   "phone": "+52 664 688 4124",
-   "website": "https://www.mexplay.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:21:13Z"
-  },
-  {
    "name": "Miami Card Supply Inc.",
    "group": "unknown",
    "city": "Miami",
@@ -39967,16 +39607,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:34:11Z"
-  },
-  {
-   "name": "Mintink Trading Cards and Live Experience",
-   "group": "unknown",
-   "city": "Vaughan",
-   "region": "ON",
-   "address": "8555 Jane St Unit 5 & 6, Vaughan, ON L4K 5N9, Canada",
-   "phone": "(416) 827-9141",
-   "website": "https://www.mintink.ca/",
-   "checked_at": "2026-10-15T21:19:16Z"
   },
   {
    "name": "Minty Gem Trading Cards & Collectibles",
@@ -40853,17 +40483,6 @@
    "checked_at": "2026-10-15T20:21:30Z"
   },
   {
-   "name": "Mystic Dragon",
-   "group": "unknown",
-   "address": "4548 Ontario St, Beamsville, ON, L3J 0B7, Canada",
-   "phone": "1289-566-8861",
-   "website": "https://mystic-dragon.ca/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:28Z"
-  },
-  {
    "name": "Mystic Falls Cardboard Company",
    "group": "unknown",
    "city": "Covington",
@@ -41206,17 +40825,6 @@
    "phone": "(281) 982-3141",
    "website": "https://www.nerdblvd.com/",
    "checked_at": "2026-10-15T20:54:05Z"
-  },
-  {
-   "name": "Nerd Herder",
-   "group": "unknown",
-   "address": "4949 Victoria Ave, Niagara Falls, ON, L2E 4C7, Canada",
-   "phone": "1647-215-8070",
-   "website": "https://www.nerdherder.ca",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:17Z"
   },
   {
    "name": "Nerd Merch",
@@ -43372,16 +42980,6 @@
    "checked_at": "2026-10-15T20:34:33Z"
   },
   {
-   "name": "Pastime Sports & Games",
-   "group": "unknown",
-   "city": "Burnaby",
-   "region": "BC",
-   "address": "4700 Kingsway, Burnaby, BC V5H 4N2, Canada",
-   "phone": "(604) 432-9979",
-   "website": "https://pastimesports.ca/",
-   "checked_at": "2026-10-15T20:57:35Z"
-  },
-  {
    "name": "Pastimes",
    "group": "unknown",
    "city": "Niles",
@@ -43622,17 +43220,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:32:37Z"
-  },
-  {
-   "name": "Phoenix Rising",
-   "group": "unknown",
-   "address": "325 St Paul St, St. Catherines, ON, L2R 3N1, Canada",
-   "phone": "1905-688-0119",
-   "website": "https://phoenixrisinggames.square.site/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:25Z"
   },
   {
    "name": "Phoenix Sports Cards",
@@ -45920,17 +45507,6 @@
    "checked_at": "2026-10-15T21:17:43Z"
   },
   {
-   "name": "RICHMOND REROLL",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "12191 Hammersmith Wy Unit 1120, Richmond, BC V7A 5H2, Canada",
-   "phone": "(778) 688-5885",
-   "website": "https://richmondreroll.crystalcommerce.com/",
-   "buylist_url": "https://richmondreroll.crystalcommerce.com/advanced_search?utf8=%E2%9C%93&search%5Bfuzzy_search%5D=&search%5Btags_name_eq%5D=&search%5Bsell_price_gte%5D=5&search%5Bsell_price_lte%5D=20&search%5Bbuy_price_gte%5D=&search%5Bbuy_price_lte%5D=&search%5Bin_stock%5D=0&buylist_mode=0&search%5Bcategory_ids_with_descendants%5D%5B%5D=&search%5Bsort%5D=name&search%5Bdirection%5D=ascend&commit=Search&search%5Bcatalog_group_id_eq%5D=",
-   "checked_at": "2026-10-15T21:17:34Z"
-  },
-  {
    "name": "Rick's Comic City",
    "group": "unknown",
    "city": "Nashville",
@@ -46594,19 +46170,6 @@
    "checked_at": "2026-10-15T20:52:47Z"
   },
   {
-   "name": "Runovar",
-   "group": "unknown",
-   "city": "Cd. Juarez",
-   "region": "Chih.",
-   "address": "7302-4 Calle Costa de Marfil, Juárez, Chih, 32699, Mexico",
-   "phone": "526568229526",
-   "website": "https://runovar.com",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:43:37Z"
-  },
-  {
    "name": "Russian Hill Bookstore",
    "group": "unknown",
    "city": "SF",
@@ -46753,16 +46316,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:42:27Z"
-  },
-  {
-   "name": "Sakura Media",
-   "group": "unknown",
-   "city": "Burnaby",
-   "region": "BC",
-   "address": "4700 Kingsway, Burnaby, BC V5H 4N2, Canada",
-   "phone": "(604) 419-8824",
-   "website": "https://www.metrohobbies.ca",
-   "checked_at": "2026-10-15T21:17:56Z"
   },
   {
    "name": "Saltire Games",
@@ -47620,17 +47173,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:17:32Z"
-  },
-  {
-   "name": "Sketchbook Comics and Games",
-   "group": "unknown",
-   "address": "224 Glenridge Ave, St Catharines, ON, L2T 3J9, Canada",
-   "phone": "905-682-0111",
-   "website": "https://sketchbookcomics.ca/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:23Z"
   },
   {
    "name": "Skillshotz Gaming",
@@ -49939,16 +49481,6 @@
    "phone": "(919) 523-0865",
    "website": "https://tcgmrt.com/",
    "checked_at": "2026-10-15T21:12:37Z"
-  },
-  {
-   "name": "Team Collectors",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "4380 Number 3 Rd #1250, Richmond, BC V6X 2C2, Canada",
-   "phone": "(778) 688-3668",
-   "website": "https://teamcollectors.com/",
-   "checked_at": "2026-10-15T21:17:49Z"
   },
   {
    "name": "Tech N Gamer",
@@ -52699,17 +52231,6 @@
    "checked_at": "2026-10-15T20:54:37Z"
   },
   {
-   "name": "The Trading Gallery (Nest)",
-   "group": "unknown",
-   "city": "New Westminster",
-   "region": "BC",
-   "address": "625 5th Ave Unit 707, New Westminster, BC V3M 1X4, Canada",
-   "phone": "(236) 514-8923",
-   "website": "https://www.thetradinggallery.com/en/ca",
-   "buylist_url": "https://www.thetradinggallery.com/en/ca/retailer/buylist",
-   "checked_at": "2026-10-15T20:57:25Z"
-  },
-  {
    "name": "The Uncommons",
    "group": "unknown",
    "city": "New York",
@@ -53432,16 +52953,6 @@
    "phone": "(347) 647-4509",
    "website": "https://tommysfigz.com/",
    "checked_at": "2026-10-15T20:51:36Z"
-  },
-  {
-   "name": "Top Chase Group (TCG Vancouver)",
-   "group": "unknown",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "2611 E 49th Ave #212, Vancouver, BC V5S 1J9, Canada",
-   "phone": "(604) 225-1445",
-   "website": "https://topchasegroup.com/password",
-   "checked_at": "2026-10-15T21:14:41Z"
   },
   {
    "name": "Top Cut Cards",
@@ -55074,16 +54585,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:43:42Z"
-  },
-  {
-   "name": "Vancity CJ Trading Cards - Vancouver Pokemon Cards",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "3700 Number 3 Rd Unit 2340 (2nd Floor, Richmond, BC V6X 3X2, Canada",
-   "phone": "(778) 858-6899",
-   "website": "https://vancitycj.com/",
-   "checked_at": "2026-10-15T21:17:37Z"
   },
   {
    "name": "Vanguards Vault",

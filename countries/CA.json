@@ -2,7 +2,7 @@
  "country": "CA",
  "currency": "CAD",
  "updated": "2026-10-15",
- "store_count": 1027,
+ "store_count": 1019,
  "stores": [
   {
    "name": "203 Collectibles LTD.",
@@ -2079,16 +2079,6 @@
    "checked_at": "2026-10-15T20:10:05Z"
   },
   {
-   "name": "Card Merchant Hamilton",
-   "group": "login_required",
-   "city": "Hamilton",
-   "region": "Waikato Region",
-   "address": "G/F/36 Bryce Street, Hamilton Central, Hamilton 3204, New Zealand",
-   "phone": "022 851 1264",
-   "website": "https://cardmerchanthamilton.co.nz/",
-   "checked_at": "2026-10-15T20:19:39Z"
-  },
-  {
    "name": "Cardboard Hero",
    "group": "login_required",
    "city": "Oshawa",
@@ -3103,14 +3093,6 @@
    "phone": "(418) 614-5052",
    "website": "https://www.fanamanga.com/",
    "checked_at": "2026-10-15T20:18:41Z"
-  },
-  {
-   "name": "Fanatics Collectibles",
-   "group": "blocked",
-   "region": "England",
-   "address": "54 Regent St., London W1B 4DY, UK",
-   "website": "https://uk.topps.com/pages/fanatics-collectibles-store",
-   "checked_at": "2026-10-15T20:20:25Z"
   },
   {
    "name": "Flints CCG",
@@ -5382,15 +5364,6 @@
    "checked_at": "2026-10-15T20:17:40Z"
   },
   {
-   "name": "The Sub Center",
-   "group": "not_buying_singles",
-   "region": "England",
-   "address": "3-5 William St, Herne Bay CT6 5EW, UK",
-   "phone": "01227 365781",
-   "website": "https://thesubcenter.co.uk/",
-   "checked_at": "2026-10-15T20:20:35Z"
-  },
-  {
    "name": "The Upper Hand",
    "group": "not_buying_singles",
    "city": "Mississauga",
@@ -6955,15 +6928,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:09:01Z"
-  },
-  {
-   "name": "Dark Sphere Shepherd's Bush Gaming Centre",
-   "group": "unknown",
-   "region": "England",
-   "address": "Unit 8 W12 Shopping Centre, London W12 8PP, UK",
-   "phone": "020 8749 2916",
-   "website": "https://www.darksphere.co.uk/",
-   "checked_at": "2026-10-15T20:20:34Z"
   },
   {
    "name": "Dbsport Collectibles",
@@ -9751,15 +9715,6 @@
    "checked_at": "2026-10-15T20:11:10Z"
   },
   {
-   "name": "Mythic Goblin",
-   "group": "unknown",
-   "region": "England",
-   "address": "Arch 89, Tiverton St, London SE1 6FX, UK",
-   "phone": "07403 989945",
-   "website": "https://mythicgoblin.com/",
-   "checked_at": "2026-10-15T20:20:26Z"
-  },
-  {
    "name": "Myths, Legends & Heroes",
    "group": "unknown",
    "city": "Ottawa",
@@ -10350,17 +10305,6 @@
    "checked_at": "2026-10-15T20:22:31Z"
   },
   {
-   "name": "Premier Organizer - Legacy 2",
-   "group": "unknown",
-   "address": "Via Toledo, Napoli, NA, 80134, Italy",
-   "phone": "13908119254360",
-   "website": "https://legacyeuropeantour.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:10:34Z"
-  },
-  {
    "name": "Press Start Video Games",
    "group": "unknown",
    "city": "New Westminster",
@@ -10696,16 +10640,6 @@
    "phone": "(250) 361-4447",
    "website": "https://www.russellbooks.com/",
    "checked_at": "2026-10-15T20:21:10Z"
-  },
-  {
-   "name": "Ryno's Trading Cards and Memorabilia",
-   "group": "unknown",
-   "city": "Bellingham",
-   "region": "WA",
-   "address": "702 Kentucky St, Bellingham, WA 98225, USA",
-   "phone": "(360) 441-3683",
-   "website": "https://rynossportscards.com/",
-   "checked_at": "2026-10-15T20:21:14Z"
   },
   {
    "name": "Réno Jouets",
@@ -11296,15 +11230,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:12:10Z"
-  },
-  {
-   "name": "The Brotherhood Games Pokémon and Yu-Gi-Oh Store",
-   "group": "unknown",
-   "region": "England",
-   "address": "148 St James's Rd, London SE1 5BW, UK",
-   "phone": "020 7052 4472",
-   "website": "https://www.thebrotherhoodgames.co.uk/",
-   "checked_at": "2026-10-15T20:20:17Z"
   },
   {
    "name": "The Card Corner and Games",

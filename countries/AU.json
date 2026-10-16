@@ -2,7 +2,7 @@
  "country": "AU",
  "currency": "AUD",
  "updated": "2026-10-15",
- "store_count": 659,
+ "store_count": 634,
  "stores": [
   {
    "name": "88 Games Arena",
@@ -839,17 +839,6 @@
    "checked_at": "2026-10-15T19:57:25Z"
   },
   {
-   "name": "House of Cards Abbotsford",
-   "group": "login_required",
-   "city": "Abbotsford",
-   "region": "BC",
-   "address": "2664 Gladys Ave #6, Abbotsford, BC V2S 3X8, Canada",
-   "phone": "(604) 776-0766",
-   "website": "https://houseofcards.ca/",
-   "buylist_url": "https://houseofcards.ca/pages/buylist-1",
-   "checked_at": "2026-10-15T20:01:10Z"
-  },
-  {
    "name": "Jerseys Megastore",
    "group": "login_required",
    "city": "Fyshwick",
@@ -873,17 +862,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:56:36Z"
-  },
-  {
-   "name": "Level Zero Games",
-   "group": "login_required",
-   "city": "Chilliwack",
-   "region": "BC",
-   "address": "46261 Yale Rd, Chilliwack, BC V2P 2P5, Canada",
-   "phone": "(604) 392-6276",
-   "website": "https://levelzerogames.ca/",
-   "buylist_url": "https://levelzerogames.ca/pages/guidelines-for-buylist",
-   "checked_at": "2026-10-15T20:01:49Z"
   },
   {
    "name": "Mayhem Collectables",
@@ -1058,17 +1036,6 @@
    "checked_at": "2026-10-15T20:00:01Z"
   },
   {
-   "name": "UBECARD",
-   "group": "login_required",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "4306 Dunbar St, Vancouver, BC V6S 2G3, Canada",
-   "phone": "(604) 394-2273",
-   "website": "https://ubecard.com/",
-   "buylist_url": "https://ubecard.com/pages/buying-card-policy",
-   "checked_at": "2026-10-15T20:01:36Z"
-  },
-  {
    "name": "AW Collectibles",
    "group": "quote_only",
    "city": "Biggera Waters",
@@ -1177,17 +1144,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:57:10Z"
-  },
-  {
-   "name": "Centre Court Collectables",
-   "group": "quote_only",
-   "city": "Nanaimo",
-   "region": "BC",
-   "address": "4750 Rutherford Rd #123, Nanaimo, BC V9T 4K6, Canada",
-   "phone": "(250) 585-1313",
-   "website": "https://www.cccollectables.ca/",
-   "buylist_url": "https://www.cccollectables.ca/collections",
-   "checked_at": "2026-10-15T20:01:43Z"
   },
   {
    "name": "Chaotic Factory",
@@ -1886,16 +1842,6 @@
    "checked_at": "2026-10-15T20:01:15Z"
   },
   {
-   "name": "Zephyr Epic",
-   "group": "blocked",
-   "city": "Surrey",
-   "region": "BC",
-   "address": "8065 130 St, Surrey, BC V3W 7X4, Canada",
-   "phone": "(604) 547-0527",
-   "website": "https://zephyrepic.com/?utm_source=google-maps&utm_medium=organic&utm_campaign=GMB",
-   "checked_at": "2026-10-15T20:01:45Z"
-  },
-  {
    "name": "Zing Pop Culture Sydney",
    "group": "blocked",
    "city": "Sydney",
@@ -1950,15 +1896,6 @@
    "address": "1B/282 Crown St, Wollongong NSW 2500",
    "phone": "0467 714 762",
    "checked_at": "2026-10-15T20:02:41Z"
-  },
-  {
-   "name": "All Elite Cards",
-   "group": "in_store",
-   "city": "Nanaimo",
-   "region": "BC",
-   "address": "1609 Bowen Rd unit b, Nanaimo, BC V9S 1G5, Canada",
-   "phone": "(250) 591-1337",
-   "checked_at": "2026-10-15T20:01:32Z"
   },
   {
    "name": "Alliance Games",
@@ -2126,15 +2063,6 @@
    "checked_at": "2026-10-15T20:01:43Z"
   },
   {
-   "name": "Dealer's Choice",
-   "group": "in_store",
-   "city": "Nanaimo",
-   "region": "BC",
-   "address": "Lois Lane, Nanaimo, BC V9R 5B8, Canada",
-   "phone": "(250) 591-5288",
-   "checked_at": "2026-10-15T20:01:43Z"
-  },
-  {
    "name": "DICE INN Boardgames",
    "group": "in_store",
    "city": "sydney",
@@ -2190,19 +2118,6 @@
    "website": "https://eastsidecollectables.com.au/",
    "buylist_url": "https://eastsidecollectables.com.au/pages/sell-your-cards",
    "checked_at": "2026-10-15T19:58:06Z"
-  },
-  {
-   "name": "Elite4 Games",
-   "group": "in_store",
-   "city": "Victoria",
-   "region": "BC",
-   "address": "2770 Leigh Rd, Front Unit # 136, Victoria, BC V9B 4G2, Canada",
-   "phone": "(778) 265-5727",
-   "website": "https://www.elite4games.com/",
-   "buylist_url": "https://www.elite4games.com/Bulk-Trade-In",
-   "mail_in": false,
-   "credit_bonus": "store credit 60% vs cash 40% of market",
-   "checked_at": "2026-10-15T20:01:47Z"
   },
   {
    "name": "Elite4CollectablesAU",
@@ -2606,15 +2521,6 @@
    "checked_at": "2026-10-15T19:59:21Z"
   },
   {
-   "name": "My Elite Trainer Box",
-   "group": "in_store",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "11951 Mitchell Rd Ste 155, Richmond, BC V6V 1T6, Canada",
-   "phone": "(604) 715-6778",
-   "checked_at": "2026-10-15T20:01:45Z"
-  },
-  {
    "name": "Nakama Collectables",
    "group": "in_store",
    "city": "Osborne Park",
@@ -2886,15 +2792,6 @@
    "checked_at": "2026-10-15T19:57:59Z"
   },
   {
-   "name": "Sports Card Alley",
-   "group": "in_store",
-   "city": "Nanaimo",
-   "region": "BC",
-   "address": "2220 Bowen Rd, Nanaimo, BC V9S 1H9, Canada",
-   "phone": "(250) 758-1484",
-   "checked_at": "2026-10-15T20:01:43Z"
-  },
-  {
    "name": "SPORTS MEMORABILIA STORE GOLD COAST",
    "group": "in_store",
    "city": "Runaway Bay",
@@ -3094,18 +2991,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:57:25Z"
-  },
-  {
-   "name": "The Trading Gallery",
-   "group": "in_store",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "13888 Wireless Way #305, Richmond, BC V6V 0A3, Canada",
-   "phone": "(672) 200-1285",
-   "website": "https://www.thetradinggallery.com/en/ca",
-   "buylist_url": "https://www.thetradinggallery.com/bulk-sell",
-   "mail_in": false,
-   "checked_at": "2026-10-15T20:01:00Z"
   },
   {
    "name": "The Vintage Toy Box - Canberra",
@@ -3362,17 +3247,6 @@
    "checked_at": "2026-10-15T20:02:21Z"
   },
   {
-   "name": "Treasure Chest Games & Collectibles",
-   "group": "not_buying_singles",
-   "city": "Port Coquitlam",
-   "region": "BC",
-   "address": "3274 Coast Meridian Rd, Port Coquitlam, BC V3B 3N4, Canada",
-   "phone": "(604) 941-9313",
-   "website": "https://www.tcgames.ca/",
-   "buylist_url": "https://www.tcgames.ca/inactive_buylist",
-   "checked_at": "2026-10-15T20:01:39Z"
-  },
-  {
    "name": "WarGamers Hub",
    "group": "not_buying_singles",
    "address": "12/110 Morayfield Rd, Caboolture South, QLD, 4510, Australia",
@@ -3589,16 +3463,6 @@
    "address": "2/7 Tavern St, Kirwan QLD 4817",
    "website": "https://www.arcanebooks.com.au/",
    "checked_at": "2026-10-15T20:01:57Z"
-  },
-  {
-   "name": "Arcardia Collectibles & Exchange",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "3700 Number 3 Rd Unit 2320, Richmond, BC V6X 2C1, Canada",
-   "phone": "(778) 320-6991",
-   "website": "https://arcardia.ca/",
-   "checked_at": "2026-10-15T20:01:32Z"
   },
   {
    "name": "Archangel Collectables",
@@ -3832,16 +3696,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T19:57:51Z"
-  },
-  {
-   "name": "Blue Moon Collectables",
-   "group": "unknown",
-   "city": "Delta",
-   "region": "BC",
-   "address": "4876 Delta St, Delta, BC V4K 2T8, Canada",
-   "phone": "(604) 273-0907",
-   "website": "https://www.bluemooncollectables.com/",
-   "checked_at": "2026-10-15T20:01:46Z"
   },
   {
    "name": "Board Game Goblin",
@@ -4481,17 +4335,6 @@
    "checked_at": "2026-10-15T20:01:20Z"
   },
   {
-   "name": "Draw For Turn Games",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "12660 Bridgeport Rd #201, Richmond, BC V6V 1J4, Canada",
-   "phone": "(236) 998-6497",
-   "website": "https://drawforturn.ca/",
-   "buylist_url": "https://drawforturn.ca/pages/sell-to-us",
-   "checked_at": "2026-10-15T20:01:40Z"
-  },
-  {
    "name": "Dream Collectables",
    "group": "unknown",
    "city": "Wantirna South",
@@ -4573,16 +4416,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T19:55:24Z"
-  },
-  {
-   "name": "Everything J&J",
-   "group": "unknown",
-   "city": "New Westminster",
-   "region": "BC",
-   "address": "255 6th St, New Westminster, BC V3L 3A5, Canada",
-   "phone": "(604) 759-0187",
-   "website": "https://everythingjandj.com/",
-   "checked_at": "2026-10-15T20:01:33Z"
   },
   {
    "name": "Evo Games Springfield",
@@ -5409,16 +5242,6 @@
    "checked_at": "2026-10-15T19:57:15Z"
   },
   {
-   "name": "Hobbybox604 LTD.",
-   "group": "unknown",
-   "city": "North Vancouver",
-   "region": "BC",
-   "address": "708 Queensbury Ave, North Vancouver, BC V7L 3V9, Canada",
-   "phone": "(604) 900-1884",
-   "website": "https://604hobbybox.com/",
-   "checked_at": "2026-10-15T20:01:37Z"
-  },
-  {
    "name": "Hobbyco",
    "group": "unknown",
    "city": "Sydney",
@@ -5550,16 +5373,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:54:16Z"
-  },
-  {
-   "name": "Infinity Cards & Collectibles",
-   "group": "unknown",
-   "city": "Langley Twp",
-   "region": "BC",
-   "address": "27256 Fraser Hwy Unit 102, Aldergrove, BC V4W 3P8, Canada",
-   "phone": "(604) 308-5084",
-   "website": "https://infinitycards.ca/",
-   "checked_at": "2026-10-15T20:01:04Z"
   },
   {
    "name": "Innisfail Games & Hobbies",
@@ -5876,17 +5689,6 @@
    "checked_at": "2026-10-15T19:57:30Z"
   },
   {
-   "name": "Lets Collect Cards",
-   "group": "unknown",
-   "city": "Burnaby",
-   "region": "BC",
-   "address": "9855 Austin Rd #212, Burnaby, BC V3J 1N4, Canada",
-   "phone": "(236) 979-2270",
-   "website": "https://www.letscollectcards.com",
-   "buylist_url": "https://www.letscollectcards.com/sell",
-   "checked_at": "2026-10-15T20:01:34Z"
-  },
-  {
    "name": "Light of Cards - Zetland",
    "group": "unknown",
    "city": "Zetland",
@@ -5929,16 +5731,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:55:09Z"
-  },
-  {
-   "name": "Local Legends Cards & Collectibles",
-   "group": "unknown",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "1610 Robson St #110, Vancouver, BC V6G 1C7, Canada",
-   "phone": "(604) 674-3676",
-   "website": "https://locallegendscardsncollectibles.com/",
-   "checked_at": "2026-10-15T20:01:37Z"
   },
   {
    "name": "Looking for Gamers",
@@ -5993,16 +5785,6 @@
    "phone": "0403 129 918",
    "website": "https://www.madzombie.com.au/",
    "checked_at": "2026-10-15T20:00:17Z"
-  },
-  {
-   "name": "Magic Chest",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "5300 Number 3 Rd Unit 841, Richmond, BC V6X 2X9, Canada",
-   "phone": "(604) 902-8746",
-   "website": "https://magicchest.net/",
-   "checked_at": "2026-10-15T20:01:39Z"
   },
   {
    "name": "Makers TCG",
@@ -6323,16 +6105,6 @@
    "address": "Shop 8/19 Paterson St, Launceston TAS 7250",
    "website": "https://nekomart.com.au/password",
    "checked_at": "2026-10-15T20:01:28Z"
-  },
-  {
-   "name": "Nerd Feeder",
-   "group": "unknown",
-   "city": "Delta",
-   "region": "BC",
-   "address": "4962 Bridge St, Delta, BC V4K 2K1, Canada",
-   "phone": "(604) 710-2739",
-   "website": "http://nerdfeeder.ca/",
-   "checked_at": "2026-10-15T20:01:49Z"
   },
   {
    "name": "Next Level Games Dandenong",
@@ -7522,16 +7294,6 @@
    "checked_at": "2026-10-15T19:54:37Z"
   },
   {
-   "name": "The Card Corner and Games",
-   "group": "unknown",
-   "city": "Port Alberni",
-   "region": "BC",
-   "address": "5262 Argyle St a, Port Alberni, BC V9Y 1T9, Canada",
-   "phone": "(778) 421-0141",
-   "website": "https://cardcorner.ca/",
-   "checked_at": "2026-10-15T20:01:45Z"
-  },
-  {
    "name": "The Card Guys",
    "group": "unknown",
    "city": "Wynnum West",
@@ -8108,16 +7870,6 @@
    "checked_at": "2026-10-15T19:57:31Z"
   },
   {
-   "name": "Vancity CJ Trading Cards - Vancouver Pokemon Cards",
-   "group": "unknown",
-   "city": "Richmond",
-   "region": "BC",
-   "address": "3700 Number 3 Rd Unit 2340 (2nd Floor, Richmond, BC V6X 3X2, Canada",
-   "phone": "(778) 858-6899",
-   "website": "https://vancitycj.com/",
-   "checked_at": "2026-10-15T20:01:38Z"
-  },
-  {
    "name": "Vanguard Singles Australia",
    "group": "unknown",
    "city": "Melbourne",
@@ -8170,16 +7922,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T19:54:23Z"
-  },
-  {
-   "name": "Wally's Pro Sports Cards & Novelties",
-   "group": "unknown",
-   "city": "Vancouver",
-   "region": "BC",
-   "address": "2646 E Hastings St, Vancouver, BC V5K 1Z6, Canada",
-   "phone": "(604) 255-8955",
-   "website": "https://www.wallyscards.ca/",
-   "checked_at": "2026-10-15T20:01:43Z"
   },
   {
    "name": "Wargaming Agency",

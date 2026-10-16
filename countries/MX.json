@@ -2,7 +2,7 @@
  "country": "MX",
  "currency": "MXN",
  "updated": "2026-10-15",
- "store_count": 630,
+ "store_count": 618,
  "stores": [
   {
    "name": "Lofty TCG",
@@ -1022,15 +1022,6 @@
    "region": "Gto.",
    "address": "Blvd. Adolfo López Mateos 1902, Villa de las Torres, 37180 León de los Aldama, Gto.",
    "checked_at": "2026-10-15T20:12:19Z"
-  },
-  {
-   "name": "Centre City Sports Collectibles",
-   "group": "in_store",
-   "city": "San Diego",
-   "region": "CA",
-   "address": "1027 Sixth Ave, San Diego, CA 92101, USA",
-   "phone": "(619) 338-0007",
-   "checked_at": "2026-10-15T20:12:05Z"
   },
   {
    "name": "CENTRO COMERCIAL LAS AMERICAS",
@@ -3098,15 +3089,6 @@
    "checked_at": "2026-10-15T20:12:51Z"
   },
   {
-   "name": "San Ysidro Games Too",
-   "group": "in_store",
-   "city": "San Diego",
-   "region": "CA",
-   "address": "4630 Border Village Rd Ste. 205-206, San Ysidro, CA 92173, USA",
-   "phone": "(619) 540-6772",
-   "checked_at": "2026-10-15T20:12:00Z"
-  },
-  {
    "name": "Shadow Cards",
    "group": "in_store",
    "city": "Juarez",
@@ -3196,15 +3178,6 @@
    "region": "Gto.",
    "address": "Pedro Moreno 113-Loc 7, Centro, 37000 León de los Aldama, Gto.",
    "checked_at": "2026-10-15T20:12:29Z"
-  },
-  {
-   "name": "SOUTH BAY CARD SHOP",
-   "group": "in_store",
-   "city": "Chula Vista",
-   "region": "CA",
-   "address": "1355 Broadway Ste L-M, Chula Vista, CA 91911, USA",
-   "phone": "(619) 422-1787",
-   "checked_at": "2026-10-15T20:12:02Z"
   },
   {
    "name": "Spirit Games",
@@ -3423,15 +3396,6 @@
    "address": "Calle 13 #764 x66 y 68, Calle 13 762, Residencial Pensiones, 97219 Mérida, Yuc.",
    "phone": "446 339 0324",
    "checked_at": "2026-10-15T20:12:53Z"
-  },
-  {
-   "name": "The Card Shoppe",
-   "group": "in_store",
-   "city": "El Cajon",
-   "region": "CA",
-   "address": "2518 Jamacha Rd suite 305, El Cajon, CA 92019, USA",
-   "phone": "(619) 622-5536",
-   "checked_at": "2026-10-15T20:12:07Z"
   },
   {
    "name": "The Coffee Deck TCG",
@@ -4348,28 +4312,6 @@
    "checked_at": "2026-10-15T20:08:48Z"
   },
   {
-   "name": "BattleMage Brewing Company",
-   "group": "unknown",
-   "address": "2870 Scott St, Vista, CA, 92081-8556, USA",
-   "phone": "1(760) 216-6425",
-   "website": "https://www.battlemagebrewing.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:17Z"
-  },
-  {
-   "name": "Best Buy - Mira Mesa",
-   "group": "unknown",
-   "address": "9540 Mira Mesa Blvd, San Diego, CA, 92126-4896, USA",
-   "phone": "1858-831-9003",
-   "website": "https://www.bestbuy.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:14Z"
-  },
-  {
    "name": "Bookup Monterrey",
    "group": "unknown",
    "city": "San Pedro Garza García",
@@ -4619,16 +4561,6 @@
    "checked_at": "2026-10-15T20:08:38Z"
   },
   {
-   "name": "Chrono Toys Las Americas",
-   "group": "unknown",
-   "city": "San Diego",
-   "region": "CA",
-   "address": "4141 Camino De La Plaza #470, San Diego, CA 92173, USA",
-   "phone": "(619) 349-3623",
-   "website": "https://www.chronotoys.com/",
-   "checked_at": "2026-10-15T20:12:02Z"
-  },
-  {
    "name": "Coleccionables AD",
    "group": "unknown",
    "city": "México D.F.",
@@ -4695,16 +4627,6 @@
    "phone": "55 6609 8107",
    "website": "https://www.comicsuniverse.com.mx/",
    "checked_at": "2026-10-15T20:10:57Z"
-  },
-  {
-   "name": "Comics-N-Stuff",
-   "group": "unknown",
-   "city": "Chula Vista",
-   "region": "CA",
-   "address": "555 Broadway Ste 2006, Chula Vista, CA 91910, USA",
-   "phone": "(619) 426-2637",
-   "website": "https://comics-n-stuff.com/",
-   "checked_at": "2026-10-15T20:12:02Z"
   },
   {
    "name": "Corszas",
@@ -5852,16 +5774,6 @@
    "checked_at": "2026-10-15T20:11:26Z"
   },
   {
-   "name": "Luna Video Games",
-   "group": "unknown",
-   "city": "Chula Vista",
-   "region": "CA",
-   "address": "1550 Broadway, Chula Vista, CA 91911, USA",
-   "phone": "(619) 271-9311",
-   "website": "http://lunavideogames.com/",
-   "checked_at": "2026-10-15T20:12:04Z"
-  },
-  {
    "name": "Magimundo Forum Buenavista",
    "group": "unknown",
    "city": "México D.F.",
@@ -6354,16 +6266,6 @@
    "checked_at": "2026-10-15T20:08:36Z"
   },
   {
-   "name": "SD Sports Cards",
-   "group": "unknown",
-   "city": "Poway",
-   "region": "CA",
-   "address": "12759 Poway Rd Ste 108, Poway, CA 92064, USA",
-   "phone": "(858) 999-2286",
-   "website": "https://sdsportscards.com/",
-   "checked_at": "2026-10-15T20:12:07Z"
-  },
-  {
    "name": "SEÑOR RETRO",
    "group": "unknown",
    "city": "Mérida",
@@ -6439,26 +6341,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:57Z"
-  },
-  {
-   "name": "Slims Rips",
-   "group": "unknown",
-   "city": "Chula Vista",
-   "region": "CA",
-   "address": "689 Marsat Ct Ste B, Chula Vista, CA 91911, USA",
-   "phone": "(619) 997-6801",
-   "website": "https://www.slimsripstcg.com",
-   "checked_at": "2026-10-15T20:12:00Z"
-  },
-  {
-   "name": "Sports Treasures",
-   "group": "unknown",
-   "city": "San Diego",
-   "region": "CA",
-   "address": "4155 Camino De La Plaza Spc 448, San Ysidro, CA 92173, USA",
-   "phone": "(619) 657-0995",
-   "website": "https://www.sportstreasures.com/index.php",
-   "checked_at": "2026-10-15T20:12:12Z"
   },
   {
    "name": "STAFF International Trading",
