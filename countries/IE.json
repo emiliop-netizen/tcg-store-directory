@@ -1,8 +1,8 @@
 {
  "country": "IE",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 134,
+ "updated": "2026-10-16",
+ "store_count": 135,
  "stores": [
   {
    "name": "Forbidden Planet Dublin",
@@ -59,6 +59,17 @@
    "website": "https://www.collectionmania.ie/",
    "buylist_url": "https://www.collectionmania.ie/",
    "checked_at": "2026-10-16T02:13:44Z"
+  },
+  {
+   "name": "PW Cards (sellcards.me)",
+   "group": "quote_only",
+   "website": "https://sellcards.me",
+   "buylist_url": "https://sellcards.me",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon Cards Ireland: singles, slabs, we buy cards (Shopify). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "Conns Cameras",

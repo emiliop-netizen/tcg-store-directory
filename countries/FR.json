@@ -1,8 +1,8 @@
 {
  "country": "FR",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 760,
+ "updated": "2026-10-16",
+ "store_count": 765,
  "stores": [
   {
    "name": "Magic Corporation",
@@ -100,6 +100,17 @@
    "checked_at": "2026-10-16T02:21:05Z"
   },
   {
+   "name": "Kairyu (rachat)",
+   "group": "quote_only",
+   "website": "https://kairyu.fr",
+   "buylist_url": "https://rachat.kairyu.fr",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon collection buyback. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "Kularo Cardshop",
    "group": "quote_only",
    "city": "Grenoble",
@@ -138,6 +149,19 @@
    "checked_at": "2026-10-16T02:16:52Z"
   },
   {
+   "name": "LorenZone (rachat)",
+   "group": "quote_only",
+   "website": "https://lorenzone.fr",
+   "buylist_url": "https://rachat-cartes.lorenzone.fr",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon",
+    "One Piece",
+    "Lorcana"
+   ],
+   "notes": "Online buyback: photos then estimate (seen by the Mind 2026-10-16). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "Masterset",
    "group": "quote_only",
    "city": "Strasbourg",
@@ -174,6 +198,39 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:46Z"
+  },
+  {
+   "name": "rachat-cartes-pokemon.com",
+   "group": "quote_only",
+   "website": "https://rachat-cartes-pokemon.com",
+   "buylist_url": "https://rachat-cartes-pokemon.com",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Free estimate, fast payment. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
+   "name": "rachatpokemon.fr",
+   "group": "quote_only",
+   "website": "https://rachatpokemon.fr",
+   "buylist_url": "https://rachatpokemon.fr",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon card buyback. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
+   "name": "Wizcard (rachat)",
+   "group": "quote_only",
+   "website": "https://www.wizcard.fr",
+   "buylist_url": "https://rachat.wizcard.fr",
+   "national_mail_in": true,
+   "games_buys": [
+    "Magic: The Gathering"
+   ],
+   "notes": "Rachat MTG a l'unite ou en vrac. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "Attakus",

@@ -1,8 +1,8 @@
 {
  "country": "DE",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 728,
+ "updated": "2026-10-16",
+ "store_count": 738,
  "stores": [
   {
    "name": "BreakTheCase",
@@ -75,6 +75,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:24Z"
+  },
+  {
+   "name": "Spiel-es (Ankauf)",
+   "group": "public_buylist",
+   "website": "https://spiel-es.de",
+   "buylist_url": "https://ankauf.spiel-es.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon (German) Ankauf tool with a JSON price feed: GET https://ankauf.spiel-es.de/api/cards/search?q={name} then /api/cards/{id} -> pricing.payoutPriceCash (EUR cash). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "House of Cards and Games",
@@ -183,6 +194,17 @@
    "checked_at": "2026-10-16T02:37:23Z"
   },
   {
+   "name": "Cardtrading GmbH (Ankaufstool)",
+   "group": "quote_only",
+   "website": "https://cardtrading-gmbh.com",
+   "buylist_url": "https://ankauf.cardtrading-gmbh.com",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Ankaufstool. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "Chase Them Cards",
    "group": "quote_only",
    "city": "Frankfurt am Main",
@@ -265,6 +287,17 @@
    "checked_at": "2026-10-16T02:32:37Z"
   },
   {
+   "name": "DrisoCard (Ankauf)",
+   "group": "quote_only",
+   "website": "https://drisocard.de",
+   "buylist_url": "https://ankauf.drisocard.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon cards and bulk Ankauf site. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "F&N-Cards UG",
    "group": "quote_only",
    "city": "Fürstenwalde/Spree",
@@ -323,6 +356,17 @@
    "checked_at": "2026-10-16T02:29:59Z"
   },
   {
+   "name": "Knattercards (Ankauf)",
+   "group": "quote_only",
+   "website": "https://knattercards.de",
+   "buylist_url": "https://ankauf.knattercards.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Ankauf site. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "La-Games",
    "group": "quote_only",
    "city": "Vilsheim",
@@ -352,6 +396,19 @@
    "checked_at": "2026-10-16T02:30:00Z"
   },
   {
+   "name": "LHT-Cards (sellcards.eu)",
+   "group": "quote_only",
+   "website": "https://sellcards.eu",
+   "buylist_url": "https://sellcards.eu",
+   "national_mail_in": true,
+   "games_buys": [
+    "Yu-Gi-Oh!",
+    "Magic: The Gathering",
+    "Pokemon"
+   ],
+   "notes": "Kartenankauf for Yu-Gi-Oh!, MTG and Pokemon. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "Manaquelle",
    "group": "quote_only",
    "city": "Bad Segeberg",
@@ -366,6 +423,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:21Z"
+  },
+  {
+   "name": "MasterYourSet (Ankauf)",
+   "group": "quote_only",
+   "website": "https://masteryourset.de",
+   "buylist_url": "https://ankauf.masteryourset.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon cards and bulk Ankauf. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "Mendel's Sale & Purchase Lübeck",
@@ -389,6 +457,17 @@
    "buylist_url": "https://mr-collect.de/pages/sammelkarten-games-verkaufen-ankauf-bei-mr-collect",
    "mail_in": true,
    "checked_at": "2026-10-16T02:39:08Z"
+  },
+  {
+   "name": "MyCardVenture (Ankauf)",
+   "group": "quote_only",
+   "website": "https://mycardventure.de",
+   "buylist_url": "https://ankauf.mycardventure.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Ankauf dashboard (has an API at apis.mycardventure.de - not yet examined). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "Nakama Store",
@@ -417,6 +496,28 @@
    "buylist_url": "https://pruckis.de/pages/ankauf",
    "mail_in": true,
    "checked_at": "2026-10-16T02:34:42Z"
+  },
+  {
+   "name": "Sammelkartenwelt (Ankauf)",
+   "group": "quote_only",
+   "website": "https://sammelkartenwelt.de",
+   "buylist_url": "https://ankauf.sammelkartenwelt.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon collection/Ankauf app. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
+   "name": "Sleevee (Ankauf)",
+   "group": "quote_only",
+   "website": "https://sleevee.de",
+   "buylist_url": "https://ankauf.sleevee.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon cards and bulk Ankauf. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "TCG Germany",
@@ -954,6 +1055,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:34:40Z"
+  },
+  {
+   "name": "Ankauf Bender (ex AB Games)",
+   "group": "in_store",
+   "city": "Luebeck",
+   "website": "https://ankauf-bender.de",
+   "buylist_url": "https://ankauf-bender.de",
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon",
+    "Magic: The Gathering"
+   ],
+   "notes": "An- und Verkauf, Luebeck. Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "Arena Games (Ingolstadt)",
