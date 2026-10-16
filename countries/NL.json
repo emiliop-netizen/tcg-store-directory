@@ -1,14 +1,24 @@
 {
  "country": "NL",
  "currency": "EUR",
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "store_count": 524,
  "stores": [
   {
    "name": "Bescards",
-   "group": "public_buylist",
+   "group": "feed",
    "website": "https://www.bescards.com",
-   "buylist_url": "https://www.bescards.com",
+   "buylist_url": "https://buylist.bescards.com/browse",
+   "feed": {
+    "platform": "bescards",
+    "base": "https://buylist.bescards.com",
+    "games": [
+     "One Piece",
+     "Pokemon"
+    ],
+    "search": "/api/cards?game=<onepiece|pokemon>&q=<card number or name>",
+    "pricing": "offer = NM raw market (USD) x fxRates.USD -> EUR; then pricingSettingsByGame from the /browse page (onepiece 16 Oct: >= EUR 8 -> 60% cash / 70% credit, else 50% / 60%). Estimates until the card is in their cart."
+   },
    "national_mail_in": true,
    "games_buys": [
     "One Piece",
