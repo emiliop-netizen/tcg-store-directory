@@ -1854,6 +1854,21 @@
    "checked_at": "2026-10-15T20:20:58Z"
   },
   {
+   "name": "Atomic Empire",
+   "group": "public_buylist",
+   "city": "Durham",
+   "region": "North Carolina",
+   "address": "3400 Westgate Dr, Durham, NC, 27707, United States",
+   "phone": "1(919) 490-7900",
+   "website": "https://www.atomicempire.com/",
+   "buylist_url": "https://www.atomicempire.com/Card/List?buylist=1",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:35:13Z"
+  },
+  {
    "name": "Card Kingdom",
    "group": "public_buylist",
    "website": "https://www.cardkingdom.com",
@@ -1889,11 +1904,205 @@
    "notes": "Mail to 8550 S US Hwy 17-92, Maitland FL 32751 with sell order ID; ship within 10 days of approval; also 7 FL/GA stores. Widest game coverage of big US chains."
   },
   {
+   "name": "Darkhold Games",
+   "group": "public_buylist",
+   "city": "Eaton",
+   "region": "Ohio",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "937-867-4263",
+   "website": "https://store.darkholdgames.com/",
+   "buylist_url": "https://store.darkholdgames.com/pages/buy-orders",
+   "mail_in": true,
+   "credit_bonus": "Store credit option",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:39Z"
+  },
+  {
+   "name": "FaB Foundry",
+   "group": "public_buylist",
+   "city": "Portland",
+   "region": "Oregon",
+   "address": "1516 NE 37th Ave #205, Portland, OR 97232, USA, Portland, Oregon, 97232",
+   "phone": "9713808748",
+   "website": "https://www.fabfoundry.co",
+   "buylist_url": "https://www.fabfoundry.co/pages/buylist",
+   "mail_in": true,
+   "credit_bonus": "15% bonus for store credit",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:43:55Z"
+  },
+  {
+   "name": "Galaxy of Games",
+   "group": "public_buylist",
+   "city": "Billings",
+   "region": "Montana",
+   "address": "12488 S Rosecrest Rd, Herriman, UT, 84096, US",
+   "phone": "1(801)332-9889",
+   "website": "https://galaxyof.games/",
+   "buylist_url": "https://galaxyof.games/sell",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:25Z"
+  },
+  {
+   "name": "Game Cafe",
+   "group": "public_buylist",
+   "city": "Independence",
+   "region": "Missouri",
+   "address": "107 West Lexington Ave, Independence, MO, 64050, United States",
+   "phone": "1816-252-7529",
+   "website": "https://www.playgamecafe.com/",
+   "buylist_url": "https://www.playgamecafe.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "Credit typically 20% higher than cash",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:33:34Z"
+  },
+  {
+   "name": "Grandad's Cards",
+   "group": "public_buylist",
+   "city": "Lexington",
+   "region": "Kentucky",
+   "address": "709 Allendale Dr, Lexington, KY 40503, USA, Lexington, Kentucky, 40503",
+   "phone": "+1 859 303 6200",
+   "website": "https://grandadscards.shop/",
+   "buylist_url": "https://grandadscards.shop/pages/buylist",
+   "mail_in": true,
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:49:41Z"
+  },
+  {
+   "name": "Hastur Games",
+   "group": "public_buylist",
+   "city": "Midvale",
+   "region": "UT",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "801-352-2605",
+   "website": "https://www.hasturgames.com/",
+   "buylist_url": "https://www.hasturgames.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:21Z"
+  },
+  {
+   "name": "Oasis Games",
+   "group": "public_buylist",
+   "city": "Salt Lake City",
+   "region": "UT",
+   "address": "275 E 400 S., Salt Lake City, UT, 84111-2810, United States",
+   "phone": "18017384413",
+   "website": "https://www.oasisgamesslc.com/",
+   "buylist_url": "https://www.oasisgamesslc.com/sell",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:07Z"
+  },
+  {
+   "name": "Scattered Deck Games",
+   "group": "public_buylist",
+   "city": "Stanwood",
+   "region": "WA",
+   "address": "8919 271st St NW, Stanwood, WA 98292",
+   "phone": "360-572-2239",
+   "website": "https://www.scattereddeckgames.com/",
+   "buylist_url": "https://www.scattereddeckgames.com/buylist",
+   "credit_bonus": "store credit only",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:26:23Z"
+  },
+  {
+   "name": "Taitan Game Shop - Coraopolis",
+   "group": "public_buylist",
+   "city": "Coraopolis",
+   "region": "PA",
+   "address": "1005 Pine Way, Coraopolis, PA, 15108, United States",
+   "phone": "1724-203-0889 ",
+   "website": "https://www.taitangameshop.com/",
+   "buylist_url": "https://www.taitangameshop.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:00Z"
+  },
+  {
+   "name": "TCG Village",
+   "group": "public_buylist",
+   "city": "Chantilly",
+   "region": "VA",
+   "address": "14240 Sullyfield Cir, Chantilly, VA, 20151, United States",
+   "phone": "1703-953-3800",
+   "website": "https://tcgvillage.com",
+   "buylist_url": "https://tcgvillage.com/pages/trade-ins",
+   "credit_bonus": "store credit rate higher than cash (e.g. 75% credit / 65% cash Pokemon)",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:27:31Z"
+  },
+  {
+   "name": "The Toy Factory",
+   "group": "public_buylist",
+   "city": "Hillsborough",
+   "region": "North Carolina",
+   "address": "110 Boone Square St, Hillsborough, NC, 27278, United States",
+   "phone": "1919-732-2155",
+   "website": "https://www.thetoyfactory.com/",
+   "buylist_url": "https://www.thetoyfactory.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:35:21Z"
+  },
+  {
+   "name": "Top Cut Collectibles",
+   "group": "public_buylist",
+   "city": "Berwyn",
+   "region": "IL",
+   "address": "7122 Ogden Ave Ste B, Berwyn, IL 60402",
+   "phone": "(708) 317-5589",
+   "website": "https://www.topcutcollectibles.com/",
+   "buylist_url": "https://www.topcutcollectibles.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "separate credit total option",
+   "checked_at": "2026-10-15T20:53:17Z"
+  },
+  {
    "name": "Troll and Toad",
    "group": "public_buylist",
    "website": "https://www.trollandtoad.com",
    "buylist_url": "https://buylist.trollandtoad.com",
    "notes": "Homepage says store temporarily shutting down to move inventory but buylist stated to remain active; buylist page itself could not be read. Verify manually."
+  },
+  {
+   "name": "Xtreme Collectables",
+   "group": "public_buylist",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "905-945-4456",
+   "website": "https://www.xtremecollectables.com",
+   "buylist_url": "https://www.xtremecollectables.com/buylist",
+   "credit_bonus": "Store credit ~10% higher than cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:41:31Z"
   },
   {
    "name": "AGS",
@@ -2501,6 +2710,22 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:47:25Z"
+  },
+  {
+   "name": "Game Grid - North Ogden",
+   "group": "login_required",
+   "city": "Ogden",
+   "region": "UT",
+   "address": "817 Wall Ave, Ogden, UT, 84404, United States",
+   "phone": "1801-782-6242",
+   "website": "https://ggnorthogden.com/",
+   "buylist_url": "https://ggnorthogden.com/pages/buylist",
+   "mail_in": true,
+   "credit_bonus": "Store credit option, implied bonus",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:45Z"
   },
   {
    "name": "Game Master's Emporium",
@@ -3327,6 +3552,190 @@
    "notes": "Email itemized list (TCGplayer export OK) for tentative offer, final offer within a week of receipt. Does NOT buy bulk that must be shipped."
   },
   {
+   "name": "Aloha Card Shop - Ward",
+   "group": "quote_only",
+   "city": "Honolulu",
+   "region": "Hawaii",
+   "address": "320 Ward Ave, Honolulu, HI, 96814, United States",
+   "phone": "1808-591-9955",
+   "website": "https://www.alohacardshop.com/",
+   "buylist_url": "https://www.alohacardshop.com/pages/sell-to-us",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:43:02Z"
+  },
+  {
+   "name": "Auggie's Games",
+   "group": "quote_only",
+   "city": "Stone Mountain",
+   "region": "Georgia",
+   "address": "5385 Five Forks Trickum Rd Suite G, Stone Mountain, GA, 30087, US",
+   "phone": "4702087620",
+   "website": "https://www.auggiesgamestore.com/",
+   "buylist_url": "https://www.auggiesgamestore.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "Credit at full value; cash 75%",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:33:56Z"
+  },
+  {
+   "name": "Card Bird Games",
+   "group": "quote_only",
+   "address": "4443 54th Ave N, St Petersburg, FL, 33714-2257, Untied States",
+   "phone": "1727-649-4855",
+   "website": "https://cardbirdgames.com",
+   "buylist_url": "https://cardbirdgames.com/pages/sell-your-cards",
+   "mail_in": true,
+   "credit_bonus": "Higher value in store credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:36:34Z"
+  },
+  {
+   "name": "CardsHQ",
+   "group": "quote_only",
+   "city": "Atlanta",
+   "region": "Georgia",
+   "address": "3101 Cobb Pkwy SE Suite 100, Atlanta, GA, 30339, US",
+   "phone": "16787417618",
+   "website": "https://www.cardshq.com/",
+   "buylist_url": "https://www.cardshq.com/pages/sell",
+   "mail_in": false,
+   "credit_bonus": "80% credit vs 70% cash",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:33:46Z"
+  },
+  {
+   "name": "Dean's Cards",
+   "group": "quote_only",
+   "city": "Cincinnati",
+   "region": "OH",
+   "address": "5509 Fair Ln, Cincinnati, OH 45227",
+   "phone": "(513) 898-0651",
+   "website": "https://www.deanscards.com/",
+   "buylist_url": "https://www.deanscards.com/sell-your-baseball-cards",
+   "mail_in": true,
+   "checked_at": "2026-10-15T21:16:32Z"
+  },
+  {
+   "name": "Geekery Games",
+   "group": "quote_only",
+   "city": "Flagstaff",
+   "region": "Arizona",
+   "address": "1800 S Milton Rd #110, Flagstaff, AZ 86001, USA, Flagstaff, Arizona, 86001",
+   "phone": "+1 928-774-0296",
+   "website": "https://geekerygames.com/",
+   "buylist_url": "https://geekerygames.com/pages/sell-your-cards",
+   "mail_in": true,
+   "credit_bonus": "store credit higher value",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:47:52Z"
+  },
+  {
+   "name": "Goblet TCG",
+   "group": "quote_only",
+   "address": "303 21st St, Newport, MN, 55055-1094, United States",
+   "phone": "1651-352-2117",
+   "website": "https://goblettcg.com/",
+   "buylist_url": "https://goblettcg.com/pages/sell-list",
+   "credit_bonus": "Store credit offers higher value than cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:36:00Z"
+  },
+  {
+   "name": "Grail Collectibles",
+   "group": "quote_only",
+   "city": "Chandler",
+   "region": "AZ",
+   "address": "2160 N Alma School Rd Ste 112, Chandler, AZ 85224",
+   "phone": "(602) 762-7316",
+   "website": "https://grailcollectibles.io/",
+   "buylist_url": "https://grailcollectibles.io/pages/sell-to-us-1",
+   "checked_at": "2026-10-15T20:54:15Z"
+  },
+  {
+   "name": "Hill Top Collectibles - DFW",
+   "group": "quote_only",
+   "city": "Carrollton",
+   "region": "TX",
+   "address": "3730 N Josey Ln Apt 124, Carrollton, TX 75007",
+   "phone": "(214) 731-6842",
+   "website": "https://hilltopcollectibles.shop/",
+   "buylist_url": "https://hilltopcollectibles.shop/pages/buying-form",
+   "checked_at": "2026-10-15T20:56:54Z"
+  },
+  {
+   "name": "Hill Top TCG",
+   "group": "quote_only",
+   "city": "Ogden",
+   "region": "Utah",
+   "address": "4510 900 W, Ogden, UT, 84405, US",
+   "phone": "18016058250",
+   "website": "https://hilltopcollectibles.shop/",
+   "buylist_url": "https://hilltopcollectibles.shop/pages/buying-form",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:39Z"
+  },
+  {
+   "name": "Indy Card Exchange",
+   "group": "quote_only",
+   "city": "Indianapolis",
+   "region": "IN",
+   "address": "7035 E 96th St Ste p, Indianapolis, IN 46250",
+   "phone": "(317) 254-8681",
+   "website": "https://indycardexchange.com/",
+   "buylist_url": "https://indycardexchange.com/what-we-buy/",
+   "mail_in": false,
+   "checked_at": "2026-10-15T21:00:12Z"
+  },
+  {
+   "name": "Intergalactic Plastic",
+   "group": "quote_only",
+   "address": "4419 Florida Ave S, Lakeland, FL, 33813, United States",
+   "phone": "1863-213-4486",
+   "website": "https://www.intergalacticplastic.com/",
+   "buylist_url": "https://www.intergalacticplastic.com/sell",
+   "mail_in": false,
+   "credit_bonus": "In-store trade credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:36:48Z"
+  },
+  {
+   "name": "Noble Knight Games",
+   "group": "quote_only",
+   "city": "Fitchburg",
+   "region": "Wisconsin",
+   "address": "2835 Commerce Park Drive, Fitchburg, WI, 53719, United States",
+   "phone": "1608-758-9901",
+   "website": "https://www.nobleknight.com/",
+   "buylist_url": "https://www.nobleknight.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "Free shipping both ways on trade-in",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:43:19Z"
+  },
+  {
    "name": "SellBulkHere",
    "group": "quote_only",
    "website": "https://sellbulkhere.com",
@@ -3350,6 +3759,92 @@
     "World of Warcraft TCG"
    ],
    "notes": "Bulk estimator with posted rates; custom quotes for >$2,000 collections, binders, sealed via support@sellbulkhere.com. Broadest Bandai/Weiss coverage found."
+  },
+  {
+   "name": "Stevenson Games - Pikesville",
+   "group": "quote_only",
+   "city": "Pikesville",
+   "region": "Maryland",
+   "address": "10401 Stevenson Rd, Pikesville, MD, 21153, United States",
+   "phone": "+14105048169",
+   "website": "https://stevensongames.com/",
+   "buylist_url": "https://stevensongames.com/pages/sell-your-collection",
+   "mail_in": true,
+   "credit_bonus": "10% premium for store credit (70% vs 60%)",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:27:54Z"
+  },
+  {
+   "name": "The Hobby Source",
+   "group": "quote_only",
+   "city": "Englewood",
+   "region": "CO",
+   "address": "4242 S Broadway, Englewood, CO 80113",
+   "phone": "(720) 282-9555",
+   "website": "https://myhobbysource.com/",
+   "buylist_url": "https://myhobbysource.com/buying/",
+   "mail_in": true,
+   "checked_at": "2026-10-15T21:01:39Z"
+  },
+  {
+   "name": "The Wolf Den",
+   "group": "quote_only",
+   "address": "300 1st St S, Montgomery, MN, 56069-1623, United States",
+   "phone": "1701-409-0782",
+   "website": "https://www.wolfdengamingmn.com/",
+   "buylist_url": "https://www.wolfdengamingmn.com/sell-cards",
+   "credit_bonus": "Store credit higher value",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:36:18Z"
+  },
+  {
+   "name": "Tony's Treasures | BUY/SELL/TRADE Video Games & Collectibles",
+   "group": "quote_only",
+   "city": "Chicago",
+   "region": "IL",
+   "address": "3208 W North Ave, Chicago, IL 60647",
+   "phone": "(773) 384-5488",
+   "website": "https://tonystreasure.com/",
+   "buylist_url": "https://tonystreasure.com/pages/sell-your-video-games",
+   "checked_at": "2026-10-15T20:53:12Z"
+  },
+  {
+   "name": "Top Issue - Sports cards and Americana.",
+   "group": "quote_only",
+   "city": "Deerfield",
+   "region": "IL",
+   "address": "829 Waukegan Rd, Deerfield, IL 60015",
+   "phone": "(224) 301-2273",
+   "website": "https://tisecured.com/",
+   "buylist_url": "https://tisecured.com/pages/sell-your-cards",
+   "checked_at": "2026-10-15T20:53:17Z"
+  },
+  {
+   "name": "West Coast Sports Cards",
+   "group": "quote_only",
+   "city": "Federal Way",
+   "region": "WA",
+   "address": "2008 S 314th St, Federal Way, WA 98003",
+   "phone": "(253) 941-1757",
+   "website": "https://www.pristinecomics.com",
+   "buylist_url": "https://www.pristinecomics.com/sell-to-us/",
+   "checked_at": "2026-10-15T21:01:12Z"
+  },
+  {
+   "name": "West Coast Sports Cards (Auburn)",
+   "group": "quote_only",
+   "city": "Auburn",
+   "region": "WA",
+   "address": "1101 Outlet Collection Way #1321, Auburn, WA 98001",
+   "phone": "(253) 941-1986",
+   "website": "https://www.pristinecomics.com/",
+   "buylist_url": "https://www.pristinecomics.com/sell-to-us/",
+   "checked_at": "2026-10-15T21:01:04Z"
   },
   {
    "name": "2nd & Charles",
@@ -6683,6 +7178,23 @@
    "checked_at": "2026-10-15T20:47:25Z"
   },
   {
+   "name": "Alchemist's Refuge",
+   "group": "in_store",
+   "city": "Cincinnati",
+   "region": "Ohio",
+   "address": "11925 Montgomery Rd, Cincinnati, OH, 45249, US",
+   "phone": "15134454472",
+   "website": "https://alchemistsrefuge.shop/",
+   "buylist_url": "https://alchemistsrefuge.shop/pages/magic-buylist",
+   "mail_in": false,
+   "credit_bonus": "Hot list up to 80% trade-in",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:24Z"
+  },
+  {
    "name": "Alex's Retro Games & collectibles",
    "group": "in_store",
    "city": "Fresno",
@@ -6984,6 +7496,21 @@
    "checked_at": "2026-10-15T21:22:27Z"
   },
   {
+   "name": "AtlantaTCG",
+   "group": "in_store",
+   "city": "Roswell",
+   "region": "GA",
+   "address": "626 Holcomb Bridge Rd, Roswell, GA, 30076, United States",
+   "phone": "14705502481",
+   "website": "https://www.atlantatcg.com/",
+   "buylist_url": "https://www.atlantatcg.com/sell-to-us",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:34:00Z"
+  },
+  {
    "name": "Atomic Comics",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -7145,6 +7672,20 @@
    "checked_at": "2026-10-15T20:50:04Z"
   },
   {
+   "name": "Bandits Hideout",
+   "group": "in_store",
+   "address": "357 Marketplace Dr, Freeburg, IL, 62243-4075, United States",
+   "phone": "1618-612-8917",
+   "website": "https://thebanditshideout.com/",
+   "buylist_url": "https://thebanditshideout.com/pages/sell-to-us",
+   "mail_in": false,
+   "credit_bonus": "Bulk rates are store credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:59Z"
+  },
+  {
    "name": "Bandzo's Sandbox",
    "group": "in_store",
    "city": "Columbus",
@@ -7217,6 +7758,18 @@
    "address": "Westbank Expy, Gretna, LA 70056",
    "phone": "(504) 330-9072",
    "checked_at": "2026-10-15T21:15:18Z"
+  },
+  {
+   "name": "Bazaar Game Trading",
+   "group": "in_store",
+   "address": "650 Amherst St, Nashua, NH, 03063, United States",
+   "phone": "1603-288-1899",
+   "website": "https://www.bazaargametrading.com/",
+   "buylist_url": "https://www.bazaargametrading.com/faqs",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:28:35Z"
   },
   {
    "name": "Bear Hobbies USA",
@@ -7635,6 +8188,17 @@
    "checked_at": "2026-10-15T21:10:18Z"
   },
   {
+   "name": "Burbank Sportscards",
+   "group": "in_store",
+   "city": "Burbank",
+   "region": "CA",
+   "address": "935 N Hollywood Way, Burbank, CA 91505",
+   "phone": "(818) 843-2600",
+   "website": "https://burbankcards.com/",
+   "buylist_url": "https://burbankcards.com/pages/buying-faq-new",
+   "checked_at": "2026-10-15T20:52:06Z"
+  },
+  {
    "name": "Bussin’ Or Bustin’ Trading Card Lounge",
    "group": "in_store",
    "city": "Tempe",
@@ -7778,6 +8342,22 @@
    "checked_at": "2026-10-15T20:47:27Z"
   },
   {
+   "name": "Card Swarm",
+   "group": "in_store",
+   "city": "Huber Heights",
+   "region": "Ohio",
+   "address": "7683 Old Troy Pike, Huber Heights, OH 45424, USA, Huber Heights, Ohio, 45424",
+   "phone": "+1 937-723-7878",
+   "website": "https://www.cardswarm.com/",
+   "buylist_url": "https://www.cardswarm.com/trade",
+   "mail_in": false,
+   "credit_bonus": "store credit pays higher than cash",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:47:47Z"
+  },
+  {
    "name": "Card World of Bryant",
    "group": "in_store",
    "city": "Bryant",
@@ -7816,6 +8396,22 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:22:23Z"
+  },
+  {
+   "name": "Cardhalla",
+   "group": "in_store",
+   "city": "Laramie",
+   "region": "Wyoming",
+   "address": "2133 E Garfield St, Laramie, WY 82070, USA, Laramie, Wyoming, 82070",
+   "phone": "+1307-223-1603",
+   "website": "https://www.cardhalla.com/",
+   "buylist_url": "https://www.cardhalla.com/we-buy-cards",
+   "mail_in": false,
+   "credit_bonus": "60% store credit vs 40% cash",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:48:51Z"
   },
   {
    "name": "Cardivore TCG",
@@ -9102,6 +9698,21 @@
    "checked_at": "2026-10-15T20:48:14Z"
   },
   {
+   "name": "Dragon's Hoard",
+   "group": "in_store",
+   "city": "Greensboro",
+   "region": "North Carolina",
+   "address": "4645 W Market St, Greensboro, NC 27407, USA, Greensboro, North Carolina, 27407",
+   "phone": "+1 336-617-5668",
+   "website": "https://www.dragonshoardnc.com/",
+   "buylist_url": "https://www.dragonshoardnc.com/trade-in-policy",
+   "credit_bonus": "60% store credit",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:48:23Z"
+  },
+  {
    "name": "Dragons Daggers N Games",
    "group": "in_store",
    "city": "Stevens Point",
@@ -9462,6 +10073,19 @@
    "address": "1151 Galleria Blvd, Roseville, CA 95678",
    "phone": "(888) 375-6397",
    "checked_at": "2026-10-15T21:10:43Z"
+  },
+  {
+   "name": "Fandom Trade",
+   "group": "in_store",
+   "city": "Glenview",
+   "region": "IL",
+   "address": "1872 Johns Dr, Glenview, IL 60025",
+   "phone": "(224) 374-0670",
+   "website": "https://fandomtrade.com/",
+   "buylist_url": "https://fandomtrade.com/pages/trade-in",
+   "mail_in": false,
+   "credit_bonus": "store credit only",
+   "checked_at": "2026-10-15T20:53:10Z"
   },
   {
    "name": "Fantasy Fortress",
@@ -9938,6 +10562,20 @@
    "address": "2 S Main St, Brighton, CO 80601",
    "phone": "(303) 637-7503",
    "checked_at": "2026-10-15T21:02:14Z"
+  },
+  {
+   "name": "Game Underground",
+   "group": "in_store",
+   "address": "349 Moody Street, Waltham, MA, 02453, United States",
+   "phone": "1508-283-1503",
+   "website": "https://www.gameunderground.store/",
+   "buylist_url": "https://www.gameunderground.store/trades",
+   "mail_in": false,
+   "credit_bonus": "Store credit always more than cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:28:08Z"
   },
   {
    "name": "Game Universe - Brookfield",
@@ -10543,6 +11181,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:27:07Z"
+  },
+  {
+   "name": "Grandmaster Games - Boulder",
+   "group": "in_store",
+   "address": "4800 Baseline Rd. Ste C103, Boulder, CO, 80303, United States",
+   "phone": "1(303) 494-0302",
+   "website": "https://www.gmgboulderco.co/",
+   "buylist_url": "https://www.gmgboulderco.co/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:26:56Z"
   },
   {
    "name": "Gravity Games",
@@ -11280,6 +11930,22 @@
    "checked_at": "2026-10-15T20:56:35Z"
   },
   {
+   "name": "Izzi's Gym",
+   "group": "in_store",
+   "city": "Aurora",
+   "region": "Illinois",
+   "address": "807 N Lake St, Aurora, IL 60506, USA, Aurora, Illinois, 60506",
+   "phone": "+1 605-888-4994",
+   "website": "https://izzisgym.com",
+   "buylist_url": "https://izzisgym.com/sell-cards",
+   "mail_in": false,
+   "credit_bonus": "80% trade credit vs 60% cash",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:49:44Z"
+  },
+  {
    "name": "J&K Awesome Collectables / AKC Cabinets",
    "group": "in_store",
    "city": "Orlando",
@@ -11890,6 +12556,23 @@
    "checked_at": "2026-10-15T20:49:15Z"
   },
   {
+   "name": "Layton Gaming",
+   "group": "in_store",
+   "city": "Altamonte Springs",
+   "region": "Florida",
+   "address": "1140 E Altamonte Dr, Altamonte Springs, FL, 32701, US",
+   "phone": "1407-782-3883",
+   "website": "https://laytongaming.com/",
+   "buylist_url": "https://laytongaming.com/pages/sell-your-cards",
+   "mail_in": false,
+   "credit_bonus": "Up to 15% more for store credit",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:37:20Z"
+  },
+  {
    "name": "Lazarus Games LLC",
    "group": "in_store",
    "city": "Harrisburg",
@@ -12086,6 +12769,20 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:44:20Z"
+  },
+  {
+   "name": "Lost Legacy Collectibles",
+   "group": "in_store",
+   "address": "111 Depot St, Fuquay-Varina, NC, 27526-2106, United States",
+   "phone": "1 (919) 600-2926",
+   "website": "https://lostlegacy-collectibles.com/",
+   "buylist_url": "https://lostlegacy-collectibles.com/pages/trades",
+   "mail_in": false,
+   "credit_bonus": "Credit 80-85% vs cash 65-80%",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:35:08Z"
   },
   {
    "name": "Lotus Grounds Games",
@@ -12302,6 +12999,19 @@
    "address": "15420 Ambaum Blvd SW, Burien, WA 98166",
    "phone": "(206) 351-5268",
    "checked_at": "2026-10-15T21:01:08Z"
+  },
+  {
+   "name": "MASTERPIECE COLLECTIBLES AND GAMES LLC",
+   "group": "in_store",
+   "city": "Leslie",
+   "region": "Michigan",
+   "address": "105 S Main St, Leslie, MI 49251, USA, Leslie, Michigan, 49251",
+   "website": "https://www.mpccg.com/",
+   "buylist_url": "https://www.mpccg.com/buylist/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:49:39Z"
   },
   {
    "name": "Matchstick Games",
@@ -13262,6 +13972,20 @@
    "checked_at": "2026-10-15T21:00:45Z"
   },
   {
+   "name": "Orion Bricks and Games",
+   "group": "in_store",
+   "address": "53 N Springboro Pike, Miamisburg, OH, 45342, US",
+   "phone": "19372219698",
+   "website": "https://playoriongames.com/",
+   "buylist_url": "https://playoriongames.com/home/all-about-trade-ins/",
+   "mail_in": false,
+   "credit_bonus": "Credit 50-70% vs lower cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:34Z"
+  },
+  {
    "name": "Orlando Sports Card Hobby Shop",
    "group": "in_store",
    "city": "Orlando",
@@ -13589,6 +14313,22 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:26:09Z"
+  },
+  {
+   "name": "Playmakers Gaming, Cards, and Collectibles",
+   "group": "in_store",
+   "city": "Hudsonville",
+   "region": "Michigan",
+   "address": "3376 Central Blvd, Hudsonville, MI 49426, USA, Hudsonville, Michigan, 49426",
+   "phone": "+1 616-209-5002",
+   "website": "https://playmakersgcc.com/",
+   "buylist_url": "https://playmakersgcc.com/pages/what-we-buy",
+   "mail_in": false,
+   "credit_bonus": "store credit rate better than cash",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:50:03Z"
   },
   {
    "name": "Playscape",
@@ -14091,6 +14831,20 @@
    "region": "HI",
    "address": "100 N Beretania St Ste 129 34, Honolulu, HI 96817",
    "checked_at": "2026-10-15T21:21:09Z"
+  },
+  {
+   "name": "Retro Games Plus",
+   "group": "in_store",
+   "city": "Newington",
+   "region": "CT",
+   "address": "2455 Berlin Tpke, Newington, CT, 06111, United States",
+   "phone": "1860-436-3258",
+   "website": "https://retrogamesplus.com/",
+   "buylist_url": "https://retrogamesplus.com/sell/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:41:34Z"
   },
   {
    "name": "Retro Held TCG",
@@ -14811,6 +15565,20 @@
    "address": "11841 Ventura Blvd, Studio City, CA 91604",
    "phone": "(818) 980-4155",
    "checked_at": "2026-10-15T20:52:30Z"
+  },
+  {
+   "name": "Sports Zone",
+   "group": "in_store",
+   "city": "Holyoke",
+   "region": "Massachusetts",
+   "address": "50 Holyoke St, Holyoke, MA 01040, USA, Holyoke, Massachusetts, 01040",
+   "phone": "+1 413-532-9989",
+   "website": "https://www.sportszoneny.com/",
+   "buylist_url": "https://www.sportszoneny.com/we-buy-sports-memorabilia",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:47:23Z"
   },
   {
    "name": "Sports Zone 716",
@@ -15827,6 +16595,23 @@
    "checked_at": "2026-10-15T21:06:04Z"
   },
   {
+   "name": "The Happy Skeleton",
+   "group": "in_store",
+   "city": "Longwood",
+   "region": "Florida",
+   "address": "1111 N Ronald Reagan Blvd, Longwood, FL, 32750-3017, United States",
+   "phone": "1321-972-1059",
+   "website": "https://www.thehappyskeleton.com/",
+   "buylist_url": "https://www.thehappyskeleton.com/sell-trading-cards",
+   "mail_in": false,
+   "credit_bonus": "10% bonus for store credit",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:37:27Z"
+  },
+  {
    "name": "The Hideout",
    "group": "in_store",
    "city": "Wasilla",
@@ -16042,6 +16827,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:29:22Z"
+  },
+  {
+   "name": "The Sandlot Sports Cards and Memorabilia",
+   "group": "in_store",
+   "city": "Glen Ellyn",
+   "region": "IL",
+   "address": "529 Roosevelt Rd, Glen Ellyn, IL 60137",
+   "phone": "(630) 675-0001",
+   "website": "https://thesandlotsports.com/",
+   "buylist_url": "https://thesandlotsports.com/pages/sell",
+   "checked_at": "2026-10-15T20:53:06Z"
   },
   {
    "name": "The Scavenger's Vault",
@@ -16417,6 +17213,23 @@
    "checked_at": "2026-10-15T21:08:42Z"
   },
   {
+   "name": "Tower of Games - Boca Raton",
+   "group": "in_store",
+   "city": "Newport News",
+   "region": "Virginia",
+   "address": "499 NE Spanish River Blvd, Boca Raton, FL, 33431, United States",
+   "phone": "1561-722-2872",
+   "website": "https://www.towerofgames.com",
+   "buylist_url": "https://www.towerofgames.com/trade",
+   "mail_in": false,
+   "credit_bonus": "30% extra in-store credit",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:34:52Z"
+  },
+  {
    "name": "Toy Crazy Collectables",
    "group": "in_store",
    "city": "Louisville",
@@ -16470,6 +17283,22 @@
    "address": "645 E Shaw Ave, Fresno, CA 93710",
    "phone": "(559) 375-9590",
    "checked_at": "2026-10-15T21:10:25Z"
+  },
+  {
+   "name": "Toynado Alley",
+   "group": "in_store",
+   "city": "Occoquan Historic District",
+   "region": "Virginia",
+   "address": "310 Mill Store, Occoquan, VA, 22125, United States",
+   "phone": "1-571-409-7130",
+   "website": "https://toynadoalley.com/",
+   "buylist_url": "https://toynadoalley.com/pages/transparent-collection-buying",
+   "mail_in": false,
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:27:24Z"
   },
   {
    "name": "Toys & More",
@@ -16564,6 +17393,22 @@
    "address": "3414 W Union Hills Dr Suite 14, Phoenix, AZ 85027",
    "phone": "(602) 377-6757",
    "checked_at": "2026-10-15T20:54:11Z"
+  },
+  {
+   "name": "Trading Card Market",
+   "group": "in_store",
+   "city": "Manchester",
+   "region": "Missouri",
+   "address": "14208 Manchester Rd, Manchester, MO, 63011, United States",
+   "phone": "314-706-1404",
+   "website": "https://tradingcardmarket.com",
+   "buylist_url": "https://tradingcardmarket.com/pages/sell-your-cards",
+   "mail_in": false,
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:39:53Z"
   },
   {
    "name": "Trading Card Plug",
@@ -16734,6 +17579,22 @@
    "checked_at": "2026-10-15T21:15:18Z"
   },
   {
+   "name": "Underworld Cards & Games",
+   "group": "in_store",
+   "city": "Raleigh",
+   "region": "NC",
+   "address": "5563 Western Blvd, Raleigh, NC, 27606, US",
+   "phone": "+1 984-328-2608",
+   "website": "https://www.underworldtcg.com/",
+   "buylist_url": "https://www.underworldtcg.com/sell",
+   "mail_in": false,
+   "credit_bonus": "5% bonus for store credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:34:54Z"
+  },
+  {
    "name": "Unicorn Comics & Cards",
    "group": "in_store",
    "city": "Villa Park",
@@ -16785,6 +17646,17 @@
    "region": "LA",
    "address": "New Orleans, LA 70113",
    "checked_at": "2026-10-15T21:15:25Z"
+  },
+  {
+   "name": "Utah Premier Sports Cards & Memorabilia",
+   "group": "in_store",
+   "city": "Midway",
+   "region": "UT",
+   "address": "206 W Main St Ste G, Midway, UT 84049",
+   "phone": "(435) 352-1100",
+   "website": "https://utahpremiersportscards.com/",
+   "buylist_url": "https://utahpremiersportscards.com/home",
+   "checked_at": "2026-10-15T21:17:14Z"
   },
   {
    "name": "Utopia Games and Collectibles",
@@ -16981,6 +17853,40 @@
    "checked_at": "2026-10-15T21:10:18Z"
   },
   {
+   "name": "We Geek Together",
+   "group": "in_store",
+   "city": "Provo",
+   "region": "Utah",
+   "address": "1200 Towne Centre Blvd, Provo, UT, 84601, United States",
+   "phone": "1206-334-3607",
+   "website": "https://www.wegeektogether.com/",
+   "buylist_url": "https://www.wegeektogether.com/pages/sell-magic-cards",
+   "mail_in": false,
+   "credit_bonus": "70% store credit vs 50% cash",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:49Z"
+  },
+  {
+   "name": "We Geek Together - Sandy",
+   "group": "in_store",
+   "city": "Sandy",
+   "region": "Utah",
+   "address": "10450 S State St, Sandy, UT, 84070-4111, United States",
+   "phone": "1801-512-2149",
+   "website": "https://www.wegeektogether.com/",
+   "buylist_url": "https://www.wegeektogether.com/pages/sell-magic-cards",
+   "mail_in": false,
+   "credit_bonus": "Credit 70% vs cash 50%",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:24Z"
+  },
+  {
    "name": "We Love Comics",
    "group": "in_store",
    "city": "Tampa",
@@ -17079,6 +17985,21 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:24:50Z"
+  },
+  {
+   "name": "Wizards of the West TCG",
+   "group": "in_store",
+   "city": "Murray",
+   "region": "UT",
+   "address": "5280 S Commerce Dr, Salt Lake City, UT, 84107-5321, United States",
+   "phone": "1334-315-1965",
+   "website": "https://www.wizardswest.com/",
+   "buylist_url": "https://www.wizardswest.com/sell",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:40:11Z"
   },
   {
    "name": "Woburn Sports Card Show",
@@ -17240,6 +18161,236 @@
    "address": "1111 Williams Blvd, Kenner, LA 70062",
    "phone": "(504) 466-7552",
    "checked_at": "2026-10-15T21:15:25Z"
+  },
+  {
+   "name": "Black & Read Music, Books & Games",
+   "group": "not_buying_singles",
+   "city": "Arvada",
+   "region": "CO",
+   "address": "6655 Wadsworth Blvd, Arvada, CO 80003",
+   "phone": "(303) 467-3236",
+   "website": "https://blackandread.com/",
+   "buylist_url": "https://blackandread.com/sell-to-us/",
+   "checked_at": "2026-10-15T21:02:30Z"
+  },
+  {
+   "name": "Dicehead Games and Comics LLC",
+   "group": "not_buying_singles",
+   "city": "Cleveland",
+   "region": "Tennessee",
+   "address": "200 Paul Huff Pkwy NW, Cleveland, TN 37312, USA, Cleveland, Tennessee, 37312",
+   "phone": "+1 423-473-7125",
+   "website": "https://www.dicehead.com/",
+   "buylist_url": "https://www.dicehead.com/pages/trade-in",
+   "mail_in": true,
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:50:03Z"
+  },
+  {
+   "name": "Dog Eared Books",
+   "group": "not_buying_singles",
+   "city": "SF",
+   "region": "CA",
+   "address": "900 Valencia St, San Francisco, CA 94110",
+   "phone": "(415) 282-1901",
+   "website": "https://www.dogearedbooks.com/",
+   "buylist_url": "https://www.dogearedbooks.com/we-buy-books",
+   "checked_at": "2026-10-15T21:00:55Z"
+  },
+  {
+   "name": "Drawn To Comics",
+   "group": "not_buying_singles",
+   "city": "Glendale",
+   "region": "AZ",
+   "address": "5801 W Glendale Ave, Glendale, AZ 85301",
+   "phone": "(623) 847-9090",
+   "website": "https://drawntocomics.com/",
+   "buylist_url": "https://drawntocomics.com/buy-books/",
+   "checked_at": "2026-10-15T20:54:43Z"
+  },
+  {
+   "name": "Flipside Gaming East Greenbush",
+   "group": "not_buying_singles",
+   "city": "East Greenbush",
+   "region": "New York",
+   "address": "598 Columbia Turnpike, East Greenbush, NY 12061, USA, East Greenbush, New York, 12061",
+   "phone": "+1 518-479-4746",
+   "website": "https://flipsidegaming.com/",
+   "buylist_url": "https://flipsidegaming.com/collections/deals",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:43:45Z"
+  },
+  {
+   "name": "Game World",
+   "group": "not_buying_singles",
+   "city": "Indianapolis",
+   "region": "IN",
+   "address": "7625 Shelby St, Indianapolis, IN 46227",
+   "phone": "(317) 300-1070",
+   "website": "https://gameworldindiana.com/",
+   "buylist_url": "https://gameworldindiana.com/trade-ins/",
+   "mail_in": false,
+   "checked_at": "2026-10-15T21:00:31Z"
+  },
+  {
+   "name": "Gamezenter",
+   "group": "not_buying_singles",
+   "city": "Roseville",
+   "region": "Minnesota",
+   "address": "1975 W County Rd B2 , Roseville, MN, 55113, United States",
+   "phone": "1651-379-3801",
+   "website": "https://gamezenter.com/",
+   "buylist_url": "https://gamezenter.myshopify.com/pages/used-games",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:35:49Z"
+  },
+  {
+   "name": "Gift Card Shop",
+   "group": "not_buying_singles",
+   "city": "Lakewood",
+   "region": "CO",
+   "address": "1492 Carr St, Lakewood, CO 80214",
+   "phone": "(720) 774-3103",
+   "website": "https://lakewoodcashforgiftcard.com/",
+   "buylist_url": "https://lakewoodcashforgiftcard.com/cash_for_gift_cards",
+   "checked_at": "2026-10-15T21:02:04Z"
+  },
+  {
+   "name": "Golden Age Collectables",
+   "group": "not_buying_singles",
+   "city": "Seattle",
+   "region": "WA",
+   "address": "Pike Place Market 1501, Pike St #401, Seattle, WA 98101",
+   "phone": "(206) 622-9799",
+   "website": "https://goldenagecollectables.com/",
+   "buylist_url": "https://goldenagecollectables.com/what-we-buy/",
+   "mail_in": true,
+   "checked_at": "2026-10-15T21:01:03Z"
+  },
+  {
+   "name": "Graywhale Entertainment",
+   "group": "not_buying_singles",
+   "city": "Taylorsville",
+   "region": "UT",
+   "address": "1773 W 4700 S, Taylorsville, UT 84129",
+   "phone": "(801) 964-5700",
+   "website": "https://www.graywhaleslc.com/",
+   "buylist_url": "https://www.graywhaleslc.com/content/BuyUsed",
+   "checked_at": "2026-10-15T21:17:18Z"
+  },
+  {
+   "name": "Nice Coins and Collectibles",
+   "group": "not_buying_singles",
+   "address": "18 Market St, Attica, NY, 14011, United States",
+   "phone": "1716-400-2312",
+   "website": "https://nicecoins-rrmpl4gk.manus.space/",
+   "buylist_url": "https://nicecoins-rrmpl4gk.manus.space/retailer/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:41:28Z"
+  },
+  {
+   "name": "Pop Rock Toys & Music",
+   "group": "not_buying_singles",
+   "city": "Lakewood",
+   "region": "CO",
+   "address": "414 S Teller St, Lakewood, CO 80226",
+   "phone": "(720) 310-5787",
+   "website": "https://www.poprocktoysmusic.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4230385363885276325",
+   "buylist_url": "https://www.poprocktoysmusic.com/sell",
+   "checked_at": "2026-10-15T21:02:26Z"
+  },
+  {
+   "name": "Secret Headquarters",
+   "group": "not_buying_singles",
+   "city": "Los Angeles",
+   "region": "CA",
+   "address": "3137 Glendale Blvd, Los Angeles, CA 90039",
+   "phone": "(323) 666-2228",
+   "website": "https://www.thesecretheadquarters.com/",
+   "buylist_url": "https://www.thesecretheadquarters.com/we-buy-comics",
+   "checked_at": "2026-10-15T20:52:41Z"
+  },
+  {
+   "name": "Sports Basement Bryant Street",
+   "group": "not_buying_singles",
+   "city": "SF",
+   "region": "CA",
+   "address": "1590 Bryant St, San Francisco, CA 94103",
+   "phone": "(415) 575-3001",
+   "website": "https://www.sportsbasement.com/blogs/stores/san-francisco-bryant-street",
+   "buylist_url": "https://www.sportsbasement.com/pages/bicycle-trade-in-program",
+   "checked_at": "2026-10-15T21:00:55Z"
+  },
+  {
+   "name": "Super Rare LLC",
+   "group": "not_buying_singles",
+   "city": "Brandon",
+   "region": "FL",
+   "address": "210 S Kings Ave, Brandon, FL, 33511, US",
+   "phone": "18135464876",
+   "website": "https://linktr.ee/shopsuperrare",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:36:27Z"
+  },
+  {
+   "name": "Tinker and Tamp",
+   "group": "not_buying_singles",
+   "address": "1861 1st St, Cheney, WA, 99004, US",
+   "phone": "15092096205",
+   "website": "https://tinkerandtamp.com/",
+   "buylist_url": "https://tinkerandtamp.com/retailer/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:42:34Z"
+  },
+  {
+   "name": "Treasure Chest Games & Collectibles",
+   "group": "not_buying_singles",
+   "city": "Port Coquitlam",
+   "region": "BC",
+   "address": "3274 Coast Meridian Rd, Port Coquitlam, BC V3B 3N4, Canada",
+   "phone": "(604) 941-9313",
+   "website": "https://www.tcgames.ca/",
+   "buylist_url": "https://www.tcgames.ca/inactive_buylist",
+   "checked_at": "2026-10-15T20:52:20Z"
+  },
+  {
+   "name": "Twist & Shout Records",
+   "group": "not_buying_singles",
+   "city": "Denver",
+   "region": "CO",
+   "address": "2508 E Colfax Ave, Denver, CO 80206",
+   "phone": "(303) 722-1943",
+   "website": "https://twistandshout.com/",
+   "buylist_url": "https://twistandshout.com/selling-vinyl-and-collectibles-in-the-time-of-coronavirus",
+   "checked_at": "2026-10-15T21:02:00Z"
+  },
+  {
+   "name": "Wild Things Games",
+   "group": "not_buying_singles",
+   "city": "Salem",
+   "region": "Oregon",
+   "address": "241 Commercial St NE, Salem, OR 97301, USA, Salem, Oregon, 97301",
+   "phone": "+1 503-364-4263",
+   "website": "https://linktr.ee/wildthingsgames",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:45:35Z"
   },
   {
    "name": "1 Stop Card Shop",
@@ -18177,21 +19328,6 @@
    "checked_at": "2026-10-15T21:11:06Z"
   },
   {
-   "name": "Alchemist's Refuge",
-   "group": "unknown",
-   "city": "Cincinnati",
-   "region": "Ohio",
-   "address": "11925 Montgomery Rd, Cincinnati, OH, 45249, US",
-   "phone": "15134454472",
-   "website": "https://alchemistsrefuge.shop/",
-   "buylist_url": "https://alchemistsrefuge.shop/pages/magic-buylist",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:24Z"
-  },
-  {
    "name": "Alien City Games",
    "group": "unknown",
    "city": "Roswell",
@@ -18425,21 +19561,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:37:46Z"
-  },
-  {
-   "name": "Aloha Card Shop - Ward",
-   "group": "unknown",
-   "city": "Honolulu",
-   "region": "Hawaii",
-   "address": "320 Ward Ave, Honolulu, HI, 96814, United States",
-   "phone": "1808-591-9955",
-   "website": "https://www.alohacardshop.com/",
-   "buylist_url": "https://www.alohacardshop.com/pages/sell-to-us",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:43:02Z"
   },
   {
    "name": "Alpha Comics and Games",
@@ -19213,20 +20334,6 @@
    "checked_at": "2026-10-15T20:19:30Z"
   },
   {
-   "name": "AtlantaTCG",
-   "group": "unknown",
-   "city": "Roswell",
-   "region": "GA",
-   "address": "626 Holcomb Bridge Rd, Roswell, GA, 30076, United States",
-   "phone": "14705502481",
-   "website": "https://www.atlantatcg.com/",
-   "buylist_url": "https://www.atlantatcg.com/sell-to-us",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:34:00Z"
-  },
-  {
    "name": "Atlantic Station",
    "group": "unknown",
    "city": "Atlanta",
@@ -19279,21 +20386,6 @@
    "phone": "(215) 625-9613",
    "website": "https://atomic-city-comics.b12sites.com/index",
    "checked_at": "2026-10-15T20:54:57Z"
-  },
-  {
-   "name": "Atomic Empire",
-   "group": "unknown",
-   "city": "Durham",
-   "region": "North Carolina",
-   "address": "3400 Westgate Dr, Durham, NC, 27707, United States",
-   "phone": "1(919) 490-7900",
-   "website": "https://www.atomicempire.com/",
-   "buylist_url": "https://www.atomicempire.com/TradeIn/Cart",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:35:13Z"
   },
   {
    "name": "Atomic Games",
@@ -19437,21 +20529,6 @@
    "phone": "(520) 461-4372",
    "website": "https://greysu.myshopify.com/",
    "checked_at": "2026-10-15T21:10:00Z"
-  },
-  {
-   "name": "Auggie's Games",
-   "group": "unknown",
-   "city": "Stone Mountain",
-   "region": "Georgia",
-   "address": "5385 Five Forks Trickum Rd Suite G, Stone Mountain, GA, 30087, US",
-   "phone": "4702087620",
-   "website": "https://www.auggiesgamestore.com/",
-   "buylist_url": "https://www.auggiesgamestore.com/buylist",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:33:56Z"
   },
   {
    "name": "Austin Books & Games",
@@ -19607,18 +20684,6 @@
    "website": "https://banditos.net/",
    "buylist_url": "https://banditos.net/retailer/buylist",
    "checked_at": "2026-10-15T20:57:58Z"
-  },
-  {
-   "name": "Bandits Hideout",
-   "group": "unknown",
-   "address": "357 Marketplace Dr, Freeburg, IL, 62243-4075, United States",
-   "phone": "1618-612-8917",
-   "website": "https://thebanditshideout.com/",
-   "buylist_url": "https://thebanditshideout.com/pages/sell-to-us",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:59Z"
   },
   {
    "name": "Banner Coin Exchange Inc",
@@ -19999,18 +21064,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:37:23Z"
-  },
-  {
-   "name": "Bazaar Game Trading",
-   "group": "unknown",
-   "address": "650 Amherst St, Nashua, NH, 03063, United States",
-   "phone": "1603-288-1899",
-   "website": "https://www.bazaargametrading.com/",
-   "buylist_url": "https://www.bazaargametrading.com/faqs",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:28:35Z"
   },
   {
    "name": "Beach Boulevard Flea Market",
@@ -20419,7 +21472,9 @@
    "address": "1370 US-64, Murphy, NC 28906, USA, Murphy, North Carolina, 28906",
    "phone": "+1 78283737202",
    "website": "https://www.billandogres.com/",
-   "buylist_url": "https://www.billandogres.com/retailer/buylist",
+   "buylist_url": "https://www.billandogres.com/buylist",
+   "mail_in": true,
+   "credit_bonus": "0% bonus shown",
    "games_events": [
     "Flesh and Blood"
    ],
@@ -20539,17 +21594,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:27:04Z"
-  },
-  {
-   "name": "Black & Read Music, Books & Games",
-   "group": "unknown",
-   "city": "Arvada",
-   "region": "CO",
-   "address": "6655 Wadsworth Blvd, Arvada, CO 80003",
-   "phone": "(303) 467-3236",
-   "website": "https://blackandread.com/",
-   "buylist_url": "https://blackandread.com/sell-to-us/",
-   "checked_at": "2026-10-15T21:02:30Z"
   },
   {
    "name": "Black Castle Gamez",
@@ -21801,17 +22845,6 @@
    "checked_at": "2026-10-15T20:36:06Z"
   },
   {
-   "name": "Burbank Sportscards",
-   "group": "unknown",
-   "city": "Burbank",
-   "region": "CA",
-   "address": "935 N Hollywood Way, Burbank, CA 91505",
-   "phone": "(818) 843-2600",
-   "website": "https://burbankcards.com/",
-   "buylist_url": "https://burbankcards.com/pages/buying-faq-new",
-   "checked_at": "2026-10-15T20:52:06Z"
-  },
-  {
    "name": "Buzz City Games",
    "group": "unknown",
    "address": "4 Union St N, Concord, NC, 28025, United States",
@@ -22154,18 +23187,6 @@
    "checked_at": "2026-10-15T20:32:21Z"
   },
   {
-   "name": "Card Bird Games",
-   "group": "unknown",
-   "address": "4443 54th Ave N, St Petersburg, FL, 33714-2257, Untied States",
-   "phone": "1727-649-4855",
-   "website": "https://cardbirdgames.com",
-   "buylist_url": "https://cardbirdgames.com/pages/sell-your-cards",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:36:34Z"
-  },
-  {
    "name": "Card Boyz",
    "group": "unknown",
    "city": "San Antonio",
@@ -22334,20 +23355,6 @@
    "phone": "(513) 373-7301",
    "website": "https://cardstocks.com/",
    "checked_at": "2026-10-15T21:16:19Z"
-  },
-  {
-   "name": "Card Swarm",
-   "group": "unknown",
-   "city": "Huber Heights",
-   "region": "Ohio",
-   "address": "7683 Old Troy Pike, Huber Heights, OH 45424, USA, Huber Heights, Ohio, 45424",
-   "phone": "+1 937-723-7878",
-   "website": "https://www.cardswarm.com/",
-   "buylist_url": "https://www.cardswarm.com/trade",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:47:47Z"
   },
   {
    "name": "Card Table Republic",
@@ -22568,20 +23575,6 @@
    "phone": "(747) 329-9963",
    "website": "https://cardfinitytcg.com/",
    "checked_at": "2026-10-15T20:52:19Z"
-  },
-  {
-   "name": "Cardhalla",
-   "group": "unknown",
-   "city": "Laramie",
-   "region": "Wyoming",
-   "address": "2133 E Garfield St, Laramie, WY 82070, USA, Laramie, Wyoming, 82070",
-   "phone": "+1307-223-1603",
-   "website": "https://www.cardhalla.com/",
-   "buylist_url": "https://www.cardhalla.com/we-buy-cards",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:48:51Z"
   },
   {
    "name": "Cardhaven Games",
@@ -22868,21 +23861,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:14:52Z"
-  },
-  {
-   "name": "CardsHQ",
-   "group": "unknown",
-   "city": "Atlanta",
-   "region": "Georgia",
-   "address": "3101 Cobb Pkwy SE Suite 100, Atlanta, GA, 30339, US",
-   "phone": "16787417618",
-   "website": "https://www.cardshq.com/",
-   "buylist_url": "https://www.cardshq.com/pages/sell",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:33:46Z"
   },
   {
    "name": "Cardsmart Greetings",
@@ -25805,21 +26783,6 @@
    "checked_at": "2026-10-15T20:47:39Z"
   },
   {
-   "name": "Darkhold Games",
-   "group": "unknown",
-   "city": "Eaton",
-   "region": "Ohio",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "937-867-4263",
-   "website": "https://store.darkholdgames.com/",
-   "buylist_url": "https://store.darkholdgames.com/pages/buy-orders",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:39Z"
-  },
-  {
    "name": "Darkhound Game Center",
    "group": "unknown",
    "address": "800 SW GREEN OAKS BLVD, ARLINGTON, TX, 76063, United States",
@@ -25998,17 +26961,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:23:33Z"
-  },
-  {
-   "name": "Dean's Cards",
-   "group": "unknown",
-   "city": "Cincinnati",
-   "region": "OH",
-   "address": "5509 Fair Ln, Cincinnati, OH 45227",
-   "phone": "(513) 898-0651",
-   "website": "https://www.deanscards.com/",
-   "buylist_url": "https://www.deanscards.com/sell-your-baseball-cards",
-   "checked_at": "2026-10-15T21:16:32Z"
   },
   {
    "name": "Dean's Dugout",
@@ -26353,20 +27305,6 @@
    "checked_at": "2026-10-15T20:39:14Z"
   },
   {
-   "name": "Dicehead Games and Comics LLC",
-   "group": "unknown",
-   "city": "Cleveland",
-   "region": "Tennessee",
-   "address": "200 Paul Huff Pkwy NW, Cleveland, TN 37312, USA, Cleveland, Tennessee, 37312",
-   "phone": "+1 423-473-7125",
-   "website": "https://www.dicehead.com/",
-   "buylist_url": "https://www.dicehead.com/pages/trade-in",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:50:03Z"
-  },
-  {
    "name": "dicepool",
    "group": "unknown",
    "city": "Portland",
@@ -26640,17 +27578,6 @@
    "phone": "(916) 273-8124",
    "website": "https://www.docosacramento.com/",
    "checked_at": "2026-10-15T21:10:52Z"
-  },
-  {
-   "name": "Dog Eared Books",
-   "group": "unknown",
-   "city": "SF",
-   "region": "CA",
-   "address": "900 Valencia St, San Francisco, CA 94110",
-   "phone": "(415) 282-1901",
-   "website": "https://www.dogearedbooks.com/",
-   "buylist_url": "https://www.dogearedbooks.com/we-buy-books",
-   "checked_at": "2026-10-15T21:00:55Z"
   },
   {
    "name": "Dogpatch Games",
@@ -26963,20 +27890,6 @@
    "checked_at": "2026-10-15T20:39:40Z"
   },
   {
-   "name": "Dragon's Hoard",
-   "group": "unknown",
-   "city": "Greensboro",
-   "region": "North Carolina",
-   "address": "4645 W Market St, Greensboro, NC 27407, USA, Greensboro, North Carolina, 27407",
-   "phone": "+1 336-617-5668",
-   "website": "https://www.dragonshoardnc.com/",
-   "buylist_url": "https://www.dragonshoardnc.com/trade-in-policy",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:48:23Z"
-  },
-  {
    "name": "Dragon's Keep - Lehi",
    "group": "unknown",
    "city": "Provo",
@@ -27166,17 +28079,6 @@
    "phone": "(412) 254-6151",
    "website": "https://www.drawbridgegames.com/",
    "checked_at": "2026-10-15T21:15:59Z"
-  },
-  {
-   "name": "Drawn To Comics",
-   "group": "unknown",
-   "city": "Glendale",
-   "region": "AZ",
-   "address": "5801 W Glendale Ave, Glendale, AZ 85301",
-   "phone": "(623) 847-9090",
-   "website": "https://drawntocomics.com/",
-   "buylist_url": "https://drawntocomics.com/buy-books/",
-   "checked_at": "2026-10-15T20:54:43Z"
   },
   {
    "name": "Drawn Together Games",
@@ -28587,20 +29489,6 @@
    "checked_at": "2026-10-15T21:04:46Z"
   },
   {
-   "name": "FaB Foundry",
-   "group": "unknown",
-   "city": "Portland",
-   "region": "Oregon",
-   "address": "1516 NE 37th Ave #205, Portland, OR 97232, USA, Portland, Oregon, 97232",
-   "phone": "9713808748",
-   "website": "https://www.fabfoundry.co",
-   "buylist_url": "https://www.fabfoundry.co/pages/buylist",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:43:55Z"
-  },
-  {
    "name": "Fable Hobby",
    "group": "unknown",
    "city": "Portland",
@@ -28742,17 +29630,6 @@
    "phone": "(636) 778-3848",
    "website": "https://www.fancave.com/",
    "checked_at": "2026-10-15T21:16:42Z"
-  },
-  {
-   "name": "Fandom Trade",
-   "group": "unknown",
-   "city": "Glenview",
-   "region": "IL",
-   "address": "1872 Johns Dr, Glenview, IL 60025",
-   "phone": "(224) 374-0670",
-   "website": "https://fandomtrade.com/",
-   "buylist_url": "https://fandomtrade.com/pages/trade-in",
-   "checked_at": "2026-10-15T20:53:10Z"
   },
   {
    "name": "Fangamer",
@@ -29223,20 +30100,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:30:04Z"
-  },
-  {
-   "name": "Flipside Gaming East Greenbush",
-   "group": "unknown",
-   "city": "East Greenbush",
-   "region": "New York",
-   "address": "598 Columbia Turnpike, East Greenbush, NY 12061, USA, East Greenbush, New York, 12061",
-   "phone": "+1 518-479-4746",
-   "website": "https://flipsidegaming.com/",
-   "buylist_url": "https://flipsidegaming.com/collections/deals",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:43:45Z"
   },
   {
    "name": "Floating World Comics",
@@ -29944,21 +30807,6 @@
    "checked_at": "2026-10-15T20:18:34Z"
   },
   {
-   "name": "Galaxy of Games",
-   "group": "unknown",
-   "city": "Billings",
-   "region": "Montana",
-   "address": "12488 S Rosecrest Rd, Herriman, UT, 84096, US",
-   "phone": "1(801)332-9889",
-   "website": "https://galaxyof.games/",
-   "buylist_url": "https://galaxyof.games/sell",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:25Z"
-  },
-  {
    "name": "Gambit Games",
    "group": "unknown",
    "city": "Tampa",
@@ -30016,21 +30864,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:29:49Z"
-  },
-  {
-   "name": "Game Cafe",
-   "group": "unknown",
-   "city": "Independence",
-   "region": "Missouri",
-   "address": "107 West Lexington Ave, Independence, MO, 64050, United States",
-   "phone": "1816-252-7529",
-   "website": "https://www.playgamecafe.com/",
-   "buylist_url": "https://www.playgamecafe.com/buylist",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:33:34Z"
   },
   {
    "name": "Game Changer",
@@ -30163,20 +30996,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:40:25Z"
-  },
-  {
-   "name": "Game Grid - North Ogden",
-   "group": "unknown",
-   "city": "Ogden",
-   "region": "UT",
-   "address": "817 Wall Ave, Ogden, UT, 84404, United States",
-   "phone": "1801-782-6242",
-   "website": "https://ggnorthogden.com/",
-   "buylist_url": "https://ggnorthogden.com/pages/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:45Z"
   },
   {
    "name": "Game Grid - Saratoga Springs",
@@ -30618,18 +31437,6 @@
    "checked_at": "2026-10-15T21:08:44Z"
   },
   {
-   "name": "Game Underground",
-   "group": "unknown",
-   "address": "349 Moody Street, Waltham, MA, 02453, United States",
-   "phone": "1508-283-1503",
-   "website": "https://www.gameunderground.store/",
-   "buylist_url": "https://www.gameunderground.store/trades",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:28:08Z"
-  },
-  {
    "name": "Game Universe - Franklin",
    "group": "unknown",
    "city": "Brookfield",
@@ -30667,17 +31474,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:26:09Z"
-  },
-  {
-   "name": "Game World",
-   "group": "unknown",
-   "city": "Indianapolis",
-   "region": "IN",
-   "address": "7625 Shelby St, Indianapolis, IN 46227",
-   "phone": "(317) 300-1070",
-   "website": "https://gameworldindiana.com/",
-   "buylist_url": "https://gameworldindiana.com/trade-ins/",
-   "checked_at": "2026-10-15T21:00:31Z"
   },
   {
    "name": "Game World - McChord",
@@ -31339,21 +32135,6 @@
    "checked_at": "2026-10-15T20:40:04Z"
   },
   {
-   "name": "Gamezenter",
-   "group": "unknown",
-   "city": "Roseville",
-   "region": "Minnesota",
-   "address": "1975 W County Rd B2 , Roseville, MN, 55113, United States",
-   "phone": "1651-379-3801",
-   "website": "https://gamezenter.com/",
-   "buylist_url": "https://gamezenter.myshopify.com/pages/used-games?_ab=0&key=1791150730824&_gl=1*1pisaff*_gcl_au*NjY5NjYxMzMxLjE3OTExNTAwMzc.*_ga*ODQxMjU0NjQ4LjE3OTExNTAwMzY.*_ga_PLJJGTLB1V*czE3OTExNTAwMzYkbzEkZzEkdDE3OTExNTA0NDYkajYwJGwwJGgw",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:35:49Z"
-  },
-  {
    "name": "Gaming Gurus",
    "group": "unknown",
    "address": "121 E 5th Ave, Tarentum, PA, 15084, United States",
@@ -31678,20 +32459,6 @@
    "checked_at": "2026-10-15T20:59:35Z"
   },
   {
-   "name": "Geekery Games",
-   "group": "unknown",
-   "city": "Flagstaff",
-   "region": "Arizona",
-   "address": "1800 S Milton Rd #110, Flagstaff, AZ 86001, USA, Flagstaff, Arizona, 86001",
-   "phone": "+1 928-774-0296",
-   "website": "https://geekerygames.com/",
-   "buylist_url": "https://geekerygames.com/pages/sell-your-cards",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:47:52Z"
-  },
-  {
    "name": "GeekMe",
    "group": "unknown",
    "city": "Schenectady",
@@ -31923,17 +32690,6 @@
    "checked_at": "2026-10-15T21:11:23Z"
   },
   {
-   "name": "Gift Card Shop",
-   "group": "unknown",
-   "city": "Lakewood",
-   "region": "CO",
-   "address": "1492 Carr St, Lakewood, CO 80214",
-   "phone": "(720) 774-3103",
-   "website": "https://lakewoodcashforgiftcard.com/",
-   "buylist_url": "https://lakewoodcashforgiftcard.com/cash_for_gift_cards",
-   "checked_at": "2026-10-15T21:02:04Z"
-  },
-  {
    "name": "Gift Card Shop Vegas",
    "group": "unknown",
    "city": "Las Vegas",
@@ -32127,18 +32883,6 @@
    "checked_at": "2026-10-15T20:33:05Z"
   },
   {
-   "name": "Goblet TCG",
-   "group": "unknown",
-   "address": "303 21st St, Newport, MN, 55055-1094, United States",
-   "phone": "1651-352-2117",
-   "website": "https://goblettcg.com/",
-   "buylist_url": "https://goblettcg.com/pages/sell-list",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:36:00Z"
-  },
-  {
    "name": "Goblin King Games",
    "group": "unknown",
    "city": "Ocala",
@@ -32268,17 +33012,6 @@
    "website": "https://goldrushco.com/",
    "buylist_url": "https://goldrushco.com/what-we-buy/",
    "checked_at": "2026-10-15T21:16:11Z"
-  },
-  {
-   "name": "Golden Age Collectables",
-   "group": "unknown",
-   "city": "Seattle",
-   "region": "WA",
-   "address": "Pike Place Market 1501, Pike St #401, Seattle, WA 98101",
-   "phone": "(206) 622-9799",
-   "website": "https://goldenagecollectables.com/",
-   "buylist_url": "https://goldenagecollectables.com/what-we-buy/",
-   "checked_at": "2026-10-15T21:01:03Z"
   },
   {
    "name": "Golden Apple Comics",
@@ -32637,17 +33370,6 @@
    "checked_at": "2026-10-15T20:16:07Z"
   },
   {
-   "name": "Grail Collectibles",
-   "group": "unknown",
-   "city": "Chandler",
-   "region": "AZ",
-   "address": "2160 N Alma School Rd Ste 112, Chandler, AZ 85224",
-   "phone": "(602) 762-7316",
-   "website": "https://grailcollectibles.io/",
-   "buylist_url": "https://grailcollectibles.io/pages/sell-to-us-1",
-   "checked_at": "2026-10-15T20:54:15Z"
-  },
-  {
    "name": "Grand Adventures Comics & Games",
    "group": "unknown",
    "city": "Murfreesboro",
@@ -32695,20 +33417,6 @@
    "checked_at": "2026-10-15T20:45:28Z"
   },
   {
-   "name": "Grandad's Cards",
-   "group": "unknown",
-   "city": "Lexington",
-   "region": "Kentucky",
-   "address": "709 Allendale Dr, Lexington, KY 40503, USA, Lexington, Kentucky, 40503",
-   "phone": "+1 859 303 6200",
-   "website": "https://grandadscards.shop/",
-   "buylist_url": "https://grandadscards.shop/pages/buylist",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:49:41Z"
-  },
-  {
    "name": "Grandmaster Games",
    "group": "unknown",
    "city": "Oak Park",
@@ -32721,18 +33429,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:17:39Z"
-  },
-  {
-   "name": "Grandmaster Games - Boulder",
-   "group": "unknown",
-   "address": "4800 Baseline Rd. Ste C103, Boulder, CO, 80303, United States",
-   "phone": "1(303) 494-0302",
-   "website": "https://www.gmgboulderco.co/",
-   "buylist_url": "https://www.gmgboulderco.co/advanced_search?utf8=%E2%9C%93&search%5Bfuzzy_search%5D=&search%5Btags_name_eq%5D=&search%5Bsell_price_gte%5D=1&search%5Bsell_price_lte%5D=5&search%5Bbuy_price_gte%5D=&search%5Bbuy_price_lte%5D=&search%5Bin_stock%5D=0&search%5Bin_stock%5D=1&buylist_mode=0&search%5Bcategory_ids_with_descendants%5D%5B%5D=&search%5Bsort%5D=name&search%5Bdirection%5D=ascend&commit=Search&search%5Bcatalog_group_id_eq%5D=",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:26:56Z"
   },
   {
    "name": "Grandmaster Games - Indianapolis",
@@ -32805,17 +33501,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:50:20Z"
-  },
-  {
-   "name": "Graywhale Entertainment",
-   "group": "unknown",
-   "city": "Taylorsville",
-   "region": "UT",
-   "address": "1773 W 4700 S, Taylorsville, UT 84129",
-   "phone": "(801) 964-5700",
-   "website": "https://www.graywhaleslc.com/",
-   "buylist_url": "https://www.graywhaleslc.com/content/BuyUsed",
-   "checked_at": "2026-10-15T21:17:18Z"
   },
   {
    "name": "Great Escape Adventures - Buffalo",
@@ -33414,20 +34099,6 @@
    "checked_at": "2026-10-15T20:27:30Z"
   },
   {
-   "name": "Hastur Games",
-   "group": "unknown",
-   "city": "Midvale",
-   "region": "UT",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "801-352-2605",
-   "website": "https://www.hasturgames.com/",
-   "buylist_url": "https://www.hasturgames.com/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:21Z"
-  },
-  {
    "name": "Hasty Goblin Games",
    "group": "unknown",
    "city": "Bloomfield",
@@ -33966,32 +34637,6 @@
    "phone": "(248) 658-8900",
    "website": "https://hellohihi.com/",
    "checked_at": "2026-10-15T21:04:59Z"
-  },
-  {
-   "name": "Hill Top Collectibles - DFW",
-   "group": "unknown",
-   "city": "Carrollton",
-   "region": "TX",
-   "address": "3730 N Josey Ln Apt 124, Carrollton, TX 75007",
-   "phone": "(214) 731-6842",
-   "website": "https://hilltopcollectibles.shop/",
-   "buylist_url": "https://hilltopcollectibles.shop/pages/buying-form",
-   "checked_at": "2026-10-15T20:56:54Z"
-  },
-  {
-   "name": "Hill Top TCG",
-   "group": "unknown",
-   "city": "Ogden",
-   "region": "Utah",
-   "address": "4510 900 W, Ogden, UT, 84405, US",
-   "phone": "18016058250",
-   "website": "https://hilltopcollectibles.shop/",
-   "buylist_url": "https://hilltopcollectibles.shop/pages/buying-form",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:39Z"
   },
   {
    "name": "Hilltop Gifts",
@@ -34975,17 +35620,6 @@
    "checked_at": "2026-10-15T20:39:12Z"
   },
   {
-   "name": "Indy Card Exchange",
-   "group": "unknown",
-   "city": "Indianapolis",
-   "region": "IN",
-   "address": "7035 E 96th St Ste p, Indianapolis, IN 46250",
-   "phone": "(317) 254-8681",
-   "website": "https://indycardexchange.com/",
-   "buylist_url": "https://indycardexchange.com/what-we-buy/",
-   "checked_at": "2026-10-15T21:00:12Z"
-  },
-  {
    "name": "Indy Card Shop",
    "group": "unknown",
    "city": "Indianapolis",
@@ -35141,18 +35775,6 @@
    "checked_at": "2026-10-15T20:52:32Z"
   },
   {
-   "name": "Intergalactic Plastic",
-   "group": "unknown",
-   "address": "4419 Florida Ave S, Lakeland, FL, 33813, United States",
-   "phone": "1863-213-4486",
-   "website": "https://www.intergalacticplastic.com/",
-   "buylist_url": "https://www.intergalacticplastic.com/sell",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:36:48Z"
-  },
-  {
    "name": "International Model Toys",
    "group": "unknown",
    "city": "Seattle",
@@ -35276,20 +35898,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:43:09Z"
-  },
-  {
-   "name": "Izzi's Gym",
-   "group": "unknown",
-   "city": "Aurora",
-   "region": "Illinois",
-   "address": "807 N Lake St, Aurora, IL 60506, USA, Aurora, Illinois, 60506",
-   "phone": "+1 605-888-4994",
-   "website": "https://izzisgym.com",
-   "buylist_url": "https://izzisgym.com/sell-cards",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:49:44Z"
   },
   {
    "name": "J & L Game",
@@ -36889,21 +37497,6 @@
    "checked_at": "2026-10-15T20:24:30Z"
   },
   {
-   "name": "Layton Gaming",
-   "group": "unknown",
-   "city": "Altamonte Springs",
-   "region": "Florida",
-   "address": "1140 E Altamonte Dr, Altamonte Springs, FL, 32701, US",
-   "phone": "1407-782-3883",
-   "website": "https://laytongaming.com/",
-   "buylist_url": "https://laytongaming.com/pages/sell-your-cards",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:37:20Z"
-  },
-  {
    "name": "Layton Sports Cards",
    "group": "unknown",
    "city": "Altamonte Springs",
@@ -37762,18 +38355,6 @@
    "checked_at": "2026-10-15T20:56:54Z"
   },
   {
-   "name": "Lost Legacy Collectibles",
-   "group": "unknown",
-   "address": "111 Depot St, Fuquay-Varina, NC, 27526-2106, United States",
-   "phone": "1 (919) 600-2926",
-   "website": "https://lostlegacy-collectibles.com/",
-   "buylist_url": "https://lostlegacy-collectibles.com/pages/trades",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:35:08Z"
-  },
-  {
    "name": "Lost Levels Sports Card Shop + TCG",
    "group": "unknown",
    "address": "532 W 1st St, Claremont, CA, 91711, United States",
@@ -38536,19 +39117,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:49:01Z"
-  },
-  {
-   "name": "MASTERPIECE COLLECTIBLES AND GAMES LLC",
-   "group": "unknown",
-   "city": "Leslie",
-   "region": "Michigan",
-   "address": "105 S Main St, Leslie, MI 49251, USA, Leslie, Michigan, 49251",
-   "website": "https://www.mpccg.com/",
-   "buylist_url": "https://www.mpccg.com/buylist/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:49:39Z"
   },
   {
    "name": "Math 'n' Stuff",
@@ -41163,18 +41731,6 @@
    "checked_at": "2026-10-15T21:18:07Z"
   },
   {
-   "name": "Nice Coins and Collectibles",
-   "group": "unknown",
-   "address": "18 Market St, Attica, NY, 14011, United States",
-   "phone": "1716-400-2312",
-   "website": "https://nicecoins-rrmpl4gk.manus.space/",
-   "buylist_url": "https://nicecoins-rrmpl4gk.manus.space/retailer/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:28Z"
-  },
-  {
    "name": "Nice New Cards",
    "group": "unknown",
    "city": "Miami",
@@ -41308,21 +41864,6 @@
    "checked_at": "2026-10-15T20:32:48Z"
   },
   {
-   "name": "Noble Knight Games",
-   "group": "unknown",
-   "city": "Fitchburg",
-   "region": "Wisconsin",
-   "address": "2835 Commerce Park Drive, Fitchburg, WI, 53719, United States",
-   "phone": "1608-758-9901",
-   "website": "https://www.nobleknight.com/",
-   "buylist_url": "https://www.nobleknight.com/buylist",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:43:19Z"
-  },
-  {
    "name": "Noble Warrior Gaming",
    "group": "unknown",
    "city": "Laredo",
@@ -41441,6 +41982,8 @@
    "phone": "+1 707-382-9699",
    "website": "https://www.nrtcg.net/",
    "buylist_url": "https://www.nrtcg.net/inactive_buylist",
+   "mail_in": true,
+   "credit_bonus": "0% bonus shown",
    "games_events": [
     "Flesh and Blood"
    ],
@@ -41671,20 +42214,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:22:23Z"
-  },
-  {
-   "name": "Oasis Games",
-   "group": "unknown",
-   "city": "Salt Lake City",
-   "region": "UT",
-   "address": "275 E 400 S., Salt Lake City, UT, 84111-2810, United States",
-   "phone": "18017384413",
-   "website": "https://www.oasisgamesslc.com/",
-   "buylist_url": "https://www.oasisgamesslc.com/sell",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:07Z"
   },
   {
    "name": "OC Sports Cards & Memorabilia",
@@ -42202,18 +42731,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:48:16Z"
-  },
-  {
-   "name": "Orion Bricks and Games",
-   "group": "unknown",
-   "address": "53 N Springboro Pike, Miamisburg, OH, 45342, US",
-   "phone": "19372219698",
-   "website": "https://playoriongames.com/",
-   "buylist_url": "https://playoriongames.com/home/all-about-trade-ins/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:34Z"
   },
   {
    "name": "Orion's Cards & Collectibles",
@@ -42811,6 +43328,8 @@
    "phone": "1(801) 727-2466",
    "website": "https://paragoncitygames.com/",
    "buylist_url": "https://paragoncitygames.com/retailer/buylist",
+   "mail_in": true,
+   "credit_bonus": "Store credit shown with 0% bonus",
    "games_events": [
     "Magic: The Gathering"
    ],
@@ -43483,20 +44002,6 @@
    "checked_at": "2026-10-15T20:26:36Z"
   },
   {
-   "name": "Playmakers Gaming, Cards, and Collectibles",
-   "group": "unknown",
-   "city": "Hudsonville",
-   "region": "Michigan",
-   "address": "3376 Central Blvd, Hudsonville, MI 49426, USA, Hudsonville, Michigan, 49426",
-   "phone": "+1 616-209-5002",
-   "website": "https://playmakersgcc.com/",
-   "buylist_url": "https://playmakersgcc.com/pages/what-we-buy",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:50:03Z"
-  },
-  {
    "name": "Playmat Studios / Surreal Creamery",
    "group": "unknown",
    "region": "New York",
@@ -43790,17 +44295,6 @@
    "address": "825 Dulaney Valley Rd #2098, Towson, MD 21204",
    "website": "https://www.popmart.com/us",
    "checked_at": "2026-10-15T21:08:10Z"
-  },
-  {
-   "name": "Pop Rock Toys & Music",
-   "group": "unknown",
-   "city": "Lakewood",
-   "region": "CO",
-   "address": "414 S Teller St, Lakewood, CO 80226",
-   "phone": "(720) 310-5787",
-   "website": "https://www.poprocktoysmusic.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4230385363885276325",
-   "buylist_url": "https://www.poprocktoysmusic.com/sell",
-   "checked_at": "2026-10-15T21:02:26Z"
   },
   {
    "name": "Pop Stop & Pokemon Shop at On-Site Computer Service",
@@ -45253,20 +45747,6 @@
    "checked_at": "2026-10-15T21:17:14Z"
   },
   {
-   "name": "Retro Games Plus",
-   "group": "unknown",
-   "city": "Newington",
-   "region": "CT",
-   "address": "2455 Berlin Tpke, Newington, CT, 06111, United States",
-   "phone": "1860-436-3258",
-   "website": "https://retrogamesplus.com/",
-   "buylist_url": "https://retrogamesplus.com/sell/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:34Z"
-  },
-  {
    "name": "Retro Gaming of Denver",
    "group": "unknown",
    "city": "Denver",
@@ -46461,20 +46941,6 @@
    "checked_at": "2026-10-15T20:42:19Z"
   },
   {
-   "name": "Scattered Deck Games",
-   "group": "unknown",
-   "city": "Stanwood",
-   "region": "WA",
-   "address": "8919 271st St NW, Stanwood, WA 98292",
-   "phone": "360-572-2239",
-   "website": "https://www.scattereddeckgames.com/",
-   "buylist_url": "https://www.scattereddeckgames.com/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:26:23Z"
-  },
-  {
    "name": "Schmoley's Games and More",
    "group": "unknown",
    "address": "1946 N Main St, Crown Point, IN, 46307, United States",
@@ -46625,17 +47091,6 @@
    "phone": "(270) 478-1200",
    "website": "https://www.shopsecretcastle.com/",
    "checked_at": "2026-10-15T21:07:43Z"
-  },
-  {
-   "name": "Secret Headquarters",
-   "group": "unknown",
-   "city": "Los Angeles",
-   "region": "CA",
-   "address": "3137 Glendale Blvd, Los Angeles, CA 90039",
-   "phone": "(323) 666-2228",
-   "website": "https://www.thesecretheadquarters.com/",
-   "buylist_url": "https://www.thesecretheadquarters.com/we-buy-comics",
-   "checked_at": "2026-10-15T20:52:41Z"
   },
   {
    "name": "Secret Identity Comics- Fresno",
@@ -47899,17 +48354,6 @@
    "checked_at": "2026-10-15T21:19:41Z"
   },
   {
-   "name": "Sports Basement Bryant Street",
-   "group": "unknown",
-   "city": "SF",
-   "region": "CA",
-   "address": "1590 Bryant St, San Francisco, CA 94103",
-   "phone": "(415) 575-3001",
-   "website": "https://www.sportsbasement.com/blogs/stores/san-francisco-bryant-street",
-   "buylist_url": "https://www.sportsbasement.com/pages/bicycle-trade-in-program",
-   "checked_at": "2026-10-15T21:00:55Z"
-  },
-  {
    "name": "Sports Card Heroes",
    "group": "unknown",
    "city": "Laurel",
@@ -48006,20 +48450,6 @@
    "phone": "(615) 476-9228",
    "website": "https://sportsworldcardshop.com/",
    "checked_at": "2026-10-15T21:04:02Z"
-  },
-  {
-   "name": "Sports Zone",
-   "group": "unknown",
-   "city": "Holyoke",
-   "region": "Massachusetts",
-   "address": "50 Holyoke St, Holyoke, MA 01040, USA, Holyoke, Massachusetts, 01040",
-   "phone": "+1 413-532-9989",
-   "website": "https://www.sportszoneny.com/",
-   "buylist_url": "https://www.sportszoneny.com/we-buy-sports-memorabilia",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:47:23Z"
   },
   {
    "name": "Sportscard Central",
@@ -48209,7 +48639,7 @@
    "address": "5728 Williamson Rd NW, Roanoke, VA 24012, USA, Roanoke, Virginia, 24012",
    "phone": "+1 540 767 4263",
    "website": "https://www.starcitycomicsandgames.com/",
-   "buylist_url": "https://www.starcitycomicsandgames.com/sell-to-us",
+   "buylist_url": "https://sellyourcards.starcitygames.com/getstarted",
    "games_events": [
     "Flesh and Blood"
    ],
@@ -48339,21 +48769,6 @@
    "phone": "(408) 243-1120",
    "website": "https://www.peninsulasportscards.com/",
    "checked_at": "2026-10-15T20:57:20Z"
-  },
-  {
-   "name": "Stevenson Games - Pikesville",
-   "group": "unknown",
-   "city": "Pikesville",
-   "region": "Maryland",
-   "address": "10401 Stevenson Rd, Pikesville, MD, 21153, United States",
-   "phone": "+14105048169",
-   "website": "https://stevensongames.com/",
-   "buylist_url": "https://stevensongames.com/pages/sell-your-collection",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:27:54Z"
   },
   {
    "name": "Stevie G's House of Cards",
@@ -48733,20 +49148,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:17:46Z"
-  },
-  {
-   "name": "Super Rare LLC",
-   "group": "unknown",
-   "city": "Brandon",
-   "region": "FL",
-   "address": "210 S Kings Ave, Brandon, FL, 33511, US",
-   "phone": "18135464876",
-   "website": "https://linktr.ee/shopsuperrare",
-   "buylist_url": "https://linktr.ee/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:36:27Z"
   },
   {
    "name": "Super Sports Cards and More",
@@ -49147,20 +49548,6 @@
    "checked_at": "2026-10-15T21:01:35Z"
   },
   {
-   "name": "Taitan Game Shop - Coraopolis",
-   "group": "unknown",
-   "city": "Coraopolis",
-   "region": "PA",
-   "address": "1005 Pine Way, Coraopolis, PA, 15108, United States",
-   "phone": "1724-203-0889 ",
-   "website": "https://www.taitangameshop.com/",
-   "buylist_url": "https://www.taitangameshop.com/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:00Z"
-  },
-  {
    "name": "Tako Games and Collectibles",
    "group": "unknown",
    "city": "Kyle",
@@ -49513,20 +49900,6 @@
    "phone": "(774) 789-4361",
    "website": "https://tcgtrainersuniverse.com/",
    "checked_at": "2026-10-15T21:03:15Z"
-  },
-  {
-   "name": "TCG Village",
-   "group": "unknown",
-   "city": "Chantilly",
-   "region": "VA",
-   "address": "14240 Sullyfield Cir, Chantilly, VA, 20151, United States",
-   "phone": "1703-953-3800",
-   "website": "https://tcgvillage.com",
-   "buylist_url": "https://tcgvillage.com/pages/trade-ins",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:27:31Z"
   },
   {
    "name": "TCG WAREHOUSE",
@@ -51361,21 +51734,6 @@
    "checked_at": "2026-10-15T20:29:01Z"
   },
   {
-   "name": "The Happy Skeleton",
-   "group": "unknown",
-   "city": "Longwood",
-   "region": "Florida",
-   "address": "1111 N Ronald Reagan Blvd, Longwood, FL, 32750-3017, United States",
-   "phone": "1321-972-1059",
-   "website": "https://www.thehappyskeleton.com/",
-   "buylist_url": "https://www.thehappyskeleton.com/sell-trading-cards",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:37:27Z"
-  },
-  {
    "name": "The Hidden Cloud",
    "group": "unknown",
    "city": "Annandale",
@@ -51414,17 +51772,6 @@
    "phone": "(512) 215-2912",
    "website": "https://thehobbyexchange.tcgplayerpro.com/",
    "checked_at": "2026-10-15T20:57:54Z"
-  },
-  {
-   "name": "The Hobby Source",
-   "group": "unknown",
-   "city": "Englewood",
-   "region": "CO",
-   "address": "4242 S Broadway, Englewood, CO 80113",
-   "phone": "(720) 282-9555",
-   "website": "https://myhobbysource.com/",
-   "buylist_url": "https://myhobbysource.com/buying/",
-   "checked_at": "2026-10-15T21:01:39Z"
   },
   {
    "name": "The Hobbyist",
@@ -52059,17 +52406,6 @@
    "checked_at": "2026-10-15T20:32:31Z"
   },
   {
-   "name": "The Sandlot Sports Cards and Memorabilia",
-   "group": "unknown",
-   "city": "Glen Ellyn",
-   "region": "IL",
-   "address": "529 Roosevelt Rd, Glen Ellyn, IL 60137",
-   "phone": "(630) 675-0001",
-   "website": "https://thesandlotsports.com/",
-   "buylist_url": "https://thesandlotsports.com/pages/sell",
-   "checked_at": "2026-10-15T20:53:06Z"
-  },
-  {
    "name": "The Sci Fi Center",
    "group": "unknown",
    "city": "Las Vegas",
@@ -52333,21 +52669,6 @@
    "checked_at": "2026-10-15T21:00:20Z"
   },
   {
-   "name": "The Toy Factory",
-   "group": "unknown",
-   "city": "Hillsborough",
-   "region": "North Carolina",
-   "address": "110 Boone Square St, Hillsborough, NC, 27278, United States",
-   "phone": "1919-732-2155",
-   "website": "https://www.thetoyfactory.com/",
-   "buylist_url": "https://www.thetoyfactory.com/buylist",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:35:21Z"
-  },
-  {
    "name": "The Toys Galaxy",
    "group": "unknown",
    "city": "Spokane",
@@ -52550,18 +52871,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:39:42Z"
-  },
-  {
-   "name": "The Wolf Den",
-   "group": "unknown",
-   "address": "300 1st St S, Montgomery, MN, 56069-1623, United States",
-   "phone": "1701-409-0782",
-   "website": "https://www.wolfdengamingmn.com/",
-   "buylist_url": "https://www.wolfdengamingmn.com/marketplace/credit",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:36:18Z"
   },
   {
    "name": "The Zone Collectibles & More",
@@ -52907,18 +53216,6 @@
    "checked_at": "2026-10-15T20:18:52Z"
   },
   {
-   "name": "Tinker and Tamp",
-   "group": "unknown",
-   "address": "1861 1st St, Cheney, WA, 99004, US",
-   "phone": "15092096205",
-   "website": "https://tinkerandtamp.com/",
-   "buylist_url": "https://tinkerandtamp.com/retailer/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:42:34Z"
-  },
-  {
    "name": "Tinker Games & Hobby",
    "group": "unknown",
    "address": "1805 S Air Depot Blvd, Midwest City, OK, 73110, United States",
@@ -53137,17 +53434,6 @@
    "checked_at": "2026-10-15T20:51:36Z"
   },
   {
-   "name": "Tony's Treasures | BUY/SELL/TRADE Video Games & Collectibles",
-   "group": "unknown",
-   "city": "Chicago",
-   "region": "IL",
-   "address": "3208 W North Ave, Chicago, IL 60647",
-   "phone": "(773) 384-5488",
-   "website": "https://tonystreasure.com/",
-   "buylist_url": "https://tonystreasure.com/pages/sell-your-video-games",
-   "checked_at": "2026-10-15T20:53:12Z"
-  },
-  {
    "name": "Top Chase Group (TCG Vancouver)",
    "group": "unknown",
    "city": "Vancouver",
@@ -53169,17 +53455,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:41:07Z"
-  },
-  {
-   "name": "Top Cut Collectibles",
-   "group": "unknown",
-   "city": "Berwyn",
-   "region": "IL",
-   "address": "7122 Ogden Ave Ste B, Berwyn, IL 60402",
-   "phone": "(708) 317-5589",
-   "website": "https://www.topcutcollectibles.com/",
-   "buylist_url": "https://www.topcutcollectibles.com/buylist",
-   "checked_at": "2026-10-15T20:53:17Z"
   },
   {
    "name": "Top Cut Comics - Berwyn",
@@ -53265,17 +53540,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:44:31Z"
-  },
-  {
-   "name": "Top Issue - Sports cards and Americana.",
-   "group": "unknown",
-   "city": "Deerfield",
-   "region": "IL",
-   "address": "829 Waukegan Rd, Deerfield, IL 60015",
-   "phone": "(224) 301-2273",
-   "website": "https://tisecured.com/",
-   "buylist_url": "https://tisecured.com/pages/sell-your-cards",
-   "checked_at": "2026-10-15T20:53:17Z"
   },
   {
    "name": "Top Loaded Trading Cards",
@@ -53441,21 +53705,6 @@
    "checked_at": "2026-10-15T20:35:47Z"
   },
   {
-   "name": "Tower of Games - Boca Raton",
-   "group": "unknown",
-   "city": "Newport News",
-   "region": "Virginia",
-   "address": "499 NE Spanish River Blvd, Boca Raton, FL, 33431, United States",
-   "phone": "1561-722-2872",
-   "website": "https://www.towerofgames.com",
-   "buylist_url": "https://www.towerofgames.com/trade",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:34:52Z"
-  },
-  {
    "name": "Towne Square Records & Comics",
    "group": "unknown",
    "city": "Gallatin",
@@ -53619,21 +53868,6 @@
    "phone": "(602) 441-8089",
    "website": "https://www.toyingaroundaz.com/",
    "checked_at": "2026-10-15T20:54:25Z"
-  },
-  {
-   "name": "Toynado Alley",
-   "group": "unknown",
-   "city": "Occoquan Historic District",
-   "region": "Virginia",
-   "address": "310 Mill Store, Occoquan, VA, 22125, United States",
-   "phone": "1-571-409-7130",
-   "website": "https://toynadoalley.com/",
-   "buylist_url": "https://toynadoalley.com/pages/transparent-collection-buying",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:27:24Z"
   },
   {
    "name": "Toys Place Birmingham",
@@ -53820,21 +54054,6 @@
    "checked_at": "2026-10-15T20:31:41Z"
   },
   {
-   "name": "Trading Card Market",
-   "group": "unknown",
-   "city": "Manchester",
-   "region": "Missouri",
-   "address": "14208 Manchester Rd, Manchester, MO, 63011, United States",
-   "phone": "314-706-1404",
-   "website": "https://tradingcardmarket.com",
-   "buylist_url": "https://tradingcardmarket.com/pages/sell-your-cards",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:39:53Z"
-  },
-  {
    "name": "Trading Card Resources",
    "group": "unknown",
    "city": "Waipahu",
@@ -53931,17 +54150,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:37:29Z"
-  },
-  {
-   "name": "Treasure Chest Games & Collectibles",
-   "group": "unknown",
-   "city": "Port Coquitlam",
-   "region": "BC",
-   "address": "3274 Coast Meridian Rd, Port Coquitlam, BC V3B 3N4, Canada",
-   "phone": "(604) 941-9313",
-   "website": "https://www.tcgames.ca/",
-   "buylist_url": "https://www.tcgames.ca/advanced_search?utf8=%E2%9C%93&search%5Bfuzzy_search%5D=&search%5Btags_name_eq%5D=&search%5Bsell_price_gte%5D=5&search%5Bsell_price_lte%5D=20&search%5Bbuy_price_gte%5D=&search%5Bbuy_price_lte%5D=&search%5Bin_stock%5D=0&buylist_mode=0&search%5Bcategory_ids_with_descendants%5D%5B%5D=&search%5Bsort%5D=name&search%5Bdirection%5D=ascend&commit=Search&search%5Bcatalog_group_id_eq%5D=",
-   "checked_at": "2026-10-15T20:52:20Z"
   },
   {
    "name": "Treasure Coast Magic",
@@ -54358,17 +54566,6 @@
    "checked_at": "2026-10-15T20:32:43Z"
   },
   {
-   "name": "Twist & Shout Records",
-   "group": "unknown",
-   "city": "Denver",
-   "region": "CO",
-   "address": "2508 E Colfax Ave, Denver, CO 80206",
-   "phone": "(303) 722-1943",
-   "website": "https://twistandshout.com/",
-   "buylist_url": "https://twistandshout.com/selling-vinyl-and-collectibles-in-the-time-of-coronavirus",
-   "checked_at": "2026-10-15T21:02:00Z"
-  },
-  {
    "name": "Twisted Games & Collectibles",
    "group": "unknown",
    "city": "Freeport",
@@ -54531,20 +54728,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:45:42Z"
-  },
-  {
-   "name": "Underworld Cards & Games",
-   "group": "unknown",
-   "city": "Raleigh",
-   "region": "NC",
-   "address": "5563 Western Blvd, Raleigh, NC, 27606, US",
-   "phone": "+1 984-328-2608",
-   "website": "https://www.underworldtcg.com/",
-   "buylist_url": "https://www.underworldtcg.com/sell",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:34:54Z"
   },
   {
    "name": "Underworlds TCG & Collectibles",
@@ -54761,17 +54944,6 @@
    "phone": "(801) 797-4438",
    "website": "https://www.utahnortherndungeon.com/",
    "checked_at": "2026-10-15T21:17:28Z"
-  },
-  {
-   "name": "Utah Premier Sports Cards & Memorabilia",
-   "group": "unknown",
-   "city": "Midway",
-   "region": "UT",
-   "address": "206 W Main St Ste G, Midway, UT 84049",
-   "phone": "(435) 352-1100",
-   "website": "https://utahpremiersportscards.com/",
-   "buylist_url": "https://utahpremiersportscards.com/home",
-   "checked_at": "2026-10-15T21:17:14Z"
   },
   {
    "name": "Valentino Card Shop",
@@ -55606,36 +55778,6 @@
    "checked_at": "2026-10-15T20:30:55Z"
   },
   {
-   "name": "We Geek Together",
-   "group": "unknown",
-   "city": "Provo",
-   "region": "Utah",
-   "address": "1200 Towne Centre Blvd, Provo, UT, 84601, United States",
-   "phone": "1206-334-3607",
-   "website": "https://www.wegeektogether.com/",
-   "buylist_url": "https://www.wegeektogether.com/pages/sell-magic-cards",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:49Z"
-  },
-  {
-   "name": "We Geek Together - Sandy",
-   "group": "unknown",
-   "city": "Sandy",
-   "region": "Utah",
-   "address": "10450 S State St, Sandy, UT, 84070-4111, United States",
-   "phone": "1801-512-2149",
-   "website": "https://www.wegeektogether.com/",
-   "buylist_url": "https://www.wegeektogether.com/pages/sell-magic-cards",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:24Z"
-  },
-  {
    "name": "Weekend Anime & Games",
    "group": "unknown",
    "city": "Westbrook",
@@ -55670,28 +55812,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:44:34Z"
-  },
-  {
-   "name": "West Coast Sports Cards",
-   "group": "unknown",
-   "city": "Federal Way",
-   "region": "WA",
-   "address": "2008 S 314th St, Federal Way, WA 98003",
-   "phone": "(253) 941-1757",
-   "website": "https://www.pristinecomics.com",
-   "buylist_url": "https://www.pristinecomics.com/sell-to-us/",
-   "checked_at": "2026-10-15T21:01:12Z"
-  },
-  {
-   "name": "West Coast Sports Cards (Auburn)",
-   "group": "unknown",
-   "city": "Auburn",
-   "region": "WA",
-   "address": "1101 Outlet Collection Way #1321, Auburn, WA 98001",
-   "phone": "(253) 941-1986",
-   "website": "https://www.pristinecomics.com/",
-   "buylist_url": "https://www.pristinecomics.com/sell-to-us/",
-   "checked_at": "2026-10-15T21:01:04Z"
   },
   {
    "name": "West Orange Comics and Video Games",
@@ -55833,20 +55953,6 @@
    "phone": "(916) 942-9250",
    "website": "https://wildsistersbookco.com/",
    "checked_at": "2026-10-15T21:10:42Z"
-  },
-  {
-   "name": "Wild Things Games",
-   "group": "unknown",
-   "city": "Salem",
-   "region": "Oregon",
-   "address": "241 Commercial St NE, Salem, OR 97301, USA, Salem, Oregon, 97301",
-   "phone": "+1 503-364-4263",
-   "website": "https://linktr.ee/wildthingsgames",
-   "buylist_url": "https://linktr.ee/buylist",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-15T20:45:35Z"
   },
   {
    "name": "Wild West Comics and Games - Arlington",
@@ -56031,20 +56137,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:25:33Z"
-  },
-  {
-   "name": "Wizards of the West TCG",
-   "group": "unknown",
-   "city": "Murray",
-   "region": "UT",
-   "address": "5280 S Commerce Dr, Salt Lake City, UT, 84107-5321, United States",
-   "phone": "1334-315-1965",
-   "website": "https://www.wizardswest.com/",
-   "buylist_url": "https://www.wizardswest.com/sell",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:40:11Z"
   },
   {
    "name": "WizeGuyz Collectors Club",
@@ -56413,18 +56505,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:35:13Z"
-  },
-  {
-   "name": "Xtreme Collectables",
-   "group": "unknown",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "905-945-4456",
-   "website": "https://www.xtremecollectables.com",
-   "buylist_url": "https://www.xtremecollectables.com/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:41:31Z"
   },
   {
    "name": "Xtreme Collectibles",
