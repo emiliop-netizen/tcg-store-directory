@@ -30,6 +30,26 @@
    "checked_at": "2026-10-16T02:31:27Z"
   },
   {
+   "name": "Spiel-es (Ankauf)",
+   "group": "feed",
+   "website": "https://spiel-es.de",
+   "buylist_url": "https://ankauf.spiel-es.de",
+   "feed": {
+    "platform": "spiel-es",
+    "base": "https://ankauf.spiel-es.de",
+    "games": [
+     "Pokemon"
+    ],
+    "language": "German card names and sets",
+    "search": "/api/cards/search?q={German card name} -> [{id, name, localId, setName}]; then /api/cards/{id} -> pricing.payoutPriceCash (EUR cash), priceUpdatedAt"
+   },
+   "national_mail_in": true,
+   "games_buys": [
+    "Pokemon"
+   ],
+   "notes": "Pokemon (German) Ankauf tool with a JSON price feed: GET https://ankauf.spiel-es.de/api/cards/search?q={name} then /api/cards/{id} -> pricing.payoutPriceCash (EUR cash). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
+  },
+  {
    "name": "BB-Spiele",
    "group": "public_buylist",
    "city": "Rosenheim",
@@ -75,17 +95,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:24Z"
-  },
-  {
-   "name": "Spiel-es (Ankauf)",
-   "group": "public_buylist",
-   "website": "https://spiel-es.de",
-   "buylist_url": "https://ankauf.spiel-es.de",
-   "national_mail_in": true,
-   "games_buys": [
-    "Pokemon"
-   ],
-   "notes": "Pokemon (German) Ankauf tool with a JSON price feed: GET https://ankauf.spiel-es.de/api/cards/search?q={name} then /api/cards/{id} -> pricing.payoutPriceCash (EUR cash). Found 2026-10-16 via certificate-log search (ankauf./rachat./sellcards. subdomains) + page check."
   },
   {
    "name": "House of Cards and Games",
