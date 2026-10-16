@@ -2,8 +2,30 @@
  "country": "JP",
  "currency": "JPY",
  "updated": "2026-10-16",
- "store_count": 1143,
+ "store_count": 1144,
  "stores": [
+  {
+   "name": "Hareruya 2",
+   "group": "feed",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−2−１３ 石丸3号館ビル",
+   "phone": "03-6285-2830",
+   "website": "https://www.hareruya2.com/pages/store_tower",
+   "buylist_url": "https://www.hare2buy.com/",
+   "feed": {
+    "platform": "hare2buy",
+    "base": "https://www.hare2buy.com",
+    "games": [
+     "Pokemon"
+    ],
+    "language": "Japanese",
+    "search": "/product-list?keyword={Japanese card name} -> each item: goods_name like 'ピカチュウex(D){雷}〈001/030〉[WCS23] [43993]' (number in 〈〉, set code in []), price after '￥' in selling_price = their buy price (JPY)"
+   },
+   "national_mail_in": true,
+   "mail_in": true,
+   "checked_at": "2026-10-16T21:04:39Z"
+  },
   {
    "name": "aNueNuE -アヌエ-",
    "group": "public_buylist",
@@ -15,6 +37,20 @@
    "buylist_url": "https://anuenue-a1.com/card-list/",
    "mail_in": false,
    "checked_at": "2026-10-16T21:06:11Z"
+  },
+  {
+   "name": "Card Rush (カードラッシュ) buylist",
+   "group": "public_buylist",
+   "city": "Tokyo",
+   "region": "Tokyo",
+   "website": "https://cardrush.media",
+   "buylist_url": "https://cardrush.media/onepiece/buying_prices",
+   "national_mail_in": true,
+   "games_buys": [
+    "One Piece",
+    "Pokemon"
+   ],
+   "notes": "Full buy list searchable by card number: https://cardrush.media/onepiece/buying_prices?model_number={number} (also /pokemon/). Rarity SR/P, SEC/P, L/P = parallel; SP listed separately. Returns 403 to cloud servers (tested 2026-10-17) - collector checks it."
   },
   {
    "name": "Card Shop Hanjō",
@@ -63,17 +99,6 @@
    "buylist_url": "https://www.gamestation.jp/blog/category/purchase/",
    "mail_in": false,
    "checked_at": "2026-10-16T21:06:42Z"
-  },
-  {
-   "name": "Hareruya 2",
-   "group": "public_buylist",
-   "city": "Chiyoda City",
-   "region": "Tokyo",
-   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−2−１３ 石丸3号館ビル",
-   "phone": "03-6285-2830",
-   "website": "https://www.hareruya2.com/pages/store_tower",
-   "mail_in": true,
-   "checked_at": "2026-10-16T21:04:39Z"
   },
   {
    "name": "LAMB",
