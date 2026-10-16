@@ -1,0 +1,5447 @@
+{
+ "country": "NL",
+ "currency": "EUR",
+ "updated": "2026-10-15",
+ "store_count": 524,
+ "stores": [
+  {
+   "name": "Bescards",
+   "group": "public_buylist",
+   "website": "https://www.bescards.com",
+   "buylist_url": "https://www.bescards.com",
+   "national_mail_in": true,
+   "games_buys": [
+    "One Piece",
+    "Pokemon"
+   ],
+   "notes": "Verified by the Mind 2026-10-15 (London test): public per-card One Piece buylist in EUR, ships from the UK too (customs). Search tiles show one price per card number (the priciest printing) - open the card's offer panel to see the right printing."
+  },
+  {
+   "name": "Card House Of The East",
+   "group": "public_buylist",
+   "address": "Smedenstraat 31, Deventer, Overijssel, 7411RB, Netherlands",
+   "phone": "+310611723266",
+   "website": "https://card-house.nl/",
+   "buylist_url": "https://card-house.nl/pages/inkoop",
+   "mail_in": true,
+   "credit_bonus": "75-80% of value as shop credit (80% Pokemon/One Piece, 75% MTG)",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:02Z"
+  },
+  {
+   "name": "Lichcards",
+   "group": "public_buylist",
+   "city": "Enkhuizen",
+   "region": "NH",
+   "address": "De Trompet 18c, 1601 MK Enkhuizen",
+   "phone": "085 744 4550",
+   "website": "https://lichcards.nl/",
+   "buylist_url": "https://lichcards.nl/pages/pokemon-kaarten-verkopen",
+   "mail_in": true,
+   "credit_bonus": "Shop credit option compared with bank payment",
+   "checked_at": "2026-10-16T03:14:30Z"
+  },
+  {
+   "name": "TCG Experts",
+   "group": "public_buylist",
+   "city": "Spijkenisse",
+   "region": "ZH",
+   "address": "Nomadenkreek 13, 3206 HL Spijkenisse",
+   "phone": "06 44334347",
+   "website": "https://www.tcgexperts.nl/",
+   "buylist_url": "https://www.tcgexperts.nl/help-ons-de-100k-pokemon-challenge-te-behalen-wij-kopen-pokemon-items-in/",
+   "mail_in": true,
+   "credit_bonus": "Webshop credit, or 90% of fixed price via other payment",
+   "checked_at": "2026-10-16T03:16:17Z"
+  },
+  {
+   "name": "Magicers",
+   "group": "login_required",
+   "address": "Lange Groenendaal 82, Gouda, ZH, 2801LV, Netherlands",
+   "phone": "(+31) 0182 235 076",
+   "website": "https://www.magicers.nl/home",
+   "buylist_url": "https://www.magicers.nl/inkoop",
+   "mail_in": true,
+   "credit_bonus": "Paid in store credit, or 90% of that by bank transfer",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:47Z"
+  },
+  {
+   "name": "Spellhaven",
+   "group": "login_required",
+   "address": "5 Plantsoen, Woerden, Utrecht, 3441 EK, Netherlands",
+   "phone": "+31611053971",
+   "website": "https://magickast.nl/spellhaven",
+   "buylist_url": "https://magickast.nl/buylist",
+   "credit_bonus": "Store credit or bank payout",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:25Z"
+  },
+  {
+   "name": "AuriCards",
+   "group": "quote_only",
+   "city": "Emmen",
+   "region": "DR",
+   "address": "De Bargies 54, 7826 HX Emmen",
+   "website": "https://www.auricards.nl/",
+   "buylist_url": "https://www.auricards.nl/inkoop",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:21:29Z"
+  },
+  {
+   "name": "e-pick Store | TCGs and Collectibles",
+   "group": "quote_only",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Karel Doormanstraat 332, 3012 GP Rotterdam",
+   "phone": "06 83211841",
+   "website": "https://store.e-pick.xyz/",
+   "buylist_url": "https://store.e-pick.xyz/pages/sell-your-cards",
+   "checked_at": "2026-10-16T03:15:53Z"
+  },
+  {
+   "name": "joekkiescards",
+   "group": "quote_only",
+   "city": "IJsselstein",
+   "region": "UT",
+   "address": "Energieweg 1a, 3401 MD IJsselstein",
+   "phone": "06 55882011",
+   "website": "https://www.joekkiescards.com/",
+   "buylist_url": "https://www.joekkiescards.com/sell-cards/",
+   "checked_at": "2026-10-16T03:18:42Z"
+  },
+  {
+   "name": "Joydo",
+   "group": "quote_only",
+   "address": "Ambachtstraat 18A, Brummen, Gelderland, 6971BR, Netherlands",
+   "phone": "+310611200659",
+   "website": "https://www.joydo.nl",
+   "buylist_url": "https://www.joydo.nl/inkoop_en.php",
+   "mail_in": true,
+   "credit_bonus": "Store credit or trade option",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:00Z"
+  },
+  {
+   "name": "Kaartendepot",
+   "group": "quote_only",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Het Schakelplein 1, 5651 GR Eindhoven",
+   "website": "https://kaartendepot.pages.dev/",
+   "buylist_url": "https://kaartendepot.pages.dev/wat-kopen-wij",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:20:16Z"
+  },
+  {
+   "name": "Magic Traders",
+   "group": "quote_only",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Graaf Willemlaan 17, 3434 RL Nieuwegein",
+   "phone": "06 36336713",
+   "website": "https://magictraders.nl/",
+   "buylist_url": "https://magictraders.nl/pages/inkoop-1",
+   "credit_bonus": "Store credit gives higher % (80% vs 70% cash)",
+   "checked_at": "2026-10-16T03:18:30Z"
+  },
+  {
+   "name": "Paradisecards TCG",
+   "group": "quote_only",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Nieuwe Ebbingestraat 17, Groningen, Groningen, 9712NC, Netherlands",
+   "phone": "+5990639683962",
+   "website": "https://www.paradisecardstcg.nl/",
+   "buylist_url": "https://www.paradisecardstcg.nl/inruil",
+   "credit_bonus": "Up to about 70% in shop credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:59Z"
+  },
+  {
+   "name": "QUARRE TCG | Online TCG Store",
+   "group": "quote_only",
+   "city": "Cuijk",
+   "region": "NB",
+   "address": "De Nieuwe Erven 3, 5431 NV Cuijk",
+   "website": "https://www.quarretcg.com/",
+   "buylist_url": "https://www.quarretcg.com/",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:21:57Z"
+  },
+  {
+   "name": "Retro Empire Gaming",
+   "group": "quote_only",
+   "address": "141 De Eglantier, Apeldoorn, GE, 7329 DD, Netherlands",
+   "phone": "+31634007574",
+   "website": "https://retro-empire.nl/",
+   "buylist_url": "https://retro-empire.nl/pages/inkoop-inruil",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:59Z"
+  },
+  {
+   "name": "The Game Galaxy",
+   "group": "quote_only",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 208, 1012 XH Amsterdam",
+   "phone": "06 34820476",
+   "website": "https://galaxystores.nl/",
+   "buylist_url": "https://galaxystores.nl/inkoop/",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:13:44Z"
+  },
+  {
+   "name": "The Unpackables TCG",
+   "group": "quote_only",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Gilze-Rijenstraat 3, 3045 PJ Rotterdam",
+   "phone": "06 86066542",
+   "website": "https://theunpackablestcg.nl/",
+   "buylist_url": "https://theunpackablestcg.nl/blogs/news/we-buy-you-cards",
+   "checked_at": "2026-10-16T03:15:59Z"
+  },
+  {
+   "name": "Very Cool Card Games",
+   "group": "quote_only",
+   "city": "Bergschenhoek",
+   "region": "ZH",
+   "address": "Rottekade 230, 2661 JW Bergschenhoek",
+   "phone": "06 40948284",
+   "website": "https://www.vintageccg.com/",
+   "buylist_url": "https://www.vintageccg.com/magic-the-gathering-buylist/",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:16:00Z"
+  },
+  {
+   "name": "4 Your Games",
+   "group": "blocked",
+   "city": "Dordrecht",
+   "region": "Zuid-Holland",
+   "address": "Voorstraat 410, Dordrecht, ZH, 3311CX, Netherlands",
+   "phone": "+31(0) 787370382",
+   "website": "https://4yourgames.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:03Z"
+  },
+  {
+   "name": "Action",
+   "group": "blocked",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Turfmarkt 133, 2511 DP Den Haag",
+   "phone": "0228 545 750",
+   "website": "https://www.action.com/nl-nl/winkels/den-haag-turfmarkt/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=1265",
+   "checked_at": "2026-10-16T03:17:31Z"
+  },
+  {
+   "name": "ArlyToys Speelgoed en TCG",
+   "group": "blocked",
+   "city": "Lelystad",
+   "region": "Flevoland",
+   "address": "2a Bolderweg, Lelystad, FL, 8243 RD, Netherlands",
+   "phone": "+31645101144",
+   "website": "https://arlytrading.nl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:44Z"
+  },
+  {
+   "name": "Boekhandel Dominicanen",
+   "group": "blocked",
+   "address": "1 Dominicanerkerkstraat, Maastricht, Limburg, 6211 CZ, Netherlands",
+   "phone": "+31434100010",
+   "website": "https://www.boekhandeldominicanen.nl/agenda",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:44Z"
+  },
+  {
+   "name": "Boekhandel en Kantoorboekhandel van Grinsven",
+   "group": "blocked",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Korianderstraat 28, 5643 AS Eindhoven",
+   "phone": "040 211 5217",
+   "website": "https://libris.nl/vangrinsven",
+   "checked_at": "2026-10-16T03:20:43Z"
+  },
+  {
+   "name": "bookstore Donner",
+   "group": "blocked",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Coolsingel 129, 3012 AG Rotterdam",
+   "phone": "010 413 2070",
+   "website": "http://www.donner.nl/",
+   "checked_at": "2026-10-16T03:16:20Z"
+  },
+  {
+   "name": "Bookstore van Piere",
+   "group": "blocked",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Nieuwe Emmasingel 48, 5611 AM Eindhoven",
+   "phone": "040 249 2002",
+   "website": "https://www.vanpiere.nl/",
+   "checked_at": "2026-10-16T03:20:42Z"
+  },
+  {
+   "name": "Broese Booksellers",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 112-b, 3511 AW Utrecht",
+   "phone": "030 233 5200",
+   "website": "https://www.broese.nl/",
+   "checked_at": "2026-10-16T03:19:23Z"
+  },
+  {
+   "name": "Dekker van de Vegt Boekverkopers 📚",
+   "group": "blocked",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Marikenstraat 29, 6511 PX Nijmegen",
+   "phone": "024 302 0130",
+   "website": "https://libris.nl/dekker-vd-vegt/",
+   "checked_at": "2026-10-16T03:22:30Z"
+  },
+  {
+   "name": "Dracoon",
+   "group": "blocked",
+   "address": "Toepadweg 4c, ZALTBOMMEL, Gelderland, 5301 KA, Netherlands",
+   "phone": "+310627406546",
+   "website": "https://dracoon.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:47Z"
+  },
+  {
+   "name": "FanoBet",
+   "group": "blocked",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Duindoornstraat 12, 1032 CN Amsterdam",
+   "phone": "06 42237971",
+   "website": "https://fano.bet/",
+   "checked_at": "2026-10-16T03:14:53Z"
+  },
+  {
+   "name": "Het KadoCafe",
+   "group": "blocked",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Folkingestraat 22, 9711 JW Groningen",
+   "phone": "050 204 4341",
+   "website": "https://www.hetkadocafe.nl/",
+   "checked_at": "2026-10-16T03:21:40Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 8, 1012 NX Amsterdam",
+   "phone": "020 532 6183",
+   "website": "http://hmv.com/",
+   "checked_at": "2026-10-16T03:14:18Z"
+  },
+  {
+   "name": "House of M Comics",
+   "group": "blocked",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Slinge 177-179, 3085 EW Rotterdam",
+   "phone": "010 737 1941",
+   "website": "https://www.houseofmcomics.com/",
+   "checked_at": "2026-10-16T03:16:00Z"
+  },
+  {
+   "name": "House Of Pokies",
+   "group": "blocked",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "1e Sweelinckstraat 6, 2517 GC Den Haag",
+   "phone": "06 13668611",
+   "website": "https://rollingslots555.com/en-ca?stag=118088_6ad1975b2a9230f6f1217092&s2=3sj3c9uc94dm&tracking_link=http%3A%2F%2Fgorollingslots.com%2Fdzfgwxnj2",
+   "checked_at": "2026-10-16T03:17:45Z"
+  },
+  {
+   "name": "Kamera Express Eindhoven",
+   "group": "blocked",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Stratumsedijk 32, 5611 NS Eindhoven",
+   "phone": "040 833 0199",
+   "website": "https://www.kamera-express.nl/winkels/eindhoven",
+   "checked_at": "2026-10-16T03:20:58Z"
+  },
+  {
+   "name": "Licht & Fijn - Online conceptstore",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Thomassenstraat 5, 3572 KG Utrecht",
+   "website": "https://www.lichtenfijn.nl/",
+   "checked_at": "2026-10-16T03:20:05Z"
+  },
+  {
+   "name": "LocoMix B.V.",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zonnebaan 34, 3542 EE Utrecht",
+   "phone": "030 261 1076",
+   "website": "https://www.thnx.eu/",
+   "checked_at": "2026-10-16T03:19:49Z"
+  },
+  {
+   "name": "Meijer & Blessing Hobby shop",
+   "group": "blocked",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Westewagenstraat 27, 3011 AR Rotterdam",
+   "phone": "010 414 5591",
+   "website": "http://www.meijerenblessing.nl/",
+   "checked_at": "2026-10-16T03:16:57Z"
+  },
+  {
+   "name": "Nedgame Gouda",
+   "group": "blocked",
+   "city": "Gouda",
+   "region": "ZH",
+   "address": "Korte Tiendeweg 14, 2801 JV Gouda",
+   "phone": "0182 686 902",
+   "website": "http://www.nedgame.nl/",
+   "checked_at": "2026-10-16T03:18:57Z"
+  },
+  {
+   "name": "NeverNeverLand",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 202, 3511 NR Utrecht",
+   "phone": "030 233 2293",
+   "website": "https://www.neverneverlandutrecht.nl/",
+   "checked_at": "2026-10-16T03:18:30Z"
+  },
+  {
+   "name": "Office- & Bookshop Kees",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Ella Fitzgeraldplein 22, 3543 EP Utrecht",
+   "phone": "030 760 7080",
+   "website": "https://libris.nl/visscher/",
+   "checked_at": "2026-10-16T03:20:07Z"
+  },
+  {
+   "name": "Player2 Geek & Gamestore",
+   "group": "blocked",
+   "address": "Sacramentsweg 4, UDEN, Noord Brabant, 5401 GR, Netherlands",
+   "phone": "+310629906051",
+   "website": "https://www.player2gamestore.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:57Z"
+  },
+  {
+   "name": "Playourgames Uden",
+   "group": "blocked",
+   "address": "12 Mondriaanplein, Uden, NB, 5401 HX, Netherlands",
+   "phone": "+31413289369",
+   "website": "https://www.playourgames.nl/444-ops-tickets",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:56Z"
+  },
+  {
+   "name": "Press-StartGames",
+   "group": "blocked",
+   "city": "Appingedam",
+   "region": "GR",
+   "address": "Dijkstraat 52, 9901 AT Appingedam",
+   "phone": "06 54366187",
+   "website": "https://www.press-startgames.com/",
+   "checked_at": "2026-10-16T03:21:24Z"
+  },
+  {
+   "name": "Reisboekhandel Pied à Terre",
+   "group": "blocked",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Rokin 9, 1012 KK Amsterdam",
+   "phone": "020 523 1411",
+   "website": "https://www.scheltema.nl/piedaterre/",
+   "checked_at": "2026-10-16T03:15:18Z"
+  },
+  {
+   "name": "Rene Cards, Games & Collectibles",
+   "group": "blocked",
+   "city": "Naaldwijk",
+   "region": "ZH",
+   "address": "Van Tijnplein 22d, 2671 HP Naaldwijk",
+   "phone": "06 38097754",
+   "website": "https://renecards.nl/",
+   "checked_at": "2026-10-16T03:14:32Z"
+  },
+  {
+   "name": "RetroNintendoKopen.nl",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Atoomweg 50, 3542 AB Utrecht",
+   "phone": "030 200 3102",
+   "website": "https://www.retronintendokopen.nl/",
+   "checked_at": "2026-10-16T03:19:06Z"
+  },
+  {
+   "name": "Stripbteaser Webshop🦸",
+   "group": "blocked",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Kanaaldijk-Noord 109e, Gebouw 0203, 5642 JA Eindhoven",
+   "phone": "06 39760609",
+   "website": "https://www.stripbteaser.nl/",
+   "checked_at": "2026-10-16T03:20:38Z"
+  },
+  {
+   "name": "The Splendid",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 194, 3511 NR Utrecht",
+   "phone": "030 233 4357",
+   "website": "https://www.thesplendid.nl/",
+   "checked_at": "2026-10-16T03:18:38Z"
+  },
+  {
+   "name": "the Traverse",
+   "group": "blocked",
+   "city": "Son",
+   "region": "NB",
+   "address": "Nieuwstraat 38, 5691 AD Son",
+   "phone": "0499 474 088",
+   "website": "https://libris.nl/detraverse/",
+   "checked_at": "2026-10-16T03:20:52Z"
+  },
+  {
+   "name": "Trading Card Games Center",
+   "group": "blocked",
+   "city": "Kampen",
+   "region": "OV",
+   "address": "Burgwalstraat 22, Kampen, Overijssel, 8261HK, Netherlands",
+   "phone": "+31(0)643480374",
+   "website": "https://www.tcgcenter.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:08Z"
+  },
+  {
+   "name": "Van Beek Art Supplies (Weteringschans, Amsterdam)",
+   "group": "blocked",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Weteringschans 201, 1017 XG Amsterdam",
+   "phone": "020 623 9647",
+   "website": "http://www.vanbeekart.nl/",
+   "checked_at": "2026-10-16T03:15:23Z"
+  },
+  {
+   "name": "Van der Velde",
+   "group": "blocked",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Grote Markt 54-55, 9712 JZ Groningen",
+   "phone": "050 307 0100",
+   "website": "https://www.vanderveldeboeken.nl/",
+   "checked_at": "2026-10-16T03:21:38Z"
+  },
+  {
+   "name": "'t Paleisje B.V.",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Paleisstraat 5, 1012 RB Amsterdam",
+   "phone": "020 625 1410",
+   "checked_at": "2026-10-16T03:14:39Z"
+  },
+  {
+   "name": "Bao Cards",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Graskopstraat 66, 2572 WX Den Haag",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "Boek & Co",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Wolphaertsbocht 37, 3082 AB Rotterdam",
+   "phone": "010 429 0320",
+   "checked_at": "2026-10-16T03:17:17Z"
+  },
+  {
+   "name": "Card Hunt Chronicles",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Gedempte Zalmhaven, 3016 DT Rotterdam",
+   "checked_at": "2026-10-16T03:16:26Z"
+  },
+  {
+   "name": "Cash Converters Prinsegracht Hague",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Prinsegracht 74, 2512 GB Den Haag",
+   "phone": "070 305 0100",
+   "website": "https://www.cashconverters.nl/",
+   "checked_at": "2026-10-16T03:17:47Z"
+  },
+  {
+   "name": "Collectableworld Amsterdam",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 194, 1012 XH Amsterdam",
+   "phone": "06 54694054",
+   "website": "https://collectableworld.nl/",
+   "buylist_url": "https://collectableworld.nl/verkoop-je-kaarten/",
+   "checked_at": "2026-10-16T03:14:01Z"
+  },
+  {
+   "name": "Collectors Floor – Amsterdam’s Geek Headquarters",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Czaar Peterstraat 231, 1018 PL Amsterdam",
+   "checked_at": "2026-10-16T03:13:44Z"
+  },
+  {
+   "name": "Comics Import Amsterdam",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Keizersgracht 190, 1016 DW Amsterdam",
+   "phone": "06 22854418",
+   "checked_at": "2026-10-16T03:14:38Z"
+  },
+  {
+   "name": "CSM",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Jacob Van Lennepkade 116, 1053 ML Amsterdam",
+   "checked_at": "2026-10-16T03:14:43Z"
+  },
+  {
+   "name": "De Oude Pijpenlade",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 199, 3511 NG Utrecht",
+   "phone": "030 231 7335",
+   "checked_at": "2026-10-16T03:20:09Z"
+  },
+  {
+   "name": "Donkersloot Collectibles",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Eerste Constantijn Huygensstraat 33, 1054 BR Amsterdam",
+   "phone": "020 778 1204",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "Douwes",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Herengracht 60, 2511 EJ Den Haag",
+   "phone": "070 737 1126",
+   "checked_at": "2026-10-16T03:18:09Z"
+  },
+  {
+   "name": "e-pick Store Amsterdam | TCGs and Collectibles",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Reguliersbreestraat 2-2A, 1017 CN Amsterdam",
+   "checked_at": "2026-10-16T03:14:05Z"
+  },
+  {
+   "name": "EDDD",
+   "group": "in_store",
+   "city": "Rijsenhout",
+   "region": "NH",
+   "address": "Boeierstraat 6, 1435 LL Rijsenhout",
+   "phone": "06 35628621",
+   "website": "https://www.youtube.com/@edddje21",
+   "checked_at": "2026-10-16T03:13:57Z"
+  },
+  {
+   "name": "Fanworld Rotterdam",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Poolsterstraat 92C, 3067 LX Rotterdam",
+   "phone": "010 261 3536",
+   "checked_at": "2026-10-16T03:16:29Z"
+  },
+  {
+   "name": "Game Fanatic",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Spinozaweg 88, 3532 SJ Utrecht",
+   "phone": "06 18192081",
+   "checked_at": "2026-10-16T03:18:51Z"
+  },
+  {
+   "name": "Gameconsoleworld",
+   "group": "in_store",
+   "city": "Capelle aan den IJssel",
+   "region": "ZH",
+   "address": "Brahmsstraat 100, 2901 JD Capelle aan den IJssel",
+   "phone": "06 40040456",
+   "checked_at": "2026-10-16T03:16:40Z"
+  },
+  {
+   "name": "Gifts Goodies & Fantasy",
+   "group": "in_store",
+   "city": "Winschoten",
+   "region": "Groningen",
+   "address": "13 Papegaaistraat, Goes, ZE, 4461 AD, Netherlands",
+   "phone": "+31619206041",
+   "website": "https://www.facebook.com/p/Gifts-Goodies-Fantasy-100078972700294/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:21Z"
+  },
+  {
+   "name": "Giftshop Effeness",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Nieuwezijds Voorburgwal 29, 1012 RD Amsterdam",
+   "phone": "020 620 5050",
+   "checked_at": "2026-10-16T03:15:24Z"
+  },
+  {
+   "name": "Hoge Ogen",
+   "group": "in_store",
+   "city": "Alphen aan den Rijn",
+   "region": "Zuid-Holland",
+   "address": "Hooftstraat 87, 2406 GE Alphen aan den Rijn, Netherlands, Alphen aan den Rijn, Zuid-Holland, 2406 GE",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:42Z"
+  },
+  {
+   "name": "I Love Amsterdam",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Lange Niezel 14, 1012 GZ Amsterdam",
+   "phone": "020 421 7220",
+   "checked_at": "2026-10-16T03:14:42Z"
+  },
+  {
+   "name": "It all starts with a postcard",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Twijnstraat 38, 3511 ZL Utrecht",
+   "phone": "030 274 6500",
+   "checked_at": "2026-10-16T03:18:38Z"
+  },
+  {
+   "name": "Kaarten-online.nl",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Werfstraat 52, 2586 AZ Den Haag",
+   "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "Kaartenhuisje",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Pijnackerplein, Chamomile, farm 31, 2643 HX Rotterdam",
+   "phone": "06 28654956",
+   "checked_at": "2026-10-16T03:16:50Z"
+  },
+  {
+   "name": "Kantoorboekhandel Roda",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Piet Heinstraat 116, 2518 CM Den Haag",
+   "phone": "06 43975222",
+   "checked_at": "2026-10-16T03:18:05Z"
+  },
+  {
+   "name": "maarssen surveillance",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Europaplein, 3526DY Utrecht",
+   "checked_at": "2026-10-16T03:19:16Z"
+  },
+  {
+   "name": "MIST Cards - TCG Shop - Inkoop Verkoop en Traden",
+   "group": "in_store",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Nieuwe Emmasingel 98, 5611 AM Eindhoven",
+   "website": "https://mistcards.nl/",
+   "buylist_url": "https://mistcards.nl/pages/inkoop",
+   "credit_bonus": "Higher percentage as store credit",
+   "checked_at": "2026-10-16T03:20:11Z"
+  },
+  {
+   "name": "My Anime",
+   "group": "in_store",
+   "city": "Alkmaar",
+   "region": "Noord-Holland",
+   "address": "Europaboulevard 431, 1825 RN Alkmaar, Netherlands, Alkmaar, Noord-Holland, 1825 RN",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:42Z"
+  },
+  {
+   "name": "My Anime Alkmaar",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "431 Europaboulevard, Alkmaar, NH, 1825 RN, Netherlands",
+   "phone": "+31628916340",
+   "website": "https://www.instagram.com/myanime_alkmaar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:34Z"
+  },
+  {
+   "name": "NetherVaultTCG",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Blaak 40, 3011 TA Rotterdam",
+   "checked_at": "2026-10-16T03:16:11Z"
+  },
+  {
+   "name": "Pink Milk iWall",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Achter Clarenburg 10, 3511 CR Utrecht",
+   "phone": "06 19399297",
+   "checked_at": "2026-10-16T03:18:45Z"
+  },
+  {
+   "name": "pokeballstories",
+   "group": "in_store",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Opaalstraat, 6534 XP Nijmegen",
+   "checked_at": "2026-10-16T03:22:07Z"
+  },
+  {
+   "name": "pokemon kaarten",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Amstelveenseweg, 1021JS Amsterdam",
+   "checked_at": "2026-10-16T03:14:51Z"
+  },
+  {
+   "name": "pokemon kaarten bulk",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Amstelveld, 1017 JD Amsterdam",
+   "checked_at": "2026-10-16T03:14:53Z"
+  },
+  {
+   "name": "Pokemonveilen",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Winterstraat 17, 1109 BD Amsterdam",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Pokémon Card Collective",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Palmdwarsstraat, 1015 GL Amsterdam",
+   "checked_at": "2026-10-16T03:14:07Z"
+  },
+  {
+   "name": "Pokémon Kaarten Nieuwegein | Vending Machine Chinese Cards & Packs",
+   "group": "in_store",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Drenthehaven 22B, 3433 PB Nieuwegein",
+   "checked_at": "2026-10-16T03:18:45Z"
+  },
+  {
+   "name": "PokéVault",
+   "group": "in_store",
+   "city": "Oosterhout",
+   "region": "NB",
+   "address": "Lodewijk Napoleonlaan 101, 4904 LH Oosterhout",
+   "checked_at": "2026-10-16T03:18:51Z"
+  },
+  {
+   "name": "Postersquare Online Art Gallery van Muset",
+   "group": "in_store",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Sint Catharinastraat 45, 5611 JB Eindhoven",
+   "phone": "040 245 6529",
+   "checked_at": "2026-10-16T03:20:43Z"
+  },
+  {
+   "name": "Prentenkabinet",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Molenstraat 35, 2513 BJ Den Haag",
+   "phone": "070 345 0175",
+   "checked_at": "2026-10-16T03:18:08Z"
+  },
+  {
+   "name": "QuintonnnCards",
+   "group": "in_store",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Sustenpas 12, 5624 NB Eindhoven",
+   "phone": "06 21255199",
+   "checked_at": "2026-10-16T03:20:24Z"
+  },
+  {
+   "name": "Rafiullah Rahmani",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Hdsys, Guntersteinweg 377, Den Haag AF, 2531 Den Haag",
+   "phone": "076 416 9831",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "Rare Card Society",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Van Den Hoonaardstraat, 3037 TA Rotterdam",
+   "checked_at": "2026-10-16T03:16:11Z"
+  },
+  {
+   "name": "Rodakantoorboekhandel",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Weimarstraat 158, 2562 HD Den Haag",
+   "phone": "06 11921805",
+   "checked_at": "2026-10-16T03:18:05Z"
+  },
+  {
+   "name": "Souverniershop Waterfront",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Willemsplein 78, 3016 DR Rotterdam",
+   "phone": "06 48578834",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
+   "name": "Stanley & Livingstone Reisboekhandel",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Herengracht 60, 2511 EJ Den Haag",
+   "phone": "070 737 1126",
+   "checked_at": "2026-10-16T03:18:08Z"
+  },
+  {
+   "name": "Tabak shop the city - Tobacco shop - Cigars - Sigaretten - Pokemon kaarten - tcg",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Fluwelen Burgwal 61, 2511 CH Den Haag",
+   "checked_at": "2026-10-16T03:17:39Z"
+  },
+  {
+   "name": "Tanuki Collectables",
+   "group": "in_store",
+   "city": "Noordwijk",
+   "region": "ZH",
+   "address": "De Hooge Krocht 1, 2201 TR Noordwijk",
+   "checked_at": "2026-10-16T03:17:37Z"
+  },
+  {
+   "name": "TCG de Dukaat",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Pieter Calandlaan 812, 1060 TX Amsterdam",
+   "phone": "020 303 2865",
+   "checked_at": "2026-10-16T03:15:15Z"
+  },
+  {
+   "name": "The Cardboard Collector",
+   "group": "in_store",
+   "city": "Purmerend",
+   "region": "NH",
+   "address": "Peperstraat 28, 1441 BJ Purmerend",
+   "phone": "06 44127473",
+   "checked_at": "2026-10-16T03:14:02Z"
+  },
+  {
+   "name": "the collectables amsterdam",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Prinsengracht 827, 1017 KB Amsterdam",
+   "phone": "06 43973073",
+   "checked_at": "2026-10-16T03:14:42Z"
+  },
+  {
+   "name": "The Gamekeeper Amstelveen",
+   "group": "in_store",
+   "city": "Leidschendam",
+   "region": "Zuid-Holland",
+   "address": "Rozemarijn 7, 2262 AH Leidschendam, Netherlands, Leidschendam, Zuid-Holland, 2262 AH",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:44Z"
+  },
+  {
+   "name": "The Read Shop",
+   "group": "in_store",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Dierenselaan 248, 2573 LW Den Haag",
+   "phone": "070 204 0400",
+   "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "Unwritten Chronicles",
+   "group": "in_store",
+   "city": "Schiedam",
+   "region": "ZH",
+   "address": "Jan Steenstraat 5a, 3117 TB Schiedam",
+   "checked_at": "2026-10-16T03:16:50Z"
+  },
+  {
+   "name": "V.O.F. Collector's Dream",
+   "group": "in_store",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Perzikstraat 11, 6543 ZA Nijmegen",
+   "phone": "024 377 4939",
+   "checked_at": "2026-10-16T03:22:08Z"
+  },
+  {
+   "name": "VegasHERO Rotterdam",
+   "group": "in_store",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Van der Helmstraat 268, 3067 HL Rotterdam",
+   "phone": "06 58737732",
+   "checked_at": "2026-10-16T03:16:51Z"
+  },
+  {
+   "name": "Vivant Stomp",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Kanaalstraat 81, 3531 CB Utrecht",
+   "phone": "030 293 3455",
+   "checked_at": "2026-10-16T03:20:07Z"
+  },
+  {
+   "name": "ANWB shop Eindhoven Emmasingel",
+   "group": "not_buying_singles",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Emmasingel 10, 5611 AZ Eindhoven",
+   "phone": "088 269 3250",
+   "website": "https://www.anwb.nl/webwinkel/winkels/24/anwb-winkel-eindhoven",
+   "buylist_url": "https://www.anwb.nl/energie/voordelen-anwb-energie?icp=menu_flyout_energie-tegen-inkoopprijs-week-42-43",
+   "checked_at": "2026-10-16T03:20:50Z"
+  },
+  {
+   "name": "CD Teek",
+   "group": "not_buying_singles",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Kleine Berg 52, 5611 HJ Eindhoven",
+   "phone": "040 245 1337",
+   "website": "https://www.cdteek.nl/",
+   "buylist_url": "https://www.cdteek.nl/inkoop-en-verkoop",
+   "checked_at": "2026-10-16T03:20:21Z"
+  },
+  {
+   "name": "Concerto",
+   "group": "not_buying_singles",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Utrechtsestraat 54- 60, 1017 VP Amsterdam",
+   "phone": "020 261 2610",
+   "website": "https://concerto.nl/",
+   "buylist_url": "https://concerto.nl/inkoop/",
+   "credit_bonus": "Voucher option",
+   "checked_at": "2026-10-16T03:15:41Z"
+  },
+  {
+   "name": "De Haagse Kinderboekwinkel \"Alice in Wonderland\"",
+   "group": "not_buying_singles",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Piet Heinstraat 2, 2518 CH Den Haag",
+   "phone": "070 310 6992",
+   "website": "https://www.dehaagsekinderboekwinkel.nl/",
+   "buylist_url": "https://www.dehaagsekinderboekwinkel.nl/retailer/buylist",
+   "checked_at": "2026-10-16T03:18:11Z"
+  },
+  {
+   "name": "Game Over?",
+   "group": "not_buying_singles",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Hasselaerssteeg 12, 1012 MB Amsterdam",
+   "phone": "020 624 7841",
+   "website": "https://www.gameover.nl/",
+   "buylist_url": "https://www.gameover.nl/wat-kopen-we/",
+   "credit_bonus": "Higher credit than cash",
+   "checked_at": "2026-10-16T03:14:25Z"
+  },
+  {
+   "name": "GooHoo",
+   "group": "not_buying_singles",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Kerkenbos 1301, 6546 BG Nijmegen",
+   "phone": "024 800 0707",
+   "website": "https://www.goohoo.nl/",
+   "buylist_url": "https://www.goohoo.nl/inkoop/",
+   "checked_at": "2026-10-16T03:22:07Z"
+  },
+  {
+   "name": "Greetings from",
+   "group": "not_buying_singles",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 284, 3511 NW Utrecht",
+   "phone": "06 52394610",
+   "website": "https://megacarta.com/",
+   "checked_at": "2026-10-16T03:18:36Z"
+  },
+  {
+   "name": "Habbekrats",
+   "group": "not_buying_singles",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "In de Betouwstraat 17, 6511 GB Nijmegen",
+   "phone": "024 322 2710",
+   "website": "https://www.habbekratsnijmegen.nl/",
+   "buylist_url": "https://www.habbekratsnijmegen.nl/inkoop",
+   "checked_at": "2026-10-16T03:22:31Z"
+  },
+  {
+   "name": "IkWilTegoed B.V.",
+   "group": "not_buying_singles",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudenoord 285B, 3513 EP Utrecht",
+   "website": "https://ikwiltegoed.nl/",
+   "buylist_url": "https://ikwiltegoed.nl/retailer/buylist",
+   "checked_at": "2026-10-16T03:19:19Z"
+  },
+  {
+   "name": "Lusado",
+   "group": "not_buying_singles",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Van Rosenburgweg 304, 6537 TM Nijmegen",
+   "phone": "06 42916095",
+   "website": "https://www.lusado.nl/",
+   "checked_at": "2026-10-16T03:22:53Z"
+  },
+  {
+   "name": "MarioCube",
+   "group": "not_buying_singles",
+   "city": "Weesp",
+   "region": "NH",
+   "address": "Nijverheidslaan 6V, 1382 LH Weesp",
+   "phone": "020 368 0529",
+   "website": "https://www.mariocube.nl/",
+   "buylist_url": "https://www.mariocube.nl/inkoop1.php",
+   "checked_at": "2026-10-16T03:15:03Z"
+  },
+  {
+   "name": "MediaMarkt Tech Village Rotterdam",
+   "group": "not_buying_singles",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Binnenwegplein 50-52, 3012 KA Rotterdam",
+   "phone": "010 793 3100",
+   "website": "https://www.mediamarkt.nl/nl/store/mediamarkt-rotterdam-tech-village-852?utm_source=google%20places&utm_medium=seo-places%20link",
+   "checked_at": "2026-10-16T03:16:38Z"
+  },
+  {
+   "name": "Meesie",
+   "group": "not_buying_singles",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Lijnmarkt 42, 3511 KJ Utrecht",
+   "website": "https://www.meesie.nl/",
+   "checked_at": "2026-10-16T03:19:25Z"
+  },
+  {
+   "name": "Paagman",
+   "group": "not_buying_singles",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Lange Poten 13-15, 2511 CL Den Haag",
+   "phone": "088 338 3838",
+   "website": "https://www.paagman.nl/",
+   "buylist_url": "https://www.paagman.nl/info/inkoopvoorwaarden",
+   "checked_at": "2026-10-16T03:18:04Z"
+  },
+  {
+   "name": "Postzegel/munten handel Willem van der Bijl",
+   "group": "not_buying_singles",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zadelstraat 43, 3511 LS Utrecht",
+   "phone": "030 234 2040",
+   "website": "https://www.ontdek-utrecht.nl/locatie/postzegelhandel-w-van-der-bijl-1/",
+   "checked_at": "2026-10-16T03:18:40Z"
+  },
+  {
+   "name": "Sport and game",
+   "group": "not_buying_singles",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Ceintuurbaan 57HS, 1072 EV Amsterdam",
+   "phone": "020 662 2822",
+   "website": "https://sportenspel.nl/",
+   "buylist_url": "https://sportenspel.nl/catalogsearch/result/?404=1&q=retailer+buylist",
+   "checked_at": "2026-10-16T03:14:51Z"
+  },
+  {
+   "name": "the Museumwinkel.com",
+   "group": "not_buying_singles",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Van Welderenstraat 114, 6511 MT Nijmegen",
+   "phone": "024 360 0506",
+   "website": "https://www.demuseumwinkel.com/nl/",
+   "buylist_url": "https://www.demuseumwinkel.com/nl/info/inkoop/",
+   "checked_at": "2026-10-16T03:22:29Z"
+  },
+  {
+   "name": "Vinylarchief",
+   "group": "not_buying_singles",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Lange Hezelstraat 68-70, 6511 CL Nijmegen",
+   "phone": "024 322 5590",
+   "website": "https://www.vinylarchief.com/",
+   "checked_at": "2026-10-16T03:22:08Z"
+  },
+  {
+   "name": "'T Hartje",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Korreweg 38, 9715 AB Groningen",
+   "phone": "050 577 9365",
+   "website": "https://thartje.nl/",
+   "checked_at": "2026-10-16T03:21:48Z"
+  },
+  {
+   "name": "'t Japanse Winkeltje",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Nieuwezijds Voorburgwal 177, 1012 RK Amsterdam",
+   "phone": "020 627 9523",
+   "website": "https://www.japansewinkeltje-webshop.nl/",
+   "checked_at": "2026-10-16T03:15:33Z"
+  },
+  {
+   "name": "2HG.nl Pokémon en Game winkel Spijkenisse",
+   "group": "unknown",
+   "city": "Spijkenisse",
+   "region": "ZH",
+   "address": "Groenewoud 14, 3203 AM Spijkenisse",
+   "phone": "06 51064977",
+   "website": "https://2hg.nl/",
+   "checked_at": "2026-10-16T03:14:14Z"
+  },
+  {
+   "name": "4Alltickets",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Oostzeedijk 322, 3063 CC Rotterdam",
+   "phone": "010 280 7511",
+   "website": "https://www.4alltickets.nl/nl/",
+   "checked_at": "2026-10-16T03:17:11Z"
+  },
+  {
+   "name": "A Space Oddity",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Prinsengracht 204, 1016 HD Amsterdam",
+   "phone": "020 427 4036",
+   "website": "https://spaceoddity.nl/",
+   "checked_at": "2026-10-16T03:13:46Z"
+  },
+  {
+   "name": "AELIX Comics and Comics",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Chasséstraat 71, 2518 RW Den Haag",
+   "phone": "070 365 0738",
+   "website": "https://www.aelix.nl/",
+   "checked_at": "2026-10-16T03:18:02Z"
+  },
+  {
+   "name": "AJAX Fanshop",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Johan Cruijff Boulevard 1, 3, 1101 AX Amsterdam",
+   "phone": "088 183 1900",
+   "website": "https://www.ajax.nl/shop",
+   "checked_at": "2026-10-16T03:14:42Z"
+  },
+  {
+   "name": "All in Wonderland",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Bergselaan 295A, 297D, 3038 CG Rotterdam",
+   "phone": "010 466 7678",
+   "website": "https://www.allesinwonderland.nl/",
+   "checked_at": "2026-10-16T03:17:01Z"
+  },
+  {
+   "name": "All the Luck in the World",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Linnaeusstraat 20, 1092 CK Amsterdam",
+   "website": "https://www.alltheluckintheworld.nl/nl/",
+   "checked_at": "2026-10-16T03:14:31Z"
+  },
+  {
+   "name": "AllYourGames",
+   "group": "unknown",
+   "city": "Nuenen",
+   "region": "NB",
+   "address": "Collse Heide 26, 5674 VN Nuenen",
+   "phone": "040 218 0030",
+   "website": "https://www.allyourgames.nl/",
+   "checked_at": "2026-10-16T03:20:37Z"
+  },
+  {
+   "name": "Amsterdam Duck Store",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Oude Leliestraat 16, 1015 BJ Amsterdam",
+   "phone": "06 55396326",
+   "website": "https://amsterdamduckstore.com/%20%20%20%20%20https:/www.originalduckstore.com/",
+   "checked_at": "2026-10-16T03:14:49Z"
+  },
+  {
+   "name": "Amsterdam Toys",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Duivendrecht NL, Pieter Braaijweg 95, 1114 AJ Amsterdam",
+   "phone": "06 48439670",
+   "website": "https://amsterdam-toys.com/",
+   "checked_at": "2026-10-16T03:13:44Z"
+  },
+  {
+   "name": "AmsterdamCardShop",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Carolina MacGillavrylaan 200, 1098 XA Amsterdam",
+   "phone": "06 34145588",
+   "website": "https://www.ebay.com/usr/amsterdamcardshop",
+   "checked_at": "2026-10-16T03:14:38Z"
+  },
+  {
+   "name": "Ananda Spiritual Living Den Haag",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Noordeinde 64, 2514 GK Den Haag",
+   "phone": "070 785 8926",
+   "website": "https://ananda.nl/",
+   "checked_at": "2026-10-16T03:18:05Z"
+  },
+  {
+   "name": "Ancient-Cards",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Aldenhof 2160, 6537 BP Nijmegen",
+   "phone": "06 17262958",
+   "website": "https://www.ancient-cards.nl/",
+   "checked_at": "2026-10-16T03:21:58Z"
+  },
+  {
+   "name": "Andy's Card & Collectibles",
+   "group": "unknown",
+   "city": "Purmerend",
+   "region": "NH",
+   "address": "Kimonostraat 14, 1448 DS Purmerend",
+   "phone": "06 40747382",
+   "website": "https://www.andyscards.nl/",
+   "buylist_url": "https://www.andyscards.nl/",
+   "checked_at": "2026-10-16T03:14:44Z"
+  },
+  {
+   "name": "Animerch",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "FL",
+   "address": "Schoutstraat 110, Almere, Flevoland, 1315EZ, Netherlands",
+   "phone": "+31657910692",
+   "website": "https://animerch.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:17Z"
+  },
+  {
+   "name": "Antiquarian World on the Wall",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Staringstraat 5, 6511 PC Nijmegen",
+   "phone": "024 323 0238",
+   "website": "https://www.wereldaandewand.nl/",
+   "checked_at": "2026-10-16T03:22:59Z"
+  },
+  {
+   "name": "Arcane Forge",
+   "group": "unknown",
+   "address": "25-H Rijnstraat, Amsterdam, North Holland, 1078 PV, Netherlands",
+   "phone": "+310627222990",
+   "website": "https://arcaneforge.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Art Unlimited",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Keizersgracht 510, 1017 EJ Amsterdam",
+   "phone": "020 624 8419",
+   "website": "http://www.artnl.com/",
+   "checked_at": "2026-10-16T03:15:12Z"
+  },
+  {
+   "name": "ArtiCollect B.V.",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Kanaaldijk-Noord 111, 5642 JA Eindhoven",
+   "phone": "06 45302415",
+   "website": "https://www.articollect.nl/",
+   "checked_at": "2026-10-16T03:20:09Z"
+  },
+  {
+   "name": "Atomik",
+   "group": "unknown",
+   "address": "Stationsstraat 19+21, Sittard, LI, 6131AX, Netherlands",
+   "phone": "3146 451 5074",
+   "website": "https://www.atomik.nl/nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:32Z"
+  },
+  {
+   "name": "Aunt Hannie Movie and TV series museum shop",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Nieuwe Nonnendaalseweg 255, 6542 PH Nijmegen",
+   "phone": "06 33049119",
+   "website": "https://tantehannie.com/",
+   "checked_at": "2026-10-16T03:22:12Z"
+  },
+  {
+   "name": "Aviator Demo NL",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Drapeniersgaarde 101, 2542 VM Den Haag",
+   "phone": "06 51380979",
+   "website": "https://aviator-login.net/",
+   "checked_at": "2026-10-16T03:17:59Z"
+  },
+  {
+   "name": "BaxterBet",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Lingestraat 11B, 9725 GL Groningen",
+   "phone": "06 84762944",
+   "website": "https://baxterbet.org/",
+   "checked_at": "2026-10-16T03:21:32Z"
+  },
+  {
+   "name": "Beeldverhaal Amsterdam🦸",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Bilderdijkstraat 80, 1053 KW Amsterdam",
+   "phone": "020 685 5100",
+   "website": "https://beeldverhaalamsterdam.nl/",
+   "checked_at": "2026-10-16T03:15:09Z"
+  },
+  {
+   "name": "Bees&Birds",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Weidestraat 10, 1097 XJ Amsterdam",
+   "phone": "06 48640152",
+   "website": "https://bees-birds.nl/",
+   "checked_at": "2026-10-16T03:15:17Z"
+  },
+  {
+   "name": "Berlage Office & Gift",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Prinsestraat 1-3, 2513 CA Den Haag",
+   "phone": "070 363 9970",
+   "website": "https://berlagekvh.nl/",
+   "checked_at": "2026-10-16T03:18:02Z"
+  },
+  {
+   "name": "Bestseller Amsterdam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "De Clercqstraat 46, 1052 NH Amsterdam",
+   "phone": "020 737 3065",
+   "website": "https://bestselleramsterdam.nl/",
+   "checked_at": "2026-10-16T03:14:55Z"
+  },
+  {
+   "name": "Betador",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Hondiusstraat 17, 2562 LV Den Haag",
+   "phone": "06 87205233",
+   "website": "https://betador.net/",
+   "buylist_url": "https://betador.net/buylist",
+   "checked_at": "2026-10-16T03:17:54Z"
+  },
+  {
+   "name": "BetPrimeiro",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "R.A. Flintermanstraat 1, 2552 JJ Den Haag",
+   "phone": "06 82973101",
+   "website": "https://www.betprimeiro.com/de/",
+   "checked_at": "2026-10-16T03:18:02Z"
+  },
+  {
+   "name": "BLACKFISH",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Voorstraat 6, 3512 AM Utrecht",
+   "phone": "030 662 4395",
+   "website": "https://www.blackfish.nl/nl/",
+   "checked_at": "2026-10-16T03:20:05Z"
+  },
+  {
+   "name": "Bluebird Collections",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Papengas 7, 6511 WS Nijmegen",
+   "phone": "06 44949800",
+   "website": "https://bluebirdcollections.nl/",
+   "checked_at": "2026-10-16T03:22:07Z"
+  },
+  {
+   "name": "Boardgameshop.nl B.V.",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "FL",
+   "address": "Rentmeesterstraat 46, 1315 JS Almere",
+   "phone": "036 234 0997",
+   "website": "https://boardgameshop.nl/",
+   "checked_at": "2026-10-16T03:14:42Z"
+  },
+  {
+   "name": "BoekenVoordeel Rotterdam Hoogstraat",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hoogstraat 152, 3011 PV Rotterdam",
+   "phone": "085 273 9701",
+   "website": "https://www.boekenvoordeel.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp_locations&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:15Z"
+  },
+  {
+   "name": "Boekhandel Bijleveld",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Janskerkhof 7, 3512 GT Utrecht",
+   "phone": "030 231 0800",
+   "website": "https://www.boekhandelbijleveld.nl/",
+   "checked_at": "2026-10-16T03:19:48Z"
+  },
+  {
+   "name": "Boekhandel De Haagse Boekerij C.V.",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Frederikstraat 24, 2514 LK Den Haag",
+   "phone": "070 346 4800",
+   "website": "https://www.haagseboekerij.nl/",
+   "checked_at": "2026-10-16T03:18:15Z"
+  },
+  {
+   "name": "Boekhandel Reisboekwinkel Landschap",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "geen bezoek adres, Buyaard 11, 5641 LL Eindhoven",
+   "phone": "06 42428571",
+   "website": "https://www.landschapreisboekwinkel.nl/",
+   "checked_at": "2026-10-16T03:21:11Z"
+  },
+  {
+   "name": "Boekhandel vanGennep",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Oude Binnenweg 131B, 3012 JD Rotterdam",
+   "phone": "010 433 0592",
+   "website": "https://bojoboek.nl/winkels/vangennep/",
+   "checked_at": "2026-10-16T03:17:14Z"
+  },
+  {
+   "name": "Boekwinkel de Leesgift",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Troosterhof 25, 3571 NC Utrecht",
+   "phone": "030 271 4309",
+   "website": "https://www.leesgift.nl/",
+   "checked_at": "2026-10-16T03:20:07Z"
+  },
+  {
+   "name": "Bookstore Steven Sterk",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Servetstraat 3, 3512 JG Utrecht",
+   "phone": "030 234 0580",
+   "website": "https://boekhandelstevensterk.nl/",
+   "checked_at": "2026-10-16T03:19:59Z"
+  },
+  {
+   "name": "Bordspellenstore",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Verlengde Lodewijkstraat 96, 9723 AJ Groningen",
+   "phone": "06 38186785",
+   "website": "https://www.bordspellenstore.nl/",
+   "checked_at": "2026-10-16T03:21:29Z"
+  },
+  {
+   "name": "BoxAndCase.nl",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Jacob de Ranitzstraat 44, 6663 SC Nijmegen",
+   "website": "https://boxandcase.nl/",
+   "checked_at": "2026-10-16T03:22:59Z"
+  },
+  {
+   "name": "Brigida",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Jan van Scorelstraat 143, 3583 CN Utrecht",
+   "phone": "06 54600307",
+   "website": "https://www.brigida-utrecht.nl/",
+   "checked_at": "2026-10-16T03:20:05Z"
+  },
+  {
+   "name": "brocksvintagecards",
+   "group": "unknown",
+   "city": "Schiedam",
+   "region": "ZH",
+   "address": "Fjorddal 1, 3124 ND Schiedam",
+   "phone": "06 48579241",
+   "website": "https://brocksvintagecards.com/",
+   "checked_at": "2026-10-16T03:16:29Z"
+  },
+  {
+   "name": "BRO’s Brielle",
+   "group": "unknown",
+   "address": "Nobelstraat 40, Brielle, Zuid Holland, 3231BC, Netherlands",
+   "phone": "+5990031631046138",
+   "website": "https://brosbrielle.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:12Z"
+  },
+  {
+   "name": "Bruna Pijnacker Centrum",
+   "group": "unknown",
+   "city": "Pijnacker",
+   "region": "ZH",
+   "address": "Ackershof 30, 2641 DV Pijnacker",
+   "phone": "015 361 4202",
+   "website": "https://www.brunapijnacker.nl/",
+   "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "Bruna Van Woustraat",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Van Woustraat 90, 1073 LP Amsterdam",
+   "phone": "020 662 6331",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
+   "name": "Bruna Veldhoven",
+   "group": "unknown",
+   "city": "Veldhoven",
+   "region": "NB",
+   "address": "Pleintjes 80, 5501 EB Veldhoven",
+   "phone": "040 254 3079",
+   "website": "https://www.brunaveldhoven.nl/",
+   "checked_at": "2026-10-16T03:20:57Z"
+  },
+  {
+   "name": "Bumblebeez Spellenwinkel",
+   "group": "unknown",
+   "city": "Bergen op Zoom",
+   "region": "Noord-Brabant",
+   "address": "6 Kremerstraat, Bergen op Zoom, NB, 4611 TR, Netherlands",
+   "phone": "3116-465-5990",
+   "website": "https://bumblebeez.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:17Z"
+  },
+  {
+   "name": "By Popular Demand - Things You Want Giftshop",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Raadhuisstraat 2, 1012 TJ Amsterdam",
+   "phone": "020 624 5231",
+   "website": "https://www.bpd.nu/nl/",
+   "checked_at": "2026-10-16T03:15:15Z"
+  },
+  {
+   "name": "Cadeaus & Meer",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Amsterdamsestraatweg 275, 3551 CE Utrecht",
+   "phone": "030 633 2914",
+   "website": "https://www.cadeausenmeer.nl/",
+   "checked_at": "2026-10-16T03:19:48Z"
+  },
+  {
+   "name": "Capo-Spin Amsterdam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Herman Poortstraat 12, 1064 BR Amsterdam",
+   "phone": "06 17074972",
+   "website": "https://capo-spin.org/",
+   "checked_at": "2026-10-16T03:14:53Z"
+  },
+  {
+   "name": "Captain Hook Merchandise",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Unit C0505, Verdunplein 17, 5627 SZ Eindhoven",
+   "website": "https://www.captain-hook.nl/",
+   "checked_at": "2026-10-16T03:20:37Z"
+  },
+  {
+   "name": "Card Forge",
+   "group": "unknown",
+   "city": "Ede",
+   "region": "GE",
+   "address": "Faradaystraat 4, 6718 XT Ede",
+   "website": "https://cardforge.nl/",
+   "checked_at": "2026-10-16T03:20:24Z"
+  },
+  {
+   "name": "CardCon",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Jaarbeursboulevard, 3521 AL Utrecht",
+   "phone": "088 888 2677",
+   "website": "https://cardcon.eu/",
+   "checked_at": "2026-10-16T03:18:34Z"
+  },
+  {
+   "name": "Cardmasters Nederland",
+   "group": "unknown",
+   "city": "Leeuwarden",
+   "region": "FR",
+   "address": "Marsweg 26, 8938 AM Leeuwarden",
+   "phone": "06 83675193",
+   "website": "https://cardmasters.nl/",
+   "checked_at": "2026-10-16T03:21:30Z"
+  },
+  {
+   "name": "Cardmastershop",
+   "group": "unknown",
+   "city": "Vlaardingen",
+   "region": "ZH",
+   "address": "Adenauerlaan 53, 3137 JB Vlaardingen",
+   "phone": "06 42281302",
+   "website": "https://www.cardmastershop.nl/",
+   "checked_at": "2026-10-16T03:16:05Z"
+  },
+  {
+   "name": "CardsByBeard - Online Shop",
+   "group": "unknown",
+   "city": "Pijnacker",
+   "region": "ZH",
+   "address": "Leeuwenberg 24, 2641 MD Pijnacker",
+   "website": "https://cardsbybeard.eu/",
+   "checked_at": "2026-10-16T03:16:02Z"
+  },
+  {
+   "name": "CardshopRijnsburg",
+   "group": "unknown",
+   "city": "Katwijk aan Zee",
+   "region": "ZH",
+   "address": "Sandtlaan 36, 2223 GG Katwijk aan Zee",
+   "phone": "06 17303154",
+   "website": "https://cardshoprijnsburg.nl/",
+   "checked_at": "2026-10-16T03:16:18Z"
+  },
+  {
+   "name": "Carla's boekenwinkel",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "De Savornin Lohmanplein 22-B, 2566 AD Den Haag",
+   "phone": "070 323 6879",
+   "website": "https://www.carlasboekenwinkel.nl/",
+   "checked_at": "2026-10-16T03:18:14Z"
+  },
+  {
+   "name": "Cat'chy Store",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "2e Schansstraat 74b, 3025 XR Rotterdam",
+   "phone": "06 40561718",
+   "website": "https://catchystore.nl/",
+   "checked_at": "2026-10-16T03:16:57Z"
+  },
+  {
+   "name": "Catch Projecten",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Domstraat 5-19, 3512 JA Utrecht",
+   "phone": "030 231 1277",
+   "website": "https://www.catch-online.nl/",
+   "checked_at": "2026-10-16T03:19:08Z"
+  },
+  {
+   "name": "Catch Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudkerkhof 33, 3512 GJ Utrecht",
+   "phone": "030 721 0150",
+   "website": "https://www.catch-utrecht.nl/",
+   "checked_at": "2026-10-16T03:19:54Z"
+  },
+  {
+   "name": "Catchcel",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "De Gaarde 250, 2542 CP Den Haag",
+   "phone": "06 26314168",
+   "website": "https://catchcel.nl/",
+   "buylist_url": "https://catchcel.nl/buylist",
+   "checked_at": "2026-10-16T03:17:24Z"
+  },
+  {
+   "name": "CatchYourCards",
+   "group": "unknown",
+   "city": "Naaldwijk",
+   "region": "ZH",
+   "address": "Hovenierstraat 23, 2671 DB Naaldwijk",
+   "phone": "085 250 2151",
+   "website": "https://www.catchyourcards.nl/",
+   "checked_at": "2026-10-16T03:16:17Z"
+  },
+  {
+   "name": "CCGwinkel.nl",
+   "group": "unknown",
+   "city": "Veldhoven",
+   "region": "NB",
+   "address": "Regenboogven 41, 5508 RK Veldhoven",
+   "website": "https://ccgwinkel.nl/",
+   "checked_at": "2026-10-16T03:20:17Z"
+  },
+  {
+   "name": "Cees Cards",
+   "group": "unknown",
+   "city": "Zeist",
+   "region": "UT",
+   "address": "Roggeakker 31, 3705 AW Zeist",
+   "phone": "06 38186663",
+   "website": "https://ceescards.eu/",
+   "checked_at": "2026-10-16T03:18:33Z"
+  },
+  {
+   "name": "Centrum Strips🦸",
+   "group": "unknown",
+   "city": "Schiedam",
+   "region": "ZH",
+   "address": "Korte Singelstraat 20B, 3112 GB Schiedam",
+   "phone": "010 426 2584",
+   "website": "https://www.centrumstrips.nl/",
+   "checked_at": "2026-10-16T03:16:51Z"
+  },
+  {
+   "name": "ChocoSPIN Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hooghagen 13, 3078 BA Rotterdam",
+   "phone": "06 13916119",
+   "website": "http://choco-spin.nl/",
+   "checked_at": "2026-10-16T03:16:40Z"
+  },
+  {
+   "name": "CIGO Korlvinke, DHL - DPD - UPS - MONDIAL RELAY - POST NL - VINTED GO - Budbee",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Beeklaan 385A, 2562 AZ Den Haag",
+   "website": "http://www.korlvinke.nl/",
+   "checked_at": "2026-10-16T03:17:52Z"
+  },
+  {
+   "name": "Coffeeshop Kruidentuin",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Kannenmarkt 9, 6511 KC Nijmegen",
+   "website": "https://www.kruidentuin.com/",
+   "checked_at": "2026-10-16T03:23:05Z"
+  },
+  {
+   "name": "Collectableworld events",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam",
+   "phone": "06 10237222",
+   "website": "https://collectableworldevents.nl/",
+   "checked_at": "2026-10-16T03:14:21Z"
+  },
+  {
+   "name": "Collector Store",
+   "group": "unknown",
+   "city": "Breda",
+   "region": "Noord-Brabant",
+   "address": "15-A Tolbrugstraat, Breda, NB, 4811 WN, Netherlands",
+   "phone": "31763031402",
+   "website": "https://info@collectorstore.nl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:14Z"
+  },
+  {
+   "name": "collectura - P W Meinhardt",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Piet Heinstraat 113, 2518 CE Den Haag",
+   "website": "https://www.collectura.com/nl/",
+   "checked_at": "2026-10-16T03:17:18Z"
+  },
+  {
+   "name": "Comic book store Akim",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Ulgersmaweg 14, 9731 BS Groningen",
+   "phone": "050 549 9698",
+   "website": "https://www.akim.nl/",
+   "checked_at": "2026-10-16T03:21:22Z"
+  },
+  {
+   "name": "CopyStop Centrum",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Wijdesteeg 3B, 1012 RN Amsterdam",
+   "phone": "020 238 9485",
+   "website": "https://copystop.nl/",
+   "buylist_url": "https://copystop.nl/author/inkoopgrafixreclame-nl/",
+   "checked_at": "2026-10-16T03:15:42Z"
+  },
+  {
+   "name": "Crafts&Co",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Overschiestraat 63-5, 1062 XD Amsterdam",
+   "phone": "020 261 4883",
+   "website": "https://craftsandco.eu/",
+   "checked_at": "2026-10-16T03:15:29Z"
+  },
+  {
+   "name": "Creatorz Football B.V.",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Torenallee 101, 5617 BR Eindhoven",
+   "website": "https://creatorz.fans/",
+   "checked_at": "2026-10-16T03:20:15Z"
+  },
+  {
+   "name": "D6gaming",
+   "group": "unknown",
+   "address": "Schagchelstraat 6, Haarlem, Noord-holland, 2011HX, Netherlands",
+   "phone": "+310612392056",
+   "website": "https://www.d6gaming.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Daans Shop",
+   "group": "unknown",
+   "city": "Berkel en Rodenrijs",
+   "region": "ZH",
+   "address": "Kerkstraat 13, Berkel en Rodenrijs, ZH, 2651CD, Netherlands",
+   "phone": "316 40556553",
+   "website": "https://daansshop.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:50Z"
+  },
+  {
+   "name": "Dalnora",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Binnenhof 78, 3069 KV Rotterdam",
+   "phone": "088 126 1050",
+   "website": "https://dalnora.com/",
+   "checked_at": "2026-10-16T03:16:04Z"
+  },
+  {
+   "name": "Dam Square Souvenirs",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Dam 17, 1012 JS Amsterdam",
+   "phone": "020 620 3432",
+   "website": "https://www.damsquaresouvenirs.com/",
+   "checked_at": "2026-10-16T03:14:39Z"
+  },
+  {
+   "name": "Dave & Adam's Card World B.V.",
+   "group": "unknown",
+   "address": "22 Groeneweg, Roermond, LI, 6041 AX, Netherlands",
+   "phone": "31475206025",
+   "website": "https://cardculture.com/",
+   "buylist_url": "https://cardculture.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:15Z"
+  },
+  {
+   "name": "Dave & Adam's Europe",
+   "group": "unknown",
+   "city": "Roermond",
+   "region": "LI",
+   "address": "Groeneweg 22, 6041 AX Roermond",
+   "phone": "0475 206 025",
+   "website": "https://cardculture.com/",
+   "buylist_url": "https://cardculture.com/",
+   "checked_at": "2026-10-16T03:14:04Z"
+  },
+  {
+   "name": "De Boekenberg",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Kleine Berg 48, 5611 JV Eindhoven",
+   "phone": "040 245 6261",
+   "website": "https://www.boekenberg.nl/",
+   "checked_at": "2026-10-16T03:20:48Z"
+  },
+  {
+   "name": "De Dobbelsteen 's-Hertogenbosch",
+   "group": "unknown",
+   "city": "'s-Hertogenbosch",
+   "region": "Noord-Brabant",
+   "address": "Vughterstraat 56, Den Bosch, NB, 5211 GK, Netherlands",
+   "phone": "3173 614 5530",
+   "website": "https://dedobbelsteen.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:21Z"
+  },
+  {
+   "name": "De Egel",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Beijerlandselaan 180B, 3074 ES Rotterdam",
+   "phone": "010 419 5901",
+   "website": "https://de-egel.com/nl/home",
+   "checked_at": "2026-10-16T03:17:01Z"
+  },
+  {
+   "name": "De Fakkel Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Schootsestraat 134, 5616 RH Eindhoven",
+   "phone": "040 252 7813",
+   "website": "https://www.defakkeleindhoven.nl/",
+   "checked_at": "2026-10-16T03:20:44Z"
+  },
+  {
+   "name": "de Herkimer",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Vincent van Goghstraat 29, 5613 JJ Eindhoven",
+   "phone": "040 245 2099",
+   "website": "https://deherkimer.nl/",
+   "checked_at": "2026-10-16T03:21:09Z"
+  },
+  {
+   "name": "De Hobbytafel",
+   "group": "unknown",
+   "city": "Valkenswaard",
+   "region": "NB",
+   "address": "Leenderweg 117, 5555 CB Valkenswaard",
+   "phone": "040 202 6131",
+   "website": "https://www.dehobbytafel.nl/",
+   "checked_at": "2026-10-16T03:21:10Z"
+  },
+  {
+   "name": "De Jongens van Hemmes",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Steentilstraat 10, 9711 GM Groningen",
+   "phone": "050 589 1510",
+   "website": "https://www.dejongensvanhemmes.nl/",
+   "checked_at": "2026-10-16T03:21:45Z"
+  },
+  {
+   "name": "De Kleine Kapitein",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Botersloot 173, 3011 HE Rotterdam",
+   "phone": "010 412 4750",
+   "website": "https://www.de-kleine-kapitein.nl/",
+   "checked_at": "2026-10-16T03:16:08Z"
+  },
+  {
+   "name": "De Koperen Pion",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Appelstraat 206, 2564 EL Den Haag",
+   "phone": "070 887 7996",
+   "website": "https://dekoperenpion.nl/",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "De Kopijwinkel",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Lange Smeestraat 41-43, 3511 VM Utrecht",
+   "phone": "030 231 3700",
+   "website": "https://www.kopijwinkel.nl/",
+   "checked_at": "2026-10-16T03:20:07Z"
+  },
+  {
+   "name": "De Lange Tafel - Lifestyle",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Stikke Hezelstraat 48, 6511 JZ Nijmegen",
+   "phone": "06 34791457",
+   "website": "https://delangetafel.com/",
+   "checked_at": "2026-10-16T03:22:57Z"
+  },
+  {
+   "name": "de Posthumus Winkel",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Sint Luciënsteeg 25, 1012 PM Amsterdam",
+   "phone": "020 625 5812",
+   "website": "https://www.posthumuswinkel.nl/",
+   "checked_at": "2026-10-16T03:15:22Z"
+  },
+  {
+   "name": "De Schildknaap",
+   "group": "unknown",
+   "city": "Oss",
+   "region": "Noord-Brabant",
+   "address": "2 De Schakel, Oss, NB, 5341 CM, Netherlands",
+   "phone": "+31653979242",
+   "website": "https://deschildknaap.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:41Z"
+  },
+  {
+   "name": "De Spellenhoorn",
+   "group": "unknown",
+   "city": "Hoorn",
+   "region": "Noord-Holland",
+   "address": "Wisselstraat 4, Hoorn, NH, 1621 EZ, Netherlands",
+   "phone": "31229295565",
+   "website": "https://www.despellenhoorn.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:28Z"
+  },
+  {
+   "name": "de Spellentoren",
+   "group": "unknown",
+   "city": "Alkmaar",
+   "region": "Noord-Holland",
+   "address": "Schoutenstraat 28, Alkmaar, NH, 1811 HD, Netherlands",
+   "phone": "+3172 220 3100",
+   "website": "https://www.despellentoren.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:23Z"
+  },
+  {
+   "name": "De Stripspecialist Breda",
+   "group": "unknown",
+   "address": "Boschstraat 68, Breda, NB, 4811 GJ, Netherlands",
+   "phone": "316 528 4700",
+   "website": "https://www.destripspecialist.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:15Z"
+  },
+  {
+   "name": "De tafelridder",
+   "group": "unknown",
+   "city": "Leiden",
+   "region": "Zuid-Holland",
+   "address": "Oude Herengracht 11a, Leiden, ZH, 2312 LN, Netherlands",
+   "phone": "316 42328962",
+   "website": "https://www.tafelridder.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:37Z"
+  },
+  {
+   "name": "De Vliegershop",
+   "group": "unknown",
+   "address": "Haarlemmerstraat 192, Leiden, DR, 2312 GH, Netherlands",
+   "phone": "31715132783",
+   "website": "https://www.vliegershop.nl/nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:40Z"
+  },
+  {
+   "name": "De Werfeling",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Voetiusstraat 3, 3512 JL Utrecht",
+   "phone": "030 227 3360",
+   "website": "https://uniovision.nl/werfeling-home-2/",
+   "checked_at": "2026-10-16T03:19:50Z"
+  },
+  {
+   "name": "de winkel van nijntje",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Scheldestraat 61, 1078 GH Amsterdam",
+   "phone": "020 664 8054",
+   "website": "https://www.dewinkelvannijntje.nl/nl/",
+   "checked_at": "2026-10-16T03:15:26Z"
+  },
+  {
+   "name": "Deckkingdom",
+   "group": "unknown",
+   "city": "Breukelen",
+   "region": "UT",
+   "address": "Merwedeweg 5C2, 3621 LP Breukelen",
+   "phone": "06 23260973",
+   "website": "https://deckkingdom.nl/",
+   "checked_at": "2026-10-16T03:13:59Z"
+  },
+  {
+   "name": "DexLegendCards",
+   "group": "unknown",
+   "city": "Wijchen",
+   "region": "GE",
+   "address": "Kastelein 36, 6603 MD Wijchen",
+   "phone": "06 42516627",
+   "website": "http://dexlegendcards.nl/",
+   "checked_at": "2026-10-16T03:21:59Z"
+  },
+  {
+   "name": "Dichtelingen",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Schalkwijkstraat 6, 3512 KS Utrecht",
+   "phone": "06 55333511",
+   "website": "https://dichtelingen.nl/",
+   "checked_at": "2026-10-16T03:19:32Z"
+  },
+  {
+   "name": "Diecast Trading V.O.F.",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Europalaan 400, 3526 KS Utrecht",
+   "phone": "06 46428869",
+   "website": "https://www.diecasttrading.com/en/",
+   "checked_at": "2026-10-16T03:18:34Z"
+  },
+  {
+   "name": "Dille & Kamille - Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Hooghuisstraat 28, 5611 GT Eindhoven",
+   "phone": "040 303 3793",
+   "website": "https://www.dille-kamille.nl/winkels/eindhoven/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=eindhoven",
+   "checked_at": "2026-10-16T03:20:48Z"
+  },
+  {
+   "name": "Discostars Recordstore",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Haarlemmerdijk 86, 1013 JG Amsterdam",
+   "phone": "020 626 1777",
+   "website": "http://www.discostars-recordstore.nl/",
+   "checked_at": "2026-10-16T03:15:27Z"
+  },
+  {
+   "name": "Dobbel & Dwars",
+   "group": "unknown",
+   "address": "Smeepoortenbrink 3, Harderwijk, GE, 3841 EZ, Netherlands",
+   "phone": "31 6 45450558",
+   "website": "https://dobbelendwars.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:49Z"
+  },
+  {
+   "name": "Douze No12",
+   "group": "unknown",
+   "address": "12 Weverstraat, Oosterbeek, Gelderland, 6862 DP, Netherlands",
+   "phone": "+310263334107",
+   "website": "https://douze.nu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:49Z"
+  },
+  {
+   "name": "Dr & Dr Samosa",
+   "group": "unknown",
+   "address": "Grote Gracht 40, Maastricht, Limburg, 6211SX, Netherlands",
+   "phone": "+31627319421",
+   "website": "https://www.rollwithsamosa.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:41Z"
+  },
+  {
+   "name": "DreamLand Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Watermanweg 327, 3067 GA Rotterdam",
+   "phone": "010 303 2544",
+   "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
+   "checked_at": "2026-10-16T03:16:34Z"
+  },
+  {
+   "name": "Druk & Vorm",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Heyendaalseweg 241, 6525 SH Nijmegen",
+   "phone": "024 354 2144",
+   "website": "https://drukenvorm.nl/",
+   "checked_at": "2026-10-16T03:22:17Z"
+  },
+  {
+   "name": "Drukkerij Luxor",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Sint Annastraat 235 241, 6525 GP Nijmegen",
+   "phone": "024 355 6068",
+   "website": "https://www.drukkerijluxor.nl/",
+   "checked_at": "2026-10-16T03:22:48Z"
+  },
+  {
+   "name": "Drukkerij Nijmegen (Kwestievanlef Textiel Drukkerij)",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "In de Betouwstraat 40, 6511 GD Nijmegen",
+   "phone": "024 360 5753",
+   "website": "https://www.drukkerijnijmegen.com/nl",
+   "checked_at": "2026-10-16T03:22:52Z"
+  },
+  {
+   "name": "Dungeon Freak Minis",
+   "group": "unknown",
+   "address": "6 Bentheimerstraat, Coevorden, DR, 7741 JK, Netherlands",
+   "phone": "3131683178718",
+   "website": "https://www.dungeonfreakminis.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:12Z"
+  },
+  {
+   "name": "E.R.S. vof",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Strevelsweg 700, Unit 303 Box A0578, 3083 AS Rotterdam",
+   "phone": "0182 725 638",
+   "website": "https://erscollectibles.nl/",
+   "checked_at": "2026-10-16T03:16:11Z"
+  },
+  {
+   "name": "Eazy Store",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Rozengracht 14-HS, 1016 NB Amsterdam",
+   "phone": "020 624 8376",
+   "website": "http://www.eazystore.nl/",
+   "checked_at": "2026-10-16T03:15:30Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 9, 1012 NX Amsterdam",
+   "website": "https://elbenwald.nl/pages/stores/elbenwald-store-amsterdam",
+   "checked_at": "2026-10-16T03:15:10Z"
+  },
+  {
+   "name": "Enveenine Cards",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Brabantse Turfmarkt 84, 2611 CP Delft",
+   "phone": "06 37172287",
+   "website": "https://enveeninecards.nl/password",
+   "checked_at": "2026-10-16T03:17:39Z"
+  },
+  {
+   "name": "Epic Finds",
+   "group": "unknown",
+   "city": "Oosterwolde",
+   "region": "FR",
+   "address": "Hoge Haer 23, 8431 HK Oosterwolde",
+   "phone": "06 39477243",
+   "website": "https://www.epicfinds.nl/",
+   "checked_at": "2026-10-16T03:21:25Z"
+  },
+  {
+   "name": "Eppo Stripspeciaalzaak",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Kleine Berg 33, 5611 JS Eindhoven",
+   "phone": "040 244 1882",
+   "website": "http://www.eppo.nl/",
+   "checked_at": "2026-10-16T03:20:15Z"
+  },
+  {
+   "name": "Erix Collectables",
+   "group": "unknown",
+   "city": "Waalre",
+   "region": "NB",
+   "address": "Dorpsstraat 27, 5582 JW Waalre",
+   "phone": "06 48403417",
+   "website": "https://www.erixcollectables.nl/",
+   "checked_at": "2026-10-16T03:20:17Z"
+  },
+  {
+   "name": "Evolution TCG",
+   "group": "unknown",
+   "city": "Bussum",
+   "region": "NH",
+   "address": "Nassaustraat 7, Bussum, Noord-Holland, 1404CS, Netherlands",
+   "phone": "+310641221531",
+   "website": "https://evlutcg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:16Z"
+  },
+  {
+   "name": "Fabula Rosa",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Rozengracht 15D, 1016 LP Amsterdam",
+   "phone": "020 638 2505",
+   "website": "https://www.fabula-rosa.com/",
+   "checked_at": "2026-10-16T03:15:23Z"
+  },
+  {
+   "name": "Face to Face Games Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hoogstraat 20A, Rotterdam, South Holland, 3011PP, Netherlands",
+   "phone": "+59931634366706",
+   "website": "https://facetofacegames.nl/pages/store-info",
+   "buylist_url": "https://facetofacegames.nl/pages/buylist",
+   "credit_bonus": "25% store credit bonus on buylist orders",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:00Z"
+  },
+  {
+   "name": "FAIR & Vintage",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zadelstraat 27, 3511 LS Utrecht",
+   "phone": "06 82361234",
+   "website": "https://waarutrecht.nl",
+   "checked_at": "2026-10-16T03:19:31Z"
+  },
+  {
+   "name": "Fantasyshop Chimera",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Damstraat 7, 1012 JL Amsterdam",
+   "phone": "020 624 6199",
+   "website": "https://www.fantasyshopchimera.com/",
+   "checked_at": "2026-10-16T03:15:05Z"
+  },
+  {
+   "name": "FastTCG",
+   "group": "unknown",
+   "city": "Oss",
+   "region": "NB",
+   "address": "Palestrinastraat 13, 5344 AA Oss",
+   "phone": "06 10655123",
+   "website": "https://www.fasttcg.nl/",
+   "checked_at": "2026-10-16T03:22:03Z"
+  },
+  {
+   "name": "Find My Card",
+   "group": "unknown",
+   "city": "Zaandam",
+   "region": "NH",
+   "address": "D Doniastraat 59, 1501 TT Zaandam",
+   "phone": "06 85572274",
+   "website": "https://findmycard.nl/",
+   "checked_at": "2026-10-16T03:15:04Z"
+  },
+  {
+   "name": "Flightgift",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Concertgebouwplein 7, 1071 LL Amsterdam",
+   "website": "https://www.flightgift.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+   "checked_at": "2026-10-16T03:14:18Z"
+  },
+  {
+   "name": "Friedolien",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Van Hamelstraat 23B, 9714 HJ Groningen",
+   "website": "https://www.friedolien.nl/",
+   "checked_at": "2026-10-16T03:21:56Z"
+  },
+  {
+   "name": "Friends & Foes Amsterdam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "Noord-Holland",
+   "address": "Roelof Hartstraat 80, 1071 VM Amsterdam, Netherlands, Amsterdam, Noord-Holland, 1071 VM",
+   "phone": "+31629112371",
+   "website": "https://www.shopfriendsfoes.nl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:36Z"
+  },
+  {
+   "name": "Friends & Foes Amsterdam Spellenwinkel",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Roelof Hartstraat 80, 1071 VM Amsterdam",
+   "phone": "06 29112371",
+   "website": "https://www.shopfriendsfoes.nl/",
+   "checked_at": "2026-10-16T03:13:45Z"
+  },
+  {
+   "name": "FutureMax",
+   "group": "unknown",
+   "city": "Harmelen",
+   "region": "UT",
+   "address": "Leidsestraatweg 20, 3481 EX Harmelen",
+   "phone": "0348 445 526",
+   "website": "https://www.futuremax.eu/",
+   "checked_at": "2026-10-16T03:19:11Z"
+  },
+  {
+   "name": "GameForce",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "Noord-Brabant",
+   "address": "83 Geldropseweg, Eindhoven, NB, 5611 SE, Netherlands",
+   "phone": "+31402447030",
+   "website": "https://www.gameforce.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:05Z"
+  },
+  {
+   "name": "Gamekeeper",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Hartenstraat 14, Amsterdam, NH, 1016 CB, Netherlands",
+   "phone": "3120 638 1579",
+   "website": "https://gamekeeper.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Gameland-Groningen | Funko Pop, games, consoles & merchandise",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Steentilstraat 35, 9711 GK Groningen",
+   "phone": "06 18272537",
+   "website": "https://www.gameland-groningen.nl/nl/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb",
+   "buylist_url": "https://www.gameland-groningen.nl/nl/inkoop-games-tcg-pokemon/",
+   "checked_at": "2026-10-16T03:21:17Z"
+  },
+  {
+   "name": "GameResource",
+   "group": "unknown",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Archimedesbaan 12 -4, 3439 ME Nieuwegein",
+   "phone": "06 24387864",
+   "website": "https://www.gameresource.com/",
+   "checked_at": "2026-10-16T03:19:10Z"
+  },
+  {
+   "name": "GamerzParadize",
+   "group": "unknown",
+   "city": "Arnhem",
+   "region": "Gelderland",
+   "address": "Looierstraat 50, Arnhem, GE, 6811AZ, Netherlands",
+   "phone": "31264435753",
+   "website": "https://gamerzparadize.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:50Z"
+  },
+  {
+   "name": "Games-N-Stuff",
+   "group": "unknown",
+   "address": "George Stephensonstraat 18a, Zwolle, DR, 8013 NK, Netherlands",
+   "phone": "+31646189807",
+   "website": "https://gamesnstuff.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:25Z"
+  },
+  {
+   "name": "Gameshop",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Schoolstraat 31, 2511 AW Den Haag",
+   "phone": "070 365 6523",
+   "website": "https://www.gameshop.nl/",
+   "checked_at": "2026-10-16T03:17:23Z"
+  },
+  {
+   "name": "Gameshop Twente",
+   "group": "unknown",
+   "city": "Enschede",
+   "region": "Overijssel",
+   "address": "Van Loenshof 2, 7511 HG Enschede, Netherlands, Enschede, Overijssel, 7511 HG",
+   "phone": "+31 53 434 9237",
+   "website": "https://gameshop-twente.nl/",
+   "buylist_url": "https://gameshop-twente.nl/tradein",
+   "credit_bonus": "Webshop credit option",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:36Z"
+  },
+  {
+   "name": "Gator Film & Game Merchandise",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Lange Hezelstraat 67, 6511 CD Nijmegen",
+   "phone": "024 360 0510",
+   "website": "https://www.gator.nl/nl/",
+   "checked_at": "2026-10-16T03:21:58Z"
+  },
+  {
+   "name": "Gerstaecker Harolds",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hoogstraat 72, 3011 PT Rotterdam",
+   "phone": "010 412 0512",
+   "website": "https://www.gerstaecker.nl/rotterdam/",
+   "checked_at": "2026-10-16T03:16:19Z"
+  },
+  {
+   "name": "Gimmeitam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Van Wosutraat 242H, Amsterdam, North Holland, 1073NC, Netherlands",
+   "phone": "+41628243759",
+   "website": "https://gimmeitam.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Goat Enterprise  - Dutch Open Series",
+   "group": "unknown",
+   "address": "Waalstraat 9, Rhoon, Rhoon, 3161 XM, Netherlands",
+   "phone": "31652022634",
+   "website": "https://dutchopenseries.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:05Z"
+  },
+  {
+   "name": "Goat-Enterprise",
+   "group": "unknown",
+   "city": "Rhoon",
+   "region": "ZH",
+   "address": "Dorpsdijk 143, 3161 CA Rhoon",
+   "website": "https://www.goatenterprise.com/",
+   "checked_at": "2026-10-16T03:16:19Z"
+  },
+  {
+   "name": "Goblin",
+   "group": "unknown",
+   "address": "Sint Janstraat 25, Uden, NB, 5401 BA, Netherlands",
+   "phone": "31413 287811",
+   "website": "http://www.goblinspeelgoed.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:56Z"
+  },
+  {
+   "name": "Goblin - Top 1 Toys",
+   "group": "unknown",
+   "city": "Uden",
+   "region": "Noord-Brabant",
+   "address": "Sint Janstraat 25, 5401 BA Uden, Netherlands, Uden, Noord-Brabant, 5401 BA",
+   "phone": "+31 6 54277116",
+   "website": "https://www.oppergoblin.nl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:37Z"
+  },
+  {
+   "name": "Goedkopegeboortekaarten",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Vasteland 78, 3011 BN Rotterdam",
+   "phone": "010 213 1415",
+   "website": "https://goedkopegeboortekaarten.nl/",
+   "checked_at": "2026-10-16T03:17:13Z"
+  },
+  {
+   "name": "Gone with the wind",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Vijzelstraat 22 H, 1017 HK Amsterdam",
+   "phone": "020 423 0230",
+   "website": "https://www.gonewiththewind.nl/",
+   "checked_at": "2026-10-16T03:14:45Z"
+  },
+  {
+   "name": "Green Beast Valley",
+   "group": "unknown",
+   "city": "Hilvarenbeek",
+   "region": "NB",
+   "address": "Doelenstraat 2, 5089AD Hilvarenbeek",
+   "phone": "06 13961760",
+   "website": "https://greenbeastvalley.nl/",
+   "checked_at": "2026-10-16T03:18:45Z"
+  },
+  {
+   "name": "Groeten uit Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zadelstraat 28, 3511 LV Utrecht",
+   "phone": "06 18268922",
+   "website": "https://groetenuitutrecht.org/",
+   "checked_at": "2026-10-16T03:19:22Z"
+  },
+  {
+   "name": "Hadiethshop Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Vrijstraat 18, 5611 AV Eindhoven",
+   "website": "https://hadiethshop.nl/",
+   "checked_at": "2026-10-16T03:20:47Z"
+  },
+  {
+   "name": "Halte 13",
+   "group": "unknown",
+   "city": "Dordrecht",
+   "region": "Zuid-Holland",
+   "address": "16 Vriesestraat, Dordrecht, ZH, 3311 NR, Netherlands",
+   "phone": "31634555875",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:02Z"
+  },
+  {
+   "name": "Happy Copy",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Rijswijkseweg 310, 2516 ER Den Haag",
+   "phone": "070 445 0037",
+   "website": "https://happycopy.nl/",
+   "checked_at": "2026-10-16T03:18:11Z"
+  },
+  {
+   "name": "Happy TCG Shop",
+   "group": "unknown",
+   "city": "Leiden",
+   "region": "ZH",
+   "address": "Breestraat 137, 2311 CM Leiden",
+   "phone": "06 48264848",
+   "website": "https://happytcgshop.nl/",
+   "checked_at": "2026-10-16T03:17:23Z"
+  },
+  {
+   "name": "Henk Comics",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Zeedijk 101, 1012 AT Amsterdam",
+   "phone": "020 421 3688",
+   "website": "https://www.comics.nl/",
+   "checked_at": "2026-10-16T03:13:52Z"
+  },
+  {
+   "name": "Hero Zone",
+   "group": "unknown",
+   "city": "Oud-Beijerland",
+   "region": "ZH",
+   "address": "55 Oost-Voorstraat, Oud-Beijerland, ZH, 3262 JG, Netherlands",
+   "phone": "31613064358",
+   "website": "https://www.herozone.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:07Z"
+  },
+  {
+   "name": "Heroes Dutch Comic Con",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Jaarbeursplein 6, 3521 AL Utrecht",
+   "phone": "0162 408 996",
+   "website": "https://www.dutchcomiccon.com/",
+   "checked_at": "2026-10-16T03:18:51Z"
+  },
+  {
+   "name": "Het Antiquariaat",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Houtstraat 35, 6511 JK Nijmegen",
+   "phone": "024 322 3772",
+   "website": "https://hetantiquariaat.nl/",
+   "checked_at": "2026-10-16T03:22:39Z"
+  },
+  {
+   "name": "Het Beeldverhaal",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "Flevoland",
+   "address": "Schutterstraat 27, Almere, Netherlands, 1315 AV, Netherlands",
+   "phone": "+3136 540 2672",
+   "website": "https://hetbeeldverhaal.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:18Z"
+  },
+  {
+   "name": "Het Kadopaleis Beuningen",
+   "group": "unknown",
+   "city": "Beuningen",
+   "region": "GE",
+   "address": "Julianaplein 29, 6641 CS Beuningen",
+   "phone": "024 677 3066",
+   "website": "https://www.kadopaleis.nl/",
+   "checked_at": "2026-10-16T03:22:23Z"
+  },
+  {
+   "name": "Het Rotterdamse Warenhuis",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Frits Ruysstraat 46D, 48A, 3061 MG Rotterdam",
+   "phone": "010 302 1555",
+   "website": "https://hetrotterdamswarenhuis.nl/",
+   "checked_at": "2026-10-16T03:16:26Z"
+  },
+  {
+   "name": "Hobbywinkel Het Kralendorp",
+   "group": "unknown",
+   "city": "Zoetermeer",
+   "region": "ZH",
+   "address": "Quirinegang 47, 2719 CH Zoetermeer",
+   "phone": "06 18777268",
+   "website": "https://www.kralendorp.nl/",
+   "checked_at": "2026-10-16T03:18:15Z"
+  },
+  {
+   "name": "Hoogstins Bookstore",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kinkerstraat 117, 1053 DL Amsterdam",
+   "phone": "020 685 4600",
+   "website": "https://www.hoogstins.nl/",
+   "checked_at": "2026-10-16T03:15:40Z"
+  },
+  {
+   "name": "I am present",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Hessenberg 2, 6511 BT Nijmegen",
+   "phone": "024 206 2303",
+   "website": "https://ikbenaanwezig.nl/",
+   "checked_at": "2026-10-16T03:23:01Z"
+  },
+  {
+   "name": "IanTCG (iantcg.com)",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "Zuid-Holland",
+   "address": "Laan van Meerdervoort 96, 2517 AR Den Haag, Netherlands, Den Haag, Zuid-Holland, 2517 AR",
+   "website": "https://expireddomains.com/domain/iantcg.com?utm_source=redi",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:32Z"
+  },
+  {
+   "name": "Ieder z'n vak",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Lange Hezelstraat 72-76, 6511 CL Nijmegen",
+   "phone": "024 737 0186",
+   "website": "https://www.iederznvak.nl/",
+   "checked_at": "2026-10-16T03:22:21Z"
+  },
+  {
+   "name": "Il Regalo di Raika",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Binnenhof 78A, 3069 KW Rotterdam",
+   "phone": "088 126 1050",
+   "website": "https://www.ilregalo.nl/",
+   "checked_at": "2026-10-16T03:17:05Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 230, 1012 XJ Amsterdam",
+   "phone": "088 334 3531",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "It's A Present!",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Haarlemmerstraat 25, 1013 EJ Amsterdam",
+   "phone": "020 422 1795",
+   "website": "https://itsapresent.nl/",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "It's all Fun and Games",
+   "group": "unknown",
+   "address": "104 Hoofdstraat, Hoogeveen, DR, 7901 JT, Netherlands",
+   "phone": "+31528314098",
+   "website": "https://itsallfunandgames.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:07Z"
+  },
+  {
+   "name": "Jaarbeurs",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Jaarbeursplein 6, 3521 AL Utrecht",
+   "phone": "030 295 5911",
+   "website": "https://www.jaarbeurs.nl/",
+   "checked_at": "2026-10-16T03:18:56Z"
+  },
+  {
+   "name": "Jack of Dice",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Staalweg 1, Kamer 207, 2612 KK Delft",
+   "phone": "06 21666120",
+   "website": "https://jackofdice.nl/",
+   "checked_at": "2026-10-16T03:17:32Z"
+  },
+  {
+   "name": "Kai of Cards",
+   "group": "unknown",
+   "city": "Ederveen",
+   "region": "GE",
+   "address": "Seringstraat 23, 6744 WZ Ederveen",
+   "phone": "06 12147379",
+   "website": "https://kaiofcards.com/",
+   "checked_at": "2026-10-16T03:20:19Z"
+  },
+  {
+   "name": "Kantoorboekhandel Jacobs",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Groenestraat 169, 6531 HE Nijmegen",
+   "phone": "024 355 7638",
+   "website": "https://kantoorboekhandeljacobs.nl/",
+   "checked_at": "2026-10-16T03:22:45Z"
+  },
+  {
+   "name": "Kat & bakkie",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Twijnstraat 54, 3511 ZM Utrecht",
+   "phone": "06 30898059",
+   "website": "https://katenbakkie.nl/",
+   "checked_at": "2026-10-16T03:19:40Z"
+  },
+  {
+   "name": "Keet Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Dr. Molewaterplein 40, 3015 GD Rotterdam",
+   "website": "https://www.keetrotterdam.nl/",
+   "checked_at": "2026-10-16T03:16:59Z"
+  },
+  {
+   "name": "Kinderboekwinkel Nijmegen 📚",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Kannenmarkt 27, 6511 KC Nijmegen",
+   "phone": "024 324 0096",
+   "website": "https://kinderboekwinkelnijmegen.nl/",
+   "checked_at": "2026-10-16T03:22:49Z"
+  },
+  {
+   "name": "Kissgeboortekaartjes",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Hurksestraat 19, 5652 AH Eindhoven",
+   "phone": "040 286 8310",
+   "website": "https://www.kissgeboortekaartjes.nl/",
+   "checked_at": "2026-10-16T03:21:02Z"
+  },
+  {
+   "name": "KKEC kunst, kaarten en cadeaus",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Beurstraverse 186, 3012 AT Rotterdam",
+   "phone": "010 213 1792",
+   "website": "https://www.kkec.nl/",
+   "checked_at": "2026-10-16T03:16:51Z"
+  },
+  {
+   "name": "Komett Studios",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Zwaanshals 307A, 3035 KJ Rotterdam",
+   "website": "https://www.komettstudios.com/",
+   "checked_at": "2026-10-16T03:17:07Z"
+  },
+  {
+   "name": "Koning Bordspel BV",
+   "group": "unknown",
+   "address": "122-126 Emiclaerhof, Amersfoort, UT, 3823ER, Netherlands",
+   "phone": "31648526046",
+   "website": "https://www.koningbordspel.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:41Z"
+  },
+  {
+   "name": "Kringloop De Arm Hoograven",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Verlengde Hoogravenseweg 63, 3525 BB Utrecht",
+   "phone": "030 280 1091",
+   "website": "https://kringloopcentrumutrecht.nl/",
+   "checked_at": "2026-10-16T03:18:53Z"
+  },
+  {
+   "name": "Kroese Nijmegen",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Molenstraat 126, 6511 HL Nijmegen",
+   "phone": "024 322 1346",
+   "website": "https://www.kroese-online.nl/",
+   "checked_at": "2026-10-16T03:22:05Z"
+  },
+  {
+   "name": "Krossproducts / Presenteum",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Houtstraat 44, 6511 JP Nijmegen",
+   "website": "https://presenteum.com/",
+   "checked_at": "2026-10-16T03:22:17Z"
+  },
+  {
+   "name": "Kunst in Kaart",
+   "group": "unknown",
+   "city": "Zeist",
+   "region": "UT",
+   "address": "Schaperlaan 20, 3705 KH Zeist",
+   "phone": "030 207 2722",
+   "website": "https://www.kunstinkaart.nl/",
+   "checked_at": "2026-10-16T03:19:27Z"
+  },
+  {
+   "name": "Kvdpcards",
+   "group": "unknown",
+   "city": "Nieuwediep",
+   "region": "DR",
+   "address": "Nieuwediep 11, 9512 SC Nieuwediep",
+   "phone": "06 19921692",
+   "website": "https://kvdpcards.nl",
+   "buylist_url": "https://kvdpcards.nl/retailer/buylist",
+   "checked_at": "2026-10-16T03:21:21Z"
+  },
+  {
+   "name": "Labyrinth",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "Utrecht",
+   "address": "Oude gracht 207, Utrecht, NH, 3511NR, Netherlands",
+   "phone": "31 (0) 302817157",
+   "website": "https://www.lab-monkey.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:34Z"
+  },
+  {
+   "name": "Labyrinth Den Bosch",
+   "group": "unknown",
+   "address": "Orthen 16, 's-Hertogenbosch, Noord-Brabant, 5231XS, Netherlands",
+   "phone": "+31736893368",
+   "website": "https://labyrinth.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:20Z"
+  },
+  {
+   "name": "Labyrinth Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Lardinoisstraat 18-20, Eindhoven, Noord Brabant, 5611ZZ, Netherlands",
+   "phone": "+310402461379",
+   "website": "https://labyrinth040.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:07Z"
+  },
+  {
+   "name": "Labyrinth Tilburg",
+   "group": "unknown",
+   "city": "Tilburg",
+   "region": "Noord-Brabant",
+   "address": "Schouwburgring 141, Tilburg, North Brabant, 5038 TW, Netherlands",
+   "phone": "+31 0135443700",
+   "website": "https://www.labyrinth013.nl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:19Z"
+  },
+  {
+   "name": "Lambiek",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Koningsstraat 27A, 1011 ET Amsterdam",
+   "phone": "020 626 7543",
+   "website": "https://www.lambiek.net/",
+   "checked_at": "2026-10-16T03:15:04Z"
+  },
+  {
+   "name": "Le Petit Nerdshop",
+   "group": "unknown",
+   "city": "Amersfoort",
+   "region": "UT",
+   "address": "Wildemanskruid 86, 3824 NA Amersfoort",
+   "phone": "06 17120301",
+   "website": "https://www.lepetitnerdshop.nl/",
+   "checked_at": "2026-10-16T03:18:45Z"
+  },
+  {
+   "name": "LevelUp Cards",
+   "group": "unknown",
+   "city": "Asten",
+   "region": "NB",
+   "address": "Burgemeester Wijnenstraat 27, 5721 AG Asten",
+   "phone": "06 12131465",
+   "website": "https://levelupcards.nl/",
+   "checked_at": "2026-10-16T03:20:18Z"
+  },
+  {
+   "name": "LS-tradingcardgames",
+   "group": "unknown",
+   "city": "Haaksbergen",
+   "region": "OV",
+   "address": "Enschedesestraat 223, 7481 CP Haaksbergen",
+   "phone": "06 83200389",
+   "website": "https://www.ls-tradingcardgames.nl/",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "L’art Pour Vous",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Haarlemmerdijk 56, 1013 JE Amsterdam",
+   "phone": "020 786 4699",
+   "website": "https://www.lartenkunst.nl/",
+   "checked_at": "2026-10-16T03:14:07Z"
+  },
+  {
+   "name": "Made-up Rules",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "Utrecht",
+   "address": "Vliegend Hertlaan 4, 3526 KT Utrecht, Netherlands, Utrecht, Utrecht, 3526 KT",
+   "phone": "+31 6 345 34 170",
+   "website": "https://madeuprul.es/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:42Z"
+  },
+  {
+   "name": "Magic Groningen",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Nieuwe Ebbingestraat 86a, 9712 NP Groningen",
+   "phone": "050 230 0959",
+   "website": "https://www.purperendraak.nl/",
+   "checked_at": "2026-10-16T03:21:23Z"
+  },
+  {
+   "name": "Magic United",
+   "group": "unknown",
+   "city": "Zwartewaal",
+   "region": "ZH",
+   "address": "Ossewei 95, 3238 XM Zwartewaal",
+   "phone": "06 55858230",
+   "website": "https://www.magicunited.nl/nl/home.aspx",
+   "buylist_url": "https://www.magicunited.nl/nl/inkooplijst.aspx",
+   "checked_at": "2026-10-16T03:16:16Z"
+  },
+  {
+   "name": "Magus Games",
+   "group": "unknown",
+   "address": "Grotestraat 57, Elsloo, LI, 6181NT, Netherlands",
+   "phone": "+31(0) 611404600",
+   "website": "https://www.magusgames.nl/winkel/nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:34Z"
+  },
+  {
+   "name": "Make My Day Women",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Stikke Hezelstraat 65, 6511 JV Nijmegen",
+   "phone": "024 323 4000",
+   "website": "https://makemydaynijmegen.nl/",
+   "checked_at": "2026-10-16T03:23:02Z"
+  },
+  {
+   "name": "Makers & Merken",
+   "group": "unknown",
+   "city": "Bemmel",
+   "region": "GE",
+   "address": "Markt 49, 6681 AG Bemmel",
+   "phone": "0481 450 745",
+   "website": "https://makersenmerken.nl/",
+   "checked_at": "2026-10-16T03:22:53Z"
+  },
+  {
+   "name": "Manatap",
+   "group": "unknown",
+   "address": "342 Kennemerstraatweg, Heiloo, NH, 1851 BJ, Netherlands",
+   "phone": "31(0) 357111366",
+   "website": "https://manatap.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:22Z"
+  },
+  {
+   "name": "Mechanisch Speelgoed",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Westerstraat 67HS, 1015 LW Amsterdam",
+   "phone": "020 638 1680",
+   "website": "http://mechanisch-speelgoed.nl/",
+   "checked_at": "2026-10-16T03:15:24Z"
+  },
+  {
+   "name": "Megastores",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Van der Kunstraat 123, 2521 CD Den Haag",
+   "website": "https://www.megastoresdenhaag.nl/",
+   "checked_at": "2026-10-16T03:17:30Z"
+  },
+  {
+   "name": "Memento Kaarten",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Euclideslaan 265, 3584 BV Utrecht",
+   "phone": "030 200 5100",
+   "website": "https://www.mementokaarten.nl/",
+   "checked_at": "2026-10-16T03:20:00Z"
+  },
+  {
+   "name": "Meow & Muse",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Nieuwstraat 120, 2511 AV Den Haag",
+   "phone": "070 891 0885",
+   "website": "https://meowandmuse.com/",
+   "checked_at": "2026-10-16T03:18:03Z"
+  },
+  {
+   "name": "Merch & More",
+   "group": "unknown",
+   "address": "28 Noorderstraat, Emmen, DR, 7811 AL, Netherlands",
+   "phone": "+31591527552",
+   "website": "https://www.merchmore.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:07Z"
+  },
+  {
+   "name": "Michi Play",
+   "group": "unknown",
+   "city": "Bussum",
+   "region": "NH",
+   "address": "Torenlaan 5A, 1402 AT Bussum",
+   "phone": "06 23134955",
+   "website": "https://www.michiplay.nl/",
+   "checked_at": "2026-10-16T03:14:58Z"
+  },
+  {
+   "name": "MiniHobby",
+   "group": "unknown",
+   "address": "10c Radarstraat, Capelle aan den IJssel, ZH, 2901 AV, Netherlands",
+   "phone": "+31 010- 2545648",
+   "website": "https://minihobby.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:57Z"
+  },
+  {
+   "name": "Miniso",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Beurstraverse 170, 3012 AT Rotterdam",
+   "phone": "010 310 5176",
+   "website": "https://miniso.nl/",
+   "checked_at": "2026-10-16T03:16:35Z"
+  },
+  {
+   "name": "Mirai Cards",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Rijn 12, 2491 BG Den Haag",
+   "phone": "085 064 6056",
+   "website": "https://www.miraicards.com/",
+   "checked_at": "2026-10-16T03:17:41Z"
+  },
+  {
+   "name": "Misc store",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Elandsgracht 59, 1016 TN Amsterdam",
+   "phone": "020 700 9855",
+   "website": "https://misc-store.com/",
+   "checked_at": "2026-10-16T03:14:02Z"
+  },
+  {
+   "name": "Moenen en Mariken",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Van Welderenstraat 27, Nijmegen, GE, 6511 MP, Netherlands",
+   "phone": "3124 323 6119",
+   "website": "http://www.moenen-en-mariken.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:51Z"
+  },
+  {
+   "name": "Mollys Arena",
+   "group": "unknown",
+   "address": "771 Osdorpplein, Amsterdam, NH, 1068 TC, Netherlands",
+   "phone": "+31613582043",
+   "website": "https://www.mollys-arena.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Monsterkorting.nl",
+   "group": "unknown",
+   "city": "Spijkenisse",
+   "region": "ZH",
+   "address": "Nieuwstraat 147, 3201 EE Spijkenisse",
+   "phone": "06 13093995",
+   "website": "https://www.monsterkorting.nl/",
+   "checked_at": "2026-10-16T03:16:00Z"
+  },
+  {
+   "name": "Moon Collectibles",
+   "group": "unknown",
+   "city": "Monster",
+   "region": "ZH",
+   "address": "Zeestraat 15, 2681 CK Monster",
+   "phone": "06 20316277",
+   "website": "https://www.moon-collectibles.com/",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "Motta art books",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Grote Berg 70, 5611 KL Eindhoven",
+   "phone": "040 246 5087",
+   "website": "https://mottakunstboeken.nl/",
+   "checked_at": "2026-10-16T03:21:02Z"
+  },
+  {
+   "name": "Mox spellen",
+   "group": "unknown",
+   "address": "24 Middenwaard, Heerhugowaard, NH, 1703 SE, Netherlands",
+   "phone": "31723034145",
+   "website": "https://www.moxspellen.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:33Z"
+  },
+  {
+   "name": "MReal FUT Card",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Kerkenbos 1075H, 6546 BB Nijmegen",
+   "phone": "024 373 0933",
+   "website": "https://realfutcard.com/nl/",
+   "checked_at": "2026-10-16T03:23:05Z"
+  },
+  {
+   "name": "Museum Webshop",
+   "group": "unknown",
+   "city": "Nootdorp",
+   "region": "ZH",
+   "address": "Spiegelstraat 10, 2631 RS Nootdorp",
+   "phone": "088 336 6990",
+   "website": "https://www.museum-webshop.com/nl/",
+   "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "My Dear Beer",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Tarweweg 1n, 6534 AM Nijmegen",
+   "phone": "06 18537582",
+   "website": "https://mydearbeer.com/",
+   "checked_at": "2026-10-16T03:22:47Z"
+  },
+  {
+   "name": "MYRTE",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Klokgebouw 255, 5617 AC Eindhoven",
+   "phone": "06 41276557",
+   "website": "https://lovemyrte.com/",
+   "checked_at": "2026-10-16T03:21:02Z"
+  },
+  {
+   "name": "Mystiek",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Schiedamse Vest 79, 3012 BK Rotterdam",
+   "phone": "010 411 3160",
+   "website": "https://mystiek.nl/",
+   "checked_at": "2026-10-16T03:16:59Z"
+  },
+  {
+   "name": "Nerds Like Us!",
+   "group": "unknown",
+   "city": "Zoetermeer",
+   "region": "ZH",
+   "address": "Het Rond 75, 2711 BX Zoetermeer",
+   "phone": "079 205 5065",
+   "website": "https://nerdslikeus.nl/",
+   "checked_at": "2026-10-16T03:17:41Z"
+  },
+  {
+   "name": "NewAgeWinkel.nl",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Frits Ruysstraat 32 A, 3061 MG Rotterdam",
+   "phone": "010 452 0853",
+   "website": "https://newagewinkel.nl/nl/",
+   "checked_at": "2026-10-16T03:17:12Z"
+  },
+  {
+   "name": "NewsConnection Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "De Klerkstraat 173, 3067 BN Rotterdam",
+   "phone": "06 13878167",
+   "website": "https://newsconnection.nl/",
+   "checked_at": "2026-10-16T03:16:40Z"
+  },
+  {
+   "name": "Nijntje Museum",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Agnietenstraat 2, 3512 XB Utrecht",
+   "phone": "030 236 2310",
+   "website": "https://nijntjemuseum.nl/en/",
+   "checked_at": "2026-10-16T03:19:13Z"
+  },
+  {
+   "name": "NOT JUST A GIFT",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Czaar Peterstraat 94, 1018 PS Amsterdam",
+   "phone": "06 46073749",
+   "website": "https://notjustagift.nl/",
+   "checked_at": "2026-10-16T03:15:45Z"
+  },
+  {
+   "name": "One More Chapter",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Zwanestraat 5, 9712 CH Groningen",
+   "website": "https://onemorechapter.nl/",
+   "checked_at": "2026-10-16T03:21:34Z"
+  },
+  {
+   "name": "Orks & Dorks",
+   "group": "unknown",
+   "city": "Middelburg",
+   "region": "Zeeland",
+   "address": "Lange Noordstraat 16, Middelburg, Zeeland, 4331CD, Netherlands",
+   "phone": "+310624543260",
+   "website": "https://orksendorks.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:45Z"
+  },
+  {
+   "name": "OUTPOET",
+   "group": "unknown",
+   "city": "Heerlen",
+   "region": "Limburg",
+   "address": "2 Oude Veemarktstraat, Heerlen, LI, 6411 JW, Netherlands",
+   "phone": "31615553039",
+   "website": "https://www.outpoet.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:45Z"
+  },
+  {
+   "name": "Paaprika",
+   "group": "unknown",
+   "address": "Beukerstraat 66, Zutphen, GE, 7201LG, Netherlands",
+   "phone": "(+31)618115443",
+   "website": "https://www.paaprika.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:15Z"
+  },
+  {
+   "name": "PackEmAll",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Nieuwe Ebbingestraat 39, 9712 NE Groningen",
+   "phone": "06 43549303",
+   "website": "https://packemall.nl/",
+   "checked_at": "2026-10-16T03:21:18Z"
+  },
+  {
+   "name": "PakPunt",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Tripstraat 325, 2571 DK Den Haag",
+   "phone": "070 219 7250",
+   "website": "https://www.pakpunt.nl/",
+   "checked_at": "2026-10-16T03:18:08Z"
+  },
+  {
+   "name": "Peet Plaat Speelgoed- en avondwinkel De Lier",
+   "group": "unknown",
+   "city": "De Lier",
+   "region": "ZH",
+   "address": "Kijckerweg 22, 2678 AD De Lier",
+   "phone": "0174 510 935",
+   "website": "https://peetplaat.nl/",
+   "checked_at": "2026-10-16T03:17:58Z"
+  },
+  {
+   "name": "PictureMomentZ",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Zuidplein Hoog 570, 3083 BM Rotterdam",
+   "phone": "010 410 3755",
+   "website": "https://www.picturemomentz.nl/",
+   "checked_at": "2026-10-16T03:17:04Z"
+  },
+  {
+   "name": "Piet Hein Eek",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Halvemaanstraat 30, 5651 BP Eindhoven",
+   "phone": "040 285 6610",
+   "website": "https://pietheineek.nl/",
+   "checked_at": "2026-10-16T03:21:13Z"
+  },
+  {
+   "name": "pipoos",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Ceintuurbaan 334, 1072 GN Amsterdam",
+   "phone": "020 637 4015",
+   "website": "https://www.pipoos.com/pages/winkels/pipoos-amsterdam-zuid",
+   "checked_at": "2026-10-16T03:15:41Z"
+  },
+  {
+   "name": "Pit Conceptstore",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Amsterdamsestraatweg 271, 3551 CE Utrecht",
+   "website": "https://www.pitconceptstore.com/",
+   "checked_at": "2026-10-16T03:19:25Z"
+  },
+  {
+   "name": "Poke-Maat",
+   "group": "unknown",
+   "address": "33 Hoofdstraat Oost, Wolvega, FR, 8471 JH, Netherlands",
+   "phone": "+31610338532",
+   "website": "https://poke-maat.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:07Z"
+  },
+  {
+   "name": "Pokeca",
+   "group": "unknown",
+   "city": "Coevorden",
+   "region": "Drenthe",
+   "address": "Friesestraat 3, Coevorden, Drenthe, 7741GR, Netherlands",
+   "phone": "+31683973596",
+   "website": "https://pokeca.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:12Z"
+  },
+  {
+   "name": "Pokemagic",
+   "group": "unknown",
+   "city": "Oldenzaal",
+   "region": "OV",
+   "address": "Aidalaan, 7577 JB Oldenzaal",
+   "phone": "06 40935465",
+   "website": "http://www.pokemagic.nl/",
+   "checked_at": "2026-10-16T03:22:11Z"
+  },
+  {
+   "name": "Pokemon game cards",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Prins Hendrikkade 33-A, 1012 TM Amsterdam",
+   "website": "https://pokehom0gamecards.com/",
+   "checked_at": "2026-10-16T03:13:52Z"
+  },
+  {
+   "name": "PokéFamily",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Roelantdreef 262, 3562 KK Utrecht",
+   "website": "https://pokefamily.nl/",
+   "checked_at": "2026-10-16T03:18:28Z"
+  },
+  {
+   "name": "Pop Culture Arcade",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Van Welderenstraat 80, 6511 MR Nijmegen",
+   "phone": "024 663 5925",
+   "website": "https://popculturearcade.nl/",
+   "checked_at": "2026-10-16T03:22:03Z"
+  },
+  {
+   "name": "Primera De Driehoek",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Driebergenstraat 321, 2546 BJ Den Haag",
+   "phone": "070 329 4741",
+   "website": "https://primeradedriehoek.nl/",
+   "checked_at": "2026-10-16T03:17:54Z"
+  },
+  {
+   "name": "Primera Oude Binnenweg",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Oude Binnenweg 40, 3012 JE Rotterdam",
+   "phone": "010 303 1364",
+   "website": "https://www.primera.nl/primera-oude-binnenweg?utm_source=google-places&utm_medium=organic&utm_campaign=google-places-30122",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
+   "name": "Printed.nl",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Herengracht 10, 2511 EH Den Haag",
+   "phone": "070 385 4108",
+   "website": "https://printed.nl/",
+   "checked_at": "2026-10-16T03:18:15Z"
+  },
+  {
+   "name": "PSV FANstore",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Stadionplein 4, 5616 RX Eindhoven",
+   "phone": "040 250 5505",
+   "website": "https://www.psvfanstore.nl/",
+   "checked_at": "2026-10-16T03:20:56Z"
+  },
+  {
+   "name": "Purperen Draak",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "Groningen",
+   "address": "Nieuwe Ebbingestraat 86a, Groningen, GR, 9712 NP, Netherlands",
+   "phone": "3150 230 0959",
+   "website": "https://www.purperendraak.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:00Z"
+  },
+  {
+   "name": "Quality Cards TCG",
+   "group": "unknown",
+   "city": "Dordrecht",
+   "region": "ZH",
+   "address": "Van der Steenhovenplein 3, 3317 NM Dordrecht",
+   "phone": "06 49339999",
+   "website": "https://www.qualitycardstcg.nl/",
+   "checked_at": "2026-10-16T03:14:29Z"
+  },
+  {
+   "name": "RareCards | PICK UP LOCATION, by appointment only!",
+   "group": "unknown",
+   "city": "Cruquius",
+   "region": "NH",
+   "address": "Cruquiuszoom 51, 2142 EW Cruquius",
+   "phone": "06 22050926",
+   "website": "https://rarecards.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Reisboekhandel A LA CARTE",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Sint Antoniesbreestraat 134, 1011 HB Amsterdam",
+   "phone": "020 622 9488",
+   "website": "http://www.boekholtalacarte.nl/",
+   "checked_at": "2026-10-16T03:15:52Z"
+  },
+  {
+   "name": "Reisboekhandel INTERGLOBE",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Vinkenburgstraat 7, 3512 AA Utrecht",
+   "phone": "06 51512010",
+   "website": "http://www.interglobetravel.nl/",
+   "checked_at": "2026-10-16T03:19:34Z"
+  },
+  {
+   "name": "Reisboekwinkel de Zwerver B.V.",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Protonstraat 13C, 9743 AL Groningen",
+   "phone": "050 312 6950",
+   "website": "https://www.dezwerver.nl/",
+   "checked_at": "2026-10-16T03:21:33Z"
+  },
+  {
+   "name": "ReloadBase",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Asterweg 20K2, 1031 HN Amsterdam",
+   "website": "https://reloadbase.com/",
+   "checked_at": "2026-10-16T03:15:38Z"
+  },
+  {
+   "name": "Retro-kingdom",
+   "group": "unknown",
+   "city": "Zeist",
+   "region": "UT",
+   "address": "Bergweg 29B, 3701 JJ Zeist",
+   "phone": "06 51057042",
+   "website": "https://retro-kingdom.com/",
+   "checked_at": "2026-10-16T03:19:07Z"
+  },
+  {
+   "name": "Ringfoto Focus Hague",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Thomsonlaan 96, 2565 JE Den Haag",
+   "phone": "070 363 8398",
+   "website": "https://ringfotofocus.nl/",
+   "checked_at": "2026-10-16T03:18:17Z"
+  },
+  {
+   "name": "Rip & Ship Kings",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Ru Parélaan 249, 3527 LJ Utrecht",
+   "phone": "06 15332536",
+   "website": "https://ripandshipkings.com/",
+   "checked_at": "2026-10-16T03:19:01Z"
+  },
+  {
+   "name": "Rip and Ship",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Delflandplein 284, 2624 GD Delft",
+   "phone": "06 16397379",
+   "website": "https://fc93de-4.myshopify.com/",
+   "checked_at": "2026-10-16T03:17:35Z"
+  },
+  {
+   "name": "Roelants bookshop",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "van Broeckhuysenstraat 34, Tweede Walstraat 7, 6511 LN Nijmegen",
+   "phone": "024 322 1734",
+   "website": "https://www.roelants.nl/",
+   "checked_at": "2026-10-16T03:22:42Z"
+  },
+  {
+   "name": "RooksBet Netherlands",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Tourniairestraat 3, 1065 KK Amsterdam",
+   "phone": "06 17321405",
+   "website": "https://rooks-betcasino.co.nl/",
+   "checked_at": "2026-10-16T03:14:58Z"
+  },
+  {
+   "name": "Roos in Huis",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Guido Gezellestraat 21, 6531 CT Nijmegen",
+   "phone": "06 53270087",
+   "website": "https://roosinhuis.nl/",
+   "checked_at": "2026-10-16T03:22:35Z"
+  },
+  {
+   "name": "Rotterdam Comics🦸",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Schiedamse Vest 154, 3011 BH Rotterdam",
+   "phone": "06 16987490",
+   "website": "https://rotterdamcomics.com/",
+   "checked_at": "2026-10-16T03:15:54Z"
+  },
+  {
+   "name": "Royal Cards - Pokemon Kaarten Winkel",
+   "group": "unknown",
+   "city": "Aalten",
+   "region": "GE",
+   "address": "Bredevoortsestraatweg 19, 7121 BA Aalten",
+   "phone": "0543 537 335",
+   "website": "https://royalcards.nl/",
+   "checked_at": "2026-10-16T03:20:27Z"
+  },
+  {
+   "name": "RSI (Rotterdam Sport Import)",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Witte de Withstraat 57, 3012 BM Rotterdam",
+   "phone": "010 413 3000",
+   "website": "https://rsi.nl/",
+   "checked_at": "2026-10-16T03:16:49Z"
+  },
+  {
+   "name": "Savannah Bay",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Telingstraat 13, 3512 GV Utrecht",
+   "phone": "030 231 4410",
+   "website": "https://www.savannahbay.nl/",
+   "checked_at": "2026-10-16T03:19:53Z"
+  },
+  {
+   "name": "Schaak- en Gowinkel Het Paard - Spellen en Puzzels sinds 1987",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Haarlemmerdijk 173, 1013 KH Amsterdam",
+   "phone": "020 624 1171",
+   "website": "https://www.schaakengo.nl/",
+   "checked_at": "2026-10-16T03:14:46Z"
+  },
+  {
+   "name": "Second-Buy B.V.",
+   "group": "unknown",
+   "city": "Bemmel",
+   "region": "GE",
+   "address": "De Kazematten 6B, 6681 CS Bemmel",
+   "phone": "085 004 8375",
+   "website": "https://www.second-buy.nl/?utm_source=google&utm_medium=organic&utm_campaign=places",
+   "checked_at": "2026-10-16T03:22:11Z"
+  },
+  {
+   "name": "Secrid Flagship Store",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Hoogstraat 32, 2513 AS Den Haag",
+   "phone": "06 43559093",
+   "website": "https://secrid.com/en-ca/?utm_medium=organic&utm_source=google&utm_campaign=gmb",
+   "checked_at": "2026-10-16T03:18:12Z"
+  },
+  {
+   "name": "Seji's World",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Nieuwendijk 95, 1012 MC Amsterdam",
+   "phone": "020 233 0600",
+   "website": "https://www.sejisworld.com/nl/",
+   "checked_at": "2026-10-16T03:14:26Z"
+  },
+  {
+   "name": "Sevenster",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Piet Heinstraat 84, 2518 CK Den Haag",
+   "phone": "070 365 8813",
+   "website": "https://www.sevenster-onlineshop.com/",
+   "checked_at": "2026-10-16T03:18:08Z"
+  },
+  {
+   "name": "Señor Hernandez",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "In de Betouwstraat 24, 6511 GC Nijmegen",
+   "phone": "024 360 8181",
+   "website": "https://senorhernandez.com/",
+   "checked_at": "2026-10-16T03:22:12Z"
+  },
+  {
+   "name": "ShibeTCG",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "FL",
+   "address": "Operetteweg 21E, 1323 VK Almere",
+   "website": "https://shibetcg.com/",
+   "checked_at": "2026-10-16T03:14:05Z"
+  },
+  {
+   "name": "ShibuyaCards",
+   "group": "unknown",
+   "city": "Wateringen",
+   "region": "ZH",
+   "address": "Gele meerbloem 3, 2291 GW Wateringen",
+   "website": "https://shibuyacards.nl/password",
+   "checked_at": "2026-10-16T03:16:25Z"
+  },
+  {
+   "name": "Shoppingcenter Overvecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Seinedreef 40, 3562 KC Utrecht",
+   "phone": "030 262 0403",
+   "website": "https://www.overvechtcentrum.nl/openingstijden/",
+   "checked_at": "2026-10-16T03:18:47Z"
+  },
+  {
+   "name": "Side7",
+   "group": "unknown",
+   "city": "Alphen aan den Rijn",
+   "region": "Zuid-Holland",
+   "address": "109-111 Euromarkt, Alphen aan den Rijn, ZH, 2408 BD, Netherlands",
+   "phone": "+31172554003",
+   "website": "https://side7.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:28Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Amsterdam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Ookmeerweg 416, 1069 CG Amsterdam",
+   "phone": "030 231 4929",
+   "website": "https://www.smythstoys.com/nl/nl-nl",
+   "checked_at": "2026-10-16T03:14:13Z"
+  },
+  {
+   "name": "Snoesjes",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Vasteland 78, A.3, 3011 BN Rotterdam",
+   "phone": "010 307 5943",
+   "website": "https://www.snoesjes.com/",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
+   "name": "SoLow Feestwinkel Rotterdam Hoogstraat",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hoogstraat 171, 3011 PM Rotterdam",
+   "phone": "010 790 1000",
+   "website": "https://solow.nl/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:17Z"
+  },
+  {
+   "name": "Speedytoys.nl",
+   "group": "unknown",
+   "city": "Zwolle",
+   "region": "Overijssel",
+   "address": "Vechtstraat 34-36, Zwolle, OV, 8021AX, Netherlands",
+   "phone": "31(065) 333-0081",
+   "website": "https://www.speedytoys.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:27Z"
+  },
+  {
+   "name": "SPEEL! Westland",
+   "group": "unknown",
+   "city": "De Lier",
+   "region": "ZH",
+   "address": "Hoofdstraat 60D, 2678 CL De Lier",
+   "phone": "0174 785 632",
+   "website": "https://www.speelbordspellen.nl/",
+   "checked_at": "2026-10-16T03:17:47Z"
+  },
+  {
+   "name": "Speelgoedwinkel de Kleine Eland",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Elandsgracht 58, 1016 TW Amsterdam",
+   "phone": "020 620 9001",
+   "website": "https://kleine-eland.nl/",
+   "checked_at": "2026-10-16T03:14:43Z"
+  },
+  {
+   "name": "speelkaartenwinkel.nl 🃏",
+   "group": "unknown",
+   "city": "Waalre",
+   "region": "NB",
+   "address": "Van Dijklaan 11d, 5581 WG Waalre",
+   "phone": "040 230 1256",
+   "website": "https://www.speelkaartenwinkel.nl/",
+   "checked_at": "2026-10-16T03:17:10Z"
+  },
+  {
+   "name": "Spel En Meer",
+   "group": "unknown",
+   "city": "Zoetermeer",
+   "region": "Zuid-Holland",
+   "address": "Parking P4 (Action Garage), Zoetermeer, ZH, 2711 HZ , Netherlands",
+   "phone": "+31 (0) 797.370.038",
+   "website": "https://spelenmeer.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:47Z"
+  },
+  {
+   "name": "Speldorado",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Hippolytusbuurt 25, Delft, Zuid Holland, 2611HM, Netherlands",
+   "phone": "+31681712473",
+   "website": "https://speldorado.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:54Z"
+  },
+  {
+   "name": "Spelkwartier Arnhem",
+   "group": "unknown",
+   "city": "Arnhem",
+   "region": "Gelderland",
+   "address": "Steenstraat 4, Arnhem, DR, 6828 CJ, Netherlands",
+   "phone": "+31(0) 263517669",
+   "website": "https://spelkwartier.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:51Z"
+  },
+  {
+   "name": "Spellcast",
+   "group": "unknown",
+   "address": "Kanaalstraat 52A, Lisse, Zuid-Holland, 2161 JM, Netherlands",
+   "phone": "+31641357961",
+   "website": "https://www.spellcast.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:20Z"
+  },
+  {
+   "name": "Spellekijn",
+   "group": "unknown",
+   "address": "Peperstraat 12, Leeuwarden, FL, 8911 JA, Netherlands",
+   "phone": "3158 213 1112",
+   "website": "https://www.spellekijn.nl/",
+   "buylist_url": "https://www.spellekijn.nl/index.php?route=product/product&product_id=238906&search=trade+in&description=1",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:06Z"
+  },
+  {
+   "name": "SpellenHuis Haarlem",
+   "group": "unknown",
+   "city": "Haarlem",
+   "region": "Noord-Holland",
+   "address": "Kruisweg 62, Haarlem, NH, 2011 LE, Netherlands",
+   "phone": "+31 23-531-3188",
+   "website": "https://www.the-boardroom.nl/locations/bordspellencafe-haarlem/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Spellenpoort",
+   "group": "unknown",
+   "city": "Amersfoort",
+   "region": "Utrecht",
+   "address": "Scherbierstraat 4-6, Amersfoort, Utrecht, 3811 EA, Netherlands",
+   "phone": "3133 470 0322",
+   "website": "http://www.spellenpoort.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:46Z"
+  },
+  {
+   "name": "Spellenspeciaalzaak de Windroos",
+   "group": "unknown",
+   "address": "14 Minckelersstraat, Maastricht, Limburg, 6214PA, Netherlands",
+   "phone": "+31043-3114586",
+   "website": "https://dewindroosspellen.nl/en/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:45Z"
+  },
+  {
+   "name": "Spellenwinkel Subcultures",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 183, 3511 NE Utrecht",
+   "phone": "030 737 1007",
+   "website": "https://www.subcultures.nl/",
+   "checked_at": "2026-10-16T03:18:26Z"
+  },
+  {
+   "name": "Spellenwinkel.nl",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "Zuid-Holland",
+   "address": "Rotterdamseweg 370, a9, 2629 HG Delft, Netherlands, Delft, Zuid-Holland, 2629 HG",
+   "phone": "015 7370224",
+   "website": "https://www.spellenwinkel.nl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:38Z"
+  },
+  {
+   "name": "Spellenwinkel.nl - Bazaar of Magic",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Rotterdamseweg 370, Delft, ZH, 2629 HG, Netherlands",
+   "phone": "+31(0)15 7370224",
+   "website": "https://www.bazaarofmagic.eu",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:56Z"
+  },
+  {
+   "name": "Spelschuur",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Damzigt 20 C, 3454 PS Utrecht",
+   "phone": "06 83452088",
+   "website": "https://spelschuur.nl/",
+   "checked_at": "2026-10-16T03:19:30Z"
+  },
+  {
+   "name": "Spelspul.nl",
+   "group": "unknown",
+   "city": "De Lier",
+   "region": "ZH",
+   "address": "Hoofdstraat 60 D, 2678 CL De Lier",
+   "phone": "070 206 6959",
+   "website": "https://www.spelspul.nl/nl/",
+   "checked_at": "2026-10-16T03:17:51Z"
+  },
+  {
+   "name": "Splash of Magic",
+   "group": "unknown",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Wattbaan 16, 3439 ML Nieuwegein",
+   "phone": "06 19857112",
+   "website": "https://www.splashofmagic.nl/",
+   "checked_at": "2026-10-16T03:19:08Z"
+  },
+  {
+   "name": "Sportboek.nl Sportsbooks",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Bilderdijkkade 23A-HUIS, 1053 VB Amsterdam",
+   "phone": "020 618 4320",
+   "website": "https://www.sportboek.nl/",
+   "checked_at": "2026-10-16T03:14:09Z"
+  },
+  {
+   "name": "Spreadshirt Netherlands",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zonnebaan 13, 3542 AW Utrecht",
+   "phone": "030 310 0057",
+   "website": "http://www.spreadshirt.nl/",
+   "checked_at": "2026-10-16T03:18:52Z"
+  },
+  {
+   "name": "Startselect",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Hoevenweg 19, 5652 AW Eindhoven",
+   "website": "https://startselect.com/ca-en",
+   "checked_at": "2026-10-16T03:20:24Z"
+  },
+  {
+   "name": "STORE STORE",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Gouvernestraat 271, 3014 PM Rotterdam",
+   "website": "https://storeprojects.org/nl/",
+   "checked_at": "2026-10-16T03:16:42Z"
+  },
+  {
+   "name": "Strips Outlet Utrecht🦸",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Nijverheidsweg 21E, 3534 AM Utrecht",
+   "phone": "030 246 8222",
+   "website": "http://www.stripsoutletutrecht.nl/",
+   "checked_at": "2026-10-16T03:19:17Z"
+  },
+  {
+   "name": "Stripwinkel Barelli",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Zoutmanstraat 80, 2518 GT Den Haag",
+   "phone": "070 365 3070",
+   "website": "https://stripwinkelbarelli.nl/contact-us/",
+   "checked_at": "2026-10-16T03:17:39Z"
+  },
+  {
+   "name": "Stripwinkel Blunder",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 203, 3511 NH Utrecht",
+   "phone": "030 231 1461",
+   "website": "https://www.stripwinkelblunder.nl/",
+   "checked_at": "2026-10-16T03:19:17Z"
+  },
+  {
+   "name": "Stripwinkel Fantasia",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Buitenveldertselaan 174, 1081 AC Amsterdam",
+   "phone": "020 642 6688",
+   "website": "https://fantasiashop.nl/",
+   "checked_at": "2026-10-16T03:15:05Z"
+  },
+  {
+   "name": "Stripwinkel Yendor",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Korte Hoogstraat 16, 3011 GL Rotterdam",
+   "phone": "010 433 1710",
+   "website": "https://www.yendor.nl/",
+   "checked_at": "2026-10-16T03:15:56Z"
+  },
+  {
+   "name": "Studio Legenda",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Koldingweg 19-4, 9723 HL Groningen",
+   "website": "https://www.studiolegenda.com/password",
+   "checked_at": "2026-10-16T03:21:54Z"
+  },
+  {
+   "name": "svv-schatzoekers",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Meent 7a, 3011 JA Rotterdam",
+   "phone": "06 26335341",
+   "website": "https://svv-schatzoekers.nl/",
+   "checked_at": "2026-10-16T03:16:13Z"
+  },
+  {
+   "name": "Søstrene Grene",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Hoogstraat 183B, 3011 PM Rotterdam",
+   "website": "https://sostrenegrene.com/nl/winkel/hoogstraat-rotterdam-s-3004?utm_campaign=gbpg&utm_source=googlebusiness&utm_medium=google",
+   "checked_at": "2026-10-16T03:17:05Z"
+  },
+  {
+   "name": "Table Heroes",
+   "group": "unknown",
+   "address": "Kerkstraat 45, Nederweert, Limburg, 6031CE, Netherlands",
+   "phone": "+59931627322523",
+   "website": "https://tableheroes.odoo.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:08Z"
+  },
+  {
+   "name": "Tabletop Kingdom",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Korte houtstraat 13, Den Haag, ZH, 2511 CC, Netherlands",
+   "phone": "316 45329692",
+   "website": "https://www.tabletopkingdom.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:51Z"
+  },
+  {
+   "name": "Tabletop Kingdom Haarlem",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "Zuid-Holland",
+   "address": "26 Kleine Houtstraat, Haarlem, NH, 2011 DM, Netherlands",
+   "phone": "31621575999",
+   "website": "https://tabletopkingdom.nl/en/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Tallies Cards",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "2e Schuytstraat 220, 2517 TR Den Haag",
+   "phone": "070 204 2292",
+   "website": "https://talliescards.nl/",
+   "checked_at": "2026-10-16T03:18:09Z"
+  },
+  {
+   "name": "Tarocks",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Rozengracht 15D, 1016 LP Amsterdam",
+   "phone": "020 638 2505",
+   "website": "https://www.tarocks.com/",
+   "checked_at": "2026-10-16T03:15:48Z"
+  },
+  {
+   "name": "Tcg Card Game Shop",
+   "group": "unknown",
+   "city": "Berghem",
+   "region": "NB",
+   "address": "Ploeg 57, 5351 NZ Berghem",
+   "phone": "06 13545637",
+   "website": "https://www.tcgcardgameshop.nl/",
+   "checked_at": "2026-10-16T03:20:32Z"
+  },
+  {
+   "name": "TCG Cards",
+   "group": "unknown",
+   "city": "Breukelen",
+   "region": "UT",
+   "address": "Straatweg 114, 3621 BT Breukelen",
+   "website": "https://www.tcg-cards.nl/",
+   "checked_at": "2026-10-16T03:13:57Z"
+  },
+  {
+   "name": "TCG Fanz Store",
+   "group": "unknown",
+   "city": "Oss",
+   "region": "NB",
+   "address": "Walplein 18, 5341 ED Oss",
+   "phone": "06 17780919",
+   "website": "https://tcgfanzstore.nl/",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "TCG GROUND",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "102 Putselaan, Rotterdam, ZH, 3074 JE, Netherlands",
+   "phone": "+31614050107",
+   "website": "https://tcg-ground.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:01Z"
+  },
+  {
+   "name": "TCG Parade B.V.",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Herengracht 320, 1016 CE Amsterdam",
+   "website": "https://tcgparade.com/",
+   "checked_at": "2026-10-16T03:14:01Z"
+  },
+  {
+   "name": "TCG World",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Herestraat 95, 9711 LE Groningen",
+   "phone": "06 57738586",
+   "website": "https://tcgworld.nl/",
+   "checked_at": "2026-10-16T03:21:15Z"
+  },
+  {
+   "name": "TCG-Chasecards",
+   "group": "unknown",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Korenbloemstraat 45, 3434 EA Nieuwegein",
+   "phone": "06 30539348",
+   "website": "https://www.tcg-chasecards.nl/",
+   "checked_at": "2026-10-16T03:18:27Z"
+  },
+  {
+   "name": "TCGAL",
+   "group": "unknown",
+   "city": "Diemen",
+   "region": "NH",
+   "address": "Burgemeester Bickerstraat 4C, 1111 CB Diemen",
+   "phone": "06 20336759",
+   "website": "https://www.tcgal.nl/",
+   "checked_at": "2026-10-16T03:13:55Z"
+  },
+  {
+   "name": "TCGDrachten",
+   "group": "unknown",
+   "address": "Richterlaan 10-3, Drachten, Friesland, 9207JV, Netherlands",
+   "phone": "+310512751264",
+   "website": "https://tcgdrachten.nl/winkel",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:01Z"
+  },
+  {
+   "name": "tcgshop.nl",
+   "group": "unknown",
+   "city": "Voorhout",
+   "region": "ZH",
+   "address": "Ravellaan 24, 2215 LZ Voorhout",
+   "website": "https://tcgshop.nl/",
+   "checked_at": "2026-10-16T03:14:38Z"
+  },
+  {
+   "name": "TCGTrading MC",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Zandkreek, 3079 AT Rotterdam",
+   "phone": "06 10199729",
+   "website": "https://www.tcgtrading.nl/",
+   "checked_at": "2026-10-16T03:16:11Z"
+  },
+  {
+   "name": "Techswap Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Veldzigt 18f, 3454 PW Utrecht",
+   "phone": "06 31344550",
+   "website": "https://www.techswaputrecht.nl/",
+   "checked_at": "2026-10-16T03:18:34Z"
+  },
+  {
+   "name": "The American Book Center",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Spui 12, 1012 XA Amsterdam",
+   "phone": "020 625 5537",
+   "website": "https://abc.nl/",
+   "checked_at": "2026-10-16T03:14:11Z"
+  },
+  {
+   "name": "The Base",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Grotemarkt 202, 3011 PA Rotterdam",
+   "website": "http://www.mijnoutle.nl/",
+   "checked_at": "2026-10-16T03:16:35Z"
+  },
+  {
+   "name": "The Bulba Vault",
+   "group": "unknown",
+   "city": "De Lier",
+   "region": "ZH",
+   "address": "Witte de Withstraat 16, 2678 GE De Lier",
+   "website": "https://thebulbavault.com/",
+   "checked_at": "2026-10-16T03:17:25Z"
+  },
+  {
+   "name": "The Copper John",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Noodweg 6, 9746 TD Groningen",
+   "phone": "050 556 6220",
+   "website": "https://dekoperenjan.nl/",
+   "checked_at": "2026-10-16T03:21:56Z"
+  },
+  {
+   "name": "The Dragoncard",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Fabritiuslaan 28, 5645 EN Eindhoven",
+   "phone": "06 11723061",
+   "website": "https://www.dragoncard.nl/",
+   "checked_at": "2026-10-16T03:20:12Z"
+  },
+  {
+   "name": "The Fantasy Realm",
+   "group": "unknown",
+   "city": "Zwolle",
+   "region": "Overijssel",
+   "address": "Diezerplein 27, 8021 CT Zwolle, Netherlands, Zwolle, Overijssel, 8021 CT",
+   "phone": "+31 6 410 43217",
+   "website": "https://shop.thefantasyrealm.nl/en_GB/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:13:42Z"
+  },
+  {
+   "name": "The Game-Inn",
+   "group": "unknown",
+   "address": "20 Dorpsstraat, Nieuwerkerk aan den IJssel, ZH, 2912 CB, Netherlands",
+   "phone": "310646106872",
+   "website": "https://www.game-inn.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:49Z"
+  },
+  {
+   "name": "The Games Guild",
+   "group": "unknown",
+   "address": "Concordiastraat 29, Alphen aan den Rijn, ZH, 2406, Netherlands",
+   "phone": "316 18081858",
+   "website": "https://www.gamesguild.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:28Z"
+  },
+  {
+   "name": "The Gestelse Bazar",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Hoogstraat 198, 5615 PW Eindhoven",
+   "phone": "040 251 8736",
+   "website": "https://gestelsebazar.nl/",
+   "checked_at": "2026-10-16T03:20:28Z"
+  },
+  {
+   "name": "The Goddess Rock Temple",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Molenstraat 26, 6511 HE Nijmegen",
+   "phone": "024 206 3221",
+   "website": "https://www.thegoddessrocktemple.com/",
+   "checked_at": "2026-10-16T03:22:37Z"
+  },
+  {
+   "name": "The Great Illuminary",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "FL",
+   "address": "Aramstraat 32, 1336 HS Almere",
+   "phone": "036 203 6403",
+   "website": "https://www.thegreatilluminary.nl/",
+   "checked_at": "2026-10-16T03:14:36Z"
+  },
+  {
+   "name": "The Happy Halfling",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "11 Winkelcentrum Woensel, Eindhoven, Noord Brabant, 5625 AA, Netherlands",
+   "phone": "+3131641778657",
+   "website": "https://thehappyhalfling.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:01Z"
+  },
+  {
+   "name": "The Joker (Utrecht)",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "Utrecht",
+   "address": "Oude Gracht 230a, Utrecht, UT, 3511 NT, Netherlands",
+   "phone": "31302332158",
+   "website": "http://www.the-joker.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:36Z"
+  },
+  {
+   "name": "The LEGO® Store Amsterdam",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 57, 1012 NZ Amsterdam",
+   "phone": "020 793 0620",
+   "website": "https://www.lego.com/nl-nl/stores/store/amsterdam?cmp=REF-202601-GBP-871&y_source=1_MTY2ODY3MTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T03:14:56Z"
+  },
+  {
+   "name": "The Movie Store Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Statensingel 52, 3039 LP Rotterdam",
+   "phone": "06 18426954",
+   "website": "https://www.moviestore.nl/nl/",
+   "checked_at": "2026-10-16T03:16:50Z"
+  },
+  {
+   "name": "The PokéUnited Shop",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Gilze-Rijenstraat 3, 3045 PJ Rotterdam",
+   "phone": "06 86066542",
+   "website": "https://thepokeunitedshop.nl/",
+   "checked_at": "2026-10-16T03:16:29Z"
+  },
+  {
+   "name": "The Role Play Goblin",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "24A Westeinde, Den Haag, Zuid-Holland, 2512 HD, Netherlands",
+   "phone": "+31681202872",
+   "website": "https://theroleplaygoblin.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:51Z"
+  },
+  {
+   "name": "The Scenery Shop",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Herenstraat 7H, 1015 BX Amsterdam",
+   "phone": "06 46160524",
+   "website": "https://scenery-shop.com/pages/our-store-locations",
+   "checked_at": "2026-10-16T03:15:18Z"
+  },
+  {
+   "name": "Timp boekhandel",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Gelderlandplein 147, 1082 LW Amsterdam",
+   "phone": "020 642 3368",
+   "website": "http://boekhandeltimp.nl/",
+   "checked_at": "2026-10-16T03:15:27Z"
+  },
+  {
+   "name": "Titan Games (Boxtel)",
+   "group": "unknown",
+   "city": "Boxtel",
+   "region": "Noord-Brabant",
+   "address": "Kruisstraat 3, Boxtel, NB, 5281 AW, Netherlands",
+   "phone": "316 25093999",
+   "website": "https://www.titangames.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:22Z"
+  },
+  {
+   "name": "TonKeeperPro",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Haagseveer 23, 3011 AH Rotterdam",
+   "phone": "06 16915224",
+   "website": "https://tonskate.com/",
+   "checked_at": "2026-10-16T03:16:25Z"
+  },
+  {
+   "name": "Top 1 Toys",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Laan van Wateringse Veld 680, 2548 CM Den Haag",
+   "phone": "070 309 9693",
+   "website": "https://hylatoys.nl/",
+   "checked_at": "2026-10-16T03:17:38Z"
+  },
+  {
+   "name": "Top 1 Toys Apeldoornselaan",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Apeldoornselaan 151, 2573 LG Den Haag",
+   "phone": "070 365 7883",
+   "website": "https://www.top1toys.nl/",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
+   "name": "Top1Toys Zeist",
+   "group": "unknown",
+   "city": "Zeist",
+   "region": "UT",
+   "address": "Voorheuvel 35, 3701 JB Zeist",
+   "phone": "030 697 7118",
+   "website": "https://zeistspeelgoed.nl/",
+   "checked_at": "2026-10-16T03:19:10Z"
+  },
+  {
+   "name": "Topknuffels.nl",
+   "group": "unknown",
+   "city": "Capelle aan den IJssel",
+   "region": "ZH",
+   "address": "Venkelbaan 24, 2908 KE Capelle aan den IJssel",
+   "phone": "010 767 0070",
+   "website": "https://www.topknuffels.nl/",
+   "checked_at": "2026-10-16T03:16:40Z"
+  },
+  {
+   "name": "Tourist Office of Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Heuvel 126, 5611 DK Eindhoven",
+   "phone": "040 297 9115",
+   "website": "https://www.thisiseindhoven.com/nl",
+   "checked_at": "2026-10-16T03:20:47Z"
+  },
+  {
+   "name": "Toy Trend",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Theresiastraat 280, 2593 AX Den Haag",
+   "phone": "070 347 3120",
+   "website": "https://toytrend.nl/",
+   "checked_at": "2026-10-16T03:17:37Z"
+  },
+  {
+   "name": "Trading Card Pro",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Arne 5, 3453 MH Utrecht",
+   "website": "https://tradingcardpro.nl/",
+   "checked_at": "2026-10-16T03:14:38Z"
+  },
+  {
+   "name": "TradingCardResort",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "3025 TP Rotterdam",
+   "phone": "06 18490013",
+   "website": "https://www.tradingcardresort.com/",
+   "checked_at": "2026-10-16T03:16:28Z"
+  },
+  {
+   "name": "TS Pokécards",
+   "group": "unknown",
+   "city": "Veenendaal",
+   "region": "UT",
+   "address": "Groenplaats 30, 3907 KG Veenendaal",
+   "website": "https://www.tspokecards.nl/",
+   "checked_at": "2026-10-16T03:20:26Z"
+  },
+  {
+   "name": "Tuatara Racing",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Van Helmontstraat 17, 3029 AA Rotterdam",
+   "website": "https://www.tuatara.eu/",
+   "checked_at": "2026-10-16T03:16:43Z"
+  },
+  {
+   "name": "Used Products Amsterdam Osdorp",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Tussen Meer 209, 1069 DN Amsterdam",
+   "phone": "020 774 6243",
+   "website": "https://www.usedproductsamsterdamosdorp.nl/",
+   "checked_at": "2026-10-16T03:14:10Z"
+  },
+  {
+   "name": "Used Products Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Vestdijk 2C, 5611 CC Eindhoven",
+   "phone": "06 34052073",
+   "website": "https://www.usedproductseindhoven.nl/",
+   "checked_at": "2026-10-16T03:20:35Z"
+  },
+  {
+   "name": "Used Products Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Nachtegaalstraat 3, 3581 AA Utrecht",
+   "phone": "030 212 0178",
+   "website": "http://www.usedproductsutrecht.nl/",
+   "checked_at": "2026-10-16T03:18:47Z"
+  },
+  {
+   "name": "Valhalla Boardgames",
+   "group": "unknown",
+   "address": "Molenwieken 2D, Veghel, Noord-Brabant, 5461KG, Netherlands",
+   "phone": "+31612094189",
+   "website": "https://www.valhallaboardgames.nl/en/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:58Z"
+  },
+  {
+   "name": "Van Os tassen👜 en koffers🧳",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Catharijnepassage 10, Winkelcentrum Hoog Catharijne, https://hoog-catharijne, klepierre.nl, 3511 WG Utrecht",
+   "phone": "0172 447 611",
+   "website": "https://www.vanostassenenkoffers.nl/winkel/van-os-tassen-en-koffers-winkel-utrecht-hoog-catharijne/",
+   "checked_at": "2026-10-16T03:19:13Z"
+  },
+  {
+   "name": "Vandal Com-x",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Nieuwe Hemweg 7P, 1013 BG Amsterdam",
+   "phone": "020 420 2144",
+   "website": "https://www.vandalcomx.com/",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "VegasHero NL",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Lobo Braakensiekstraat 114, 1065 HR Amsterdam",
+   "phone": "06 82905329",
+   "website": "https://vegas-hero.com.nl/",
+   "checked_at": "2026-10-16T03:14:58Z"
+  },
+  {
+   "name": "Vendetta Spellencentrum",
+   "group": "unknown",
+   "city": "Hilversum",
+   "region": "NH",
+   "address": "Bussumerstraat 34d, Hilversum, NH, 1211BL, Netherlands",
+   "phone": "3135 773 0767",
+   "website": "https://vendettaspellencentrum.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:18Z"
+  },
+  {
+   "name": "ViLa Cards",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Cavallilaan 215, 5654 BD Eindhoven",
+   "phone": "06 19482131",
+   "website": "https://www.vilacards.nl/",
+   "checked_at": "2026-10-16T03:20:21Z"
+  },
+  {
+   "name": "VOORLOPIG ROTTERDAM",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Nieuwe Binnenweg 165, 3014 GK Rotterdam",
+   "phone": "06 39840217",
+   "website": "https://www.voorlopigconceptstore.com/",
+   "checked_at": "2026-10-16T03:16:54Z"
+  },
+  {
+   "name": "VTK TCG",
+   "group": "unknown",
+   "city": "Hoogvliet Rotterdam",
+   "region": "ZH",
+   "address": "Wonderklauwpad 24, 3192 KK Hoogvliet Rotterdam",
+   "website": "http://www.vtktcg.com/",
+   "checked_at": "2026-10-16T03:16:34Z"
+  },
+  {
+   "name": "VVV Groningen (City)",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Forum, Nieuwe Markt 1, 9712 KN Groningen",
+   "phone": "050 313 9741",
+   "website": "https://www.visitgroningen.nl/nl/plan-je-bezoek/vvv",
+   "checked_at": "2026-10-16T03:21:45Z"
+  },
+  {
+   "name": "VVV Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Domplein 9, 3512 JC Utrecht",
+   "phone": "030 236 0004",
+   "website": "https://utrecht-winkel.nl/",
+   "checked_at": "2026-10-16T03:20:07Z"
+  },
+  {
+   "name": "Walter's Bookshop",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Oude Kijk in Het Jatstraat 10, 9712 EG Groningen",
+   "phone": "050 318 5681",
+   "website": "https://waltersbookshop.nl/",
+   "checked_at": "2026-10-16T03:21:35Z"
+  },
+  {
+   "name": "Warenhuis Vanderveen Assen",
+   "group": "unknown",
+   "address": "Koopmansplein 16, 9401EL, Assen, Drenthe, 9401EL, Netherlands",
+   "phone": "+310640573861",
+   "website": "https://www.vanderveen.nl/afdelingen/vrije-tijd/top1toys",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:13:01Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Rozengracht 99, 1016 LT Amsterdam",
+   "phone": "020 623 2800",
+   "website": "https://www.warhammer.com/shop/Warhammer-Amsterdam-West",
+   "checked_at": "2026-10-16T03:14:49Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Kalverstraat 152, 1012 XE Amsterdam",
+   "phone": "020 638 3821",
+   "website": "https://www.waterstones.com/bookshops/amsterdam",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "Weeztix B.V.",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Jan van Lieshoutstraat 23, 5611 EE Eindhoven",
+   "phone": "085 888 3007",
+   "website": "https://weeztix.com/?utm_source=google&utm_medium=gmb",
+   "checked_at": "2026-10-16T03:20:45Z"
+  },
+  {
+   "name": "Welpie Toys",
+   "group": "unknown",
+   "address": "30 Corio Center, Heerlen, Limburg, 6411 LX, Netherlands",
+   "phone": "+31639622828",
+   "website": "https://welpietoys.nl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:12:45Z"
+  },
+  {
+   "name": "Wereldwinkel Groningen",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Stoeldraaierstraat 27, 9712 BV Groningen",
+   "phone": "050 318 6855",
+   "website": "https://wereldwinkelgroningen.nl/",
+   "checked_at": "2026-10-16T03:21:40Z"
+  },
+  {
+   "name": "Westfield Mall of the Netherlands",
+   "group": "unknown",
+   "city": "Leidschendam",
+   "region": "ZH",
+   "address": "Liguster 202, 2262 AC Leidschendam",
+   "phone": "070 763 0530",
+   "website": "https://www.westfield.com/nl/netherlands/mallofthenetherlands?utm_source=google&utm_medium=GMB",
+   "checked_at": "2026-10-16T03:17:51Z"
+  },
+  {
+   "name": "Whoops",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Springweg 1, 3511 VH Utrecht",
+   "phone": "030 230 4123",
+   "website": "https://www.whoops.nl/",
+   "checked_at": "2026-10-16T03:19:16Z"
+  },
+  {
+   "name": "Wirwar Games and Puzzles",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Oude Kijk in Het Jatstraat 40, 9712 EL Groningen",
+   "phone": "050 314 8424",
+   "website": "https://www.spellenenpuzzels.nl/",
+   "checked_at": "2026-10-16T03:21:18Z"
+  },
+  {
+   "name": "www.kittyblum.com",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Langestraat 144 - 5, 9712 MJ Groningen",
+   "phone": "06 13247599",
+   "website": "https://www.kittyblum.com/",
+   "checked_at": "2026-10-16T03:21:42Z"
+  },
+  {
+   "name": "Xenos Nijmegen Centrum",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Ziekerstraat 78, 6511 LJ Nijmegen",
+   "phone": "024 360 3980",
+   "website": "https://www.xenos.nl/winkels/nijmegen-passage-molenpoort-22?utm_source=google&utm_medium=organic&utm_campaign=GoogleMyBusiness&utm_term=NijmegenMolenpoort",
+   "checked_at": "2026-10-16T03:22:48Z"
+  },
+  {
+   "name": "xyclops-tcg",
+   "group": "unknown",
+   "city": "Almere",
+   "region": "FL",
+   "address": "Markerkant 01.02, 1314 AJ Almere",
+   "phone": "06 40351253",
+   "website": "https://xyclops-tcg.nl/",
+   "checked_at": "2026-10-16T03:14:07Z"
+  },
+  {
+   "name": "Yantra",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Oude Ebbingestraat 61, 9712 HD Groningen",
+   "phone": "050 313 6064",
+   "website": "https://www.yantra.nl/",
+   "checked_at": "2026-10-16T03:21:39Z"
+  },
+  {
+   "name": "YLA Trading Cards",
+   "group": "unknown",
+   "city": "Noordwijkerhout",
+   "region": "ZH",
+   "address": "Zeestraat 28, 2211 XG Noordwijkerhout",
+   "website": "https://ylatradingcards.nl/",
+   "checked_at": "2026-10-16T03:14:36Z"
+  },
+  {
+   "name": "You Awesome You",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Rode Weeshuisstraat 7, 9712 EV Groningen",
+   "phone": "050 850 0562",
+   "website": "https://www.youawesomeyou.nl/",
+   "checked_at": "2026-10-16T03:21:33Z"
+  },
+  {
+   "name": "Yu-Gi-Wang",
+   "group": "unknown",
+   "city": "Spijkenisse",
+   "region": "Zuid-Holland",
+   "address": "Marrewijklaan 47, Spijkenisse, ZH, 3201 BA, Netherlands",
+   "phone": "31(0)651130735",
+   "website": "https://yu-gi-wang.nl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:07Z"
+  },
+  {
+   "name": "Zaanhammer",
+   "group": "unknown",
+   "address": "Dubbele buurt 17, Purmerend, NH, 1441CT, Netherlands",
+   "phone": "+310616270627",
+   "website": "https://www.zaanhammer.nl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "ZININ",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Burgemeester Reigerstraat 11, 3581 KJ Utrecht",
+   "phone": "030 251 8178",
+   "website": "https://www.zininshop.nl/",
+   "checked_at": "2026-10-16T03:19:24Z"
+  }
+ ]
+}
