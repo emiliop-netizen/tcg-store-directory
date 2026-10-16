@@ -5,34 +5,6 @@
  "store_count": 1143,
  "stores": [
   {
-   "name": "Yuyu-tei (遊々亭)",
-   "group": "feed",
-   "city": "Tokyo",
-   "region": "Tokyo",
-   "website": "https://yuyu-tei.jp",
-   "buylist_url": "https://yuyu-tei.jp/buy/opc/s/op14",
-   "feed": {
-    "platform": "yuyutei",
-    "base": "https://yuyu-tei.jp",
-    "games": [
-     "One Piece (opc)"
-    ],
-    "language": "Japanese",
-    "search": "/buy/opc/s/{set code lower case, e.g. op14, eb03}; each card block: img alt='{number} {rarity} {name}' (パラレル = parallel/alt art, SP, SEC, P-SR...), buy price in the strong tag 'N 円', old price in del"
-   },
-   "national_mail_in": true,
-   "games_buys": [
-    "One Piece",
-    "Pokemon",
-    "Yu-Gi-Oh!",
-    "Dragon Ball Super Fusion World",
-    "Digimon",
-    "Weiss Schwarz",
-    "Magic: The Gathering"
-   ],
-   "notes": "Japanese-language cards. Plain-HTML buy pages per set: https://yuyu-tei.jp/buy/{game}/s/{set code} (game opc = One Piece). Current buy price in <strong>, previous in <del>. Mail-in buying needs Japanese identity verification (likely residents only). Found 2026-10-16."
-  },
-  {
    "name": "aNueNuE -アヌエ-",
    "group": "public_buylist",
    "city": "Nagoya",
@@ -153,6 +125,34 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:39Z"
+  },
+  {
+   "name": "Yuyu-tei (遊々亭)",
+   "group": "public_buylist",
+   "city": "Tokyo",
+   "region": "Tokyo",
+   "website": "https://yuyu-tei.jp",
+   "buylist_url": "https://yuyu-tei.jp/buy/opc/s/op14",
+   "feed": {
+    "platform": "yuyutei",
+    "base": "https://yuyu-tei.jp",
+    "games": [
+     "One Piece (opc)"
+    ],
+    "language": "Japanese",
+    "search": "/buy/opc/s/{set code lower case, e.g. op14, eb03}; each card block: img alt='{number} {rarity} {name}' (パラレル = parallel/alt art, SP, SEC, P-SR...), buy price in the strong tag 'N 円', old price in del"
+   },
+   "national_mail_in": true,
+   "games_buys": [
+    "One Piece",
+    "Pokemon",
+    "Yu-Gi-Oh!",
+    "Dragon Ball Super Fusion World",
+    "Digimon",
+    "Weiss Schwarz",
+    "Magic: The Gathering"
+   ],
+   "notes": "Japanese-language cards. Plain-HTML buy pages per set: https://yuyu-tei.jp/buy/{game}/s/{set code} (game opc = One Piece). Current buy price in <strong>, previous in <del>. Mail-in buying needs Japanese identity verification (likely residents only). Found 2026-10-16."
   },
   {
    "name": "フルコンプ PLAYERS CENTER仙台駅前店",
