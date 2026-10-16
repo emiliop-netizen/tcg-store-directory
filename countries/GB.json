@@ -1,7 +1,7 @@
 {
  "country": "GB",
  "currency": "GBP",
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "store_count": 918,
  "stores": [
   {
@@ -93,7 +93,8 @@
      "Pokemon Japanese",
      "One Piece",
      "Riftbound"
-    ]
+    ],
+    "japanese": "Pokemon Japanese (CardCompanion slug pokemon-jp)"
    },
    "checked_at": "2026-10-16T02:26:13Z"
   },
@@ -161,7 +162,8 @@
      "Flesh and Blood",
      "One Piece",
      "Riftbound"
-    ]
+    ],
+    "japanese": "Pokemon Japanese (CardCompanion slug pokemon-jp)"
    },
    "checked_at": "2026-10-16T02:23:01Z"
   },
@@ -400,7 +402,8 @@
      "Gundam Card Game",
      "One Piece",
      "Riftbound"
-    ]
+    ],
+    "japanese": "Pokemon Japanese (CardCompanion slug pokemon-jp)"
    },
    "games_events": [
     "Flesh and Blood",
