@@ -1,0 +1,2244 @@
+{
+ "country": "CH",
+ "currency": "CHF",
+ "updated": "2026-10-15",
+ "store_count": 207,
+ "stores": [
+  {
+   "name": "BoosterStop TCG",
+   "group": "quote_only",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Poste Filiale, Prom. de l'Europe 11, 1203 Genève",
+   "phone": "022 886 01 58",
+   "website": "https://boosterstop.com/fr/distributeur-geneve-charmilles.html",
+   "buylist_url": "https://boosterstop.com/fr/rachat-pokemon-one-piece.html",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:41:37Z"
+  },
+  {
+   "name": "Hall of Trader",
+   "group": "quote_only",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Spalenring 120, 4055 Basel",
+   "phone": "078 676 99 06",
+   "website": "https://halloftrader.ch/",
+   "buylist_url": "https://halloftrader.ch/pages/ankauf",
+   "checked_at": "2026-10-16T03:40:56Z"
+  },
+  {
+   "name": "Ikigai Manga Shop",
+   "group": "quote_only",
+   "address": "Rue des Pâquis 4 BIS, Geneva, Geneva, 1201, Switzerland",
+   "phone": "+41229011959",
+   "website": "https://ikigai-manga.shop/",
+   "buylist_url": "https://ikigai-manga.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:42Z"
+  },
+  {
+   "name": "SwissSportscardsCollector",
+   "group": "quote_only",
+   "city": "Magden",
+   "region": "AG",
+   "address": "Waldweg 15a, 4312 Magden",
+   "phone": "079 568 49 00",
+   "website": "https://swisssportscardscollector.ch/",
+   "buylist_url": "https://swisssportscardscollector.ch/kontakt/kartenankauf/",
+   "checked_at": "2026-10-16T03:41:05Z"
+  },
+  {
+   "name": "The Uncommon Shop - Frauenfeld",
+   "group": "quote_only",
+   "city": "Romanshorn",
+   "region": "Thurgau",
+   "address": "17 Hungerbüelstrasse, Frauenfeld, Thurgau, 8500, Switzerland",
+   "phone": "+41763477698",
+   "website": "https://theuncommonshop.ch",
+   "buylist_url": "https://theuncommonshop.ch/en/sell-tickets/",
+   "mail_in": true,
+   "credit_bonus": "Store credit up to +10% more",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:05Z"
+  },
+  {
+   "name": "Zadoys Hobby & Card Store",
+   "group": "quote_only",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Im Surinam 55E, Basel, Basel-Stadt, 4058, Switzerland",
+   "phone": "+410786598233",
+   "website": "https://zadoys.ch/",
+   "buylist_url": "https://zadoys.ch/pages/kartenankauf",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:34Z"
+  },
+  {
+   "name": "Bider & Tanner AG",
+   "group": "blocked",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Aeschenvorstadt 2, 4051 Basel",
+   "phone": "061 206 99 99",
+   "website": "https://www.biderundtanner.ch/",
+   "checked_at": "2026-10-16T03:42:12Z"
+  },
+  {
+   "name": "Fourtwenty Trendshop",
+   "group": "blocked",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Kramgasse 3, 3011 Bern",
+   "phone": "031 311 40 18",
+   "website": "https://fourtwenty.ch/de/headshop.html",
+   "checked_at": "2026-10-16T03:42:40Z"
+  },
+  {
+   "name": "HIGH CREEK LAUSANNE",
+   "group": "blocked",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Chem. du Closelet 6, 1006 Lausanne",
+   "phone": "021 601 75 92",
+   "website": "https://www.high-creek.ch/",
+   "checked_at": "2026-10-16T03:44:00Z"
+  },
+  {
+   "name": "King Jouet Charmilles",
+   "group": "blocked",
+   "city": "Genève",
+   "region": "GE",
+   "address": "C.C Planète Charmilles, 1200 Genève",
+   "phone": "022 345 38 50",
+   "website": "https://www.king-jouet.ch/magasins/SUISSE/magasin-GENEVE-0993.htm",
+   "checked_at": "2026-10-16T03:42:01Z"
+  },
+  {
+   "name": "Orell Füssli Zürich Kramhof",
+   "group": "blocked",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Füsslistrasse 4, 8022 Zürich",
+   "phone": "0848 849 848",
+   "website": "https://www.orellfuessli.ch/buchhandlung/1026?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=z%C3%BCrich",
+   "checked_at": "2026-10-16T03:40:57Z"
+  },
+  {
+   "name": "Photo Vision",
+   "group": "blocked",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Pichard 11, 1003 Lausanne",
+   "phone": "021 310 20 40",
+   "website": "https://foto-zumstein.ch/fr/?ref=photovision.ch",
+   "checked_at": "2026-10-16T03:44:03Z"
+  },
+  {
+   "name": "TCG-Schweiz",
+   "group": "blocked",
+   "city": "Wil",
+   "region": "SG",
+   "address": "Toggenburgerstrasse 156, 9500 Wil",
+   "website": "https://tcg-schweiz.ch/",
+   "checked_at": "2026-10-16T03:40:50Z"
+  },
+  {
+   "name": "Trainerzentrale",
+   "group": "blocked",
+   "address": "Landstrasse 37, Schaan, Schaan, 9494, Liechtenstein",
+   "phone": "+42341788960826",
+   "website": "https://trainer-zentrale.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:37Z"
+  },
+  {
+   "name": "War-tavern",
+   "group": "blocked",
+   "city": "Lausanne",
+   "region": "Vaud",
+   "address": "2B Rue du Grand-Pont, Lausanne, VD, 1003, Switzerland",
+   "phone": "+41215534544",
+   "website": "https://wartavern.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:08Z"
+  },
+  {
+   "name": "Amazingtoys.ch – Pokémon & Trading Card Game Shop",
+   "group": "in_store",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Zweierstrasse 123, 8003 Zürich",
+   "phone": "043 333 22 02",
+   "website": "https://amazingtoys.ch/",
+   "buylist_url": "https://amazingtoys.ch/Ankauf/Pokemon-Karten-verkaufen/",
+   "checked_at": "2026-10-16T03:40:48Z"
+  },
+  {
+   "name": "ANIMSHOP",
+   "group": "in_store",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Kalanderpl. 1, 8045 Zürich",
+   "phone": "044 281 08 88",
+   "checked_at": "2026-10-16T03:41:03Z"
+  },
+  {
+   "name": "Art & Cadeaux Tabacs & Cigares",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Av. Frédéric-César-de-la-Harpe 21, 1007 Lausanne",
+   "phone": "021 601 37 51",
+   "checked_at": "2026-10-16T03:43:26Z"
+  },
+  {
+   "name": "Authentic Pokémon Collectibles",
+   "group": "in_store",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Marktgasse 50, 3011 Bern",
+   "checked_at": "2026-10-16T03:42:23Z"
+  },
+  {
+   "name": "Beer O'Clock Biel/Bienne",
+   "group": "in_store",
+   "city": "Biel",
+   "region": "Bern",
+   "address": "Marktgasse 29, 2502 Biel, Switzerland, Biel, Bern, 2502",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:43Z"
+  },
+  {
+   "name": "Cash'n Go - Lausanne",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue de l'Ale 30, 1003 Lausanne",
+   "phone": "021 311 66 33",
+   "website": "https://www.cashngo.ch/",
+   "buylist_url": "http://www.cashngo.ch/",
+   "checked_at": "2026-10-16T03:43:38Z"
+  },
+  {
+   "name": "Clerc Timbre Poste SA",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue de la Louve 1, 1003 Lausanne",
+   "phone": "079 279 90 10",
+   "checked_at": "2026-10-16T03:43:28Z"
+  },
+  {
+   "name": "Collectomat GmbH",
+   "group": "in_store",
+   "city": "Wangen",
+   "region": "SZ",
+   "address": "Hämmerli 6, 8855 Wangen",
+   "checked_at": "2026-10-16T03:43:30Z"
+  },
+  {
+   "name": "DNA Collectibles",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Galeries, Av. Benjamin-Constant 1, 1003 Lausanne",
+   "checked_at": "2026-10-16T03:43:18Z"
+  },
+  {
+   "name": "Freakatoriums Shop",
+   "group": "in_store",
+   "city": "Emmen",
+   "region": "Kanton Luzern",
+   "address": "Buchenstrasse 4, 6020 Emmen, Switzerland, Emmen, Kanton Luzern, 6020",
+   "phone": "0041 41 260 1234",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:41Z"
+  },
+  {
+   "name": "Historica-Tabletop",
+   "group": "in_store",
+   "address": "Teufener Straße 12, St. Gallen, SG, 9000, Switzerland",
+   "phone": "4177 489 0343",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:22Z"
+  },
+  {
+   "name": "Lea & Leo Pop-up Store",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Pl. Saint-François 5, 1003 Lausanne",
+   "phone": "021 312 94 12",
+   "checked_at": "2026-10-16T03:44:08Z"
+  },
+  {
+   "name": "LS-TCG",
+   "group": "in_store",
+   "city": "Dierikon",
+   "region": "Luzern",
+   "address": "Rigistrasse 5, 6036 Dierikon, Switzerland, Dierikon, Luzern, 6036",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:46Z"
+  },
+  {
+   "name": "MCV",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Chem. des Sauges 10, 1018 Lausanne",
+   "phone": "078 652 27 29",
+   "checked_at": "2026-10-16T03:43:34Z"
+  },
+  {
+   "name": "Mix-Image Lausanne",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Petit-Saint-Jean 3, 1003 Lausanne",
+   "phone": "021 351 17 21",
+   "website": "https://mix-image.ch/",
+   "buylist_url": "https://mix-image.ch/rachat-revente-cartes/",
+   "credit_bonus": "Paid as in-store gift voucher only",
+   "checked_at": "2026-10-16T03:42:57Z"
+  },
+  {
+   "name": "oliviergillieron",
+   "group": "in_store",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue Pédro-Meylan 5, 1208 Genève",
+   "phone": "076 304 47 01",
+   "checked_at": "2026-10-16T03:41:44Z"
+  },
+  {
+   "name": "One Peice Cards",
+   "group": "in_store",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue de Lausanne 45, 1201 Genève",
+   "phone": "(450) 440-9993",
+   "checked_at": "2026-10-16T03:41:39Z"
+  },
+  {
+   "name": "One Peice Game Cards",
+   "group": "in_store",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Badenerstrasse 154, 8004 Zürich",
+   "checked_at": "2026-10-16T03:40:58Z"
+  },
+  {
+   "name": "SaltyCards Schleswig",
+   "group": "in_store",
+   "city": "Rheinfelden",
+   "region": "Aargau",
+   "address": "Stadtweg 8, 4310 Rheinfelden, Switzerland, Rheinfelden, Aargau, 4310",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:46Z"
+  },
+  {
+   "name": "SOFTRIDGE Central",
+   "group": "in_store",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "44 Weinbergstrasse, Zürich, ZH, 8006, Switzerland",
+   "phone": "+41414100150",
+   "website": "https://www.softridge.ch",
+   "buylist_url": "https://www.softridge.ch/de/service/trade-in",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "Spiel Chräisel",
+   "group": "in_store",
+   "city": "North Vancouver",
+   "region": "BC",
+   "address": "55 Gotthardstrasse, Altdorf, UR, 6460, Switzerland",
+   "phone": "+4141 871 12 23",
+   "website": "https://www.facebook.com/Chraeisel/?locale=de_DE",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:15Z"
+  },
+  {
+   "name": "Swiss Grading",
+   "group": "in_store",
+   "city": "Vernier",
+   "region": "GE",
+   "address": "Rte de Vernier 219, 1214 Vernier",
+   "phone": "078 611 93 29",
+   "checked_at": "2026-10-16T03:41:59Z"
+  },
+  {
+   "name": "Vibe Shop",
+   "group": "in_store",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Av. Louis-Ruchonnet 4, 1003 Lausanne",
+   "checked_at": "2026-10-16T03:43:48Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "in_store",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Warhammer Geneva Centre Charmilles, Prom. de l'Europe 11, 1203 Genève",
+   "phone": "022 345 33 33",
+   "checked_at": "2026-10-16T03:42:05Z"
+  },
+  {
+   "name": "Zwergenschmiede",
+   "group": "in_store",
+   "city": "Bern",
+   "region": "BE",
+   "address": "4 Seilerstrasse, Bern, BE, 3011, Switzerland",
+   "phone": "+41313813839",
+   "website": "https://www.zwergenschmiede.ch",
+   "buylist_url": "https://www.zwergenschmiede.ch/service/konditionen-magic/",
+   "mail_in": false,
+   "credit_bonus": "Storecredit 75% vs 65% cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:27Z"
+  },
+  {
+   "name": "400 Coups",
+   "group": "unknown",
+   "city": "Chavannes-près-Renens",
+   "region": "VD",
+   "address": "Av. de la Gare 6, 1022 Chavannes-près-Renens",
+   "phone": "021 636 08 50",
+   "website": "https://www.400coups.ch/",
+   "buylist_url": "https://www.400coups.ch/occasions-fr.html",
+   "checked_at": "2026-10-16T03:43:31Z"
+  },
+  {
+   "name": "Akihara AkiCafé",
+   "group": "unknown",
+   "address": "Tössfledstrasse 67B, Winterthur, Zürich, 8406, Switzerland",
+   "phone": "+41787046393",
+   "website": "https://akihara.ch/cafe",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "Amsler toys Zurich",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Sihlcity, Kalanderpl. 1, 8045 Zürich",
+   "phone": "043 243 05 60",
+   "website": "https://shop.amsler-spielwaren.ch/",
+   "checked_at": "2026-10-16T03:41:22Z"
+  },
+  {
+   "name": "Analph Comic Shop",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Strassburgstrasse 10, 8004 Zürich",
+   "phone": "044 241 96 95",
+   "website": "https://analph.ch/",
+   "checked_at": "2026-10-16T03:40:51Z"
+  },
+  {
+   "name": "ANIEISKI Letterpress Karten Automat Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Brunnhofweg 36, 3007 Bern",
+   "website": "https://rosietheprinter.ch/#kartenautomat",
+   "checked_at": "2026-10-16T03:42:40Z"
+  },
+  {
+   "name": "Animeverse Basel",
+   "group": "unknown",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Rosentalstrasse 26, 4058 Basel",
+   "phone": "079 549 43 49",
+   "website": "https://animeverse-basel.ch/",
+   "checked_at": "2026-10-16T03:42:06Z"
+  },
+  {
+   "name": "ARCBLEU",
+   "group": "unknown",
+   "address": "49 Route de Meyrin, Genève, Geneve, 1203, Switzerland",
+   "phone": "+41795711029",
+   "website": "https://www.arcbleu.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:44Z"
+  },
+  {
+   "name": "ART Computer S.A.",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Place des Pionnières 1, 1003 Lausanne",
+   "phone": "0848 278 278",
+   "website": "https://www.artcomputer.ch/",
+   "buylist_url": "https://www.artcomputer.ch/b2c_fr/trade-in",
+   "checked_at": "2026-10-16T03:43:48Z"
+  },
+  {
+   "name": "Au Paradis du Jeu",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Midi 10, 1003 Lausanne",
+   "phone": "021 351 03 03",
+   "website": "https://auparadisdujeu.ch/",
+   "checked_at": "2026-10-16T03:42:57Z"
+  },
+  {
+   "name": "Authentic Collectibles",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue du Rhône 20, 1204, 1201 Genève",
+   "phone": "(236) 418-7388",
+   "website": "https://t.me/authentic_collectble",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-16T03:41:37Z"
+  },
+  {
+   "name": "Baka Store",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Tramstrasse 17, Zürich, Zürich, 8050, Switzerland",
+   "phone": "+41793341416",
+   "website": "https://bakastore.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "Baroque et Rococo Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Saint-François 5-7, 1003 Lausanne",
+   "phone": "022 367 14 13",
+   "website": "https://www.baroque-rococo.ch/",
+   "checked_at": "2026-10-16T03:43:58Z"
+  },
+  {
+   "name": "Bastelzentrum Crea AG",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Bubenbergpl. 11, 3011 Bern",
+   "phone": "031 311 06 63",
+   "website": "https://baz-bern.ch/",
+   "checked_at": "2026-10-16T03:42:43Z"
+  },
+  {
+   "name": "Bazar Ouchy. Souvenirs suisses, depuis 1902",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Av. d'Ouchy 76, 1006 Lausanne",
+   "phone": "021 616 23 77",
+   "website": "https://www.bazarouchy.com/",
+   "checked_at": "2026-10-16T03:43:25Z"
+  },
+  {
+   "name": "BDFancomics – Cartes Pokémon & TCG, Manga et Comics à Nyon",
+   "group": "unknown",
+   "city": "Nyon",
+   "region": "VD",
+   "address": "Chem. de la Fontaine 2, 1260 Nyon",
+   "phone": "076 335 29 00",
+   "website": "https://www.bdfancomics.ch/",
+   "checked_at": "2026-10-16T03:43:13Z"
+  },
+  {
+   "name": "Belphégor",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Bd de Grancy 10, 1006 Lausanne",
+   "phone": "021 616 95 93",
+   "website": "https://www.belphegor.ch/",
+   "checked_at": "2026-10-16T03:43:25Z"
+  },
+  {
+   "name": "BOUTIQUE LE PIED",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue de la Louve 12, 1003 Lausanne",
+   "phone": "021 311 97 18",
+   "website": "https://www.boutique-lepied-lausanne.ch/",
+   "checked_at": "2026-10-16T03:43:45Z"
+  },
+  {
+   "name": "Buchhandlung Weyermann vitabuch.ch",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Herrengasse 30, 3011 Bern",
+   "phone": "031 311 59 59",
+   "website": "https://www.vitabuch.ch/",
+   "checked_at": "2026-10-16T03:42:46Z"
+  },
+  {
+   "name": "Cachet Lausanne - Dekoration, Möbel und Kleidung",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Pl. Saint-François 11, 1003 Lausanne",
+   "phone": "021 311 41 20",
+   "website": "https://cachet.ch/",
+   "checked_at": "2026-10-16T03:44:00Z"
+  },
+  {
+   "name": "Calanda Magic",
+   "group": "unknown",
+   "city": "Chur",
+   "region": "Graubünden",
+   "address": "Grabenstrasse 36, 7000 Chur, Switzerland, Chur, Graubünden, 7000",
+   "phone": "+41 81 525 70 57",
+   "website": "https://calandamagic.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:42Z"
+  },
+  {
+   "name": "CARAB",
+   "group": "unknown",
+   "city": "Luzern",
+   "region": "Luzern",
+   "address": "31 Zürichstrasse, Luzern, LU, 6004, Switzerland",
+   "phone": "1X",
+   "website": "https://www.carab.ch",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:07Z"
+  },
+  {
+   "name": "Card Council AG",
+   "group": "unknown",
+   "city": "Riggisberg",
+   "region": "BE",
+   "address": "Taangässli 2, 3132 Riggisberg",
+   "website": "http://www.cardcouncil.ch/",
+   "checked_at": "2026-10-16T03:42:23Z"
+  },
+  {
+   "name": "Card Lounge",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue de la Tour 2, Genève, Genève, 1205, Switzerland",
+   "phone": "+41223288000",
+   "website": "https://www.cardlounge.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:43Z"
+  },
+  {
+   "name": "Card'Em All",
+   "group": "unknown",
+   "city": "Lutry",
+   "region": "VD",
+   "address": "Rte de Taillepied 38, 1095 Lutry",
+   "website": "https://www.cardemall.ch/",
+   "checked_at": "2026-10-16T03:43:12Z"
+  },
+  {
+   "name": "Cardcollectors Store",
+   "group": "unknown",
+   "city": "Wädenswil",
+   "region": "ZH",
+   "address": "2 Florhofstrasse, Wädenswil, ZH, 8820, Switzerland",
+   "phone": "+41797557905",
+   "website": "https://cardcollectors.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:05Z"
+  },
+  {
+   "name": "Cardmaniac",
+   "group": "unknown",
+   "city": "Buchs",
+   "region": "AG",
+   "address": "Mitteldorfstrasse 35, Buchs, Aargau, 5033, Switzerland",
+   "phone": "+41774586991",
+   "website": "https://cardmaniac.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:05Z"
+  },
+  {
+   "name": "Cards & Dice",
+   "group": "unknown",
+   "city": "St. Gallen",
+   "region": "SG",
+   "address": "12 Oberer Graben, St. Gallen, SG, 9001, Switzerland",
+   "phone": "+41712231010",
+   "website": "https://cardsdice.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:22Z"
+  },
+  {
+   "name": "Cardspot.ch – Pokémon Karten & Zubehör",
+   "group": "unknown",
+   "city": "Glarus",
+   "region": "GL",
+   "address": "Neubauquartier 9, 8755 Ennenda",
+   "phone": "076 339 87 55",
+   "website": "https://cardspot.ch/",
+   "checked_at": "2026-10-16T03:41:07Z"
+  },
+  {
+   "name": "CastleGames",
+   "group": "unknown",
+   "city": "Oberburg",
+   "region": "BE",
+   "address": "36 Emmentalstrasse, Oberburg, BE, 3414, Switzerland",
+   "phone": "+41796133400",
+   "website": "https://castlegames.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:21Z"
+  },
+  {
+   "name": "CH-ARMEE-SHOP, Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Papiermühlestrasse 28A, 3014 Bern",
+   "phone": "031 312 12 66",
+   "website": "https://www.armeeshop.ch/de/",
+   "checked_at": "2026-10-16T03:42:54Z"
+  },
+  {
+   "name": "Changemaker",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Marktgasse 10, 8001 Zürich",
+   "phone": "044 251 21 20",
+   "website": "https://www.changemaker.ch/",
+   "checked_at": "2026-10-16T03:40:58Z"
+  },
+  {
+   "name": "CharacterStation Genève",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue Claudine-Levet 1, 1201 Genève",
+   "phone": "022 731 17 33",
+   "website": "https://www.characterstation.com/eshop/fr/",
+   "checked_at": "2026-10-16T03:41:33Z"
+  },
+  {
+   "name": "CHAT NOIR AG",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Marktgasse 53, 3011 Bern",
+   "phone": "031 311 81 85",
+   "website": "https://www.chat-noir.ch/",
+   "checked_at": "2026-10-16T03:42:40Z"
+  },
+  {
+   "name": "ChickenRoad Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Ensingerstrasse 44, 3006 Bern",
+   "phone": "01521 3265980",
+   "website": "https://gillestschudi.ch/",
+   "checked_at": "2026-10-16T03:42:34Z"
+  },
+  {
+   "name": "Coach and Play AG",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Coach and Play AG, Nüschelerstrasse 45, 8001 Zürich",
+   "phone": "044 227 14 14",
+   "website": "https://coachandplay.ch/",
+   "checked_at": "2026-10-16T03:41:29Z"
+  },
+  {
+   "name": "Coin-op / 400coups / geekme",
+   "group": "unknown",
+   "city": "Chavannes-près-Renens",
+   "region": "VD",
+   "address": "Av. de la Gare 6, 1022 Chavannes-près-Renens",
+   "phone": "021 636 08 50",
+   "website": "https://www.coin-op.ch/",
+   "checked_at": "2026-10-16T03:43:21Z"
+  },
+  {
+   "name": "collectables",
+   "group": "unknown",
+   "city": "Hünenberg",
+   "region": "ZG",
+   "address": "Chamerstrasse 42a, 6331 Hünenberg",
+   "phone": "079 671 43 49",
+   "website": "https://collectables.ch/",
+   "checked_at": "2026-10-16T03:42:34Z"
+  },
+  {
+   "name": "Collecting Cloud",
+   "group": "unknown",
+   "city": "Hindelbank",
+   "region": "BE",
+   "address": "Juraweg 1H, 3324 Hindelbank",
+   "phone": "076 277 35 16",
+   "website": "https://collecting.cloud/",
+   "checked_at": "2026-10-16T03:42:17Z"
+  },
+  {
+   "name": "Comics-Shop Keller",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Froschaugasse 7, 8001 Zürich",
+   "phone": "044 253 22 22",
+   "website": "https://www.comics-shop.ch/",
+   "checked_at": "2026-10-16T03:41:30Z"
+  },
+  {
+   "name": "Comix shop / Comix AG",
+   "group": "unknown",
+   "city": "Basel",
+   "region": "BS",
+   "address": "direkt unter dem Tinguely-Brunnen, Theaterstrasse 7, 4051 Basel",
+   "phone": "061 271 66 86",
+   "website": "https://www.comix-shop.ch/Plugins/FoxNetSoft.IPFilter/AccessDenied.html",
+   "checked_at": "2026-10-16T03:42:08Z"
+  },
+  {
+   "name": "Como Collectibles",
+   "group": "unknown",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Feldbergstrasse 46, 4057 Basel",
+   "phone": "061 711 88 11",
+   "website": "https://como-collectibles.com/",
+   "checked_at": "2026-10-16T03:42:10Z"
+  },
+  {
+   "name": "Curiosity Store Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Grand-Chêne 8, 1003 Lausanne",
+   "phone": "021 311 30 96",
+   "website": "https://www.curiosity-store.ch/",
+   "checked_at": "2026-10-16T03:43:18Z"
+  },
+  {
+   "name": "Double Trouble Cards Store",
+   "group": "unknown",
+   "city": "Wädenswil",
+   "region": "ZH",
+   "address": "Zugerstrasse 50c, 8820 Wädenswil",
+   "phone": "076 537 88 20",
+   "website": "https://doubletroublecards.com/",
+   "checked_at": "2026-10-16T03:41:01Z"
+  },
+  {
+   "name": "Drachearena",
+   "group": "unknown",
+   "address": "Passage 2, Oberwil, BL, 4104, Switzerland",
+   "phone": "+41614014444",
+   "website": "https://www.drachearena.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:37Z"
+  },
+  {
+   "name": "Draft Arena",
+   "group": "unknown",
+   "city": "Yverdon-les-Bains",
+   "region": "Vaud",
+   "address": "Rue des Champs-Lovats 7, Yverdon-les-Bains, Vaud, 1400, Switzerland",
+   "phone": "+41788822575",
+   "website": "https://www.draftarena.ch",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:33Z"
+  },
+  {
+   "name": "DuBischDra",
+   "group": "unknown",
+   "address": "Bahnhofstrasse 57, Dübendorf, Zürich, 8600, Switzerland",
+   "phone": "+41435081010",
+   "website": "https://www.wellplayed.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "DuBischDra / Wellplayed",
+   "group": "unknown",
+   "city": "Dübendorf",
+   "region": "Zürich",
+   "address": "Bahnhofstrasse 57, 8600 Dübendorf, Switzerland, Dübendorf, Zürich, 8600",
+   "phone": "+41797805604",
+   "website": "https://dubischdra.ch/de",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:34Z"
+  },
+  {
+   "name": "edujeu.ch",
+   "group": "unknown",
+   "city": "Prilly",
+   "region": "VD",
+   "address": "Rte de Broye 10, 1008 Prilly",
+   "phone": "078 201 25 24",
+   "website": "https://edujeu.ch/",
+   "checked_at": "2026-10-16T03:43:12Z"
+  },
+  {
+   "name": "Erupt Lounge Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "Bern",
+   "address": "Parkterrasse 14, 3012 Bern, Switzerland, Bern, Bern, 3012",
+   "phone": "+41313121222",
+   "website": "https://bern.erupt.ch/de",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:46Z"
+  },
+  {
+   "name": "Faust Trading",
+   "group": "unknown",
+   "city": "Burgdorf",
+   "region": "BE",
+   "address": "Kirchbergstrasse 105, 3400 Burgdorf",
+   "phone": "076 202 04 06",
+   "website": "https://pokefaust.com/",
+   "checked_at": "2026-10-16T03:42:17Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Pl. de la Gare 5A, 1003 Lausanne",
+   "phone": "022 545 51 57",
+   "website": "https://flyingtiger.com/",
+   "checked_at": "2026-10-16T03:43:30Z"
+  },
+  {
+   "name": "Fontis-Buchhandlung Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Zeughausgasse 35, 3011 Bern",
+   "phone": "031 311 04 21",
+   "website": "https://www.fontis-shop.ch/pages/filiale/buchhandlung-bern",
+   "checked_at": "2026-10-16T03:42:49Z"
+  },
+  {
+   "name": "Fox Arts Comics",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Oleanderstrasse 8, 8050 Zürich",
+   "phone": "079 720 83 90",
+   "website": "https://foxartscomics.ch/",
+   "checked_at": "2026-10-16T03:41:30Z"
+  },
+  {
+   "name": "FREITAG Store Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Neuve 6, 1003 Lausanne",
+   "phone": "021 311 20 80",
+   "website": "https://freitag.ch/en_CA",
+   "checked_at": "2026-10-16T03:43:47Z"
+  },
+  {
+   "name": "Fust Lausanne Central",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "place Centrale 1, 1003 Lausanne",
+   "phone": "021 321 19 90",
+   "website": "https://www.fust.ch/",
+   "checked_at": "2026-10-16T03:44:08Z"
+  },
+  {
+   "name": "GameGalaxy GmbH",
+   "group": "unknown",
+   "city": "Mägenwil",
+   "region": "Aargau",
+   "address": "Hintermättlistrasse 9, 5506 Mägenwil, Switzerland, Mägenwil, Aargau, 5506",
+   "phone": "+41 56 536 89 38",
+   "website": "https://gamegalaxy.ch/",
+   "buylist_url": "https://gamegalaxy.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:38Z"
+  },
+  {
+   "name": "Games Sanctuary",
+   "group": "unknown",
+   "city": "Vernier",
+   "region": "GE",
+   "address": "Rte de Vernier 98, 1219 Vernier",
+   "phone": "022 797 24 77",
+   "website": "https://www.games-sanctuary.ch/",
+   "checked_at": "2026-10-16T03:41:35Z"
+  },
+  {
+   "name": "GameVoid",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "EG, Laupenstrasse 18, 3008 Bern",
+   "phone": "079 934 28 47",
+   "website": "https://gamevoid.ch/",
+   "checked_at": "2026-10-16T03:42:17Z"
+  },
+  {
+   "name": "Geek-Online TCG & Retrogaming Store",
+   "group": "unknown",
+   "city": "Chavornay",
+   "region": "VD",
+   "address": "Grand'Rue 76, 1373 Chavornay",
+   "phone": "076 563 22 65",
+   "website": "https://geek-online.ch/",
+   "checked_at": "2026-10-16T03:41:39Z"
+  },
+  {
+   "name": "GeekPlace",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Elisa-Serment 9, 1018 Lausanne",
+   "phone": "021 588 00 95",
+   "website": "https://geekplace.shop/",
+   "checked_at": "2026-10-16T03:43:16Z"
+  },
+  {
+   "name": "Gesellschaftsspiele Mirjam Jäggy, Drachehöhli",
+   "group": "unknown",
+   "city": "Oberwil",
+   "region": "BL",
+   "address": "Passage 2, 4104 Oberwil",
+   "phone": "061 401 44 44",
+   "website": "https://xn--drachehhli-kcb.ch/",
+   "checked_at": "2026-10-16T03:42:12Z"
+  },
+  {
+   "name": "Glambou im Globus Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Pont 5, 1003 Lausanne",
+   "website": "https://glambou.ch/",
+   "checked_at": "2026-10-16T03:44:04Z"
+  },
+  {
+   "name": "Gleis 9 3/4",
+   "group": "unknown",
+   "city": "Winterthur",
+   "region": "Zürich",
+   "address": "Wartstrasse 3, Winterthur, ZH, 8400, Switzerland",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "GoodGames Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "Bern",
+   "address": "Parkterrasse 14, Bern, BE, 3012, Switzerland",
+   "phone": "+41793893046",
+   "website": "https://www.goodgamesbern.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:25Z"
+  },
+  {
+   "name": "Grisù - the dragon is on the table",
+   "group": "unknown",
+   "city": "Mendrisio",
+   "region": "Ticino",
+   "address": "Via Alfonso Turconi 32, 6850 Mendrisio, Switzerland, Mendrisio, Ticino, 6850",
+   "phone": "+41 77 465 20 31",
+   "website": "https://grisu.online/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:44Z"
+  },
+  {
+   "name": "hajk Outdoor und Reisebücher",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Speichergasse 31, 3011 Bern",
+   "phone": "031 838 38 38",
+   "website": "https://www.hajk.ch/de/",
+   "checked_at": "2026-10-16T03:42:43Z"
+  },
+  {
+   "name": "Heiligenjass",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Rathausgasse 74, 3011 Bern",
+   "phone": "031 311 20 88",
+   "website": "https://heiligenjass.ch/",
+   "checked_at": "2026-10-16T03:42:55Z"
+  },
+  {
+   "name": "Hervorragend AG",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Länggassstrasse 16, 3012 Bern",
+   "phone": "031 882 01 21",
+   "website": "https://www.hervorragend.ch/",
+   "buylist_url": "https://www.hervorragend.ch/retailer/buylist",
+   "checked_at": "2026-10-16T03:42:55Z"
+  },
+  {
+   "name": "Holzbueb",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Münstergasse 25, 8001 Zürich",
+   "phone": "044 520 99 09",
+   "website": "https://holzbueb.ch/",
+   "checked_at": "2026-10-16T03:41:01Z"
+  },
+  {
+   "name": "HopCash Carouge",
+   "group": "unknown",
+   "city": "Carouge",
+   "region": "GE",
+   "address": "Rte de Veyrier 32, 1227 Carouge",
+   "phone": "022 820 09 10",
+   "website": "https://hopcash.ch/",
+   "checked_at": "2026-10-16T03:42:04Z"
+  },
+  {
+   "name": "House of Cards",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "Bern",
+   "address": "Landhausweg 13, Bern, BE, 3007, Switzerland",
+   "phone": "+4131 372 17 17",
+   "website": "https://houseofcards.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:28Z"
+  },
+  {
+   "name": "Ikigai Manga Tcg Shop",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue des Pâquis 4B, 1201 Genève",
+   "phone": "022 901 19 60",
+   "website": "https://webshop.ikigai-manga.shop/",
+   "checked_at": "2026-10-16T03:41:59Z"
+  },
+  {
+   "name": "Interdiscount Lausanne rue Saint-Laurent",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Saint-Laurent 24/30, 1003 Lausanne",
+   "phone": "021 329 13 61",
+   "website": "https://www.interdiscount.ch/fr/storefinder/3106-lausanne-au-centre",
+   "checked_at": "2026-10-16T03:43:53Z"
+  },
+  {
+   "name": "Jeeg manga anime",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Grüngasse 9, 8004 Zürich",
+   "phone": "044 557 50 19",
+   "website": "https://jeeg.ch/",
+   "buylist_url": "https://jeeg.ch/retailer/buylist",
+   "checked_at": "2026-10-16T03:41:18Z"
+  },
+  {
+   "name": "Jeux Capospin Switzerland",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Werdgässchen 23, 8004 Zürich",
+   "phone": "090 210 1632",
+   "website": "https://capospin.ch/",
+   "checked_at": "2026-10-16T03:41:28Z"
+  },
+  {
+   "name": "Jouets Boller",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Bd Georges-Favon 11, 1204 Genève",
+   "phone": "022 311 45 76",
+   "website": "https://www.jouetsboller.ch/",
+   "checked_at": "2026-10-16T03:42:06Z"
+  },
+  {
+   "name": "Jouets Davidson",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Grand-Saint-Jean 20, 1003 Lausanne",
+   "phone": "021 323 25 22",
+   "website": "https://www.jouetsdavidson.ch/",
+   "checked_at": "2026-10-16T03:43:05Z"
+  },
+  {
+   "name": "KABOOOM Entertainment GmbH",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "Zürich",
+   "address": "Dienerstr. 36, Zurich, ., 8004, Switzerland",
+   "phone": "044 240 02 15",
+   "website": "https://shop.kabooom.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "KLG The Sleeping Giant",
+   "group": "unknown",
+   "address": "Maienstrasse 1, Olten, SO, 4600, Switzerland",
+   "phone": "1X",
+   "website": "https://www.themagicgiants.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:12Z"
+  },
+  {
+   "name": "Korner Cash",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue de l'Ale 28, 1003 Lausanne",
+   "phone": "021 625 69 96",
+   "website": "https://kornercash.ch/",
+   "checked_at": "2026-10-16T03:42:58Z"
+  },
+  {
+   "name": "Kramer-Krieg SA",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Centrale 10, 1003 Lausanne",
+   "phone": "021 989 89 89",
+   "website": "https://www.kramerkrieg.ch/",
+   "checked_at": "2026-10-16T03:43:37Z"
+  },
+  {
+   "name": "Kyzuna Sàrl",
+   "group": "unknown",
+   "address": "Grand-Rue 21, Orbe, Vaud, 1350, Switzerland",
+   "phone": "+41787526919",
+   "website": "https://www.kyzuna.store",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:13Z"
+  },
+  {
+   "name": "L'Arène de Duel",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue de la Muse 6, 1205 Genève, Switzerland, Genève, Genève, 1205",
+   "phone": "+41 77 490 81 73",
+   "website": "https://arene-duel.com",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:43Z"
+  },
+  {
+   "name": "L'Astuce Jeux",
+   "group": "unknown",
+   "city": "Carouge",
+   "region": "GE",
+   "address": "Pl. du Temple 2, 1227 Carouge",
+   "phone": "022 342 50 50",
+   "website": "https://www.astuce.ch/",
+   "checked_at": "2026-10-16T03:41:59Z"
+  },
+  {
+   "name": "L'Oasis",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue de Montbrillant 20, 1201 Genève, Switzerland, Genève, Genève, 1201",
+   "phone": "+41 78 664 88 90",
+   "website": "https://www.loasisbar.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:43Z"
+  },
+  {
+   "name": "L'épée à 2 nains",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue des Corps-Saints 3, Genève, GE, 1201, Switzerland",
+   "phone": "+41225577622",
+   "website": "https://2nains.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:41Z"
+  },
+  {
+   "name": "La Guilde",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "26 Rue Dr César-Roux, Lausanne, VD, 1005, Switzerland",
+   "phone": "+41213117322",
+   "website": "https://www.la-guilde.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:11Z"
+  },
+  {
+   "name": "La Louve - Friperie Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue de la Louve 3, 1003 Lausanne",
+   "website": "https://la-louve-lsn.ch/",
+   "checked_at": "2026-10-16T03:43:51Z"
+  },
+  {
+   "name": "Le Brise Glace",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue des Pâquis 4, 1201 Genève, Switzerland, Genève, Genève, 1201",
+   "phone": "+41 79 907 47 86",
+   "website": "https://www.briseglace.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:37Z"
+  },
+  {
+   "name": "Le Maître de Jeux",
+   "group": "unknown",
+   "city": "Sion",
+   "region": "Valais",
+   "address": "Rue du Scex 49C, 1950 Sion, Switzerland, Sion, Valais, 1950",
+   "phone": "+41 27 322 16 04",
+   "website": "https://shop.lemaitredejeux.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:37Z"
+  },
+  {
+   "name": "LE PETIT CHAT NOIR",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Theaterpl. 4, 3011 Bern",
+   "phone": "031 311 81 86",
+   "website": "https://lepetitchatnoir.ch/",
+   "checked_at": "2026-10-16T03:42:37Z"
+  },
+  {
+   "name": "Les Hauts Plateaux",
+   "group": "unknown",
+   "city": "Bulle",
+   "region": "Fribourg",
+   "address": "43 Chem. de Folliéran, Bulle, FR, 1630, Switzerland",
+   "phone": "+41265085805",
+   "website": "https://www.leshautsplateaux.ch",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:29Z"
+  },
+  {
+   "name": "Lisa Voisard illustration",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Midi 2, 1003 Lausanne",
+   "phone": "076 404 08 25",
+   "website": "https://www.lisavoisard.ch/",
+   "checked_at": "2026-10-16T03:44:04Z"
+  },
+  {
+   "name": "Loehrer&Co AG 'Spielbrett'",
+   "group": "unknown",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Andreaspl. 12, 4051 Basel",
+   "phone": "061 261 97 41",
+   "website": "https://www.spielbrett.ch/",
+   "checked_at": "2026-10-16T03:42:12Z"
+  },
+  {
+   "name": "LOLIPOP Lausanne Rue Saint-François",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Saint-François 6, 1003 Lausanne",
+   "phone": "031 523 79 90",
+   "website": "https://www.lolipop.ch/",
+   "checked_at": "2026-10-16T03:44:04Z"
+  },
+  {
+   "name": "LootAndGo TCG",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue du Mont-Blanc 18, 1201 Genève",
+   "phone": "076 451 00 06",
+   "website": "https://lootandgo.ch/",
+   "checked_at": "2026-10-16T03:41:34Z"
+  },
+  {
+   "name": "magictrade.ch",
+   "group": "unknown",
+   "city": "Wädenswil",
+   "region": "ZH",
+   "address": "Einsiedlerstrasse 25, 8820 Wädenswil",
+   "phone": "044 780 26 82",
+   "website": "https://magictrade.ch/shop/",
+   "checked_at": "2026-10-16T03:41:07Z"
+  },
+  {
+   "name": "MANOR Zürich HB",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Museumstrasse, Löwenstrasse, 8001 Zürich",
+   "phone": "044 229 56 87",
+   "website": "https://www.manor.ch/de/store-finder/store/zcs",
+   "checked_at": "2026-10-16T03:41:22Z"
+  },
+  {
+   "name": "MaRo Games",
+   "group": "unknown",
+   "city": "Birsfelden",
+   "region": "Basel-Landschaft",
+   "address": "Hauptstrasse 11, Birsfelden, BS, 4127 , Switzerland",
+   "phone": "1X",
+   "website": "https://maro-games.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:27Z"
+  },
+  {
+   "name": "Maxi Bazar",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Av. Benjamin-Constant 1, 1003 Lausanne",
+   "phone": "021 312 23 51",
+   "website": "https://maxibazar.ch/lausanne.html",
+   "checked_at": "2026-10-16T03:43:57Z"
+  },
+  {
+   "name": "MetaGames",
+   "group": "unknown",
+   "city": "Herisau",
+   "region": "AR",
+   "address": "97 Gossauerstrasse, Herisau, Appenzell Ausserrhoden, 9100, Switzerland",
+   "phone": "+41791754842",
+   "website": "https://metagames.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:14Z"
+  },
+  {
+   "name": "Mighty Games",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "Vaud",
+   "address": "43 Rue de Bourg, Lausanne, VD, 1003, Switzerland",
+   "phone": "+41218884340",
+   "website": "https://www.mightygames.ch/fr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:08Z"
+  },
+  {
+   "name": "Mr. Packhouse",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "19 Marktgasse, Bern, Bern, 3011, Switzerland",
+   "phone": "+41788244300",
+   "website": "https://www.mrpackhouse.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:27Z"
+  },
+  {
+   "name": "Müller",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Bahnhofplatz 9, 8001 Zürich",
+   "phone": "044 399 02 06",
+   "website": "https://www.mueller.ch/meine-filiale/",
+   "checked_at": "2026-10-16T03:41:21Z"
+  },
+  {
+   "name": "Nature & Découvertes",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue de la Confédération 7, 1204 Genève",
+   "phone": "022 316 19 90",
+   "website": "https://www.natureetdecouvertes.ch/",
+   "buylist_url": "https://www.natureetdecouvertes.ch/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-16T03:42:05Z"
+  },
+  {
+   "name": "Naxoria",
+   "group": "unknown",
+   "city": "Gossau",
+   "region": "Sankt Gallen",
+   "address": "81 Herisauerstrasse, Gossau, St. Gallen, 9200, Switzerland",
+   "phone": "+41712526333",
+   "website": "https://www.naxoria.ch",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:12Z"
+  },
+  {
+   "name": "neotoys",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Luegislandstrasse 31, 8051 Zürich",
+   "phone": "076 412 89 97",
+   "website": "https://www.neotoys.ch/",
+   "checked_at": "2026-10-16T03:41:27Z"
+  },
+  {
+   "name": "Nuage Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Marterey 74, 1005 Lausanne",
+   "phone": "021 311 48 25",
+   "website": "https://www.nuageconceptstore.ch/",
+   "checked_at": "2026-10-16T03:43:43Z"
+  },
+  {
+   "name": "Ochsner Sport",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Grand-Pont 1, 1003 Lausanne",
+   "phone": "021 311 34 10",
+   "website": "https://www.ochsnersport.ch/fr-ch/storefinder/lausanne-rue-du-grand-pont-1-osp330",
+   "checked_at": "2026-10-16T03:44:07Z"
+  },
+  {
+   "name": "Papeterie Zumstein AG",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Marktgasse 14, 3011 Bern",
+   "phone": "044 211 77 70",
+   "website": "https://www.zumstein.ch/",
+   "checked_at": "2026-10-16T03:42:41Z"
+  },
+  {
+   "name": "Parazar...",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Petit-Chêne 14, 1003 Lausanne",
+   "phone": "076 803 59 76",
+   "website": "https://parazar-art-fashion.com/",
+   "checked_at": "2026-10-16T03:43:52Z"
+  },
+  {
+   "name": "Particules en Suspension - Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Étraz 2, 1003 Lausanne",
+   "phone": "021 312 62 22",
+   "website": "https://particules.ch/",
+   "checked_at": "2026-10-16T03:43:34Z"
+  },
+  {
+   "name": "Payot Libraire",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Pl. Pépinet 4, 1003 Lausanne",
+   "phone": "021 341 33 31",
+   "website": "https://payot.ch/",
+   "checked_at": "2026-10-16T03:43:41Z"
+  },
+  {
+   "name": "Phenom Gencards",
+   "group": "unknown",
+   "city": "Yverdon-les-Bains",
+   "region": "VD",
+   "address": "Rue du Four 29, 1400 Yverdon-les-Bains",
+   "website": "https://www.phenomgencards.ch/",
+   "checked_at": "2026-10-16T03:43:17Z"
+  },
+  {
+   "name": "Pika Store",
+   "group": "unknown",
+   "city": "La Verrerie",
+   "region": "FR",
+   "address": "Impasse des Charmilles 2, 1624 La Verrerie",
+   "phone": "079 377 60 56",
+   "website": "https://pikastore.ch/",
+   "checked_at": "2026-10-16T03:41:42Z"
+  },
+  {
+   "name": "POK Games",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue de l'Arquebuse 22, 1204 Genève",
+   "phone": "079 136 02 99",
+   "website": "https://pok-games.com/",
+   "checked_at": "2026-10-16T03:41:39Z"
+  },
+  {
+   "name": "Poke Swiss",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Av. Pictet-de-Rochemont 20, 1207 Genève",
+   "phone": "079 923 03 21",
+   "website": "https://poke-swiss.ch/",
+   "checked_at": "2026-10-16T03:41:20Z"
+  },
+  {
+   "name": "Pokecard Store",
+   "group": "unknown",
+   "city": "Rümlang",
+   "region": "Zürich",
+   "address": "Riedmattstrasse 9, 8153 Rümlang, Switzerland, Rümlang, Zürich, 8153",
+   "website": "https://pokecard.store/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:44Z"
+  },
+  {
+   "name": "Pokémonde",
+   "group": "unknown",
+   "city": "Estavayer",
+   "region": "FR",
+   "address": "Rue du Camus 17, 1470 Estavayer-le-Lac",
+   "phone": "079 350 98 48",
+   "website": "https://pokemonde.ch/",
+   "checked_at": "2026-10-16T03:43:26Z"
+  },
+  {
+   "name": "PYLONES - LAUSANNE",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Haldimand 2, 1003 Lausanne",
+   "phone": "021 311 40 20",
+   "website": "https://www.pylones.com/fr/",
+   "checked_at": "2026-10-16T03:43:42Z"
+  },
+  {
+   "name": "Realm of Cards",
+   "group": "unknown",
+   "city": "Oberengstringen",
+   "region": "ZH",
+   "address": "Gartenstrasse 9, 8102 Oberengstringen",
+   "website": "https://realmofcards.ch/",
+   "checked_at": "2026-10-16T03:41:08Z"
+  },
+  {
+   "name": "Red Line TCG Sàrl",
+   "group": "unknown",
+   "city": "Carouge",
+   "region": "Genève",
+   "address": "Rue Roi Victor-Amé 7, Carouge, Geneva, 1227, Switzerland",
+   "phone": "41789168325",
+   "website": "https://www.red-line.shop/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:49Z"
+  },
+  {
+   "name": "Retro Game World",
+   "group": "unknown",
+   "city": "Stettlen",
+   "region": "BE",
+   "address": "Bernstrasse 9, 3066 Stettlen",
+   "website": "http://www.retrogameworld.ch/",
+   "checked_at": "2026-10-16T03:42:32Z"
+  },
+  {
+   "name": "Reymond TCG",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "30 Dolderstrasse, Zürich, Zürich, 8032, Switzerland",
+   "phone": "+41796722601",
+   "website": "https://reymond-tcg.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "Rien ne va plus",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Oberdorfstrasse 34, 8001 Zürich",
+   "phone": "044 261 11 61",
+   "website": "https://www.riennevaplus.ch/",
+   "checked_at": "2026-10-16T03:40:53Z"
+  },
+  {
+   "name": "Rolldorado Switzerland",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rue Cramer 7, 1202 Genève",
+   "phone": "0163 7109985",
+   "website": "https://roll-dorado.ch/",
+   "checked_at": "2026-10-16T03:42:01Z"
+  },
+  {
+   "name": "Royal Bloom Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Marterey 38, 1005 Lausanne",
+   "phone": "021 218 98 49",
+   "website": "https://www.royal-bloom.com/bouquets/p/semaine",
+   "checked_at": "2026-10-16T03:44:05Z"
+  },
+  {
+   "name": "ROYALSEA APP",
+   "group": "unknown",
+   "city": "Pully",
+   "region": "VD",
+   "address": "Av. Charles Ferdinand Ramuz 79, 1009 Pully",
+   "phone": "01521 6129798",
+   "website": "https://royalsea.ch/",
+   "checked_at": "2026-10-16T03:43:32Z"
+  },
+  {
+   "name": "Royalstiger Zurich",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Weizenstrasse 5, 8037 Zürich",
+   "phone": "06 51467067",
+   "website": "https://royalstiger.ch/",
+   "checked_at": "2026-10-16T03:41:25Z"
+  },
+  {
+   "name": "RyuLand",
+   "group": "unknown",
+   "address": "30 Neumarktstrasse, Biel, BE, 2502, Switzerland",
+   "phone": "+41(0)78239290",
+   "website": "https://ryu.land/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:40:19Z"
+  },
+  {
+   "name": "Salt Store Lausanne Pichard",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue A. Pichard 2, 1003 Lausanne",
+   "phone": "0800 700 700",
+   "website": "https://www.salt.ch/en",
+   "checked_at": "2026-10-16T03:44:01Z"
+  },
+  {
+   "name": "Sammelfieber",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Militärstrasse 38, 3014 Bern",
+   "website": "https://sammelfieber.ch/",
+   "checked_at": "2026-10-16T03:42:23Z"
+  },
+  {
+   "name": "Silver Sign - Anime & Print Shop",
+   "group": "unknown",
+   "city": "Basel",
+   "region": "BS",
+   "address": "Kleinhüningerstrasse 139, 4057 Basel",
+   "website": "https://linktr.ee/tk711fashion",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T03:42:12Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Zürich-Dietlikon",
+   "group": "unknown",
+   "city": "Dietlikon",
+   "region": "ZH",
+   "address": "Industriestrasse 29, 8305 Dietlikon",
+   "website": "https://www.smythstoys.com/ch/de-ch/",
+   "checked_at": "2026-10-16T03:41:25Z"
+  },
+  {
+   "name": "Spielkiste Zürich Hauptbahnhof",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Museumstrasse 1, 8001 Zürich",
+   "phone": "044 201 01 21",
+   "website": "https://shop.spielkiste.ch",
+   "checked_at": "2026-10-16T03:41:11Z"
+  },
+  {
+   "name": "Spielstatt GmbH",
+   "group": "unknown",
+   "address": "14 Vordere Vorstadt, Aarau, AG, 5000, Switzerland",
+   "phone": "1062 822 03 02",
+   "website": "https://www.spielstatt.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:06Z"
+  },
+  {
+   "name": "Spielweltenfabrik MTG BL",
+   "group": "unknown",
+   "address": "1 Meyer-Wiggli-Strasse, Liestal, BL, 4410, Switzerland",
+   "phone": "+41793803380",
+   "website": "https://mtgbl.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:18Z"
+  },
+  {
+   "name": "SpinoGambino of the Switzerland",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "Rdpt de Plainpalais 11, 1205 Genève",
+   "phone": "0838-7013-3207",
+   "website": "https://spino-gambino.ch/",
+   "checked_at": "2026-10-16T03:42:01Z"
+  },
+  {
+   "name": "Sports Discount Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Bd de Grancy 2, 1006 Lausanne",
+   "phone": "021 311 00 74",
+   "website": "https://www.sports-discount.net/fr/",
+   "checked_at": "2026-10-16T03:43:48Z"
+  },
+  {
+   "name": "Subarashii Manga Café",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue de Lyon 75/77, 1203 Genève, Switzerland, Genève, Genève, 1203",
+   "phone": "079 456 95 94",
+   "website": "https://www.subarashiimangacafe.ch/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:43Z"
+  },
+  {
+   "name": "Sweetch Lausanne",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue Pichard 11, 1003 Lausanne",
+   "phone": "021 311 48 47",
+   "website": "https://www.sweetch.ch/fr/",
+   "checked_at": "2026-10-16T03:43:53Z"
+  },
+  {
+   "name": "Swiss Trading Cards - Onlineshop Tauschkarten",
+   "group": "unknown",
+   "city": "Winterthur",
+   "region": "ZH",
+   "address": "Sulzerallee 72, 8404 Winterthur",
+   "phone": "079 776 66 39",
+   "website": "https://swisstradingcards.com/de",
+   "checked_at": "2026-10-16T03:41:03Z"
+  },
+  {
+   "name": "Tactica Games GmbH",
+   "group": "unknown",
+   "city": "Dietlikon",
+   "region": "ZH",
+   "address": "Industriestrasse 24, 8305 Dietlikon",
+   "phone": "043 811 41 05",
+   "website": "https://www.tacticagames.ch/",
+   "checked_at": "2026-10-16T03:41:19Z"
+  },
+  {
+   "name": "Tanigami Geneve",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "GE",
+   "address": "14 Rue Rousseau, Genève, Geneve, 1201, Switzerland",
+   "phone": "+41227410333",
+   "website": "https://tanigami.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:41Z"
+  },
+  {
+   "name": "TCG Liga Murten",
+   "group": "unknown",
+   "city": "Trimbach",
+   "region": "SO",
+   "address": "174 Baslerstrasse, Trimbach, SO, 4632, Switzerland",
+   "phone": "4173406168",
+   "website": "https://www.tcgligamurten.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:12Z"
+  },
+  {
+   "name": "TCG Treasure",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Birmensdorferstrasse 467, 8055 Zürich",
+   "phone": "044 450 11 55",
+   "website": "https://tcg-treasure.com/",
+   "checked_at": "2026-10-16T03:40:49Z"
+  },
+  {
+   "name": "TCGeek Store",
+   "group": "unknown",
+   "city": "Chavornay",
+   "region": "VD",
+   "address": "Grand'Rue 76, 1373 Chavornay",
+   "phone": "076 543 05 43",
+   "website": "https://tcgeek.ch/",
+   "checked_at": "2026-10-16T03:41:43Z"
+  },
+  {
+   "name": "TcgPro",
+   "group": "unknown",
+   "city": "Schwerzenbach",
+   "region": "ZH",
+   "address": "Eschenstrasse 6, 8603 Schwerzenbach",
+   "website": "https://tcgpro.ch/",
+   "checked_at": "2026-10-16T03:41:02Z"
+  },
+  {
+   "name": "tcgschweiz.ch",
+   "group": "unknown",
+   "city": "Thun",
+   "region": "BE",
+   "address": "PrintHouse Schwarz, Buchholzstrasse 43, 3604 Thun",
+   "phone": "033 335 01 01",
+   "website": "https://www.tcgschweiz.ch/",
+   "checked_at": "2026-10-16T03:42:22Z"
+  },
+  {
+   "name": "The game Workshop",
+   "group": "unknown",
+   "city": "Pully",
+   "region": "VD",
+   "address": "Rue du Midi 2, 1009 Pully",
+   "phone": "021 525 96 66",
+   "website": "https://www.atelier-jeu.ch/",
+   "checked_at": "2026-10-16T03:43:12Z"
+  },
+  {
+   "name": "TheTCGLab",
+   "group": "unknown",
+   "city": "Kloten",
+   "region": "ZH",
+   "address": "Schaffhauserstrasse 134, 8302 Kloten",
+   "phone": "076 278 37 85",
+   "website": "https://thetcglab.ch/",
+   "checked_at": "2026-10-16T03:40:55Z"
+  },
+  {
+   "name": "TMS Bricks Shop",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Kramgasse 68, 3011 Bern",
+   "phone": "079 867 56 66",
+   "website": "https://tmsbricksshop.ch/",
+   "buylist_url": "https://tmsbricksshop.ch/pages/ankauf",
+   "checked_at": "2026-10-16T03:42:17Z"
+  },
+  {
+   "name": "Toki",
+   "group": "unknown",
+   "address": "Hauptstrasse 15, Abtwil SG, St. Gallen , 9030, Switzerland",
+   "phone": "+41794860527",
+   "website": "https://toki.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:15Z"
+  },
+  {
+   "name": "Tokyo Trends",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Riedbachstrasse 100 Westside, 2027 Bern",
+   "phone": "031 991 95 58",
+   "website": "https://www.tokyotrends.ch/",
+   "checked_at": "2026-10-16T03:42:34Z"
+  },
+  {
+   "name": "Trading Cards Wallisellen",
+   "group": "unknown",
+   "city": "Wallisellen",
+   "region": "Zürich",
+   "address": "Zwirnereistrasse 9, 8304 Wallisellen, Switzerland, Wallisellen, Zürich, 8304",
+   "phone": "079 471 70 08",
+   "website": "http://tradingcardstore.ch",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:40:41Z"
+  },
+  {
+   "name": "Tradingcardcave",
+   "group": "unknown",
+   "address": "Hauptstrasse 2, Erlinsbach, Solothurn, 5015, Switzerland",
+   "phone": "+41797941863",
+   "website": "https://www.tradingcardcave.ch/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:08Z"
+  },
+  {
+   "name": "Transa Travel & Outdoor Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Bubenbergpl. 9, 3011 Bern",
+   "phone": "0848 084 811",
+   "website": "https://www.transa.ch/de/stores/bern/",
+   "checked_at": "2026-10-16T03:42:45Z"
+  },
+  {
+   "name": "TwoMoons",
+   "group": "unknown",
+   "city": "Weinfelden",
+   "region": "Thurgau",
+   "address": "137a Zürichstrasse, Dübendorf, ZH, 8600, Switzerland",
+   "phone": "410774464629",
+   "website": "https://www.twomoons.ch",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:38:58Z"
+  },
+  {
+   "name": "TwoMoons Weinfelden",
+   "group": "unknown",
+   "address": "6 Felsenstrasse, Weinfelden, TG, 8570, Switzerland",
+   "phone": "410716221110",
+   "website": "http://www-wild-cards.ch",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:11Z"
+  },
+  {
+   "name": "Vegas-Hero Bern",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Beaulieustrasse 29, 3012 Bern",
+   "phone": "378 047 6444",
+   "website": "https://vegasherocasino.ch/",
+   "checked_at": "2026-10-16T03:42:36Z"
+  },
+  {
+   "name": "VegasHero Zurich",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Asylstrasse 8, 8032 Zürich",
+   "phone": "350 842 0968",
+   "website": "https://vegasheros.ch/",
+   "checked_at": "2026-10-16T03:41:26Z"
+  },
+  {
+   "name": "World of Games",
+   "group": "unknown",
+   "city": "Unterentfelden",
+   "region": "AG",
+   "address": "3 Schinhuetweg, Unterentfelden, Aargau, 5035, Switzerland",
+   "phone": "+41627374488",
+   "website": "https://www.wog.ch/de/index.cfm",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:06Z"
+  },
+  {
+   "name": "Xenomorphe",
+   "group": "unknown",
+   "city": "Genève",
+   "region": "Genève",
+   "address": "Rue des Bains 54, Genève, GE, 1203, Switzerland",
+   "phone": "+41(0) 223297052",
+   "website": "https://xenomorphe.ch/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:39:43Z"
+  },
+  {
+   "name": "YumeSekai",
+   "group": "unknown",
+   "city": "Ecublens",
+   "region": "VD",
+   "address": "Av. du Tir-Fédéral 74, 1024 Ecublens",
+   "phone": "021 703 10 00",
+   "website": "https://yumeshop.ch/",
+   "checked_at": "2026-10-16T03:43:05Z"
+  },
+  {
+   "name": "Zockbar",
+   "group": "unknown",
+   "city": "Bern",
+   "region": "BE",
+   "address": "Marktgasse 6/8, 3011 Bern",
+   "phone": "077 511 22 43",
+   "website": "https://zockbar.ch/",
+   "checked_at": "2026-10-16T03:42:15Z"
+  },
+  {
+   "name": "Zuriko",
+   "group": "unknown",
+   "city": "Zürich",
+   "region": "ZH",
+   "address": "Hohlstrasse 508, 8048 Zürich",
+   "phone": "041 201 49 49",
+   "website": "https://zuriko.ch/",
+   "checked_at": "2026-10-16T03:41:15Z"
+  },
+  {
+   "name": "À Aux Arts Divinatoires, Boutique ésotérique positive",
+   "group": "unknown",
+   "city": "Lausanne",
+   "region": "VD",
+   "address": "Rue du Petit-Chêne 1, 1003 Lausanne",
+   "phone": "021 351 90 20",
+   "website": "https://www.esoterique.shop/",
+   "checked_at": "2026-10-16T03:43:35Z"
+  }
+ ]
+}
