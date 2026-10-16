@@ -1,0 +1,3294 @@
+{
+ "country": "PL",
+ "currency": "PLN",
+ "updated": "2026-10-15",
+ "store_count": 311,
+ "stores": [
+  {
+   "name": "MTGSPOT",
+   "group": "public_buylist",
+   "city": "Chorzów",
+   "region": "Województwo Śląskie",
+   "address": "Ignacego Mościckiego 6, Katowice, Slaskie, 40-841, Poland",
+   "phone": "+48668194628",
+   "website": "https://www.mtgspot.pl/",
+   "buylist_url": "https://buylist.mtgspot.pl/sell-singles",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:39Z"
+  },
+  {
+   "name": "CardzHouse",
+   "group": "quote_only",
+   "city": "Gdynia",
+   "region": "Województwo pomorskie",
+   "address": "10 Lutego 30, 81-364 Gdynia",
+   "phone": "788 685 562",
+   "website": "https://cardzhouse.pl/",
+   "buylist_url": "https://cardzhouse.pl/skup-kart/",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:47:47Z"
+  },
+  {
+   "name": "Guildmage",
+   "group": "quote_only",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "10 Długa, Kraków, Województwo małopolskie, 31-146, Poland",
+   "phone": "48781702870",
+   "website": "https://guildmage.pl",
+   "buylist_url": "https://guildmage.pl/strony/skup-kart",
+   "mail_in": true,
+   "credit_bonus": "70% of market price as store credit vs 60% cash",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "ATOM Comics - Sklep z Komiksami",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Lubicz 3/5, 31-034 Kraków",
+   "phone": "795 441 424",
+   "website": "http://www.atomcomics.pl/",
+   "checked_at": "2026-10-16T03:48:19Z"
+  },
+  {
+   "name": "Carrefour",
+   "group": "blocked",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Szparagowa 7, 91-211 Łódź",
+   "phone": "42 613 45 00",
+   "website": "https://www.carrefour.pl/sklep/lodz/szparagowa-7",
+   "checked_at": "2026-10-16T03:50:23Z"
+  },
+  {
+   "name": "Decathlon Bielany Wrocławskie",
+   "group": "blocked",
+   "city": "Bielany Wrocławskie",
+   "region": "Województwo dolnośląskie",
+   "address": "Francuska 2, 55-040 Bielany Wrocławskie",
+   "phone": "71 738 46 75",
+   "website": "https://www.decathlon.pl/store-view/sport-shop-bielany-wroc%C5%82awskie-0070037600376?utm_source=google&utm_medium=organic&utm_campaign=google_business_website",
+   "checked_at": "2026-10-16T03:49:06Z"
+  },
+  {
+   "name": "Draft Game",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Garbary 64, 61-758 Poznań",
+   "phone": "607 436 892",
+   "website": "https://wilczek.poznan.pl/",
+   "checked_at": "2026-10-16T03:49:21Z"
+  },
+  {
+   "name": "Dragonus - sklep z grami planszowymi, karcianymi, figurkami i puzzlami",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Aleksandra Lubomirskiego 49/2, 31-509 Kraków",
+   "phone": "12 341 53 15",
+   "website": "https://dragonus.pl/",
+   "checked_at": "2026-10-16T03:48:10Z"
+  },
+  {
+   "name": "ForCraft - Sklep Hobbystyczny: Gry Bitewne, Planszowe i Artykuły Modelarskie | Warhammer Wrocław",
+   "group": "blocked",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Swojczycka 82, 51-502 Wrocław",
+   "phone": "731 415 319",
+   "website": "https://forcraft.pl/",
+   "checked_at": "2026-10-16T03:48:52Z"
+  },
+  {
+   "name": "HoldemShop",
+   "group": "blocked",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Pachnąca 83/Lok. D, 02-790 Warszawa",
+   "phone": "788 788 278",
+   "website": "http://www.holdemshop.pl/",
+   "checked_at": "2026-10-16T03:47:16Z"
+  },
+  {
+   "name": "Japan Collectibles",
+   "group": "blocked",
+   "address": "Rybacka 32a, Elblag, Warminsko-Mazurskie, 82-300, Poland",
+   "phone": "+48578512122",
+   "website": "https://japancollectibles.shop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:46:00Z"
+  },
+  {
+   "name": "Jula",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Szwedzka 10A, 61-285 Poznań",
+   "phone": "22 338 88 88",
+   "website": "https://www.jula.pl/nasze-sklepy/poznan/",
+   "checked_at": "2026-10-16T03:49:30Z"
+  },
+  {
+   "name": "Komiksiarnia.pl",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Ludwika Zamenhofa 8, 31-025 Kraków",
+   "phone": "507 194 536",
+   "website": "https://komiksiarnia.pl/",
+   "checked_at": "2026-10-16T03:48:15Z"
+  },
+  {
+   "name": "Lachowicz Jerzy. Sklep filatelistyczny",
+   "group": "blocked",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Piwna 7/8, 80-378 Gdańsk",
+   "phone": "58 301 30 17",
+   "website": "https://www.gowork.pl/opinie_czytaj,20356930",
+   "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "LETSGOTRY",
+   "group": "blocked",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Bukowińska 8, 02-703 Warszawa",
+   "phone": "790 528 028",
+   "website": "https://letsgotry.pl/",
+   "checked_at": "2026-10-16T03:47:06Z"
+  },
+  {
+   "name": "MAGIC Cafe - Skawina",
+   "group": "blocked",
+   "address": "Piłsudskiego 45, Skawina, MA, 32-050, Poland",
+   "phone": "+48601328353",
+   "website": "https://magiccafe.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:29Z"
+  },
+  {
+   "name": "Magic Cafe - Tarnów",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Rybna 1, Tarnów, Małopolskie, 33-100, Poland",
+   "phone": "+48 514103319",
+   "website": "https://magiccafe.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:42Z"
+  },
+  {
+   "name": "Mepel.pl board games - magazine",
+   "group": "blocked",
+   "city": "Katowice",
+   "region": "Województwo śląskie",
+   "address": "Kijowska 44, 40-754 Katowice",
+   "phone": "720 828 385",
+   "website": "https://www.mepel.pl/",
+   "checked_at": "2026-10-16T03:48:42Z"
+  },
+  {
+   "name": "Modelmania. Hobby Store",
+   "group": "blocked",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "poziom -1 (minus jeden, Galeria Metropolia, Jana Kilińskiego 4, 80-452 Gdańsk",
+   "phone": "58 741 58 58",
+   "website": "http://www.modelmania.eu/",
+   "checked_at": "2026-10-16T03:49:56Z"
+  },
+  {
+   "name": "PokeKarty",
+   "group": "blocked",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Burakowska 16/lok U4, 01-066 Warszawa",
+   "phone": "786 484 752",
+   "website": "https://www.pokekarty.pl/",
+   "checked_at": "2026-10-16T03:46:46Z"
+  },
+  {
+   "name": "Sklep Piwniczaki",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Zofii Nałkowskiej 22B/51, 60-573 Poznań",
+   "phone": "699 809 544",
+   "website": "http://www.sklep-piwniczaki.pl/",
+   "checked_at": "2026-10-16T03:49:17Z"
+  },
+  {
+   "name": "Sklep z pamiątkami",
+   "group": "blocked",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Stągiewna 21/22, 80-750 Gdańsk",
+   "phone": "517 232 266",
+   "website": "https://allegro.pl/uzytkownik/tcgkolekcja",
+   "checked_at": "2026-10-16T03:49:47Z"
+  },
+  {
+   "name": "Theseus. Antiquarian and Bookstore",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Armii Krajowej 18, 30-150 Kraków",
+   "phone": "18 549 20 10",
+   "website": "https://www.tezeusz.pl/",
+   "checked_at": "2026-10-16T03:48:41Z"
+  },
+  {
+   "name": "Uniblo",
+   "group": "blocked",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Wojska Polskiego 66a, 91-809 Łódź",
+   "phone": "793 386 693",
+   "website": "http://www.uniblo.pl/",
+   "checked_at": "2026-10-16T03:50:09Z"
+  },
+  {
+   "name": "Vanaheim",
+   "group": "blocked",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "004812 422 11 37",
+   "website": "http://vanaheim.pl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:26Z"
+  },
+  {
+   "name": "Wilczek Sklep",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 534 954 355",
+   "website": "https://wilczek.poznan.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:46Z"
+  },
+  {
+   "name": "x-kom",
+   "group": "blocked",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 15/23, 90-307 Łódź",
+   "phone": "34 377 00 00",
+   "website": "https://www.x-kom.pl/",
+   "checked_at": "2026-10-16T03:50:27Z"
+  },
+  {
+   "name": "xjoy.pl",
+   "group": "blocked",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "ul. Książkowa 9b lok U9, Warszawa, Warszawa, 03 -134, Poland",
+   "phone": "+48537 856 993",
+   "website": "https://www.xjoy.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:16Z"
+  },
+  {
+   "name": "4Cards",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Wiktorska 20/3, 02-587 Warszawa",
+   "phone": "886 313 255",
+   "checked_at": "2026-10-16T03:46:56Z"
+  },
+  {
+   "name": "All on Board",
+   "group": "in_store",
+   "city": "Chełm",
+   "region": "Województwo lubelskie",
+   "address": "Aleja Marszałka Józefa Piłsudskiego 28, 22-100 Chełm, Poland, Chełm, Województwo lubelskie, 22-100",
+   "phone": "+48 453 484 040",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "Apex Poké Supply",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Bobrowiecka 9, 00-728 Warszawa",
+   "checked_at": "2026-10-16T03:47:05Z"
+  },
+  {
+   "name": "Automat z kartami pokaemon",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Połczyńska 401/378, Warszawa",
+   "checked_at": "2026-10-16T03:47:53Z"
+  },
+  {
+   "name": "Automat z kartami pokemon i inne",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Półwiejska 42/4th floor, 61-888 Poznań",
+   "checked_at": "2026-10-16T03:49:17Z"
+  },
+  {
+   "name": "CENTRUM KOMIKSU. KOMIKSY ANTYKWARIAT KSIĘGARNIA. IWONA PIETRASIK",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "al. Niepodległości 148, 02-554 Warszawa",
+   "phone": "22 848 89 61",
+   "checked_at": "2026-10-16T03:47:43Z"
+  },
+  {
+   "name": "Discovery Shop",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Drewnowska 58, 90-001 Łódź",
+   "phone": "42 633 52 62",
+   "checked_at": "2026-10-16T03:50:00Z"
+  },
+  {
+   "name": "Dragon-store",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+48) 690695140",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:46:00Z"
+  },
+  {
+   "name": "Dragonus",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 535753073",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:26Z"
+  },
+  {
+   "name": "Dwa Kolory",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Sławkowska 19, 31-014 Kraków",
+   "phone": "452 693 097",
+   "website": "https://instagram.com/dwakolory.ua",
+   "checked_at": "2026-10-16T03:48:24Z"
+  },
+  {
+   "name": "ECIGARS POLSKA",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piłsudskiego, Galeria ŁÓDZKA, przy kasach 15/23, 62-061 Łódź",
+   "phone": "795 694 556",
+   "checked_at": "2026-10-16T03:50:11Z"
+  },
+  {
+   "name": "Fan Shop - Lech Poznan",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Półwiejska 12, 61-888 Poznań",
+   "phone": "601 572 414",
+   "checked_at": "2026-10-16T03:49:30Z"
+  },
+  {
+   "name": "Feniks Wroclaw",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 694606618",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:45Z"
+  },
+  {
+   "name": "Fit Plansza",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Pola Karolińskie 2, 02-401 Warszawa",
+   "checked_at": "2026-10-16T03:47:41Z"
+  },
+  {
+   "name": "GameLord",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 426311161",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:46:01Z"
+  },
+  {
+   "name": "gamesaver",
+   "group": "in_store",
+   "city": "Żerniki Wrocławskie",
+   "region": "Województwo dolnośląskie",
+   "address": "Wiosenna 12, 55-010 Żerniki Wrocławskie",
+   "phone": "500 736 978",
+   "checked_at": "2026-10-16T03:48:59Z"
+  },
+  {
+   "name": "Gildia Grodzisk",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "ks. M. Tokarzewskiego 9A / 5, Grodzisk Mazowiecki, Masovian, 05-825, Poland",
+   "phone": "+48511545362",
+   "website": "https://www.facebook.com/GildiaGrodzisk",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "Graal Blue City",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+48) 519 814 478",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Graffiti Lombard",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Łagiewnicka 25, 91-833 Łódź",
+   "phone": "42 657 25 25",
+   "checked_at": "2026-10-16T03:50:19Z"
+  },
+  {
+   "name": "Gralnia",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+48) 735 959 590",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:46:00Z"
+  },
+  {
+   "name": "Grywanda",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Lesser Poland Voivodeship",
+   "address": "30-001 Kraków",
+   "checked_at": "2026-10-16T03:48:34Z"
+  },
+  {
+   "name": "Hex",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Generała Józefa Dwernickiego 5, 33-332 Kraków, Poland, Kraków, Województwo małopolskie, 33-332",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "HobbToys",
+   "group": "in_store",
+   "city": "Zielona Góra",
+   "region": "Województwo lubuskie",
+   "address": "Kupiecka 70/1a, 65-058 Zielona Góra, Poland, Zielona Góra, Województwo lubuskie, 65-058",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "KADverse",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "24 plac Przemysława, Buk, Woj. Wielkopolskie, 64-320, Poland",
+   "phone": "+48722247714",
+   "website": "https://m.facebook.com/profile.php?id=61593376864269",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:53Z"
+  },
+  {
+   "name": "KartotekaTCG",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Aleja Pokoju 81E/10, 31-564 Kraków",
+   "phone": "603 682 514",
+   "checked_at": "2026-10-16T03:48:14Z"
+  },
+  {
+   "name": "Karty Piłkarskie",
+   "group": "in_store",
+   "city": "Konstantynów Łódzki",
+   "region": "Województwo łódzkie",
+   "address": "Skrzydlata 32, 95-050 Konstantynów Łódzki",
+   "checked_at": "2026-10-16T03:50:37Z"
+  },
+  {
+   "name": "Klaser55 - Sklep filatelistyczny, monety, militaria",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Łukaszewicza 20A, 60-728 Poznań",
+   "phone": "694 329 940",
+   "checked_at": "2026-10-16T03:49:38Z"
+  },
+  {
+   "name": "Kolekcjoner Łódź",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Pomorska 5, 90-201 Łódź",
+   "phone": "501 222 932",
+   "checked_at": "2026-10-16T03:50:20Z"
+  },
+  {
+   "name": "Kolektura Lotto i Salon gier na automatach",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Konstantego Ciołkowskiego 8c, 93-510 Łódź",
+   "checked_at": "2026-10-16T03:50:23Z"
+  },
+  {
+   "name": "Mad Games",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Ludwika Kondratowicza 25, 03-285 Warszawa",
+   "phone": "22 498 99 94",
+   "checked_at": "2026-10-16T03:47:28Z"
+  },
+  {
+   "name": "Magic-Play",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Górczewska 11, 01-189 Warszawa",
+   "phone": "22 632 00 03",
+   "checked_at": "2026-10-16T03:47:20Z"
+  },
+  {
+   "name": "Magiczny Rynek",
+   "group": "in_store",
+   "city": "Białystok",
+   "region": "Podlaskie",
+   "address": "Legionowa 28/001, 15-281 Białystok, Poland, Białystok, Podlaskie, 15-281",
+   "phone": "+48 531 717 999",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "MIKO GSM",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Osiedle Bolesława Śmiałego 16, 60-682 Poznań",
+   "phone": "690 151 511",
+   "checked_at": "2026-10-16T03:49:35Z"
+  },
+  {
+   "name": "Notogramy TCG i zabawki",
+   "group": "in_store",
+   "city": "Zielonka",
+   "region": "Województwo mazowieckie",
+   "address": "Jagiellońska 2, 05-220 Zielonka",
+   "checked_at": "2026-10-16T03:47:28Z"
+  },
+  {
+   "name": "Oficjalny sklep ŁKS Łódź | U2 ŁKS Store",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Unii Lubelskiej 2, 94-020 Łódź",
+   "phone": "794 746 552",
+   "checked_at": "2026-10-16T03:50:37Z"
+  },
+  {
+   "name": "Osopotamia",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Szlak 77, 31-153 Kraków",
+   "checked_at": "2026-10-16T03:48:34Z"
+  },
+  {
+   "name": "Pan Kruk",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Kolejowa, 53-508 Wrocław",
+   "phone": "692 552 580",
+   "checked_at": "2026-10-16T03:48:56Z"
+  },
+  {
+   "name": "Phu Gnom",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48660527787",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:36Z"
+  },
+  {
+   "name": "PlanetToys",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Nastrojowa 60, 91-496 Łódź",
+   "phone": "665 146 757",
+   "checked_at": "2026-10-16T03:50:13Z"
+  },
+  {
+   "name": "Pokeloader.com",
+   "group": "in_store",
+   "city": "Józefosław",
+   "region": "Województwo mazowieckie",
+   "address": "Przyrodnicza, 05-500 Józefosław",
+   "phone": "512 275 458",
+   "checked_at": "2026-10-16T03:46:56Z"
+  },
+  {
+   "name": "PokeYerba",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Aleksandra Gajkowicza 5, 03-562 Warszawa",
+   "checked_at": "2026-10-16T03:47:03Z"
+  },
+  {
+   "name": "PokeZone - Skup i sprzedaż oryginalnych kart Pokemon Siedlce.",
+   "group": "in_store",
+   "city": "Podnieśno",
+   "region": "Województwo mazowieckie",
+   "address": "Mazowiecka 8A, 08-125 Podnieśno",
+   "phone": "880 300 848",
+   "checked_at": "2026-10-16T03:49:30Z"
+  },
+  {
+   "name": "Poland Mint,Warsaw",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "00 958, Icchoka Lejba Pereca 21, 00-849 Warszawa",
+   "phone": "22 656 40 94",
+   "checked_at": "2026-10-16T03:47:03Z"
+  },
+  {
+   "name": "Sklep",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Graniczna 2, 54-610 Wrocław",
+   "phone": "44 333 98 67",
+   "checked_at": "2026-10-16T03:49:02Z"
+  },
+  {
+   "name": "Sklep Pańska",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Pańska 3, 80-884 Gdańsk",
+   "phone": "502 239 051",
+   "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "Sklep z grami R2pol",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Włościańska 61, 51-514 Wrocław",
+   "phone": "884 783 873",
+   "checked_at": "2026-10-16T03:48:59Z"
+  },
+  {
+   "name": "Sklep z zabawkami i art. szkolnymi",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Bolesława Chrobrego 11, 50-240 Wrocław",
+   "phone": "514 547 778",
+   "checked_at": "2026-10-16T03:48:51Z"
+  },
+  {
+   "name": "Swiat Gier",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Szewska, 50-139 Wrocław",
+   "checked_at": "2026-10-16T03:48:57Z"
+  },
+  {
+   "name": "Time4Magic S.C.",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Legnicka 49D, 54-203 Wrocław, Poland, Wrocław, Województwo dolnośląskie, 54-203",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "Wargamer Lublin",
+   "group": "in_store",
+   "city": "Lublin",
+   "region": "Województwo lubelskie",
+   "address": "Świętoduska 8, 20-400 Lublin, Poland, Lublin, Województwo lubelskie, 20-400",
+   "phone": "+48 697 360 537",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "Wargamer Radom",
+   "group": "in_store",
+   "city": "Radom",
+   "region": "Mazowieckie",
+   "address": "25 Czerwca 11, 26-610 Radom, Poland, Radom, Mazowieckie, 26-610",
+   "phone": "+48 510 841 011",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "Wojtek. Purchase and sale of Lego",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "róg Lelewela, aleja Legionów 2, 80-441 Gdańsk",
+   "phone": "502 905 018",
+   "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "Wroclaw Electronic Marketplace",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Robotnicza, 52-443 Wrocław",
+   "phone": "71 717 12 54",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
+   "name": "Zagrajmy",
+   "group": "in_store",
+   "city": "Rzeszów",
+   "region": "Województwo podkarpackie",
+   "address": "Jana III Sobieskiego 16/1, 35-001 Rzeszów, Poland, Rzeszów, Województwo podkarpackie, 35-001",
+   "phone": "+48 536 832 899",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "Пустышка",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Inowrocławska 19/32, 53-653 Wrocław",
+   "checked_at": "2026-10-16T03:49:10Z"
+  },
+  {
+   "name": "Media Markt",
+   "group": "not_buying_singles",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "plac Dominikański 3, 50-159 Wrocław",
+   "phone": "503 200 100",
+   "website": "https://mediamarkt.pl/pl/store/mediamarkt-wroclaw-plac-dominikanski-166?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=P311",
+   "buylist_url": "https://mediamarkt.pl/pl/specials/trade-in",
+   "checked_at": "2026-10-16T03:49:05Z"
+  },
+  {
+   "name": "Metal Market Europe Warszawa - złoto inwestycyjne, monety, sztabki",
+   "group": "not_buying_singles",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Wiejska 11/1, 00-480 Warszawa",
+   "phone": "22 623 85 61",
+   "website": "https://www.metalmarket.eu/",
+   "checked_at": "2026-10-16T03:47:59Z"
+  },
+  {
+   "name": "\"Phantom\" - Sklep Modelarski - Księgarnia Militarna",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Długa 5, 31-147 Kraków",
+   "phone": "12 429 44 64",
+   "website": "http://www.phantom.pl/",
+   "checked_at": "2026-10-16T03:48:25Z"
+  },
+  {
+   "name": "2d6.pl Sklep wargamingowy",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Erazma Ciołka 35/41, 01-445 Warszawa",
+   "phone": "793 839 716",
+   "website": "https://www.2d6.pl/",
+   "checked_at": "2026-10-16T03:47:32Z"
+  },
+  {
+   "name": "3karty-Gry planszowe",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Na Stoku 44/1, 31-707 Kraków",
+   "phone": "661 946 270",
+   "website": "https://3karty.pl/",
+   "checked_at": "2026-10-16T03:48:25Z"
+  },
+  {
+   "name": "Abadengo Games Online Store",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Nowolipki 14, 01-019 Warszawa",
+   "website": "https://abadengogames.com/",
+   "checked_at": "2026-10-16T03:46:49Z"
+  },
+  {
+   "name": "Abonde Games - sklep z grami planszowymi Wrocław",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Mglista 14b/10, 53-020 Wrocław",
+   "phone": "789 691 491",
+   "website": "https://abondegames.pl/",
+   "checked_at": "2026-10-16T03:48:47Z"
+  },
+  {
+   "name": "Aftermarket.pl",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Henryka Sienkiewicza 59, 90-009 Łódź",
+   "phone": "42 279 71 51",
+   "website": "https://www.aftermarket.pl/",
+   "checked_at": "2026-10-16T03:50:32Z"
+  },
+  {
+   "name": "Aleplanszowki.pl - CH Manhattan w Gdansku",
+   "group": "unknown",
+   "address": "82 aleja Grunwaldzka, Gdańsk, Województwo pomorskie, 80-244, Poland",
+   "phone": "+48725949303",
+   "website": "https://aleplanszowki.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:55Z"
+  },
+  {
+   "name": "AM76 - board games, books and comics",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Belgradzka 14/U10, 02-793 Warszawa",
+   "phone": "732 081 276",
+   "website": "https://am76.pl/",
+   "checked_at": "2026-10-16T03:46:51Z"
+  },
+  {
+   "name": "Antiquarian Bookstore \"Griffin\"",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Jarosława Dąbrowskiego 71, 02-586 Warszawa",
+   "phone": "509 465 545",
+   "website": "https://antykwariatgryf.pl/",
+   "checked_at": "2026-10-16T03:47:25Z"
+  },
+  {
+   "name": "Antykwariat Grochowski",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Ludwika Kickiego 12, 04-397 Warszawa",
+   "phone": "22 870 21 23",
+   "website": "https://agrochowski.pl/",
+   "checked_at": "2026-10-16T03:47:45Z"
+  },
+  {
+   "name": "Antykwariat im. Andrzeja Jaworskiego",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Kuźnicza 43/45, 50-138 Wrocław",
+   "phone": "71 780 66 59",
+   "website": "https://www.antykwariat-wroclaw.pl/",
+   "checked_at": "2026-10-16T03:49:07Z"
+  },
+  {
+   "name": "Antykwariat Naukowy Robert Piatek",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Szewska 64, 50-139 Wrocław",
+   "phone": "71 343 72 39",
+   "website": "https://szewska64.pl/",
+   "checked_at": "2026-10-16T03:49:09Z"
+  },
+  {
+   "name": "Antykwariat Numizmatyczny Gulden Gdańsk",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Jesionowa 17, 80-261 Gdańsk",
+   "phone": "58 352 42 21",
+   "website": "https://us-coins.pl/",
+   "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "Antykwariat Szarlatan",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Szczytnicka 51, 50-382 Wrocław",
+   "phone": "537 807 207",
+   "website": "https://szarlatan.pl/",
+   "checked_at": "2026-10-16T03:49:07Z"
+  },
+  {
+   "name": "Antykwariat Warszawa",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Wiśniowa 63, 02-520 Warszawa",
+   "phone": "888 313 332",
+   "website": "https://antykwariatwaw.pl/",
+   "checked_at": "2026-10-16T03:47:54Z"
+  },
+  {
+   "name": "Arena Laser Games",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Drewnowska 58, 91-002 Łódź",
+   "phone": "42 633 52 62",
+   "website": "https://experymentarium.pl/",
+   "checked_at": "2026-10-16T03:50:00Z"
+  },
+  {
+   "name": "ArtTravel.pl – przewodniki, mapy, akcesoria",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Rąbieńska 18, 94-227 Łódź",
+   "phone": "533 606 533",
+   "website": "https://arttravel.pl/",
+   "checked_at": "2026-10-16T03:50:20Z"
+  },
+  {
+   "name": "Auchan",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Bukowska 156, 60-198 Poznań",
+   "phone": "22 444 02 22",
+   "website": "https://www.auchan.pl/pl/sklepy/auchan-poznan-bukowska",
+   "checked_at": "2026-10-16T03:49:34Z"
+  },
+  {
+   "name": "AZYL KOMIKSU",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Orląt 10, 61-348 Poznań",
+   "phone": "797 448 446",
+   "website": "https://azylkomiksu.pl/",
+   "checked_at": "2026-10-16T03:49:35Z"
+  },
+  {
+   "name": "BaseStack",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Rewolucji 1905 roku 45, Łódź, Łódzkie, 90-215, Poland",
+   "phone": "+48693608608",
+   "website": "https://basestack.gg/lodz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:46:00Z"
+  },
+  {
+   "name": "Basta Center Shop",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Pańska 7/8, 80-840 Gdańsk",
+   "phone": "797 793 521",
+   "website": "https://www.bastacentershop.pl/",
+   "checked_at": "2026-10-16T03:49:40Z"
+  },
+  {
+   "name": "Bastion TCG",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Piotra Czajkowskiego 75/lok. 5, 51-147 Wrocław",
+   "website": "https://bastiontcg.pl/",
+   "checked_at": "2026-10-16T03:48:43Z"
+  },
+  {
+   "name": "BattleStash",
+   "group": "unknown",
+   "city": "Białystok",
+   "region": "Podlaskie",
+   "address": "Ryska 3/Lokal 7, 15-008 Białystok, Poland, Białystok, Podlaskie, 15-008",
+   "phone": "+48 794 129 001",
+   "website": "https://battlesta.sh/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "Big Cards Hobby Store",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Puławska 111A/Lokal 4, 02-707 Warszawa",
+   "phone": "784 371 277",
+   "website": "https://bigcards.pl/",
+   "checked_at": "2026-10-16T03:46:39Z"
+  },
+  {
+   "name": "BigParty",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Rokicińska 66, 92-302 Łódź",
+   "phone": "500 333 800",
+   "website": "https://bigparty.pl/",
+   "checked_at": "2026-10-16T03:50:29Z"
+  },
+  {
+   "name": "Board Games 3city Club ( klub gier planszowych / клуб настольных игр )",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Żwirki i Wigury 2, 80-463 Gdańsk",
+   "website": "https://t.me/boardgames3city",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-16T03:49:53Z"
+  },
+  {
+   "name": "Bolter Hobby Shop & Cafe",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Podwale 6, 50-043 Wrocław",
+   "phone": "518 139 518",
+   "website": "http://bolter.pl/",
+   "checked_at": "2026-10-16T03:48:46Z"
+  },
+  {
+   "name": "Book Się Rodzi",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 108, 90-004 Łódź",
+   "phone": "42 207 34 77",
+   "website": "https://booksierodzi.pl/",
+   "checked_at": "2026-10-16T03:50:36Z"
+  },
+  {
+   "name": "Boosterland",
+   "group": "unknown",
+   "city": "Żukowo",
+   "region": "Województwo pomorskie",
+   "address": "Gdańska 1A, 83-300 Żukowo, Poland, Żukowo, Województwo pomorskie, 83-300",
+   "website": "https://boosterland.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "Boostermania",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Kobielska 23, Galeria Grochów 1p., Warszawa, Mazowieckie, 04-359, Poland",
+   "phone": "+48603340407",
+   "website": "https://boostermania.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "CANIS LUPUS",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Krzywoustego 72 [KINEPOLIS], Poznań, WP, 61-114, Poland",
+   "phone": "+48539 820 905",
+   "website": "https://www.canislupus.com.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:52Z"
+  },
+  {
+   "name": "Card Dojo",
+   "group": "unknown",
+   "city": "Legionowo",
+   "region": "Województwo mazowieckie",
+   "address": "PIŁSUDSKIEGO 31, 217, Legionowo, Mazowieckie, 05-120, Poland",
+   "phone": "48519817755",
+   "website": "https://carddojo.pl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:21Z"
+  },
+  {
+   "name": "Card Gallery - sklep z kartami TCG",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Halicka 7, 31-036 Kraków",
+   "phone": "792 397 102",
+   "website": "https://cardgallery.pl/",
+   "buylist_url": "https://cardgallery.pl/skup-kart-pokemon",
+   "checked_at": "2026-10-16T03:48:04Z"
+  },
+  {
+   "name": "Card Horizon",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Madalińskiego 21, Warsaw, Mazowieckie, 02-513, Poland",
+   "phone": "+48531682945",
+   "website": "https://www.cardhorizon.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Card Store",
+   "group": "unknown",
+   "city": "Ełk",
+   "region": "Województwo warmińsko-mazurskie",
+   "address": "Wojska Polskiego 23C, 19-300 Ełk",
+   "phone": "530 610 898",
+   "website": "https://cardstore.pl/",
+   "checked_at": "2026-10-16T03:46:56Z"
+  },
+  {
+   "name": "CardVerse - Karty Kolekcjonerskie,Pokemon TCG i inne",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Parter, Centrum Handlowe Land, Wałbrzyska 11/lok. 148 A, 02-739 Warszawa",
+   "phone": "883 200 922",
+   "website": "https://cardverse.com.pl/",
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "Centrum Gier Inny Wymiar",
+   "group": "unknown",
+   "address": "Bożogrobców 20, Katowice, OP, 40-115, Poland",
+   "phone": "48537 902 095",
+   "website": "https://kasynoonlineautomaty.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:39Z"
+  },
+  {
+   "name": "Centrum gier Pegaz",
+   "group": "unknown",
+   "city": "Bydgoszcz",
+   "region": "Województwo kujawsko-pomorskie",
+   "address": "Pod Blankami 6, 85-034 Bydgoszcz, Poland, Bydgoszcz, Województwo kujawsko-pomorskie, 85-034",
+   "phone": "0048608539174",
+   "website": "https://pegaz-gry.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:01Z"
+  },
+  {
+   "name": "Centrum Hobbystyczne Strefa",
+   "group": "unknown",
+   "city": "Bielsko-Biała",
+   "region": "Województwo Śląskie",
+   "address": "Gazownicza 21A, 43-300 Bielsko-Biała, Poland, Bielsko-Biała, Województwo Śląskie, 43-300",
+   "phone": "501354832",
+   "website": "https://strefamarzen.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "Centrum Komiksu i Narracji Interaktywnej EC1",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Targowa 1/3, 90-022 Łódź",
+   "phone": "42 600 61 00",
+   "website": "https://ec1lodz.pl/ckini",
+   "checked_at": "2026-10-16T03:50:33Z"
+  },
+  {
+   "name": "Centrum MTG",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "25 Ludwika Kondratowicza, Warszawa, Mazowieckie, 03-285, Poland",
+   "phone": "+48 664726030",
+   "website": "http://www.centrum-mtg.com.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Marszałkowska 87, 00-683 Warszawa",
+   "phone": "789 706 740",
+   "website": "https://pl.webuy.com/site/storeDetail/?branchId=16013",
+   "buylist_url": "https://pl.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:47:34Z"
+  },
+  {
+   "name": "Chaos Games",
+   "group": "unknown",
+   "city": "Piła",
+   "region": "Wielkopolskie",
+   "address": "11 Listopada 10, 64-920 Piła, Poland, Piła, Wielkopolskie, 64-920",
+   "website": "https://chaos-games.pl/?fbclid=IwAR0PchHqqEJaRD1UoOndj97NadCjhip9QWQBnO9OxTxDPIcv9iWOubK3r0Q",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:04Z"
+  },
+  {
+   "name": "Collectiq",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Mokotowska 61, 00-533 Warszawa",
+   "phone": "510 855 560",
+   "website": "https://www.collectiq.pl/",
+   "checked_at": "2026-10-16T03:47:25Z"
+  },
+  {
+   "name": "Comics Cafe - by Coffee OnBoard",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Targowa 1/3, 90-022 Łódź",
+   "phone": "690 997 666",
+   "website": "https://www.coffeeonboard.pl/",
+   "checked_at": "2026-10-16T03:50:33Z"
+  },
+  {
+   "name": "Comics Cafe - Sklep & Kawiarnia z komiksami - Centrum Komiksu i Narracji Interaktywnej",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Centrum Komiksu i Narracji Interaktywnej, Targowa 1/3, 90-022 Łódź",
+   "phone": "531 205 937",
+   "website": "http://comics4fun.com/",
+   "checked_at": "2026-10-16T03:50:32Z"
+  },
+  {
+   "name": "Cyberpub Andrzej Jarzebak",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Małopolskie",
+   "address": "Stolarska 11, 31-043 Kraków, Poland, Kraków, Małopolskie, 31-043",
+   "phone": "+48 500 840 227",
+   "website": "https://cybermachina.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:18Z"
+  },
+  {
+   "name": "czytam.pl",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Starołęcka 7, 61-361 Poznań",
+   "phone": "61 651 44 95",
+   "website": "https://czytam.pl/",
+   "checked_at": "2026-10-16T03:49:39Z"
+  },
+  {
+   "name": "DiablesTCG",
+   "group": "unknown",
+   "city": "Marki",
+   "region": "Województwo mazowieckie",
+   "address": "al. Marszałka Józefa Piłsudskiego 201, 05-260 Marki",
+   "phone": "572 167 321",
+   "website": "https://diablestcg.pl/",
+   "checked_at": "2026-10-16T03:47:30Z"
+  },
+  {
+   "name": "DragonEye",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Słowicza 3, 31-320 Kraków",
+   "phone": "790 666 217",
+   "website": "https://dragoneye.pl/",
+   "checked_at": "2026-10-16T03:48:00Z"
+  },
+  {
+   "name": "e-hobby",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "al. Armii Krajowej 6a/1, 53-041 Wrocław",
+   "phone": "71 336 08 25",
+   "website": "https://e-hobby.pl/",
+   "checked_at": "2026-10-16T03:48:47Z"
+  },
+  {
+   "name": "ElektroSkup - Skup Telefonów",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Pomorska 40, 91-408 Łódź",
+   "website": "https://elektroskup.pl/",
+   "checked_at": "2026-10-16T03:50:19Z"
+  },
+  {
+   "name": "Empik",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Rynek Główny 23, 31-008 Kraków",
+   "phone": "22 462 72 52",
+   "website": "https://www.empik.com/salony-empik/krakow/krakow-rynek,12088,e?utm_source=google&utm_medium=organic&utm_campaign=googlemaps",
+   "checked_at": "2026-10-16T03:48:29Z"
+  },
+  {
+   "name": "Epiccard",
+   "group": "unknown",
+   "city": "Żory",
+   "region": "Województwo śląskie",
+   "address": "Folwarecka 1I, 44-240 Żory, Poland, Żory, Województwo śląskie, 44-240",
+   "website": "https://epiccard.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:29Z"
+  },
+  {
+   "name": "Fankomiks. Comics. Manga. Fantastic. games",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Stefana Batorego 2, 31-135 Kraków",
+   "phone": "575 516 490",
+   "website": "https://fankomiks.pl/",
+   "checked_at": "2026-10-16T03:48:24Z"
+  },
+  {
+   "name": "Feniks",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Dolnośląskie",
+   "address": "Kołłątaja 32, 50-005 Wrocław, Poland, Wrocław, Dolnośląskie, 50-005",
+   "phone": "694606618",
+   "website": "https://sklepfeniks.com.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:07Z"
+  },
+  {
+   "name": "Figurki kolekcjonerskie | Sklep internetowy Popownia",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Hortensji 12, 04-880 Warszawa",
+   "phone": "577 195 050",
+   "website": "https://popownia.pl/",
+   "checked_at": "2026-10-16T03:47:43Z"
+  },
+  {
+   "name": "Filatelia-Hobby s.c.",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "plac Szczepański 5, 31-011 Kraków",
+   "phone": "12 422 76 25",
+   "website": "https://filateliahobby.pl/",
+   "checked_at": "2026-10-16T03:48:21Z"
+  },
+  {
+   "name": "Flamberg",
+   "group": "unknown",
+   "city": "Katowice",
+   "region": "Województwo śląskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 513845913",
+   "website": "https://flamberg.com.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:37Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Sucha 1, 50-086 Wrocław",
+   "phone": "71 757 21 01",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/pl/wroclaw/sucha-1/pl01038",
+   "checked_at": "2026-10-16T03:49:02Z"
+  },
+  {
+   "name": "Folkstar",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Galeria Dominikańska, plac Dominikański 3, 50-159 Wrocław",
+   "phone": "570 800 993",
+   "website": "http://folkstar.pl/pl/",
+   "checked_at": "2026-10-16T03:48:55Z"
+  },
+  {
+   "name": "Four Ten Sophia",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Głogowska 38, 60-736 Poznań",
+   "website": "https://fourtensophia.com/",
+   "checked_at": "2026-10-16T03:49:17Z"
+  },
+  {
+   "name": "FROST MAGIC",
+   "group": "unknown",
+   "address": "Grunwaldzka 39, Jaworzno, Śląskie, 43-600, Poland",
+   "phone": "+48535108193",
+   "website": "https://frostmagic.pl/pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:33Z"
+  },
+  {
+   "name": "Galaktyka Gier",
+   "group": "unknown",
+   "address": "Ul. Koscielna 23, Pruszkow, MZ, 05-800, Poland",
+   "phone": "+48697 394 806",
+   "website": "https://galaktykagier.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:17Z"
+  },
+  {
+   "name": "Galeria Książki Kolekcjonerskiej",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Marszałkowska 62, 00-545 Warszawa",
+   "phone": "603 123 489",
+   "website": "https://www.kurtiak-ley.pl/",
+   "checked_at": "2026-10-16T03:47:57Z"
+  },
+  {
+   "name": "Galeria Madison",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Rajska 10, 80-850 Gdańsk",
+   "phone": "58 766 75 75",
+   "website": "https://madison.gda.pl/?utm_source=google&utm_medium=organic&utm_campaign=GMF",
+   "checked_at": "2026-10-16T03:49:53Z"
+  },
+  {
+   "name": "Galeria Panorama",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Górecka 30, 60-201 Poznań",
+   "phone": "61 650 01 03",
+   "website": "https://galeriapanorama.pl/",
+   "checked_at": "2026-10-16T03:49:29Z"
+  },
+  {
+   "name": "Galeria Schaffar",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Poleska 48, 51-354 Wrocław",
+   "phone": "796 810 802",
+   "website": "https://www.galeria-schaffar.pl/",
+   "checked_at": "2026-10-16T03:48:54Z"
+  },
+  {
+   "name": "Game Over",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Ludwika Zamenhofa 8, 31-025 Kraków",
+   "phone": "507 194 536",
+   "website": "https://www.krakow.gameover.pl/sklep/",
+   "checked_at": "2026-10-16T03:48:12Z"
+  },
+  {
+   "name": "GameLord - Klub Sklep z grami",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Łódzkie",
+   "address": "Piotrkowska 101, 90-425 Łódź, Poland, Łódź, Łódzkie, 90-425",
+   "phone": "+48 507 768 545",
+   "website": "https://gamelord.sklep.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:20Z"
+  },
+  {
+   "name": "Gamers Ranch",
+   "group": "unknown",
+   "city": "Paprotnia",
+   "region": "Lubelskie",
+   "address": "Paprotnia 142A, 08-540, Poland, Paprotnia, Lubelskie, 08-540",
+   "phone": "+48 662 194 228",
+   "website": "https://gamersranch.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:22Z"
+  },
+  {
+   "name": "Games 4 Us",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Kolumny 6/36, 93-610 Łódź",
+   "phone": "792 436 535",
+   "website": "http://www.games4us.pl/",
+   "checked_at": "2026-10-16T03:50:01Z"
+  },
+  {
+   "name": "GEMDROP",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Jagiellońska 13/lok.U6, Gdańsk, Pomorskie, 80-378, Poland",
+   "phone": "+48510513002",
+   "website": "https://www.pokegemcollector.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:56Z"
+  },
+  {
+   "name": "Giełda Staroci Pchli Targ",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Szwajcarska 14, 60-004 Poznań",
+   "phone": "604 956 314",
+   "website": "https://gieldapoznan.wordpress.com/",
+   "checked_at": "2026-10-16T03:49:27Z"
+  },
+  {
+   "name": "Gnom",
+   "group": "unknown",
+   "city": "Bielsko-Biała",
+   "region": "Województwo Śląskie",
+   "address": "Szkolna 15a, 43-300 Bielsko-Biała, Poland, Bielsko-Biała, Województwo Śląskie, 43-300",
+   "phone": "+48 660 527 787",
+   "website": "https://gnom-sklep.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "GoldBroker - internetowy sklep numizmatyczny",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Plac Bankowy 2, 00-095 Warszawa",
+   "phone": "880 555 111",
+   "website": "https://goldbroker.pl/",
+   "checked_at": "2026-10-16T03:47:50Z"
+  },
+  {
+   "name": "Graal",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Mazowieckie",
+   "address": "al. Jerozolimskie 179, 02-222 Warszawa, Poland, Warszawa, Mazowieckie, 02-222",
+   "phone": "+48 502 352 041",
+   "website": "http://www.sklep-graal.pl/?fbclid=IwAR2h7xZdSnwWkmTN9wvqmWmFHvl_AVK8S9TETq1cI-8KcsHGKzCixizOb8c",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:06Z"
+  },
+  {
+   "name": "Gralnia - Gry Bez Prądu",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Łódzkie",
+   "address": "Więckowskiego 6, 90-722 Łódź, Poland, Łódź, Łódzkie, 90-722",
+   "phone": "+48 735 959 590",
+   "website": "https://gralnia.org/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:16Z"
+  },
+  {
+   "name": "Green Game Center",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "aleja Rzeczypospolitej 33B, 80-463 Gdańsk",
+   "phone": "509 019 199",
+   "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FGreenGameCenter",
+   "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "Grybezpradu",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Wejście od strony ulicy, Galla Anonima 9B, 60-547 Poznań",
+   "phone": "720 793 239",
+   "website": "http://grybezpradu.eu/",
+   "checked_at": "2026-10-16T03:49:25Z"
+  },
+  {
+   "name": "Hegemon",
+   "group": "unknown",
+   "address": "Stojałowskiego 39/2, Bielsko-Biała, Śląskie, 43-300, Poland",
+   "phone": "+48739 213 788",
+   "website": "https://hegemonshop.com/pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:36Z"
+  },
+  {
+   "name": "Hobbity.pl",
+   "group": "unknown",
+   "address": "Jagiellonska 50a, Nowy Sacz, Malopolska, 33-300, Poland",
+   "phone": "+48184435000",
+   "website": "https://hobbity.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:42Z"
+  },
+  {
+   "name": "Hobby Art",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "gen. Ludomiła Rayskiego 11, 01-907 Warszawa",
+   "phone": "608 051 375",
+   "website": "http://www.hobby-art.pl/",
+   "checked_at": "2026-10-16T03:47:05Z"
+  },
+  {
+   "name": "IKEA",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Szwedzka 10, 61-285 Poznań",
+   "phone": "22 275 00 00",
+   "website": "https://www.ikea.com/pl/pl/stores/poznan/?utm_source=google&utm_medium=maps&utm_campaign=gmb_website&utm_content=ikea-pozna%C5%84",
+   "checked_at": "2026-10-16T03:49:33Z"
+  },
+  {
+   "name": "Inuki - shop with manga and anime gadgets. Poznan",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Krakowska 1/1, 61-889 Poznań",
+   "phone": "883 499 592",
+   "website": "https://inuki.pl/",
+   "checked_at": "2026-10-16T03:49:22Z"
+  },
+  {
+   "name": "Invisible Black",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Skarbu Zakrzowskiego 13, 51-219 Wrocław",
+   "phone": "577 044 229",
+   "website": "http://invisibleblack.pl/",
+   "checked_at": "2026-10-16T03:48:49Z"
+  },
+  {
+   "name": "Japier Papier",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Przemysłowa 12, 30-701 Kraków",
+   "phone": "453 044 023",
+   "website": "https://japierpapier.pl/",
+   "checked_at": "2026-10-16T03:48:16Z"
+  },
+  {
+   "name": "Karciany Bunkier",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Kalwaryjska 67, 30-504 Kraków",
+   "phone": "530 020 552",
+   "website": "https://karcianybunkier.pl/",
+   "checked_at": "2026-10-16T03:48:07Z"
+  },
+  {
+   "name": "Karciarz",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Stanisława Przybyszewskiego 3, 30-091 Kraków",
+   "phone": "513 037 487",
+   "website": "https://karciarz.com/",
+   "checked_at": "2026-10-16T03:48:11Z"
+  },
+  {
+   "name": "Karcioch.pl",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Al. Jana Pawła II, 00-867 Warszawa",
+   "website": "http://karcioch.pl/",
+   "checked_at": "2026-10-16T03:47:51Z"
+  },
+  {
+   "name": "Kartomat",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Szlak 77/222, 32-153 Kraków",
+   "phone": "455 511 354",
+   "website": "https://kartomat.sklep.pl/",
+   "checked_at": "2026-10-16T03:48:14Z"
+  },
+  {
+   "name": "Karttony - sklep karciany TCG",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Głogowska 175, 60-126 Poznań",
+   "website": "https://karttony.pl/",
+   "checked_at": "2026-10-16T03:49:36Z"
+  },
+  {
+   "name": "Katalog Prezentów: Prezety, Pomysły na prezent, Vouchery prezentowe",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Hoża 86/410, 00-682 Warszawa",
+   "phone": "22 602 24 90",
+   "website": "https://www.katalogprezentow.pl/",
+   "checked_at": "2026-10-16T03:47:20Z"
+  },
+  {
+   "name": "Kinguin Esports Lounge",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Jana Kilińskiego 4, 80-452 Gdańsk, Poland, Gdańsk, Województwo pomorskie, 80-452",
+   "phone": "+48 508937007",
+   "website": "https://lounge.kinguin.net/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:06Z"
+  },
+  {
+   "name": "Klockowy Szop",
+   "group": "unknown",
+   "address": "33B ulica Jana Pawła Woronicza, Warszawa, Woj. Mazowieckie, 02-640, Poland",
+   "phone": "+4853041733",
+   "website": "https://klockowyszop.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Kokoni.pl",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Chłodna 34, 00-872 Warszawa",
+   "phone": "690 010 027",
+   "website": "https://www.kokoni.pl/",
+   "checked_at": "2026-10-16T03:47:08Z"
+  },
+  {
+   "name": "Kolektura Lotto + Salon Gier na Automatach – Totalizator Sportowy",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Mikołaja Kopernika 49, 90-552 Łódź",
+   "website": "https://www.totalizator.pl/",
+   "checked_at": "2026-10-16T03:50:23Z"
+  },
+  {
+   "name": "Komikslandia",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Plac Defilad 1 Pasaż handlowy Metra Centrum, Pawilon 2002D, 00-110 Warszawa",
+   "phone": "22 654 10 66",
+   "website": "https://komikslandia.pl/",
+   "checked_at": "2026-10-16T03:47:08Z"
+  },
+  {
+   "name": "Korob - Ksiegarnia, Zabawki",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Księcia Władysława Opolczyka 17, 90-001 Łódź",
+   "phone": "42 292 00 22",
+   "website": "https://korob.pl/",
+   "checked_at": "2026-10-16T03:50:23Z"
+  },
+  {
+   "name": "Kraina Goblinów",
+   "group": "unknown",
+   "city": "Gliwice",
+   "region": "Województwo Śląskie",
+   "address": "Cichociemnych 18, 44-100 Gliwice, Poland, Gliwice, Województwo Śląskie, 44-100",
+   "phone": "+48 888 722 789",
+   "website": "http://www.krainagoblinow.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:10Z"
+  },
+  {
+   "name": "Krakow Arcade Museum - Muzeum Gier Wideo",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Centralna 41a, 31-586 Kraków",
+   "phone": "509 708 808",
+   "website": "https://www.krakowarcademuseum.com//",
+   "checked_at": "2026-10-16T03:48:26Z"
+  },
+  {
+   "name": "Krakow Stamps",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Rynek Główny 39-40/1, 31-013 Kraków",
+   "phone": "12 422 07 53",
+   "website": "http://www.krakowstamps.com/",
+   "checked_at": "2026-10-16T03:48:24Z"
+  },
+  {
+   "name": "Krolm",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "7 Stary Rynek Oliwski, Gdańsk, Województwo pomorskie, 80-326, Poland",
+   "phone": "+48698124175",
+   "website": "https://krolm.pl/pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:56Z"
+  },
+  {
+   "name": "KwiatuCards",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Polonijna 21/44, 30-668 Kraków",
+   "phone": "573 669 690",
+   "website": "https://kwiatucards.pl/",
+   "checked_at": "2026-10-16T03:48:14Z"
+  },
+  {
+   "name": "Lofi Cards",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Głogowska 100, 60-263 Poznań",
+   "phone": "781 614 369",
+   "website": "https://loficards.pl/",
+   "checked_at": "2026-10-16T03:49:14Z"
+  },
+  {
+   "name": "Lombardier Kantor Lombard Big-Apple",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Nowowiejska 43A, 50-315 Wrocław",
+   "phone": "508 600 085",
+   "website": "https://big-apple.pl/",
+   "checked_at": "2026-10-16T03:49:02Z"
+  },
+  {
+   "name": "LootQuest",
+   "group": "unknown",
+   "city": "Wejherowo",
+   "region": "Województwo pomorskie",
+   "address": "ul, I Brygady Pancernej Wojska Polskiego 9, 84-200 Wejherowo",
+   "phone": "737 484 484",
+   "website": "https://lootquest.pl/",
+   "checked_at": "2026-10-16T03:47:41Z"
+  },
+  {
+   "name": "Lucky 13",
+   "group": "unknown",
+   "address": "Szolc Rogozińskiego 3, Warszawa, Mazowsze, 02-777, Poland",
+   "phone": "+48514583515",
+   "website": "https://lucky13.com/pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:16Z"
+  },
+  {
+   "name": "Mag Planszowy / Board Mage",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Szewska 31, 50-139 Wrocław, Poland, Wrocław, Województwo dolnośląskie, 50-139",
+   "phone": "+48 71 341 74 72",
+   "website": "https://magplanszowy.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:04Z"
+  },
+  {
+   "name": "Magazyn Ultra Games",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Franciszka Kniaźnina 1, 31-637 Kraków",
+   "phone": "514 614 143",
+   "website": "https://ultragames.pl/",
+   "checked_at": "2026-10-16T03:48:33Z"
+  },
+  {
+   "name": "MAGIC Cafe",
+   "group": "unknown",
+   "address": "ul. Torfowa 7, Kraków, MA, 30-384, Poland",
+   "phone": "+48(0) 666167666",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:27Z"
+  },
+  {
+   "name": "ManaDrop.pl - Sklep Hobbystyczny",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Wały Jagiellońskie 8 box 12 (Pasaż Królewski), Gdańsk, Pomorskie, 80-887, Poland",
+   "phone": "+48505509709",
+   "website": "https://manadrop.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:53Z"
+  },
+  {
+   "name": "Mangowe",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Trzebnicka 24, 50-246 Wrocław",
+   "phone": "575 666 836",
+   "website": "https://mangowe.pl/",
+   "checked_at": "2026-10-16T03:48:50Z"
+  },
+  {
+   "name": "Manufaktura",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Drewnowska 58, 91-002 Łódź",
+   "phone": "42 664 92 89",
+   "website": "https://www.manufaktura.com/",
+   "checked_at": "2026-10-16T03:50:11Z"
+  },
+  {
+   "name": "Matisoft Gaming Club",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Stefana Baleya 9, 02-126 Warszawa",
+   "phone": "880 611 997",
+   "website": "https://mgc.com.pl/",
+   "checked_at": "2026-10-16T03:47:19Z"
+  },
+  {
+   "name": "Merfolk",
+   "group": "unknown",
+   "city": "Michałowice",
+   "region": "Mazowieckie",
+   "address": "44 Tadeusza Kościuszki, Pruszków, Mazowieckie, 05-800, Poland",
+   "phone": "+48 883427699",
+   "website": "https://sklep.merfolk.pl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:18Z"
+  },
+  {
+   "name": "MGLA",
+   "group": "unknown",
+   "city": "Jaworzno",
+   "region": "Województwo śląskie",
+   "address": "85 Fryderyka Chopina, Jaworzno, Województwo śląskie, 43-600, Poland",
+   "phone": "+48505240851",
+   "website": "https://mgla.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:34Z"
+  },
+  {
+   "name": "Miniatures Games Battle",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Żelazna 69A, 00-871 Warszawa",
+   "phone": "532 629 339",
+   "website": "https://fgb.club/",
+   "checked_at": "2026-10-16T03:47:12Z"
+  },
+  {
+   "name": "MofuMofu.pl",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Przy Millenium, aleja Grunwaldzka 141/Piętro -1, 80-264 Gdańsk",
+   "phone": "698 211 707",
+   "website": "https://mofumofu.pl/",
+   "checked_at": "2026-10-16T03:49:41Z"
+  },
+  {
+   "name": "MojeHobby",
+   "group": "unknown",
+   "city": "Wieliczka",
+   "region": "Województwo małopolskie",
+   "address": "781, Koźmice Wielkie, 32-020 Wieliczka",
+   "phone": "12 284 83 28",
+   "website": "https://www.mojehobby.pl/",
+   "checked_at": "2026-10-16T03:48:40Z"
+  },
+  {
+   "name": "Morigal",
+   "group": "unknown",
+   "city": "Jaworzno",
+   "region": "Województwo Śląskie",
+   "address": "1 Kadecka, Kraków, Województwo małopolskie, 33-332, Poland",
+   "phone": "+48574 418 373",
+   "website": "https://morigal.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:26Z"
+  },
+  {
+   "name": "Morion",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Mazowieckie",
+   "address": "Aleja Władysława Reymonta 12/Lokal 9, 01-842 Warszawa, Poland, Warszawa, Mazowieckie, 01-842",
+   "phone": "+48 737 169 554",
+   "website": "https://www.moriongames.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:19Z"
+  },
+  {
+   "name": "Mr. Puggy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "ul. Nefrytowa 4, Krakow, Lesserpoland, 30-798, Poland",
+   "phone": "+48510018009",
+   "website": "https://mrpuggy.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:27Z"
+  },
+  {
+   "name": "MyCards.pl by ME GROUP",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Parter, Juliusza Lea 114, 30-133 Kraków",
+   "phone": "607 992 211",
+   "website": "https://mycards.pl/",
+   "checked_at": "2026-10-16T03:48:10Z"
+  },
+  {
+   "name": "NoGame",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Kazimierza Wielkiego 41, 30-074 Kraków",
+   "phone": "691 399 659",
+   "website": "http://nogame.pl/",
+   "checked_at": "2026-10-16T03:48:19Z"
+  },
+  {
+   "name": "Noteka",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Okopowa 109/L1, 91-849 Łódź",
+   "phone": "508 710 460",
+   "website": "https://noteka.pl/",
+   "checked_at": "2026-10-16T03:50:36Z"
+  },
+  {
+   "name": "Nowa Sukcesja",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Aleje Politechniki 1, 93-590 Łódź",
+   "phone": "42 711 90 10",
+   "website": "https://www.nowasukcesja.pl/",
+   "checked_at": "2026-10-16T03:50:13Z"
+  },
+  {
+   "name": "Ones. Świat konsol",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Wschodnia 57, 90-266 Łódź",
+   "phone": "502 619 111",
+   "website": "http://ones.pl/",
+   "checked_at": "2026-10-16T03:50:05Z"
+  },
+  {
+   "name": "OneSleeveCenter",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Centrum Handlowe M1, Aleja Pokoju 67, 31-580 Kraków",
+   "phone": "517 355 576",
+   "website": "https://one-sleeve.com/",
+   "checked_at": "2026-10-16T03:48:14Z"
+  },
+  {
+   "name": "P.H.U. RAND - Gry Konsole PC Serwis",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Stanisława Przybyszewskiego 5, 93-188 Łódź",
+   "phone": "501 242 678",
+   "website": "http://www.uzywane-gry-konsole.pl/",
+   "checked_at": "2026-10-16T03:50:03Z"
+  },
+  {
+   "name": "Paladynat Praga",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Targowa 72 pasaż dworca wileńskiego, 03-734 Warszawa",
+   "phone": "602 835 860",
+   "website": "https://paladynat.pl/",
+   "checked_at": "2026-10-16T03:46:52Z"
+  },
+  {
+   "name": "Pan Mysza",
+   "group": "unknown",
+   "city": "Szczecin",
+   "region": "Zachodniopomorskie",
+   "address": "Aleja Papieża Jana Pawła II 50/u3, 70-413 Szczecin, Poland, Szczecin, Zachodniopomorskie, 70-413",
+   "phone": "+48 884 784 450",
+   "website": "https://panmysza.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:08Z"
+  },
+  {
+   "name": "Papierniczy Zakątek Sklep biurowo-papierniczo-zabawkowy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Komandosów 21, 30-334 Kraków",
+   "phone": "535 678 022",
+   "website": "https://papierniczyzakatek.com.pl/",
+   "checked_at": "2026-10-16T03:48:35Z"
+  },
+  {
+   "name": "Perfect Blue",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Wałbrzyska 11/lokal 252A, II piętro, 02-739 Warszawa",
+   "phone": "730 000 370",
+   "website": "https://perfectblue.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "pika space",
+   "group": "unknown",
+   "city": "Banino",
+   "region": "Województwo pomorskie",
+   "address": "Kolejowa 2/6, 80-297 Banino",
+   "phone": "459 116 567",
+   "website": "https://pi-ka.space/",
+   "checked_at": "2026-10-16T03:49:47Z"
+  },
+  {
+   "name": "PL Card World - Warszawa",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Zdobnicza 2, Warszawa, Mazowieckie, 02-439, Poland",
+   "phone": "+48662821893",
+   "website": "https://plcardworld.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Plan-Sza",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Wielkopolskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 537 411 113",
+   "website": "https://plan-sza.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:47Z"
+  },
+  {
+   "name": "Planeta Skarbów Zabawki Papierniczy Xero LEGO",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "lokal Użytkowy 5, Kabacki Dukt 8, 02-798 Warszawa",
+   "phone": "22 321 65 71",
+   "website": "https://planetaskarbow.pl/",
+   "checked_at": "2026-10-16T03:47:40Z"
+  },
+  {
+   "name": "PlanetaPrezent.pl",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Górczewska 224/Lokal U7, 01-460 Warszawa",
+   "phone": "797 949 000",
+   "website": "https://planetaprezent.pl/",
+   "checked_at": "2026-10-16T03:47:34Z"
+  },
+  {
+   "name": "planszomania.pl",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Mazowieckie",
+   "address": "Morcinka 5/lok. 25, 01-496 Warszawa, Poland, Warszawa, Mazowieckie, 01-496",
+   "phone": "+48 22 637 21 80",
+   "website": "https://www.planszomania.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:14Z"
+  },
+  {
+   "name": "PLANSZON",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "wejście od Stalowej, Czynszowa 6/71, 03-417 Warszawa",
+   "phone": "533 360 777",
+   "website": "https://planszon.pl/",
+   "checked_at": "2026-10-16T03:47:41Z"
+  },
+  {
+   "name": "Planszostrefa.pl - Sklep z grami planszowymi i karcianymi",
+   "group": "unknown",
+   "city": "Błonie",
+   "region": "Województwo mazowieckie",
+   "address": "Powstańców 21A, 05-870 Błonie",
+   "phone": "604 536 822",
+   "website": "https://planszostrefa.pl",
+   "checked_at": "2026-10-16T03:47:40Z"
+  },
+  {
+   "name": "Planszołek",
+   "group": "unknown",
+   "city": "Brzesko",
+   "region": "Województwo małopolskie",
+   "address": "ul. Mickiewicza 6/3, Brzesko, Małopolska, 32-800, Poland",
+   "phone": "48734907930",
+   "website": "https://www.planszolek.pl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:30Z"
+  },
+  {
+   "name": "PLASTIQ",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Bokserska 35, 02-690 Warszawa",
+   "website": "https://plastiq.pl/",
+   "checked_at": "2026-10-16T03:47:28Z"
+  },
+  {
+   "name": "Pod Indorem",
+   "group": "unknown",
+   "city": "Kęty",
+   "region": "Województwo małopolskie",
+   "address": "Żwirki i Wigury 11, 32-650 Kęty, Poland, Kęty, Województwo małopolskie, 32-650",
+   "phone": "+48 697 096 511",
+   "website": "https://podindorem.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:05Z"
+  },
+  {
+   "name": "Point Games",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Złota 59, 00-120 Warszawa",
+   "phone": "516 132 376",
+   "website": "https://pointgames.pl/",
+   "checked_at": "2026-10-16T03:46:57Z"
+  },
+  {
+   "name": "Pokemomstation",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Artura Grottgera 1, 00-785 Warszawa",
+   "phone": "884 800 699",
+   "website": "https://www.pokemomstation.com/",
+   "checked_at": "2026-10-16T03:47:53Z"
+  },
+  {
+   "name": "PokeSpot",
+   "group": "unknown",
+   "city": "Luboń",
+   "region": "Województwo wielkopolskie",
+   "address": "Pułaskiego 25, 62-030 Luboń",
+   "website": "https://pokespot.pl/",
+   "checked_at": "2026-10-16T03:49:13Z"
+  },
+  {
+   "name": "Poketrader.eu - sprzedaż internetowa oryginalnych produktów Pokemon",
+   "group": "unknown",
+   "city": "Marki",
+   "region": "Województwo mazowieckie",
+   "address": "Mała 80, 05-270 Marki",
+   "phone": "507 630 280",
+   "website": "https://poketrader.eu/",
+   "checked_at": "2026-10-16T03:47:23Z"
+  },
+  {
+   "name": "PokeVerse",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Płowiecka 44, 04-501 Warszawa",
+   "phone": "515 039 244",
+   "website": "https://www.pokeverse.pl/",
+   "checked_at": "2026-10-16T03:46:49Z"
+  },
+  {
+   "name": "PROJECT KANTO",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Garbary 41, 61-869 Poznań",
+   "phone": "578 002 303",
+   "website": "http://www.projectkanto.pl/",
+   "checked_at": "2026-10-16T03:49:20Z"
+  },
+  {
+   "name": "Przyczółek - Miejsce dla graczy",
+   "group": "unknown",
+   "city": "Piastów",
+   "region": "Województwo mazowieckie",
+   "address": "Lwowska 16a, 05-820 Piastów",
+   "phone": "787 252 050",
+   "website": "https://przyczolek.pl",
+   "checked_at": "2026-10-16T03:47:29Z"
+  },
+  {
+   "name": "Quo Vadis Kraków · księgarnio-kawiarnia · komiksy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Długa 53A, 31-147 Kraków",
+   "phone": "574 750 423",
+   "website": "https://www.quovadiskrakow.pl/pl",
+   "buylist_url": "https://www.quovadiskrakow.pl/pl/buylist",
+   "checked_at": "2026-10-16T03:48:24Z"
+  },
+  {
+   "name": "Razor Cards",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Skarbka z Gór 130, 03-287 Warszawa",
+   "phone": "607 507 902",
+   "website": "https://razorcards.pl/",
+   "checked_at": "2026-10-16T03:46:37Z"
+  },
+  {
+   "name": "Redraft",
+   "group": "unknown",
+   "city": "Katowice",
+   "region": "Województwo śląskie",
+   "address": "7 Kamienna, Katowice, Województwo śląskie, 40-067, Poland",
+   "phone": "+48502097749",
+   "website": "https://redraft.pl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:37Z"
+  },
+  {
+   "name": "Resoraki - Sklep Stacjonarny i Internetowy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Bartosza Głowackiego 4/14, 30-085 Kraków",
+   "phone": "604 848 639",
+   "website": "https://resoraki.com/",
+   "checked_at": "2026-10-16T03:48:37Z"
+  },
+  {
+   "name": "Retro Gaming Club",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 228, 90-360 Łódź",
+   "phone": "538 112 608",
+   "website": "https://retrogamingclub.pl/",
+   "checked_at": "2026-10-16T03:50:07Z"
+  },
+  {
+   "name": "RGFK",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Opolska 13b, 52-010 Wrocław",
+   "phone": "732 958 246",
+   "website": "https://rgfk.pl/",
+   "checked_at": "2026-10-16T03:48:56Z"
+  },
+  {
+   "name": "RollLand",
+   "group": "unknown",
+   "address": "Sienkiewicza 6/u1, Piaseczno, Masovia, 05-500, Poland",
+   "phone": "+48574863779",
+   "website": "https://rollland.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:19Z"
+  },
+  {
+   "name": "RPG Guild | Premium figurki do gier planszowych | Dungeons & Dragons",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Kopanina 79/A, 60-105 Poznań",
+   "phone": "793 391 757",
+   "website": "https://rpgguild.shop/",
+   "checked_at": "2026-10-16T03:49:25Z"
+  },
+  {
+   "name": "Salonik Prasowy Kolporter",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Rydzowa 22, 91-211 Łódź",
+   "phone": "59 089 02 20",
+   "website": "http://ojciec.pl/",
+   "checked_at": "2026-10-16T03:50:16Z"
+  },
+  {
+   "name": "Selgros Poznań",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Ludwika Zamenhofa 133, 61-131 Poznań",
+   "phone": "61 874 20 00",
+   "website": "https://www.selgros.pl/",
+   "checked_at": "2026-10-16T03:49:31Z"
+  },
+  {
+   "name": "Sentinel Sklep",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Żabiniec 97, 31-215 Kraków",
+   "phone": "604 968 568",
+   "website": "http://sentinelsklep.pl/",
+   "checked_at": "2026-10-16T03:48:14Z"
+  },
+  {
+   "name": "Shop Gracz",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Małopolskie",
+   "address": "Bolesława Limanowskiego 16, 30-534 Kraków, Poland, Kraków, Małopolskie, 30-534",
+   "phone": "+48608195190",
+   "website": "https://shopgracz.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:03Z"
+  },
+  {
+   "name": "Skarbiec Kart",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "parking piętro -1, pomiędzy sklepem Mister Minit a wejściemi do galerii, Rajska 10, 80-850 Gdańsk",
+   "phone": "537 833 188",
+   "website": "https://skarbieckart.pl/",
+   "checked_at": "2026-10-16T03:49:56Z"
+  },
+  {
+   "name": "SKLEP Agencji Mienia Wojskowego",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Dojazd 30, 60-631 Poznań",
+   "phone": "61 660 67 79",
+   "website": "https://amw.com.pl/pl/uzbrojenie-i-sprzet-wojskowy/sprzet-wojskowy-i-wyposazenie/sprzedaz-bezprzetargowa",
+   "checked_at": "2026-10-16T03:49:40Z"
+  },
+  {
+   "name": "Sklep Fenix",
+   "group": "unknown",
+   "city": "Szczecin",
+   "region": "Zachodniopomorskie",
+   "address": "Kaszubska 3/u7, 70-403 Szczecin, Poland, Szczecin, Zachodniopomorskie, 70-403",
+   "phone": "+48 792 500 244",
+   "website": "https://sklepfenix.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "Sklep Filatelistyczny",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Świętokrzyska 31/33, 00-116 Warszawa",
+   "phone": "22 505 35 17",
+   "website": "https://sklep.poczta-polska.pl/Kategorie/Filatelistyka/",
+   "checked_at": "2026-10-16T03:47:53Z"
+  },
+  {
+   "name": "Sklep Gekon",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Bolesława Drobnera 36, 50-257 Wrocław",
+   "phone": "784 779 524",
+   "website": "https://sklepgekon.pl/",
+   "checked_at": "2026-10-16T03:48:51Z"
+  },
+  {
+   "name": "Sklep Kleks - sklep papierniczy, plecaki szkolne, art. plastyczne, Lego, Playmobil",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Radarowa 9/lok. 10/11, 02-137 Warszawa",
+   "phone": "22 846 86 95",
+   "website": "https://sklepkleks.com/",
+   "checked_at": "2026-10-16T03:47:40Z"
+  },
+  {
+   "name": "Sklep kolekcjonerski KOLEKCJONER Kolekcjoner-Wrocław",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Józefa Ignacego Kraszewskiego 15/lok. 2U, 50-229 Wrocław",
+   "phone": "71 359 16 59",
+   "website": "https://kolekcjoner-wroclaw.pl/",
+   "checked_at": "2026-10-16T03:49:10Z"
+  },
+  {
+   "name": "Sklep kolekcjonerski Ms70.pl - Produkty kolekcjonerskie i metale inwestycyjne",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Powstańców Śląskich 124/1, 01-466 Warszawa",
+   "phone": "508 535 505",
+   "website": "https://ms70.pl/",
+   "checked_at": "2026-10-16T03:47:43Z"
+  },
+  {
+   "name": "Sklep Kpopowy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Kalwaryjska 34, 30-504 Kraków",
+   "phone": "729 112 264",
+   "website": "http://sklepkpopowy.pl/",
+   "checked_at": "2026-10-16T03:48:34Z"
+  },
+  {
+   "name": "Sklep Rzeczownik",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Poznańska 23, 00-685 Warszawa",
+   "phone": "784 999 244",
+   "website": "http://www.rzeczownik.com/",
+   "checked_at": "2026-10-16T03:47:17Z"
+  },
+  {
+   "name": "Sklepik Magiczny",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 18, 90-269 Łódź",
+   "phone": "797 888 080",
+   "website": "https://sklepikmagiczny.pl/",
+   "checked_at": "2026-10-16T03:50:02Z"
+  },
+  {
+   "name": "Skład Gier",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Półwiejska 47, Poznań, Wielkopolskie, 61-886, Poland",
+   "phone": "48507986769",
+   "website": "https://skladgier.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:50Z"
+  },
+  {
+   "name": "Smak Liter",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Krokusowa 3, 92-101 Łódź",
+   "phone": "42 212 60 96",
+   "website": "https://smakliter.pl/",
+   "checked_at": "2026-10-16T03:50:38Z"
+  },
+  {
+   "name": "Smyk",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Pasaż Grunwaldzki, Plac Grunwaldzki 22, 50-384 Wrocław",
+   "phone": "22 448 00 00",
+   "website": "https://www.smyk.com/pl/pl/storelocator",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
+   "name": "Souvenirs by Visitgdansk",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Plac Solidarności 1, 80-863 Gdańsk",
+   "phone": "509 285 369",
+   "website": "https://sklep.visitgdansk.com/",
+   "checked_at": "2026-10-16T03:49:53Z"
+  },
+  {
+   "name": "SpecShop.pl - Militaria, Strzelectwo, Samoobrona",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Bałtycka 6, 61-013 Poznań",
+   "phone": "533 372 997",
+   "website": "https://www.specshop.pl/?utm_source=google&utm_medium=organic&utm_campaign=gmf",
+   "checked_at": "2026-10-16T03:49:38Z"
+  },
+  {
+   "name": "Stacja Kolejorz - Sklep Lecha Poznań",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Bułgarska 17, 60-320 Poznań",
+   "phone": "61 886 30 61",
+   "website": "https://sklep.lechpoznan.pl/",
+   "checked_at": "2026-10-16T03:49:29Z"
+  },
+  {
+   "name": "Stacjonarny SklepRozmaitosci.pl - zabawki, balony z helem, kostki rubika, stroje karnawałowe",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Niekłańska 33/lokal 11, 03-924 Warszawa",
+   "phone": "798 344 288",
+   "website": "https://skleprozmaitosci.pl/",
+   "checked_at": "2026-10-16T03:47:33Z"
+  },
+  {
+   "name": "Stagraf, Warhammer, Kasy fiskalne",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Bratysławska 2a, 90-001 Łódź",
+   "phone": "605 650 752",
+   "website": "https://stagraf.com/pl/",
+   "checked_at": "2026-10-16T03:50:10Z"
+  },
+  {
+   "name": "Stajnia Gier",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Haukego-Bosaka 27/1B, 50-447 Wrocław",
+   "phone": "694 606 618",
+   "website": "https://stajnia-gier.pl/",
+   "checked_at": "2026-10-16T03:48:45Z"
+  },
+  {
+   "name": "Strategy Games Center",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Maratońska 24/32 hala 2 boks 42, 94-102 Łódź",
+   "phone": "796 595 539",
+   "website": "http://www.strategiacg.pl/",
+   "checked_at": "2026-10-16T03:49:57Z"
+  },
+  {
+   "name": "Strefa MtG",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Mazowieckie",
+   "address": "Polna 30a, Warszawa, MZ, 00-635, Poland",
+   "phone": "1(+48) (0) 533.426.333",
+   "website": "https://strefamtg.pl/",
+   "buylist_url": "https://strefamtg.pl/content/12-skup-kart",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "strefakart.pl",
+   "group": "unknown",
+   "city": "Mroków",
+   "region": "Województwo mazowieckie",
+   "address": "Rejonowa 42B, Mroków, Mazowieckie, 05-552, Poland",
+   "phone": "+48505255115",
+   "website": "https://strefakart.pl/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:21Z"
+  },
+  {
+   "name": "SunshinyShop",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Aleja Solidarności 129/131, Warsaw, mazowieckie, 00-898, Poland",
+   "phone": "+48534885269",
+   "website": "https://sunshinyshop.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Super Prezenty",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 15/23, 90-307 Łódź",
+   "phone": "504 660 979",
+   "website": "https://www.superprezenty.pl/",
+   "checked_at": "2026-10-16T03:50:13Z"
+  },
+  {
+   "name": "Swiat Kart Kolekcjonerskich",
+   "group": "unknown",
+   "address": "7 Politechniczna, Gdańsk, Województwo pomorskie, 80-288, Poland",
+   "phone": "+48607803426",
+   "website": "https://swiatkart.pl",
+   "buylist_url": "https://swiatkart.pl/pl/i/Skup-kart-TCG/15",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:54Z"
+  },
+  {
+   "name": "SZTOS Emilia Białecka",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Grabieniec 20/m. 116, 91-149 Łódź",
+   "phone": "500 520 870",
+   "website": "https://www.sztos.top/",
+   "checked_at": "2026-10-16T03:50:00Z"
+  },
+  {
+   "name": "Tcg love",
+   "group": "unknown",
+   "city": "Radom",
+   "region": "Województwo mazowieckie",
+   "address": "Stanisława Zbrowskiego 114/U4, 26-615 Radom, Poland, Radom, Województwo mazowieckie, 26-615",
+   "phone": "694 999 242",
+   "website": "https://www.tcglove.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "TCG TRENER TORUŃ",
+   "group": "unknown",
+   "city": "Toruń",
+   "region": "Województwo kujawsko-pomorskie",
+   "address": "Szosa Lubicka 133F, 87-100 Toruń, Poland, Toruń, Województwo kujawsko-pomorskie, 87-100",
+   "phone": "+48 515 279 774",
+   "website": "https://tcgtrener.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "TCG Zielona",
+   "group": "unknown",
+   "city": "Zielona Góra",
+   "region": "Województwo lubuskie",
+   "address": "Francuska 14a, 65-941 Zielona Góra, Poland, Zielona Góra, Województwo lubuskie, 65-941",
+   "phone": "+48 577 489 171",
+   "website": "https://tcg-zielona.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:32Z"
+  },
+  {
+   "name": "the Grail Cards",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Księcia Witolda 48h, 50-202 Wrocław",
+   "phone": "788 766 930",
+   "website": "https://thegrailcards.pl/",
+   "checked_at": "2026-10-16T03:48:43Z"
+  },
+  {
+   "name": "The LEGO® Store Łódź",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Drewnowska 58, 91-002 Łódź",
+   "phone": "42 231 59 94",
+   "website": "https://www.lego.com/pl-pl/stores/store/lodz?cmp=REF-202601-GBP-109&y_source=1_NDkxOTA4MTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T03:50:20Z"
+  },
+  {
+   "name": "Thebooks.pl",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Puławska 134A, 02-624 Warszawa",
+   "phone": "502 647 568",
+   "website": "https://thebooks.pl/",
+   "checked_at": "2026-10-16T03:46:59Z"
+  },
+  {
+   "name": "Time4Magic",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "ul. Legnicka 49d,, Wrocław, Dolnośląskie, 54-203, Poland",
+   "phone": "+48 883 044 644",
+   "website": "https://time4magic.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:45Z"
+  },
+  {
+   "name": "TOYSZOP S.C.",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Kwidzyńska 3 / poziom -1, 51-415 Wrocław",
+   "phone": "781 052 227",
+   "website": "https://toyszop.pl/",
+   "checked_at": "2026-10-16T03:48:59Z"
+  },
+  {
+   "name": "Trippin Bears - wydawca gier M.E.A.T.",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Wierzbięcice 53/3, 61-547 Poznań",
+   "website": "https://meatrpg.com/",
+   "checked_at": "2026-10-16T03:49:24Z"
+  },
+  {
+   "name": "Triton a.i. Sales of video games",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Głogowska 125, 60-244 Poznań",
+   "phone": "515 828 395",
+   "website": "https://www.olx.pl/i2/shop/about/?shop=2zJtN",
+   "checked_at": "2026-10-16T03:49:25Z"
+  },
+  {
+   "name": "Troll's Cave (Jaskinia Trolla)",
+   "group": "unknown",
+   "city": "Rybnik",
+   "region": "Województwo śląskie",
+   "address": "Tadeusza Kościuszki 44, 44-200 Rybnik, Poland, Rybnik, Województwo śląskie, 44-200",
+   "phone": "665313009",
+   "website": "https://jaskiniatrolla.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:04Z"
+  },
+  {
+   "name": "True Collector",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Mielżyńskiego 19, 61-726 Poznań",
+   "phone": "535 192 276",
+   "website": "https://www.truecollector.pl/",
+   "checked_at": "2026-10-16T03:47:25Z"
+  },
+  {
+   "name": "TubaCards",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Kobielska 6/u7, 04-359 Warszawa",
+   "phone": "667 363 725",
+   "website": "https://tubacards.pl/",
+   "checked_at": "2026-10-16T03:46:42Z"
+  },
+  {
+   "name": "TULANDIA ANNA PAWELEC",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "gen. Romana Abrahama 12/lok. U9, 03-982 Warszawa",
+   "phone": "533 730 950",
+   "website": "https://tulandia.pl/",
+   "checked_at": "2026-10-16T03:47:03Z"
+  },
+  {
+   "name": "u Wookiego",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Grochowska 7, 60-277 Poznań",
+   "phone": "730 350 214",
+   "website": "https://uwookiego.pl/",
+   "checked_at": "2026-10-16T03:49:29Z"
+  },
+  {
+   "name": "UGEARS Models / WARHAMMER",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Bolesława Prusa 38/40, 50-319 Wrocław",
+   "phone": "537 073 977",
+   "website": "https://ugearsmodels.pl/",
+   "checked_at": "2026-10-16T03:48:53Z"
+  },
+  {
+   "name": "Ultima Video Games Store",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Ludwika Waryńskiego 10, 00-631 Warszawa",
+   "phone": "511 601 700",
+   "website": "https://www.ultima.pl/",
+   "checked_at": "2026-10-16T03:47:38Z"
+  },
+  {
+   "name": "VEGASHERO Łódź",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Limbowa 41, 92-015 Łódź",
+   "phone": "793 689 758",
+   "website": "https://vegas-hero-bonus.pl/",
+   "checked_at": "2026-10-16T03:50:36Z"
+  },
+  {
+   "name": "W-Bak Game - Sklep internetowy",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Bolesława Leśmiana 5, 30-220 Kraków",
+   "phone": "791 947 404",
+   "website": "https://wbakgame.pl/",
+   "checked_at": "2026-10-16T03:48:33Z"
+  },
+  {
+   "name": "Wargamer Poznan",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Swiety Marcin 47/05, Poznan, WP, 61-806, Poland",
+   "phone": "100",
+   "website": "https://sklep.wargamer.pl/pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:47Z"
+  },
+  {
+   "name": "Wargamer Poznań",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Święty Marcin 47, 61-806 Poznań",
+   "phone": "731 228 867",
+   "website": "https://poznan.wargamer.pl/",
+   "checked_at": "2026-10-16T03:49:14Z"
+  },
+  {
+   "name": "Wargamer Wilcza",
+   "group": "unknown",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 226224296",
+   "website": "https://wargamer.pl",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:10Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "ul. Pawia 21/Budynek nr 4, lokal 2.B, 31-154 Kraków",
+   "phone": "12 225 19 96",
+   "website": "https://www.warhammer.com/",
+   "checked_at": "2026-10-16T03:48:37Z"
+  },
+  {
+   "name": "Warhammer Warsaw",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Interparking CEDET, Krucza 50, 00-025 Warszawa",
+   "phone": "22 236 00 00",
+   "website": "https://www.warhammer.com/shop/Games-Workshop-Warsaw",
+   "checked_at": "2026-10-16T03:47:37Z"
+  },
+  {
+   "name": "Warszawskie Centrum Numizmatyczne",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Hoża 43/49/lokal U6, 00-681 Warszawa",
+   "phone": "22 625 67 97",
+   "website": "https://www.wcn.pl/",
+   "checked_at": "2026-10-16T03:47:54Z"
+  },
+  {
+   "name": "Widzew Store Sklep klubowy Widzew Łódź",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 15/23, 90-307 Łódź",
+   "phone": "882 726 875",
+   "website": "https://sklep.widzew.com/",
+   "checked_at": "2026-10-16T03:50:37Z"
+  },
+  {
+   "name": "Wyjątkowy Prezent",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Targ Sienny 7, 80-806 Gdańsk",
+   "phone": "690 128 106",
+   "website": "https://www.wyjatkowyprezent.pl/",
+   "checked_at": "2026-10-16T03:49:51Z"
+  },
+  {
+   "name": "Wyślij do PSA",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Stacja metra Zacisze poziom minus 1, 03-604 Warszawa",
+   "phone": "607 253 545",
+   "website": "https://wyslijdopsa.pl",
+   "buylist_url": "https://wyslijdopsa.pl/skup-kart-pokemon",
+   "checked_at": "2026-10-16T03:46:36Z"
+  },
+  {
+   "name": "Wędkarskie Centrum Krokodyl",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Tęczowa 57, 53-601 Wrocław",
+   "phone": "71 792 30 53",
+   "website": "https://krokodyl.sklep.pl/",
+   "checked_at": "2026-10-16T03:48:57Z"
+  },
+  {
+   "name": "Yatta.pl Centrum Popkultury - sklep z mangą i komiksami",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Hoża 19, 00-521 Warszawa",
+   "phone": "883 372 148",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "Yubee TCG",
+   "group": "unknown",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Podmiejska 1/Lok. 8, 01-498 Warszawa",
+   "website": "https://yubeetcg.pl/",
+   "checked_at": "2026-10-16T03:46:56Z"
+  },
+  {
+   "name": "Zagrajnik Club",
+   "group": "unknown",
+   "address": "Stanislawa Augusta Poniatowskiego 7, Izabelin C, Mazowieckie, 05-080, Poland",
+   "phone": "+48737746859",
+   "website": "https://zagrajnik.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:17Z"
+  },
+  {
+   "name": "Zaurketto",
+   "group": "unknown",
+   "city": "Pruszków",
+   "region": "Województwo mazowieckie",
+   "address": "Ludwika Waryńskiego 5, 05-800 Pruszków",
+   "website": "https://zaurketto.pl/",
+   "checked_at": "2026-10-16T03:48:01Z"
+  },
+  {
+   "name": "Zone Cards - Collectible Cards",
+   "group": "unknown",
+   "city": "Marki",
+   "region": "Województwo mazowieckie",
+   "address": "Inżynierów 16, 05-270 Marki",
+   "phone": "502 721 333",
+   "website": "https://cardszone.pl",
+   "checked_at": "2026-10-16T03:46:54Z"
+  },
+  {
+   "name": "Świat Kart Kolekcjonerskich",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Politechniczna 7/17, 80-288 Gdańsk, Poland, Gdańsk, Województwo pomorskie, 80-288",
+   "phone": "511 378 048",
+   "website": "https://swiatkart.pl/",
+   "buylist_url": "https://swiatkart.pl/pl/i/Skup-kart-TCG/15",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:46:31Z"
+  }
+ ]
+}

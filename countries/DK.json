@@ -1,0 +1,1288 @@
+{
+ "country": "DK",
+ "currency": "DKK",
+ "updated": "2026-10-15",
+ "store_count": 135,
+ "stores": [
+  {
+   "name": "&Cards Copenhagen",
+   "group": "quote_only",
+   "city": "København",
+   "address": "Sankt Peders Stræde 49, København K, Hovedstaden, 1453, Denmark",
+   "phone": "+4571904248",
+   "website": "https://www.andcards.dk",
+   "buylist_url": "https://www.andcards.dk/saelg-din-samling/",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Matraws",
+   "group": "quote_only",
+   "city": "København",
+   "address": "Admiralgade 20, 1066 København",
+   "phone": "32 42 10 20",
+   "website": "https://matraws.dk/",
+   "buylist_url": "https://matraws.dk/",
+   "mail_in": true,
+   "credit_bonus": "Store credit option when trading for new products",
+   "checked_at": "2026-10-16T03:55:03Z"
+  },
+  {
+   "name": "Nostalgic",
+   "group": "quote_only",
+   "city": "Billund",
+   "address": "Butikstorvet 14C, 7190 Billund, Denmark, Billund, 7190",
+   "website": "https://nostalgiccollectibles.dk",
+   "buylist_url": "https://nostalgiccollectibles.dk/we-buy-pokemon-cards/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:56Z"
+  },
+  {
+   "name": "Nordic Collect",
+   "group": "blocked",
+   "city": "Køge",
+   "address": "Københavnsvej 137, 4600 Køge, Denmark, Køge, 4600",
+   "phone": "+45 26 11 72 48",
+   "website": "https://www.cardmarket.com/en/Pokemon/Users/NordicCollect",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:59Z"
+  },
+  {
+   "name": "Nordisk Korthandel",
+   "group": "blocked",
+   "city": "København",
+   "address": "Meldahlsgade 5, st, 1613 København",
+   "phone": "33 38 26 38",
+   "website": "https://www.scanmaps.dk/",
+   "checked_at": "2026-10-16T03:55:35Z"
+  },
+  {
+   "name": "Proshop a/s",
+   "group": "blocked",
+   "city": "Aarhus",
+   "address": "Slet Møllevej 17, 8270 Aarhus",
+   "phone": "70 20 50 80",
+   "website": "https://www.proshop.dk/",
+   "checked_at": "2026-10-16T03:55:37Z"
+  },
+  {
+   "name": "TCG Compare",
+   "group": "blocked",
+   "city": "Aalborg",
+   "address": "Østre Havnegade, 9000 Aalborg",
+   "phone": "60 51 32 24",
+   "website": "https://tcgcompare.dk/",
+   "checked_at": "2026-10-16T03:56:13Z"
+  },
+  {
+   "name": "Balckout TCG",
+   "group": "in_store",
+   "city": "Odense",
+   "address": "Dyrupgårds Alle 107, 5250 Odense",
+   "phone": "26 12 72 02",
+   "checked_at": "2026-10-16T03:56:10Z"
+  },
+  {
+   "name": "Betdaq Casino Games",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "Klostergade 26, 8000 Aarhus",
+   "phone": "31 89 53 92",
+   "checked_at": "2026-10-16T03:55:51Z"
+  },
+  {
+   "name": "Blazes",
+   "group": "in_store",
+   "address": "Nytorv 13c, Slagelse, Sjælland, 4200, Denmark",
+   "phone": "+4550593191",
+   "website": "https://blazes.dk",
+   "buylist_url": "https://blazes.dk/saelg-din-samling/",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:49Z"
+  },
+  {
+   "name": "Caerbrew Gaming",
+   "group": "in_store",
+   "city": "Aalborg",
+   "address": "TBA, 9000 Aalborg",
+   "checked_at": "2026-10-16T03:56:36Z"
+  },
+  {
+   "name": "Card Plaza",
+   "group": "in_store",
+   "city": "København",
+   "address": "Skindergade 23, Copenhagen, Indre by, 1159, Denmark",
+   "phone": "+4525707094",
+   "website": "https://www.instagram.com/cardplaza_dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Cardstore Frederiksberg",
+   "group": "in_store",
+   "city": "København",
+   "address": "Falkoner Allé 33, Frederiksberg, Copenhagen, 2000, Denmark",
+   "phone": "+4522335939",
+   "website": "https://www.facebook.com/people/Cardstore-Frederiksberg/61578040840373/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Copenhagen Cards",
+   "group": "in_store",
+   "city": "Tårnby",
+   "address": "Amager Landevej 76, 2770 Tårnby",
+   "phone": "27 21 70 50",
+   "checked_at": "2026-10-16T03:55:18Z"
+  },
+  {
+   "name": "CopenhagenTCG",
+   "group": "in_store",
+   "city": "Copenhagen",
+   "address": "1550 Copenhagen",
+   "phone": "42 79 72 79",
+   "checked_at": "2026-10-16T03:55:18Z"
+  },
+  {
+   "name": "Demokratispillet",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "2, Åboulevarden 49, 8000 Aarhus",
+   "phone": "33 15 20 10",
+   "checked_at": "2026-10-16T03:55:45Z"
+  },
+  {
+   "name": "DK BR Sports Trading Cards",
+   "group": "in_store",
+   "city": "København",
+   "address": "Strandlodsvej 63E, 5tv, 2300 København",
+   "phone": "31 46 02 80",
+   "checked_at": "2026-10-16T03:55:22Z"
+  },
+  {
+   "name": "EvoDeck",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "Randersvej 119, 8200 Aarhus",
+   "phone": "28 96 46 65",
+   "checked_at": "2026-10-16T03:55:39Z"
+  },
+  {
+   "name": "Family evolution",
+   "group": "in_store",
+   "city": "Køge",
+   "address": "Gammel Lyngvej 2, 4600 Køge, Denmark, Køge, 4600",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:59Z"
+  },
+  {
+   "name": "Gametrade",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "Viby Torv 1, 8260 Aarhus",
+   "phone": "91 98 24 12",
+   "checked_at": "2026-10-16T03:55:45Z"
+  },
+  {
+   "name": "Kingbidsgarage",
+   "group": "in_store",
+   "city": "Odense",
+   "address": "Sandkæret 34, 1,-3, 5260 Odense",
+   "phone": "30 31 43 17",
+   "checked_at": "2026-10-16T03:56:10Z"
+  },
+  {
+   "name": "Le Renard",
+   "group": "in_store",
+   "city": "Aalborg",
+   "address": "Fredrikstadvej 15, 9200 Aalborg",
+   "phone": "27 53 80 12",
+   "checked_at": "2026-10-16T03:56:29Z"
+  },
+  {
+   "name": "Marathon Store",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "Østerbyvej 12d, 8310 Aarhus",
+   "phone": "91 79 35 75",
+   "checked_at": "2026-10-16T03:55:45Z"
+  },
+  {
+   "name": "MTGwebshopDK",
+   "group": "in_store",
+   "city": "Horsens",
+   "address": "Gabelsvej 2, 8700 Horsens",
+   "phone": "23 36 69 84",
+   "checked_at": "2026-10-16T03:55:42Z"
+  },
+  {
+   "name": "Odense Guld & Mønthandel",
+   "group": "in_store",
+   "city": "Odense",
+   "address": "Asylgade 11, 5000 Odense",
+   "phone": "20 99 95 20",
+   "website": "https://gold-coins.dk/",
+   "buylist_url": "https://gold-coins.dk/saelg-moenter-og-sedler/",
+   "checked_at": "2026-10-16T03:56:12Z"
+  },
+  {
+   "name": "Retro Zonen",
+   "group": "in_store",
+   "city": "Aalborg",
+   "address": "Hadsundvej 180B, 9000 Aalborg",
+   "phone": "81 90 60 79",
+   "checked_at": "2026-10-16T03:56:29Z"
+  },
+  {
+   "name": "Sechloe v/Bettina I. Pedersen",
+   "group": "in_store",
+   "city": "Odense",
+   "address": "Kongensgade 30, 5000 Odense",
+   "phone": "31 11 17 11",
+   "checked_at": "2026-10-16T03:56:04Z"
+  },
+  {
+   "name": "Tengu's Treasure",
+   "group": "in_store",
+   "city": "København",
+   "address": "Knivholtvej 14, 2720 København",
+   "phone": "21 75 35 80",
+   "checked_at": "2026-10-16T03:55:25Z"
+  },
+  {
+   "name": "Tobis Univers",
+   "group": "in_store",
+   "city": "Aalborg",
+   "address": "Nørregade 17, B, 9000 Aalborg",
+   "phone": "60 24 90 85",
+   "checked_at": "2026-10-16T03:56:17Z"
+  },
+  {
+   "name": "Vintage Devine",
+   "group": "in_store",
+   "city": "Aarhus",
+   "address": "Høegh-Guldbergs Gade 97, 8000 Aarhus",
+   "checked_at": "2026-10-16T03:55:45Z"
+  },
+  {
+   "name": "Winners Corner",
+   "group": "in_store",
+   "city": "Aalborg",
+   "address": "Færøgade 61, 9000 Aalborg",
+   "checked_at": "2026-10-16T03:56:31Z"
+  },
+  {
+   "name": "Aa Collectibles Aps",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Algade 65, 9000 Aalborg",
+   "website": "https://cvrapi.dk/virksomhed/dk/aa-collectibles-aps/40360069",
+   "checked_at": "2026-10-16T03:56:36Z"
+  },
+  {
+   "name": "Aalborg Boghandel",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Østerågade 6, 9000 Aalborg",
+   "phone": "98 12 75 00",
+   "website": "https://dinboghandel.dk/",
+   "checked_at": "2026-10-16T03:56:23Z"
+  },
+  {
+   "name": "Aalborg Poker Room",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "9000 Aalborg, Denmark",
+   "website": "https://aalborg.clubcommander.com/",
+   "checked_at": "2026-10-16T03:56:34Z"
+  },
+  {
+   "name": "Aalborg Storcenter",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Hobrovej 452, 9200 Aalborg",
+   "phone": "98 18 23 10",
+   "website": "https://astc.dk/",
+   "checked_at": "2026-10-16T03:56:28Z"
+  },
+  {
+   "name": "AJ Poke",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Enggade 7B, 5000 Odense",
+   "phone": "42 77 55 44",
+   "website": "https://www.aj-poke.dk/",
+   "checked_at": "2026-10-16T03:55:55Z"
+  },
+  {
+   "name": "Archi Tegn Aalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Rendsburggade 14, 9000 Aalborg",
+   "phone": "81 55 02 25",
+   "website": "https://architegn.dk/",
+   "checked_at": "2026-10-16T03:56:26Z"
+  },
+  {
+   "name": "Baltzer Games",
+   "group": "unknown",
+   "city": "København",
+   "address": "Nordre frihavnsgade 25, Copenhagen, Copenhagen, 2100, Denmark",
+   "phone": "+4551900688",
+   "website": "https://baltzergames.dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Banditten",
+   "group": "unknown",
+   "city": "København",
+   "address": "Østerbrogade 138, 2100 København",
+   "phone": "35 55 28 08",
+   "website": "http://www.banditten.dk/",
+   "checked_at": "2026-10-16T03:55:19Z"
+  },
+  {
+   "name": "BEMIPA",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Rugårdsvej 220, 5210 Odense",
+   "phone": "66 16 50 91",
+   "website": "https://bemipa.dk/",
+   "checked_at": "2026-10-16T03:56:06Z"
+  },
+  {
+   "name": "BETO HOBBY Odense.",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Sdr. Boulevard 142, 5000 Odense",
+   "phone": "51 37 14 77",
+   "website": "https://beto-hobby.dk/",
+   "checked_at": "2026-10-16T03:55:59Z"
+  },
+  {
+   "name": "Bilka Skalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Hobrovej 450, 9200 Aalborg",
+   "phone": "89 30 30 00",
+   "website": "https://www.bilka.dk/kundeservice/find-butik/bilka-skalborg/c/bilka-skalborg/",
+   "checked_at": "2026-10-16T03:56:32Z"
+  },
+  {
+   "name": "Bog & idé",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "M. P. Bruuns Gade 25, 8000 Aarhus",
+   "phone": "86 12 39 55",
+   "website": "https://www.bog-ide.dk/pages/butikker/bog-id-aarhus-bruuns-galleri?utm_source=google&utm_medium=organic&utm_campaign=GBP_Aarhus",
+   "checked_at": "2026-10-16T03:55:54Z"
+  },
+  {
+   "name": "Boxen Aalborg - Herremode i Aalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Nytorv 1, 9000 Aalborg",
+   "phone": "98 16 91 66",
+   "website": "https://www.boxen9000.dk/shop/frontpage.html",
+   "checked_at": "2026-10-16T03:56:29Z"
+  },
+  {
+   "name": "BR Vimmelskaftet",
+   "group": "unknown",
+   "city": "København",
+   "address": "Vimmelskaftet 45, 1260 København",
+   "phone": "89 30 34 00",
+   "website": "https://www.br.dk/",
+   "checked_at": "2026-10-16T03:55:31Z"
+  },
+  {
+   "name": "BreakClub.dk",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "C. W. Obels Pl. 6, 3 tv, 9000 Aalborg",
+   "phone": "31 77 78 89",
+   "website": "http://www.breakclub.dk/",
+   "checked_at": "2026-10-16T03:56:18Z"
+  },
+  {
+   "name": "Bunkern",
+   "group": "unknown",
+   "city": "Esbjerg",
+   "address": "Kongensgade 28, 6700 Esbjerg, Denmark, Esbjerg, 6700",
+   "phone": "23317523",
+   "website": "https://bunkern.eu/da/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:53Z"
+  },
+  {
+   "name": "Børneloppen Aalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Stenbukken 8, 9200 Aalborg",
+   "phone": "93 93 99 99",
+   "website": "https://www.boerneloppen.dk/butikker/aalborg",
+   "checked_at": "2026-10-16T03:56:31Z"
+  },
+  {
+   "name": "Card Collective",
+   "group": "unknown",
+   "city": "København",
+   "address": "Mikkel Bryggers Gade 2, st, 1460 København K",
+   "website": "https://cardcollective.dk/",
+   "buylist_url": "https://cardcollective.dk/",
+   "credit_bonus": "Trade cards for store credit",
+   "checked_at": "2026-10-16T03:55:04Z"
+  },
+  {
+   "name": "Cardkort",
+   "group": "unknown",
+   "city": "Solbjerg",
+   "address": "Mustrupvej 26, 8355 Solbjerg",
+   "phone": "21 68 64 67",
+   "website": "https://www.cardkort.dk/",
+   "checked_at": "2026-10-16T03:55:44Z"
+  },
+  {
+   "name": "Cardstore Aarhus",
+   "group": "unknown",
+   "city": "København",
+   "address": "Sønder Allé 16, Aarhus, Jylland, 8000, Denmark",
+   "phone": "+4591302872",
+   "website": "https://cardstorecph.dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:40Z"
+  },
+  {
+   "name": "Cardstore Vesterbro",
+   "group": "unknown",
+   "city": "København",
+   "address": "Vesterbrogade 18, 1620 København",
+   "phone": "74 44 44 75",
+   "website": "https://cardstore.dk/password",
+   "checked_at": "2026-10-16T03:55:11Z"
+  },
+  {
+   "name": "CardX",
+   "group": "unknown",
+   "city": "Bjæverskov",
+   "address": "Ringstedvej 531, 4632 Bjæverskov",
+   "phone": "31 47 00 77",
+   "website": "https://www.cardx.dk/",
+   "buylist_url": "https://www.cardx.dk/",
+   "checked_at": "2026-10-16T03:55:06Z"
+  },
+  {
+   "name": "Comic Club",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Haugstedsgade 7, 5000 Odense",
+   "phone": "71 94 55 70",
+   "website": "http://www.comicclub.dk/",
+   "checked_at": "2026-10-16T03:56:04Z"
+  },
+  {
+   "name": "Comic Express",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Vesterbro 28, 9000 Aalborg",
+   "phone": "23 49 89 08",
+   "website": "https://comicexpress.dk/",
+   "checked_at": "2026-10-16T03:56:15Z"
+  },
+  {
+   "name": "Copenhagen Kpop",
+   "group": "unknown",
+   "city": "København",
+   "address": "Fiolstræde 22b, 1171 København",
+   "phone": "93 60 04 15",
+   "website": "https://copenhagenkpop.com/",
+   "checked_at": "2026-10-16T03:55:25Z"
+  },
+  {
+   "name": "Danish Souvenirs & luggages",
+   "group": "unknown",
+   "city": "København",
+   "address": "Østergade 10, 1100 København",
+   "phone": "31 89 03 55",
+   "website": "https://www.danishsouvenirs.dk/",
+   "checked_at": "2026-10-16T03:55:26Z"
+  },
+  {
+   "name": "Den Glade Meeple",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Danmarksgade 66, 9000 Aalborg",
+   "phone": "22 90 66 20",
+   "website": "https://denglademeeple.dk/",
+   "checked_at": "2026-10-16T03:56:38Z"
+  },
+  {
+   "name": "DF Cards",
+   "group": "unknown",
+   "city": "Sabro",
+   "address": "Langfredparken 204, 8471 Sabro",
+   "website": "https://www.df-cards.com/",
+   "checked_at": "2026-10-16T03:55:45Z"
+  },
+  {
+   "name": "Dice ´n Drinks",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Sankelmarksgade 15, 9000 Aalborg",
+   "phone": "22 40 24 17",
+   "website": "https://diceandrinks.dk/",
+   "checked_at": "2026-10-16T03:56:39Z"
+  },
+  {
+   "name": "DKretro",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Fyensgade 32, 9000 Aalborg",
+   "website": "https://www.dkretro.dk/",
+   "checked_at": "2026-10-16T03:56:36Z"
+  },
+  {
+   "name": "E.P.BANKO ODENSE A/S",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Hvidkærvej 44, 5250 Odense",
+   "phone": "66 17 55 15",
+   "website": "https://epbanko.dk/",
+   "checked_at": "2026-10-16T03:56:10Z"
+  },
+  {
+   "name": "Epic Panda - Aarhus",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Frederiksgade 50 KLD, Arhus, 070, 8000, Denmark",
+   "phone": "4542 50 19 18",
+   "website": "https://epicpanda.dk/shop/frontpage.html",
+   "buylist_url": "https://epicpanda.dk/shop/cms-vi-k%C3%B8ber-dine-ting.html",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:40Z"
+  },
+  {
+   "name": "ER-Games",
+   "group": "unknown",
+   "city": "Nykøbing Falster",
+   "address": "Slotsgade 5, st tv, 4800 Nykøbing Falster, Denmark, Nykøbing Falster, 4800",
+   "phone": "+45 93 80 03 66",
+   "website": "https://er-games.dk/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:51Z"
+  },
+  {
+   "name": "Eurotoys - Legetøj",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Emil Neckelmanns Vej 11, 5220 Odense",
+   "phone": "70 40 00 60",
+   "website": "https://www.eurotoys.dk/",
+   "checked_at": "2026-10-16T03:56:10Z"
+  },
+  {
+   "name": "Fantask",
+   "group": "unknown",
+   "city": "København",
+   "address": "Sankt Peders Stræde 18, 1453 København",
+   "phone": "33 11 85 38",
+   "website": "https://www.fantask.dk/",
+   "checked_at": "2026-10-16T03:55:12Z"
+  },
+  {
+   "name": "Faraos Cigarer",
+   "group": "unknown",
+   "city": "København",
+   "address": "Skindergade 27, Copenhagen, Copenhagen, 1159, Denmark",
+   "phone": " +45 (0) 3332.2211",
+   "website": "https://www.faraos.dk/",
+   "buylist_url": "https://www.faraos.dk/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Bredegade 7B, 9000 Aalborg",
+   "phone": "98 12 00 10",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/dk/aalborg/bredegade-7b/dk01067",
+   "checked_at": "2026-10-16T03:56:32Z"
+  },
+  {
+   "name": "Fun-shop",
+   "group": "unknown",
+   "city": "Boulstrup",
+   "address": "Lystgårdsparken 26, 8300 Boulstrup",
+   "phone": "36 20 03 29",
+   "website": "https://www.fun-shop.dk/",
+   "checked_at": "2026-10-16T03:55:46Z"
+  },
+  {
+   "name": "FYNS Antikvariat",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "baghuset, Østre Stationsvej 42, 5200 Odense",
+   "phone": "23 27 10 77",
+   "website": "http://www.fynsantikvariat.dk/",
+   "checked_at": "2026-10-16T03:56:00Z"
+  },
+  {
+   "name": "Game Knight",
+   "group": "unknown",
+   "city": "Roskilde",
+   "address": "7 Byleddet, Roskilde, DK, 4000, Denmark",
+   "phone": "+45 22567711",
+   "website": "https://gameknight.dk",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:33Z"
+  },
+  {
+   "name": "Games Copenhagen",
+   "group": "unknown",
+   "city": "København",
+   "address": "Jorcks Passage, 1159 København",
+   "phone": "29 88 11 91",
+   "website": "https://www.gamesweb.dk/",
+   "checked_at": "2026-10-16T03:55:11Z"
+  },
+  {
+   "name": "Games N Gadgets",
+   "group": "unknown",
+   "city": "Horsens",
+   "address": "Hospitalsgade 15, 8700 Horsens",
+   "phone": "70 32 33 86",
+   "website": "https://www.legeland.dk/",
+   "checked_at": "2026-10-16T03:55:42Z"
+  },
+  {
+   "name": "Glad Samler Records",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Villestofte Skovvej 13, 5210 Odense",
+   "phone": "21 12 22 23",
+   "website": "http://gladsamlerrecords.dk/",
+   "checked_at": "2026-10-16T03:56:00Z"
+  },
+  {
+   "name": "Goblin Games",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Kystvejen 27, 8000 Aarhus",
+   "phone": "87 61 11 12",
+   "website": "https://goblingames.dk/",
+   "checked_at": "2026-10-16T03:55:37Z"
+  },
+  {
+   "name": "GreenMind",
+   "group": "unknown",
+   "city": "København",
+   "address": "Vesterbrogade 84, 1620 København",
+   "website": "https://greenmind.dk/?utm_source=GMB&utm_medium=visit+website&utm_campaign=kbhv",
+   "buylist_url": "https://greenmind.dk/retailer/buylist",
+   "checked_at": "2026-10-16T03:55:25Z"
+  },
+  {
+   "name": "Gunzone - Hardball & Soft Guns",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Kystvejen 27, st th, 8000 Aarhus",
+   "phone": "87 61 11 12",
+   "website": "https://www.gunzone.dk/",
+   "checked_at": "2026-10-16T03:55:51Z"
+  },
+  {
+   "name": "Halmes Hule",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Søndergade 7A, st tv, 5000 Odense, Denmark, Odense, 5000",
+   "phone": "+45 44 40 60 06",
+   "website": "https://halmeshule.dk/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:54:53Z"
+  },
+  {
+   "name": "Hobby4u",
+   "group": "unknown",
+   "city": "Fraugde",
+   "address": "Kongelyset 11, 5220 Odense",
+   "phone": "87 10 26 00",
+   "website": "http://www.hobby4u.dk/",
+   "checked_at": "2026-10-16T03:56:06Z"
+  },
+  {
+   "name": "Hobbykæden",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Vesterbro 20B, 9000 Aalborg",
+   "phone": "98 17 65 55",
+   "website": "https://hobbykaeden.dk/shop/frontpage.html",
+   "checked_at": "2026-10-16T03:56:24Z"
+  },
+  {
+   "name": "Kelz0r Roskilde",
+   "group": "unknown",
+   "city": "Sorø",
+   "address": "Algade 36, Roskilde, 070, 4000, Denmark",
+   "phone": "+45 51 900 234",
+   "website": "https://www.kelz0r.dk/magic/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:33Z"
+  },
+  {
+   "name": "KIDS Cool Shop Aalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Nibevej 9, 9200 Aalborg",
+   "phone": "98 40 10 18",
+   "website": "https://www.coolshop.dk/legetoej/",
+   "checked_at": "2026-10-16T03:56:22Z"
+  },
+  {
+   "name": "Kirppu",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Anelystparken 26, 8381 Aarhus",
+   "phone": "38 42 86 19",
+   "website": "https://kirppu.dk/",
+   "checked_at": "2026-10-16T03:55:47Z"
+  },
+  {
+   "name": "Komikken",
+   "group": "unknown",
+   "city": "København",
+   "address": "Møllegade 23, 2200 København",
+   "phone": "20 78 88 33",
+   "website": "https://komikken.dk/forside",
+   "checked_at": "2026-10-16T03:55:34Z"
+  },
+  {
+   "name": "Lakridspizza",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Nørregade 21, 9000 Aalborg",
+   "phone": "27 29 17 17",
+   "website": "https://lakridspizza.dk/",
+   "checked_at": "2026-10-16T03:56:29Z"
+  },
+  {
+   "name": "Laserdisken",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Prinsensgade 38, 9000 Aalborg",
+   "phone": "98 13 22 22",
+   "website": "https://www.laserdisken.dk/html/",
+   "checked_at": "2026-10-16T03:56:38Z"
+  },
+  {
+   "name": "LEGELAND - Games N Gadgets",
+   "group": "unknown",
+   "address": "15 Hospitalsgade, Horsens, Horsens, 8700, Denmark",
+   "phone": "4570323386",
+   "website": "https://www.games-n-gadgets.dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:43Z"
+  },
+  {
+   "name": "Læsehesten",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Reberbansgade 7, 9000 Aalborg",
+   "phone": "98 16 61 14",
+   "website": "https://laesehesten.dk/",
+   "checked_at": "2026-10-16T03:56:17Z"
+  },
+  {
+   "name": "Mekong Market",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Nørregade 26, 9000 Aalborg",
+   "phone": "98 11 05 80",
+   "website": "https://mekong-asian.dk/",
+   "checked_at": "2026-10-16T03:56:40Z"
+  },
+  {
+   "name": "Musen & Slottet",
+   "group": "unknown",
+   "city": "Hillerød",
+   "address": "26 Slotsgade, Hillerød, Hovedstaden, 3400, Denmark",
+   "phone": "+4553504041",
+   "website": "https://www.musenogslottet.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:34Z"
+  },
+  {
+   "name": "Next Level Games - Ikast",
+   "group": "unknown",
+   "city": "Ikast",
+   "address": "Møllegade 14b, Ikast, 82, 7430, Denmark",
+   "phone": "4551 95 00 40",
+   "website": "https://www.nextlevelgames.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:45Z"
+  },
+  {
+   "name": "Nintendopusheren",
+   "group": "unknown",
+   "city": "København",
+   "address": "Ydunsgade 4, 6, 2200 København",
+   "phone": "60 57 12 82",
+   "website": "https://www.nintendopusheren.dk/",
+   "checked_at": "2026-10-16T03:55:16Z"
+  },
+  {
+   "name": "Odense Hobby",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Kochsgade 35B, 5000 Odense",
+   "phone": "66 14 10 50",
+   "website": "https://www.odensehobby.dk/",
+   "checked_at": "2026-10-16T03:55:57Z"
+  },
+  {
+   "name": "Panduro Hobby",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Hobrovej 452, 9200 Aalborg",
+   "phone": "98 18 99 22",
+   "website": "https://panduro.com/da-dk/stores/panduro-hobby-aalborg",
+   "checked_at": "2026-10-16T03:56:17Z"
+  },
+  {
+   "name": "Papas Papbar",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Sankt Knuds Kirkestræde 2, 5000 Odense",
+   "phone": "61 70 55 48",
+   "website": "https://www.papbar.dk/",
+   "checked_at": "2026-10-16T03:56:12Z"
+  },
+  {
+   "name": "Papirhuset",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Gravensgade 16, 9000 Aalborg",
+   "phone": "98 12 27 45",
+   "website": "https://papirhusetaalborg.dk/",
+   "checked_at": "2026-10-16T03:56:25Z"
+  },
+  {
+   "name": "Papklubben Aarhus",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Østergade 33, St. Tv, 8000 Aarhus",
+   "phone": "93 99 81 74",
+   "website": "https://papklubben.dk/",
+   "checked_at": "2026-10-16T03:55:36Z"
+  },
+  {
+   "name": "Papklubben Hørsholm",
+   "group": "unknown",
+   "city": "Hørsholm",
+   "address": "Ved Klædebo 14, Camp 6, Indgang B, 2970 Hørsholm",
+   "website": "https://www.pokemons.dk/",
+   "checked_at": "2026-10-16T03:55:18Z"
+  },
+  {
+   "name": "Party In A Box",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Stavneagervej 11, 8250 Aarhus",
+   "phone": "31 51 81 87",
+   "website": "https://partyinabox.dk/",
+   "checked_at": "2026-10-16T03:55:49Z"
+  },
+  {
+   "name": "Pilegaards Antikvariat Og Mønthandel",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Algade 65, 9000 Aalborg",
+   "phone": "98 13 90 00",
+   "website": "https://www.pilegaards.com/",
+   "checked_at": "2026-10-16T03:56:19Z"
+  },
+  {
+   "name": "playshop",
+   "group": "unknown",
+   "city": "Løgten",
+   "address": "Ved Skoven, 8541 Aarhus",
+   "phone": "93 98 98 22",
+   "website": "https://www.playshop.dk/",
+   "checked_at": "2026-10-16T03:55:47Z"
+  },
+  {
+   "name": "Pocket Monster",
+   "group": "unknown",
+   "city": "København",
+   "address": "Jagtvej 25, 2200 København",
+   "phone": "51 89 48 28",
+   "website": "https://pocketmonster.dk/",
+   "checked_at": "2026-10-16T03:55:03Z"
+  },
+  {
+   "name": "PokesVault",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Blåmejsevej 21, 8210 Aarhus",
+   "phone": "30 66 03 20",
+   "website": "https://5dcspw-2r.myshopify.com/",
+   "checked_at": "2026-10-16T03:55:37Z"
+  },
+  {
+   "name": "Ponkii",
+   "group": "unknown",
+   "city": "København",
+   "address": "Klosterstræde 15, 1157 København",
+   "website": "https://animerch.dk/",
+   "checked_at": "2026-10-16T03:55:10Z"
+  },
+  {
+   "name": "Popcultgang",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Borggade 11, st. mf, 8000 Aarhus",
+   "website": "https://popcultgang.dk/",
+   "checked_at": "2026-10-16T03:55:39Z"
+  },
+  {
+   "name": "Pops of the Galaxy",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Østre Alle 102, 9000 Aalborg",
+   "website": "https://www.popsofthegalaxy.com/",
+   "checked_at": "2026-10-16T03:56:22Z"
+  },
+  {
+   "name": "Qubimon",
+   "group": "unknown",
+   "address": "St. Sct. Peder Stræde 10, Viborg, Viborg, 8800, Denmark",
+   "phone": "+4550485797",
+   "website": "https://qubimon.dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:45Z"
+  },
+  {
+   "name": "Rarecard store",
+   "group": "unknown",
+   "city": "København",
+   "address": "Vigerslevvej 309, 2500 København",
+   "phone": "41 89 03 64",
+   "website": "https://www.rarecardstore.dk/",
+   "checked_at": "2026-10-16T03:55:18Z"
+  },
+  {
+   "name": "RePlay",
+   "group": "unknown",
+   "city": "Frederiksberg",
+   "address": "H. C. Ørsteds Vej 11, 1879 Frederiksberg",
+   "website": "https://www.xn--replaylegetj-5jb.dk/",
+   "checked_at": "2026-10-16T03:55:16Z"
+  },
+  {
+   "name": "Retroportalen",
+   "group": "unknown",
+   "city": "Harlev",
+   "address": "Rugmarksvej 2, 8462 Aarhus",
+   "phone": "25 53 80 25",
+   "website": "https://retroportalen.dk/",
+   "checked_at": "2026-10-16T03:55:42Z"
+  },
+  {
+   "name": "Rogerz",
+   "group": "unknown",
+   "city": "København",
+   "address": "Department Store: Fields  Arne Jacobsens Allé 12 1st floor , København, København, 2300 , Denmark",
+   "phone": "+4570608210",
+   "website": "https://rogerz.dk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Rosengårdcentret",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Ørbækvej 75, 5220 Odense",
+   "phone": "66 15 91 18",
+   "website": "https://rosengaardcentret.dk/",
+   "checked_at": "2026-10-16T03:56:12Z"
+  },
+  {
+   "name": "Skakshoppen.dk",
+   "group": "unknown",
+   "city": "København",
+   "address": "Sølvgade 19, 1307 København",
+   "phone": "30 49 05 80",
+   "website": "https://skakshoppen.dk/",
+   "checked_at": "2026-10-16T03:55:31Z"
+  },
+  {
+   "name": "Slice N Dice",
+   "group": "unknown",
+   "address": "Grantoftestræde 11, Ballerup, 015, 2750, Denmark",
+   "phone": "45 41 11 31 15",
+   "website": "https://slicendice.one/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  },
+  {
+   "name": "Spilcaféen Aarhus - Vestergade",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Vestergade 58A, 8000 Aarhus",
+   "phone": "81 11 90 05",
+   "website": "https://spilcafeen.dk/",
+   "checked_at": "2026-10-16T03:55:42Z"
+  },
+  {
+   "name": "Spilforsyningen",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Bispensgade 34, Aalborg, 070, 9000, Denmark",
+   "phone": "4530 70 61 92",
+   "website": "https://spilforsyningen.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:49Z"
+  },
+  {
+   "name": "STRAKSSALG.DK - Aalborg",
+   "group": "unknown",
+   "city": "Aalborg",
+   "address": "Boulevarden 18, 9000 Aalborg",
+   "website": "https://strakssalg.dk/",
+   "checked_at": "2026-10-16T03:56:26Z"
+  },
+  {
+   "name": "Stribeladen",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Jægergårdsgade 48, 8000 Aarhus",
+   "phone": "86 12 30 80",
+   "website": "http://www.stribeladen.com/",
+   "checked_at": "2026-10-16T03:55:42Z"
+  },
+  {
+   "name": "Superhelten",
+   "group": "unknown",
+   "city": "København",
+   "address": "Nordre Frihavnsgade 21, 2100 København",
+   "phone": "39 39 30 55",
+   "website": "https://www.superheltenlegetoej.dk/da",
+   "checked_at": "2026-10-16T03:55:30Z"
+  },
+  {
+   "name": "Syslegården",
+   "group": "unknown",
+   "city": "Nørre Broby",
+   "address": "Odensevej 4, 5672 Nørre Broby",
+   "phone": "20 20 10 66",
+   "website": "http://www.sysle.dk/",
+   "checked_at": "2026-10-16T03:56:07Z"
+  },
+  {
+   "name": "Taishō - Shop in shop",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Volden 11, st, 8000 Aarhus",
+   "phone": "93 94 22 62",
+   "website": "https://seramikku.dk/",
+   "checked_at": "2026-10-16T03:55:51Z"
+  },
+  {
+   "name": "Takeoff Copenhagen",
+   "group": "unknown",
+   "city": "København",
+   "address": "Vingårdstræde 20, 1070 København",
+   "phone": "22 44 50 63",
+   "website": "https://takeoffcph.dk/",
+   "buylist_url": "https://takeoffcph.dk/pages/sell-to-us",
+   "checked_at": "2026-10-16T03:55:28Z"
+  },
+  {
+   "name": "The Wobbly Nerdles",
+   "group": "unknown",
+   "city": "Randers",
+   "address": "16 Kirkegade, Randers, Randers, 8900, Denmark",
+   "phone": "+45 22262153",
+   "website": "https://thewobblynerdles.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:40Z"
+  },
+  {
+   "name": "TheKorner",
+   "group": "unknown",
+   "city": "København",
+   "address": "Studiestræde 12, st. tv, 1455 København K",
+   "website": "https://the-korner.com/",
+   "checked_at": "2026-10-16T03:55:12Z"
+  },
+  {
+   "name": "Tier1MTG Aps",
+   "group": "unknown",
+   "city": "Vipperød",
+   "address": "Vipperoed byvej 8A, Vipperoed, 030, 4390, Denmark",
+   "phone": "+4542 92 81 65",
+   "website": "https://tier1mtg.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:39Z"
+  },
+  {
+   "name": "Togcenter Gentofte",
+   "group": "unknown",
+   "city": "København",
+   "address": "Blåmunkevej 1, 2400 København",
+   "phone": "39 65 13 61",
+   "website": "http://www.togcenter.dk/",
+   "checked_at": "2026-10-16T03:55:24Z"
+  },
+  {
+   "name": "Toys'n'Loot",
+   "group": "unknown",
+   "city": "Haderslev",
+   "address": "Nørregade 24, Haderslev, 83, 6100, Denmark",
+   "phone": "+4573706710",
+   "website": "https://toysnloot.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:47Z"
+  },
+  {
+   "name": "Tranquebar",
+   "group": "unknown",
+   "city": "København",
+   "address": "Borgergade 14, 1300 København K",
+   "phone": "33 12 55 12",
+   "website": "https://www.tranquebar.net/",
+   "checked_at": "2026-10-16T03:55:23Z"
+  },
+  {
+   "name": "US Style",
+   "group": "unknown",
+   "city": "Gladsaxe",
+   "address": "Solnavej 65, st. 3, 2860 Gladsaxe",
+   "phone": "30 11 30 33",
+   "website": "https://www.us-style.dk/",
+   "checked_at": "2026-10-16T03:55:22Z"
+  },
+  {
+   "name": "Vintage Games",
+   "group": "unknown",
+   "city": "Taastrup",
+   "address": "Rugvænget 44, kld, 2630 Taastrup",
+   "phone": "60 74 76 87",
+   "website": "http://vintagegames.dk/",
+   "checked_at": "2026-10-16T03:55:30Z"
+  },
+  {
+   "name": "voresscrapverden.dk",
+   "group": "unknown",
+   "city": "Odense",
+   "address": "Emmavænget 10, 5270 Odense",
+   "phone": "40 41 44 79",
+   "website": "https://voresscrapverden.dk/",
+   "checked_at": "2026-10-16T03:56:08Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "København",
+   "address": "Skindergade 44, 1159 København",
+   "phone": "33 12 22 17",
+   "website": "https://www.warhammer.com/shop/Warhammer-K%C3%B8benhavn",
+   "checked_at": "2026-10-16T03:55:30Z"
+  },
+  {
+   "name": "Warhammer Aarhus",
+   "group": "unknown",
+   "city": "Aarhus",
+   "address": "Vestergade 8, st. tv, 8000 Aarhus Centrum",
+   "phone": "29 38 42 65",
+   "website": "https://www.warhammer.com/",
+   "checked_at": "2026-10-16T03:55:52Z"
+  },
+  {
+   "name": "Zentik",
+   "group": "unknown",
+   "city": "København",
+   "address": "Samsøgade 6, 2100 København",
+   "website": "https://zentik.dk/",
+   "checked_at": "2026-10-16T03:55:19Z"
+  },
+  {
+   "name": "ZZ Games",
+   "group": "unknown",
+   "city": "Taastrup",
+   "address": "Rugvænget 44, Taastrup, 84, 2630, Denmark",
+   "phone": "45 29 17 95 03",
+   "website": "https://www.zzgames.dk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:54:27Z"
+  }
+ ]
+}

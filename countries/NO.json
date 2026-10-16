@@ -1,0 +1,794 @@
+{
+ "country": "NO",
+ "currency": "NOK",
+ "updated": "2026-10-15",
+ "store_count": 80,
+ "stores": [
+  {
+   "name": "Pokelageret",
+   "group": "public_buylist",
+   "region": "Østfold",
+   "address": "51 St. Marie gate, Sarpsborg, Østfold, 1706, Norway",
+   "phone": "+4790844936",
+   "website": "https://pokelageret.no",
+   "buylist_url": "https://pos.pokelageret.no/u/selg",
+   "mail_in": true,
+   "credit_bonus": "80% as store credit vs 70% cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:01Z"
+  },
+  {
+   "name": "Playlot",
+   "group": "quote_only",
+   "region": "Vestland",
+   "address": "55 Salhusvegen, Nyborg, Vestland, 5131, Norway",
+   "phone": "+4741361146",
+   "website": "https://playlot.no/",
+   "buylist_url": "https://playlot.no/selg-til-oss/",
+   "mail_in": true,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:02Z"
+  },
+  {
+   "name": "PokeMadness",
+   "group": "blocked",
+   "region": "Akershus",
+   "address": "Sørumsgata 3, LILLESTRØM, Akershus, 2000, Norway",
+   "phone": "+4799563860",
+   "website": "https://www.pokemadness.no/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Poku Spill og Hobby",
+   "group": "blocked",
+   "region": "Innlandet",
+   "address": "Storgata 61, 2609 Lillehammer, Norway, Innlandet, 2609",
+   "website": "https://poku.no/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:57:16Z"
+  },
+  {
+   "name": "Error.exe",
+   "group": "in_store",
+   "region": "Rogaland",
+   "address": "Karlsminnegata 35, 4015 Stavanger",
+   "phone": "48 27 09 22",
+   "checked_at": "2026-10-16T03:58:23Z"
+  },
+  {
+   "name": "Fjord Emporium",
+   "group": "in_store",
+   "region": "Vestland",
+   "address": "Langhaugen 18, 5093 Bergen",
+   "phone": "97 71 42 87",
+   "checked_at": "2026-10-16T03:57:39Z"
+  },
+  {
+   "name": "Fjordbuda",
+   "group": "in_store",
+   "city": "Tromsø",
+   "region": "Trøndelag",
+   "address": "Sjøgangen 6, 7010 Trondheim",
+   "phone": "90 79 90 03",
+   "website": "http://www.facebook.com/fjordbuda",
+   "checked_at": "2026-10-16T03:57:54Z"
+  },
+  {
+   "name": "Mini Backgammon",
+   "group": "in_store",
+   "region": "Oslo",
+   "address": "Josefines gate 1A, 0351 Oslo",
+   "phone": "90 14 95 77",
+   "checked_at": "2026-10-16T03:57:36Z"
+  },
+  {
+   "name": "POKEPERLEN",
+   "group": "in_store",
+   "region": "Akershus",
+   "address": "Nylendet 10, 1467 Strømmen",
+   "phone": "99 53 68 24",
+   "checked_at": "2026-10-16T03:57:30Z"
+  },
+  {
+   "name": "Snart Konkurs",
+   "group": "in_store",
+   "region": "Oslo",
+   "address": "Olaf Helsets vei 5, 0694 Oslo",
+   "phone": "93 66 49 53",
+   "checked_at": "2026-10-16T03:57:34Z"
+  },
+  {
+   "name": "Under Overflaten",
+   "group": "in_store",
+   "region": "Oslo",
+   "address": "Sponhoggveien 6a, 0284 Oslo",
+   "checked_at": "2026-10-16T03:57:36Z"
+  },
+  {
+   "name": "All Good Clean Records",
+   "group": "not_buying_singles",
+   "region": "Trøndelag",
+   "address": "Innherredsveien 24, 7042 Trondheim",
+   "phone": "93 07 31 92",
+   "website": "https://www.allgoodcleanrecords.com/",
+   "buylist_url": "https://www.allgoodcleanrecords.com/kjoper-brukt/",
+   "checked_at": "2026-10-16T03:57:59Z"
+  },
+  {
+   "name": "Adamstuen Retro",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Vidars gate 18A, 0452 Oslo",
+   "phone": "95 17 20 31",
+   "website": "https://adamstuenretro.no/",
+   "checked_at": "2026-10-16T03:57:20Z"
+  },
+  {
+   "name": "Alt av Spill",
+   "group": "unknown",
+   "region": "Østfold",
+   "address": "Pellygata 57, 1706 Sarpsborg",
+   "phone": "69 32 84 30",
+   "website": "https://www.altavspill.no/",
+   "checked_at": "2026-10-16T03:58:05Z"
+  },
+  {
+   "name": "ARK Sirkus Shopping Trondheim",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Falkenborgvegen 9, 7044 Trondheim",
+   "phone": "96 90 22 19",
+   "website": "https://www.ark.no/butikker/trondheim/ark-sirkus-shopping-trondheim",
+   "checked_at": "2026-10-16T03:57:54Z"
+  },
+  {
+   "name": "Arti læll",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Haakon VIIs gt. 12, 7041 Trondheim",
+   "phone": "91 58 16 05",
+   "website": "https://www.artilaell.no/",
+   "checked_at": "2026-10-16T03:58:04Z"
+  },
+  {
+   "name": "Asmodee Nordics",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Tvetenveien 32, 0666 Oslo",
+   "phone": "23 17 06 90",
+   "website": "https://www.asmodeenordics.com/",
+   "checked_at": "2026-10-16T03:57:31Z"
+  },
+  {
+   "name": "Breakpodden",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Lyngveien 7, 4025 Stavanger",
+   "phone": "45 47 89 66",
+   "website": "https://breakpodden.com/",
+   "checked_at": "2026-10-16T03:58:12Z"
+  },
+  {
+   "name": "Byporten Shopping",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Jernbanetorget 6, 0154 Oslo",
+   "phone": "92 61 44 80",
+   "website": "https://byporten.no/",
+   "checked_at": "2026-10-16T03:57:30Z"
+  },
+  {
+   "name": "Cardbreakers - Laksevåg senter",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Kringsjåveien 83-89, 5163 Bergen",
+   "phone": "91 66 38 93",
+   "website": "https://cardbreakers.no/pages/bergen-laksevag-senter",
+   "checked_at": "2026-10-16T03:57:38Z"
+  },
+  {
+   "name": "Cardcenter AS",
+   "group": "unknown",
+   "region": "Akershus",
+   "address": "Idrettsveien 2, Ski, Ski, 1400, Norway",
+   "phone": "+4790277122",
+   "website": "https://cardcenter.no/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Cardhouse",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Ammerudveien 22, 0958 Oslo",
+   "website": "https://cardhouse.no/",
+   "checked_at": "2026-10-16T03:57:23Z"
+  },
+  {
+   "name": "CardWorld",
+   "group": "unknown",
+   "address": "57 Pellygata, Sarpsborg, Østfold, 1706, Norway",
+   "phone": "4793899778",
+   "website": "https://www.altavspill.no/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Collectible AS",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Torget 8, Stord, Vestland, 5417, Norway",
+   "phone": "+4722120005",
+   "website": "https://collectible.no",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:04Z"
+  },
+  {
+   "name": "Dragons Nest Gaming",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Ledaalsgata 1, Stavanger, 11, 4008, Norway",
+   "phone": "+4794 22 12 56",
+   "website": "https://www.dragonsnest.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:08Z"
+  },
+  {
+   "name": "Elkjøp Glasmagasinet",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Stortorvet 9, 0155 Oslo",
+   "phone": "21 00 21 21",
+   "website": "https://www.elkjop.no/?utm_source=google_location&utm_medium=organic&utm_campaign=1059",
+   "checked_at": "2026-10-16T03:57:30Z"
+  },
+  {
+   "name": "Extra Leker Alna",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Strømsveien 245, 0668 Oslo",
+   "phone": "47 69 59 50",
+   "website": "https://www.extra-leker.no/butikker/alna",
+   "checked_at": "2026-10-16T03:57:32Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Munkegata 27, 7011 Trondheim",
+   "phone": "40 70 40 75",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/no/trondheim/munkegate-27/no01029",
+   "checked_at": "2026-10-16T03:58:04Z"
+  },
+  {
+   "name": "Game And Trade as",
+   "group": "unknown",
+   "region": "Vestfold",
+   "address": "Kirkegata 8, 3211 Sandefjord, Norway, Vestfold, 3211",
+   "phone": "95949070",
+   "website": "https://gameandtrade.no",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:57:17Z"
+  },
+  {
+   "name": "Game Ninja AS",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Raglamyrvegen 2, Haugesund, Rogaland, 5536, Norway",
+   "phone": "+47930 89 028",
+   "website": "https://www.gameninja.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:09Z"
+  },
+  {
+   "name": "Good Villain AS",
+   "group": "unknown",
+   "region": "Nordland",
+   "address": "Storgata 48, 8006 Bodø, Norway, Nordland, 8006",
+   "phone": "004794281831",
+   "website": "https://www.goodvillain.no/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:57:15Z"
+  },
+  {
+   "name": "Hatamon TCG",
+   "group": "unknown",
+   "region": "Vestfold",
+   "address": "Storgata 14, 3210 Sandefjord",
+   "phone": "46 78 22 52",
+   "website": "https://hatamontcg.com/",
+   "checked_at": "2026-10-16T03:57:50Z"
+  },
+  {
+   "name": "Hobby Fruit & Tobacco AS",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Muségata 52, 4010 Stavanger",
+   "phone": "51 52 63 00",
+   "website": "https://www.rikstoto.no/Andelstorget/Butikker/40101",
+   "checked_at": "2026-10-16T03:58:16Z"
+  },
+  {
+   "name": "Hobby og koz AS",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Bakkegata 5, 4006 Stavanger",
+   "phone": "46 81 11 39",
+   "website": "https://www.hobbyogkoz.no/",
+   "checked_at": "2026-10-16T03:58:14Z"
+  },
+  {
+   "name": "House of Nerds",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Vulkan 18, 0178 Oslo",
+   "phone": "41 23 85 92",
+   "website": "https://houseofnerds.no/",
+   "checked_at": "2026-10-16T03:57:18Z"
+  },
+  {
+   "name": "KanonCon AS",
+   "group": "unknown",
+   "region": "Viken",
+   "address": "11 Nedre Storgate, Drammen, Buskerud, 3015, Norway",
+   "phone": "+4740008701",
+   "website": "https://www.kanoncon.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Kilden Senter",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Gartnerveien 15, 4016 Stavanger",
+   "website": "https://www.kilden.no/",
+   "checked_at": "2026-10-16T03:58:19Z"
+  },
+  {
+   "name": "Kortgradering",
+   "group": "unknown",
+   "region": "Telemark",
+   "address": "Myrhaugvegen 48, 3947 Langangen",
+   "phone": "90 93 09 90",
+   "website": "https://www.kortgradering.no/",
+   "checked_at": "2026-10-16T03:57:56Z"
+  },
+  {
+   "name": "Kortly",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Haugsbrotet 27 A, 5211 Os",
+   "website": "https://kortly.io/",
+   "buylist_url": "https://kortly.io/buylist",
+   "checked_at": "2026-10-16T03:57:43Z"
+  },
+  {
+   "name": "Laboge AS",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Midtunhaugen 10, 5224 Nesttun",
+   "website": "https://laboge.no/",
+   "checked_at": "2026-10-16T03:57:39Z"
+  },
+  {
+   "name": "Lootlagoon Oslo - Pokemon og One piece butikk",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Industrigata 46, 0357 Oslo",
+   "phone": "99 51 06 85",
+   "website": "https://lootlagoon.no/",
+   "checked_at": "2026-10-16T03:57:22Z"
+  },
+  {
+   "name": "Lucky Eddie",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Trondheimsveien 63, 0565 Oslo",
+   "phone": "95 20 82 43",
+   "website": "https://luckyeddie.no/",
+   "checked_at": "2026-10-16T03:57:36Z"
+  },
+  {
+   "name": "Manaheim AS",
+   "group": "unknown",
+   "region": "Buskerud",
+   "address": "15 Myntgata, Konsberg, Buskerud, 3616, Norway",
+   "phone": "+4791992473",
+   "website": "https://manaheim.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Meeple Galaxy",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Stokkaveien 26, 4024 Stavanger",
+   "phone": "96 87 31 47",
+   "website": "https://www.meeplegalaxy.com/",
+   "checked_at": "2026-10-16T03:58:17Z"
+  },
+  {
+   "name": "Mexx",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Kongens gate 11, 7013 Trondheim",
+   "phone": "93 46 43 46",
+   "website": "https://www.mexx.com/",
+   "checked_at": "2026-10-16T03:58:10Z"
+  },
+  {
+   "name": "Midgard Games Oslo",
+   "group": "unknown",
+   "region": "Buskerud",
+   "address": "Ensjøveien 22, Oslo, Oslo, 0655, Norway",
+   "phone": "+474792225569",
+   "website": "https://midgardgames.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Neo Tokyo Arkaden",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Karl Johans gt. 7, 0154 Oslo",
+   "phone": "21 09 59 90",
+   "website": "https://www.neo-tokyo.no/?utm_source=google&utm_medium=gmb&utm_campaign=organic",
+   "checked_at": "2026-10-16T03:57:17Z"
+  },
+  {
+   "name": "Obs City Lade",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Haakon VIIs gt. 9, 7041 Trondheim",
+   "phone": "40 00 12 01",
+   "website": "https://www.obs.no/butikker/obs-city-lade--midt-norge?utm_source=google_local&utm_medium=organic",
+   "checked_at": "2026-10-16T03:58:04Z"
+  },
+  {
+   "name": "Oslo Miniatyrspillklubb (OMSK)",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Ensjøveien 22, 0661 Oslo",
+   "phone": "93 85 84 85",
+   "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/omsk.no/hjemmeside/start/&followup=https://sites.google.com/omsk.no/hjemmeside/start/&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S18461793:1792123045871739",
+   "checked_at": "2026-10-16T03:57:25Z"
+  },
+  {
+   "name": "Outland - Bergen",
+   "group": "unknown",
+   "address": "14 Strandkaien, Bergen, Vestland, 5013, Norway",
+   "phone": "470-5531-4822",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:02Z"
+  },
+  {
+   "name": "Outland - Oslo",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Kirkegata 32, Oslo, Oslo, 0153, Norway",
+   "phone": "+4740318078",
+   "website": "https://outland.no",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Panduro Hobby",
+   "group": "unknown",
+   "region": "Akershus",
+   "address": "Støperiveien 5, 2010 Strømmen",
+   "phone": "96 94 35 25",
+   "website": "https://panduro.com/nb-no/stores/panduro-hobby-strommen",
+   "checked_at": "2026-10-16T03:57:31Z"
+  },
+  {
+   "name": "Papiria, papir og hobby",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Sirkus Shopping, Falkenborgvegen 9, 3. etasje, 7044 Trondheim",
+   "phone": "99 50 17 59",
+   "website": "https://www.papiria.no/",
+   "checked_at": "2026-10-16T03:57:50Z"
+  },
+  {
+   "name": "Pkhobby",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Forsøkslia 25, 7028 Trondheim",
+   "phone": "93 04 87 77",
+   "website": "https://www.pkhobby.com/",
+   "checked_at": "2026-10-16T03:57:49Z"
+  },
+  {
+   "name": "Platekompaniet",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Storgata 19, 0184 Oslo",
+   "phone": "23 29 28 00",
+   "website": "https://www.platekompaniet.no/",
+   "checked_at": "2026-10-16T03:57:31Z"
+  },
+  {
+   "name": "POKE4DAYZ AS",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Storgata 28, 0184 Oslo, Norway, Oslo, 0184",
+   "phone": "40085141",
+   "website": "https://en.poke4dayz.no/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:57:11Z"
+  },
+  {
+   "name": "PokeShop",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Fjordgata 64, 7010 Trondheim, Norway, Trøndelag, 7010",
+   "phone": "98 54 40 26",
+   "website": "https://www.poke-shop.no/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:57:17Z"
+  },
+  {
+   "name": "PokeWorld TCG AS",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Stokkaveien 43, 4024 Stavanger",
+   "phone": "40 08 00 11",
+   "website": "https://pokeworld.no/",
+   "checked_at": "2026-10-16T03:57:18Z"
+  },
+  {
+   "name": "Poki-heaven",
+   "group": "unknown",
+   "region": "Innlandet",
+   "address": "Storgata 38, 2609 Lillehammer",
+   "phone": "41 15 95 06",
+   "website": "https://www.poki-heaven.no/",
+   "checked_at": "2026-10-16T03:57:55Z"
+  },
+  {
+   "name": "Pokélink",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Gamle Rytterstien 74, 4046 Hafrsfjord",
+   "website": "https://pokelink.no/",
+   "checked_at": "2026-10-16T03:58:13Z"
+  },
+  {
+   "name": "Retro Bergen AS",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Olav Kyrres gate 7, 5014 Bergen",
+   "phone": "55 55 84 27",
+   "website": "https://retro.no/butikker/retro-bergen",
+   "checked_at": "2026-10-16T03:57:43Z"
+  },
+  {
+   "name": "Retro World",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "2 Dalhaugene, Bergen, Vestland, 5153, Norway",
+   "phone": "+4793210638",
+   "website": "https://retroworld.no/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:02Z"
+  },
+  {
+   "name": "Ringo Xhibition Bergen",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Småstrandgaten 3, 5014 Bergen",
+   "phone": "41 15 90 01",
+   "website": "https://www.ringo.no/",
+   "checked_at": "2026-10-16T03:57:39Z"
+  },
+  {
+   "name": "RR Store AS",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Transittgata 18, 7042 Trondheim",
+   "phone": "45 80 43 09",
+   "website": "https://rrstore.no/",
+   "checked_at": "2026-10-16T03:57:53Z"
+  },
+  {
+   "name": "Samler-Børsen AS",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Kirkeveien 44, 0368 Oslo",
+   "phone": "22 42 11 11",
+   "website": "https://samlerborsen.no/",
+   "buylist_url": "https://samlerborsen.no/vi-kjoper-gull-og-solv/",
+   "checked_at": "2026-10-16T03:57:27Z"
+  },
+  {
+   "name": "Sobrenia",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Langgata 45, Sandnes, Rogaland, 4306, Norway",
+   "phone": "4792626250",
+   "website": "https://www.sobrenia.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:08Z"
+  },
+  {
+   "name": "Tabletopbattle AS",
+   "group": "unknown",
+   "region": "Viken",
+   "address": "Høydaveien 17, Moss, Østfold, 1523, Norway",
+   "phone": "+4792064378",
+   "website": "https://www.tabletopbattle.no/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Team-united-bakeries App",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Skoglien 7, 5056 Bergen",
+   "phone": "45 20 02 11",
+   "website": "https://team-united-bakeries.no/",
+   "checked_at": "2026-10-16T03:57:45Z"
+  },
+  {
+   "name": "Thefootballidiots Stavanger",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Sølvberggata 25, 4006 Stavanger",
+   "phone": "40 34 99 55",
+   "website": "https://www.thefootballidiots.com/",
+   "checked_at": "2026-10-16T03:58:19Z"
+  },
+  {
+   "name": "Ting Bergen",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Bryggen 13, 5003 Bergen",
+   "phone": "40 03 54 08",
+   "website": "https://ting.no/",
+   "checked_at": "2026-10-16T03:57:41Z"
+  },
+  {
+   "name": "Tipshjørnet AS",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Hillevågsveien 85, 4016 Stavanger",
+   "phone": "51 58 67 82",
+   "website": "https://www.tips.no/",
+   "checked_at": "2026-10-16T03:58:18Z"
+  },
+  {
+   "name": "Trondheim Public Library Main Library",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Peter Egges plass 1, 7011 Trondheim",
+   "phone": "72 54 75 00",
+   "website": "http://www.tfb.no/",
+   "checked_at": "2026-10-16T03:58:09Z"
+  },
+  {
+   "name": "Trondheim Spektrum",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Klostergata 90, 7030 Trondheim",
+   "phone": "73 56 86 00",
+   "website": "https://trondheimspektrum.no/",
+   "checked_at": "2026-10-16T03:58:06Z"
+  },
+  {
+   "name": "Trønderfrim: Frimerker og Hobby",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "St. Olavs gate 11, 7012 Trondheim",
+   "phone": "73 52 08 40",
+   "website": "https://www.tronderfrim.no/",
+   "checked_at": "2026-10-16T03:57:47Z"
+  },
+  {
+   "name": "Vintra",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "vintrastudio.com, 0191 Oslo",
+   "website": "https://www.vintrastudio.com/",
+   "checked_at": "2026-10-16T03:57:34Z"
+  },
+  {
+   "name": "Vitenbutikken",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Kongens gate 1, 7011 Trondheim",
+   "phone": "91 90 29 79",
+   "website": "https://vitensenteret.com/",
+   "checked_at": "2026-10-16T03:57:56Z"
+  },
+  {
+   "name": "Wangsmo Antikvariat AS",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Vår Frue Strete 1, 7013 Trondheim",
+   "phone": "73 52 44 55",
+   "website": "http://www.wangsmo.com/",
+   "checked_at": "2026-10-16T03:57:53Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "region": "Oslo",
+   "address": "Møllergata 5, 0179 Oslo",
+   "phone": "22 33 29 90",
+   "website": "https://www.warhammer.com/shop/Warhammer-Oslo",
+   "checked_at": "2026-10-16T03:57:19Z"
+  },
+  {
+   "name": "WildGames",
+   "group": "unknown",
+   "address": "Storgaten 42, Tønsberg, Vestfold, 3126, Norway",
+   "phone": "+4799457019",
+   "website": "https://www.wildgames.no/",
+   "buylist_url": "https://www.wildgames.no/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:57:02Z"
+  },
+  {
+   "name": "WordVista",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Jens Tvedts gate 16, 4024 Stavanger",
+   "website": "https://playwordvista.com/",
+   "checked_at": "2026-10-16T03:58:23Z"
+  }
+ ]
+}
