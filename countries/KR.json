@@ -2,7 +2,7 @@
  "country": "KR",
  "currency": "KRW",
  "updated": "2026-10-16",
- "store_count": 188,
+ "store_count": 215,
  "stores": [
   {
    "name": "ABOUTTCG/어바웃티씨지",
@@ -81,6 +81,15 @@
    "address": "Seoul, Mapo-gu, Sinchon-ro, 254 LK빌딩 4층",
    "phone": "02-365-6279",
    "checked_at": "2026-10-16T20:55:11Z"
+  },
+  {
+   "name": "cardhit_busan",
+   "group": "in_store",
+   "region": "Busan",
+   "address": "Busan, Busanjin District, Jeonpo-daero 200beon-gil, 12 2층",
+   "phone": "050-6667-7361",
+   "website": "https://www.instagram.com/cardhit_busan?utm_source=qr",
+   "checked_at": "2026-10-16T20:55:04Z"
   },
   {
    "name": "Chicken Sampajeon / 치킨삼파전",
@@ -294,6 +303,15 @@
    "checked_at": "2026-10-16T20:55:56Z"
   },
   {
+   "name": "One Figure",
+   "group": "in_store",
+   "region": "Daegu",
+   "address": "Daegu, Jung-gu, 동성로 8-1",
+   "phone": "010-9474-0895",
+   "website": "https://twitter.com/OneFigure_Daegu",
+   "checked_at": "2026-10-16T20:55:28Z"
+  },
+  {
    "name": "Orange Bada",
    "group": "in_store",
    "region": "Busan",
@@ -308,6 +326,15 @@
    "address": "365-3 Seogyo-dong, Mapo-gu, Seoul",
    "phone": "010-2697-5916",
    "checked_at": "2026-10-16T20:55:15Z"
+  },
+  {
+   "name": "PICKGETCHU",
+   "group": "in_store",
+   "region": "Seoul",
+   "address": "Seoul, Gwanak-gu, Bongcheon-ro, 285 2층 201호",
+   "phone": "050-6851-6027",
+   "website": "https://www.instagram.com/pick_get_chu?igsh=MXJ0cDNndThmNnpm",
+   "checked_at": "2026-10-16T20:55:04Z"
   },
   {
    "name": "Play Arena",
@@ -326,6 +353,16 @@
    "address": "Busan, Jung-gu, Gudeok-ro 34beon-gil, 7 대가빌딩 2층",
    "phone": "010-2563-1772",
    "checked_at": "2026-10-16T20:56:00Z"
+  },
+  {
+   "name": "pokaverse",
+   "group": "in_store",
+   "city": "구리시",
+   "region": "경기도",
+   "address": "Chungha Sittel floor 4 room 465, 54 검배로 구리시 경기도",
+   "phone": "010-7616-9507",
+   "website": "https://twitter.com/pokaverse",
+   "checked_at": "2026-10-16T20:55:28Z"
   },
   {
    "name": "Pure Magic Trading",
@@ -478,12 +515,35 @@
    "checked_at": "2026-10-16T20:55:09Z"
   },
   {
+   "name": "TCG 카드아지트 인천청라CGV점",
+   "group": "in_store",
+   "region": "Incheon",
+   "address": "Incheon, 청라 CGV점 KR 인천광역시 서구 청라루비로 76, 323호 TCG 카드아지트",
+   "website": "https://www.instagram.com/tcg_cardazit_official",
+   "checked_at": "2026-10-16T20:55:04Z"
+  },
+  {
+   "name": "TCG새틀라이트",
+   "group": "in_store",
+   "region": "Incheon",
+   "address": "Incheon, Bupyeong District, Jangje-ro, 217-1 2 층",
+   "checked_at": "2026-10-16T20:55:15Z"
+  },
+  {
    "name": "TCG카드노바",
    "group": "in_store",
-   "city": "Jinju",
    "region": "Seoul",
    "address": "Seoul, Gangnam District, Teheran-ro 1-gil, 16 4 층",
    "phone": "010-6403-1020",
+   "checked_at": "2026-10-16T20:55:15Z"
+  },
+  {
+   "name": "TCG팩토리",
+   "group": "in_store",
+   "city": "Jinju",
+   "region": "Gyeongsangnam-do",
+   "address": "Gyeongsangnam-do, Jinju, Daean-dong, 11-1 2층",
+   "phone": "010-4949-8387",
    "checked_at": "2026-10-16T20:55:15Z"
   },
   {
@@ -563,7 +623,7 @@
    "region": "Gyeonggi-do",
    "address": "Gyeonggi-do, Guri-si, Gyeongchun-ro 227beon-gil, 6-9 2층 KR",
    "phone": "050-71334-5113",
-   "checked_at": "2026-10-16T20:55:26Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "규키아지트 // Gyukieagit",
@@ -582,7 +642,7 @@
    "group": "in_store",
    "region": "Seoul",
    "address": "Seoul, Nowon-gu, Dongil-ro, 1354 5층",
-   "checked_at": "2026-10-16T20:55:51Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "던전다이스",
@@ -592,14 +652,14 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:55:09Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "동대문 문구 완구 거리",
    "group": "in_store",
    "region": "Seoul",
    "address": "455-9 Changsin-dong, Jongno District, Seoul",
-   "checked_at": "2026-10-16T20:55:47Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "듀얼파크",
@@ -607,14 +667,14 @@
    "region": "Seoul",
    "address": "Seoul, 신정동 902-3번지 지층 양천구 서울특별시 KR",
    "phone": "02-2602-6279",
-   "checked_at": "2026-10-16T20:55:51Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "목동 카드챔프",
    "group": "in_store",
    "region": "Seoul",
    "address": "194 Omok-ro, Yangcheon District, Seoul",
-   "checked_at": "2026-10-16T20:55:20Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "미카엘 TCG Shop",
@@ -629,7 +689,7 @@
    "group": "in_store",
    "region": "Incheon",
    "address": "Incheon, 부평동 203-38번지 지층 부평구 인천광역시 KR",
-   "checked_at": "2026-10-16T20:56:18Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "브레이크앤컴퍼니(break & company)",
@@ -647,7 +707,7 @@
    "region": "Daegu",
    "address": "2242-3 Daemyeong-dong, Nam-gu, Daegu",
    "phone": "010-8201-2706",
-   "checked_at": "2026-10-16T20:56:21Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "오늘안녕 / Today Hello",
@@ -665,7 +725,7 @@
    "region": "Busan",
    "address": "Busan, Geumjeong-gu, Jangjeon-dong, 227-5 201호",
    "phone": "051-515-5608",
-   "checked_at": "2026-10-16T20:56:05Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "정무샵   JUNGMOO SHOP",
@@ -679,12 +739,21 @@
    "checked_at": "2026-10-16T20:55:09Z"
   },
   {
+   "name": "제이클로버",
+   "group": "in_store",
+   "region": "Busan",
+   "address": "905 Jungang-daero, Busanjin District, Busan",
+   "phone": "010-4937-6318",
+   "website": "https://twitter.com/busanjoker",
+   "checked_at": "2026-10-16T20:55:28Z"
+  },
+  {
    "name": "종로서적 청라점",
    "group": "in_store",
    "region": "Incheon",
    "address": "Incheon, Seo-gu, Cheongna emerald-ro, 79 청라커넬에비뉴 지하 1층",
    "phone": "032-567-2331",
-   "checked_at": "2026-10-16T20:56:14Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "카드 스퀘어",
@@ -692,7 +761,7 @@
    "region": "Seoul",
    "address": "Seoul, Jung District, Dasan-ro 40-gil, 51 지하 1층",
    "phone": "02-6015-5689",
-   "checked_at": "2026-10-16T20:55:15Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "카드냥 토너먼트센터",
@@ -702,7 +771,16 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:55:09Z"
+   "checked_at": "2026-10-16T20:56:24Z"
+  },
+  {
+   "name": "카드타운",
+   "group": "in_store",
+   "region": "Seoul",
+   "address": "Seoul, Gangdong-gu, Cheonho-daero 151-gil, 43 카드타운 1층",
+   "phone": "010-7463-2004",
+   "website": "https://www.instagram.com/cardtown_kr/",
+   "checked_at": "2026-10-16T20:55:04Z"
   },
   {
    "name": "카드팝 (Cardpop)",
@@ -713,12 +791,20 @@
    "checked_at": "2026-10-16T20:55:20Z"
   },
   {
+   "name": "카드플래닛 수원",
+   "group": "in_store",
+   "city": "Suwon",
+   "region": "Gyeonggi-do",
+   "address": "73-1 Cheongmyeong-ro, Yeongtong-gu, Suwon, Gyeonggi-do",
+   "phone": "070-8777-4264",
+   "website": "https://twitter.com/cardplanet_kr",
+   "checked_at": "2026-10-16T20:55:28Z"
+  },
+  {
    "name": "쿠로상점(Kuro Store)",
    "group": "in_store",
-   "city": "구리시",
    "region": "Seoul",
    "address": "69 Hangang-daero, Yongsan District, Seoul",
-   "phone": "010-7616-9507",
    "website": "https://twitter.com/kurostore_",
    "checked_at": "2026-10-16T20:55:28Z"
   },
@@ -727,7 +813,7 @@
    "group": "in_store",
    "region": "Busan",
    "address": "134-1 Chungnyeol-daero, Oncheon-dong, Dongnae-gu, Busan",
-   "checked_at": "2026-10-16T20:56:05Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "티씨지스타디움",
@@ -743,7 +829,7 @@
    "region": "Busan",
    "address": "Busan, Nam-gu, Daeyeon-dong, 번지 지하 68-10",
    "phone": "010-5167-1629",
-   "checked_at": "2026-10-16T20:56:05Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "포켓몬 카드",
@@ -758,14 +844,14 @@
    "group": "in_store",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, Hangang-daero 23-gil, 55 용산역 아이파크몰",
-   "checked_at": "2026-10-16T20:55:34Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "해방촌콤콤오락실",
    "group": "in_store",
    "region": "Seoul",
    "address": "19-17 yongsan-dong 2(i)-ga, Yongsan District, Seoul",
-   "checked_at": "2026-10-16T20:55:27Z"
+   "checked_at": "2026-10-16T20:56:24Z"
   },
   {
    "name": "Aladdin Used Bookstore Incheon Songdo",
@@ -803,6 +889,15 @@
    "phone": "02-3144-7357",
    "website": "https://www.animate-onlineshop.co.kr/",
    "checked_at": "2026-10-16T20:55:36Z"
+  },
+  {
+   "name": "Anseodang",
+   "group": "unknown",
+   "region": "Seoul",
+   "address": "17 Sinchon-ro 6-gil, Mapo-gu, Seoul",
+   "phone": "010-7403-1816",
+   "website": "https://m.smartstore.naver.com/cardkingdom",
+   "checked_at": "2026-10-16T20:55:16Z"
   },
   {
    "name": "Artbox Daegu Jungang",
@@ -957,6 +1052,15 @@
    "checked_at": "2026-10-16T20:56:18Z"
   },
   {
+   "name": "Costco Wholesale Daejeon",
+   "group": "unknown",
+   "region": "Daejeon",
+   "address": "41 Oryu-ro, Jung-gu, Daejeon",
+   "phone": "1899-9900",
+   "website": "https://www.costco.co.kr/closedSchedule",
+   "checked_at": "2026-10-16T20:56:18Z"
+  },
+  {
    "name": "Custom Card Shop",
    "group": "unknown",
    "region": "대전광역시",
@@ -1068,6 +1172,24 @@
    "checked_at": "2026-10-16T20:55:28Z"
   },
   {
+   "name": "Gundam base Daegu",
+   "group": "unknown",
+   "region": "Daegu",
+   "address": "95 Dongseong-ro 2-gil, 성내1동 Jung-gu, Daegu",
+   "phone": "053-426-2805",
+   "website": "https://kr.gundam-official.com/",
+   "checked_at": "2026-10-16T20:55:28Z"
+  },
+  {
+   "name": "Gundam Base, Seomyeon",
+   "group": "unknown",
+   "region": "Busan",
+   "address": "Busan, Busanjin District, Jungang-daero, 672 삼정타워 7층",
+   "phone": "051-818-3440",
+   "website": "https://kr.gundam-official.com/",
+   "checked_at": "2026-10-16T20:55:28Z"
+  },
+  {
    "name": "Hobby Game Mall - Jongno",
    "group": "unknown",
    "city": "Bucheon",
@@ -1175,6 +1297,15 @@
    "checked_at": "2026-10-16T20:55:21Z"
   },
   {
+   "name": "Kyobo Book Centre Busan",
+   "group": "unknown",
+   "region": "Busan",
+   "address": "Busan, Busanjin District, Jungang-daero, 658 1F, B1F",
+   "phone": "051-806-3501",
+   "website": "https://www.kyobobook.co.kr/",
+   "checked_at": "2026-10-16T20:55:49Z"
+  },
+  {
    "name": "Kyobo Book Centre Gwanghwamun",
    "group": "unknown",
    "region": "Seoul",
@@ -1184,9 +1315,17 @@
    "checked_at": "2026-10-16T20:55:49Z"
   },
   {
+   "name": "Kyobo Book Centre Incheon",
+   "group": "unknown",
+   "region": "Incheon",
+   "address": "138 Yesul-ro, Namdong-gu, Incheon",
+   "phone": "032-455-1000",
+   "website": "https://www.kyobobook.co.kr/",
+   "checked_at": "2026-10-16T20:55:49Z"
+  },
+  {
    "name": "LAS TCG",
    "group": "unknown",
-   "city": "Anyang",
    "region": "Seoul",
    "address": "302ho, 2dong, 907, Jungang-daero, Danwon-gu, Ansan-si, Gyeonggi-do, 15361, Korea, Republic of",
    "phone": "+82314109219",
@@ -1278,12 +1417,32 @@
    "checked_at": "2026-10-16T20:55:51Z"
   },
   {
+   "name": "MTG Osan Tabletop",
+   "group": "unknown",
+   "city": "평택시",
+   "region": "경기도",
+   "address": "205 2, Sinjang 1-ro, Pyeongtaek-si, Gyeonggi-do, 205호, 로얄 코리아, 2 신장1로 평택시 경기도",
+   "phone": "070-8285-6795",
+   "website": "https://mtgosan.com/",
+   "checked_at": "2026-10-16T21:51:57Z"
+  },
+  {
    "name": "POCA SPOT Myeong-dong",
    "group": "unknown",
    "region": "Seoul",
    "address": "33 Myeongdong 8na-gil, Jung District, Seoul",
    "website": "https://www.pocaspot.com/myeongdong",
    "checked_at": "2026-10-16T20:55:16Z"
+  },
+  {
+   "name": "Pokemon Card Shop",
+   "group": "unknown",
+   "city": "Pyeongtaek",
+   "region": "Gyeonggi-do",
+   "address": "Gyeonggi-do, Pyeongtaek, Pyeongtaek 2-ro, 16 3층",
+   "phone": "010-2712-8884",
+   "website": "https://smartstore.naver.com/dcave",
+   "checked_at": "2026-10-16T20:55:09Z"
   },
   {
    "name": "Pokemon Card Shop BUSAN",
@@ -1418,6 +1577,15 @@
    "checked_at": "2026-10-16T20:56:06Z"
   },
   {
+   "name": "TRADERS WHOLESALE CLUB (Big Emart)",
+   "group": "unknown",
+   "region": "Incheon",
+   "address": "82 Bongsu-daero, Dong-gu, Incheon",
+   "phone": "032-722-1234",
+   "website": "https://www.traders.co.kr/index.jsp",
+   "checked_at": "2026-10-16T20:56:06Z"
+  },
+  {
    "name": "Trainer School / 트레이너 스쿨",
    "group": "unknown",
    "region": "Daegu",
@@ -1474,6 +1642,16 @@
    "phone": "1566-4295",
    "website": "https://www.yes24.com/Mall/UsedStore/Detail/Suyeong",
    "checked_at": "2026-10-16T20:56:05Z"
+  },
+  {
+   "name": "게임홀릭",
+   "group": "unknown",
+   "region": "Incheon",
+   "address": "52 Juan-ro, Michuhol-gu, Incheon",
+   "phone": "010-4110-3991",
+   "website": "https://cafe.naver.com/isoodp",
+   "buylist_url": "https://cafe.naver.com/buylist",
+   "checked_at": "2026-10-16T20:55:20Z"
   },
   {
    "name": "금정배틀시티",
@@ -1563,6 +1741,16 @@
    "checked_at": "2026-10-16T20:56:29Z"
   },
   {
+   "name": "보드게임카페 미니빌 서면점",
+   "group": "unknown",
+   "region": "Busan",
+   "address": "Busan, Busanjin District, Jungang-daero 692beon-gil, 33 4층",
+   "phone": "070-4149-8228",
+   "website": "https://linktr.ee/lastcg",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:55:01Z"
+  },
+  {
    "name": "세기P&C",
    "group": "unknown",
    "region": "Seoul",
@@ -1570,6 +1758,16 @@
    "phone": "02-3668-3114",
    "website": "https://www.saeki.co.kr/main",
    "checked_at": "2026-10-16T20:55:55Z"
+  },
+  {
+   "name": "스카이스크레이퍼",
+   "group": "unknown",
+   "city": "Bucheon",
+   "region": "Gyeonggi-do",
+   "address": "Gyeonggi-do, Bucheon, 번지 Yeokgok-dong, 50-6 501호",
+   "website": "https://x.com/TCGLifelink",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T20:55:00Z"
   },
   {
    "name": "아트박스 부산서면점",
@@ -1599,6 +1797,16 @@
    "website": "https://www.aladin.co.kr/usedstore/wstoremain.aspx?offcode=cheongna",
    "buylist_url": "https://www.aladin.co.kr/cs_center/wcs_faq_list.aspx?CategoryId=243&UpperId=238",
    "checked_at": "2026-10-16T20:56:14Z"
+  },
+  {
+   "name": "영풍문고 대전점",
+   "group": "unknown",
+   "region": "Daejeon",
+   "address": "Daejeon, Dong-gu, 용전동 68-2 2층",
+   "phone": "042-623-4914",
+   "website": "https://www.ypbooks.co.kr/",
+   "buylist_url": "https://www.ypbooks.co.kr/retailer/buylist",
+   "checked_at": "2026-10-16T20:56:15Z"
   },
   {
    "name": "영풍문고 인천스퀘어원점",
@@ -1665,6 +1873,27 @@
    "checked_at": "2026-10-16T20:55:20Z"
   },
   {
+   "name": "트레이너스 TRAINERS - TCG Card Shop Korea",
+   "group": "unknown",
+   "city": "Anyang",
+   "region": "Gyeonggi-do",
+   "address": "Gyeonggi-do, Anyang, Dongan-gu, Pyeongchon-daero 217beon-gil, 15 트레이너스 3층",
+   "phone": "070-8899-2030",
+   "website": "https://linktr.ee/lastcg",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:55:01Z"
+  },
+  {
+   "name": "티씨지드로우",
+   "group": "unknown",
+   "region": "Busan",
+   "address": "Busan, Nam-gu, Suyeong-ro 298beon-gil, 37 용수빌딩 티씨지드로우 6층",
+   "phone": "050-71331-3065",
+   "website": "https://cafe.naver.com/isoodp",
+   "buylist_url": "https://cafe.naver.com/buylist",
+   "checked_at": "2026-10-16T20:55:20Z"
+  },
+  {
    "name": "파워스테이션",
    "group": "unknown",
    "region": "Busan",
@@ -1688,6 +1917,15 @@
    "region": "Seoul",
    "address": "14 Apgujeong-ro 10-gil, Gangnam District, Seoul",
    "website": "https://4cards.net/",
+   "checked_at": "2026-10-16T20:55:16Z"
+  },
+  {
+   "name": "포켓몬 카드샵 카드베이스 부산",
+   "group": "unknown",
+   "region": "Busan",
+   "address": "533-115 Myeongnyun-dong, Dongnae-gu, Busan",
+   "phone": "050-71491-9697",
+   "website": "https://m.smartstore.naver.com/cardkingdom",
    "checked_at": "2026-10-16T20:55:16Z"
   },
   {
@@ -1718,6 +1956,14 @@
    "phone": "051-807-3861",
    "website": "https://mkt.shopping.naver.com/link/686dd581b202c219c6e4aa4f",
    "checked_at": "2026-10-16T20:56:00Z"
+  },
+  {
+   "name": "하비홀릭",
+   "group": "unknown",
+   "region": "Seoul",
+   "address": "Seoul, 당산동4가 32-61번지 4동 선명빌딩 영등포구 서울특별시 KR",
+   "website": "https://m.smartstore.naver.com/cardkingdom",
+   "checked_at": "2026-10-16T20:55:16Z"
   },
   {
    "name": "호키랜드",

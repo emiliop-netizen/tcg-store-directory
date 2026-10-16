@@ -1,8 +1,8 @@
 {
  "country": "BE",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 262,
+ "updated": "2026-10-16",
+ "store_count": 301,
  "stores": [
   {
    "name": "Blazing Tail Bruxelles",
@@ -122,6 +122,26 @@
    "checked_at": "2026-10-16T03:28:18Z"
   },
   {
+   "name": "King Jouet Flémalle",
+   "group": "blocked",
+   "city": "Flémalle",
+   "region": "Région wallonne",
+   "address": "Rue du Pass. d'Eau 2, 4400 Flémalle",
+   "phone": "04 253 34 42",
+   "website": "https://www.king-jouet.be/magasins/BRU-Bruxelles-capitale/magasin-Brussel-1320.htm",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
+   "name": "King Jouet Fléron",
+   "group": "blocked",
+   "city": "Fléron",
+   "region": "Région wallonne",
+   "address": "Rue de la Clef 28, 4620 Fléron",
+   "phone": "04 355 04 03",
+   "website": "https://www.king-jouet.be/magasins/BRU-Bruxelles-capitale/magasin-Brussel-1320.htm",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
    "name": "King Toy",
    "group": "blocked",
    "city": "Bruxelles",
@@ -139,6 +159,16 @@
    "address": "Rue François Libert 25A, 1410 Waterloo",
    "website": "https://www.lacitedesnuages.be/",
    "checked_at": "2026-10-16T03:26:42Z"
+  },
+  {
+   "name": "Le Coin des Barons - Liège",
+   "group": "blocked",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Pont d'île 46, 4000 Liège",
+   "phone": "0470 21 10 13",
+   "website": "https://lecoindesbarons.com/",
+   "checked_at": "2026-10-16T03:23:26Z"
   },
   {
    "name": "Le Coin des Barons Bruxelles",
@@ -225,6 +255,19 @@
    "checked_at": "2026-10-16T03:23:44Z"
   },
   {
+   "name": "Outpost Ghent",
+   "group": "blocked",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Ottergemsesteenweg 13, 9000 Gent, Belgium, Gent, Vlaanderen, 9000",
+   "phone": "+32 (0)9 245 44 84",
+   "website": "https://www.outpost.be/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:23:44Z"
+  },
+  {
    "name": "Pandora",
    "group": "blocked",
    "city": "Antwerpen",
@@ -235,12 +278,72 @@
    "checked_at": "2026-10-16T03:28:01Z"
   },
   {
+   "name": "Pandora",
+   "group": "blocked",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Steenstraat 27, 8000 Brugge",
+   "phone": "050 69 11 10",
+   "website": "https://ca.pandora.net/en",
+   "checked_at": "2026-10-16T03:28:01Z"
+  },
+  {
+   "name": "Road Sixty Geek Verviers (ex Smartoys)",
+   "group": "blocked",
+   "city": "Verviers",
+   "region": "Région wallonne",
+   "address": "Rue du Brou 73, 4800 Verviers",
+   "phone": "087 55 35 97",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
+   "name": "Smartoys : Ixelles",
+   "group": "blocked",
+   "city": "Ixelles",
+   "region": "Bruxelles",
+   "address": "Chau. d'Ixelles 120, 1050 Ixelles",
+   "phone": "0472 53 13 09",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
    "name": "Smartoys Bourse",
    "group": "blocked",
    "city": "Bruxelles",
    "region": "Bruxelles",
    "address": "Rue des Pierres 20, 1000 Bruxelles",
    "phone": "0475 76 00 60",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
+   "name": "Smartoys Huy",
+   "group": "blocked",
+   "city": "Huy",
+   "region": "Région wallonne",
+   "address": "Rue des Augustins 17, 4500 Huy",
+   "phone": "085 25 49 15",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
+   "name": "Smartoys Liège",
+   "group": "blocked",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Régence 12, 4000 Liège",
+   "phone": "04 222 36 38",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
+   "name": "Smartoys Uccle",
+   "group": "blocked",
+   "city": "Uccle",
+   "region": "Bruxelles",
+   "address": "Chau. d'Alsemberg 831, 1180 Uccle",
+   "phone": "02 345 38 98",
    "website": "https://www.smartoys.be/catalog/index.php",
    "checked_at": "2026-10-16T03:26:26Z"
   },
@@ -386,6 +489,18 @@
    "checked_at": "2026-10-16T03:28:51Z"
   },
   {
+   "name": "Au Bazar de Yiruld",
+   "group": "in_store",
+   "city": "Charleroi",
+   "region": "Région Wallonne",
+   "address": "Av. de l'Europe 14, 6000 Charleroi, Belgium, Charleroi, Région Wallonne, 6000",
+   "phone": "+32 493 37 18 71",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:15Z"
+  },
+  {
    "name": "Blackfire OP",
    "group": "in_store",
    "city": "Nazareth-De Pinte",
@@ -471,6 +586,15 @@
    "checked_at": "2026-10-16T03:27:47Z"
   },
   {
+   "name": "Geeky Cauldron",
+   "group": "in_store",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Sint-Jacobsmarkt 88/90, 2000 Antwerpen",
+   "website": "https://www.facebook.com/CafeTheGeekycauldron/",
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
    "name": "H-Games Sprl",
    "group": "in_store",
    "city": "Bruxelles",
@@ -510,6 +634,16 @@
    "address": "Shopping Centre, Turnhoutsebaan 5/Unit 236/237, 2110 Wijnegem",
    "phone": "03 300 28 25",
    "checked_at": "2026-10-16T03:27:56Z"
+  },
+  {
+   "name": "Hors-série",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 67, 1000 Bruxelles",
+   "phone": "02 534 79 59",
+   "website": "https://www.facebook.com/horsserieshop/",
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Jade TCG",
@@ -651,6 +785,17 @@
    "checked_at": "2026-10-16T03:27:07Z"
   },
   {
+   "name": "Njoy Games",
+   "group": "in_store",
+   "city": "Mons",
+   "region": "Région wallonne",
+   "address": "Rue d'Havré 72, 7000 Mons, Belgium, Mons, Région wallonne, 7000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:15Z"
+  },
+  {
    "name": "Oro Trading Snc",
    "group": "in_store",
    "city": "Liège",
@@ -681,6 +826,18 @@
    "checked_at": "2026-10-16T03:27:23Z"
   },
   {
+   "name": "Pawntheon",
+   "group": "in_store",
+   "city": "Ieper",
+   "region": "Vlaanderen",
+   "address": "Diksmuidestraat 8, 8900 Ieper, Belgium, Ieper, Vlaanderen, 8900",
+   "phone": "+32474257361",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:15Z"
+  },
+  {
    "name": "Pierret Michel",
    "group": "in_store",
    "city": "Liège",
@@ -705,6 +862,16 @@
    "address": "Pl. des Guillemins 2, 4000 Liège",
    "phone": "04 253 36 45",
    "checked_at": "2026-10-16T03:28:55Z"
+  },
+  {
+   "name": "Station 11",
+   "group": "in_store",
+   "city": "Ans",
+   "region": "Région wallonne",
+   "address": "Rue de la Station 11, 4430 Ans",
+   "phone": "04 368 87 63",
+   "website": "https://www.facebook.com/profile.php?id=100083006328739",
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Super TCG",
@@ -748,6 +915,16 @@
    "address": "Plantin en Moretuslei, 2018 Antwerpen",
    "phone": "667 91 20 72",
    "checked_at": "2026-10-16T03:27:48Z"
+  },
+  {
+   "name": "Topio Games",
+   "group": "in_store",
+   "city": "Charleroi",
+   "region": "Région wallonne",
+   "address": "Shopping Rive Gauche, Pl. Verte 20, 6000 Charleroi",
+   "phone": "0495 73 77 09",
+   "website": "https://www.facebook.com/Topiogamescharleroi",
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Topio Games Liège",
@@ -893,6 +1070,19 @@
    "checked_at": "2026-10-16T03:27:19Z"
   },
   {
+   "name": "'t Spelgeweld",
+   "group": "unknown",
+   "city": "Roeselare",
+   "region": "Vlaanderen",
+   "address": "Noordstraat 41, 8800 Roeselare, Belgium, Roeselare, Vlaanderen, 8800",
+   "phone": "051 20 43 88",
+   "website": "https://www.tspelgeweld.be/nl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:15Z"
+  },
+  {
    "name": "A fond d'Bulles",
    "group": "unknown",
    "city": "Woluwe-St.-Lambert",
@@ -1026,6 +1216,36 @@
    "region": "Bruxelles",
    "address": "Rue des Palais Outre-Ponts 420, 1020 Bruxelles",
    "phone": "02 479 22 47",
+   "website": "http://www.broze.be/",
+   "checked_at": "2026-10-16T03:27:09Z"
+  },
+  {
+   "name": "Broze Toys Grivegnée",
+   "group": "unknown",
+   "city": "Luik",
+   "region": "Waals Gewest",
+   "address": "Rue Bonne Femme 18, 4030 Luik",
+   "phone": "04 344 48 41",
+   "website": "http://www.broze.be/",
+   "checked_at": "2026-10-16T03:27:09Z"
+  },
+  {
+   "name": "Broze Toys Rocourt",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Chau. de Tongres 289, 4000 Liège",
+   "phone": "04 239 02 39",
+   "website": "http://www.broze.be/",
+   "checked_at": "2026-10-16T03:27:09Z"
+  },
+  {
+   "name": "Broze Toys Soumagne",
+   "group": "unknown",
+   "city": "Soumagne",
+   "region": "Région wallonne",
+   "address": "Av. de la Résistance 208, 4630 Soumagne",
+   "phone": "04 377 51 42",
    "website": "http://www.broze.be/",
    "checked_at": "2026-10-16T03:27:09Z"
   },
@@ -1440,6 +1660,106 @@
    "checked_at": "2026-10-16T03:27:10Z"
   },
   {
+   "name": "DreamLand",
+   "group": "unknown",
+   "city": "Lier",
+   "region": "Vlaanderen",
+   "address": "Antwerpsesteenweg 342, 2500 Lier",
+   "phone": "03 489 38 78",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "Dreamland",
+   "group": "unknown",
+   "city": "Oostende",
+   "region": "Vlaanderen",
+   "address": "Torhoutsesteenweg 694, 8400 Oostende",
+   "phone": "059 80 32 62",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Beveren",
+   "group": "unknown",
+   "city": "Beveren-Kruibeke-Zwijndrecht",
+   "region": "Vlaanderen",
+   "address": "Pareinpark 1, 9120 Beveren-Kruibeke-Zwijndrecht",
+   "phone": "03 755 80 39",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Bornem",
+   "group": "unknown",
+   "city": "Bornem",
+   "region": "Vlaanderen",
+   "address": "Rijksweg 60, 2880 Bornem",
+   "phone": "03 825 45 66",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "Dreamland Bruges",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Blankenbergse Steenweg, Monnikenwerve 420, 8000 Brugge",
+   "phone": "050 31 69 49",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Gent",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Ende Were 2-E, 9000 Gent",
+   "phone": "09 236 13 98",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Herstal",
+   "group": "unknown",
+   "city": "Herstal",
+   "region": "Région wallonne",
+   "address": "Rue des Naiveux 14, 4040 Herstal",
+   "phone": "04 264 25 09",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Rocourt",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Chau. de Tongres 269, 4000 Liège",
+   "phone": "04 290 91 01",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Roeselare",
+   "group": "unknown",
+   "city": "Roeselare",
+   "region": "Vlaanderen",
+   "address": "Brugsesteenweg 353, 8800 Roeselare",
+   "phone": "051 25 34 57",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "DreamLand Wilrijk",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Boomsesteenweg 546, 2610 Antwerpen",
+   "phone": "03 820 68 00",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
    "name": "FANS - Collectibles & Verzamelobjecten Antwerpen",
    "group": "unknown",
    "city": "Antwerpen",
@@ -1703,6 +2023,16 @@
    "checked_at": "2026-10-16T03:28:59Z"
   },
   {
+   "name": "La Maison du Bridge",
+   "group": "unknown",
+   "city": "Ixelles",
+   "region": "Bruxelles",
+   "address": "Rue du Bailli 61, 1050 Ixelles",
+   "phone": "02 345 02 54",
+   "website": "https://bruxelles.ludotrotter.be",
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
    "name": "La taverne des dresseurs",
    "group": "unknown",
    "city": "Uccle",
@@ -1871,6 +2201,16 @@
    "checked_at": "2026-10-16T03:23:41Z"
   },
   {
+   "name": "Ludotrotter",
+   "group": "unknown",
+   "city": "Woluwe-St.-Lambert",
+   "region": "Bruxelles",
+   "address": "Av. Georges Henri 466, 1200 Woluwe-Saint-Lambert",
+   "phone": "02 734 22 55",
+   "website": "https://bruxelles.ludotrotter.be",
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
    "name": "Ludotrotter Bruxelles",
    "group": "unknown",
    "city": "Woluwe-Saint-Lambert",
@@ -1895,6 +2235,19 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:33Z"
+  },
+  {
+   "name": "Ludotrotter Nivelles",
+   "group": "unknown",
+   "city": "Nivelles",
+   "region": "Région Wallonne",
+   "address": "Rue de Saintes 11b, 1400 Nivelles, Belgium, Nivelles, Région Wallonne, 1400",
+   "phone": "+32 67 44 43 97",
+   "website": "https://jeux-de-societe.be",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:23:33Z"
   },
@@ -2164,6 +2517,16 @@
    "checked_at": "2026-10-16T03:24:14Z"
   },
   {
+   "name": "Oli Wood Toys",
+   "group": "unknown",
+   "city": "Ixelles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 529, 1050 Ixelles",
+   "phone": "02 319 53 95",
+   "website": "https://oliwoodtoys.be/fr/?utm_source=google&utm_medium=mybusiness&utm_campaign=GMB-Etterbeek",
+   "checked_at": "2026-10-16T03:26:55Z"
+  },
+  {
    "name": "Oli Wood Toys Etterbeek",
    "group": "unknown",
    "city": "Bruxelles",
@@ -2296,6 +2659,16 @@
    "checked_at": "2026-10-16T03:23:59Z"
   },
   {
+   "name": "Pêle-Mêle",
+   "group": "unknown",
+   "city": "Ixelles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 566, 1050 Ixelles",
+   "phone": "02 548 78 00",
+   "website": "https://pele-mele.be/bruxelles/",
+   "checked_at": "2026-10-16T03:26:49Z"
+  },
+  {
    "name": "Quartier Geek",
    "group": "unknown",
    "city": "Herstal",
@@ -2370,6 +2743,16 @@
    "phone": "04 342 22 23",
    "website": "https://belle-ile.be/fr",
    "checked_at": "2026-10-16T03:28:51Z"
+  },
+  {
+   "name": "Slumberland Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue des Dominicains 24, 4000 Liège",
+   "phone": "04 223 55 01",
+   "website": "http://www.slumberlandbdworld.com/",
+   "checked_at": "2026-10-16T03:27:23Z"
   },
   {
    "name": "Slumberland Musée de la BD",
@@ -2710,6 +3093,26 @@
    "region": "Vlaanderen",
    "address": "Vleminckstraat 10, 2000 Antwerpen",
    "phone": "03 485 86 27",
+   "website": "https://www.warhammer.com/shop/Warhammer-Antwerpen",
+   "checked_at": "2026-10-16T03:27:45Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Sint-Niklaasstraat 17A/19, 9000 Gent",
+   "phone": "09 223 91 20",
+   "website": "https://www.warhammer.com/shop/Warhammer-Antwerpen",
+   "checked_at": "2026-10-16T03:27:45Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Régence 27, 4000 Liège",
+   "phone": "04 250 06 99",
    "website": "https://www.warhammer.com/shop/Warhammer-Antwerpen",
    "checked_at": "2026-10-16T03:27:45Z"
   },

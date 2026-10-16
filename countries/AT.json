@@ -1,8 +1,8 @@
 {
  "country": "AT",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 183,
+ "updated": "2026-10-16",
+ "store_count": 206,
  "stores": [
   {
    "name": "Rare Hunter Shop",
@@ -200,6 +200,36 @@
    "checked_at": "2026-10-16T03:33:29Z"
   },
   {
+   "name": "Thalia",
+   "group": "blocked",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Ostbahnstraße 3, 8041 Graz",
+   "phone": "0732 761566617",
+   "website": "https://www.thalia.at/buchhandlung/6412?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=wien",
+   "checked_at": "2026-10-16T03:34:55Z"
+  },
+  {
+   "name": "Thalia Innsbruck - Sillpark",
+   "group": "blocked",
+   "city": "Innsbruck",
+   "region": "Tirol",
+   "address": "Museumstraße 38a, 6020 Innsbruck",
+   "phone": "0732 761546217",
+   "website": "https://www.thalia.at/buchhandlung/6412?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=wien",
+   "checked_at": "2026-10-16T03:34:55Z"
+  },
+  {
+   "name": "Thalia Linz - Landstraße",
+   "group": "blocked",
+   "city": "Linz",
+   "region": "Oberösterreich",
+   "address": "Landstraße 41, 4020 Linz",
+   "phone": "0732 761565102",
+   "website": "https://www.thalia.at/buchhandlung/6412?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=wien",
+   "checked_at": "2026-10-16T03:34:55Z"
+  },
+  {
    "name": "Thalia Wien - Mariahilfer Straße",
    "group": "blocked",
    "city": "Wien",
@@ -313,6 +343,15 @@
    "checked_at": "2026-10-16T03:34:45Z"
   },
   {
+   "name": "GameBook",
+   "group": "in_store",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Zoisweg, 8041 Graz",
+   "phone": "0676 4613430",
+   "checked_at": "2026-10-16T03:34:45Z"
+  },
+  {
    "name": "Gifts & Things - Souvenirs und Geschenkartikel",
    "group": "in_store",
    "city": "Salzburg",
@@ -367,6 +406,14 @@
    "website": "https://www.kultundkram.at/",
    "buylist_url": "https://www.kultundkram.at/ankauf",
    "checked_at": "2026-10-16T03:34:58Z"
+  },
+  {
+   "name": "Lootbox Kufstein",
+   "group": "in_store",
+   "city": "Kufstein",
+   "region": "Tirol",
+   "address": "Feldgasse 1 Kufstein Galerien, 1.OG, 6330 Kufstein",
+   "checked_at": "2026-10-16T21:50:06Z"
   },
   {
    "name": "Möldner GmbH",
@@ -443,6 +490,16 @@
    "region": "Wien",
    "address": "Am Heumarkt 31, 1030 Wien",
    "checked_at": "2026-10-16T03:34:21Z"
+  },
+  {
+   "name": "Trading Cards United",
+   "group": "in_store",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Münzgrabenstraße 10, 8010 Graz",
+   "phone": "0676 4163232",
+   "website": "https://www.facebook.com/share/15YNe6gD96/",
+   "checked_at": "2026-10-16T03:33:16Z"
   },
   {
    "name": "Trading Cards United E.u.",
@@ -558,6 +615,18 @@
    "region": "Steiermark",
    "address": "Jakoministraße 8, 8010 Graz",
    "phone": "0316 306319",
+   "website": "https://anigame.at/",
+   "buylist_url": "https://anigame.at/pages/tcg-ankauf",
+   "credit_bonus": "Trade value up to 70% of Cardmarket vs 50% cash",
+   "checked_at": "2026-10-16T03:35:02Z"
+  },
+  {
+   "name": "ANIGAME",
+   "group": "unknown",
+   "city": "Seiersberg",
+   "region": "Steiermark",
+   "address": "Shopping City Seiersberg, 8055 Seiersberg",
+   "phone": "0316 476221",
    "website": "https://anigame.at/",
    "buylist_url": "https://anigame.at/pages/tcg-ankauf",
    "credit_bonus": "Trade value up to 70% of Cardmarket vs 50% cash",
@@ -717,6 +786,16 @@
    "checked_at": "2026-10-16T03:34:19Z"
   },
   {
+   "name": "COMIC Treff Buchhandels GmbH | Wien - Barnabitengasse",
+   "group": "unknown",
+   "city": "Wien",
+   "region": "Wien",
+   "address": "Barnabitengasse 12, 1060 Wien",
+   "phone": "01 5867627",
+   "website": "https://www.comictreff.at/",
+   "checked_at": "2026-10-16T03:34:19Z"
+  },
+  {
    "name": "Comic-Galerie",
    "group": "unknown",
    "city": "Wien",
@@ -812,6 +891,36 @@
    "checked_at": "2026-10-16T03:34:45Z"
   },
   {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Vösendorf",
+   "region": "Niederösterreich",
+   "address": "Erdgeschoss, SCS-Straße 1, 2334 Vösendorf",
+   "phone": "01 3961216",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-wien",
+   "checked_at": "2026-10-16T03:34:45Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Ostbahnstraße 3 MURPARK, EG, 8041 Graz",
+   "phone": "0316 245239",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-wien",
+   "checked_at": "2026-10-16T03:34:45Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Pasching",
+   "region": "Oberösterreich",
+   "address": "Plus-Kauf-Straße 7, 4061 Pasching",
+   "phone": "0732 231216",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-wien",
+   "checked_at": "2026-10-16T03:34:45Z"
+  },
+  {
    "name": "Filke",
    "group": "unknown",
    "address": "Kocljeva ulica 9, Murska Sobota, Slovenia, 9000, Slovenia",
@@ -892,6 +1001,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:39Z"
+  },
+  {
+   "name": "Genduron - Comics, Trading Cards, Brettspiele in Linz, Oberösterreich",
+   "group": "unknown",
+   "city": "Linz",
+   "region": "Oberösterreich",
+   "address": "Lastenstraße 42, 4020 Linz",
+   "phone": "0660 4833830",
+   "website": "http://genduron.com/",
+   "checked_at": "2026-10-16T21:50:06Z"
   },
   {
    "name": "Gigasport Graz",
@@ -1063,6 +1182,16 @@
    "checked_at": "2026-10-16T03:34:14Z"
   },
   {
+   "name": "Kartenchaos OG",
+   "group": "unknown",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Herrgottwiesgasse 117, 8020 Graz",
+   "website": "https://kartenchaos.at/",
+   "buylist_url": "https://kartenchaos.at/onlineshop/ankauf",
+   "checked_at": "2026-10-16T03:33:33Z"
+  },
+  {
    "name": "Kastner & Öhler Graz",
    "group": "unknown",
    "city": "Graz",
@@ -1134,6 +1263,16 @@
    "checked_at": "2026-10-16T03:34:26Z"
   },
   {
+   "name": "Magic & Games Shop",
+   "group": "unknown",
+   "city": "Wels",
+   "region": "Oberösterreich",
+   "address": "Rainerstraße 8, 4600 Wels",
+   "phone": "0699 10457665",
+   "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FMagicGamesWels",
+   "checked_at": "2026-10-16T21:50:06Z"
+  },
+  {
    "name": "Magic Corner",
    "group": "unknown",
    "city": "Wels",
@@ -1147,6 +1286,20 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:32:54Z"
+  },
+  {
+   "name": "Magic Corner",
+   "group": "unknown",
+   "city": "Wien",
+   "region": "Wien",
+   "address": "Newaldgasse 3/1, 1090 Wien, Austria, Wien, Wien, 1090",
+   "phone": "+43 1 2765632",
+   "website": "https://www.magiccorner.at/",
+   "buylist_url": "https://www.magiccorner.at/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:50:06Z"
   },
   {
    "name": "Magnum-Cards",
@@ -1701,6 +1854,33 @@
    "checked_at": "2026-10-16T03:32:54Z"
   },
   {
+   "name": "Smyths",
+   "group": "unknown",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Weblinger Gürtel 25, 8054 Graz",
+   "website": "https://www.smythstoys.com/at/de-at/",
+   "checked_at": "2026-10-16T03:34:53Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Innsbruck",
+   "group": "unknown",
+   "city": "Innsbruck",
+   "region": "Tirol",
+   "address": "Max-Center, Andechsstraße 85, 6020 Innsbruck",
+   "website": "https://www.smythstoys.com/at/de-at/",
+   "checked_at": "2026-10-16T03:34:53Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Salzburg",
+   "group": "unknown",
+   "city": "Himmelreich",
+   "region": "Salzburg",
+   "address": "Shopping City, Josef-Lindner-Straße 6, 5073 Himmelreich",
+   "website": "https://www.smythstoys.com/at/de-at/",
+   "checked_at": "2026-10-16T03:34:53Z"
+  },
+  {
    "name": "Smyths Toys Superstore Wien-Vösendorf",
    "group": "unknown",
    "city": "Wien",
@@ -1753,6 +1933,16 @@
    "checked_at": "2026-10-16T03:36:04Z"
   },
   {
+   "name": "Swarovski Crystal Worlds Innsbruck Store",
+   "group": "unknown",
+   "city": "Innsbruck",
+   "region": "Tirol",
+   "address": "Herzog-Friedrich-Straße 39, 6020 Innsbruck",
+   "phone": "05224 51080",
+   "website": "https://www.kristallwelten.swarovski.com/de",
+   "checked_at": "2026-10-16T03:36:12Z"
+  },
+  {
    "name": "Swarovski Kristallwelten",
    "group": "unknown",
    "city": "Wattens",
@@ -1773,6 +1963,24 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T03:33:41Z"
+  },
+  {
+   "name": "TCG Dealers 24/7 Vending Automat PlusCity",
+   "group": "unknown",
+   "city": "Pasching",
+   "region": "Oberösterreich",
+   "address": "Plus-Kauf-Straße 7, 4061 Pasching",
+   "website": "https://www.tcg-dealers.at/",
+   "checked_at": "2026-10-16T03:33:41Z"
+  },
+  {
+   "name": "TCG Dealers 24/7 Vending Automat Wels KJ",
+   "group": "unknown",
+   "city": "Wels",
+   "region": "Oberösterreich",
+   "address": "Kaiser-Josef-Platz 46, 4600 Wels",
+   "website": "https://www.tcg-dealers.at/",
    "checked_at": "2026-10-16T03:33:41Z"
   },
   {
@@ -1936,6 +2144,26 @@
    "region": "Wien",
    "address": "Bahnhof City Wien West Shop-Nr 00.Sh.011, Europaplatz 2, 1150 Wien",
    "phone": "01 5223178",
+   "website": "https://www.warhammer.com/shop/Warhammer-Vienna-03",
+   "checked_at": "2026-10-16T03:34:52Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Hamerlinggasse 4, 8010 Graz",
+   "phone": "0316 812105",
+   "website": "https://www.warhammer.com/shop/Warhammer-Vienna-03",
+   "checked_at": "2026-10-16T03:34:52Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Innsbruck",
+   "region": "Tirol",
+   "address": "Blasius-Hueber-Straße 16, 6020 Innsbruck",
+   "phone": "0512 283059",
    "website": "https://www.warhammer.com/shop/Warhammer-Vienna-03",
    "checked_at": "2026-10-16T03:34:52Z"
   },

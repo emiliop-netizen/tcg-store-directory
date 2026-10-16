@@ -2,7 +2,7 @@
  "country": "TW",
  "currency": "TWD",
  "updated": "2026-10-16",
- "store_count": 185,
+ "store_count": 251,
  "stores": [
   {
    "name": "BAW VAULT",
@@ -50,6 +50,15 @@
    "checked_at": "2026-10-16T20:58:17Z"
   },
   {
+   "name": "國際二手貨中心",
+   "group": "blocked",
+   "region": "Taoyuan City",
+   "address": "No. 1295號, Yong'an Rd, Xipu Village, Taoyuan District, Taoyuan City, 330",
+   "phone": "03 302 0456",
+   "website": "https://rink.cc/x28xu",
+   "checked_at": "2026-10-16T20:57:26Z"
+  },
+  {
    "name": "飛鷹桌遊｜桌遊現場玩/販售/租借｜適合人數多的聚會｜空間寬敞｜免費教學｜收文化幣｜電話或IG訂位｜可帶外食叫外送｜原 瘋桌松山店",
    "group": "blocked",
    "region": "Taipei City",
@@ -73,6 +82,32 @@
    "address": "No. 360 362號, Section 2, Huamei St, Liren Village, North District, Taichung City, 404",
    "phone": "04 2295 8000",
    "checked_at": "2026-10-16T20:57:33Z"
+  },
+  {
+   "name": "ALG－Academy Legacy Games集換式卡片專門店｜魔法風雲會｜寶可夢卡牌｜集換式紙牌｜MITQ系列賽｜MTGA｜PTCG｜JMP｜FAB｜DMU｜台北卡牌桌遊店 推薦",
+   "group": "in_store",
+   "region": "Taipei City",
+   "address": "5樓, No. 368號, Changchun Rd, Fuhua Village, Zhongshan District, Taipei City, 104",
+   "phone": "0933 098 866",
+   "website": "https://www.facebook.com/ALGTW/",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
+   "name": "animate Kaohsiung",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "807, Kaohsiung City, Sanmin District, Gangxi Village, Jianguo 2nd Rd, 320號B3",
+   "phone": "07 236 0320",
+   "website": "https://m.facebook.com/profile.php/?id=100095327303377",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "B one 桌遊/卡牌遊戲 ※由於座位不足週五週六週日暫不接桌遊包場，僅提供租借服務。",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "No. 117號, Beiming St, Zhenbei Village, Fengshan District, Kaohsiung City, 830",
+   "website": "https://www.facebook.com/BONEboardgame/",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "BK Collectives Card Shop",
@@ -132,6 +167,15 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "Cat footprints Amusement Park (Card & Board Games)",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "330, Taoyuan City, Taoyuan District, Wenhua Village, Zhonghua Rd, 1號11樓",
+   "phone": "03 337 0706",
+   "website": "https://www.facebook.com/CatFootPrintTaoyuan.tw?mibextid=LQQJ4d",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "CatFootPrints Playground - SongChiang",
    "group": "in_store",
    "region": "Taipei City",
@@ -159,6 +203,14 @@
    "address": "100, Taipei City, Zhongzheng District, Zhengshou Village, Section 3, Civic Blvd, 6F號6樓601櫃位 No. 2",
    "phone": "02 2356 3639",
    "checked_at": "2026-10-16T20:57:27Z"
+  },
+  {
+   "name": "Game休閒館NOVA英才門市",
+   "group": "in_store",
+   "region": "Taichung City",
+   "address": "40360, Taichung City, West District, Minlong Village, Yingcai Rd, 508號B17室",
+   "phone": "04 2329 4133",
+   "checked_at": "2026-10-16T21:51:34Z"
   },
   {
    "name": "JOOL桌遊與TRPG俱樂部 JOOL boardgame & TRPG club",
@@ -304,6 +356,15 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "SPACE TCG STUDIO",
+   "group": "in_store",
+   "region": "Taipei City",
+   "address": "No. 29號, Lane 50, Tianmu E Rd, Tianfu Village, Shilin District, Taipei City, 111",
+   "phone": "0909 958 626",
+   "website": "https://www.instagram.com/space_card_game_studio?igsh=amE1Y29yYmI0YTFk&utm_source=qr",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "TamSuiCat  GameShop",
    "group": "in_store",
    "region": "New Taipei City",
@@ -334,6 +395,14 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "TOYeGO 玩具e哥 新營店",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "730, Tainan City, Xinying District, Minrong Village, Fuxing Rd, 155-2號1樓",
+   "phone": "06 703 5710",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
    "name": "Weblink任天堂授權商品旗艦店",
    "group": "in_store",
    "region": "Taichung City",
@@ -361,7 +430,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "中華行動屋-龍東店",
@@ -378,6 +447,15 @@
    "address": "No. 39號, Rongmin Rd, Xingren Village, Zhongli District, Taoyuan City, 320",
    "phone": "03 462 5900",
    "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "久金本電玩電競賽車休閒館-埔心門市",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "No. 397-1號, Yongmei Rd, Siwei Village, Yangmei District, Taoyuan City, 326",
+   "phone": "03 482 2090",
+   "website": "https://www.facebook.com/%E4%B9%85%E9%87%91%E6%9C%AC-%E6%A5%8A%E6%A2%85%E5%9F%94%E5%BF%83%E5%BA%97-102425701413434/",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "兔屋 Bunny House",
@@ -397,12 +475,21 @@
    "checked_at": "2026-10-16T20:57:44Z"
   },
   {
+   "name": "前衛者模型",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "No. 41, No. 41號, Guanghua Rd, Xingren Village, Fengshan District, Kaohsiung City, 830",
+   "phone": "0918 633 626",
+   "website": "https://zh-tw.facebook.com/kk7996328/",
+   "checked_at": "2026-10-16T20:57:36Z"
+  },
+  {
    "name": "劃時代電玩漫畫",
    "group": "in_store",
    "region": "Taipei City",
    "address": "11565, Taipei City, Nangang District, Nangang Village, Section 1, Nangang Rd, 281號02)26512596",
    "phone": "02 2651 2596",
-   "checked_at": "2026-10-16T20:57:23Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "卡咖王國企業社",
@@ -412,6 +499,32 @@
    "games_events": [
     "Flesh and Blood"
    ],
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "卡哇玩具城",
+   "group": "in_store",
+   "region": "Taipei City",
+   "address": "111, Taipei City, Shilin District, Yixin Village, Daxi Rd, 4號1樓",
+   "website": "https://m.facebook.com/61581970041662/",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "卡多商行",
+   "group": "in_store",
+   "region": "Nantou County",
+   "address": "No. 229-3, Section 1, Fencao Rd, Dunhan Village, Caotun Township, Nantou County, 542",
+   "phone": "0953 763 948",
+   "website": "https://www.facebook.com/profile.php?id=100057508695611&mibextid=LQQJ4d",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
+   "name": "卡店｜TCG 卡牌 / 寶可夢周邊/出租空間",
+   "group": "in_store",
+   "region": "Taichung City",
+   "address": "No. 208號, Meiting St, Jianxing Village, North District, Taichung City, 404",
+   "phone": "04 2224 7650",
+   "website": "https://www.facebook.com/%E7%89%8C%E7%89%8C%E6%88%B0-1911800715727165/",
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
@@ -422,7 +535,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "卡片商店Magi台北西門店",
@@ -445,7 +558,7 @@
    "group": "in_store",
    "region": "Kaohsiung City",
    "address": "No. 32號, S Section, Yuliao Rd, Yuliao Village, Qiaotou District, Kaohsiung City, 825004",
-   "checked_at": "2026-10-16T20:57:46Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "台中一樂電玩 美村店(Switch/PS/XBOX專賣)",
@@ -472,12 +585,47 @@
    "checked_at": "2026-10-16T20:58:19Z"
   },
   {
+   "name": "台南佳里 梓萌電玩公仔盲盒專賣店 台南專業電玩 台南電玩 佳里電玩",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "No. 319號, Ren'ai Rd, Jiannan Village, Jiali District, Tainan City, 722",
+   "phone": "06 722 5665",
+   "website": "https://www.facebook.com/profile.php?id=100076191219048&mibextid=2JQ9oc",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
+   "name": "台南卡通卡片遊戲店",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "700, Tainan City, West Central District, Chihkan Village, Chenggong Rd, 29號5樓",
+   "phone": "06 208 5773",
+   "website": "https://m.facebook.com/profile.php/?id=100057705480679",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "台灣行動屋 大園店",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "No. 5號, Zhongshan North Rd, Dayuan Village, Dayuan District, Taoyuan City, 337",
+   "phone": "03 385 6709",
+   "website": "https://m.facebook.com/tw.mobile.house5/posts/?ref=page_internal&mt_nav=0",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "呆呆商店",
+   "group": "in_store",
+   "region": "Taichung City",
+   "address": "406, Taichung City, Beitun District, Sanhe Village, 東山路一段146-8號1樓",
+   "website": "https://www.instagram.com/ptcg.slowpoke?igsh=b3Jua3FvNDZ2Ymlr&utm_source=qr",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "大玩家模型",
    "group": "in_store",
    "region": "Kaohsiung City",
    "address": "No. 837號, Houchang Rd, Longchang Village, Nanzih District, Kaohsiung City, 811",
    "phone": "07 363 6196",
-   "checked_at": "2026-10-16T20:57:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "好好玩遊戲王卡片專賣店",
@@ -485,14 +633,14 @@
    "region": "Kaohsiung City",
    "address": "No. 58, Fude 3rd Rd, Fulong Village, Lingya District, Kaohsiung City, 802",
    "phone": "07 721 8229",
-   "checked_at": "2026-10-16T20:57:50Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "好小子玩具店｜遊戲王卡專賣店",
    "group": "in_store",
    "region": "Kaohsiung City",
    "address": "No. 36號, Alley 26, Lane 901, Minzuyi Rd, Fushan Village, Zuoying District, Kaohsiung City, 813",
-   "checked_at": "2026-10-16T20:57:48Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "家家美樂地",
@@ -502,7 +650,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "小蝦米玩具",
@@ -510,7 +658,16 @@
    "region": "Taichung City",
    "address": "No. 59號, Zhaoyang Street, Dongsheng Village, West District, Taichung City, 403",
    "phone": "04 2371 1581",
-   "checked_at": "2026-10-16T20:57:34Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "就是要開卡（JTC)",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "No. 860號, Section 5, Gaotie S Rd, Guoling Village, Zhongli District, Taoyuan City, 320",
+   "phone": "0976 655 860",
+   "website": "https://www.instagram.com/justtradingcard?igsh=MXFhZXFwNzFjOTU0cA==",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "崇文社",
@@ -521,7 +678,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "崩潰潮玩Collapse Toys-勤美店",
@@ -538,7 +695,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "幽靈屋 YuReiHouse",
@@ -551,12 +708,21 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "成大玩趣店",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "801008, Kaohsiung City, Qianjin District, 大同二路前金國小對面",
+   "phone": "07 380 9096",
+   "website": "https://instagram.com/bearbrick_chengda?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "捷泰玩具",
    "group": "in_store",
    "region": "Taichung City",
    "address": "No. 372號, Section 4, Ziyou Rd, Dongying Village, East District, Taichung City, 401",
    "phone": "04 2224 3053",
-   "checked_at": "2026-10-16T20:57:33Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "新奇玩具店",
@@ -564,7 +730,7 @@
    "region": "Tainan City",
    "address": "No. 127號, Huaxing St, Zhonghua Village, Yongkang District, Tainan City, 710",
    "phone": "06 313 4707",
-   "checked_at": "2026-10-16T20:58:13Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "新竹新世紀",
@@ -574,7 +740,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "新航玩具 Shin Hang (遊戲王.遊戲卡片)",
@@ -590,7 +756,7 @@
    "region": "Tainan City",
    "address": "No. 18-1號, Section 2, Minzu Rd, Chenghuang Village, West Central District, Tainan City, 700",
    "phone": "06 229 0665",
-   "checked_at": "2026-10-16T20:58:13Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "春日部玩具批發超市",
@@ -598,7 +764,16 @@
    "region": "Taichung City",
    "address": "No. 235-2號, Fu Ya Rd, Lincuo Village, Xitun District, Taichung City, 407",
    "phone": "04 2463 0631",
-   "checked_at": "2026-10-16T20:57:36Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "景勝電玩",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "700, Tainan City, West Central District, Section 2, Minzu Rd, 114號No",
+   "phone": "06 229 5700",
+   "website": "https://facebook.com/%E6%99%AF%E5%8B%9D%E9%80%9A%E8%A8%8A%E7%8E%A9%E5%85%B7%E8%A1%8C-1490817654554065/",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "東京漫畫便利屋",
@@ -606,7 +781,7 @@
    "region": "Kaohsiung City",
    "address": "No. 83號, Jianguo 3rd Rd, Gangxi Village, Sanmin District, Kaohsiung City, 807",
    "phone": "07 288 2829",
-   "checked_at": "2026-10-16T20:57:50Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "松梅桌遊舖",
@@ -616,7 +791,16 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "桃園德周電玩",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "No. 112號, Xinmin St, Wenchang Village, Taoyuan District, Taoyuan City, 330",
+   "phone": "03 333 1899",
+   "website": "http://m.facebook.com/aaron5218/",
+   "checked_at": "2026-10-16T20:57:02Z"
   },
   {
    "name": "桌覓桌遊休閒空間",
@@ -627,7 +811,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "桌遊恃板橋總店",
@@ -637,7 +821,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "模卡玩具",
@@ -645,7 +829,16 @@
    "region": "Taichung City",
    "address": "404, Taichung City, North District, Xinbei Village, Jinnan St, 19-2號19-3號",
    "phone": "0918 063 291",
-   "checked_at": "2026-10-16T20:57:33Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "欣奇玩具行",
+   "group": "in_store",
+   "region": "Taichung City",
+   "address": "No. 35-1號, Section 1, Shuangshi Rd, Jiguang Village, Central District, Taichung City, 400",
+   "phone": "04 2224 2004",
+   "website": "https://www.facebook.com/profile.php?id=61558048803805",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "永和瓜瓜",
@@ -653,7 +846,25 @@
    "region": "New Taipei City",
    "address": "234, New Taipei City, Yonghe District, Minzhi Village, Zhongzheng Rd, 280號3F",
    "phone": "02 2940 3812",
-   "checked_at": "2026-10-16T20:57:17Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "決鬥學院卡片專賣店",
+   "group": "in_store",
+   "region": "Hsinchu City",
+   "address": "300, Hsinchu City, East District, Jinshan Village, Jinshan 1st St, 36號1F",
+   "phone": "0978 291 547",
+   "website": "https://m.facebook.com/profile.php?id=100092255355796",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "決鬥魂TCG GAMES ｜卡牌・一番賞・景品公仔・扭蛋玩盒・抽選活動｜",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "No. 279號, Zhongxing Rd, Zhunan Village, Luzhu District, Kaohsiung City, 821",
+   "phone": "0916 335 775",
+   "website": "https://www.facebook.com/share/19XDUqPife/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "溫刀卡殿台北店 WENDAO CARDS｜TCG SHOP",
@@ -665,12 +876,30 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "溫刀卡殿台南店 WENDAO CARDS｜TCG SHOP",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "No. 378號, Section 2, Dongmen Rd, Chongxin Village, East District, Tainan City, 701",
+   "phone": "06 331 8566",
+   "website": "https://www.instagram.com/wendao.cards/",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "熊熊桌遊空間/星靈王卡片專門店",
    "group": "in_store",
    "region": "Tainan City",
    "address": "No. 38號, Alley 16, Lane 153, Erhangyi Rd, Erxing Village, Rende District, Tainan City, 717",
    "phone": "0961 338 358",
-   "checked_at": "2026-10-16T20:58:13Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "牧羊人桌遊",
+   "group": "in_store",
+   "region": "Taichung City",
+   "address": "2樓, No. 151號, Wenhua Rd, Xiping Village, Xitun District, Taichung City, 407",
+   "phone": "04 2452 2685",
+   "website": "https://www.facebook.com/shepherdBG",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "狼窩",
@@ -679,7 +908,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "獵模士玩具模型專賣店",
@@ -687,7 +916,7 @@
    "region": "Taichung City",
    "address": "No. 191號, Xi'an St, Xiping Village, Xitun District, Taichung City, 407",
    "phone": "0930 550 293",
-   "checked_at": "2026-10-16T20:57:36Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "王之賞 20號",
@@ -695,6 +924,23 @@
    "region": "Taipei City",
    "address": "100, Taipei City, Zhongzheng District, Liming Village, Section 1, Shimin Blvd, 100號B1",
    "checked_at": "2026-10-16T20:57:13Z"
+  },
+  {
+   "name": "玩具e哥 中壢中原店",
+   "group": "in_store",
+   "region": "Taoyuan City",
+   "address": "No. 81號, Shijian Rd, Puren Village, Zhongli District, Taoyuan City, 320",
+   "phone": "03 270 6695",
+   "website": "https://zh-tw.facebook.com/toyegotn18",
+   "checked_at": "2026-10-16T20:57:36Z"
+  },
+  {
+   "name": "玩具e哥台南麻豆店",
+   "group": "in_store",
+   "region": "Tainan City",
+   "address": "No. 141號, Zhongshan Rd, Xinxing Village, Madou District, Tainan City, 721",
+   "phone": "06 703 2210",
+   "checked_at": "2026-10-16T21:51:34Z"
   },
   {
    "name": "玩具同萌",
@@ -711,7 +957,7 @@
    "region": "Taoyuan City",
    "address": "No. 358號, Section 2, Yuanlin Rd, Yuanlin Village, Daxi District, Taoyuan City, 335",
    "phone": "03 380 6139",
-   "checked_at": "2026-10-16T20:58:28Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "生活加點甜",
@@ -722,7 +968,16 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "矮人礦坑戰鎚專賣店",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "807, Kaohsiung City, Sanmin District, Benguan Village, Jiangong Rd, 403號2 樓 之 2",
+   "phone": "07 236 9978",
+   "website": "https://zh-tw.facebook.com/dwarfgoldmine/",
+   "checked_at": "2026-10-16T20:57:36Z"
   },
   {
    "name": "第一家收藏卡店",
@@ -730,7 +985,7 @@
    "region": "New Taipei City",
    "address": "220, New Taipei City, Banqiao District, 板橋區, Section 1, Wenhua Rd, 379號3樓",
    "phone": "0952 363 733",
-   "checked_at": "2026-10-16T20:57:11Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "誠信3C 高雄在地15年實體店面 /專業買賣 手機 3C 維修 門號 電玩 玩具 一番賞 / 超高價收購 手機 3C 遊戲 遊戲機 玩具 各式用品 萬物幾乎都收",
@@ -747,7 +1002,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "諾亞方舟益智遊戲-豐原店",
@@ -757,7 +1012,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "貓腳印 三民店 CFP-SANMIN",
@@ -779,7 +1034,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "貓腳印士林店",
@@ -790,7 +1045,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "貓腳印宜蘭店",
@@ -801,7 +1056,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "貓腳印彰化店",
@@ -811,7 +1066,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "貓腳印雙和店",
@@ -821,7 +1076,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "逛逛紙牌社",
@@ -831,6 +1086,15 @@
    "games_events": [
     "Flesh and Blood"
    ],
+   "checked_at": "2026-10-16T20:58:31Z"
+  },
+  {
+   "name": "逛逛紙牌社-苓雅寶可夢卡牌|寶可夢|遊戲王|遊戲王卡牌|遊戲王收購|寶可夢收購",
+   "group": "in_store",
+   "region": "Kaohsiung City",
+   "address": "802, Kaohsiung City, Lingya District, Yicheng Village, Lane 20, Ziqiang 3rd Rd, 1號2樓",
+   "phone": "0976 516 386",
+   "website": "https://www.facebook.com/%E9%80%9B%E9%80%9B%E7%B4%99%E7%89%8C%E7%A4%BE-%E9%9B%86%E6%8F%9B%E5%BC%8F%E5%8D%A1%E7%89%8C%E5%B0%88%E8%B3%A3%E5%BA%97-102666739108053",
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
@@ -856,7 +1120,7 @@
    "region": "Taipei City",
    "address": "115, Taipei City, Nangang District, Dongming Village, Lane 20, Section 2, Nangang Rd, 5號B1",
    "phone": "02 2653 5077",
-   "checked_at": "2026-10-16T20:57:22Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "金玉堂批發廣場 鑫正店(全新團隊全心服務)",
@@ -864,7 +1128,7 @@
    "region": "Tainan City",
    "address": "No. 321號, Zhongzheng Rd, Xinshi Village, Xinshi District, Tainan City, 744009",
    "phone": "06 589 6077",
-   "checked_at": "2026-10-16T20:58:16Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "金玉堂文具批發廣場 安和店",
@@ -872,7 +1136,7 @@
    "region": "Tainan City",
    "address": "No. 121號, Section 1, Anhe Rd, Xibei Village, Annan District, Tainan City, 709",
    "phone": "06 283 0736",
-   "checked_at": "2026-10-16T20:58:17Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "金玉堂文具批發廣場 市府店",
@@ -880,7 +1144,7 @@
    "region": "Taipei City",
    "address": "B1, No. 163號, Section 1, Keelung Rd, Xingya Village, Xinyi District, Taipei City, 110058",
    "phone": "02 3765 1682",
-   "checked_at": "2026-10-16T20:57:23Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "金田不二家公仔模型動漫週邊精品",
@@ -888,7 +1152,7 @@
    "region": "Kaohsiung City",
    "address": "No. 18號, Zhongzheng 2nd Rd, Anxiang Village, Lingya District, Kaohsiung City, 802",
    "phone": "0971 238 589",
-   "checked_at": "2026-10-16T20:57:50Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "金萬年玩具行",
@@ -896,7 +1160,7 @@
    "region": "Taipei City",
    "address": "108, Taipei City, Wanhua District, Xining Rd, 70號4 樓",
    "phone": "02 2312 1581",
-   "checked_at": "2026-10-16T20:57:30Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "雙和貓腳印",
@@ -907,7 +1171,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "雙子星高雄民權店",
@@ -917,7 +1181,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "雙子星高雄鹽埕店",
@@ -927,7 +1191,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "風和桌遊空間",
@@ -937,7 +1201,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "鬥樂",
@@ -948,7 +1212,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T20:56:57Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "魔窟",
@@ -956,7 +1220,7 @@
    "region": "Taipei City",
    "address": "103, Taipei City, Datong District, Jiangong Village, Lane 145, Chang'an W Rd, 1號1樓",
    "phone": "02 2559 5993",
-   "checked_at": "2026-10-16T20:57:30Z"
+   "checked_at": "2026-10-16T20:58:31Z"
   },
   {
    "name": "101 Stationery Paradise",
@@ -968,6 +1232,42 @@
    "checked_at": "2026-10-16T20:57:43Z"
   },
   {
+   "name": "101 Stationery Paradise",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "No. 122, Dajhih Rd, Yuren Village, Yancheng District, Kaohsiung City, 803",
+   "phone": "07 521 5101",
+   "website": "http://www.101sp.com.tw/web/index.php",
+   "checked_at": "2026-10-16T20:57:43Z"
+  },
+  {
+   "name": "101 Stationery Paradise",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 588號, Chongshan Rd, Chongwen Village, East District, Tainan City, 701",
+   "phone": "06 268 6677",
+   "website": "http://www.101sp.com.tw/web/index.php",
+   "checked_at": "2026-10-16T20:57:43Z"
+  },
+  {
+   "name": "9x9 Stationery",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "807, Kaohsiung City, Sanmin District, Daming Village, 博愛一路102號",
+   "phone": "07 311 9979",
+   "website": "https://9x9stationery.com.tw/",
+   "checked_at": "2026-10-16T20:57:41Z"
+  },
+  {
+   "name": "9x9 Stationery",
+   "group": "unknown",
+   "region": "Taoyuan City",
+   "address": "No. 350號, Yong'an Rd, Yong'an Village, Taoyuan District, Taoyuan City, 33059",
+   "phone": "03 335 7222",
+   "website": "https://9x9stationery.com.tw/",
+   "checked_at": "2026-10-16T20:57:41Z"
+  },
+  {
    "name": "9x9 Stationery Taichung Wenxin Store",
    "group": "unknown",
    "region": "Taichung City",
@@ -977,6 +1277,15 @@
    "checked_at": "2026-10-16T20:57:41Z"
   },
   {
+   "name": "AK收藏所",
+   "group": "unknown",
+   "region": "Taoyuan City",
+   "address": "No. 108號, Rixin Rd, Puren Village, Zhongli District, Taoyuan City, 320041",
+   "phone": "0988 158 822",
+   "website": "https://line.me/ti/g2/vB-SorBKG3s03-bkA_fWPtCqReR2GwAj0475-g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=PAZXh0bgNhZW0CMTEAAaYzif0XORp02gm56mICNR7M1041580jjSqJrTLOP8Wld9hp5EgYa3JF3JU_aem_Ae6g-uN6GRWoOF9FNirsuAPYa7vjrGeZ4HjGeVw9ak3MeVtPoFkA0Q0VxpvwISbspeOGg-VkloW7HFxjwGpziPfU",
+   "checked_at": "2026-10-16T20:57:50Z"
+  },
+  {
    "name": "Board Game Hut (Taipei Branch)",
    "group": "unknown",
    "region": "Taipei City",
@@ -984,6 +1293,24 @@
    "phone": "02 2311 2981",
    "website": "https://bghut.com/",
    "checked_at": "2026-10-16T20:57:03Z"
+  },
+  {
+   "name": "Bruce 桌遊空間(福華店）",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "800, Kaohsiung City, Sinsing District, Zhongdong Village, Qixian 1st Rd, 311號B1",
+   "phone": "0905 037 053",
+   "website": "https://reurl.cc/2gM28X",
+   "buylist_url": "https://reurl.cc/buylist",
+   "checked_at": "2026-10-16T20:57:10Z"
+  },
+  {
+   "name": "Caboom 卡蹦 球員卡/遊戲卡",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "No. 67號, Shengping St, Tianxi Village, Lingya District, Kaohsiung City, 802",
+   "website": "https://tw.bid.yahoo.com/tw/booth/Y1287009618",
+   "checked_at": "2026-10-16T20:57:37Z"
   },
   {
    "name": "Card-Ple 卡片人卡片遊戲專賣店",
@@ -1050,6 +1377,15 @@
    "checked_at": "2026-10-16T20:57:36Z"
   },
   {
+   "name": "GAME休閒館高雄旗艦店",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "No. 166號, Jianguo 2nd Rd, Bo'ai Village, Sanmin District, Kaohsiung City, 80753",
+   "phone": "07 236 8777",
+   "website": "https://www.game4fun.com.tw/",
+   "checked_at": "2026-10-16T20:57:36Z"
+  },
+  {
    "name": "Guang Hua Digital Plaza",
    "group": "unknown",
    "region": "Taipei City",
@@ -1059,6 +1395,15 @@
    "checked_at": "2026-10-16T20:57:17Z"
   },
   {
+   "name": "HARD OFF Taoyuan Zhongli Store",
+   "group": "unknown",
+   "region": "Taoyuan City",
+   "address": "No. 480, Section 1, Zhonghua Rd, Fuhua Village, Zhongli District, Taoyuan City, 320",
+   "phone": "03 453 5808",
+   "website": "https://www.hardoff.com.tw/",
+   "checked_at": "2026-10-16T20:58:16Z"
+  },
+  {
    "name": "Hobby World",
    "group": "unknown",
    "region": "Kaohsiung City",
@@ -1066,6 +1411,33 @@
    "phone": "07 974 1203",
    "website": "https://bandaihobby.tw/shop/",
    "checked_at": "2026-10-16T20:57:50Z"
+  },
+  {
+   "name": "Jin Yuh Tarng",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 225-1號, Nanmen Rd, Junwang Village, West Central District, Tainan City, 700",
+   "phone": "06 214 8828",
+   "website": "https://line.me/R/ti/p/@097ackwz?oat_content=url",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
+   "name": "Jin Yuh Tarng",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 96號, Sanmin Rd, Minquan Village, Xinying District, Tainan City, 73049",
+   "phone": "06 633 1011",
+   "website": "http://www.jytnet.com.tw/",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
+   "name": "Jin Yuh Tarng",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 35, Zhonghua Rd, Jianan Village, Liujia District, Tainan City, 734",
+   "phone": "06 698 7568",
+   "website": "http://www.jytnet.com.tw/",
+   "checked_at": "2026-10-16T21:51:34Z"
   },
   {
    "name": "JJ卡舖 - JJ Cards Shop",
@@ -1084,6 +1456,15 @@
    "phone": "02 2721 2304",
    "website": "https://kinokuniya.com.tw/",
    "checked_at": "2026-10-16T20:57:11Z"
+  },
+  {
+   "name": "KW寶可夢選物所（mezastar卡匣專賣、祕密的偶像公主卡片專賣)",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "No. 116號, Siwei 2nd Rd, Linquan Village, Lingya District, Kaohsiung City, 802",
+   "phone": "0983 931 595",
+   "website": "https://shopee.tw/purple7111?categoryId=100639&entryPoint=ShopByPDP&itemId=24161992781&upstream=search",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "MagFreak Taipei",
@@ -1113,6 +1494,16 @@
    "checked_at": "2026-10-16T20:58:21Z"
   },
   {
+   "name": "Mollie Used Books Shida Store",
+   "group": "unknown",
+   "region": "Taipei City",
+   "address": "No. 222號, Section 1, Heping E Rd, Longpo Village, Da’an District, Taipei City, 106",
+   "phone": "02 2368 2238",
+   "website": "https://reurl.cc/2gM28X",
+   "buylist_url": "https://reurl.cc/buylist",
+   "checked_at": "2026-10-16T20:57:10Z"
+  },
+  {
    "name": "Nobel Bookstore",
    "group": "unknown",
    "region": "Taichung City",
@@ -1128,6 +1519,15 @@
    "address": "A11 3F, 新光三越台北信義新天地, No. 11號, Songshou Rd, Xinyi District, Taipei City, 110202",
    "website": "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-taipei/",
    "checked_at": "2026-10-16T20:57:03Z"
+  },
+  {
+   "name": "Stepping Stone Bookstore",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "No. 88號, Section 3, Sanmin Rd, Xinxing Village, North District, Taichung City, 404",
+   "phone": "04 2223 9838",
+   "website": "https://www.steppingstone.com.tw/",
+   "checked_at": "2026-10-16T20:57:13Z"
   },
   {
    "name": "Taichung gaming public / public Taichung toy store",
@@ -1175,6 +1575,15 @@
    "checked_at": "2026-10-16T20:57:57Z"
   },
   {
+   "name": "Toys \"R\" Us 玩具反斗城",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "407, Taichung City, Xitun District, Chaoyang Village, Section 3, Henan Rd, 120號B2",
+   "phone": "04 2251 7510",
+   "website": "https://www.toysrus.com.tw/zh-tw/",
+   "checked_at": "2026-10-16T20:57:05Z"
+  },
+  {
    "name": "Toys R Us Taiwan Trade Co., Ltd.",
    "group": "unknown",
    "region": "Taipei City",
@@ -1195,6 +1604,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
+   "name": "Toysrus",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "70155, Tainan City, East District, Dongguang Village, Section 1, Zhonghua E Rd, 366號4樓",
+   "phone": "06 208 6296",
+   "website": "https://www.toysrus.com.tw/zh-tw/",
+   "checked_at": "2026-10-16T20:57:05Z"
   },
   {
    "name": "TVGAME360 恐龍電玩 台中店-台中西屯逢甲遊戲主機專賣店 任天堂/SWITCH/ SWITCH2/PS5/XBOX 二手/遊戲片 一番賞/公仔/陀螺/哥吉拉/鋼彈/模型 賽車架模擬器方向盤 遊戲主機把手維修 實體店面",
@@ -1282,6 +1700,16 @@
    "checked_at": "2026-10-16T20:57:21Z"
   },
   {
+   "name": "優格米電玩遊戲專賣店(內湖金湖店)",
+   "group": "unknown",
+   "region": "Taipei City",
+   "address": "114, Taipei City, Neihu District, Qingbai Village, Jinhu Rd, 2號1樓",
+   "phone": "02 2634 9232",
+   "website": "https://linktr.ee/uugame",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:57:21Z"
+  },
+  {
    "name": "光華卡POOL! sport card",
    "group": "unknown",
    "region": "Taipei City",
@@ -1291,11 +1719,19 @@
    "checked_at": "2026-10-16T20:57:03Z"
   },
   {
+   "name": "兔玩Games 電玩",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "No. 273號, Section 3, Shenyang Rd, 北屯區 Beitun District, Taichung City, 406",
+   "phone": "04 2241 2699",
+   "website": "https://shopee.tw/purple7111?categoryId=100639&entryPoint=ShopByPDP&itemId=24161992781&upstream=search",
+   "checked_at": "2026-10-16T20:56:57Z"
+  },
+  {
    "name": "再抽一張玩具屋－ 公仔｜潮玩｜一番賞｜GK",
    "group": "unknown",
    "region": "Kaohsiung City",
    "address": "No. 186號, Xinhai Rd, Xinshang Village, Zuoying District, Kaohsiung City, 813",
-   "phone": "0988 158 822",
    "website": "https://line.me/ti/g2/vB-SorBKG3s03-bkA_fWPtCqReR2GwAj0475-g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=PAZXh0bgNhZW0CMTEAAaYzif0XORp02gm56mICNR7M1041580jjSqJrTLOP8Wld9hp5EgYa3JF3JU_aem_Ae6g-uN6GRWoOF9FNirsuAPYa7vjrGeZ4HjGeVw9ak3MeVtPoFkA0Q0VxpvwISbspeOGg-VkloW7HFxjwGpziPfU",
    "checked_at": "2026-10-16T20:57:50Z"
   },
@@ -1325,6 +1761,14 @@
    "website": "https://reurl.cc/2gM28X",
    "buylist_url": "https://reurl.cc/buylist",
    "checked_at": "2026-10-16T20:57:10Z"
+  },
+  {
+   "name": "卡殿 Card Palace",
+   "group": "unknown",
+   "region": "Changhua County",
+   "address": "50051, Changhua County, Changhua City, Dongmin St, 58號3樓",
+   "website": "https://www.ruten.com.tw/store/peapi/",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "卡竅 CardChill｜寶可夢卡牌專門店｜hololive Official Card Game 專門店｜武士道卡牌｜集換式卡牌｜PTCG｜hOCG｜WS｜VG｜ポケカ/ホロカ トレカ専門店",
@@ -1384,6 +1828,15 @@
    "checked_at": "2026-10-16T20:57:34Z"
   },
   {
+   "name": "唐采·文具·玩具·禮品·批發 民權店｜科博館植物園一日遊必逛超便宜玩具店｜20年在地文具批發全館69折起",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "No. 399號, Minquan Rd, Dangou Village, North District, Taichung City, 404",
+   "phone": "0979 710 913",
+   "website": "https://www.tangcai2003.com/",
+   "checked_at": "2026-10-16T20:57:34Z"
+  },
+  {
    "name": "大安殿益智遊戲館 桌遊",
    "group": "unknown",
    "region": "Taipei City",
@@ -1402,11 +1855,29 @@
    "checked_at": "2026-10-16T20:58:19Z"
   },
   {
+   "name": "天地居",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 3號, Lane 338, Gongyuan S Rd, Heshun Village, North District, Tainan City, 704",
+   "phone": "06 221 1219",
+   "website": "https://tw.bid.yahoo.com/tw/booth/Y1287009618",
+   "checked_at": "2026-10-16T20:57:37Z"
+  },
+  {
    "name": "夯品集凱撒門市 PS5/SWITCH/XBOX主機&軟體販售預購.二手主機/遊戲買賣.主機檢測&送修.寶可夢卡牌",
    "group": "unknown",
    "region": "Taipei City",
    "address": "100, Taipei City, Zhongzheng District, Liming Village, 忠孝西路一段38號1F-A",
    "phone": "02 2756 6738",
+   "website": "https://www.fadmart.com.tw/",
+   "checked_at": "2026-10-16T20:57:02Z"
+  },
+  {
+   "name": "夯品集大直門市 PS5/SWITCH/XBOX主機&軟體販售預購.二手主機/遊戲買賣.主機檢測&送修.寶可夢卡牌",
+   "group": "unknown",
+   "region": "Taipei City",
+   "address": "No. 10號, Alley 5, Lane 608, Beian Rd, Chenggong Village, Zhongshan District, Taipei City, 10491",
+   "phone": "02 2532 6737",
    "website": "https://www.fadmart.com.tw/",
    "checked_at": "2026-10-16T20:57:02Z"
   },
@@ -1438,6 +1909,16 @@
    "checked_at": "2026-10-16T20:58:13Z"
   },
   {
+   "name": "序森電玩任天堂經銷店｜Switch 2｜TCG寶可夢卡牌｜玩具｜遊戲收購｜太平電玩電玩",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "411, Taichung City, Taiping District, Xincheng Village, Section 3, Zhongshan Rd, 133號1F",
+   "phone": "0928 773 432",
+   "website": "https://linktr.ee/uugame",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:57:21Z"
+  },
+  {
    "name": "摩力科娛樂股份有限公司",
    "group": "unknown",
    "region": "Taipei City",
@@ -1445,6 +1926,15 @@
    "phone": "02 2559 7574",
    "website": "http://www.magical.game.tw/",
    "checked_at": "2026-10-16T20:57:30Z"
+  },
+  {
+   "name": "新世紀遊樂器TCG卡牌休閒館",
+   "group": "unknown",
+   "region": "Hsinchu City",
+   "address": "No. 7號, Pinghe St, Zhongshan Village, North District, Hsinchu City, 300",
+   "phone": "03 525 0528",
+   "website": "http://newagegamemuseum.weebly.com/",
+   "checked_at": "2026-10-16T21:51:34Z"
   },
   {
    "name": "普雷伊西門概念店",
@@ -1472,6 +1962,15 @@
    "phone": "0917 116 991",
    "website": "https://mall.iopenmall.tw/037989/",
    "checked_at": "2026-10-16T20:57:48Z"
+  },
+  {
+   "name": "樂遊wow",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "No. 123號, Section 5 of Shangshan Rd, Wenshan Village, Nantun District, Taichung City, 408",
+   "phone": "0905 516 730",
+   "website": "https://www.ruten.com.tw/store/abusco/",
+   "checked_at": "2026-10-16T20:57:29Z"
   },
   {
    "name": "橙市3C - 台南二手手機相機專賣店（青蘋果3C)",
@@ -1529,6 +2028,33 @@
    "checked_at": "2026-10-16T20:58:01Z"
   },
   {
+   "name": "玩具\"反\"斗城 - 西門誠品武昌店",
+   "group": "unknown",
+   "region": "Taipei City",
+   "address": "108, Taipei City, Wanhua District, Wanshou Village, Section 2, Wuchang St, 77號2F",
+   "phone": "02 2381 2815",
+   "website": "https://www.toysrus.com.tw/zh-tw/",
+   "checked_at": "2026-10-16T20:57:05Z"
+  },
+  {
+   "name": "玩具\"反\"斗城 Mitsui Shopping Park LaLaport 台中店",
+   "group": "unknown",
+   "region": "Taichung City",
+   "address": "401, Taichung City, East District, Jinde Rd, 600號北館3樓(櫃30900",
+   "phone": "04 2211 1216",
+   "website": "https://www.toysrus.com.tw/zh-tw/",
+   "checked_at": "2026-10-16T20:57:05Z"
+  },
+  {
+   "name": "玩具\"反\"斗城-高雄夢時代店",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "5F / D01, No. 789, Zhonghua 5th Rd, Xingbang Village, Cianjhen District, Kaohsiung City, 806",
+   "phone": "07 823 3118",
+   "website": "https://www.toysrus.com.tw/zh-tw/",
+   "checked_at": "2026-10-16T20:57:05Z"
+  },
+  {
    "name": "玩具e哥台中文心店",
    "group": "unknown",
    "region": "Taichung City",
@@ -1556,6 +2082,15 @@
    "checked_at": "2026-10-16T20:57:36Z"
   },
   {
+   "name": "紙牌屋 Card Cellar",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "701, Tainan City, East District, Longshan Village, Section 1, Dongmen Rd, 354號10樓",
+   "phone": "06 200 3233",
+   "website": "https://www.card-cellar.com/",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
    "name": "與貓有約 Board Game",
    "group": "unknown",
    "region": "Kaohsiung City",
@@ -1568,6 +2103,14 @@
    "checked_at": "2026-10-16T20:56:57Z"
   },
   {
+   "name": "與貓有約 Board Game-左營店",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "813, Kaohsiung City, Zuoying District, Xinshang Village, Fumin Rd, 15號3樓",
+   "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FDatingWithCat%2F%3Fmodal%3Dadmin_todo_tour",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
    "name": "萊盛小拳王 Toys & Games",
    "group": "unknown",
    "region": "Taichung City",
@@ -1575,6 +2118,15 @@
    "phone": "04 2451 0552",
    "website": "https://www.leysin-topgame.com/",
    "checked_at": "2026-10-16T20:57:33Z"
+  },
+  {
+   "name": "萬隆達卡牌專門店 寶可夢|遊戲王|卡牌周邊|卡套|卡盒|卡片買取收購",
+   "group": "unknown",
+   "region": "Kaohsiung City",
+   "address": "802, Kaohsiung City, Lingya District, Guangzhou 1st St, 143-6號3樓",
+   "phone": "0916 584 225",
+   "website": "https://www.ruten.com.tw/store/peapi/",
+   "checked_at": "2026-10-16T20:56:57Z"
   },
   {
    "name": "詠悅數位3C【台南二手機專賣店】【手機現場快修】【免卡分期授權經銷商】",
@@ -1620,6 +2172,16 @@
    "checked_at": "2026-10-16T20:57:55Z"
   },
   {
+   "name": "迷你樂玩-大大店",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 627-6號, Section 2, Yongcheng Rd, Jiannan Village, South District, Tainan City, 702",
+   "phone": "06 296 0178",
+   "website": "https://linktr.ee/uugame",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:57:21Z"
+  },
+  {
    "name": "遊戲本舖",
    "group": "unknown",
    "region": "Kaohsiung City",
@@ -1627,6 +2189,16 @@
    "phone": "07 236 0506",
    "website": "https://www.yoshihonpo.com/",
    "checked_at": "2026-10-16T20:57:54Z"
+  },
+  {
+   "name": "金佳人電動遊樂器專賣店",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 87號, Zhonghe St, Jiannan Village, Jiali District, Tainan City, 722",
+   "phone": "06 722 7692",
+   "website": "https://linktr.ee/uugame",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:57:21Z"
   },
   {
    "name": "金壹收購二手勞力士、K金、鑽石、龍銀、古董/預約全台高價收購",
@@ -1637,6 +2209,24 @@
    "website": "https://0939111598.com/",
    "buylist_url": "https://0939111598.com/knowledge.html",
    "checked_at": "2026-10-16T20:58:21Z"
+  },
+  {
+   "name": "金玉堂文具批發-善化店",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 515, Zhongzheng Rd, Dongguan Village, Shanhua District, Tainan City, 741",
+   "phone": "06 581 4666",
+   "website": "http://www.jytnet.com.tw/",
+   "checked_at": "2026-10-16T21:51:34Z"
+  },
+  {
+   "name": "金玉堂（海佃店）",
+   "group": "unknown",
+   "region": "Tainan City",
+   "address": "No. 361, Section 1, Haidian Rd, Haidian Village, Annan District, Tainan City, 709",
+   "phone": "06 250 7518",
+   "website": "http://www.jytnet.com.tw/ap/store.aspx?filter=2b99c884-8386-400f-bf75-11c288ecfbcb&area1=%E5%8F%B0%E5%8D%97%E5%B8%82",
+   "checked_at": "2026-10-16T21:51:34Z"
   },
   {
    "name": "雙子星 高雄民權店",

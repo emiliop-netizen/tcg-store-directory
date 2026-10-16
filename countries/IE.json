@@ -2,25 +2,8 @@
  "country": "IE",
  "currency": "EUR",
  "updated": "2026-10-16",
- "store_count": 135,
+ "store_count": 171,
  "stores": [
-  {
-   "name": "Forbidden Planet Dublin",
-   "group": "feed",
-   "region": "D",
-   "address": "5-7 Crampton Quay, Temple Bar, Dublin 2, D02 VX56",
-   "phone": "(01) 671 0688",
-   "website": "https://forbiddenplanet.co.uk/",
-   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
-   "feed": {
-    "platform": "cardcompanion",
-    "base": null,
-    "myshopify": "loungefly-collectors-club.myshopify.com",
-    "game_slugs": null,
-    "games": null
-   },
-   "checked_at": "2026-10-16T02:13:44Z"
-  },
   {
    "name": "Pokebundles Ireland",
    "group": "public_buylist",
@@ -83,10 +66,29 @@
   {
    "name": "hmv",
    "group": "blocked",
-   "city": "Cork",
    "region": "D",
    "address": "18 Henry St, North City, Dublin, D01 WA24",
    "phone": "(01) 270 7660",
+   "website": "https://hmv.com/store-finder",
+   "checked_at": "2026-10-16T02:14:08Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Unit A, Merchant's Quay Shopping Centre, 1-5 St Patrick's St, CIty, Cork, T12 R590",
+   "phone": "(021) 603 6171",
+   "website": "https://hmv.com/store-finder",
+   "checked_at": "2026-10-16T02:14:08Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Unit 1, Crescent Shopping Centre, Dooradoyle, Limerick, V94 4X28",
+   "phone": "(01) 556 9984",
    "website": "https://hmv.com/store-finder",
    "checked_at": "2026-10-16T02:14:08Z"
   },
@@ -96,6 +98,15 @@
    "city": "Galway",
    "region": "G",
    "address": "2 - 3 Shop St, Galway, H91 WR23",
+   "website": "https://www.lifestylesports.com/ie/?utm_source=google&utm_medium=organic&utm_campaign=gbp-galway-shop-street",
+   "checked_at": "2026-10-16T02:15:00Z"
+  },
+  {
+   "name": "Lifestyle Sports",
+   "group": "blocked",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "18 19 Barronstrand St, Waterford, X91 HF61",
    "website": "https://www.lifestylesports.com/ie/?utm_source=google&utm_medium=organic&utm_campaign=gbp-galway-shop-street",
    "checked_at": "2026-10-16T02:15:00Z"
   },
@@ -179,6 +190,16 @@
    "checked_at": "2026-10-16T02:14:02Z"
   },
   {
+   "name": "Dungeons And Donuts",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "21 Abbeygate Street Upper, Galway, H91 KC79",
+   "phone": "(091) 567 930",
+   "website": "https://www.facebook.com/p/Dungeons-and-Donuts-Galway-100063524125506/",
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
    "name": "Echemas Trading Store",
    "group": "in_store",
    "city": "Limerick",
@@ -253,6 +274,16 @@
    "region": "D",
    "address": "Burrow Ct, Burrow, Portmarnock, Co. Dublin",
    "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "Murphys Toymaster",
+   "group": "in_store",
+   "city": "Dungarvan",
+   "region": "WD",
+   "address": "9 Main St, Dungarvan, Co. Waterford, X35 TD51",
+   "phone": "(058) 41376",
+   "website": "https://www.facebook.com/murphys.toymaster/",
+   "checked_at": "2026-10-16T02:13:32Z"
   },
   {
    "name": "Needful Things",
@@ -354,6 +385,15 @@
    "checked_at": "2026-10-16T02:13:32Z"
   },
   {
+   "name": "Sandbox",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "118 Oliver Plunkett St, Centre, Cork, T12 DXF8",
+   "website": "https://www.facebook.com/playinthesandbox",
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
    "name": "Serenity Memorial Cards | Best & Affordable Memorial Cards in Ireland",
    "group": "in_store",
    "city": "Cork",
@@ -372,6 +412,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "The Card Shop",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 216 Eyre Square, Galway, H91 X2NW",
+   "phone": "(091) 563 570",
+   "checked_at": "2026-10-16T21:46:50Z"
   },
   {
    "name": "The Curiosity Shop",
@@ -513,6 +562,16 @@
    "checked_at": "2026-10-16T02:13:49Z"
   },
   {
+   "name": "Art & Hobby",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Unit 111/113, Dun Laoghaire Shopping Centre, George's Street Upper, Dún Laoghaire, Dublin, A96 N293",
+   "phone": "(01) 280 5047",
+   "website": "https://www.artnhobby.ie/",
+   "checked_at": "2026-10-16T02:14:18Z"
+  },
+  {
    "name": "Atlantic Collectibles",
    "group": "unknown",
    "city": "Dublin",
@@ -571,6 +630,64 @@
    "checked_at": "2026-10-16T02:13:32Z"
   },
   {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "D",
+   "address": "Unit 25, Central Mall, Ilac Centre, Henry St, North City, Dublin 1, Co. Dublin, D01 CK75",
+   "phone": "(01) 872 6744",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "77 St Patrick's St, Centre, Cork, T12 CV06",
+   "phone": "(021) 422 1486",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "37 Eyre Square, Galway, Co. Galway, H91 W63A",
+   "phone": "(091) 564 960",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Ennis",
+   "region": "CE",
+   "address": "8 Upper Market St, Clonroad Beg, Ennis, Co. Clare, V95 WCT8",
+   "phone": "(065) 670 0092",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "2 Broad St, Waterford, X91 E921",
+   "phone": "(051) 844 463",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Card factory bandon",
+   "group": "unknown",
+   "city": "Bandon",
+   "region": "CO",
+   "address": "Riverview Shopping Centre, Macswiney Quay, Gully, Bandon, Co. Cork",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
    "name": "Card Gallery",
    "group": "unknown",
    "city": "Dublin",
@@ -590,6 +707,16 @@
    "checked_at": "2026-10-16T02:14:16Z"
   },
   {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Cruise's St, Prior's-Land, Limerick, V94 VP77",
+   "phone": "(061) 405 344",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
    "name": "CC Creatives Waterford",
    "group": "unknown",
    "city": "Waterford",
@@ -605,6 +732,50 @@
    "city": "Dublin",
    "region": "D",
    "address": "23 South Great George's Street, Dublin, D02 AP66",
+   "phone": "(01) 539 4898",
+   "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
+   "buylist_url": "https://ie.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:14:05Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Ground Floor, Fitzgerald's House, Grand Parade, Centre, Cork, T12 AT2H",
+   "phone": "(01) 539 4898",
+   "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
+   "buylist_url": "https://ie.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:14:05Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 62/63, Galway Shopping Centre, Headford Rd, Galway, H91 E863",
+   "phone": "(01) 539 4898",
+   "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
+   "buylist_url": "https://ie.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:14:05Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Unit 11, Parkway Shopping Centre, Dublin Rd, Singland, Limerick, V94 PC3K",
+   "phone": "(01) 539 4898",
+   "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
+   "buylist_url": "https://ie.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:14:05Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "12 Barronstrand St, Waterford, X91 WF21",
    "phone": "(01) 539 4898",
    "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
    "buylist_url": "https://ie.webuy.com/sell/",
@@ -698,6 +869,36 @@
    "checked_at": "2026-10-16T02:13:54Z"
   },
   {
+   "name": "Eason",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "35-36 St Patrick's St, Centre, Cork, T12 FK20",
+   "phone": "(021) 427 0477",
+   "website": "https://www.easons.com/",
+   "checked_at": "2026-10-16T02:13:54Z"
+  },
+  {
+   "name": "Eason",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "33 Shop St, Galway, H91 AP93",
+   "phone": "(091) 562 284",
+   "website": "https://www.easons.com/",
+   "checked_at": "2026-10-16T02:13:54Z"
+  },
+  {
+   "name": "Eason",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "9 O'Connell St, Prior's-Land, Limerick, V94 TE8D",
+   "phone": "(061) 419 588",
+   "website": "https://www.easons.com/",
+   "checked_at": "2026-10-16T02:13:54Z"
+  },
+  {
    "name": "Eire Hobbies",
    "group": "unknown",
    "city": "Dundalk",
@@ -733,6 +934,16 @@
    "address": "12 Henry St, North City, Dublin, D01 C3Y9",
    "website": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/",
    "checked_at": "2026-10-16T02:14:18Z"
+  },
+  {
+   "name": "Forbidden Planet Dublin",
+   "group": "unknown",
+   "region": "D",
+   "address": "5-7 Crampton Quay, Temple Bar, Dublin 2, D02 VX56",
+   "phone": "(01) 671 0688",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:44Z"
   },
   {
    "name": "Gadget Man",
@@ -794,6 +1005,36 @@
    "region": "CO",
    "address": "80 - 82 St Patrick's St, Centre, Cork, T12 D992",
    "phone": "(021) 494 9442",
+   "website": "https://goldendiscs.ie/?utm_content=Golden+Discs+-+Cork&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_8728825299608925616",
+   "checked_at": "2026-10-16T02:14:28Z"
+  },
+  {
+   "name": "Golden Discs",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Eyre Square, Galway, H91 F6R2",
+   "phone": "(091) 331 187",
+   "website": "https://goldendiscs.ie/?utm_content=Golden+Discs+-+Cork&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_8728825299608925616",
+   "checked_at": "2026-10-16T02:14:28Z"
+  },
+  {
+   "name": "Golden Discs",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "12A Cruise's St, Prior's-Land, Limerick, V94 N7P3",
+   "phone": "(061) 311 586",
+   "website": "https://goldendiscs.ie/?utm_content=Golden+Discs+-+Cork&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_8728825299608925616",
+   "checked_at": "2026-10-16T02:14:28Z"
+  },
+  {
+   "name": "Golden Discs",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "City Square Shopping Centre, Arundel Square, Waterford, X91 X257",
+   "phone": "(051) 306 056",
    "website": "https://goldendiscs.ie/?utm_content=Golden+Discs+-+Cork&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_8728825299608925616",
    "checked_at": "2026-10-16T02:14:28Z"
   },
@@ -1003,11 +1244,72 @@
    "checked_at": "2026-10-16T02:13:40Z"
   },
   {
+   "name": "Smyths Toys Superstores",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Maylor St, Centre, Cork, T12 Y958",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Fonthill",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Fonthill Retail Park, Fonthill Rd, Irishtown, Dublin 22, D22 K2V5",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Galway",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Galway Retail Park, Headford Rd, Galway, H91 R7F3",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
    "name": "Smyths Toys Superstores Jervis St",
+   "group": "unknown",
+   "region": "D",
+   "address": "1 Jervis St, North City, Dublin, D01 R8Y1",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Parkway",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Units 6 & 7 Parkway Retail Park, Singland, Limerick, V94 A0V9",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Swords",
    "group": "unknown",
    "city": "Swords",
    "region": "D",
-   "address": "1 Jervis St, North City, Dublin, D01 R8Y1",
+   "address": "1, Airside Retail Park, Swords, Co. Dublin, K67 E172",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Tallaght",
+   "group": "unknown",
+   "region": "D",
+   "address": "Tallaght Retail Centre, Belgard Rd, Tallaght, Dublin 24, D24 YK8N",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Waterford",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "Ivory Retail Park, 2 Tramore Rd, Priorsknock, Waterford, X91 RD98",
    "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
    "checked_at": "2026-10-16T02:13:51Z"
   },
@@ -1033,7 +1335,6 @@
   {
    "name": "Sub-City Comics",
    "group": "unknown",
-   "city": "Galway",
    "region": "D",
    "address": "53 Mary St, Northside, Dublin 1, D01 Y935",
    "phone": "(01) 872 8610",
@@ -1041,9 +1342,28 @@
    "checked_at": "2026-10-16T02:13:46Z"
   },
   {
+   "name": "Sub-City Comics",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 12 Williamsgate St, Galway, H91 W6XP",
+   "phone": "087 482 2897",
+   "website": "https://sub-city-galway.myshopify.com/",
+   "checked_at": "2026-10-16T21:46:50Z"
+  },
+  {
+   "name": "The Art & Hobby Shop Galway",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 11, level 2, Corbett Court Shopping Centre, Williamsgate St, Galway, H91 KN2D",
+   "phone": "(091) 532 910",
+   "website": "https://www.artnhobby.ie/",
+   "checked_at": "2026-10-16T02:14:18Z"
+  },
+  {
    "name": "The Art & Hobby Shop Stephens Green",
    "group": "unknown",
-   "city": "Dublin",
    "region": "D",
    "address": "Top floor Saint Stephen's Green shopping centre, Dublin",
    "phone": "(01) 478 1271",
@@ -1280,10 +1600,19 @@
   {
    "name": "Warhammer",
    "group": "unknown",
-   "city": "Cork",
    "region": "D",
    "address": "Unit 3 Liffey St. Lower, North City, Dublin, D01 K199",
    "phone": "(01) 872 5791",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:14:12Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Unit 1/2 St Patrick's Quay, Victorian Quarter, Cork, T23 CY5X",
+   "phone": "(021) 450 3232",
    "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
    "checked_at": "2026-10-16T02:14:12Z"
   },
@@ -1327,6 +1656,16 @@
    "region": "LK",
    "address": "Ennis Road Retail Centre, Park Ennis Rd, Coolraine, Limerick, V94 FC89",
    "phone": "(061) 582 426",
+   "website": "https://www.woodies.ie/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=gmb-listing-limerick",
+   "checked_at": "2026-10-16T02:15:12Z"
+  },
+  {
+   "name": "Woodie's Waterford",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "Cork Rd, Priorsknock, Waterford, X91 N274",
+   "phone": "(051) 351 037",
    "website": "https://www.woodies.ie/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=gmb-listing-limerick",
    "checked_at": "2026-10-16T02:15:12Z"
   },

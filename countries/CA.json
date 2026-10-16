@@ -2,7 +2,7 @@
  "country": "CA",
  "currency": "CAD",
  "updated": "2026-10-16",
- "store_count": 1116,
+ "store_count": 1349,
  "stores": [
   {
    "name": "203 Collectibles",
@@ -36,6 +36,72 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:16:42Z"
+  },
+  {
+   "name": "401 Games Downtown",
+   "group": "feed",
+   "city": "Toronto",
+   "region": "CA-ON",
+   "address": "431 Yonge Street, Toronto, CA-ON, M5B1T3",
+   "phone": "4165996446",
+   "website": "https://store.401games.ca",
+   "buylist_url": "https://buylist.401games.ca/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.401games.ca",
+    "store_id": "USYSFNJ9bg",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Digimon",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "401 Games Vaughan",
+   "group": "feed",
+   "city": "Vaughan",
+   "region": "ON",
+   "address": "7700 Keele St Unit 6B, Concord, ON L4K 2A1",
+   "phone": "(905) 660-4464",
+   "website": "https://store.401games.ca",
+   "buylist_url": "https://buylist.401games.ca/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.401games.ca",
+    "store_id": "USYSFNJ9bg",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Digimon",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "checked_at": "2026-10-15T20:08:02Z"
   },
   {
    "name": "401 Games, Toys, Sportscards - Toronto",
@@ -327,6 +393,49 @@
    "checked_at": "2026-10-15T20:09:34Z"
   },
   {
+   "name": "Carta Magica Montreal",
+   "group": "feed",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "6360 Rue St-Hubert, Montréal, QC H2S 2M2",
+   "phone": "(514) 286-9099",
+   "website": "https://www.cartamagica.com/",
+   "buylist_url": "https://www.cartamagica.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.cartamagica.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "checked_at": "2026-10-15T20:09:34Z"
+  },
+  {
+   "name": "Carta Magica Ottawa",
+   "group": "feed",
+   "city": "Ottawa",
+   "region": "CA-ON",
+   "address": "1179 St-Laurent Boulevard, Ottawa, CA-ON, K1K3B7",
+   "phone": "6137469099",
+   "website": "https://www.cartamagicaottawa.com",
+   "buylist_url": "https://www.cartamagicaottawa.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.cartamagicaottawa.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "mail_in": false,
+   "credit_bonus": "15% bonus in trade for bulk commons/uncommons/rares",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:12:28Z"
+  },
+  {
    "name": "Clutch Games",
    "group": "feed",
    "city": "Toronto",
@@ -453,6 +562,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:12:15Z"
+  },
+  {
+   "name": "Cosmic Radiance Gaming",
+   "group": "feed",
+   "city": "Gibbons",
+   "region": "CA-AB",
+   "address": "4724 50 Ave, Gibbons, AB, T0A 1N0, CA",
+   "phone": "17809656889",
+   "website": "https://cosmicradiancegaming.crystalcommerce.com/",
+   "buylist_url": "https://cosmicradiancegaming.crystalcommerce.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://cosmicradiancegaming.crystalcommerce.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:11:11Z"
   },
   {
    "name": "Danireon Cards & Games",
@@ -620,24 +749,45 @@
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
-    "Digimon",
-    "Dragon Ball Super Fusion World",
     "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
-    "Gundam",
-    "Lorcana",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
-    "One Piece",
-    "Pokemon",
-    "Riftbound",
-    "Star Wars Unlimited",
-    "UNION ARENA (EN)",
-    "Union Arena",
-    "Weiss Schwarz",
-    "Yu-Gi-Oh!"
+    "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Dolly's Cards & Collectibles Waterloo",
+   "group": "feed",
+   "city": "Waterloo",
+   "region": "ON",
+   "address": "420 Weber St N, Waterloo, ON N2L 4E7",
+   "phone": "(519) 500-1815",
+   "website": "https://www.dollys.ca/",
+   "buylist_url": "https://www.dollys.ca/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.dollys.ca",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "checked_at": "2026-10-15T20:08:22Z"
+  },
+  {
+   "name": "Dolly's Toys & Games Toronto",
+   "group": "feed",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "141 Montezuma Trail, Scarborough, ON M1V 1K4",
+   "phone": "(416) 299-1522",
+   "website": "https://www.dollys.ca/",
+   "buylist_url": "https://www.dollys.ca/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.dollys.ca",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "checked_at": "2026-10-15T20:08:22Z"
   },
   {
    "name": "Dolly's Toys and Games - Toronto",
@@ -658,7 +808,6 @@
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
@@ -740,6 +889,34 @@
    "checked_at": "2026-10-15T20:08:14Z"
   },
   {
+   "name": "Emmett's ToyStop & Hobby Shop",
+   "group": "feed",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "5324 Dundas St W, Etobicoke, ON M9B 1B4",
+   "phone": "(416) 395-1633",
+   "website": "https://emmettstoystop.com",
+   "buylist_url": "https://buylist.emmettstoystop.com/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.emmettstoystop.com",
+    "store_id": "Gs1Rp5LNP1",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "checked_at": "2026-10-15T20:08:14Z"
+  },
+  {
    "name": "Enter the Battlefield - Newmarket",
    "group": "feed",
    "city": "Oakville",
@@ -786,6 +963,74 @@
    "checked_at": "2026-10-15T20:08:52Z"
   },
   {
+   "name": "Enter the Battlefield Newmarket",
+   "group": "feed",
+   "city": "Newmarket",
+   "region": "CA-ON",
+   "address": "81 Davis Drive, Newmarket, CA-ON, L3Y2M9",
+   "phone": "9052354464",
+   "website": "https://enterthebattlefield.ca/",
+   "buylist_url": "https://buylist.enterthebattlefield.ca/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.enterthebattlefield.ca",
+    "store_id": "TAWdyDsyt9",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:52Z"
+  },
+  {
+   "name": "Entreprise Free Game",
+   "group": "feed",
+   "city": "Lévis",
+   "region": "QC",
+   "address": "1996 3e Rue Unité 102, Saint-Romuald, QC G6W 5M6",
+   "phone": "(418) 834-1234",
+   "website": "https://www.entreprisesfreegame.com/",
+   "buylist_url": "https://www.entreprisesfreegame.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.entreprisesfreegame.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "checked_at": "2026-10-15T20:11:40Z"
+  },
+  {
+   "name": "Entreprises Freegame",
+   "group": "feed",
+   "city": "St-Romuald",
+   "region": "CA-QC",
+   "address": "940 Chemin du Sault Local 115, St-Romuald, CA-QC, G6w0p9",
+   "phone": "4188341234",
+   "website": "https://www.entreprisesfreegame.com/",
+   "buylist_url": "https://www.entreprisesfreegame.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.entreprisesfreegame.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:40Z"
+  },
+  {
    "name": "Everything Games",
    "group": "feed",
    "city": "Victoria",
@@ -813,6 +1058,67 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:12:08Z"
+  },
+  {
+   "name": "First Player",
+   "group": "feed",
+   "city": "Calgary",
+   "region": "CA-AB",
+   "address": "1212 34 Ave SE #120, Calgary, AB, T2G 1V7, Canada",
+   "phone": "1825-513-7529",
+   "website": "https://www.firstplayer.ca/",
+   "buylist_url": "https://www.firstplayer.ca/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.firstplayer.ca",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:45Z"
+  },
+  {
+   "name": "Free Game",
+   "group": "feed",
+   "city": "Québec",
+   "region": "QC",
+   "address": "3333 Rue du Carrefour, Québec, QC G1C 5R9",
+   "phone": "(418) 660-6898",
+   "website": "https://www.entreprisesfreegame.com/",
+   "buylist_url": "https://www.entreprisesfreegame.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.entreprisesfreegame.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "checked_at": "2026-10-15T20:11:40Z"
+  },
+  {
+   "name": "Freegame - Promenades Beauport",
+   "group": "feed",
+   "city": "Beauport",
+   "region": "CA-QC",
+   "address": "3333 Rue du Carrefour, Québec, QC, G1C 5R9, Canada",
+   "phone": "1418-660-6898",
+   "website": "https://www.entreprisesfreegame.com/",
+   "buylist_url": "https://www.entreprisesfreegame.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.entreprisesfreegame.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "mail_in": true,
+   "credit_bonus": "Credit shown higher than cash",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:40Z"
   },
   {
    "name": "Galactic Trading Post",
@@ -869,10 +1175,50 @@
    "address": "1011 Upper Middle Rd E, Oakville, ON, L6H 4L3, Canada",
    "phone": "+12896447925",
    "website": "https://www.Game3tcg.ca",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:44Z"
+  },
+  {
+   "name": "Gamer's Den",
+   "group": "feed",
+   "city": "Edmonton",
+   "region": "Alberta",
+   "address": "11610 119 St NW, Edmonton, AB, T5G 2X7, CA",
+   "phone": "1(780) 760-4263",
+   "website": "https://www.gamersden.ca/",
+   "buylist_url": "https://www.gamersden.ca/buylist/multi_search",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.gamersden.ca",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:10:57Z"
+  },
+  {
+   "name": "GT Games",
+   "group": "feed",
+   "city": "Carleton Place",
+   "region": "ON",
+   "address": "10 Franklin St, Carleton Place, ON K7C 2V4",
+   "phone": "(613) 702-5022",
+   "website": "https://gtgames.ca/",
+   "buylist_url": "https://buylist.gtgames.ca/retailer/buylist",
    "feed": {
     "platform": "storepass",
-    "host": "buylist.game3.ca",
-    "store_id": "8pay5REPhG",
+    "host": "buylist.gtgames.ca",
+    "store_id": "eSWnGFPNHn",
     "games": [
      "One Piece",
      "Pokemon",
@@ -880,38 +1226,13 @@
      "Yu-Gi-Oh!",
      "Lorcana",
      "Dragon Ball Super Fusion World",
-     "Digimon",
-     "Gundam",
      "Riftbound",
      "Flesh and Blood",
      "Star Wars Unlimited",
-     "Weiss Schwarz",
-     "Union Arena"
-    ],
-    "japanese": "some Japanese Pokemon rows (older sets/promos) - search to confirm"
+     "Weiss Schwarz"
+    ]
    },
-   "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "Digimon",
-    "Dragon Ball Super Fusion World",
-    "Flesh and Blood",
-    "GUNDAM CARD GAME (EN)",
-    "Gundam",
-    "Lorcana",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)",
-    "One Piece",
-    "Pokemon",
-    "Riftbound",
-    "Star Wars Unlimited",
-    "UNION ARENA (EN)",
-    "Union Arena",
-    "Weiss Schwarz",
-    "Yu-Gi-Oh!"
-   ],
-   "checked_at": "2026-10-15T20:08:44Z"
+   "checked_at": "2026-10-15T20:11:29Z"
   },
   {
    "name": "GT Games - Kanata",
@@ -941,10 +1262,41 @@
     "japanese": "some Japanese Pokemon rows (older sets/promos) - search to confirm"
    },
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:29Z"
+  },
+  {
+   "name": "GT Games - Kanata",
+   "group": "feed",
+   "city": "Ottawa",
+   "region": "Ontario",
+   "address": "parking lot, 462 Hazeldean Rd Unit 1, Kanata, ON K2L 1V3, Canada, Ottawa, Ontario, K2L 1V3",
+   "phone": "+16137025022",
+   "website": "https://gtgames.ca/",
+   "buylist_url": "https://buylist.gtgames.ca/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.gtgames.ca",
+    "store_id": "eSWnGFPNHn",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ],
+    "japanese": "some Japanese Pokemon rows (older sets/promos) - search to confirm"
+   },
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:11:29Z"
   },
@@ -1035,6 +1387,36 @@
    "checked_at": "2026-10-15T20:08:02Z"
   },
   {
+   "name": "Hobbiesville Toronto",
+   "group": "feed",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "9 Ossington Ave, Toronto, ON M6J 2Y8",
+   "phone": "(888) 853-2057",
+   "website": "https://www.hobbiesville.com/",
+   "buylist_url": "https://buylist.hobbiesville.com/retailer/buylist?product_line=Pokemon",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.hobbiesville.com",
+    "store_id": "cGCfZUZiX0",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz",
+     "Union Arena"
+    ]
+   },
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
    "name": "Invasion",
    "group": "feed",
    "city": "Richmond Hill",
@@ -1073,6 +1455,37 @@
     "Star Wars Unlimited",
     "Weiss Schwarz",
     "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-15T20:08:35Z"
+  },
+  {
+   "name": "Invasion Inc",
+   "group": "feed",
+   "city": "Markham",
+   "region": "Ontario",
+   "address": "82 Doncaster Ave, Markham, ON L3T 1L3, Canada, Markham, Ontario, L3T 1L3",
+   "phone": "4169893550",
+   "website": "https://invasioncnc.ca/",
+   "buylist_url": "https://buylist.invasioncnc.ca/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.invasioncnc.ca",
+    "store_id": "bzNZnv1o5E",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:08:35Z"
   },
@@ -1120,6 +1533,16 @@
     "Weiss Schwarz",
     "Yu-Gi-Oh!"
    ],
+   "checked_at": "2026-10-15T20:09:38Z"
+  },
+  {
+   "name": "Jeux The Side Deck",
+   "group": "feed",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "3299 Boul Crémazie E, Montréal, QC H1Z 2H7",
+   "phone": "(514) 419-4419",
+   "website": "https://thesidedeck.ca",
    "checked_at": "2026-10-15T20:09:38Z"
   },
   {
@@ -1316,6 +1739,41 @@
    "checked_at": "2026-10-15T20:09:00Z"
   },
   {
+   "name": "MyPops.ca Hamilton Eastgate Square Toys TCG Funko",
+   "group": "feed",
+   "city": "Hamilton",
+   "region": "CA-ON",
+   "address": "75 Centennial Pkwy N Unit B002B, Hamilton, CA-ON, L8E2P2",
+   "phone": "9054102226",
+   "website": "https://www.mypops.ca",
+   "buylist_url": "https://www.mypops.ca/pages/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "otQ4yUnCto",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "MyPops.ca Markham Toys & Collectibles",
    "group": "feed",
    "city": "Markham",
@@ -1352,6 +1810,41 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "MyPops.ca Mississauga",
+   "group": "feed",
+   "city": "Mississauga",
+   "region": "CA-ON",
+   "address": "5100 Erin Mills Pkwy Unit B124, Mississauga, CA-ON, L5M4Z5",
+   "phone": "9056096661",
+   "website": "https://www.mypops.ca",
+   "buylist_url": "https://www.mypops.ca/pages/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "store.storepass.co",
+    "store_id": "otQ4yUnCto",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "New Realm Games",
    "group": "feed",
    "city": "Woodbridge",
@@ -1382,6 +1875,34 @@
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:14:16Z"
+  },
+  {
+   "name": "New Realm Games",
+   "group": "feed",
+   "city": "Vaughan",
+   "region": "ON",
+   "address": "30 Famous Ave #141A, Woodbridge, ON L4L 9M3",
+   "phone": "(833) 955-4263",
+   "website": "https://newrealmgames.com/",
+   "buylist_url": "https://buylist.newrealmgames.com/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.newrealmgames.com",
+    "store_id": "ZGvDuXnHgG",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
    "checked_at": "2026-10-15T20:14:16Z"
   },
   {
@@ -1642,6 +2163,37 @@
    "checked_at": "2026-10-15T20:09:36Z"
   },
   {
+   "name": "Rémi Card Trader",
+   "group": "feed",
+   "city": "Longueuil",
+   "region": "Québec",
+   "address": "1400 Bd Édouard #117, Longueuil, QC, Canada, Longueuil, Québec",
+   "phone": "+1 514-647-4850",
+   "website": "https://remicardtrader.ca/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:09:36Z"
+  },
+  {
+   "name": "Scattered Deck Games",
+   "group": "feed",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "360-572-2239",
+   "website": "https://www.scattereddeckgames.com/",
+   "buylist_url": "https://www.scattereddeckgames.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.scattereddeckgames.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "credit_bonus": "Store credit only",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:12:21Z"
+  },
+  {
    "name": "Sequence Gaming",
    "group": "feed",
    "city": "Brockville",
@@ -1662,6 +2214,37 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:12:36Z"
+  },
+  {
+   "name": "Silver Goblin",
+   "group": "feed",
+   "city": "Montréal",
+   "region": "Québec",
+   "address": "372 Rue Sainte-Catherine O, Montréal, QC H3B 1A4, Canada, Montréal, Québec, H3B 1A4",
+   "phone": "+15143032273",
+   "website": "https://silvergoblin.cards",
+   "buylist_url": "https://buylist.silvergoblin.cards/retailer/buylist",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.silvergoblin.cards",
+    "store_id": "yKBDFjMxoH",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Gundam",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:09:27Z"
   },
   {
    "name": "Silver Goblin Inc.",
@@ -1789,6 +2372,17 @@
    "checked_at": "2026-10-15T20:13:47Z"
   },
   {
+   "name": "Sunny Hobbies",
+   "group": "feed",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "3300 Midland Ave 2nd floor, unit 205, Scarborough, ON M1V 4W8",
+   "phone": "(416) 297-7778",
+   "website": "https://sunnyhobbies.com/",
+   "buylist_url": "https://sunnyhobbies.com/pages/buylist",
+   "checked_at": "2026-10-15T20:13:47Z"
+  },
+  {
    "name": "Taps Games",
    "group": "feed",
    "city": "Edmonton",
@@ -1889,6 +2483,44 @@
    "checked_at": "2026-10-15T20:12:35Z"
   },
   {
+   "name": "The Comic Hunter - Charlottetown",
+   "group": "feed",
+   "city": "Charlottetown",
+   "region": "Prince Edward Island",
+   "address": "161 Queen St, Charlottetown, PE C1A 4B4, Canada, Charlottetown, Prince Edward Island, C1A 4B4",
+   "phone": "+1 902-566-2926",
+   "website": "https://www.comichunter.net/",
+   "buylist_url": "https://www.comichunter.net/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.comichunter.net",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:12:35Z"
+  },
+  {
+   "name": "The Comic Hunter Fredericton",
+   "group": "feed",
+   "city": "Fredericton",
+   "region": "CA-NB",
+   "address": "98 Regent St., Fredericton, CA-NB, E3B3W4",
+   "phone": "5062062200",
+   "website": "https://www.comichunter.net/",
+   "buylist_url": "https://www.comichunter.net/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://www.comichunter.net",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:12:35Z"
+  },
+  {
    "name": "The Negative Zone - Comics and More",
    "group": "feed",
    "city": "Toronto",
@@ -1942,6 +2574,43 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:09:07Z"
+  },
+  {
+   "name": "The Trading Post",
+   "group": "feed",
+   "city": "Guelph",
+   "region": "ON",
+   "address": "32 Essex St, Guelph, ON N1H 3K8",
+   "phone": "(519) 822-0505",
+   "website": "https://roundtabletavern.crystalcommerce.com/",
+   "buylist_url": "https://roundtabletavern.crystalcommerce.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://roundtabletavern.crystalcommerce.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "credit_bonus": "Credit higher than cash (e.g. 0.30 vs 0.22)",
+   "checked_at": "2026-10-15T20:20:04Z"
+  },
+  {
+   "name": "Tome2",
+   "group": "feed",
+   "city": "Saint-Jean-sur-Richelieu",
+   "region": "CA-QC",
+   "address": "42 Saint-Jacques St, Saint-Jean-Sur-Richelieu, QC, J3B 2J7, Canada",
+   "phone": "+1450-376-6106",
+   "website": "https://tome2boutique.crystalcommerce.com/",
+   "buylist_url": "https://tome2boutique.crystalcommerce.com/buylist",
+   "feed": {
+    "platform": "crystalcommerce",
+    "base": "https://tome2boutique.crystalcommerce.com",
+    "search": "/buylist/search?q=<card name>"
+   },
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:06Z"
   },
   {
    "name": "Topdeck Boucherville",
@@ -2003,6 +2672,27 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:09:56Z"
+  },
+  {
+   "name": "Toy Snowman",
+   "group": "feed",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "2037 Rue Parthenais, Montréal, QC H2K 3T1",
+   "phone": "(438) 866-2100",
+   "website": "https://toysnowman.com/",
+   "feed": {
+    "platform": "sortswift",
+    "store_key": "toysnowman",
+    "games": [
+     "Magic: The Gathering",
+     "Pokemon",
+     "Riftbound"
+    ],
+    "mail_in": true,
+    "drop_off": true
+   },
+   "checked_at": "2026-10-15T20:09:28Z"
   },
   {
    "name": "Trinity Hobby",
@@ -2120,26 +2810,31 @@
    "checked_at": "2026-10-15T20:11:19Z"
   },
   {
-   "name": "Carta Magica Ottawa",
-   "group": "public_buylist",
+   "name": "Vulcan Collectibles",
+   "group": "feed",
    "city": "Ottawa",
-   "region": "CA-ON",
-   "address": "1179 St-Laurent Boulevard, Ottawa, CA-ON, K1K3B7",
-   "phone": "6137469099",
-   "website": "https://www.cartamagicaottawa.com",
-   "buylist_url": "https://www.cartamagicaottawa.com/buylist",
-   "mail_in": false,
-   "credit_bonus": "15% bonus in trade for bulk commons/uncommons/rares",
-   "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
-    "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)",
-    "UNION ARENA (EN)"
-   ],
-   "checked_at": "2026-10-15T20:12:28Z"
+   "region": "ON",
+   "address": "1886 Merivale Rd Unit 103-1, Ottawa, ON K2G 5W5",
+   "phone": "(613) 695-4751",
+   "website": "https://www.vulcancollectibles.ca/",
+   "buylist_url": "https://buylist.vulcancollectibles.com/retailer/buylist?product_line=Pokemon&sort=Relevance",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.vulcancollectibles.com",
+    "store_id": "EPMrUUHLOD",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "checked_at": "2026-10-16T21:18:47Z"
   },
   {
    "name": "Champion City Games",
@@ -2152,64 +2847,6 @@
    "buylist_url": "https://buylist.championcitygames.ca/",
    "credit_bonus": "30% trade-in bonus",
    "checked_at": "2026-10-15T20:16:57Z"
-  },
-  {
-   "name": "Freegame - Promenades Beauport",
-   "group": "public_buylist",
-   "city": "Beauport",
-   "region": "CA-QC",
-   "address": "3333 Rue du Carrefour, Québec, QC, G1C 5R9, Canada",
-   "phone": "1418-660-6898",
-   "website": "https://www.entreprisesfreegame.com/",
-   "buylist_url": "https://www.entreprisesfreegame.com/buylist",
-   "mail_in": true,
-   "credit_bonus": "Credit shown higher than cash",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-15T20:11:40Z"
-  },
-  {
-   "name": "La Boutique Mythique (The Mythic Store)",
-   "group": "public_buylist",
-   "city": "Quebec City / Levis",
-   "region": "QC",
-   "website": "https://www.themythicstore.com",
-   "buylist_url": "https://buylist.themythicstore.com/",
-   "games_buys": [
-    "Magic: The Gathering",
-    "Lorcana",
-    "Star Wars Unlimited",
-    "Riftbound"
-   ],
-   "notes": "Buylist portal linked from main site; page content not readable via fetch. Third-party CardRouter says MTG lists can be emailed to acquisitions@mythicstore.com and cards shipped to Quebec; not confirmed on store site."
-  },
-  {
-   "name": "Scattered Deck Games",
-   "group": "public_buylist",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "360-572-2239",
-   "website": "https://www.scattereddeckgames.com/",
-   "buylist_url": "https://www.scattereddeckgames.com/buylist",
-   "credit_bonus": "Store credit only",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:12:21Z"
-  },
-  {
-   "name": "The Trading Post",
-   "group": "public_buylist",
-   "city": "Guelph",
-   "region": "ON",
-   "address": "32 Essex St, Guelph, ON N1H 3K8",
-   "phone": "(519) 822-0505",
-   "website": "https://roundtabletavern.crystalcommerce.com/",
-   "buylist_url": "https://roundtabletavern.crystalcommerce.com/buylist",
-   "credit_bonus": "Credit higher than cash (e.g. 0.30 vs 0.22)",
-   "checked_at": "2026-10-15T20:20:04Z"
   },
   {
    "name": "Three Kings Loot inc",
@@ -2235,10 +2872,22 @@
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:13:24Z"
+  },
+  {
+   "name": "3 MANA INC",
+   "group": "login_required",
+   "city": "Longueuil",
+   "region": "Québec",
+   "address": "3075 Mnt Saint-Hubert, Saint-Hubert, QC J3Y 4J2, Canada, Longueuil, Québec, J3Y 4J2",
+   "phone": "+1 450-486-1551",
+   "website": "https://3mana.ca/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:13:24Z"
   },
@@ -2303,14 +2952,11 @@
   {
    "name": "Boutique V-MAX",
    "group": "login_required",
-   "city": "Quebec",
-   "region": "CA-QC",
-   "address": "575 avenue du Cénacle, Quebec, CA-QC, G1E6W4",
-   "phone": "5814438998",
+   "city": "Québec",
+   "region": "QC",
+   "address": "575 Av. du Cénacle, Québec, QC G1E 6W4",
+   "phone": "(581) 443-8998",
    "website": "https://boutiquevmax.ca/",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-15T20:18:41Z"
   },
   {
@@ -2444,6 +3090,16 @@
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:13:49Z"
+  },
+  {
+   "name": "Comfy Hobbies",
+   "group": "login_required",
+   "city": "Markham",
+   "region": "ON",
+   "address": "57 Glen Cameron Rd East, Thornhill, ON L3T 1P3",
+   "phone": "(905) 597-8285",
+   "website": "https://comfyhobbies.com/",
    "checked_at": "2026-10-15T20:13:49Z"
   },
   {
@@ -2624,6 +3280,20 @@
    "checked_at": "2026-10-15T20:11:33Z"
   },
   {
+   "name": "GameKnight Games and Cool Stuff",
+   "group": "login_required",
+   "city": "Winnipeg",
+   "region": "Manitoba",
+   "address": "519 Osborne St, Winnipeg, MB R3L 2A9, Canada, Winnipeg, Manitoba, R3L 2A9",
+   "phone": "+1 204-487-4263",
+   "website": "https://gameknight.ca/",
+   "buylist_url": "https://gameknight.ca/pages/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:40Z"
+  },
+  {
    "name": "Gamer's Zone",
    "group": "login_required",
    "city": "COWANSVILLE",
@@ -2652,6 +3322,31 @@
    "checked_at": "2026-10-15T20:12:45Z"
   },
   {
+   "name": "GameZilla",
+   "group": "login_required",
+   "city": "Saint John",
+   "region": "NB",
+   "address": "77 Catherwood St, Saint John, NB E2M 7X1",
+   "phone": "(506) 657-7529",
+   "website": "https://gamezilla.ca/",
+   "buylist_url": "https://gamezilla.ca/pages/submit-buylist",
+   "checked_at": "2026-10-15T20:13:18Z"
+  },
+  {
+   "name": "Gamezilla - Moncton",
+   "group": "login_required",
+   "city": "Moncton",
+   "region": "New Brunswick",
+   "address": "511 Mountain Rd, Moncton, NB E1C 2N4, Canada, Moncton, New Brunswick, E1C 2N4",
+   "phone": "+1 506-855-7101",
+   "website": "https://gamezilla.ca/",
+   "buylist_url": "https://gamezilla.ca/pages/submit-buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:13:18Z"
+  },
+  {
    "name": "Gamezilla Fredericton",
    "group": "login_required",
    "city": "Fredericton",
@@ -2661,8 +3356,7 @@
    "website": "https://gamezilla.ca/",
    "buylist_url": "https://gamezilla.ca/pages/submit-buylist",
    "games_events": [
-    "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood"
+    "DIGIMON CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:13:18Z"
   },
@@ -2733,6 +3427,52 @@
    "checked_at": "2026-10-15T20:13:15Z"
   },
   {
+   "name": "Jeux et TCG / TCG and Games",
+   "group": "login_required",
+   "city": "Repentigny",
+   "region": "QC",
+   "address": "197 Rue St Paul, Repentigny, QC J5Z 2H9",
+   "phone": "(450) 585-2622",
+   "website": "https://tcgandgames.com/",
+   "checked_at": "2026-10-15T20:10:11Z"
+  },
+  {
+   "name": "La Boutique Mythique",
+   "group": "login_required",
+   "city": "Québec",
+   "region": "QC",
+   "address": "354 Boulevard Charest E, Québec, QC G1K 3H5",
+   "phone": "(418) 529-9000",
+   "website": "https://laboutiquemythique.com/",
+   "buylist_url": "https://buylist.themythicstore.com/fr",
+   "checked_at": "2026-10-15T20:11:38Z"
+  },
+  {
+   "name": "La Boutique Mythique",
+   "group": "login_required",
+   "city": "Levis",
+   "region": "QC",
+   "address": "2170 Rte des Rivières Local 195, Saint-Nicolas, QC G6K 1A6",
+   "phone": "(418) 529-9000",
+   "website": "https://laboutiquemythique.com/",
+   "buylist_url": "https://buylist.themythicstore.com/fr",
+   "checked_at": "2026-10-15T20:11:38Z"
+  },
+  {
+   "name": "La Boutique Mythique - Lévis",
+   "group": "login_required",
+   "city": "Lévis",
+   "region": "Québec",
+   "address": "2170 Rte des Rivières local 195, Saint-Nicolas, QC G7A 1B9, Canada, Lévis, Québec, G7A 1B9",
+   "phone": "+1 418-529-9000",
+   "website": "https://themythicstore.com/pages/the-mythic-store-levis",
+   "buylist_url": "https://buylist.themythicstore.com/fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:42Z"
+  },
+  {
    "name": "La Boutique Mythique - Québec",
    "group": "login_required",
    "city": "Quebec",
@@ -2742,8 +3482,35 @@
    "website": "https://laboutiquemythique.com/",
    "buylist_url": "https://buylist.themythicstore.com/fr",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:38Z"
+  },
+  {
+   "name": "La Boutique Mythique - Québec",
+   "group": "login_required",
+   "city": "Québec",
+   "region": "Québec",
+   "address": "Édifice du Boulevard, Québec, QC G1K 3H5, Canada, Québec, Québec, G1K 3H5",
+   "phone": "+14185299000",
+   "website": "https://themythicstore.com/",
+   "buylist_url": "https://buylist.themythicstore.com/fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
+   "name": "La Boutique Mythique | Lévis",
+   "group": "login_required",
+   "city": "St-Nicolas",
+   "region": "CA-QC",
+   "address": "2170 Route des Rivieres, Local 195, St-Nicolas, CA-QC, G6K1A6",
+   "phone": "4185299000",
+   "website": "https://laboutiquemythique.com/",
+   "buylist_url": "https://buylist.themythicstore.com/fr",
+   "games_events": [
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:11:38Z"
@@ -2854,6 +3621,17 @@
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:34Z"
+  },
+  {
+   "name": "Level Up Games Canada",
+   "group": "login_required",
+   "city": "Vaughan",
+   "region": "ON",
+   "address": "2316 Major Mackenzie Dr W Unit 2, Maple, ON L6A 1W6",
+   "phone": "(905) 303-0656",
+   "website": "https://levelupgames.ca/",
+   "buylist_url": "https://levelupgames.ca/pages/sell-your-cards",
    "checked_at": "2026-10-15T20:08:34Z"
   },
   {
@@ -2987,6 +3765,19 @@
    "checked_at": "2026-10-15T20:20:19Z"
   },
   {
+   "name": "Red Claw Gaming",
+   "group": "login_required",
+   "city": "Edmonton",
+   "region": "Alberta",
+   "address": "13552 Fort Rd NW, Edmonton, AB T5A 5C5, Canada, Edmonton, Alberta, T5A 5C5",
+   "phone": "+1 780-757-7655",
+   "website": "https://www.redclawgaming.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:42Z"
+  },
+  {
    "name": "Scuffed Cards",
    "group": "login_required",
    "city": "Calgary",
@@ -3051,6 +3842,19 @@
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:58Z"
+  },
+  {
+   "name": "The Mana Lounge Strathroy",
+   "group": "login_required",
+   "city": "Strathroy",
+   "region": "Ontario",
+   "address": "89 Frank St, Strathroy, ON N7G 2R5, Canada, Strathroy, Ontario, N7G 2R5",
+   "phone": "+1 519-205-0352",
+   "website": "https://www.manalounge.ca/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:11:58Z"
   },
@@ -3218,11 +4022,24 @@
    "buylist_url": "https://buylist.wizardtower.com",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:11:27Z"
+  },
+  {
+   "name": "Wizard's Tower",
+   "group": "login_required",
+   "city": "Ottawa",
+   "region": "Ontario",
+   "address": "80 Marketplace Ave Unit # 1, Nepean, ON K2J 5G3, Canada, Ottawa, Ontario, K2J 5G3",
+   "phone": "613-843-0705",
+   "website": "https://www.wizardtower.com/",
+   "buylist_url": "https://buylist.wizardtower.com",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:11:27Z"
   },
@@ -3387,6 +4204,18 @@
    "checked_at": "2026-10-15T20:14:14Z"
   },
   {
+   "name": "The Trading Gallery (Nest)",
+   "group": "quote_only",
+   "city": "New Westminster",
+   "region": "BC",
+   "address": "625 5th Ave Unit 707, New Westminster, BC V3M 1X4",
+   "phone": "(236) 514-8923",
+   "website": "https://www.thetradinggallery.com/en/ca",
+   "buylist_url": "https://www.thetradinggallery.com/en/ca/bulk-sell",
+   "mail_in": false,
+   "checked_at": "2026-10-15T20:14:51Z"
+  },
+  {
    "name": "2Dimensional Life",
    "group": "blocked",
    "city": "Calgary",
@@ -3422,6 +4251,16 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:12:21Z"
+  },
+  {
+   "name": "Boutique Imaginaire du Centre Eaton",
+   "group": "blocked",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "705 Rue Sainte-Catherine Ouest, Montréal, QC H3B 4G5",
+   "phone": "(514) 316-3924",
+   "website": "https://www.imaginaire.com/",
+   "checked_at": "2026-10-15T20:09:52Z"
   },
   {
    "name": "Buying Sports Cards & Comics",
@@ -3502,6 +4341,106 @@
    "phone": "(709) 579-2646",
    "website": "https://eastcoastcoins.ca/",
    "checked_at": "2026-10-15T20:22:13Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Winnipeg",
+   "region": "MB",
+   "address": "1555 Regent Ave W, Winnipeg, MB R2C IJ2",
+   "phone": "(204) 661-2266",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Québec City",
+   "region": "QC",
+   "address": "Méga Centre Sainte-Foy, 1498 Av. Jules-Verne Ste 103, Québec City, QC G2G 2R5",
+   "phone": "(418) 871-3024",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "Laurentian Power Center, 245 Strasburg Rd, Kitchener, ON N2E 3W7",
+   "phone": "(519) 745-8695",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "London",
+   "region": "ON",
+   "address": "1320 Fanshawe Park Rd W, London, ON N6G 5B1",
+   "phone": "(519) 472-4040",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "201 Chain Lake Dr, Halifax, NS B3S 1C8",
+   "phone": "(902) 450-5666",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Victoria",
+   "region": "BC",
+   "address": "3147 Douglas St Unit 653, Victoria, BC V8Z 6E3",
+   "phone": "(250) 383-9688",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "201 1 Ave S, Saskatoon, SK S7K 1J9",
+   "phone": "(306) 518-2497",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "Avalon Mall, 48 Kenmount Rd, St. John's, NL A1B 3P8",
+   "phone": "(709) 576-3111",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Mount Pearl",
+   "region": "NL",
+   "address": "10 Merchant Dr c4, Mount Pearl, NL A1N 5J5",
+   "phone": "(709) 368-3166",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "blocked",
+   "city": "Mississauga",
+   "region": "ON",
+   "address": "100 City Centre Dr 2 115, Mississauga, ON L5B 2C9",
+   "phone": "(905) 279-6920",
+   "website": "https://www.ebgames.ca/",
+   "checked_at": "2026-10-15T20:08:02Z"
   },
   {
    "name": "EB Games - 2244 - 267 Yonge Street",
@@ -3637,6 +4576,117 @@
    "checked_at": "2026-10-15T20:17:00Z"
   },
   {
+   "name": "Imaginaire Laurier",
+   "group": "blocked",
+   "city": "Québec",
+   "region": "Québec",
+   "address": "2740 Boul Laurier, Québec, QC G1V 4P7, Canada, Québec, Québec, G1V 4P7",
+   "phone": "+14186585639",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Laval",
+   "group": "blocked",
+   "city": "Laval",
+   "region": "CA-QC",
+   "address": "3003 Boul. le Carrefour, Laval, CA-QC, H7T1C7",
+   "phone": "4502310096",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Lévis",
+   "group": "blocked",
+   "city": "Lévis",
+   "region": "CA-QC",
+   "address": "1200 Boulevard Alphonse Desjardins, Lévis, CA-QC, G6V6Y8",
+   "phone": "4184768879",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Ottawa",
+   "group": "blocked",
+   "city": "Ottawa",
+   "region": "CA-ON",
+   "address": "50 Rideau St Level 3 (CF Rideau), Ottawa, CA-ON, K1N9J7",
+   "phone": "6139035849",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Pointe-Claire",
+   "group": "blocked",
+   "city": "Pointe-Claire",
+   "region": "CA-QC",
+   "address": "6801 Trans-Canada Hwy, Pointe-Claire, CA-QC, H9R5J2",
+   "phone": "5146941857",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Saint-Bruno",
+   "group": "blocked",
+   "city": "Saint-Bruno-de-Montarville",
+   "region": "CA-QC",
+   "address": "440 Bd des Promenades, Saint-Bruno-de-Montarville, CA-QC, J3V6A8",
+   "phone": "4502865389",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Sherbrooke",
+   "group": "blocked",
+   "city": "Sherbrooke",
+   "region": "CA-QC",
+   "address": "Carrefour de l'Estrie, Sherbrooke, CA-QC, J1L1K1",
+   "phone": "8192003733",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
+   "name": "Imaginaire Trois-Rivières",
+   "group": "blocked",
+   "city": "Trois-Rivières",
+   "region": "CA-QC",
+   "address": "4225 Bd des Forges, Trois-Rivières, CA-QC, G8Y1W2",
+   "phone": "8194155855",
+   "website": "https://www.imaginaire.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:52Z"
+  },
+  {
    "name": "J and J Cards and Collectibles",
    "group": "blocked",
    "city": "Waterloo",
@@ -3672,11 +4722,9 @@
    "phone": "+1450-286-5389",
    "website": "https://www.imaginaire.com/",
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)",
-    "UNION ARENA (EN)"
+    "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:52Z"
   },
@@ -3800,6 +4848,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:10:01Z"
+  },
+  {
+   "name": "Ogre's Den Gaming Club",
+   "group": "blocked",
+   "city": "Calgary",
+   "region": "Alberta",
+   "address": "3220 5 Ave NE, Calgary, AB T2A 5N1, Canada, Calgary, Alberta, T2A 5N1",
+   "phone": "+1 403-273-0037",
+   "website": "https://ogresden.ca/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:38Z"
   },
   {
    "name": "Out Of The Box Sports Cards and Collectibles Inc",
@@ -4067,6 +5128,16 @@
    "checked_at": "2026-10-16T02:22:18Z"
   },
   {
+   "name": "Anime-Shun | Anime Manga Figure Store",
+   "group": "in_store",
+   "city": "Calgary",
+   "region": "AB",
+   "address": "206 11 Ave SE #102, Calgary, AB T2G 0X8",
+   "phone": "(403) 460-0025",
+   "website": "https://www.instagram.com/animeshunstore?igsh=ZGNjOWZkYTE3MQ==&utm_source=qr",
+   "checked_at": "2026-10-15T20:08:50Z"
+  },
+  {
    "name": "Area 51 Gaming",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -4175,6 +5246,16 @@
    "checked_at": "2026-10-15T20:21:03Z"
   },
   {
+   "name": "Big Pete's Collectibles",
+   "group": "in_store",
+   "city": "North Vancouver",
+   "region": "BC",
+   "address": "121 1st St E, North Vancouver, BC V7L 1B2",
+   "phone": "(604) 983-2325",
+   "website": "https://www.facebook.com/bigpetes.collectibles",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Bottom Cardz",
    "group": "in_store",
    "city": "Hamilton",
@@ -4210,6 +5291,18 @@
    "checked_at": "2026-10-15T20:13:30Z"
   },
   {
+   "name": "Boutique V-MAX",
+   "group": "in_store",
+   "city": "Quebec",
+   "region": "CA-QC",
+   "address": "575 avenue du Cénacle, Quebec, CA-QC, G1E6W4",
+   "phone": "5814438998",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Brantford Sports Cards & Collectibles",
    "group": "in_store",
    "city": "Brantford",
@@ -4217,6 +5310,19 @@
    "address": "122 Colborne St W, Brantford, ON N3T 1J6",
    "phone": "(519) 750-0837",
    "checked_at": "2026-10-15T20:19:31Z"
+  },
+  {
+   "name": "Capitaine Quebec",
+   "group": "in_store",
+   "city": "Montréal",
+   "region": "Québec",
+   "address": "1837D Rue Sainte-Catherine, Montréal, QC H3H 1M2, Canada, Montréal, Québec, H3H 1M2",
+   "phone": "+1 514-939-9970",
+   "website": "https://www.instagram.com/otherworldgamesmtl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:08:50Z"
   },
   {
    "name": "Captain's Collectibuzz",
@@ -4248,6 +5354,16 @@
    "checked_at": "2026-10-15T20:20:24Z"
   },
   {
+   "name": "Cards Coins & Collectibles",
+   "group": "in_store",
+   "city": "Corner Brook",
+   "region": "NL",
+   "address": "8 Broadway, Corner Brook, NL A2H 4C2",
+   "phone": "(709) 634-8200",
+   "website": "https://www.facebook.com/profile.php?id=61573211544601",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Carlito's Boardgame Cafe",
    "group": "in_store",
    "city": "Thunder Bay",
@@ -4261,6 +5377,16 @@
     "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-15T20:13:21Z"
+  },
+  {
+   "name": "Carry-On Comics & Books",
+   "group": "in_store",
+   "city": "Waterloo",
+   "region": "ON",
+   "address": "32 King St N, Waterloo, ON N2J 2W8",
+   "phone": "(519) 886-4267",
+   "website": "https://m.facebook.com/CarryOnComics/",
+   "checked_at": "2026-10-15T20:19:06Z"
   },
   {
    "name": "Carto-Puces",
@@ -4342,6 +5468,16 @@
    "checked_at": "2026-10-16T02:22:09Z"
   },
   {
+   "name": "Collectable TOYS store",
+   "group": "in_store",
+   "city": "Saint John",
+   "region": "NB",
+   "address": "174 Adelaide St, Saint John, NB E2K 1X1",
+   "phone": "(506) 288-6739",
+   "website": "https://www.facebook.com/collectabletoysnb1/?ref=page_internal",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Collection Junction",
    "group": "in_store",
    "city": "Edmonton",
@@ -4351,17 +5487,42 @@
    "checked_at": "2026-10-15T20:17:08Z"
   },
   {
+   "name": "Collector's Edge",
+   "group": "in_store",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "244 1st Ave N, Saskatoon, SK S7K 1X1",
+   "phone": "(306) 653-3343",
+   "website": "https://www.facebook.com/CollectEdge/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Colossal Cards & Collectables",
    "group": "in_store",
    "city": "Courtenay",
    "region": "CA-BC",
    "address": "444 lerwick road Unit #405 , Courtenay, CA-BC, v9n0a9",
    "phone": "2508716627",
+   "website": "https://www.facebook.com/groups/colossalsportscards/?ref=share_group_link",
    "games_events": [
     "Flesh and Blood",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-15T20:13:15Z"
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Colossal Cards & Collectables Victoria",
+   "group": "in_store",
+   "city": "Victoria",
+   "region": "CA-BC",
+   "address": "101 515 Chatham Street, Victoria, CA-BC, V8T0C8",
+   "phone": "7784453433",
+   "games_events": [
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Comic Alley Miramichi",
@@ -4376,6 +5537,21 @@
    "checked_at": "2026-10-16T02:22:23Z"
   },
   {
+   "name": "Comics Rive-Sud",
+   "group": "in_store",
+   "city": "Longueuil",
+   "region": "CA-QC",
+   "address": "1253 Ch de Chambly, Longueuil, CA-QC, J4J3W9",
+   "phone": "14504429898",
+   "games_events": [
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Comics Scene",
    "group": "in_store",
    "city": "Surrey",
@@ -4383,6 +5559,26 @@
    "address": "8912 152 St, Surrey, BC V3R 4E4",
    "phone": "(604) 582-2877",
    "checked_at": "2026-10-15T20:22:47Z"
+  },
+  {
+   "name": "Cooper's Cabin",
+   "group": "in_store",
+   "city": "Truro",
+   "region": "NS",
+   "address": "98 Esplanade St, Truro, NS B2N 2K3",
+   "phone": "(902) 843-0771",
+   "website": "https://www.facebook.com/CoopersCabin",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Core Games",
+   "group": "in_store",
+   "city": "Burnaby",
+   "region": "BC",
+   "address": "3978b Hastings St, Burnaby, BC V5C 6C1",
+   "phone": "(604) 320-0933",
+   "website": "https://www.facebook.com/coregamesbc/",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Countless Comics & Games",
@@ -4415,11 +5611,32 @@
    "checked_at": "2026-10-15T20:21:28Z"
   },
   {
+   "name": "Cute City Sales",
+   "group": "in_store",
+   "city": "Vancouver",
+   "region": "BC",
+   "address": "268 Keefer St, Vancouver, BC V6A 1X5",
+   "phone": "(778) 988-5883",
+   "website": "https://www.facebook.com/CuteCitySales",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Da Pop-Up Shop",
    "group": "in_store",
    "city": "Calgary",
    "region": "AB",
    "address": "433 Marlborough Way NE, Calgary, AB T2A 5H5",
+   "phone": "(825) 333-8126",
+   "website": "https://dapopupshop.com/",
+   "credit_bonus": "Store credit via membership",
+   "checked_at": "2026-10-15T20:16:31Z"
+  },
+  {
+   "name": "Da Pop-Up Shop",
+   "group": "in_store",
+   "city": "Edmonton",
+   "region": "AB",
+   "address": "10025 102A Ave NW, Edmonton, AB T5J 2Z2",
    "phone": "(825) 333-8126",
    "website": "https://dapopupshop.com/",
    "credit_bonus": "Store credit via membership",
@@ -4484,6 +5701,23 @@
     "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-16T02:22:04Z"
+  },
+  {
+   "name": "Dolly's Cards and Collectibles Waterloo",
+   "group": "in_store",
+   "city": "Waterloo",
+   "region": "CA-ON",
+   "address": "420 Weber Street North, Waterloo, CA-ON, N2L4E7",
+   "phone": "5195001815",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Dreaming Cavern",
@@ -4601,6 +5835,16 @@
    "checked_at": "2026-10-16T02:22:04Z"
   },
   {
+   "name": "Everything But Diamonds",
+   "group": "in_store",
+   "city": "Langley",
+   "region": "BC",
+   "address": "20573 Fraser Hwy, Langley, BC V3A 5C7",
+   "phone": "(778) 552-5504",
+   "website": "https://www.facebook.com/everythingbutdiamonds/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Exor Games Truro",
    "group": "in_store",
    "city": "Truro",
@@ -4632,6 +5876,16 @@
    "address": "4540 Number 3 Rd #1435, Richmond, BC V6X 4E4",
    "phone": "(236) 885-8865",
    "checked_at": "2026-10-15T20:15:35Z"
+  },
+  {
+   "name": "Forbidden Games and Collectibles",
+   "group": "in_store",
+   "city": "Courtenay",
+   "region": "BC",
+   "address": "2270 Cliffe Ave #100B, Courtenay, BC V9N 2L4",
+   "phone": "(250) 207-7529",
+   "website": "http://facebook.com/forbiddengamescv",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Four Directions Trading",
@@ -4674,6 +5928,19 @@
    "checked_at": "2026-10-16T02:22:32Z"
   },
   {
+   "name": "Game Changers Buy and Sell",
+   "group": "in_store",
+   "city": "Mission",
+   "region": "British Columbia",
+   "address": "33219 N Railway Ave, Mission, BC V2V 1G6, Canada, Mission, British Columbia, V2V 1G6",
+   "phone": "-",
+   "website": "http://facebook.com/gcgamesinc",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Game Cycle Hamilton Road",
    "group": "in_store",
    "city": "London",
@@ -4681,6 +5948,19 @@
    "address": "972 Hamilton Rd, London, ON N5W 1A5",
    "phone": "(519) 601-1299",
    "checked_at": "2026-10-15T20:20:26Z"
+  },
+  {
+   "name": "Game Nation Hobbies & Games",
+   "group": "in_store",
+   "city": "North York",
+   "region": "CA-ON",
+   "address": "4914A Yonge St, North York, CA-ON, M2N5N5",
+   "phone": "6473687744",
+   "buylist_url": "https://www.gamenation.ca/buylist",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Gamer's Spot Trois-Rivieres",
@@ -4705,16 +5985,30 @@
    "checked_at": "2026-10-15T20:22:12Z"
   },
   {
+   "name": "Games Nook II",
+   "group": "in_store",
+   "city": "Sault Ste Marie",
+   "region": "CA-ON",
+   "address": "756 Queen Street, Sault Ste Marie, CA-ON, p6a2b1",
+   "phone": "7054505700",
+   "website": "https://www.facebook.com/GamesNookII/?ref=pages_you_manage",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Gametronics",
    "group": "in_store",
    "city": "New Minas",
    "region": "CA-NS",
    "address": "9049 Commercial St, New Minas, CA-NS, B4N3E3",
    "phone": "9026817529",
+   "website": "http://facebook.com/GameTronics",
    "games_events": [
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T02:22:24Z"
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Garrett's TCG Garage",
@@ -4751,6 +6045,19 @@
    "address": "1317 11th St E, Saskatoon, SK S7H 0G4",
    "phone": "(639) 525-9096",
    "checked_at": "2026-10-15T20:21:44Z"
+  },
+  {
+   "name": "Golden Age Comics and Collectibles",
+   "group": "in_store",
+   "city": "Brockville",
+   "region": "Ontario",
+   "address": "7 Court House Square, Brockville, ON K6V 3X2, Canada, Brockville, Ontario, K6V 3X2",
+   "phone": "+1 613 342 6062",
+   "website": "https://www.facebook.com/profile.php?id=100033470688596",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Got Item! Games",
@@ -4794,10 +6101,21 @@
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:12:50Z"
+  },
+  {
+   "name": "Great Canadian Games & Hobbies",
+   "group": "in_store",
+   "city": "Greater Sudbury",
+   "region": "Ontario",
+   "address": "1410 Lasalle Blvd, Greater Sudbury, ON P3A 1Z6, Canada, Greater Sudbury, Ontario, P3A 1Z6",
+   "phone": "+1 705-566-5093",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:12:50Z"
   },
@@ -4831,6 +6149,16 @@
    "address": "835 Topsail Road unit 207 Mount Pearl, St. John's, NL A1N 3J6",
    "phone": "(709) 364-4376",
    "checked_at": "2026-10-15T20:22:06Z"
+  },
+  {
+   "name": "Heroes Comics",
+   "group": "in_store",
+   "city": "Laval",
+   "region": "QC",
+   "address": "1166 Bd Curé-Labelle, Laval, QC H7V 2V5",
+   "phone": "(450) 686-9155",
+   "website": "https://www.facebook.com/heroescomicslaval?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Heroes N' Legends",
@@ -4882,6 +6210,21 @@
    "checked_at": "2026-10-15T20:10:57Z"
   },
   {
+   "name": "Hobbiesville",
+   "group": "in_store",
+   "city": "Toronto",
+   "region": "CA-ON",
+   "address": "9 Ossington, Toronto, CA-ON, M6J2Y8",
+   "phone": "16473510188",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Hobby Knight in Canada",
    "group": "in_store",
    "city": "Newmarket",
@@ -4891,12 +6234,32 @@
    "website": "https://www.instagram.com/explore/locations/111368451045059/hobby-knight-in-canada/",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:50Z"
+  },
+  {
+   "name": "Hobby Saguenay",
+   "group": "in_store",
+   "city": "Saguenay",
+   "region": "Québec",
+   "address": "2321 Rue Poitras, Jonquière, QC G7S 3S3, Canada, Saguenay, Québec, G7S 3S3",
+   "phone": "+1 581-668-5778",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:42Z"
+  },
+  {
+   "name": "Hobbycon",
+   "group": "in_store",
+   "city": "Mississauga",
+   "region": "ON",
+   "address": "2360 Lucknow Dr, Mississauga, ON L5S 1H3",
+   "website": "https://www.instagram.com/thehobbycon/?hl=en",
    "checked_at": "2026-10-15T20:08:50Z"
   },
   {
@@ -4918,6 +6281,41 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:12:45Z"
+  },
+  {
+   "name": "Ikuzo Cards",
+   "group": "in_store",
+   "city": "Rocky View County",
+   "region": "CA-AB",
+   "address": "260300 Writing Creek Cres Unit F53, Rocky View County, CA-AB, T4A0X8",
+   "phone": "3063512609",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
+   "name": "Imaginaire Chicoutimi",
+   "group": "in_store",
+   "city": "Chicoutimi",
+   "region": "CA-QC",
+   "address": "1401 boulevard Talbot Local E, Chicoutimi, CA-QC, G7H5N7",
+   "phone": "5817480784",
+   "website": "https://www.facebook.com/BoutiqueImaginaire/?locale=fr_CA",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Imaginary Wars Gaming and Hobbies Ltd.",
+   "group": "in_store",
+   "city": "Calgary",
+   "region": "AB",
+   "address": "10233 Elbow Dr SW Unit #135, Calgary, AB T2W 0S1",
+   "phone": "(587) 351-1939",
+   "website": "https://www.facebook.com/imaginarywars",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Jeux 3 Dragons",
@@ -4947,6 +6345,20 @@
    "checked_at": "2026-10-16T02:21:59Z"
   },
   {
+   "name": "Jeux Topdeckhero inc.",
+   "group": "in_store",
+   "city": "Boucherville, QC",
+   "region": "CA-QC",
+   "address": "191 Boulevard de Mortagne, Boucherville, QC, CA-QC, J4B1a9",
+   "phone": "4506417650",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T02:21:59Z"
+  },
+  {
    "name": "Jumbo Video Microplay",
    "group": "in_store",
    "city": "London",
@@ -4969,6 +6381,26 @@
    "checked_at": "2026-10-16T02:22:24Z"
   },
   {
+   "name": "Kah-Boom Komics",
+   "group": "in_store",
+   "city": "Smiths Falls",
+   "region": "ON",
+   "address": "2008 Fourth Line, Smiths Falls, ON K7C 4S7",
+   "phone": "(613) 720-9958",
+   "website": "http://www.facebook.com/kahboomkomics",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Kanto Games",
+   "group": "in_store",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "394 Kenmount Rd, St. John's, NL A1B 3R2",
+   "phone": "(709) 726-1980",
+   "website": "https://www.facebook.com/gamingkanto",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "KeCo Collectibles",
    "group": "in_store",
    "city": "Edmonton",
@@ -4987,6 +6419,30 @@
    "checked_at": "2026-10-15T20:14:30Z"
   },
   {
+   "name": "Kitchener Comic Book Warehouse",
+   "group": "in_store",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "3310 King St E, Kitchener, ON N2A 1B3",
+   "phone": "(519) 748-0555",
+   "website": "https://www.facebook.com/comicwarehouseoflove/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Korekuta Games",
+   "group": "in_store",
+   "city": "Woodbridge",
+   "region": "CA-ON",
+   "address": "120 Woodstream Blvd, Unit 12, Woodbridge, CA-ON, L4L7Z1",
+   "phone": "6477819541",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "L'atelier Outlaw Hobby",
    "group": "in_store",
    "city": "Témiscaming",
@@ -4996,6 +6452,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:13:29Z"
+  },
+  {
+   "name": "l'Oeil de Chat",
+   "group": "in_store",
+   "city": "Sherbrooke",
+   "region": "CA-QC",
+   "address": "22 rue Wellington Nord, Sherbrooke, CA-QC, J1H5B7",
+   "phone": "8199336345",
+   "website": "https://www.facebook.com/loeildechat",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "la boite mystère",
@@ -5043,6 +6512,38 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:10:17Z"
+  },
+  {
+   "name": "Lantzalot Game Store",
+   "group": "in_store",
+   "city": "Mahone Bay",
+   "region": "Nova Scotia",
+   "address": "14 Cornwall Rd, Mahone Bay, NS B0J 2E0, Canada, Mahone Bay, Nova Scotia, B0J 2E0",
+   "phone": "+1 902-624-0000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:40Z"
+  },
+  {
+   "name": "Lazy Susan's",
+   "group": "in_store",
+   "city": "Victoria",
+   "region": "BC",
+   "address": "2039 Oak Bay Ave, Victoria, BC V8R 1E5",
+   "phone": "(250) 412-2115",
+   "website": "https://www.instagram.com/lazysusansshop?igsh=Z3c4eWpybWdjZ291&fbclid=IwY2xjawR0ciRleHRuA2FlbQIxMABicmlkETFFTlRCZVpMSUtSckljeFNmc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlnFpAZawTwhX4_Mtq0bvmOhwxU_V0PQgAbdgqKjw3yP5wG0pItDwFAuv3df_aem__A6DnD5_rxkxljn8wMPuiw",
+   "checked_at": "2026-10-15T20:08:50Z"
+  },
+  {
+   "name": "Lazy Trading Cards & Hobbies",
+   "group": "in_store",
+   "city": "Richmond",
+   "region": "BC",
+   "address": "Aberdeen Square, 4000 Number 3 Rd Unit 2015, Richmond, BC V6X 0J1",
+   "phone": "(236) 268-4518",
+   "website": "https://instagram.com/lazy_trading_cards?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-15T20:08:50Z"
   },
   {
    "name": "Le Dome",
@@ -5159,6 +6660,16 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Magasin Général P L Blouin - Gift Shop - Souvenirs - Maple Syrup - Novelty T-Shirts - Record Shop",
+   "group": "in_store",
+   "city": "Québec",
+   "region": "QC",
+   "address": "1196 Rue Saint-Jean, Québec, QC G1R 1S7",
+   "phone": "(418) 694-9345",
+   "website": "https://www.facebook.com/MagasinGeneralPLBlouinEnr/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Magic Stronghold Games",
    "group": "in_store",
    "city": "Vancouver",
@@ -5175,6 +6686,16 @@
     "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-15T20:10:21Z"
+  },
+  {
+   "name": "Maison d' Animé",
+   "group": "in_store",
+   "city": "Montreal",
+   "region": "QC",
+   "address": "998 Boul. Saint-Laurent CRU1-3, Montreal, QC H2Z 1J3",
+   "phone": "(514) 954-1112",
+   "website": "https://www.instagram.com/maisondanime",
+   "checked_at": "2026-10-15T20:08:50Z"
   },
   {
    "name": "Mavinjus Games and Collectibles",
@@ -5268,10 +6789,11 @@
    "region": "Nova Scotia",
    "address": "2089 Gottingen St, Halifax, NS B3K 3B2, Canada, Halifax, Nova Scotia, B3K 3B2",
    "phone": "1-902-429-2398",
+   "website": "https://www.facebook.com/MonsterComicLounge?mibextid=ZbWKwL",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-15T20:12:49Z"
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Montreal Comic Buyers",
@@ -5322,6 +6844,31 @@
    "checked_at": "2026-10-15T20:14:08Z"
   },
   {
+   "name": "Net Ocean Games",
+   "group": "in_store",
+   "city": "Saskatoon",
+   "region": "CA-SK",
+   "address": "96A 33rd St E, Saskatoon, CA-SK, S7K0S1",
+   "phone": "3069782345",
+   "website": "https://www.facebook.com/share/14SehPgzfi3/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Nostalgia Warehouse",
+   "group": "in_store",
+   "city": "Ottawa",
+   "region": "ON",
+   "address": "233-C Armstrong St, Ottawa, ON K1Y 1B4",
+   "phone": "(613) 695-1966",
+   "website": "https://www.facebook.com/nostalgiawarehouseottawa/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Ogre's Lair Game Shop",
    "group": "in_store",
    "city": "Yellowknife",
@@ -5368,6 +6915,26 @@
     "GUNDAM CARD GAME (EN)"
    ],
    "checked_at": "2026-10-16T02:22:24Z"
+  },
+  {
+   "name": "Oriental Gifts",
+   "group": "in_store",
+   "city": "Winnipeg",
+   "region": "MB",
+   "address": "393 Portage Ave #124A, Winnipeg, MB R3B 3H6",
+   "phone": "(204) 947-0789",
+   "website": "https://instagram.com/oriental_gifts?utm_medium=copy_link",
+   "checked_at": "2026-10-15T20:08:50Z"
+  },
+  {
+   "name": "Out Of The Basement",
+   "group": "in_store",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "335 Ottawa St N, Hamilton, ON L8H 3Z1",
+   "phone": "(289) 396-7461",
+   "website": "https://www.instagram.com/vinyl_record_man/",
+   "checked_at": "2026-10-15T20:08:50Z"
   },
   {
    "name": "Pair O' Dice Games",
@@ -5490,6 +7057,20 @@
    "checked_at": "2026-10-15T20:22:35Z"
   },
   {
+   "name": "Rock City Comics",
+   "group": "in_store",
+   "city": "Rocky Mountain House",
+   "region": "CA-AB",
+   "address": "4918 50 Street, Rocky Mountain House, CA-AB, T4T1C2",
+   "phone": "4038461337",
+   "website": "https://www.facebook.com/Rockcitycomics97",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "ROLIFE",
    "group": "in_store",
    "city": "Richmond",
@@ -5563,6 +7144,29 @@
    "checked_at": "2026-10-15T20:13:31Z"
   },
   {
+   "name": "Skyhaven Games Inc.",
+   "group": "in_store",
+   "city": "Victoria",
+   "region": "CA-BC",
+   "address": "3460 Tillicum Rd., Victoria, CA-BC, V8Z4H3",
+   "phone": "2504771519",
+   "website": "https://www.facebook.com/groups/600795861631828",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Sonny's Collectables",
+   "group": "in_store",
+   "city": "Terrace",
+   "region": "BC",
+   "address": "4736 Lakelse Ave Unit 7, Terrace, BC V8G 1R6",
+   "phone": "(250) 638-7788",
+   "website": "https://www.facebook.com/sonnyscollectables/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "Souvenirs - Galerie du Souvenirs - Pokemon Collectables - Joke T-Shirts - Hoodies",
    "group": "in_store",
    "city": "Montréal",
@@ -5570,6 +7174,28 @@
    "address": "301 Rue Saint-Paul E, Montréal, QC H2Y 1H1",
    "phone": "(514) 839-2121",
    "checked_at": "2026-10-15T20:14:59Z"
+  },
+  {
+   "name": "SPORTS CARD ALLEY",
+   "group": "in_store",
+   "city": "Nanaimo",
+   "region": "British Columbia",
+   "address": "2220 Bowen Rd, Nanaimo, BC V9S 1H9, Canada, Nanaimo, British Columbia, V9S 1H9",
+   "phone": "+1 250-758-1484",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:40Z"
+  },
+  {
+   "name": "Sports Card Connection",
+   "group": "in_store",
+   "city": "Winnipeg",
+   "region": "MB",
+   "address": "51 St Anne's Rd, Winnipeg, MB R2N 4Y6",
+   "phone": "(204) 256-7080",
+   "website": "https://www.facebook.com/Sports-Card-Connection-471290586249561/",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Sports Card Hall of Fame - DDO",
@@ -5580,6 +7206,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:10:00Z"
+  },
+  {
+   "name": "Sports Cave Collectibles",
+   "group": "in_store",
+   "city": "West Saint Paul",
+   "region": "MB",
+   "address": "3519 Main St, West Saint Paul, MB R4A 1A2",
+   "phone": "(204) 505-7001",
+   "website": "https://instagram.com/sportscavecollectibles?igshid=Y2ZmNzg0YzQ=",
+   "checked_at": "2026-10-15T20:08:50Z"
   },
   {
    "name": "Sportsworld Collectibles",
@@ -5606,6 +7242,16 @@
    "address": "10441 123 St NW #102, Edmonton, AB T5N 1N8",
    "phone": "(780) 488-3188",
    "checked_at": "2026-10-15T20:16:54Z"
+  },
+  {
+   "name": "Steel City Buy and Sell",
+   "group": "in_store",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "351 Main St E, Hamilton, ON L8N 1J4",
+   "phone": "(905) 575-4618",
+   "website": "https://www.facebook.com/people/Steel-City-Buy-and-Sell/61563799755885/",
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "Stettler Game Corner",
@@ -5710,6 +7356,16 @@
    "checked_at": "2026-10-16T02:22:12Z"
   },
   {
+   "name": "The Card Palace",
+   "group": "in_store",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "932 Av. Sainte-Croix, Saint-Laurent, QC H4L 3Y6",
+   "phone": "(514) 747-3986",
+   "website": "https://www.facebook.com/The-Card-Palace-107657159321929/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
    "name": "The Dragon - Wyndham St",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -5728,6 +7384,21 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:11:10Z"
+  },
+  {
+   "name": "The Fort Gaming and Collectables",
+   "group": "in_store",
+   "city": "Fort Saskatchewan",
+   "region": "CA-AB",
+   "address": "#D-10303 100ave, Fort Saskatchewan, CA-AB, T8L1Y9",
+   "phone": "7809167156",
+   "website": "https://www.facebook.com/share/g/1BpDGPU2dZ/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:40Z"
   },
   {
    "name": "The Game Hub",
@@ -5779,6 +7450,18 @@
     "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-16T02:22:11Z"
+  },
+  {
+   "name": "The Monster Comic Lounge",
+   "group": "in_store",
+   "city": "Halifax",
+   "region": "CA-NS",
+   "address": "2089 Gottingen St, Halifax, CA-NS, B3K3B2",
+   "phone": "19024292398",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "The Sword and Board - Toronto",
@@ -6027,6 +7710,18 @@
    "checked_at": "2026-10-15T20:10:00Z"
   },
   {
+   "name": "Vintage Games N Junque Edmonton",
+   "group": "in_store",
+   "city": "Edmonton",
+   "region": "Alberta",
+   "address": "10422 82 Ave NW, Edmonton, AB T6E 2A2, Canada, Edmonton, Alberta, T6E 2A2",
+   "phone": "+1 825-967-0069",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:42Z"
+  },
+  {
    "name": "VTRGaming",
    "group": "in_store",
    "city": "Mississauga",
@@ -6053,6 +7748,18 @@
    "checked_at": "2026-10-16T02:22:09Z"
   },
   {
+   "name": "WAM CARDS",
+   "group": "in_store",
+   "city": "NORTH YORK",
+   "region": "CA-ON",
+   "address": "302 Bridgeland Ave, NORTH YORK, CA-ON, M6A1Z4",
+   "phone": "6479995878",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Ways Global Solutions Inc",
    "group": "in_store",
    "city": "Mississauga",
@@ -6060,6 +7767,42 @@
    "address": "55 Village Centre Pl #200, Mississauga, ON L4Z 1V9",
    "phone": "(416) 879-0787",
    "checked_at": "2026-10-15T20:22:34Z"
+  },
+  {
+   "name": "We Got Gamez Mississauga",
+   "group": "in_store",
+   "city": "Mississauga",
+   "region": "ON",
+   "address": "377 Burnhamthorpe Rd E, Mississauga, ON L5A 3Y1",
+   "phone": "(905) 803-0754",
+   "website": "https://www.facebook.com/WeGotGamez1/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Whyte Knight Toys & Games",
+   "group": "in_store",
+   "city": "Edmonton",
+   "region": "AB",
+   "address": "10326 Whyte Ave NW Unit 201, Edmonton, AB T6E 1Z8",
+   "phone": "(780) 439-5299",
+   "website": "https://www.facebook.com/WhyteKnightUpstairs/",
+   "checked_at": "2026-10-15T20:08:40Z"
+  },
+  {
+   "name": "Wiser's Wide World of Collectibles",
+   "group": "in_store",
+   "city": "Langley",
+   "region": "CA-BC",
+   "address": "9640 201 st, Langley, CA-BC, V1M3E8",
+   "phone": "604-882-7616",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Yellowjacket Comics and Toys",
@@ -6107,6 +7850,16 @@
    "region": "SK",
    "address": "1714 Preston Ave N, Saskatoon, SK S7N 4Y1",
    "phone": "(306) 343-4868",
+   "website": "https://stores.basspro.ca/sk/saskatoon/1714-preston-avenue-north?y_source=1_OTU0MjMyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+   "checked_at": "2026-10-15T20:21:41Z"
+  },
+  {
+   "name": "Bass Pro Shops",
+   "group": "not_buying_singles",
+   "city": "Regina",
+   "region": "SK",
+   "address": "4901 Gordon Rd, Regina, SK S4W 0B7",
+   "phone": "(306) 523-5900",
    "website": "https://stores.basspro.ca/sk/saskatoon/1714-preston-avenue-north?y_source=1_OTU0MjMyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
    "checked_at": "2026-10-15T20:21:41Z"
   },
@@ -6221,6 +7974,20 @@
    "website": "https://www.eatsleepgame.ca/",
    "buylist_url": "https://www.eatsleepgame.ca/selling",
    "checked_at": "2026-10-15T20:19:19Z"
+  },
+  {
+   "name": "Gods' Arena",
+   "group": "not_buying_singles",
+   "city": "Québec",
+   "region": "Québec",
+   "address": "2300 Bd Père-Lelièvre, Québec, QC G1P 2T5, Canada, Québec, Québec, G1P 2T5",
+   "phone": "581-300-3311",
+   "website": "https://www.godsarena.com/",
+   "buylist_url": "https://www.godsarena.com/inactive_buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:12:29Z"
   },
   {
    "name": "Halifax Buy and Sell - Hydrostone",
@@ -6370,6 +8137,50 @@
    "checked_at": "2026-10-15T20:16:23Z"
   },
   {
+   "name": "PayMore - Buy, Sell & Trade Electronics",
+   "group": "not_buying_singles",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "945 Victoria St N #1, Kitchener, ON N2B 3C6",
+   "phone": "(226) 812-1333",
+   "website": "https://kitcheneron.paymore.ca/",
+   "buylist_url": "https://kitcheneron.paymore.ca/pages/device-trade-in-terms-conditions",
+   "checked_at": "2026-10-16T21:18:48Z"
+  },
+  {
+   "name": "PayMore - Buy, Sell & Trade Electronics",
+   "group": "not_buying_singles",
+   "city": "Dartmouth",
+   "region": "NS",
+   "address": "644 Portland St #6, Dartmouth, NS B2W 2M3",
+   "phone": "(902) 417-3888",
+   "website": "https://dartmouthns.paymore.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website_button",
+   "buylist_url": "https://dartmouthns.paymore.ca/pages/device-trade-in-terms-conditions",
+   "checked_at": "2026-10-16T21:18:52Z"
+  },
+  {
+   "name": "PayMore - Buy, Sell & Trade Electronics",
+   "group": "not_buying_singles",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "362 Lacewood Dr Unit 15, Halifax, NS B3S 1L8",
+   "phone": "(902) 417-4040",
+   "website": "https://halifaxns.paymore.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website_button",
+   "buylist_url": "https://halifaxns.paymore.ca/pages/device-trade-in-terms-conditions",
+   "checked_at": "2026-10-16T21:18:52Z"
+  },
+  {
+   "name": "PayMore - Buy, Sell & Trade Electronics",
+   "group": "not_buying_singles",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "15955 Fraser Hwy Unit - 103, Surrey, BC V4N 0Y3",
+   "phone": "(778) 783-3600",
+   "website": "https://surreybc.paymore.ca/",
+   "buylist_url": "https://surreybc.paymore.ca/pages/device-trade-in-terms-conditions",
+   "checked_at": "2026-10-16T21:18:59Z"
+  },
+  {
    "name": "PNP Games",
    "group": "not_buying_singles",
    "city": "Winnipeg",
@@ -6433,6 +8244,19 @@
    "region": "ON",
    "address": "1550 Upper James St, Hamilton, ON L9B 1J5",
    "phone": "(905) 575-9110",
+   "website": "https://beatgoeson.com/",
+   "buylist_url": "https://beatgoeson.com/pages/sell-to-us",
+   "mail_in": true,
+   "credit_bonus": "Store credit 30% more than cash",
+   "checked_at": "2026-10-15T20:19:19Z"
+  },
+  {
+   "name": "The Beat Goes On",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "ON",
+   "address": "1120 Wellington Rd, London, ON N6E 1M2",
+   "phone": "(519) 681-9996",
    "website": "https://beatgoeson.com/",
    "buylist_url": "https://beatgoeson.com/pages/sell-to-us",
    "mail_in": true,
@@ -6734,6 +8558,16 @@
    "checked_at": "2026-10-16T02:22:18Z"
   },
   {
+   "name": "Al Anderson's Source For Sports",
+   "group": "unknown",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "208 Avenue B S, Saskatoon, SK S7M 1M3",
+   "phone": "(306) 652-9412",
+   "website": "https://www.sourceforsports.ca/pages/kirbys-source-for-sports-victoria",
+   "checked_at": "2026-10-15T20:21:12Z"
+  },
+  {
    "name": "Alex Collect",
    "group": "unknown",
    "city": "Mono",
@@ -6920,6 +8754,16 @@
    "checked_at": "2026-10-15T20:10:36Z"
   },
   {
+   "name": "Artbox Guildford Town Centre",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "10355 152 St, Surrey, BC V3R 7C3",
+   "phone": "(250) 203-2888",
+   "website": "https://www.amuseground.com/",
+   "checked_at": "2026-10-15T20:15:40Z"
+  },
+  {
    "name": "Artbox Robson",
    "group": "unknown",
    "city": "Vancouver",
@@ -6973,7 +8817,6 @@
    "phone": "4189731491",
    "website": "https://www.kingdomtitans.ca/fr",
    "games_events": [
-    "Flesh and Blood",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:12:49Z"
@@ -7002,6 +8845,17 @@
    "checked_at": "2026-10-15T20:11:04Z"
   },
   {
+   "name": "Authentic TCG Shop",
+   "group": "unknown",
+   "city": "Calgary",
+   "region": "AB",
+   "address": "356 Cranston Rd SE, Calgary, AB T3M 0S9",
+   "phone": "(343) 299-6712",
+   "website": "https://t.me/pokemon_game_cards",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-15T20:14:02Z"
+  },
+  {
    "name": "Aviator App",
    "group": "unknown",
    "city": "Winnipeg",
@@ -7020,6 +8874,17 @@
    "phone": "(519) 513-0257",
    "website": "https://bkcollectables.com/",
    "checked_at": "2026-10-15T20:19:52Z"
+  },
+  {
+   "name": "Back In Time Toys Inc.",
+   "group": "unknown",
+   "city": "Langley",
+   "region": "BC",
+   "address": "20565 Fraser Hwy #101, Langley, BC V3A 4G3",
+   "phone": "(877) 417-7373",
+   "website": "https://linktr.ee/dollysdowntown",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-15T20:13:52Z"
   },
   {
    "name": "Barrie's Coins & Stamps",
@@ -7094,6 +8959,16 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-15T20:10:48Z"
+  },
+  {
+   "name": "Bento Gaming - North Hill Centre",
+   "group": "unknown",
+   "city": "Calgary",
+   "region": "AB",
+   "address": "1632 14 Ave NW, Calgary, AB T2N 4Y7",
+   "phone": "(825) 735-2828",
+   "website": "https://bentogaming.com/",
    "checked_at": "2026-10-15T20:10:48Z"
   },
   {
@@ -7293,9 +9168,21 @@
    "phone": "1450-286-4115",
    "website": "https://www.boutiqueawesome.com/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:44Z"
+  },
+  {
+   "name": "Boutique Awesome",
+   "group": "unknown",
+   "city": "Longueuil",
+   "region": "Québec",
+   "address": "5666 Ch. de Chambly, Saint-Hubert, QC J3Y 7E5, Canada, Longueuil, Québec, J3Y 7E5",
+   "phone": "+14502864115",
+   "website": "https://www.boutiqueawesome.com/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:09:44Z"
   },
@@ -7332,6 +9219,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:11:19Z"
+  },
+  {
+   "name": "Boutique Hobby Expert",
+   "group": "unknown",
+   "city": "Québec",
+   "region": "QC",
+   "address": "8500 Boul. Henri-Bourassa, Québec, QC G1G 3V8",
+   "phone": "(418) 627-8888",
+   "website": "https://www.hobbyexpert.ca/",
+   "checked_at": "2026-10-15T20:18:41Z"
   },
   {
    "name": "Boutique Jaggers d'Anjou",
@@ -7383,6 +9280,16 @@
    "games_events": [
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:19:05Z"
+  },
+  {
+   "name": "Breakaway Sports Cards",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "65 Wilson St W Unit 14, Ancaster, ON L9G 1N1",
+   "phone": "(289) 239-9544",
+   "website": "https://breakawaysc.com/",
    "checked_at": "2026-10-15T20:19:05Z"
   },
   {
@@ -7464,11 +9371,14 @@
   {
    "name": "Cafe Ork'n'Roll",
    "group": "unknown",
+   "city": "Granby",
+   "region": "CA-QC",
    "address": "184 rue Principale, Granby, QC, J2G 2V6, Canada",
    "phone": "1579-420-5538",
    "website": "https://www.lecoinludique.ca/",
    "games_events": [
-    "Magic: The Gathering"
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:10:16Z"
   },
@@ -7721,6 +9631,20 @@
    "checked_at": "2026-10-15T20:09:47Z"
   },
   {
+   "name": "Cartes Sportives Rive Sud",
+   "group": "unknown",
+   "city": "Sainte-Catherine",
+   "region": "CA-QC",
+   "address": "6252 Rte 132, Sainte-Catherine, CA-QC, J5C1B6",
+   "phone": "4506320222",
+   "website": "https://cartessportivesrivesud.com/",
+   "buylist_url": "https://cartessportivesrivesud.com/products/vendez-vos-cartes",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:47Z"
+  },
+  {
    "name": "Castle Toys",
    "group": "unknown",
    "city": "Calgary",
@@ -7756,6 +9680,21 @@
    "checked_at": "2026-10-15T20:12:58Z"
   },
   {
+   "name": "Centre de Jeux Expédition MTL",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "CA-QC",
+   "address": "6571 St-Hubert, Montréal, CA-QC, H2S2M5",
+   "phone": "4383869793",
+   "website": "https://www.expeditionjeux.com",
+   "buylist_url": "https://www.expeditionjeux.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:27Z"
+  },
+  {
    "name": "Centre de Jeux l'Expedition",
    "group": "unknown",
    "city": "Greenfield Park",
@@ -7765,7 +9704,6 @@
    "website": "https://www.expeditionjeux.com",
    "buylist_url": "https://www.expeditionjeux.com/buylist",
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
@@ -7785,6 +9723,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:11:00Z"
+  },
+  {
+   "name": "Chapters",
+   "group": "unknown",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "70 Kenmount Rd, St. John's, NL A1B 1W2",
+   "phone": "(709) 726-0375",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
   },
   {
    "name": "Chase the Hits",
@@ -7840,11 +9788,24 @@
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:30Z"
+  },
+  {
+   "name": "Chez Geeks",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "Québec",
+   "address": "1460 A Rue Jean-Talon E, Montréal, QC H2E 1S7, Canada, Montréal, Québec, H2E 1S7",
+   "phone": "+1 514-903-3433",
+   "website": "https://www.chezgeeks.com/",
+   "buylist_url": "https://www.chezgeeks.com/buylist",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:09:30Z"
   },
@@ -7960,6 +9921,16 @@
    "checked_at": "2026-10-15T20:16:51Z"
   },
   {
+   "name": "Collector's Avenue",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "5155 Bd Décarie, Montréal, QC H3W 3C2",
+   "phone": "(514) 488-8881",
+   "website": "https://collectorsavenue.com/",
+   "checked_at": "2026-10-15T20:14:33Z"
+  },
+  {
    "name": "Collectors Avenue (Temple de la Renommee)",
    "group": "unknown",
    "city": "Dollard Des Ormeaux",
@@ -8073,6 +10044,16 @@
    "checked_at": "2026-10-16T02:22:12Z"
   },
   {
+   "name": "Comic Readers",
+   "group": "unknown",
+   "city": "Regina",
+   "region": "SK",
+   "address": "4603 Albert St, Regina, SK S4S 6B6",
+   "phone": "(306) 586-1414",
+   "website": "https://comicreadersregina.wordpress.com/",
+   "checked_at": "2026-10-16T21:18:55Z"
+  },
+  {
    "name": "Comic Traders",
    "group": "unknown",
    "city": "Heritage Pointe",
@@ -8119,6 +10100,46 @@
    "checked_at": "2026-10-15T20:19:23Z"
   },
   {
+   "name": "Conspiracy Comics Games & Anime",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "999 Upper Wentworth St, Hamilton, ON L9A 4X5",
+   "phone": "(905) 318-5141",
+   "website": "https://conspiracycomics.com/",
+   "checked_at": "2026-10-15T20:19:23Z"
+  },
+  {
+   "name": "Conspiracy Comics Games & Anime",
+   "group": "unknown",
+   "city": "Mississauga",
+   "region": "ON",
+   "address": "100 City Centre Dr, Mississauga, ON L5B 2C9",
+   "phone": "(905) 566-7992",
+   "website": "https://conspiracycomics.com/",
+   "checked_at": "2026-10-15T20:19:23Z"
+  },
+  {
+   "name": "Conspiracy Comics Games & Anime",
+   "group": "unknown",
+   "city": "Brampton",
+   "region": "ON",
+   "address": "25 Peel Centre Dr #447, Brampton, ON L6T 3R5",
+   "phone": "(905) 792-7190",
+   "website": "https://conspiracycomics.com/",
+   "checked_at": "2026-10-15T20:19:23Z"
+  },
+  {
+   "name": "Conspiracy Comics, Games & Anime",
+   "group": "unknown",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "2960 Kingsway Dr, Kitchener, ON N2C 1A9",
+   "phone": "(519) 896-0221",
+   "website": "https://conspiracycomics.com/",
+   "checked_at": "2026-10-15T20:19:23Z"
+  },
+  {
    "name": "Cornwall Centre",
    "group": "unknown",
    "city": "Regina",
@@ -8127,21 +10148,6 @@
    "phone": "(306) 525-1301",
    "website": "https://cornwallcentre.ca/",
    "checked_at": "2026-10-15T20:21:52Z"
-  },
-  {
-   "name": "Cosmic Radiance Gaming",
-   "group": "unknown",
-   "city": "Gibbons",
-   "region": "CA-AB",
-   "address": "4724 50 Ave, Gibbons, AB, T0A 1N0, CA",
-   "phone": "17809656889",
-   "website": "https://cosmicradiancegaming.crystalcommerce.com/",
-   "buylist_url": "https://cosmicradiancegaming.crystalcommerce.com/buylist",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:11:11Z"
   },
   {
    "name": "Cosmix",
@@ -8225,6 +10231,16 @@
    "phone": "(639) 698-3925",
    "website": "https://crazytime-bonus.com/",
    "checked_at": "2026-10-15T20:18:30Z"
+  },
+  {
+   "name": "Crazy Time Game",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "64 West Avenue N, Hamilton, ON L8L 5C2",
+   "phone": "(613) 494-9770",
+   "website": "https://crazytime-casinologin.com/",
+   "checked_at": "2026-10-16T21:18:47Z"
   },
   {
    "name": "Crazy time Gamе",
@@ -8360,6 +10376,19 @@
    "checked_at": "2026-10-15T20:13:13Z"
   },
   {
+   "name": "Dice Hollow Games and Hobbies",
+   "group": "unknown",
+   "city": "Warman",
+   "region": "Saskatchewan",
+   "address": "825 Centennial Blvd #105, Warman, SK S0K 4S1, Canada, Warman, Saskatchewan, S0K 4S1",
+   "phone": "+1 306-249-3423",
+   "website": "https://www.dicehollow.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:41Z"
+  },
+  {
    "name": "Dicey Business Inc.",
    "group": "unknown",
    "city": "Mississauga",
@@ -8450,6 +10479,19 @@
    "phone": "(416) 785-0075",
    "website": "https://doublestarhobby.com/",
    "checked_at": "2026-10-15T20:14:00Z"
+  },
+  {
+   "name": "Downstairs Cellar",
+   "group": "unknown",
+   "city": "Edmonton",
+   "region": "CA-AB",
+   "address": "10824 82 Ave NW, Basement, Edmonton, CA-AB, T6E2B3",
+   "phone": "5873221113",
+   "website": "https://downstairscellar.ca/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Downtown Comics",
@@ -8722,6 +10764,36 @@
    "checked_at": "2026-10-15T20:17:34Z"
   },
   {
+   "name": "EB Games",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "1227 Barton St E E3, Hamilton, ON L8H 2V4",
+   "phone": "(905) 545-9003",
+   "website": "https://www.gamestop.ca/",
+   "checked_at": "2026-10-15T20:17:34Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "unknown",
+   "city": "Regina",
+   "region": "SK",
+   "address": "Southland Mall, 2965 Gordon Rd, Regina, SK S4S 6H7",
+   "phone": "(306) 584-5535",
+   "website": "https://www.gamestop.ca/storelocator#",
+   "checked_at": "2026-10-15T20:17:34Z"
+  },
+  {
+   "name": "EB Games",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "10355 152 St, Surrey, BC V3R 7C3",
+   "phone": "(604) 588-8017",
+   "website": "http://gamestop.ca/",
+   "checked_at": "2026-10-15T20:17:34Z"
+  },
+  {
    "name": "Echelon Hobbies",
    "group": "unknown",
    "city": "Brighton",
@@ -8770,6 +10842,16 @@
    "games_events": [
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:13:44Z"
+  },
+  {
+   "name": "Elite Cards Toronto",
+   "group": "unknown",
+   "city": "Vaughan",
+   "region": "ON",
+   "address": "9591 Weston Rd #4, Woodbridge, ON L4H 3A5",
+   "phone": "(905) 303-2290",
+   "website": "https://elitecardstoronto.com/",
    "checked_at": "2026-10-15T20:13:44Z"
   },
   {
@@ -8874,7 +10956,6 @@
    "website": "https://wpn.wizards.com/en",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
@@ -8909,6 +10990,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:12:51Z"
+  },
+  {
+   "name": "Esper Cards & Games",
+   "group": "unknown",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "380 Old Kingston Rd, Scarborough, ON M1C 1B6",
+   "phone": "(416) 724-4668",
+   "website": "https://shop.espercardsandgames.com/",
+   "checked_at": "2026-10-15T20:08:34Z"
   },
   {
    "name": "Esper Cards and Games",
@@ -8962,6 +11053,17 @@
    "phone": "(306) 954-3434",
    "website": "https://www.expresshobbies.com/",
    "checked_at": "2026-10-15T20:21:43Z"
+  },
+  {
+   "name": "Face to Face Games",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "1501 Rue Barré #201, Montréal, QC H3J 1S9",
+   "phone": "(514) 769-7007",
+   "website": "https://facetofacegames.com/",
+   "buylist_url": "https://facetofacegames.com/pages/sell-your-cards",
+   "checked_at": "2026-10-15T20:08:09Z"
   },
   {
    "name": "Fact or Fiction Games",
@@ -9037,23 +11139,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-16T02:22:04Z"
-  },
-  {
-   "name": "First Player",
-   "group": "unknown",
-   "city": "Calgary",
-   "region": "CA-AB",
-   "address": "1212 34 Ave SE #120, Calgary, AB, T2G 1V7, Canada",
-   "phone": "1825-513-7529",
-   "website": "https://www.firstplayer.ca/",
-   "buylist_url": "https://www.firstplayer.ca/buylist",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)",
-    "UNION ARENA (EN)"
-   ],
-   "checked_at": "2026-10-15T20:10:45Z"
   },
   {
    "name": "First Row Collectibles",
@@ -9249,6 +11334,17 @@
    "checked_at": "2026-10-15T20:22:36Z"
   },
   {
+   "name": "Game Hut",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "1797 152 St #106, Surrey, BC V4A 4N3",
+   "phone": "(778) 537-1304",
+   "website": "https://www.gamehut.ca/",
+   "buylist_url": "https://www.gamehut.ca/general-1",
+   "checked_at": "2026-10-16T21:18:57Z"
+  },
+  {
    "name": "Game Keeper - Montreal",
    "group": "unknown",
    "city": "Montréal",
@@ -9280,6 +11376,17 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:32Z"
+  },
+  {
+   "name": "Game Keeper Verdun",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "4430 Rue Wellington, Verdun, QC H4G 1W5",
+   "phone": "(438) 381-1010",
+   "website": "https://www.gamekeeperverdun.com/",
+   "buylist_url": "https://www.gamekeeperverdun.com/buylist/multi_search",
+   "checked_at": "2026-10-16T21:18:44Z"
   },
   {
    "name": "Game Knight Leagues",
@@ -9314,15 +11421,12 @@
   {
    "name": "Game Nation Hobbies & Games",
    "group": "unknown",
-   "city": "North York",
-   "region": "CA-ON",
-   "address": "4914A Yonge St, North York, CA-ON, M2N5N5",
-   "phone": "6473687744",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "4914A Yonge St, North York, ON M2N 5N5",
+   "phone": "(647) 368-7744",
    "website": "https://www.gamenation.ca/",
    "buylist_url": "https://www.gamenation.ca/buylist",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-15T20:13:55Z"
   },
   {
@@ -9398,21 +11502,6 @@
    "phone": "(604) 540-0582",
    "website": "https://www.gamedeals.ca/",
    "checked_at": "2026-10-15T20:22:53Z"
-  },
-  {
-   "name": "Gamer's Den",
-   "group": "unknown",
-   "city": "Edmonton",
-   "region": "Alberta",
-   "address": "11610 119 St NW, Edmonton, AB, T5G 2X7, CA",
-   "phone": "1(780) 760-4263",
-   "website": "https://www.gamersden.ca/",
-   "buylist_url": "https://www.gamersden.ca/buylist/multi_search",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:10:57Z"
   },
   {
    "name": "Gamer's Lair",
@@ -9514,6 +11603,21 @@
    "checked_at": "2026-10-15T20:22:49Z"
   },
   {
+   "name": "Gamesxchange",
+   "group": "unknown",
+   "city": "St Johns",
+   "region": "CA-NL",
+   "address": "342 Freshwater Road, St Johns, CA-NL, A1B1C2",
+   "phone": "7097263252",
+   "website": "https://www.google.com/maps/place/Games+Exchange/@47.5616471,-52.7468719,605m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4b0ca377f3ba40c7:0xa94f6de9abc4873f!8m2!3d47.5616471!4d-52.7468719!16s%2Fg%2F1tf4dmf3?entry=tts&g_ep=EgoyMDI2MDgwNS4xIPu8ASoASAFQAw%3D%3D&skid=e689fc99-a8f3-403e-b413-ec6cc4774262",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "GameTime",
    "group": "unknown",
    "city": "Joliette",
@@ -9576,13 +11680,35 @@
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
    ],
    "checked_at": "2026-10-15T20:09:42Z"
+  },
+  {
+   "name": "Geek & Co.",
+   "group": "unknown",
+   "city": "Côte Saint-Luc",
+   "region": "Québec",
+   "address": "7155 Chem. de la Côte St Luc, Côte Saint-Luc, QC H4V 1J2, Canada, Côte Saint-Luc, Québec, H4V 1J2",
+   "phone": "(514) 447-4575",
+   "website": "https://geekandco.ca",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:09:42Z"
+  },
+  {
+   "name": "Gem Mint Ten Collectibles",
+   "group": "unknown",
+   "city": "White Rock",
+   "region": "BC",
+   "address": "1289a Johnston Rd, White Rock, BC V4B 3Y9",
+   "phone": "(236) 480-7229",
+   "website": "https://gemminttencollectibles.com/",
+   "checked_at": "2026-10-16T21:18:52Z"
   },
   {
    "name": "Gems & Games",
@@ -9892,6 +12018,16 @@
    "checked_at": "2026-10-15T20:20:04Z"
   },
   {
+   "name": "Haul Rat Comics",
+   "group": "unknown",
+   "city": "Ottawa",
+   "region": "ON",
+   "address": "455 Hazeldean Rd 2nd floor, Ottawa, ON K2L 1V1",
+   "website": "https://linktr.ee/dollysdowntown",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-15T20:13:52Z"
+  },
+  {
    "name": "Heaven's Collectibles & TCG",
    "group": "unknown",
    "city": "London",
@@ -9925,6 +12061,16 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-16T02:21:59Z"
+  },
+  {
+   "name": "Heroes Comics",
+   "group": "unknown",
+   "city": "London",
+   "region": "ON",
+   "address": "186 Dundas St, London, ON N6A 1G7",
+   "phone": "(519) 439-4955",
+   "website": "https://heroescomics.ca/",
+   "checked_at": "2026-10-16T21:18:51Z"
   },
   {
    "name": "Heroes World Comic Shop Of The New Millennium",
@@ -9966,6 +12112,16 @@
    "checked_at": "2026-10-15T20:17:40Z"
   },
   {
+   "name": "HighMart - Halifax",
+   "group": "unknown",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "5512 Spring Garden Rd, Halifax, NS B3J 1G5",
+   "phone": "(902) 446-0230",
+   "website": "https://www.highmart.ca/password",
+   "checked_at": "2026-10-15T20:20:49Z"
+  },
+  {
    "name": "HighMart - Sackville",
    "group": "unknown",
    "city": "Lower Sackville",
@@ -9996,6 +12152,16 @@
    "region": "ON",
    "address": "900 Maple Ave Unit B2, Burlington, ON L7S 2J8",
    "phone": "(905) 333-1155",
+   "website": "https://www.hobbyandtoycentral.com/",
+   "checked_at": "2026-10-15T20:19:42Z"
+  },
+  {
+   "name": "Hobby And Toy Central",
+   "group": "unknown",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "225 The Boardwalk #7, Kitchener, ON N2T 0A6",
+   "phone": "(519) 584-2224",
    "website": "https://www.hobbyandtoycentral.com/",
    "checked_at": "2026-10-15T20:19:42Z"
   },
@@ -10063,6 +12229,19 @@
    "checked_at": "2026-10-15T20:15:44Z"
   },
   {
+   "name": "Hobby Knight In Canada",
+   "group": "unknown",
+   "city": "Aurora",
+   "region": "Ontario",
+   "address": "297 Wellington St E #8, Aurora, ON L4G 6K9, Canada, Aurora, Ontario, L4G 6K9",
+   "phone": "1 289-803-9569",
+   "website": "https://hobbyknightincanada.square.site/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Hobby Saguenay",
    "group": "unknown",
    "city": "Chicoutimi",
@@ -10071,7 +12250,6 @@
    "phone": "4185903711",
    "website": "https://hobbysag.com/",
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
    ],
@@ -10144,6 +12322,16 @@
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:19Z"
+  },
+  {
+   "name": "Hope Club Collectibles - Sports Cards and Trading Card Games",
+   "group": "unknown",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "1530 Albion Rd unit 52, Etobicoke, ON M9V 1B4",
+   "phone": "(647) 721-4673",
+   "website": "https://hopeclubshop.ca/",
    "checked_at": "2026-10-15T20:08:19Z"
   },
   {
@@ -10222,14 +12410,11 @@
   {
    "name": "Ikuzo Cards",
    "group": "unknown",
-   "city": "Rocky View County",
-   "region": "CA-AB",
-   "address": "260300 Writing Creek Cres Unit F53, Rocky View County, CA-AB, T4A0X8",
-   "phone": "3063512609",
+   "city": "Balzac",
+   "region": "AB",
+   "address": "260300 Writing Creek Cres Unit F53, Balzac, AB T4A 0X8",
+   "phone": "(825) 800-0132",
    "website": "https://ikuzocards.com/",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-15T20:16:13Z"
   },
   {
@@ -10328,6 +12513,56 @@
    "checked_at": "2026-10-15T20:15:20Z"
   },
   {
+   "name": "Indigo",
+   "group": "unknown",
+   "city": "Winnipeg",
+   "region": "MB",
+   "address": "1225 St Mary's Rd, Winnipeg, MB R2M 5E5",
+   "phone": "(204) 256-0777",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
+  },
+  {
+   "name": "Indigo",
+   "group": "unknown",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "3322 8 St E, Saskatoon, SK S7H 0W4",
+   "phone": "(306) 244-5317",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
+  },
+  {
+   "name": "Indigo",
+   "group": "unknown",
+   "city": "Regina",
+   "region": "SK",
+   "address": "Southland Mall, 2625 Gordon Rd, Regina, SK S4S 6H7",
+   "phone": "(306) 569-6060",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
+  },
+  {
+   "name": "Indigo - Halifax",
+   "group": "unknown",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "Bayers Lake Power Centre, 188 Chain Lake Dr, Halifax, NS B3S 1C5",
+   "phone": "(902) 450-1023",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
+  },
+  {
+   "name": "Indigo - Kitchener",
+   "group": "unknown",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "225 Fairway Rd S Unit CRU-04, Kitchener, ON N2C 1X2",
+   "phone": "(519) 748-4796",
+   "website": "https://www.indigo.ca/pages/stores/282-indigo-place-montreal-trust",
+   "checked_at": "2026-10-15T20:15:20Z"
+  },
+  {
    "name": "Industrial Park Games Ltd.",
    "group": "unknown",
    "city": "Edmonton",
@@ -10341,6 +12576,29 @@
    "checked_at": "2026-10-15T20:13:03Z"
   },
   {
+   "name": "Infinity Card & Collectibles",
+   "group": "unknown",
+   "city": "Langley Township",
+   "region": "British Columbia",
+   "address": "27256 Fraser Hwy, Aldergrove, BC V4W 3P8, Canada, Langley Township, British Columbia, V4W 3P8",
+   "phone": "+1 604-308-5084",
+   "website": "https://infinitycards.ca/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:10:36Z"
+  },
+  {
+   "name": "Infinity Cards & Collectibles",
+   "group": "unknown",
+   "city": "Langley Twp",
+   "region": "BC",
+   "address": "27256 Fraser Hwy Unit 102, Aldergrove, BC V4W 3P8",
+   "phone": "(604) 308-5084",
+   "website": "https://infinitycards.ca/",
+   "checked_at": "2026-10-15T20:10:36Z"
+  },
+  {
    "name": "Infinity Cards and Collectibles Ltd.",
    "group": "unknown",
    "city": "Aldergrove",
@@ -10350,7 +12608,6 @@
    "website": "https://infinitycards.ca/",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
@@ -10413,6 +12670,19 @@
    "phone": "(204) 783-5387",
    "website": "http://www.truenorthshop.com/",
    "checked_at": "2026-10-15T20:18:26Z"
+  },
+  {
+   "name": "Jeu d'Evasion Escaparium",
+   "group": "unknown",
+   "city": "Laval",
+   "region": "CA-QC",
+   "address": "5545 boul. des Rossignols, Laval, CA-QC, H7L5S7",
+   "phone": "5149699029",
+   "website": "https://www.escaparium.ca/laval",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:09:54Z"
   },
   {
    "name": "Jeux AZ Games",
@@ -10601,6 +12871,19 @@
    "checked_at": "2026-10-15T20:13:21Z"
   },
   {
+   "name": "Kingdom of the Titans inc.",
+   "group": "unknown",
+   "city": "Saguenay",
+   "region": "Québec",
+   "address": "1445 Rue Des Champs-Élysées, Chicoutimi, QC G7H 5X4, Canada, Saguenay, Québec, G7H 5X4",
+   "phone": "+1 418-973-1491",
+   "website": "https://www.kingdomtitans.ca/fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:12:49Z"
+  },
+  {
    "name": "Kirby's Source For Sports",
    "group": "unknown",
    "city": "Victoria",
@@ -10636,16 +12919,11 @@
   {
    "name": "Korekuta Games",
    "group": "unknown",
-   "city": "Woodbridge",
-   "region": "CA-ON",
-   "address": "120 Woodstream Blvd, Unit 12, Woodbridge, CA-ON, L4L7Z1",
-   "phone": "6477819541",
+   "city": "Vaughan",
+   "region": "ON",
+   "address": "120 Woodstream Blvd Unit 12, Woodbridge, ON L4L 7Z1",
+   "phone": "(647) 494-2640",
    "website": "https://korekutagames-store.myshopify.com/",
-   "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-15T20:14:27Z"
   },
   {
@@ -10658,7 +12936,6 @@
    "website": "https://www.godsarena.com/",
    "buylist_url": "https://www.godsarena.com/inactive_buylist",
    "games_events": [
-    "Flesh and Blood",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:12:29Z"
@@ -10672,6 +12949,20 @@
    "phone": "(514) 369-7267",
    "website": "https://ateliertcg.com/",
    "checked_at": "2026-10-15T20:14:56Z"
+  },
+  {
+   "name": "L'Expedition",
+   "group": "unknown",
+   "city": "Longueuil",
+   "region": "Québec",
+   "address": "3380 Bd Taschereau, Longueuil, QC J4V 2H7, Canada, Longueuil, Québec, J4V 2H7",
+   "phone": "450-486-1762",
+   "website": "https://www.expeditionjeux.com",
+   "buylist_url": "https://www.expeditionjeux.com/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:09:27Z"
   },
   {
    "name": "La Boîte à B.D. de Laval",
@@ -10703,6 +12994,30 @@
    "phone": "(438) 385-4001",
    "website": "https://halteludique.ca/",
    "checked_at": "2026-10-15T20:14:59Z"
+  },
+  {
+   "name": "La Pieuvre Barbue",
+   "group": "unknown",
+   "city": "Rivière-Beaudette",
+   "region": "Québec",
+   "address": "560 Av. 69e, Rivière-Beaudette, QC J0P 1R0, Canada, Rivière-Beaudette, Québec, J0P 1R0",
+   "phone": "+1 579-491-6019",
+   "website": "https://www.lapieuvrebarbue.com/welcome",
+   "buylist_url": "https://www.lapieuvrebarbue.com/welcome",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:18:41Z"
+  },
+  {
+   "name": "La Voute de Cartes / The Cards Vault",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "1260 Rue Notre Dame, Lachine, QC H8S 2C6",
+   "phone": "(514) 538-3010",
+   "website": "https://thecardsvault.com/",
+   "checked_at": "2026-10-15T20:09:46Z"
   },
   {
    "name": "Last Gen Used Toronto",
@@ -10783,6 +13098,15 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-16T02:22:27Z"
+  },
+  {
+   "name": "Le repère du pourfendeur",
+   "group": "unknown",
+   "city": "Gatineau",
+   "region": "QC",
+   "address": "556 Ave. de Buckingham, Gatineau, QC J8L 1N2",
+   "website": "http://pourfendeur.ca/",
+   "checked_at": "2026-10-16T21:18:47Z"
   },
   {
    "name": "Le Roi Des Cartes",
@@ -11130,6 +13454,26 @@
    "checked_at": "2026-10-15T20:10:29Z"
   },
   {
+   "name": "Magic Chest",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "BC",
+   "address": "5300 Number 3 Rd Unit 841, Richmond, BC V6X 2X9",
+   "phone": "(604) 902-8746",
+   "website": "https://magicchest.net/",
+   "checked_at": "2026-10-16T21:18:45Z"
+  },
+  {
+   "name": "Magic Chest @ Tsawwassen Mills",
+   "group": "unknown",
+   "city": "Delta",
+   "region": "BC",
+   "address": "5000 Canoe Pass Wy Unit 634, Tsawwassen, BC V4M 0B3",
+   "phone": "(236) 865-4513",
+   "website": "https://magicchest.net/",
+   "checked_at": "2026-10-16T21:18:54Z"
+  },
+  {
    "name": "Maitre de jeu",
    "group": "unknown",
    "address": "14 Rue Saint-Joseph, Granby, QC, J2G 6T6, Canada",
@@ -11223,6 +13567,86 @@
    "checked_at": "2026-10-15T20:18:13Z"
   },
   {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "ON",
+   "address": "821 Golf Links Rd, Ancaster, ON L9K 1L5",
+   "phone": "(905) 648-6611",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Kitchener",
+   "region": "ON",
+   "address": "500 Fairway Rd S #25, Kitchener, ON N2C 1X3",
+   "phone": "(519) 893-6170",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "London",
+   "region": "ON",
+   "address": "685 Fanshawe Park Rd W, London, ON N6G 5B4",
+   "phone": "(519) 641-8697",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "201 Chain Lake Dr, Halifax, NS B3S 1C8",
+   "phone": "(902) 445-9411",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "3011 Clarence Ave S, Saskatoon, SK S7T 0B4",
+   "phone": "(306) 651-6909",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Regina",
+   "region": "SK",
+   "address": "2820 Quance St, Regina, SK S4V 3B9",
+   "phone": "(306) 586-5180",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "50 White Rose Drive Unit 50A, St. John's, NL A1A 0H5",
+   "phone": "(709) 552-8970",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
+   "name": "Mastermind Toys",
+   "group": "unknown",
+   "city": "Mississauga",
+   "region": "ON",
+   "address": "970 Southdown Rd, Mississauga, ON L5J 0A3",
+   "phone": "(905) 822-8557",
+   "website": "https://www.mastermindtoys.com/?utm_source=GMB&utm_medium=organic",
+   "checked_at": "2026-10-15T20:18:13Z"
+  },
+  {
    "name": "Masterset Co.",
    "group": "unknown",
    "city": "markham",
@@ -11311,6 +13735,16 @@
    "checked_at": "2026-10-15T20:21:55Z"
   },
   {
+   "name": "Michaels",
+   "group": "unknown",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "The Shoppes at Galway, 44 Danny Dr Unit B1.5, St. John's, NL A1N 4P7",
+   "phone": "(709) 800-9965",
+   "website": "https://locationsca.michaels.com/SK/Regina/3923?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+   "checked_at": "2026-10-15T20:21:55Z"
+  },
+  {
    "name": "Microplay",
    "group": "unknown",
    "city": "Kitchener",
@@ -11319,6 +13753,23 @@
    "phone": "(519) 742-4263",
    "website": "https://shop.microplayvideogames.ca/",
    "checked_at": "2026-10-15T20:19:58Z"
+  },
+  {
+   "name": "Midgard Gaming",
+   "group": "unknown",
+   "city": "Mount Pearl",
+   "region": "CA-NL",
+   "address": "7 Commonwealth Ave., Mount Pearl, CA-NL, A1N1W3",
+   "phone": "7097455052",
+   "website": "https://shop.midgardgaming.com/",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Midtown Shopping Centre",
@@ -11351,6 +13802,19 @@
    "checked_at": "2026-10-15T20:18:29Z"
   },
   {
+   "name": "Mind Games",
+   "group": "unknown",
+   "city": "Waterloo",
+   "region": "CA-ON",
+   "address": "550 King St N #G15, Waterloo, CA-ON, N2L5W6",
+   "phone": "5198864263",
+   "website": "https://www.mindgames.ca/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
    "name": "Mind Games - Metrotown",
    "group": "unknown",
    "city": "Calgary",
@@ -11366,11 +13830,105 @@
    "checked_at": "2026-10-15T20:10:23Z"
   },
   {
+   "name": "Mind Games Coquitlam",
+   "group": "unknown",
+   "city": "Coquitlam",
+   "region": "BC",
+   "address": "2929 Barnet Hwy #1308, Coquitlam, BC V3B 5R5",
+   "phone": "(604) 552-7246",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games Guildford Town Centre",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "10355 152 St, Surrey, BC V3R 7C3",
+   "phone": "(604) 498-0404",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games Kingsway Mall",
+   "group": "unknown",
+   "city": "Edmonton",
+   "region": "AB",
+   "address": "1 Kingsway NW Unit 235H, Edmonton, AB T5G 3A6",
+   "phone": "(780) 244-5024",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games Mayfair",
+   "group": "unknown",
+   "city": "Victoria",
+   "region": "BC",
+   "address": "3147 Douglas St #332, Victoria, BC V8Z 6E3",
+   "phone": "(250) 590-3306",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games Metropolis at Metrotown",
+   "group": "unknown",
+   "city": "Burnaby",
+   "region": "BC",
+   "address": "4800 Kingsway Unit# F36A, 393, Burnaby, BC V5H 4J2",
+   "phone": "(604) 563-4700",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games Mic Mac Mall",
+   "group": "unknown",
+   "city": "Dartmouth",
+   "region": "NS",
+   "address": "21 Micmac Blvd Unit 365, Dartmouth, NS B3A 0C7",
+   "phone": "(902) 444-1425",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games St. Laurent",
+   "group": "unknown",
+   "city": "Ottawa",
+   "region": "ON",
+   "address": "1200 St. Laurent Blvd unit 203, Ottawa, ON K1K 3B8",
+   "phone": "(613) 746-3559",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
+   "name": "Mind Games White Oaks Mall",
+   "group": "unknown",
+   "city": "London",
+   "region": "ON",
+   "address": "1105 Wellington Rd Unit 421, London, ON N6E 1V4",
+   "phone": "(226) 663-3430",
+   "website": "https://www.mindgames.ca/",
+   "checked_at": "2026-10-15T20:10:23Z"
+  },
+  {
    "name": "Mintink",
    "group": "unknown",
    "city": "Vaughan",
    "region": "CA-ON",
    "address": "8555 Jane St Unit 5 & 6, Vaughan, CA-ON, L4K5N9",
+   "phone": "4168279141",
+   "website": "https://www.mintink.ca/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:13:44Z"
+  },
+  {
+   "name": "Mintink Ajax",
+   "group": "unknown",
+   "city": "Ajax",
+   "region": "CA-ON",
+   "address": "1965 Salem Rd N unit #3 , Ajax, CA-ON, L1T0J9",
    "phone": "4168279141",
    "website": "https://www.mintink.ca/",
    "games_events": [
@@ -11489,10 +14047,13 @@
   {
    "name": "Multivers",
    "group": "unknown",
+   "city": "Sainte-Anne-des-Plaines",
+   "region": "CA-QC",
    "address": "190A Boulevard Ste Anne, Sainte-Anne-des-Plaines, QC, J5N 3P2, Canada",
    "phone": "1450-940-1033",
    "website": "https://www.multivers.ca",
    "games_events": [
+    "DBSCG FUSION WORLD (EN)",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:10:06Z"
@@ -11533,8 +14094,20 @@
    "checked_at": "2026-10-15T20:09:00Z"
   },
   {
+   "name": "Mystic Dragon",
+   "group": "unknown",
+   "city": "Lincoln",
+   "region": "ON",
+   "address": "4548 Ontario St, Beamsville, ON L3J 0B7",
+   "phone": "(289) 566-8861",
+   "website": "https://mystic-dragon.ca/",
+   "checked_at": "2026-10-15T20:09:00Z"
+  },
+  {
    "name": "Mythic Comics & Collectibles",
    "group": "unknown",
+   "city": "Sherwood Park",
+   "region": "AB",
    "address": "2008 C Sherwood Dr, Sherwood Park, AB, T8A 0Z1, CA",
    "phone": "17805701872",
    "website": "http://mythiccomics.ca/",
@@ -11627,6 +14200,16 @@
    "checked_at": "2026-10-15T20:20:28Z"
   },
   {
+   "name": "Nerd Feeder",
+   "group": "unknown",
+   "city": "Delta",
+   "region": "BC",
+   "address": "4962 Bridge St, Delta, BC V4K 2K1",
+   "phone": "(604) 710-2739",
+   "website": "https://nerdfeeder.ca/",
+   "checked_at": "2026-10-16T21:18:59Z"
+  },
+  {
    "name": "Nerd Haven Games",
    "group": "unknown",
    "city": "Abbotsford",
@@ -11698,6 +14281,16 @@
    "checked_at": "2026-10-15T20:22:18Z"
   },
   {
+   "name": "NexPack Collectibles - Trading Card Shop",
+   "group": "unknown",
+   "city": "Markham",
+   "region": "ON",
+   "address": "7225 Woodbine Ave #119, Markham, ON L3R 1A3",
+   "phone": "(905) 470-6035",
+   "website": "https://npcollectibles.com/",
+   "checked_at": "2026-10-16T21:18:42Z"
+  },
+  {
    "name": "Nexus",
    "group": "unknown",
    "city": "Kingston",
@@ -11766,7 +14359,6 @@
    "phone": "17053584077",
    "website": "https://www.animecraze.ca/",
    "games_events": [
-    "Flesh and Blood",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:13:42Z"
@@ -11790,6 +14382,18 @@
    "phone": "(780) 222-4181",
    "website": "https://buysellgames.store/password",
    "checked_at": "2026-10-15T20:17:14Z"
+  },
+  {
+   "name": "Nova Anime",
+   "group": "unknown",
+   "city": "North Bay",
+   "region": "Ontario",
+   "address": "40c Couchie Industrial Rd S, North Bay, ON P1B 8G5, Canada, North Bay, Ontario, P1B 8G5",
+   "website": "https://www.animecraze.ca/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:13:42Z"
   },
   {
    "name": "Nut Man & Card Man Regina",
@@ -11920,6 +14524,17 @@
    "checked_at": "2026-10-15T20:11:01Z"
   },
   {
+   "name": "Overtime Sports Cards & Grading - NEW HORIZON MALL",
+   "group": "unknown",
+   "city": "Balzac",
+   "region": "AB",
+   "address": "260300 Writing Creek Cres, Balzac, AB T0M 0E0",
+   "phone": "(825) 540-1296",
+   "website": "https://overtimesportscards.ca/",
+   "buylist_url": "https://overtimesportscards.ca/pages/sell-your-cards",
+   "checked_at": "2026-10-15T20:10:48Z"
+  },
+  {
    "name": "Overtime Sports Cards & Grading - North Hill",
    "group": "unknown",
    "city": "Calgary",
@@ -11961,6 +14576,16 @@
    "checked_at": "2026-10-15T20:16:25Z"
   },
   {
+   "name": "Paradise Games and Customs",
+   "group": "unknown",
+   "city": "Spruce Grove",
+   "region": "AB",
+   "address": "4 Spruce Ridge Dr Unit 40, Spruce Grove, AB T7X 4S3",
+   "phone": "(780) 948-9689",
+   "website": "https://www.paradisegames.ca",
+   "checked_at": "2026-10-16T21:18:46Z"
+  },
+  {
    "name": "Parkway Cards & Gifts",
    "group": "unknown",
    "city": "Mississauga",
@@ -11981,6 +14606,16 @@
    "checked_at": "2026-10-15T20:21:58Z"
   },
   {
+   "name": "Party City",
+   "group": "unknown",
+   "city": "St. John's",
+   "region": "NL",
+   "address": "50 White Rose Drive Unit 50A, St. John's, NL A1A 0H5",
+   "phone": "(709) 576-1121",
+   "website": "https://www.partycity.ca/en/store-details/sk/regina-sk-party-city-877.html?utm_source=google&utm_medium=lss&utm_content=877",
+   "checked_at": "2026-10-15T20:21:58Z"
+  },
+  {
    "name": "Passe-Temps 3000",
    "group": "unknown",
    "city": "Québec",
@@ -11989,6 +14624,39 @@
    "phone": "(418) 529-9658",
    "website": "https://www.passetemps3000.com/fr/",
    "checked_at": "2026-10-15T20:18:43Z"
+  },
+  {
+   "name": "Pastime Sports & Games",
+   "group": "unknown",
+   "city": "Burnaby",
+   "region": "BC",
+   "address": "4700 Kingsway, Burnaby, BC V5H 4N2",
+   "phone": "(604) 432-9979",
+   "website": "https://pastimesports.ca/",
+   "checked_at": "2026-10-15T20:10:33Z"
+  },
+  {
+   "name": "Pastime Sports & Games",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "10355 152 St, Surrey, BC V3R 7C1",
+   "phone": "(604) 584-5507",
+   "website": "https://pastimesports.ca/",
+   "checked_at": "2026-10-15T20:10:33Z"
+  },
+  {
+   "name": "Pastime Sports & Games North Van",
+   "group": "unknown",
+   "city": "North Vancouver",
+   "region": "CA-BC",
+   "address": "37, North Vancouver, CA-BC, V7P1S2",
+   "phone": "2365512257",
+   "website": "https://pastimesports.ca/",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:33Z"
   },
   {
    "name": "Pastime Sports and Games - Langley",
@@ -12222,6 +14890,35 @@
    "checked_at": "2026-10-15T20:15:01Z"
   },
   {
+   "name": "Pokemon TCG",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "650 Rue Wellington, Montréal, QC H3C 1T3",
+   "website": "https://api.whatsapp.com/send/?phone=13654154598&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-15T20:14:06Z"
+  },
+  {
+   "name": "Pokemon TCG cards",
+   "group": "unknown",
+   "city": "Kahnawake",
+   "region": "QC",
+   "address": "Old Malone Rd, Kahnawake, QC J0L 1B0",
+   "website": "https://t.me/pokemon_game_cards",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-15T20:14:02Z"
+  },
+  {
+   "name": "Pokemon TCG trading cards game",
+   "group": "unknown",
+   "city": "Montréal",
+   "region": "QC",
+   "address": "2250 Rue Guy, Montréal, QC H3A 1H3",
+   "website": "https://t.me/pokemon_game_cards",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-15T20:14:02Z"
+  },
+  {
    "name": "Pokemon Trading Cards",
    "group": "unknown",
    "city": "Toronto",
@@ -12231,6 +14928,16 @@
    "website": "https://t.me/pokemon_game_cards",
    "buylist_url": "https://t.me/retailer/buylist",
    "checked_at": "2026-10-15T20:14:02Z"
+  },
+  {
+   "name": "PokeRealm TCG",
+   "group": "unknown",
+   "city": "Ottawa",
+   "region": "ON",
+   "address": "1234 Industrial Ave, Ottawa, ON K1G 5L1",
+   "phone": "(207) 571-2660",
+   "website": "https://api.whatsapp.com/send/?phone=13654154598&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-15T20:14:06Z"
   },
   {
    "name": "Pokémon Authentic Collectibles",
@@ -12387,6 +15094,16 @@
    "address": "5100 Erin Mills Pkwy Unit R102A, Mississauga, ON L5M 4Z5",
    "website": "https://www.ragstop.ca/",
    "checked_at": "2026-10-15T20:22:43Z"
+  },
+  {
+   "name": "Rain City Games",
+   "group": "unknown",
+   "city": "New Westminster",
+   "region": "BC",
+   "address": "810 Quayside Dr Unit 106, New Westminster, BC V3M 6B9",
+   "phone": "(604) 553-4425",
+   "website": "https://www.raincity.games/",
+   "checked_at": "2026-10-15T20:10:17Z"
   },
   {
    "name": "Rain City Games - Vancouver",
@@ -12558,6 +15275,20 @@
    "checked_at": "2026-10-15T20:19:09Z"
   },
   {
+   "name": "Richmond Reroll",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "CA-BC",
+   "address": "12191 Hammersmith Way, Unit 1120, Richmond, CA-BC, V7A5H9",
+   "phone": "7786885885",
+   "website": "https://www.richmondreroll.com/",
+   "buylist_url": "https://www.richmondreroll.com/advanced_search?utf8=%E2%9C%93&search%5Bfuzzy_search%5D=&search%5Btags_name_eq%5D=&search%5Bsell_price_gte%5D=5&search%5Bsell_price_lte%5D=20&search%5Bbuy_price_gte%5D=&search%5Bbuy_price_lte%5D=&search%5Bin_stock%5D=0&buylist_mode=0&search%5Bcategory_ids_with_descendants%5D%5B%5D=&search%5Bsort%5D=name&search%5Bdirection%5D=ascend&commit=Search&search%5Bcatalog_group_id_eq%5D=",
+   "games_events": [
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
+  },
+  {
    "name": "Riley Grae",
    "group": "unknown",
    "city": "Winnipeg",
@@ -12653,6 +15384,16 @@
    "checked_at": "2026-10-15T20:18:56Z"
   },
   {
+   "name": "Sakura Media",
+   "group": "unknown",
+   "city": "Burnaby",
+   "region": "BC",
+   "address": "4700 Kingsway, Burnaby, BC V5H 4N2",
+   "phone": "(604) 419-8824",
+   "website": "https://www.metrohobbies.ca/",
+   "checked_at": "2026-10-15T20:15:34Z"
+  },
+  {
    "name": "Sakura Media Granville",
    "group": "unknown",
    "city": "Vancouver",
@@ -12720,6 +15461,24 @@
    "checked_at": "2026-10-15T20:21:30Z"
   },
   {
+   "name": "Screen Free Games",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "CA-BC",
+   "address": "1711 152 Strret Unit 134, Surrey, CA-BC, v4a4n3",
+   "phone": "6045603385",
+   "website": "https://screenfreegames.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:33Z"
+  },
+  {
    "name": "Screen Free Games - South Surrey",
    "group": "unknown",
    "city": "Richmond",
@@ -12736,6 +15495,32 @@
     "ONE PIECE CARD GAME (EN)",
     "UNION ARENA (EN)"
    ],
+   "checked_at": "2026-10-15T20:10:33Z"
+  },
+  {
+   "name": "Screen Free Games Abbotsford",
+   "group": "unknown",
+   "city": "Abbotsford",
+   "region": "CA-BC",
+   "address": "32900 South Fraser Way Unit 330, Abbotsford, CA-BC, V2S5A1",
+   "phone": "6047441980",
+   "website": "https://screenfreegames.com/",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:10:33Z"
+  },
+  {
+   "name": "Screen Free Games Calgary",
+   "group": "unknown",
+   "city": "Calgary",
+   "region": "AB",
+   "address": "Sunridge Shopping Centre, 2525 36 St NE Unit 258, Calgary, AB T1Y 5T4",
+   "phone": "(403) 453-7340",
+   "website": "https://screenfreegames.com/",
    "checked_at": "2026-10-15T20:10:33Z"
   },
   {
@@ -12794,6 +15579,16 @@
    "region": "MB",
    "address": "Polo Park Mall, 1485 Portage Ave, Winnipeg, MB R3G 0W4",
    "phone": "(204) 774-3219",
+   "website": "https://ca.shopatshowcase.com/?utm_source=google&utm_medium=gbp&utm_campaign=gbpwebsite",
+   "checked_at": "2026-10-15T20:18:36Z"
+  },
+  {
+   "name": "Showcase",
+   "group": "unknown",
+   "city": "Saskatoon",
+   "region": "SK",
+   "address": "Lawson Heights, 134 Primrose Dr, Saskatoon, SK S7K 5S6",
+   "phone": "(306) 934-0571",
    "website": "https://ca.shopatshowcase.com/?utm_source=google&utm_medium=gbp&utm_campaign=gbpwebsite",
    "checked_at": "2026-10-15T20:18:36Z"
   },
@@ -12861,6 +15656,20 @@
    "phone": "(905) 631-6211",
    "website": "https://skycrafthobbies.com/",
    "checked_at": "2026-10-15T20:19:25Z"
+  },
+  {
+   "name": "Skyhaven Games",
+   "group": "unknown",
+   "city": "Victoria",
+   "region": "CA-BC",
+   "address": "3458 Tillicum Rd., Victoria, CA-BC, V8Z4H3",
+   "phone": "2504771519",
+   "website": "https://skyhavengames.proboards.com/",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Slab Sharks - Sports Cards & Collectibles Consignment",
@@ -12946,6 +15755,16 @@
    "phone": "(437) 985-3112",
    "website": "https://spacesocialtcg.com/",
    "checked_at": "2026-10-15T20:13:43Z"
+  },
+  {
+   "name": "Sport Cards Hall Of Fame",
+   "group": "unknown",
+   "city": "Dollard-des-Ormeaux",
+   "region": "QC",
+   "address": "4067 Boul. Saint-Jean, Dollard-des-Ormeaux, QC H9G 2R4",
+   "phone": "(514) 696-2273",
+   "website": "https://collectorsavenue.com/",
+   "checked_at": "2026-10-15T20:14:33Z"
   },
   {
    "name": "Sportco Source For Sports",
@@ -13140,6 +15959,16 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-15T20:10:27Z"
+  },
+  {
+   "name": "T&N Games - Royal City Centre",
+   "group": "unknown",
+   "city": "New Westminster",
+   "region": "BC",
+   "address": "610 6th St Unit 118, New Westminster, BC V3L 3C2",
+   "phone": "(604) 515-7411",
+   "website": "http://www.tngames.ca/",
    "checked_at": "2026-10-15T20:10:27Z"
   },
   {
@@ -13635,6 +16464,23 @@
    "checked_at": "2026-10-15T20:14:51Z"
   },
   {
+   "name": "The Trading Gallery Clark",
+   "group": "unknown",
+   "city": "Vancouver",
+   "region": "CA-BC",
+   "address": "1073 Clark Drive, Vancouver, CA-BC, V5L3K1",
+   "phone": "6042551800",
+   "website": "https://www.thetradinggallery.com/en/ca",
+   "buylist_url": "https://www.thetradinggallery.com/en/ca/retailer/buylist",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-15T20:14:51Z"
+  },
+  {
    "name": "The Vintage Mansion",
    "group": "unknown",
    "city": "Halifax",
@@ -13784,21 +16630,6 @@
    "checked_at": "2026-10-15T20:09:05Z"
   },
   {
-   "name": "Tome2",
-   "group": "unknown",
-   "city": "Saint-Jean-sur-Richelieu",
-   "region": "CA-QC",
-   "address": "42 Saint-Jacques St, Saint-Jean-Sur-Richelieu, QC, J3B 2J7, Canada",
-   "phone": "+1450-376-6106",
-   "website": "https://tome2boutique.crystalcommerce.com/",
-   "buylist_url": "https://tome2boutique.crystalcommerce.com/buylist",
-   "games_events": [
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-15T20:10:06Z"
-  },
-  {
    "name": "Tomo Cards Inc",
    "group": "unknown",
    "city": "Calgary",
@@ -13923,6 +16754,16 @@
    "checked_at": "2026-10-15T20:22:03Z"
   },
   {
+   "name": "TPM Hobby & Collection",
+   "group": "unknown",
+   "city": "Québec",
+   "region": "QC",
+   "address": "550 Rue Fleur-de-Lys Local F-12, Québec, QC G1M 3E5",
+   "phone": "(418) 524-7894",
+   "website": "https://boutique-tpm.com/",
+   "checked_at": "2026-10-15T20:11:39Z"
+  },
+  {
    "name": "TPM Hobby & Collection Inc.",
    "group": "unknown",
    "city": "Quebec",
@@ -13971,10 +16812,23 @@
     "DIGIMON CARD GAME (EN)",
     "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)",
-    "UNION ARENA (EN)"
+    "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:12:31Z"
+  },
+  {
+   "name": "Treasure Chest Games",
+   "group": "unknown",
+   "city": "Lethbridge",
+   "region": "CA-AB",
+   "address": "#20 24 Mount Burke Blvd W, Lethbridge, CA-AB, T1K7X9",
+   "phone": "4033206055",
+   "website": "https://www.treasure-chest.ca/",
+   "games_events": [
+    "Flesh and Blood",
+    "UNION ARENA (EN)"
+   ],
+   "checked_at": "2026-10-16T21:18:36Z"
   },
   {
    "name": "Treasure Cove Collectables",
@@ -14005,6 +16859,26 @@
    "city": "Calgary",
    "region": "AB",
    "address": "3625 Shaganappi Trail NW Unit H10D, Calgary, AB T3A 0E2",
+   "phone": "(866) 489-7560",
+   "website": "https://treehousetoys.ca/",
+   "checked_at": "2026-10-15T20:16:27Z"
+  },
+  {
+   "name": "TREEHOUSE TOYS Guildford Town Centre",
+   "group": "unknown",
+   "city": "Surrey",
+   "region": "BC",
+   "address": "10355 152 St Unit 2223, Surrey, BC V3R 7C3",
+   "phone": "(587) 990-8338",
+   "website": "https://treehousetoys.ca/",
+   "checked_at": "2026-10-15T20:16:27Z"
+  },
+  {
+   "name": "TREEHOUSE TOYS West Edmonton Mall",
+   "group": "unknown",
+   "city": "Edmonton",
+   "region": "AB",
+   "address": "8882 170 St NW #2361, Edmonton, AB T5T 3J7",
    "phone": "(866) 489-7560",
    "website": "https://treehousetoys.ca/",
    "checked_at": "2026-10-15T20:16:27Z"
@@ -14109,7 +16983,6 @@
    "phone": "+1905-275-0708",
    "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
     "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)",
@@ -14292,16 +17165,13 @@
    "checked_at": "2026-10-15T20:15:28Z"
   },
   {
-   "name": "WAM CARDS",
+   "name": "Wam Cards",
    "group": "unknown",
-   "city": "NORTH YORK",
-   "region": "CA-ON",
-   "address": "302 Bridgeland Ave, NORTH YORK, CA-ON, M6A1Z4",
-   "phone": "6479995878",
+   "city": "Toronto",
+   "region": "ON",
+   "address": "302 Bridgeland Ave, North York, ON M6A 1Z4",
+   "phone": "(833) 500-2410",
    "website": "https://wamcards.ca/",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-15T20:14:02Z"
   },
   {
@@ -14313,8 +17183,20 @@
    "phone": "9056050919",
    "website": "https://wanderingadventures.ca/",
    "games_events": [
-    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:13:21Z"
+  },
+  {
+   "name": "Wandering Adventures",
+   "group": "unknown",
+   "city": "Vaughan",
+   "region": "Ontario",
+   "address": "7766 Martin Grove Rd, Woodbridge, ON L4L 9S2, Canada, Vaughan, Ontario, L4L 9S2",
+   "phone": "+1 905-605-0919",
+   "website": "https://wanderingadventures.ca/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:13:21Z"
   },
@@ -14327,6 +17209,46 @@
    "phone": "(519) 772-1202",
    "website": "https://www.warhammer.com/?utm_source=Google&utm_medium=Yext",
    "checked_at": "2026-10-15T20:20:09Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "London",
+   "region": "ON",
+   "address": "White Oaks Mall, 1105 Wellington Rd Unit 411, London, ON N6E 1V4",
+   "phone": "(519) 668-3713",
+   "website": "https://www.warhammer.com/?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-15T20:20:09Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Halifax",
+   "region": "NS",
+   "address": "6950 Mumford Rd Unit 304, Halifax, NS B3L 4W1",
+   "phone": "(902) 442-0297",
+   "website": "https://www.warhammer.com/?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-15T20:20:09Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Regina",
+   "region": "SK",
+   "address": "2095 Prince of Wales Dr Unit J-4, Regina, SK S4V 3A3",
+   "phone": "(306) 545-1308",
+   "website": "https://www.warhammer.com/?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-15T20:20:09Z"
+  },
+  {
+   "name": "Warp 1",
+   "group": "unknown",
+   "city": "Edmonton",
+   "region": "AB",
+   "address": "9917 Whyte Ave NW, Edmonton, AB T6E 1W6",
+   "phone": "(780) 433-7119",
+   "website": "http://warpcomics.com/index.html",
+   "checked_at": "2026-10-15T20:16:54Z"
   },
   {
    "name": "Warp 2 Comics & Games",
@@ -14514,18 +17436,11 @@
   {
    "name": "Wiser's Wide World of Collectibles",
    "group": "unknown",
-   "city": "Langley",
-   "region": "CA-BC",
-   "address": "9640 201 st, Langley, CA-BC, V1M3E8",
-   "phone": "604-882-7616",
+   "city": "Langley Twp",
+   "region": "BC",
+   "address": "9640 201 St B4, Langley Twp, BC V1M 3E8",
+   "phone": "(604) 882-7616",
    "website": "https://www.wiserscollectibles.com/",
-   "games_events": [
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)",
-    "UNION ARENA (EN)"
-   ],
    "checked_at": "2026-10-15T20:10:32Z"
   },
   {

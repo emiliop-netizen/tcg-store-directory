@@ -1,8 +1,8 @@
 {
  "country": "SE",
  "currency": "SEK",
- "updated": "2026-10-15",
- "store_count": 163,
+ "updated": "2026-10-16",
+ "store_count": 182,
  "stores": [
   {
    "name": "Alara Games",
@@ -167,6 +167,15 @@
    "checked_at": "2026-10-16T03:50:57Z"
   },
   {
+   "name": "PH Asian Market Malmö",
+   "group": "in_store",
+   "region": "Skåne län",
+   "address": "Fredsgatan 12 B, 212 12 Malmö",
+   "phone": "073-985 41 78",
+   "website": "https://www.facebook.com/profile.php?id=100087650810674",
+   "checked_at": "2026-10-16T03:51:05Z"
+  },
+  {
    "name": "Pralinen Tobacco & Souvenirs",
    "group": "in_store",
    "region": "Skåne län",
@@ -280,6 +289,14 @@
    "checked_at": "2026-10-16T03:52:08Z"
   },
   {
+   "name": "Adlibris Pocket",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Lokgatan 1, 211 20 Malmö",
+   "website": "https://www.adlibris.com/sv/om-adlibris/goteborg-kungsportsplatsen-1",
+   "checked_at": "2026-10-16T03:52:08Z"
+  },
+  {
    "name": "AIK Shop",
    "group": "unknown",
    "region": "Stockholms län",
@@ -294,6 +311,15 @@
    "region": "Västra Götalands län",
    "address": "Nordstan, Norra Hamngatan 26, 411 06 Göteborg",
    "phone": "010-744 19 00",
+   "website": "https://www.akademibokhandeln.se/butik/goteborg-nordstan",
+   "checked_at": "2026-10-16T03:52:18Z"
+  },
+  {
+   "name": "Akademibokhandeln",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "Marknadsgatan 1, 754 60 Uppsala",
+   "phone": "010-744 14 20",
    "website": "https://www.akademibokhandeln.se/butik/goteborg-nordstan",
    "checked_at": "2026-10-16T03:52:18Z"
   },
@@ -357,6 +383,33 @@
    "group": "unknown",
    "region": "Västra Götalands län",
    "address": "Kungsportsplatsen 1, 411 10 Göteborg",
+   "phone": "08-620 07 00",
+   "website": "https://www.atg.se/?utm_source=Google&utm_medium=GmB",
+   "checked_at": "2026-10-16T03:52:12Z"
+  },
+  {
+   "name": "ATG butik",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Amiralsgatan 96, 214 37 Malmö",
+   "phone": "08-620 07 00",
+   "website": "https://www.atg.se/?utm_source=Google&utm_medium=GmB",
+   "checked_at": "2026-10-16T03:52:12Z"
+  },
+  {
+   "name": "ATG butik",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "VÄSTER TORG 5 B, 752 43 Uppsala",
+   "phone": "08-620 07 00",
+   "website": "https://www.atg.se/?utm_source=Google&utm_medium=GmB",
+   "checked_at": "2026-10-16T03:52:12Z"
+  },
+  {
+   "name": "ATG Butik",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "Vaksalagatan 30, 753 31 Uppsala",
    "phone": "08-620 07 00",
    "website": "https://www.atg.se/?utm_source=Google&utm_medium=GmB",
    "checked_at": "2026-10-16T03:52:12Z"
@@ -490,6 +543,15 @@
    "checked_at": "2026-10-16T03:52:10Z"
   },
   {
+   "name": "Coolcard AB fd.Spel i Focus",
+   "group": "unknown",
+   "region": "Västra Götalands län",
+   "address": "Åvägen 42, 412 51 Göteborg",
+   "phone": "031-40 60 15",
+   "website": "https://www.coolcard.se",
+   "checked_at": "2026-10-16T03:50:57Z"
+  },
+  {
    "name": "Coolcard Göteborg",
    "group": "unknown",
    "region": "Värmlands län",
@@ -500,6 +562,15 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T03:50:57Z"
+  },
+  {
+   "name": "Coolcard.se",
+   "group": "unknown",
+   "region": "Värmlands län",
+   "address": "Östra Torggatan 2, 652 24 Karlstad",
+   "phone": "054-15 78 70",
+   "website": "https://www.coolcard.se",
    "checked_at": "2026-10-16T03:50:57Z"
   },
   {
@@ -514,6 +585,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:51:18Z"
+  },
+  {
+   "name": "Dragon's Lair - Sveavägen",
+   "group": "unknown",
+   "region": "Stockholms län",
+   "address": "Sveavägen 118, 113 50 Stockholm",
+   "phone": "08-654 60 50",
+   "website": "https://dragonslair.se/",
+   "checked_at": "2026-10-16T03:50:50Z"
   },
   {
    "name": "Dragons Lair - Kungsholmen",
@@ -831,11 +911,38 @@
    "checked_at": "2026-10-16T03:54:09Z"
   },
   {
+   "name": "Lekia",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Per Albin Hanssons väg 40, 214 32 Malmö",
+   "phone": "040-614 54 02",
+   "website": "https://www.lekia.se/",
+   "checked_at": "2026-10-16T03:52:18Z"
+  },
+  {
+   "name": "Lekia",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Nornegatan, 215 86 Malmö",
+   "phone": "040-643 52 50",
+   "website": "https://www.lekia.se/",
+   "checked_at": "2026-10-16T03:52:18Z"
+  },
+  {
    "name": "Lekia Nordstan",
    "group": "unknown",
    "region": "Västra Götalands län",
    "address": "Köpmansgatan 23, 411 06 Göteborg",
    "phone": "031-796 04 91",
+   "website": "https://www.lekia.se/",
+   "checked_at": "2026-10-16T03:52:18Z"
+  },
+  {
+   "name": "Lekia Uppsala",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "Bolandsgatan 20, 753 23 Uppsala",
+   "phone": "018-14 11 14",
    "website": "https://www.lekia.se/",
    "checked_at": "2026-10-16T03:52:18Z"
   },
@@ -980,6 +1087,15 @@
    "region": "Stockholms län",
    "address": "Kungsgatan 34, 111 35 Stockholm",
    "phone": "08-411 50 11",
+   "website": "https://panduro.com/sv-se/stores/panduro-hobby-stockholm-kungsgatan",
+   "checked_at": "2026-10-16T03:51:39Z"
+  },
+  {
+   "name": "Panduro",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Stora Nygatan 27 C, 211 37 Malmö",
+   "phone": "040-611 10 85",
    "website": "https://panduro.com/sv-se/stores/panduro-hobby-stockholm-kungsgatan",
    "checked_at": "2026-10-16T03:51:39Z"
   },
@@ -1410,6 +1526,24 @@
    "checked_at": "2026-10-16T03:51:28Z"
   },
   {
+   "name": "The Science Fiction Bookstore",
+   "group": "unknown",
+   "region": "Västra Götalands län",
+   "address": "Kungsgatan 19, 411 19 Göteborg",
+   "phone": "08-440 00 66",
+   "website": "https://www.sfbok.se/sv",
+   "checked_at": "2026-10-16T03:51:28Z"
+  },
+  {
+   "name": "The Science Fiction Bookstore Malmö",
+   "group": "unknown",
+   "region": "Skåne län",
+   "address": "Södra Förstadsgatan 26, 211 43 Malmö",
+   "phone": "08-440 00 66",
+   "website": "https://www.sfbok.se/sv",
+   "checked_at": "2026-10-16T03:51:28Z"
+  },
+  {
    "name": "Toyfans.se",
    "group": "unknown",
    "region": "Västra Götalands län",
@@ -1464,6 +1598,33 @@
    "checked_at": "2026-10-16T03:52:01Z"
   },
   {
+   "name": "Warhammer",
+   "group": "unknown",
+   "region": "Västra Götalands län",
+   "address": "Drottninggatan 68, 411 07 Göteborg",
+   "phone": "031-13 39 58",
+   "website": "https://www.warhammer.com/shop/Warhammer-G%C3%B6teborg",
+   "checked_at": "2026-10-16T21:51:13Z"
+  },
+  {
+   "name": "Webhallen",
+   "group": "unknown",
+   "region": "Västra Götalands län",
+   "address": "Nordstan, Postgatan 26-32, 411 06 Göteborg",
+   "phone": "08-673 60 00",
+   "website": "https://www.webhallen.com",
+   "checked_at": "2026-10-16T03:50:50Z"
+  },
+  {
+   "name": "Webhallen",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "Marknadsgatan 1, 754 60 Uppsala",
+   "phone": "08-673 60 00",
+   "website": "https://www.webhallen.com",
+   "checked_at": "2026-10-16T03:50:50Z"
+  },
+  {
    "name": "Webhallen Stockholm",
    "group": "unknown",
    "region": "Stockholms län",
@@ -1474,6 +1635,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:50:50Z"
+  },
+  {
+   "name": "Willys Uppsala Björkgatan",
+   "group": "unknown",
+   "region": "Uppsala län",
+   "address": "Björkgatan 4, 753 27 Uppsala",
+   "phone": "018-18 38 30",
+   "website": "https://www.willys.se/butik/uppsala/willys-kungsgatan-2193",
+   "checked_at": "2026-10-16T03:54:01Z"
   },
   {
    "name": "Willys Uppsala Kungsgatan",

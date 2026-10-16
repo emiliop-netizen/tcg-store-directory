@@ -2,7 +2,7 @@
  "country": "DE",
  "currency": "EUR",
  "updated": "2026-10-16",
- "store_count": 738,
+ "store_count": 893,
  "stores": [
   {
    "name": "BreakTheCase",
@@ -753,6 +753,16 @@
    "checked_at": "2026-10-16T02:39:51Z"
   },
   {
+   "name": "Frechdachs Spielwaren & Schulranzen Saarn - toys trading GmbH",
+   "group": "blocked",
+   "city": "Mülheim an der Ruhr",
+   "region": "NRW",
+   "address": "Frechdachs Spielwaren Saarn, Düsseldorfer Str. 81, 45481 Mülheim an der Ruhr",
+   "phone": "0208 94103181",
+   "website": "https://www.frechdachs-essen.de",
+   "checked_at": "2026-10-16T02:39:51Z"
+  },
+  {
    "name": "Galaxy Kiosk | Vape Shop München Laim – Elfbar, ELFA & Elfliq",
    "group": "blocked",
    "city": "München",
@@ -853,6 +863,16 @@
    "checked_at": "2026-10-16T02:28:36Z"
   },
   {
+   "name": "MORI Cards TCG Store",
+   "group": "blocked",
+   "city": "Mörfelden-Walldorf",
+   "region": "HE",
+   "address": "Waldenserstraße 85, 64546 Mörfelden-Walldorf",
+   "phone": "0176 56168739",
+   "website": "http://www.moricards.de/",
+   "checked_at": "2026-10-16T21:47:42Z"
+  },
+  {
    "name": "MUJI",
    "group": "blocked",
    "city": "Düsseldorf",
@@ -873,6 +893,16 @@
    "checked_at": "2026-10-16T02:39:36Z"
   },
   {
+   "name": "Osiander",
+   "group": "blocked",
+   "city": "Stuttgart",
+   "region": "BW",
+   "address": "Sophienstraße 21, 70178 Stuttgart",
+   "phone": "0711 6456650",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
    "name": "Playgrand Casino",
    "group": "blocked",
    "city": "Frankfurt am Main",
@@ -881,6 +911,15 @@
    "phone": "01512 4810114",
    "website": "https://rollingslots555.com/en-ca?stag=118088_6ad18e132a9230f6f120b095&s2=3sj3c9uc9464&tracking_link=http%3A%2F%2Fgorollingslots.com%2Fdzfgwxnj2",
    "checked_at": "2026-10-16T02:38:09Z"
+  },
+  {
+   "name": "Sammelkartenmarkt Ltd. & Co KG / Cardmarket",
+   "group": "blocked",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Nordkapstraße 4, 10439 Berlin",
+   "website": "https://www.cardmarket.com/de/FleshAndBlood/Users/TheCoonRises",
+   "checked_at": "2026-10-16T02:33:40Z"
   },
   {
    "name": "Spiele-Pyramide - Karlsruhe",
@@ -973,6 +1012,86 @@
    "checked_at": "2026-10-16T02:35:10Z"
   },
   {
+   "name": "Thalia",
+   "group": "blocked",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Ballindamm 40, 20095 Hamburg",
+   "phone": "040 30954980",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia",
+   "group": "blocked",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Friedrichstraße 129-133, 40217 Düsseldorf-Stadtbezirk 3",
+   "phone": "0211 8763010",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia",
+   "group": "blocked",
+   "city": "Bremen",
+   "region": "HB",
+   "address": "Obernstraße 44-54, 28195 Bremen",
+   "phone": "0421 168343",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia Dresden - Haus des Buches",
+   "group": "blocked",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Dr. -Külz-Ring 12, 01067 Dresden-Altstadt",
+   "phone": "0351 497360",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia Mayersche Dortmund",
+   "group": "blocked",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Westenhellweg 40-42, 44137 Dortmund",
+   "phone": "0231 809050",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia Mayersche Essen Innenstadt",
+   "group": "blocked",
+   "city": "E",
+   "region": "NRW",
+   "address": "Kettwiger Str. 35, 45127 Essen",
+   "phone": "0201 365670",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia Mayersche Köln - Neumarkt",
+   "group": "blocked",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Neumarkt 2, 50667 Köln",
+   "phone": "0221 203070",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
+   "name": "Thalia Nürnberg",
+   "group": "blocked",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Karolinenstraße 53, 90402 Nürnberg",
+   "phone": "0911 992080",
+   "website": "https://www.thalia.de/buchhandlung/5554?utm_source=google&utm_medium=gmb&utm_campaign=website&utm_content=berlin",
+   "checked_at": "2026-10-16T02:35:10Z"
+  },
+  {
    "name": "Toy Paradise Wagner oHG",
    "group": "blocked",
    "city": "BO",
@@ -983,12 +1102,52 @@
    "checked_at": "2026-10-16T02:40:04Z"
   },
   {
+   "name": "Toysino",
+   "group": "blocked",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Im Rhein-Center, Aachener Str. 1253, 50858 Köln",
+   "phone": "02234 9489681",
+   "website": "https://www.thalia.de/vorteile/filiale/toysino",
+   "checked_at": "2026-10-16T02:35:55Z"
+  },
+  {
+   "name": "Toysino",
+   "group": "blocked",
+   "city": "E",
+   "region": "NRW",
+   "address": "Altenessener Str. 411, 45329 Essen",
+   "phone": "0201 36197985",
+   "website": "https://www.thalia.de/vorteile/filiale/toysino",
+   "checked_at": "2026-10-16T02:35:55Z"
+  },
+  {
+   "name": "Toysino Filiale Dresden",
+   "group": "blocked",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "In der Altmarkt-Galerie, Webergasse 1, 01067 Dresden",
+   "phone": "0351 82120048",
+   "website": "https://www.thalia.de/vorteile/filiale/toysino",
+   "checked_at": "2026-10-16T02:35:55Z"
+  },
+  {
    "name": "Toysino Filiale Hamburg - vorher myToys",
    "group": "blocked",
    "city": "Hamburg",
    "region": "HH",
    "address": "Perle Hamburg im EG1, Spitalerstraße 22, 20095 Hamburg",
    "phone": "040 76754570",
+   "website": "https://www.thalia.de/vorteile/filiale/toysino",
+   "checked_at": "2026-10-16T02:35:55Z"
+  },
+  {
+   "name": "Toysino Filiale München",
+   "group": "blocked",
+   "city": "München",
+   "region": "BY",
+   "address": "In den Riem Acarden, Willy-Brandt-Platz 5, 81829 München",
+   "phone": "089 43577955",
    "website": "https://www.thalia.de/vorteile/filiale/toysino",
    "checked_at": "2026-10-16T02:35:55Z"
   },
@@ -1018,6 +1177,16 @@
    "checked_at": "2026-10-16T02:31:08Z"
   },
   {
+   "name": "Welt der Karten Berlin",
+   "group": "blocked",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Ehrlichstraße 22, 10318 Berlin",
+   "phone": "030 20847733",
+   "website": "https://weltderkarten-berlin.de/",
+   "checked_at": "2026-10-16T21:47:38Z"
+  },
+  {
    "name": "Zum Waschbären - Coon Cave",
    "group": "blocked",
    "city": "Ulm",
@@ -1029,6 +1198,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:33:40Z"
+  },
+  {
+   "name": "1A Gamer Lounge",
+   "group": "in_store",
+   "city": "Augsburg",
+   "region": "Bayern",
+   "address": "Jakoberstraße 29, 86152 Augsburg, Germany, Augsburg, Bayern, 86152",
+   "phone": "017683059979",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "A&TZTCGpower",
@@ -1064,6 +1245,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:34:40Z"
+  },
+  {
+   "name": "AnGer Hobbystore",
+   "group": "in_store",
+   "city": "Berlin",
+   "region": "Berlin",
+   "address": "Allee der Kosmonauten 26, 12681 Berlin-Bezirk Marzahn-Hellersdorf, Germany, Berlin, Berlin, 12681",
+   "phone": "+49 176 56153848",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:38Z"
   },
   {
    "name": "Ankauf Bender (ex AB Games)",
@@ -1102,6 +1295,15 @@
    "checked_at": "2026-10-16T02:35:54Z"
   },
   {
+   "name": "Atomax",
+   "group": "in_store",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Berger Str. 25, 40213 Düsseldorf",
+   "phone": "0211 30035006",
+   "checked_at": "2026-10-16T21:47:42Z"
+  },
+  {
    "name": "AuraTcg",
    "group": "in_store",
    "city": "Heilbronn",
@@ -1138,6 +1340,16 @@
    "website": "https://www.bb-land.de/",
    "buylist_url": "http://www.bb-land.de/",
    "checked_at": "2026-10-16T02:34:41Z"
+  },
+  {
+   "name": "Be Cards - Trading Cards An- und Verkauf TCG Play Store Games Anime & More One Piece Pokémon Magic",
+   "group": "in_store",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Friedrichstraße 7, 40217 Düsseldorf",
+   "phone": "0211 87630282",
+   "website": "https://www.instagram.com/be_cards_duesseldorf?igsh=empxajJhcjBkdXNm",
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Bellevue",
@@ -1183,6 +1395,16 @@
    "checked_at": "2026-10-16T02:38:19Z"
   },
   {
+   "name": "Bros Toys GmbH",
+   "group": "in_store",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Süderquerweg 99, 21037 Hamburg",
+   "phone": "040 66907115",
+   "website": "https://www.instagram.com/brostoys_gmbh",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Bunte Kiste",
    "group": "in_store",
    "city": "Herten",
@@ -1190,6 +1412,18 @@
    "address": "Marktpl. 1, 45699 Herten",
    "phone": "02366 9405420",
    "checked_at": "2026-10-16T02:39:51Z"
+  },
+  {
+   "name": "CapsuleCards",
+   "group": "in_store",
+   "city": "Lüdenscheid",
+   "region": "Nordrhein-Westfalen",
+   "address": "Werdohler Str. 94, 58511 Lüdenscheid, Germany, Lüdenscheid, Nordrhein-Westfalen, 58511",
+   "phone": "+49 1522 5281661",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Card Club. Malina und Scholl GbR",
@@ -1218,6 +1452,26 @@
    "region": "NRW",
    "address": "Bahnhofstraße 4, 53783 Eitorf",
    "checked_at": "2026-10-16T02:37:22Z"
+  },
+  {
+   "name": "COMIC CENTRUM OBERHAUSEN",
+   "group": "in_store",
+   "city": "Oberhausen",
+   "region": "NRW",
+   "address": "Havensteinstraße 48, 46045 Oberhausen",
+   "phone": "0208 27005",
+   "website": "http://www.facebook.com/ComicZentrum",
+   "checked_at": "2026-10-16T02:29:53Z"
+  },
+  {
+   "name": "Comic Zentrum Essen",
+   "group": "in_store",
+   "city": "E",
+   "region": "NRW",
+   "address": "Kreuzeskirchstraße 31, 45127 Essen",
+   "phone": "0201 233471",
+   "website": "http://www.facebook.com/c.z.essen",
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "Comic-Treff Duisburg",
@@ -1306,6 +1560,16 @@
    "checked_at": "2026-10-16T02:36:34Z"
   },
   {
+   "name": "Der Papierladen Mesecke",
+   "group": "in_store",
+   "city": "Hannover",
+   "region": "NDS",
+   "address": "0511-669353, Jakobistraße 26, 30163 Hannover",
+   "phone": "0511 669353",
+   "website": "https://www.facebook.com/Papierladen.Hannover",
+   "checked_at": "2026-10-16T02:29:53Z"
+  },
+  {
    "name": "Der Tabletopper KG",
    "group": "in_store",
    "address": "Steinweg 35, Jena, TH, 07743, Germany",
@@ -1315,6 +1579,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:32:27Z"
+  },
+  {
+   "name": "Dice Heart - Boardgame Café - Brettspiel Café",
+   "group": "in_store",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Fürbringerstraße 22, 10961 Berlin",
+   "phone": "0176 31505890",
+   "website": "https://www.instagram.com/diceheart.berlin?igsh=c2p6cTNid3N3bDNv&utm_source=qr",
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Dnt83 Collectibles",
@@ -1440,6 +1714,17 @@
    "checked_at": "2026-10-16T02:39:28Z"
   },
   {
+   "name": "GAMEPHORIA",
+   "group": "in_store",
+   "city": "Bretten",
+   "region": "Baden-Württemberg",
+   "address": "Weißhoferstraße 14, 75015 Bretten, Germany, Bretten, Baden-Württemberg, 75015",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
    "name": "GamePlace - Klein-Neerken",
    "group": "in_store",
    "city": "Berlin",
@@ -1447,6 +1732,15 @@
    "address": "Schwalbacher Str. 5, 12161 Berlin-Bezirk Tempelhof-Schöneberg",
    "phone": "0176 51445157",
    "checked_at": "2026-10-16T02:35:54Z"
+  },
+  {
+   "name": "Games Time",
+   "group": "in_store",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Brackeler Hellweg 128, 44309 Dortmund",
+   "phone": "0178 4785670",
+   "checked_at": "2026-10-16T21:47:43Z"
   },
   {
    "name": "Gameshop OnPoint - Spielkonsolen und Spieleladen - Neu & Retro",
@@ -1548,6 +1842,14 @@
    "checked_at": "2026-10-16T02:39:11Z"
   },
   {
+   "name": "J-Productions TCG Store",
+   "group": "in_store",
+   "city": "Heusenstamm",
+   "region": "HE",
+   "address": "Gebäuderückseite, Leibnizstraße 13, 63150 Heusenstamm",
+   "checked_at": "2026-10-16T21:47:42Z"
+  },
+  {
    "name": "JCM-Store",
    "group": "in_store",
    "city": "E",
@@ -1563,6 +1865,18 @@
    "address": "Benno-Strauß-Straße, 90763 Fürth",
    "phone": "055 373 2809",
    "checked_at": "2026-10-16T02:41:16Z"
+  },
+  {
+   "name": "Jolly Roger Games",
+   "group": "in_store",
+   "city": "Bochum",
+   "region": "Nordrhein-Westfalen",
+   "address": "Dorstener Str. 91, 44809 Bochum, Germany, Bochum, Nordrhein-Westfalen, 44809",
+   "phone": "0234 41403220",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Jolly Roger Games GmbH",
@@ -1597,6 +1911,27 @@
    "checked_at": "2026-10-16T02:34:24Z"
   },
   {
+   "name": "Karten-Lounge",
+   "group": "in_store",
+   "city": "Dortmund",
+   "region": "Nordrhein-Westfalen",
+   "address": "Alfred-Trappen-Straße 18, 44263 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44263",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
+   "name": "Kindheitshelden",
+   "group": "in_store",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Asselner Hellweg 110, 44319 Dortmund-Brackel",
+   "phone": "015511 521869",
+   "website": "http://www.instagram.com/kindheitshelden_do",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "KiosXtore",
    "group": "in_store",
    "city": "ERH",
@@ -1605,6 +1940,16 @@
    "phone": "0176 82366855",
    "website": "https://www.kiosxtore.com/",
    "checked_at": "2026-10-16T02:40:56Z"
+  },
+  {
+   "name": "Lamar Clone Card vendor",
+   "group": "in_store",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Berliner Tor, 20095 Hamburg",
+   "phone": "6 93 07 82 02",
+   "website": "https://www.facebook.com/share/19yS8YPB9u/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "Legendary Loot",
@@ -1636,6 +1981,18 @@
    "checked_at": "2026-10-16T02:39:01Z"
   },
   {
+   "name": "Luke´s Cardshop",
+   "group": "in_store",
+   "city": "Schönaich",
+   "region": "Baden-Württemberg",
+   "address": "Lange Str. 17, 71101 Schönaich, Germany, Schönaich, Baden-Württemberg, 71101",
+   "phone": "+49 1517 4102220",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
    "name": "MaWaBu",
    "group": "in_store",
    "city": "Bielefeld",
@@ -1650,6 +2007,16 @@
    "checked_at": "2026-10-16T02:28:40Z"
   },
   {
+   "name": "Mega Evolution Vaul",
+   "group": "in_store",
+   "city": "München",
+   "region": "BY",
+   "address": "Heiglhofstraße 69, 81377 München",
+   "phone": "01521 6221347",
+   "website": "https://www.facebook.com/share/g/1D63pmQSdw/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T02:29:53Z"
+  },
+  {
    "name": "Metacards",
    "group": "in_store",
    "city": "Idstein",
@@ -1657,6 +2024,14 @@
    "address": "Kreuzgasse 5, 65510 Idstein",
    "phone": "01573 6255337",
    "checked_at": "2026-10-16T02:38:17Z"
+  },
+  {
+   "name": "Mighty Cards",
+   "group": "in_store",
+   "city": "E",
+   "region": "NRW",
+   "address": "An d. Schlaghecke 7, 45359 Essen",
+   "checked_at": "2026-10-16T21:47:43Z"
   },
   {
    "name": "Miniso",
@@ -1751,6 +2126,17 @@
    "checked_at": "2026-10-16T02:34:39Z"
   },
   {
+   "name": "Onii-San Cardhouse",
+   "group": "in_store",
+   "city": "Pforzheim",
+   "region": "Baden-Württemberg",
+   "address": "Durlacher Str. 70, 75172 Pforzheim, Germany, Pforzheim, Baden-Württemberg, 75172",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:38Z"
+  },
+  {
    "name": "Outer World 0711",
    "group": "in_store",
    "city": "Stuttgart",
@@ -1816,6 +2202,24 @@
    "checked_at": "2026-10-16T02:37:22Z"
   },
   {
+   "name": "PokéXpert - Spielwarengeschäft - Sammelkarten & mehr!",
+   "group": "in_store",
+   "city": "Norderstedt",
+   "region": "SH",
+   "address": "Schmuggelstieg 6, 22848 Norderstedt",
+   "website": "https://www.instagram.com/pokexpert.shop/",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
+   "name": "POYU - Anime & Cards",
+   "group": "in_store",
+   "city": "Ratingen",
+   "region": "NRW",
+   "address": "Kaiserswerther Str. 43, 40878 Ratingen",
+   "website": "https://www.instagram.com/poyu.de?igsh=MTRneWZhYnNva3BteA==",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "PPS Concept Store",
    "group": "in_store",
    "city": "DO",
@@ -1857,6 +2261,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:33:11Z"
+  },
+  {
+   "name": "Ruhrpott TCG Shop",
+   "group": "in_store",
+   "city": "DU",
+   "region": "NRW",
+   "address": "Heisingstraße 2, 47137 Duisburg-Meiderich/Beeck",
+   "website": "https://www.instagram.com/ruhrpotttcgshop?igsh=dm42c3cyeWJjazZw",
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Rü-Rabauken",
@@ -1940,6 +2353,16 @@
    "checked_at": "2026-10-16T02:39:07Z"
   },
   {
+   "name": "Spielboutique",
+   "group": "in_store",
+   "city": "Stein",
+   "region": "BY",
+   "address": "Hauptstraße 40, 90547 Stein",
+   "phone": "01573 6199765",
+   "website": "https://www.instagram.com/spielboutique/",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Spiele Insel",
    "group": "in_store",
    "city": "Berlin",
@@ -1977,6 +2400,16 @@
    "address": "Dobbheide 30, 28755 Vegesack",
    "phone": "0421 654625",
    "checked_at": "2026-10-16T02:40:11Z"
+  },
+  {
+   "name": "Spielwaren Seidel",
+   "group": "in_store",
+   "city": "Leipzig",
+   "region": "SN",
+   "address": "Ossietzkystraße 16, 04347 Leipzig-Nordost",
+   "phone": "0341 2330177",
+   "website": "https://www.facebook.com/profile.php?id=61573776208479",
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "Sport Casino",
@@ -2104,6 +2537,16 @@
    "checked_at": "2026-10-16T02:34:32Z"
   },
   {
+   "name": "Toys & Office Supplies Sinner",
+   "group": "in_store",
+   "city": "Stuttgart",
+   "region": "BW",
+   "address": "Filderhauptstraße 55A, 70599 Stuttgart-Plieningen",
+   "phone": "0711 4586664",
+   "website": "https://www.instagram.com/spielwaren_sinner/?hl=de",
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "TW's Brickznmore",
    "group": "in_store",
    "city": "Homburg",
@@ -2133,6 +2576,25 @@
    "address": "KönigStr. 14, 70173 Stuttgart",
    "phone": "0176 42107086",
    "checked_at": "2026-10-16T02:38:45Z"
+  },
+  {
+   "name": "Wunderhöhle",
+   "group": "in_store",
+   "city": "Dortmund",
+   "region": "Nordrhein-Westfalen",
+   "address": "Rheinlanddamm 101, 44139 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44139",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
+   "name": "Wunderhöhle",
+   "group": "in_store",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Rheinlanddamm 101, 44139 Innenstadt-Ost",
+   "checked_at": "2026-10-16T21:47:43Z"
   },
   {
    "name": "Wundertüte Brühl",
@@ -2426,6 +2888,16 @@
    "checked_at": "2026-10-16T02:37:47Z"
   },
   {
+   "name": "ARLT Computer Nürnberg",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Am Plärrer 8, 90429 Nürnberg",
+   "phone": "0911 2723870",
+   "website": "https://www.arlt.com/Filialen/Frankfurt/",
+   "checked_at": "2026-10-16T02:37:47Z"
+  },
+  {
    "name": "ART 'N' CARD",
    "group": "unknown",
    "city": "Bremen",
@@ -2505,6 +2977,17 @@
    "checked_at": "2026-10-16T02:31:17Z"
   },
   {
+   "name": "Auenland - Dortmund",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Schwanenwall 7, 44135 Dortmund-Innenstadt-West",
+   "phone": "0231 529855",
+   "website": "https://auenland.de/",
+   "buylist_url": "https://auenland.de/karten-ankauf/",
+   "checked_at": "2026-10-16T02:31:17Z"
+  },
+  {
    "name": "ax.cards",
    "group": "unknown",
    "city": "E",
@@ -2554,6 +3037,16 @@
    "games_events": [
     "Flesh and Blood"
    ],
+   "checked_at": "2026-10-16T02:33:34Z"
+  },
+  {
+   "name": "Battle Bear Trading Cards & Games",
+   "group": "unknown",
+   "city": "KL",
+   "region": "RP",
+   "address": "Fruchthallstraße 31, 67655 Kaiserslautern",
+   "phone": "0631 35477280",
+   "website": "https://www.battle-bear.de/",
    "checked_at": "2026-10-16T02:33:34Z"
   },
   {
@@ -2661,6 +3154,15 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:30:25Z"
+  },
+  {
+   "name": "Black Cat Games - TCG und Brettspiele",
+   "group": "unknown",
+   "city": "West",
+   "region": "NRW",
+   "address": "Briller Str. 23A, 42105 Wuppertal",
+   "website": "https://www.bcg-wuppertal.de/",
    "checked_at": "2026-10-16T02:30:25Z"
   },
   {
@@ -2946,6 +3448,19 @@
    "checked_at": "2026-10-16T02:35:39Z"
   },
   {
+   "name": "BuiBui - Games&Cards",
+   "group": "unknown",
+   "city": "Laatzen",
+   "region": "Niedersachsen",
+   "address": "Hildesheimer Str. 54A, 30880 Laatzen, Germany, Laatzen, Niedersachsen, 30880",
+   "phone": "0176 66403571",
+   "website": "https://www.ebay.de/str/medibuy24xmediagames",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:39:44Z"
+  },
+  {
    "name": "BVB-FanWelt",
    "group": "unknown",
    "city": "DO",
@@ -2999,6 +3514,38 @@
    "checked_at": "2026-10-16T02:37:51Z"
   },
   {
+   "name": "Calumet Photo Video Nürnberg",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Hansastraße 33, 90441 Nürnberg",
+   "phone": "0911 98249810",
+   "website": "https://www.calumet.de/store/frankfurt?utm_source=google-my-business&utm_medium=organic&utm_campaign=company-profile_website-link_stores_f_cal",
+   "buylist_url": "https://www.calumet.de/kameras-und-objektive-verkaufen",
+   "checked_at": "2026-10-16T02:37:51Z"
+  },
+  {
+   "name": "Calumet Photographic Düsseldorf",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Suitbertusstraße 137, 40223 Düsseldorf-Stadtbezirk 3",
+   "phone": "0211 9388460",
+   "website": "https://www.calumet.de/store/frankfurt?utm_source=google-my-business&utm_medium=organic&utm_campaign=company-profile_website-link_stores_f_cal",
+   "buylist_url": "https://www.calumet.de/kameras-und-objektive-verkaufen",
+   "checked_at": "2026-10-16T02:37:51Z"
+  },
+  {
+   "name": "Capito - Der Spieleladen Dresden",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Rothenburger Str. 11, 01099 Neustadt",
+   "phone": "0351 8021701",
+   "website": "https://www.ctoy.de/",
+   "checked_at": "2026-10-16T02:39:28Z"
+  },
+  {
    "name": "Capito - Der Spieleladen Leipzig 1",
    "group": "unknown",
    "city": "Leipzig",
@@ -3016,6 +3563,16 @@
    "address": "Metzer Str. 25, 50677 Köln",
    "website": "https://cbg.cologne/",
    "checked_at": "2026-10-16T02:37:09Z"
+  },
+  {
+   "name": "Card & Soul",
+   "group": "unknown",
+   "city": "Troisdorf",
+   "region": "NRW",
+   "address": "Alte Poststraße 12, 53840 Troisdorf",
+   "phone": "0177 8676070",
+   "website": "https://cardandsoul.de/",
+   "checked_at": "2026-10-16T21:47:42Z"
   },
   {
    "name": "Card Club",
@@ -3130,6 +3687,18 @@
    "checked_at": "2026-10-16T02:34:32Z"
   },
   {
+   "name": "CardCosmos Store Flensburg",
+   "group": "unknown",
+   "city": "Flensburg",
+   "region": "Schleswig-Holstein",
+   "address": "Neue Str. 10, 24939 Flensburg-Altstadt, Germany, Flensburg, Schleswig-Holstein, 24939",
+   "website": "https://cardcosmos.de",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:34:32Z"
+  },
+  {
    "name": "CardGalaxy",
    "group": "unknown",
    "city": "Oberhausen",
@@ -3143,6 +3712,17 @@
    "checked_at": "2026-10-16T02:33:56Z"
   },
   {
+   "name": "CardInvestor Mönchengladbach Sammelkarten, Manga & Anime Pokemon, Yugioh, One Piece",
+   "group": "unknown",
+   "city": "MG",
+   "region": "NRW",
+   "address": "Stepgesstraße 54, 41061 Mönchengladbach",
+   "phone": "0176 43895730",
+   "website": "https://www.cardinvestor.de/",
+   "buylist_url": "https://www.cardinvestor.de/ankauf",
+   "checked_at": "2026-10-16T02:30:22Z"
+  },
+  {
    "name": "Cards Central",
    "group": "unknown",
    "city": "Gelsenkirchen",
@@ -3154,6 +3734,15 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:31:08Z"
+  },
+  {
+   "name": "Cards Central Gelsenkirchen",
+   "group": "unknown",
+   "city": "GE",
+   "region": "NRW",
+   "address": "Spiekermannstraße 11, 45891 Gelsenkirchen",
+   "website": "https://www.cardscentral.de/",
    "checked_at": "2026-10-16T02:31:08Z"
   },
   {
@@ -3188,6 +3777,20 @@
    "website": "https://www.cardsparadise.com/",
    "buylist_url": "https://www.cardsparadise.com/retailer/buylist",
    "checked_at": "2026-10-16T02:37:48Z"
+  },
+  {
+   "name": "Cardtrader24",
+   "group": "unknown",
+   "city": "Lage",
+   "region": "Nordrhein-Westfalen",
+   "address": "Friedrichstraße 5A, 32791 Lage, Germany, Lage, Nordrhein-Westfalen, 32791",
+   "phone": "017627989822",
+   "website": "https://www.cardtrader24.de",
+   "buylist_url": "https://www.cardtrader24.de/ankauf/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Carduniverse",
@@ -3271,6 +3874,15 @@
    "phone": "06103 9885170",
    "website": "http://collect-it.de/",
    "checked_at": "2026-10-16T02:37:37Z"
+  },
+  {
+   "name": "Collectors Of Pokemon",
+   "group": "unknown",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Kühnehöfe 12, 22761 Hamburg-Altona",
+   "website": "https://api.whatsapp.com/send/?phone=%2B237682257749&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:34:55Z"
   },
   {
    "name": "Collectorscards",
@@ -3374,6 +3986,20 @@
    "checked_at": "2026-10-16T02:39:39Z"
   },
   {
+   "name": "Comic Planet Osnabrück",
+   "group": "unknown",
+   "city": "Osnabrück",
+   "region": "Niedersachsen",
+   "address": "Hakenstraße 20, 49074 Osnabrück, Germany, Osnabrück, Niedersachsen, 49074",
+   "phone": "+49 541 2023163",
+   "website": "https://www.comicplanet.de",
+   "buylist_url": "https://www.comicplanet.de/landingpages/manga-ankauf/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:30:44Z"
+  },
+  {
    "name": "Comic Room",
    "group": "unknown",
    "city": "Hamburg",
@@ -3382,6 +4008,17 @@
    "phone": "040 25496088",
    "website": "https://www.comicroom-hamburg.de/",
    "checked_at": "2026-10-16T02:35:55Z"
+  },
+  {
+   "name": "Comic Tempel GmbH",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Hertha-Lindner-Straße 12, 01067 Dresden-Altstadt",
+   "phone": "0351 79625761",
+   "website": "https://www.comic-tempel.de/",
+   "buylist_url": "https://www.comic-tempel.de/gutscheine-238/",
+   "checked_at": "2026-10-16T02:32:18Z"
   },
   {
    "name": "Comic-Galerie Codina Koch GmbH",
@@ -3573,6 +4210,8 @@
   {
    "name": "Creative4Fun GmbH",
    "group": "unknown",
+   "city": "Mettmann",
+   "region": "NRW",
    "address": "Talstraße 10, Mettmann, Nordrhein Westfalen, 40822, Germany",
    "phone": "+4921048176441",
    "website": "https://creative4fun.de/",
@@ -3689,9 +4328,21 @@
    "city": "Berlin",
    "region": "BE",
    "address": "Hauptstraße 68, 12159 Berlin",
-   "phone": "(747) 354-1592",
    "website": "https://api.whatsapp.com/send/?phone=%2B237682257749&text&type=phone_number&app_absent=0",
    "checked_at": "2026-10-16T02:34:55Z"
+  },
+  {
+   "name": "DemonicalTCG",
+   "group": "unknown",
+   "city": "Erbach",
+   "region": "Hessen",
+   "address": "Am Schloßgraben 6, 64711 Erbach, Germany, Erbach, Hessen, 64711",
+   "phone": "015566255161",
+   "website": "https://www.kleinanzeigen.de/pro/demonicaltcg?utm_source=sharesheet&utm_medium=social&utm_campaign=socialbuttons&utm_content=app_android",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Dennis The Ripper – Flagship Store Hannover",
@@ -3825,6 +4476,17 @@
    "checked_at": "2026-10-16T02:36:02Z"
   },
   {
+   "name": "Drachenheld Münster",
+   "group": "unknown",
+   "city": "Münster",
+   "region": "NRW",
+   "address": "Salzstraße 35, 48143 Münster",
+   "phone": "0173 6244521",
+   "website": "https://www.drachenheld.de",
+   "buylist_url": "https://www.drachenheld.de/ankauf/",
+   "checked_at": "2026-10-16T02:32:37Z"
+  },
+  {
    "name": "Drachental",
    "group": "unknown",
    "city": "Düsseldorf",
@@ -3844,6 +4506,19 @@
    "region": "Saarland",
    "address": "Mainzer Str. 39, 66111 Saarbrücken, Germany, Saarbrücken, Saarland, 66111",
    "phone": "004968168828158",
+   "website": "https://dragonlordgames.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:33:31Z"
+  },
+  {
+   "name": "Dragonlord Games Würzburg",
+   "group": "unknown",
+   "city": "Würzburg",
+   "region": "Bayern",
+   "address": "Wenzelstraße 18, 97084 Würzburg, Germany, Würzburg, Bayern, 97084",
+   "phone": "+49(0)15251421183",
    "website": "https://dragonlordgames.de/",
    "games_events": [
     "Flesh and Blood"
@@ -3946,6 +4621,126 @@
    "region": "BE",
    "address": "Grunerstraße 20 Alexa Shopping Centre Erdgeschoss, Mitte, 10179 Berlin",
    "phone": "030 84711008",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Ballindamm 40, 20095 Hamburg",
+   "phone": "040 30034993",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Neuhauser Str. 15, 80331 München",
+   "phone": "089 74500837",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Hohe Str. 134, 50667 Köln",
+   "phone": "0221 27098322",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Frankfurt am Main",
+   "region": "HE",
+   "address": "Zeil 106, 60313 Frankfurt am Main",
+   "phone": "069 21658817",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Stuttgart",
+   "region": "BW",
+   "address": "Mailänder Platz 7 Milaneo, Untergeschoss, Stuttgart-Mitte, 70173 Stuttgart",
+   "phone": "0711 87032654",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Flinger Str. 54, 40213 Düsseldorf",
+   "phone": "0211 88934879",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Thier Galerie, Westenhellweg 102-106, 44137 Dortmund-Innenstadt-West",
+   "phone": "0231 18582560",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Limbecker Pl. 1a, 45127 Essen",
+   "phone": "0201 26980285",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Bremen",
+   "region": "HB",
+   "address": "Waterfront, AG-Weser-Straße 3, 28237 Bremen",
+   "phone": "0421 61940425",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Galerie, UG, Altmarkt 25, 01067 Dresden",
+   "phone": "0351 26351810",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Hannover",
+   "region": "NDS",
+   "address": "Ernst-August-Galerie UG, Untergeschoss, Ernst-August-Platz 2, 30159 Hannover",
+   "phone": "0511 12361686",
+   "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
+   "checked_at": "2026-10-16T02:34:54Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Breite G. 16, 90402 Nürnberg",
+   "phone": "0911 21108115",
    "website": "https://elbenwald.de/pages/stores/elbenwald-store-berlin",
    "checked_at": "2026-10-16T02:34:54Z"
   },
@@ -4174,6 +4969,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:31:05Z"
+  },
+  {
+   "name": "Figuya Store Dresden",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Prager Str. 4A, 01069 Dresden",
+   "phone": "0351 86295867",
+   "website": "https://figuya.com/de/stores/fxk-store-berlin",
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Figuya x Konsolenkost - Bikini Berlin",
@@ -4414,6 +5219,16 @@
    "checked_at": "2026-10-16T02:34:39Z"
   },
   {
+   "name": "Games broker Dresden UG (limited liability)",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Trachenberger Str. 23, 01129 Dresden-Pieschen",
+   "phone": "0351 84229874",
+   "website": "https://www.kleinanzeigen.de/pro/gamesbroker",
+   "checked_at": "2026-10-16T21:47:43Z"
+  },
+  {
    "name": "Games Garden Video Game Store Nuremberg",
    "group": "unknown",
    "city": "Nürnberg",
@@ -4436,6 +5251,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:34:28Z"
+  },
+  {
+   "name": "Games World 89",
+   "group": "unknown",
+   "city": "ERH",
+   "region": "BY",
+   "address": "Tennenloher Str. 12, 91058 Erlangen",
+   "phone": "09131 9111833",
+   "website": "https://www.ebay.de/str/medibuy24xmediagames",
+   "checked_at": "2026-10-16T02:39:44Z"
   },
   {
    "name": "Games-Café",
@@ -4472,6 +5297,28 @@
    "checked_at": "2026-10-16T02:36:40Z"
   },
   {
+   "name": "Gate to the Games",
+   "group": "unknown",
+   "city": "Sülzetal",
+   "region": "SA",
+   "address": "Lange Göhren 6, 39171 Sülzetal",
+   "phone": "039205 40800",
+   "website": "https://www.gate-to-the-games.de",
+   "buylist_url": "https://www.gate-to-the-games.de/info/Kartenankauf",
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
+   "name": "Gate to the Games",
+   "group": "unknown",
+   "city": "NMS",
+   "region": "SH",
+   "address": "Gänsemarkt 1, 24534 Neumünster",
+   "phone": "0800 8844233",
+   "website": "https://www.gate-to-the-games.de",
+   "buylist_url": "https://www.gate-to-the-games.de/info/Kartenankauf",
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Gate to the Games Berlin",
    "group": "unknown",
    "city": "Berlin",
@@ -4483,6 +5330,28 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
+   "name": "Gate to the Games Leipzig",
+   "group": "unknown",
+   "city": "Leipzig",
+   "region": "SN",
+   "address": "Richard-Wagner-Straße 9 Objekt am Hallischen Tor 1, Brühl 33, 04109 Leipzig",
+   "phone": "0341 91025937",
+   "website": "https://www.gate-to-the-games.de",
+   "buylist_url": "https://www.gate-to-the-games.de/info/Kartenankauf",
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
+   "name": "Gate to the Games Potsdam",
+   "group": "unknown",
+   "city": "P",
+   "region": "BB",
+   "address": "Kurfürstenstraße 1, 14467 Potsdam",
+   "phone": "0331 60061336",
+   "website": "https://www.gate-to-the-games.de",
+   "buylist_url": "https://www.gate-to-the-games.de/info/Kartenankauf",
    "checked_at": "2026-10-16T02:28:27Z"
   },
   {
@@ -4522,6 +5391,8 @@
   {
    "name": "Ghostcards",
    "group": "unknown",
+   "city": "Dinslaken",
+   "region": "NRW",
    "address": "Neutor-Galerie, Saarstraße 15/1.OG, Dinslaken, Nordrhein Westfalen, 46535, Germany",
    "phone": "+4917637062062",
    "website": "https://ghostcards.de/",
@@ -4707,6 +5578,18 @@
    "checked_at": "2026-10-16T02:29:06Z"
   },
   {
+   "name": "Heaven's Door",
+   "group": "unknown",
+   "city": "Berlin",
+   "region": "Berlin",
+   "address": "Wilhelminenhofstraße 64, 12459 Berlin, Germany, Berlin, Berlin, 12459",
+   "website": "https://www.heavensdoorberlin.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
    "name": "Heimspiel Games",
    "group": "unknown",
    "city": "München",
@@ -4788,6 +5671,31 @@
    "address": "Anna-Zammert-Straße 28, 30171 Hannover",
    "website": "https://hi-score.org/",
    "checked_at": "2026-10-16T02:41:04Z"
+  },
+  {
+   "name": "Highlander Games",
+   "group": "unknown",
+   "city": "Bochum",
+   "region": "Nordrhein-Westfalen",
+   "address": "Südring 21, 44787 Bochum, Germany, Bochum, Nordrhein-Westfalen, 44787",
+   "phone": "+49 234 67371",
+   "website": "https://www.highlander-games.de/",
+   "buylist_url": "https://www.highlander-games.de/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
+   "name": "Highlander Games",
+   "group": "unknown",
+   "city": "BO",
+   "region": "NRW",
+   "address": "Huestraße 20, 44787 Bochum",
+   "phone": "0234 97659700",
+   "website": "https://highlander-games.de/",
+   "buylist_url": "https://highlander-games.de/retailer/buylist",
+   "checked_at": "2026-10-16T21:47:43Z"
   },
   {
    "name": "Highlander Games - Bremen",
@@ -4994,6 +5902,29 @@
    "checked_at": "2026-10-16T02:30:24Z"
   },
   {
+   "name": "ITEMSTAR",
+   "group": "unknown",
+   "city": "Oldenburg",
+   "region": "Niedersachsen",
+   "address": "Haarenstraße 43, 26122 Oldenburg, Germany, Oldenburg, Niedersachsen, 26122",
+   "phone": "+49 441 77067953",
+   "website": "https://www.itemstar.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
+  },
+  {
+   "name": "Itemstar",
+   "group": "unknown",
+   "city": "Oldenburg (Oldb)",
+   "region": "NDS",
+   "address": "Haarenstraße 43, 26122 Oldenburg (Oldb)",
+   "phone": "0441 77067953",
+   "website": "https://www.itemstar.de/",
+   "checked_at": "2026-10-16T21:47:41Z"
+  },
+  {
    "name": "J-Store Berlin",
    "group": "unknown",
    "city": "Berlin",
@@ -5012,6 +5943,17 @@
    "phone": "040 55435485",
    "website": "https://j-store.online/pages/hamburg",
    "checked_at": "2026-10-16T02:35:54Z"
+  },
+  {
+   "name": "J.K. Entertainment GmbH",
+   "group": "unknown",
+   "city": "Darmstadt",
+   "region": "HE",
+   "address": "Karlstraße 110, 64285 Darmstadt-Bessungen",
+   "phone": "06151 8607598",
+   "website": "https://jk-entertainment.de/",
+   "buylist_url": "https://jk-entertainment.de/trade-in",
+   "checked_at": "2026-10-16T02:31:24Z"
   },
   {
    "name": "JB Spielwaren",
@@ -5121,6 +6063,38 @@
    "checked_at": "2026-10-16T02:30:45Z"
   },
   {
+   "name": "Karten-Lounge",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Flughafenstraße 4, 44309 Dortmund",
+   "phone": "0175 9332853",
+   "website": "https://karten-lounge.com/",
+   "checked_at": "2026-10-16T21:47:42Z"
+  },
+  {
+   "name": "Kartenbasis - dein Sammelkartenautomat Essen",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Altenessener Str. 411, 45329 Essen",
+   "phone": "0176 87335389",
+   "website": "https://kartenbasis.de/",
+   "buylist_url": "https://kartenbasis.de/pages/unkomplizerter-kartenankauf",
+   "checked_at": "2026-10-16T02:31:01Z"
+  },
+  {
+   "name": "Kartenbasis Dein Sammelkartenautomat Gelsenkirchen",
+   "group": "unknown",
+   "city": "GE",
+   "region": "NRW",
+   "address": "Luitpoldstraße 9, 45879 Gelsenkirchen",
+   "phone": "0176 87335389",
+   "website": "https://kartenbasis.de/",
+   "buylist_url": "https://kartenbasis.de/pages/unkomplizerter-kartenankauf",
+   "checked_at": "2026-10-16T02:31:01Z"
+  },
+  {
    "name": "KartenBunker Shop",
    "group": "unknown",
    "city": "Berlin",
@@ -5129,6 +6103,19 @@
    "phone": "01520 8186491",
    "website": "https://kartenbunker-co.myshopify.com/",
    "checked_at": "2026-10-16T02:34:57Z"
+  },
+  {
+   "name": "Kartenschmiede",
+   "group": "unknown",
+   "city": "Philippsburg",
+   "region": "Baden-Württemberg",
+   "address": "Rote-Tor-Straße 18, 76661 Philippsburg, Germany, Philippsburg, Baden-Württemberg, 76661",
+   "phone": "0049 7256 924 981",
+   "website": "http://www.kartenschmie.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Kelz0r Spiele Cafe",
@@ -5209,6 +6196,16 @@
    "checked_at": "2026-10-16T02:29:10Z"
   },
   {
+   "name": "Kofuku.de - Sammelkarten und Anime Geschäft - Berlin",
+   "group": "unknown",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Tauentzienstraße 8, 10789 Berlin",
+   "phone": "030 44315637",
+   "website": "https://kofuku.de/",
+   "checked_at": "2026-10-16T02:29:10Z"
+  },
+  {
    "name": "Konsolenkost GmbH",
    "group": "unknown",
    "city": "Berlin",
@@ -5243,6 +6240,29 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:17Z"
+  },
+  {
+   "name": "Kult Spiele",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Westfalenforum, Kampstraße 35, Innenstadt-West, 44137 Dortmund",
+   "phone": "0231 2063758",
+   "website": "https://www.kult-spiele.com/",
+   "checked_at": "2026-10-16T21:47:43Z"
+  },
+  {
+   "name": "KultSpiele",
+   "group": "unknown",
+   "city": "Dortmund",
+   "region": "Nordrhein-Westfalen",
+   "address": "Kampstraße 35-37, 44137 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44137",
+   "phone": "+49 231 2063758",
+   "website": "https://www.kult-spiele.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Kunterbunt-games + DHL",
@@ -5307,6 +6327,26 @@
    "checked_at": "2026-10-16T02:36:42Z"
   },
   {
+   "name": "LEGO Store Nürnberg",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Breite G. 39, 90402 Nürnberg",
+   "phone": "0911 88187537",
+   "website": "https://www.lego.com/de-de/stores/store/munchen-pasing?cmp=REF-202601-GBP-792&y_source=1_MTY2ODY3MjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T02:36:42Z"
+  },
+  {
+   "name": "LEGO® Store Frankfurt",
+   "group": "unknown",
+   "city": "Frankfurt am Main",
+   "region": "HE",
+   "address": "Zeil 106, 60313 Frankfurt am Main",
+   "phone": "069 71047438",
+   "website": "https://www.lego.com/de-de/stores/store/munchen-pasing?cmp=REF-202601-GBP-792&y_source=1_MTY2ODY3MjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T02:36:42Z"
+  },
+  {
    "name": "Limbecker Platz",
    "group": "unknown",
    "city": "E",
@@ -5315,6 +6355,15 @@
    "phone": "0201 1778960",
    "website": "https://www.limbecker-platz.de/",
    "checked_at": "2026-10-16T02:39:55Z"
+  },
+  {
+   "name": "little BIG Nerds",
+   "group": "unknown",
+   "city": "Hannover",
+   "region": "NDS",
+   "address": "Im Haspelfelde 8, 30173 Hannover",
+   "website": "https://littlebignerds.com/",
+   "checked_at": "2026-10-16T21:47:45Z"
   },
   {
    "name": "Little Nemo Bochum",
@@ -5595,6 +6644,66 @@
    "checked_at": "2026-10-16T02:35:14Z"
   },
   {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Hermannstraße 10-14, 20095 Hamburg",
+   "phone": "040 55284078",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Mittelstraße 3, 50672 Köln",
+   "phone": "0221 58923539",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "Stuttgart",
+   "region": "BW",
+   "address": "Tübinger Str. 13-15, 70178 Stuttgart",
+   "phone": "0711 80628478",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Immermannstraße 59, 40210 Düsseldorf-Stadtbezirk 1",
+   "phone": "0211 83024376",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Ostenhellweg 49, 44135 Dortmund-Innenstadt-West",
+   "phone": "0231 18118454",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
+   "name": "Manga-Mafia Store",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Kettwiger Str. 27, Theaterpl. 2, 45127 Essen",
+   "phone": "0201 89040404",
+   "website": "https://manga-mafia.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
    "name": "Marios Gamesworld",
    "group": "unknown",
    "city": "Berlin",
@@ -5655,11 +6764,55 @@
    "checked_at": "2026-10-16T02:40:15Z"
   },
   {
+   "name": "MediaMarkt",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Vordere Ledergasse 30, 90403 Nürnberg",
+   "phone": "0221 22243333",
+   "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
+   "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
+   "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "MediaMarkt Essen Limbecker Platz",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Limbecker Pl. 1a, 45127 Essen",
+   "phone": "0221 22243333",
+   "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
+   "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
+   "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "MediaMarkt Frankfurt Zeil",
+   "group": "unknown",
+   "city": "Frankfurt am Main",
+   "region": "HE",
+   "address": "Zeil 106-110, 60313 Frankfurt am Main",
+   "phone": "0221 22243333",
+   "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
+   "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
+   "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
    "name": "MediaMarkt Hamburg Altstadt",
    "group": "unknown",
    "city": "Hamburg",
    "region": "HH",
    "address": "Mönckebergstraße 1, 20095 Hamburg",
+   "phone": "0221 22243333",
+   "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
+   "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
+   "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "MediaMarkt Tech Village Köln",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Hohe Str. 46-50, 50667 Köln",
    "phone": "0221 22243333",
    "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
    "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
@@ -5894,6 +7047,16 @@
    "checked_at": "2026-10-16T02:35:14Z"
   },
   {
+   "name": "Neo Tokyo Munich",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Haimhauserstraße 3, 80802 München",
+   "phone": "089 346986",
+   "website": "https://www.neotokyo.de/",
+   "checked_at": "2026-10-16T02:35:14Z"
+  },
+  {
    "name": "Nerd Nexus Nürnberg e.V.",
    "group": "unknown",
    "city": "Nürnberg",
@@ -5902,6 +7065,26 @@
    "phone": "0911 98333360",
    "website": "https://www.nerd-nexus.de/",
    "checked_at": "2026-10-16T02:41:10Z"
+  },
+  {
+   "name": "Nerdbank",
+   "group": "unknown",
+   "city": "AM",
+   "region": "BY",
+   "address": "Salzgasse 6, 92224 Amberg",
+   "phone": "09621 788441",
+   "website": "https://nerdbank.de/",
+   "checked_at": "2026-10-16T02:29:31Z"
+  },
+  {
+   "name": "Nerdbunker",
+   "group": "unknown",
+   "city": "Freital",
+   "region": "SN",
+   "address": "Wilsdruffer Str. 71, 01705 Freital",
+   "phone": "01523 5779796",
+   "website": "https://www.ebay.de/str/medibuy24xmediagames",
+   "checked_at": "2026-10-16T02:39:44Z"
   },
   {
    "name": "Nerdwana",
@@ -6086,6 +7269,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:32:45Z"
+  },
+  {
+   "name": "Orcish Outpost",
+   "group": "unknown",
+   "city": "Mainz",
+   "region": "Rheinland-Pfalz",
+   "address": "Zanggasse 7, 55116 Mainz, Germany, Mainz, Rheinland-Pfalz, 55116",
+   "phone": "+49 6131 233299",
+   "website": "http://orcish-outpost.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Otherland",
@@ -6592,6 +7788,17 @@
    "checked_at": "2026-10-16T02:38:52Z"
   },
   {
+   "name": "Rune STORE SOLINGEN (+ shop online store)",
+   "group": "unknown",
+   "city": "SG",
+   "region": "NRW",
+   "address": "Hauptstraße 70, 42651 Solingen",
+   "phone": "0212 78171584",
+   "website": "https://rune-online.com",
+   "buylist_url": "https://rune-online.com/pages/manga-ankauf",
+   "checked_at": "2026-10-16T02:38:52Z"
+  },
+  {
    "name": "Räuberhaus im Schnoor - Spielwaren im Haus der Bremer Stadtmusikanten",
    "group": "unknown",
    "city": "Bremen",
@@ -6678,6 +7885,27 @@
    "checked_at": "2026-10-16T02:35:01Z"
   },
   {
+   "name": "SATURN",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Neuhauser Str. 39, 80331 München",
+   "phone": "0221 22243333",
+   "website": "https://www.mediamarkt.de/de/store/tech-village-hamburg-40?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=MediaMarkt%20Hamburg%20Tech%20Village%2040",
+   "buylist_url": "https://www.mediamarkt.de/de/service/ankauf",
+   "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "SATURN",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Königsallee 56, 40212 Düsseldorf",
+   "phone": "0221 22243333",
+   "website": "https://www.saturn.de/de/store/berlin-alexanderplatz-12?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=Saturn%20Berlin-Alexanderplatz%20StoreId%2012",
+   "checked_at": "2026-10-16T02:35:01Z"
+  },
+  {
    "name": "Schatzkammer",
    "group": "unknown",
    "city": "Hagen",
@@ -6691,6 +7919,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:30:42Z"
+  },
+  {
+   "name": "Schatzkarten TCG",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Friedensstraße 55, 51147 Köln",
+   "phone": "0176 24892474",
+   "website": "http://www.schatzkarten-store.de/",
+   "checked_at": "2026-10-16T21:47:42Z"
   },
   {
    "name": "Schlaumeier",
@@ -6816,11 +8054,175 @@
    "checked_at": "2026-10-16T02:37:58Z"
   },
   {
+   "name": "Smilytoys - Dein Anime, Manga & TCG Sammelkartenladen in Spandau",
+   "group": "unknown",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Klosterstraße 3/1. OG Mittig, 13581 Berlin",
+   "phone": "030 37585178",
+   "website": "https://www.smilytoys.de/",
+   "buylist_url": "https://www.smilytoys.de/Wir-kaufen-Deine-Karten",
+   "checked_at": "2026-10-16T02:28:58Z"
+  },
+  {
+   "name": "Smyths",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Mercado Center, Äußere Bayreuther Str. 78, 90491 Nürnberg-Ost",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys",
+   "group": "unknown",
+   "city": "Leuna",
+   "region": "SA",
+   "address": "Nova, Merseburger Landstraße 181, 06237 Leuna",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
    "name": "Smyths Toys Superstore Berlin-Mitte",
    "group": "unknown",
    "city": "Berlin",
    "region": "BE",
    "address": "Leipziger Pl. 12, 10117 Berlin",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Bremen",
+   "group": "unknown",
+   "city": "Bremen",
+   "region": "HB",
+   "address": "Hans-Bredow-Straße 44, 28307 Bremen-Osterholz",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Dortmund",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "Wulfshofstraße 1A, 44149 Dortmund-Lütgendortmund",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Dresden",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Peschelstraße 33, 01139 Dresden-Pieschen",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Düsseldorf",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Hilde-und-Joseph, Professor-Neyses-Platz 5, 40476 Düsseldorf",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Essen",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Hollestraße 3, 45127 Essen-Stadtbezirk I",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Frankfurt",
+   "group": "unknown",
+   "city": "Frankfurt am Main",
+   "region": "HE",
+   "address": "Nidacorso, 60439 Frankfurt am Main",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Fürth",
+   "group": "unknown",
+   "city": "FÜ",
+   "region": "BY",
+   "address": "Einkaufszentrum FLAiR, Schwabacher Str. 5, 90762 Fürth",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Hamburg-Eidelstedt",
+   "group": "unknown",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Hörgensweg 5, 22523 Hamburg-Eimsbüttel",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Hannover",
+   "group": "unknown",
+   "city": "Isernhagen",
+   "region": "NDS",
+   "address": "Opelstraße 3-5, 30916 Isernhagen",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Heidenau",
+   "group": "unknown",
+   "city": "Heidenau",
+   "region": "SN",
+   "address": "Hauptstraße 3, 01809 Heidenau",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Köln-Zentrum",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Breite Str. 80-90, 50667 Köln",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Leipzig-Paunsdorf",
+   "group": "unknown",
+   "city": "Leipzig",
+   "region": "SN",
+   "address": "Paunsdorfer Allee 1, 04329 Leipzig",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore München-Freimann",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Helene-Wessel-Bogen 30, 80939 München-Schwabing-Freimann",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Offenbach",
+   "group": "unknown",
+   "city": "Offenbach am Main",
+   "region": "HE",
+   "address": "Odenwaldring 70, 63069 Offenbach am Main",
+   "website": "https://www.smythstoys.com/de/de-de/",
+   "checked_at": "2026-10-16T02:35:03Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Schwabach",
+   "group": "unknown",
+   "city": "SC",
+   "region": "BY",
+   "address": "Am Falbenholzweg 15, 91126 Schwabach",
    "website": "https://www.smythstoys.com/de/de-de/",
    "checked_at": "2026-10-16T02:35:03Z"
   },
@@ -6914,6 +8316,17 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:28:58Z"
+  },
+  {
+   "name": "Spielekiste Inh.Andreas Seyfried",
+   "group": "unknown",
+   "city": "P",
+   "region": "BB",
+   "address": "Karl-Liebknecht-Straße 134 A, 14482 Potsdam-Babelsberg",
+   "phone": "0331 64730342",
+   "website": "https://www.spielekiste-potsdam.com/",
+   "buylist_url": "https://www.spielekiste-potsdam.com/retailer/buylist",
    "checked_at": "2026-10-16T02:28:58Z"
   },
   {
@@ -7121,6 +8534,25 @@
    "address": "Babelsberger Str. 16, 14473 Potsdam",
    "website": "https://www.starvault-vending.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5857844075826256302",
    "checked_at": "2026-10-16T02:34:47Z"
+  },
+  {
+   "name": "STAR VAULT TCG Automat",
+   "group": "unknown",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "An d. Industriebahn 2, 13088 Berlin",
+   "website": "https://www.starvault-vending.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5857844075826256302",
+   "checked_at": "2026-10-16T02:34:47Z"
+  },
+  {
+   "name": "Steiff Shop",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Galerie, Königsallee 60d, 40212 Düsseldorf",
+   "phone": "0211 8681758",
+   "website": "https://www.steiff.com/",
+   "checked_at": "2026-10-16T02:37:40Z"
   },
   {
    "name": "Steiff Shop Frankfurt",
@@ -7388,6 +8820,16 @@
    "checked_at": "2026-10-16T02:39:53Z"
   },
   {
+   "name": "TCG Pokemoncard marketplace",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Bavariastraße, 80336 München",
+   "phone": "(747) 354-1592",
+   "website": "https://api.whatsapp.com/send/?phone=%2B237682257749&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:34:55Z"
+  },
+  {
    "name": "TCG Shop Moers",
    "group": "unknown",
    "address": "25 Scherpenberger Str., Moers, Nordrhein Westfalen, 47443, Germany",
@@ -7564,6 +9006,16 @@
    "checked_at": "2026-10-16T02:33:32Z"
   },
   {
+   "name": "The LEGO Store Cologne",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Hohe Str. 77-79, 50667 Köln",
+   "phone": "0221 65051368",
+   "website": "https://www.lego.com/de-de/stores/store/munchen-pasing?cmp=REF-202601-GBP-792&y_source=1_MTY2ODY3MjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T02:36:42Z"
+  },
+  {
    "name": "Thier-Galerie Dortmund",
    "group": "unknown",
    "city": "DO",
@@ -7701,6 +9153,17 @@
    "region": "NRW",
    "address": "Hohe Str. 135, 50667 Köln",
    "phone": "0221 31098886",
+   "website": "https://toysundhelden.de/",
+   "buylist_url": "https://toysundhelden.de/home/ankauf/",
+   "checked_at": "2026-10-16T02:37:29Z"
+  },
+  {
+   "name": "Toys und Helden",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Flinger Str. 45, 40213 Düsseldorf",
+   "phone": "0211 58063881",
    "website": "https://toysundhelden.de/",
    "buylist_url": "https://toysundhelden.de/home/ankauf/",
    "checked_at": "2026-10-16T02:37:29Z"
@@ -7892,6 +9355,96 @@
    "checked_at": "2026-10-16T02:36:30Z"
   },
   {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Rumfordstraße 9, 80469 München",
+   "phone": "089 21266665",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Köln",
+   "region": "NRW",
+   "address": "Cäcilienstraße 42-44, 50667 Köln",
+   "phone": "0221 2577707",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Stuttgart",
+   "region": "BW",
+   "address": "KönigStr. 49, 70173 Stuttgart",
+   "phone": "0711 2294860",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Düsseldorf",
+   "region": "NRW",
+   "address": "Am Wehrhahn 32, 40211 Düsseldorf",
+   "phone": "0211 17544090",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "I. Hagen 26, 45127 Essen",
+   "phone": "0201 82178540",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Bremen",
+   "region": "HB",
+   "address": "Am Wall 113, 28195 Bremen",
+   "phone": "0421 1690000",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Dresden",
+   "region": "SN",
+   "address": "Postpl. 1, 01067 Dresden",
+   "phone": "0351 2069715",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Hannover",
+   "region": "NDS",
+   "address": "Grupenstraße 3-5, 30159 Hannover",
+   "phone": "0511 76383441",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Nürnberg",
+   "region": "BY",
+   "address": "Jakobstraße 26, 90402 Nürnberg",
+   "phone": "0911 37855677",
+   "website": "https://www.warhammer.com/shop/Warhammer-Hamburg-1",
+   "checked_at": "2026-10-16T02:36:30Z"
+  },
+  {
    "name": "Weltflucht Bochum",
    "group": "unknown",
    "city": "BO",
@@ -7922,6 +9475,29 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:30:48Z"
+  },
+  {
+   "name": "White Rabbit - Community Game Store (Essen)",
+   "group": "unknown",
+   "city": "E",
+   "region": "NRW",
+   "address": "Segerothstraße 79, 45141 Essen",
+   "phone": "0201 28957550",
+   "website": "https://whiterabbit-cgs.de",
+   "checked_at": "2026-10-16T02:30:48Z"
+  },
+  {
+   "name": "White Rabbit - Community Game Store - Aachen",
+   "group": "unknown",
+   "city": "Aachen",
+   "region": "Nordrhein-Westfalen",
+   "address": "Wirichsbongardstraße 39, 52062 Aachen, Germany, Aachen, Nordrhein-Westfalen, 52062",
+   "phone": "+49 241 99791918",
+   "website": "https://whiterabbit-cgs.de",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:30:48Z"
   },
@@ -8046,6 +9622,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:31:56Z"
+  },
+  {
+   "name": "X-Comics Saarbrücken",
+   "group": "unknown",
+   "city": "Saarbrücken",
+   "region": "Saarland",
+   "address": "Lortzingstraße 14, 66111 Saarbrücken, Germany, Saarbrücken, Saarland, 66111",
+   "website": "https://www.x-comics.de/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:34:03Z"
   },
   {
    "name": "X-tra boox Comics & Gifts GmbH",
@@ -8257,6 +9845,16 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:30:27Z"
+  },
+  {
+   "name": "Zuris-Shop",
+   "group": "unknown",
+   "city": "West",
+   "region": "NRW",
+   "address": "Baris Yilmaz & Naila Mahmood GbR, Zuris-Shop, Hunsrückstraße 15, 42289 Wuppertal",
+   "phone": "0163 8911949",
+   "website": "https://www.zuris-shop.de/",
    "checked_at": "2026-10-16T02:30:27Z"
   },
   {

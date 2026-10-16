@@ -1,8 +1,8 @@
 {
  "country": "NO",
  "currency": "NOK",
- "updated": "2026-10-15",
- "store_count": 80,
+ "updated": "2026-10-16",
+ "store_count": 94,
  "stores": [
   {
    "name": "Pokelageret",
@@ -75,7 +75,6 @@
   {
    "name": "Fjordbuda",
    "group": "in_store",
-   "city": "Tromsø",
    "region": "Trøndelag",
    "address": "Sjøgangen 6, 7010 Trondheim",
    "phone": "90 79 90 03",
@@ -105,6 +104,16 @@
    "address": "Olaf Helsets vei 5, 0694 Oslo",
    "phone": "93 66 49 53",
    "checked_at": "2026-10-16T03:57:34Z"
+  },
+  {
+   "name": "Tromsø Bruktbokhandel",
+   "group": "in_store",
+   "city": "Tromsø",
+   "region": "Troms",
+   "address": "JXX4+8F3, Tromsø Municipality",
+   "phone": "77 68 69 74",
+   "website": "https://www.facebook.com/Troms%C3%B8-Bruktbokhandel-478411402273244/",
+   "checked_at": "2026-10-16T03:57:54Z"
   },
   {
    "name": "Under Overflaten",
@@ -187,10 +196,37 @@
    "checked_at": "2026-10-16T03:57:30Z"
   },
   {
+   "name": "Cardbreakers - Kilden",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Gartnerveien 15, 4016 Stavanger",
+   "phone": "91 66 38 93",
+   "website": "https://cardbreakers.no/pages/bergen-laksevag-senter",
+   "checked_at": "2026-10-16T03:57:38Z"
+  },
+  {
    "name": "Cardbreakers - Laksevåg senter",
    "group": "unknown",
    "region": "Vestland",
    "address": "Kringsjåveien 83-89, 5163 Bergen",
+   "phone": "91 66 38 93",
+   "website": "https://cardbreakers.no/pages/bergen-laksevag-senter",
+   "checked_at": "2026-10-16T03:57:38Z"
+  },
+  {
+   "name": "Cardbreakers - Markedet",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Skåregata 92, 5528 Haugesund",
+   "phone": "91 66 38 93",
+   "website": "https://cardbreakers.no/pages/bergen-laksevag-senter",
+   "checked_at": "2026-10-16T03:57:38Z"
+  },
+  {
+   "name": "Cardbreakers - Maxi Sandnes",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Gravarsveien 7, 4306 Sandnes",
    "phone": "91 66 38 93",
    "website": "https://cardbreakers.no/pages/bergen-laksevag-senter",
    "checked_at": "2026-10-16T03:57:38Z"
@@ -267,6 +303,42 @@
    "address": "Strømsveien 245, 0668 Oslo",
    "phone": "47 69 59 50",
    "website": "https://www.extra-leker.no/butikker/alna",
+   "checked_at": "2026-10-16T03:57:32Z"
+  },
+  {
+   "name": "Extra Leker Bergen Åsane",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Liamyrane 1, 5132 Nyborg",
+   "phone": "55 19 67 70",
+   "website": "https://www.extra-leker.no/butikker/asane?utm_source=google&utm_medium=gmb&utm_campaign=bergen-%C3%A5sane",
+   "checked_at": "2026-10-16T03:57:32Z"
+  },
+  {
+   "name": "Extra Leker Forus",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Stokkamyrveien 3B, 4313 Sandnes",
+   "phone": "51 63 07 60",
+   "website": "https://www.extra-leker.no/butikker/forus",
+   "checked_at": "2026-10-16T03:57:32Z"
+  },
+  {
+   "name": "Extra Leker Lagunen",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Lagunen, Laguneveien 17, 5239 Rådal",
+   "phone": "47 47 96 00",
+   "website": "https://www.extra-leker.no/butikker/lagunen",
+   "checked_at": "2026-10-16T03:57:32Z"
+  },
+  {
+   "name": "Extra Leker Sotra",
+   "group": "unknown",
+   "region": "Vestland",
+   "address": "Sartorvegen 12, Sartor Storsenter, 5353 Straume",
+   "phone": "56 33 47 00",
+   "website": "https://www.extra-leker.no/butikker/sotra?utm_source=google&utm_medium=gmb&utm_campaign=sotra",
    "checked_at": "2026-10-16T03:57:32Z"
   },
   {
@@ -399,6 +471,15 @@
    "checked_at": "2026-10-16T03:57:39Z"
   },
   {
+   "name": "LootLagoon AS",
+   "group": "unknown",
+   "region": "Møre og Romsdal",
+   "address": "Røysegata 11, 6018 Ålesund",
+   "phone": "91 63 08 15",
+   "website": "https://lootlagoon.no/",
+   "checked_at": "2026-10-16T03:57:22Z"
+  },
+  {
    "name": "Lootlagoon Oslo - Pokemon og One piece butikk",
    "group": "unknown",
    "region": "Oslo",
@@ -448,6 +529,15 @@
    "checked_at": "2026-10-16T03:58:10Z"
   },
   {
+   "name": "Midgard Games",
+   "group": "unknown",
+   "region": "Buskerud",
+   "address": "Blichs gate 1, 3044 Drammen",
+   "phone": "92 22 55 69",
+   "website": "https://midgardgames.no/",
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
    "name": "Midgard Games Oslo",
    "group": "unknown",
    "region": "Buskerud",
@@ -490,6 +580,7 @@
   {
    "name": "Outland - Bergen",
    "group": "unknown",
+   "region": "Vestland",
    "address": "14 Strandkaien, Bergen, Vestland, 5013, Norway",
    "phone": "470-5531-4822",
    "website": "https://wpn.wizards.com/en",
@@ -512,11 +603,38 @@
    "checked_at": "2026-10-16T03:56:55Z"
   },
   {
+   "name": "Outland Stavanger",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Breigata 4, 4006 Stavanger",
+   "phone": "51 86 17 11",
+   "website": "https://outland.no",
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
+   "name": "Outland Trondheim",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Jomfrugata 4, 7011 Trondheim",
+   "phone": "73 52 05 45",
+   "website": "https://outland.no",
+   "checked_at": "2026-10-16T03:56:55Z"
+  },
+  {
    "name": "Panduro Hobby",
    "group": "unknown",
    "region": "Akershus",
    "address": "Støperiveien 5, 2010 Strømmen",
    "phone": "96 94 35 25",
+   "website": "https://panduro.com/nb-no/stores/panduro-hobby-strommen",
+   "checked_at": "2026-10-16T03:57:31Z"
+  },
+  {
+   "name": "Panduro Hobby",
+   "group": "unknown",
+   "region": "Trøndelag",
+   "address": "Falkenborgvegen 1, 7044 Trondheim",
+   "phone": "97 40 51 06",
    "website": "https://panduro.com/nb-no/stores/panduro-hobby-strommen",
    "checked_at": "2026-10-16T03:57:31Z"
   },
@@ -734,6 +852,15 @@
    "phone": "73 52 08 40",
    "website": "https://www.tronderfrim.no/",
    "checked_at": "2026-10-16T03:57:47Z"
+  },
+  {
+   "name": "Veslefrikk (Extra Leker)",
+   "group": "unknown",
+   "region": "Rogaland",
+   "address": "Skagen 17, 4006 Stavanger",
+   "phone": "51 89 52 32",
+   "website": "https://www.extra-leker.no/butikker/stavanger?utm_source=google&utm_medium=gmb&utm_campaign=veslefrikk",
+   "checked_at": "2026-10-16T03:57:32Z"
   },
   {
    "name": "Vintra",

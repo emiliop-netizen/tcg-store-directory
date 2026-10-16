@@ -2,7 +2,7 @@
  "country": "HK",
  "currency": "HKD",
  "updated": "2026-10-16",
- "store_count": 197,
+ "store_count": 202,
  "stores": [
   {
    "name": "BANTYO TCG HK 番長連合",
@@ -668,6 +668,15 @@
    "checked_at": "2026-10-16T21:00:42Z"
   },
   {
+   "name": "TCG Express",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Sun Kwong Industrial Building, 11B Tung Chau W St, Cheung Sha Wan, Kowloon",
+   "phone": "5581 7652",
+   "website": "https://www.instagram.com/tcge.hk?igsh=MWVsNWN4MG1ianAwYQ==",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "TcgStore.HK",
    "group": "in_store",
    "region": "Hong Kong Island",
@@ -775,7 +784,7 @@
    "region": "Kowloon",
    "address": "4樓, Granville Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9336 0150",
-   "checked_at": "2026-10-16T21:01:00Z"
+   "checked_at": "2026-10-16T21:01:22Z"
   },
   {
    "name": "夢幻店",
@@ -783,7 +792,7 @@
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, President Commercial Centre, W 商場3樓 324號鋪",
    "phone": "9626 6696",
-   "checked_at": "2026-10-16T20:59:47Z"
+   "checked_at": "2026-10-16T21:01:22Z"
   },
   {
    "name": "未知卡店 unknown card shop(旺角店)",
@@ -822,7 +831,7 @@
    "group": "in_store",
    "region": "Kowloon",
    "address": "9-13 Liberty Avenue, Grateful Time Company, Kwong Wa St, Mong Kok, Kowloon",
-   "checked_at": "2026-10-16T21:00:08Z"
+   "checked_at": "2026-10-16T21:01:22Z"
   },
   {
    "name": "藏卡王香港 Logoman Sports Cards",
@@ -832,12 +841,30 @@
    "checked_at": "2026-10-16T20:59:52Z"
   },
   {
+   "name": "通用卡店 General Card Shop",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Tsuen Wan, 香港荃灣青山道144號荃豐中心地下A59",
+   "phone": "2493 2660",
+   "website": "https://www.facebook.com/profile.php?id=100063862970687",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "銀河卡社Galaxy Card Store",
    "group": "in_store",
    "region": "香港島",
    "address": "香港島筲箕灣筲箕灣道360A號, Shaukeiwan Plaza Lai Man Court, 天悅1003號舖",
    "phone": "6163 5251",
    "checked_at": "2026-10-16T21:01:12Z"
+  },
+  {
+   "name": "雲起漫畫店",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, 2/F樓220號舖",
+   "phone": "2770 5600",
+   "website": "https://m.facebook.com/runupcomics",
+   "checked_at": "2026-10-16T21:51:33Z"
   },
   {
    "name": "2000Fun",
@@ -1298,6 +1325,15 @@
    "checked_at": "2026-10-16T20:59:29Z"
   },
   {
+   "name": "MadMaxToys. Metroplaza",
+   "group": "unknown",
+   "region": "New Territories",
+   "address": "New Territories, Kwai Chung, Hing Fong Rd, 223號175 號舖",
+   "phone": "6655 8869",
+   "website": "https://madmaxtoys.store/",
+   "checked_at": "2026-10-16T20:59:29Z"
+  },
+  {
    "name": "MakePlayingCards",
    "group": "unknown",
    "region": "New Territories",
@@ -1611,6 +1647,15 @@
    "phone": "9072 3581",
    "website": "https://top3tcg.com/",
    "checked_at": "2026-10-16T20:59:44Z"
+  },
+  {
+   "name": "TOYS & GAMES - Nobletime",
+   "group": "unknown",
+   "region": "New Territories",
+   "address": "Shop 6Z517, Level 6, Lantau Island, Terminal 1, Chek Lap Kok, New Territories",
+   "phone": "9542 3479",
+   "website": "https://nobletimeltd.com.hk/",
+   "checked_at": "2026-10-16T21:00:53Z"
   },
   {
    "name": "Toys“R”Us",

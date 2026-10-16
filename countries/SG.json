@@ -2,7 +2,7 @@
  "country": "SG",
  "currency": "SGD",
  "updated": "2026-10-16",
- "store_count": 133,
+ "store_count": 134,
  "stores": [
   {
    "name": "Dek TCG Shop",
@@ -921,6 +921,14 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Game Academia (Singapore)",
+   "group": "unknown",
+   "city": "Singapore",
+   "address": "3 Coleman St, #03-19 Peninsula Shopping Centre, Singapore 179804",
+   "website": "https://www.game-academia.com/",
+   "checked_at": "2026-10-16T21:52:11Z"
   },
   {
    "name": "Gamersaurus Rex",

@@ -1,8 +1,8 @@
 {
  "country": "FI",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 123,
+ "updated": "2026-10-16",
+ "store_count": 152,
  "stores": [
   {
    "name": "Suomalainen Kirjakauppa Helsinki Kauppakeskus Kamppi",
@@ -10,6 +10,24 @@
    "city": "HKI",
    "region": "Uusimaa",
    "address": "Kauppakeskus Kamppi, E-taso, Urho Kekkosen katu 1, 00100 Helsinki",
+   "website": "https://www.suomalainen.com/pages/kamppi",
+   "checked_at": "2026-10-16T04:00:51Z"
+  },
+  {
+   "name": "Suomalainen Kirjakauppa Ideapark Oulu",
+   "group": "login_required",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Ritaharjuntie 49, 90540 Oulu",
+   "website": "https://www.suomalainen.com/pages/kamppi",
+   "checked_at": "2026-10-16T04:00:51Z"
+  },
+  {
+   "name": "Suomalainen Kirjakauppa Ratina",
+   "group": "login_required",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Kauppakeskus, Vuolteenkatu 1 1. kerros, 33100 Tampere",
    "website": "https://www.suomalainen.com/pages/kamppi",
    "checked_at": "2026-10-16T04:00:51Z"
   },
@@ -40,6 +58,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T04:00:10Z"
+  },
+  {
+   "name": "Halfmoon Game Cafe",
+   "group": "blocked",
+   "city": "Helsinki",
+   "region": "Uusimaa",
+   "address": "Keskuskatu 3 A, 00100 Helsinki, Finland, Helsinki, Uusimaa, 00100",
+   "phone": "0413288337",
+   "website": "https://www.puolenkuunpelit.com/kauppa/default.php",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:06Z"
   },
   {
    "name": "Jimm's PC-store Oy",
@@ -109,6 +140,16 @@
    "checked_at": "2026-10-16T04:00:01Z"
   },
   {
+   "name": "Poromagia",
+   "group": "blocked",
+   "city": "HKI",
+   "region": "Uusimaa",
+   "address": "Hämeentie 1, 00530 Helsinki",
+   "phone": "050 3552252",
+   "website": "https://poromagia.com/en/",
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
    "name": "Puolenkuun Pelit - Tampere",
    "group": "blocked",
    "city": "Lahti",
@@ -123,12 +164,88 @@
    "checked_at": "2026-10-16T04:00:06Z"
   },
   {
+   "name": "Puolenkuun Pelit Tampere",
+   "group": "blocked",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Kuninkaankatu 24, 33210 Tampere, Finland, Tampere, Pirkanmaa, 33210",
+   "phone": "+358 3 45180550",
+   "website": "https://www.puolenkuunpelit.com/kauppa/default.php",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:06Z"
+  },
+  {
+   "name": "Puolenkuun Pelit Tripla",
+   "group": "blocked",
+   "city": "HKI",
+   "region": "Uusimaa",
+   "address": "Mall of Tripla Fredikanterassi 1 2 kerros, Nordic Avenue, 00540 Helsinki",
+   "phone": "040 5675626",
+   "website": "https://www.puolenkuunpelit.com/kauppa/default.php",
+   "checked_at": "2026-10-16T04:00:06Z"
+  },
+  {
+   "name": "Puolenkuun pelit Turku",
+   "group": "blocked",
+   "city": "Turku",
+   "region": "Varsinais-Suomi",
+   "address": "Aurakatu 10, 20100 Turku, Finland, Turku, Varsinais-Suomi, 20100",
+   "phone": "+358 44 9898935",
+   "website": "https://www.puolenkuunpelit.com/kauppa/default.php",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:06Z"
+  },
+  {
    "name": "XS Lelut - Kauppakeskus Forum",
    "group": "blocked",
    "city": "HKI",
    "region": "Uusimaa",
    "address": "Located on the 3rd floor, Mannerheimintie 20, 00100 Helsinki",
    "phone": "040 8691981",
+   "website": "https://www.xslelut.fi/",
+   "checked_at": "2026-10-16T04:00:30Z"
+  },
+  {
+   "name": "XS Lelut - Kauppakeskus Hansakortteli",
+   "group": "blocked",
+   "city": "Turku",
+   "region": "Varsinais-Suomi",
+   "address": "Eerikinkatu 15, 20100 Turku",
+   "phone": "040 8691988",
+   "website": "https://www.xslelut.fi/",
+   "checked_at": "2026-10-16T04:00:30Z"
+  },
+  {
+   "name": "XS Lelut - Kauppakeskus Ratina",
+   "group": "blocked",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Vuolteenkatu 1, 33100 Tampere",
+   "phone": "040 8400197",
+   "website": "https://www.xslelut.fi/",
+   "checked_at": "2026-10-16T04:00:30Z"
+  },
+  {
+   "name": "XS Lelut - Kauppakeskus Valkea",
+   "group": "blocked",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Located on the 3rd floor, opposite the children’s play area, Isokatu 22, 90100 Oulu",
+   "phone": "040 8400198",
+   "website": "https://www.xslelut.fi/",
+   "checked_at": "2026-10-16T04:00:30Z"
+  },
+  {
+   "name": "XS Lelut – Lentokenttä",
+   "group": "blocked",
+   "city": "Vantaa",
+   "region": "Uusimaa",
+   "address": "Located near gate 21, Lentoasemantie 1, 01530 Vantaa",
+   "phone": "040 0882002",
    "website": "https://www.xslelut.fi/",
    "checked_at": "2026-10-16T04:00:30Z"
   },
@@ -191,6 +308,16 @@
    "address": "Laukontori 6, 33200 Tampere",
    "phone": "03 2147823",
    "checked_at": "2026-10-16T04:01:03Z"
+  },
+  {
+   "name": "Peltolan Antikvariaatti",
+   "group": "in_store",
+   "city": "Turku",
+   "region": "Varsinais-Suomi",
+   "address": "Kaarningonkatu 13, 20740 Turku",
+   "phone": "02 2366430",
+   "website": "https://www.facebook.com/peltolanantikvariaatti/",
+   "checked_at": "2026-10-16T04:00:06Z"
   },
   {
    "name": "PokePrize",
@@ -453,6 +580,16 @@
    "checked_at": "2026-10-16T04:01:18Z"
   },
   {
+   "name": "Basaari Oy",
+   "group": "unknown",
+   "city": "Vantaa",
+   "region": "Uusimaa",
+   "address": "Kivipyykintie 9, 01260 Vantaa",
+   "phone": "050 3001225",
+   "website": "https://basaari.com/",
+   "checked_at": "2026-10-16T04:00:13Z"
+  },
+  {
    "name": "Basaarin Keidas",
    "group": "unknown",
    "city": "Espoo",
@@ -615,6 +752,26 @@
    "checked_at": "2026-10-16T04:00:11Z"
   },
   {
+   "name": "Fantasiapelit",
+   "group": "unknown",
+   "city": "HKI",
+   "region": "Uusimaa",
+   "address": "Kauppakeskus Citycenter, Kaivokatu 8 K1-kerros, 00100 Helsinki",
+   "phone": "010 5831100",
+   "website": "https://www.fantasiapelit.com/",
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Fantasiapelit",
+   "group": "unknown",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Puutarhakatu 8, 33210 Tampere",
+   "phone": "010 5831107",
+   "website": "https://www.fantasiapelit.com/",
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
    "name": "Fantasiapelit  - Helsinki",
    "group": "unknown",
    "city": "Jyväskylä",
@@ -625,6 +782,45 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Fantasiapelit Helsinki",
+   "group": "unknown",
+   "city": "Helsinki",
+   "region": "Uusimaa",
+   "address": "Kaivokatu 8, 00101 Helsinki, Finland, Helsinki, Uusimaa, 00101",
+   "phone": "+358 10 583 1100",
+   "website": "https://www.fantasiapelit.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Fantasiapelit Oulu",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Rautatienkatu 10, 90100 Oulu, Finland, Oulu, Pohjois-Pohjanmaa, 90100",
+   "phone": "+358 10 5831110",
+   "website": "https://www.fantasiapelit.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Fantasiapelit Turku",
+   "group": "unknown",
+   "city": "Turku",
+   "region": "Varsinais-Suomi",
+   "address": "Yliopistonkatu 26, 20100 Turku, Finland, Turku, Varsinais-Suomi, 20100",
+   "phone": "+358 10 583 1105",
+   "website": "https://www.fantasiapelit.com/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T04:00:01Z"
   },
@@ -647,6 +843,16 @@
    "phone": "041 5779070",
    "website": "https://www.flowcali.fi/",
    "checked_at": "2026-10-16T04:01:21Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Isokatu 24-25, Valkea, 90100 Oulu",
+   "phone": "010 3218556",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/fi/tampere/hameenkatu-1/fi01016",
+   "checked_at": "2026-10-16T04:01:07Z"
   },
   {
    "name": "Flying Tiger Tammerfors - Hämeenkatu",
@@ -728,6 +934,20 @@
    "checked_at": "2026-10-16T04:00:07Z"
   },
   {
+   "name": "Ikamaan Pelit/Ikamaa Oy",
+   "group": "unknown",
+   "city": "Ikaalinen",
+   "region": "Pirkanmaa",
+   "address": "Vanha Tampereentie 15-17, 39500 Ikaalinen, Finland, Ikaalinen, Pirkanmaa, 39500",
+   "phone": "+358447170094",
+   "website": "https://pelikrypta.fi/",
+   "buylist_url": "https://pelikrypta.fi/pages/ostamme-mtg-ja-pokemon",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T04:00:10Z"
+  },
+  {
    "name": "Infinity Prints TCG",
    "group": "unknown",
    "city": "Jyväskylä",
@@ -754,6 +974,16 @@
    "region": "Varsinais-Suomi",
    "address": "Markulantie 150, 20320 Turku",
    "phone": "010 5387400",
+   "website": "https://www.k-ruoka.fi/kauppa/k-citymarket-turku-lansikeskus",
+   "checked_at": "2026-10-16T04:01:39Z"
+  },
+  {
+   "name": "K-Citymarket Oulu Kaakkuri",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Metsokankaantie 5, 90420 Oulu",
+   "phone": "010 5386900",
    "website": "https://www.k-ruoka.fi/kauppa/k-citymarket-turku-lansikeskus",
    "checked_at": "2026-10-16T04:01:39Z"
   },
@@ -844,6 +1074,16 @@
    "checked_at": "2026-10-16T04:00:19Z"
   },
   {
+   "name": "Lautapelit.fi",
+   "group": "unknown",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Vuolteenkatu 1, 33100 Tampere",
+   "phone": "044 2422350",
+   "website": "http://www.lautapelit.fi/",
+   "checked_at": "2026-10-16T04:00:19Z"
+  },
+  {
    "name": "Leikkien Lelukauppa",
    "group": "unknown",
    "city": "Tampere",
@@ -884,6 +1124,16 @@
    "checked_at": "2026-10-16T04:01:55Z"
   },
   {
+   "name": "Nostalgia Shop",
+   "group": "unknown",
+   "city": "Naantali",
+   "region": "Varsinais-Suomi",
+   "address": "Mannerheiminkatu 13, 21100 Naantali",
+   "phone": "040 5454467",
+   "website": "http://www.nostalgiashop.fi/",
+   "checked_at": "2026-10-16T04:01:38Z"
+  },
+  {
    "name": "Nuvoo.com",
    "group": "unknown",
    "city": "Oulu",
@@ -905,6 +1155,16 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Oh My Game",
+   "group": "unknown",
+   "city": "HKI",
+   "region": "Uusimaa",
+   "address": "Sentnerikuja 2, 00440 Helsinki",
+   "phone": "045 1642099",
+   "website": "https://ohmygame.fi/about-us/",
    "checked_at": "2026-10-16T04:00:01Z"
   },
   {
@@ -1001,6 +1261,16 @@
    "checked_at": "2026-10-16T04:01:44Z"
   },
   {
+   "name": "Prisma Limingantulli Oulu",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Nuottasaarentie 1, 90400 Oulu",
+   "phone": "08 3135700",
+   "website": "https://www.prisma.fi/myymalat/517609418",
+   "checked_at": "2026-10-16T04:01:13Z"
+  },
+  {
    "name": "Puolenkuun Pelit Helsinki Oy",
    "group": "unknown",
    "address": "Keskuskatu 3 A, Helsinki, Uusimaa, 00100, Finland",
@@ -1010,6 +1280,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T04:00:01Z"
+  },
+  {
+   "name": "Putinki Paperikauppa Tampere",
+   "group": "unknown",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Tuomiokirkonkatu 15, 33100 Tampere",
+   "phone": "040 6428146",
+   "website": "https://putinki.fi/",
+   "checked_at": "2026-10-16T04:00:49Z"
   },
   {
    "name": "R-kioski Oulu Keskusta Isokatu 61",
@@ -1196,6 +1476,16 @@
    "checked_at": "2026-10-16T04:01:38Z"
   },
   {
+   "name": "Turun Sarjakuvakauppa Oulu",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Hallituskatu 7, 90100 Oulu",
+   "phone": "040 4626550",
+   "website": "https://www.sarjakuvakauppa.fi/",
+   "checked_at": "2026-10-16T04:01:38Z"
+  },
+  {
    "name": "Turun Suunnistajan Kauppa",
    "group": "unknown",
    "city": "Turku",
@@ -1224,6 +1514,25 @@
    "phone": "045 6244656",
    "website": "https://lahjajakortti.fi/",
    "checked_at": "2026-10-16T04:01:55Z"
+  },
+  {
+   "name": "Verkkokauppa.com Oulu",
+   "group": "unknown",
+   "city": "Oulu",
+   "region": "Pohjois-Pohjanmaa",
+   "address": "Kaakkurinkulma 4, 90410 Oulu",
+   "phone": "010 3095555",
+   "website": "https://www.verkkokauppa.com/fi/etusivu",
+   "checked_at": "2026-10-16T04:00:39Z"
+  },
+  {
+   "name": "Verkkokauppa.com Pirkkala",
+   "group": "unknown",
+   "region": "Pirkanmaa",
+   "address": "Saapastie 2, 33950 Pirkkala",
+   "phone": "010 3095555",
+   "website": "https://www.verkkokauppa.com/fi/etusivu",
+   "checked_at": "2026-10-16T04:00:39Z"
   },
   {
    "name": "Vihkokauppa",

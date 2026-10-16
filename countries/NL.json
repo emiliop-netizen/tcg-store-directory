@@ -2,7 +2,7 @@
  "country": "NL",
  "currency": "EUR",
  "updated": "2026-10-16",
- "store_count": 524,
+ "store_count": 590,
  "stores": [
   {
    "name": "Bescards",
@@ -214,6 +214,18 @@
    "checked_at": "2026-10-16T03:13:44Z"
   },
   {
+   "name": "The Game Galaxy",
+   "group": "quote_only",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Zuidplein 587, 3083 BC Rotterdam",
+   "phone": "06 34377938",
+   "website": "https://galaxystores.nl/",
+   "buylist_url": "https://galaxystores.nl/inkoop/",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:13:44Z"
+  },
+  {
    "name": "The Unpackables TCG",
    "group": "quote_only",
    "city": "Rotterdam",
@@ -256,6 +268,16 @@
    "city": "Den Haag",
    "region": "ZH",
    "address": "Turfmarkt 133, 2511 DP Den Haag",
+   "phone": "0228 545 750",
+   "website": "https://www.action.com/nl-nl/winkels/den-haag-turfmarkt/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=1265",
+   "checked_at": "2026-10-16T03:17:31Z"
+  },
+  {
+   "name": "Action Utrecht Godebaldkwartier",
+   "group": "blocked",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Godebaldkwartier 445, 3511 DV Utrecht",
    "phone": "0228 545 750",
    "website": "https://www.action.com/nl-nl/winkels/den-haag-turfmarkt/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=1265",
    "checked_at": "2026-10-16T03:17:31Z"
@@ -377,6 +399,16 @@
    "checked_at": "2026-10-16T03:14:18Z"
   },
   {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Spuistraat 29, 2511 BC Den Haag",
+   "phone": "070 808 1120",
+   "website": "http://hmv.com/",
+   "checked_at": "2026-10-16T03:14:18Z"
+  },
+  {
    "name": "House of M Comics",
    "group": "blocked",
    "city": "Rotterdam",
@@ -436,12 +468,42 @@
    "checked_at": "2026-10-16T03:16:57Z"
   },
   {
+   "name": "Nedgame Amersfoort",
+   "group": "blocked",
+   "city": "Amersfoort",
+   "region": "UT",
+   "address": "Arnhemsestraat 16, 3811 LH Amersfoort",
+   "phone": "033 258 4948",
+   "website": "http://www.nedgame.nl/",
+   "checked_at": "2026-10-16T03:18:57Z"
+  },
+  {
    "name": "Nedgame Gouda",
    "group": "blocked",
    "city": "Gouda",
    "region": "ZH",
    "address": "Korte Tiendeweg 14, 2801 JV Gouda",
    "phone": "0182 686 902",
+   "website": "http://www.nedgame.nl/",
+   "checked_at": "2026-10-16T03:18:57Z"
+  },
+  {
+   "name": "Nedgame Groningen",
+   "group": "blocked",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Oude Ebbingestraat 68, 9712 HM Groningen",
+   "phone": "050 311 2632",
+   "website": "http://www.nedgame.nl/",
+   "checked_at": "2026-10-16T03:18:57Z"
+  },
+  {
+   "name": "Nedgame Nijmegen 🎮",
+   "group": "blocked",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Meester Hermanstraat 9, 6511 TW Nijmegen",
+   "phone": "024 329 6948",
    "website": "http://www.nedgame.nl/",
    "checked_at": "2026-10-16T03:18:57Z"
   },
@@ -864,6 +926,15 @@
    "checked_at": "2026-10-16T03:10:34Z"
   },
   {
+   "name": "Nerko Cards",
+   "group": "in_store",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Mariastraat 47, 3511 LN Utrecht",
+   "website": "https://www.instagram.com/nerko_cards_store/",
+   "checked_at": "2026-10-16T03:10:34Z"
+  },
+  {
    "name": "NetherVaultTCG",
    "group": "in_store",
    "city": "Rotterdam",
@@ -1071,6 +1142,16 @@
    "checked_at": "2026-10-16T03:18:23Z"
   },
   {
+   "name": "Trading Card Palace",
+   "group": "in_store",
+   "city": "Oudenbosch",
+   "region": "NB",
+   "address": "Fenkelstraat 15, 4731 JA Oudenbosch",
+   "phone": "06 21458263",
+   "website": "http://www.facebook.com/tradingcardpalace",
+   "checked_at": "2026-10-16T03:11:21Z"
+  },
+  {
    "name": "Unwritten Chronicles",
    "group": "in_store",
    "city": "Schiedam",
@@ -1231,7 +1312,6 @@
    "city": "Rotterdam",
    "region": "ZH",
    "address": "Binnenwegplein 50-52, 3012 KA Rotterdam",
-   "phone": "010 793 3100",
    "website": "https://www.mediamarkt.nl/nl/store/mediamarkt-rotterdam-tech-village-852?utm_source=google%20places&utm_medium=seo-places%20link",
    "checked_at": "2026-10-16T03:16:38Z"
   },
@@ -1437,6 +1517,16 @@
    "checked_at": "2026-10-16T03:18:05Z"
   },
   {
+   "name": "Ananda Spiritual Living Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Mariaplaats 1, 3511 LH Utrecht",
+   "phone": "030 636 8971",
+   "website": "https://ananda.nl/",
+   "checked_at": "2026-10-16T03:18:05Z"
+  },
+  {
    "name": "Ancient-Cards",
    "group": "unknown",
    "city": "Nijmegen",
@@ -1479,6 +1569,17 @@
    "phone": "024 323 0238",
    "website": "https://www.wereldaandewand.nl/",
    "checked_at": "2026-10-16T03:22:59Z"
+  },
+  {
+   "name": "ANWB shop",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Bisschop Hamerstraat 3, 6511 NA Nijmegen",
+   "phone": "088 269 3480",
+   "website": "https://www.anwb.nl/webwinkel/winkels/24/anwb-winkel-eindhoven",
+   "buylist_url": "https://www.anwb.nl/energie/voordelen-anwb-energie?icp=menu_flyout_energie-tegen-inkoopprijs-week-42-43",
+   "checked_at": "2026-10-16T03:20:50Z"
   },
   {
    "name": "Arcane Forge",
@@ -1644,6 +1745,46 @@
    "checked_at": "2026-10-16T03:14:42Z"
   },
   {
+   "name": "BoekenVoordeel",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Zwanenveld 90-111, 6538 SW Nijmegen",
+   "phone": "085 273 9701",
+   "website": "https://www.boekenvoordeel.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp_locations&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:15Z"
+  },
+  {
+   "name": "BoekenVoordeel Den Haag",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Leyweg 707 Y, 2545 GM Den Haag",
+   "phone": "085 273 9701",
+   "website": "https://www.boekenvoordeel.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp_locations&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:15Z"
+  },
+  {
+   "name": "BoekenVoordeel Eindhoven Hermanus Boexstraat",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Hermanus Boexstraat 24, 5611 AJ Eindhoven",
+   "phone": "085 273 9701",
+   "website": "https://www.boekenvoordeel.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp_locations&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:15Z"
+  },
+  {
+   "name": "BoekenVoordeel Groningen Dierenriemstraat",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Dierenriemstraat 186, 9742 AL Groningen",
+   "phone": "085 273 9701",
+   "website": "https://www.boekenvoordeel.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp_locations&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:15Z"
+  },
+  {
    "name": "BoekenVoordeel Rotterdam Hoogstraat",
    "group": "unknown",
    "city": "Rotterdam",
@@ -1764,6 +1905,56 @@
    "checked_at": "2026-10-16T03:11:12Z"
   },
   {
+   "name": "bruna",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Overwinningsplein 71-73, 9728 GP Groningen",
+   "phone": "050 525 9156",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
+   "name": "Bruna - Station Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Stationsplein 22 05, 5611 AC Eindhoven",
+   "phone": "088 133 8276",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
+   "name": "Bruna - station Nijmegen 📚",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Stationsplein 6-K, 6512 AA Nijmegen",
+   "phone": "088 133 8281",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
+   "name": "Bruna Biltstraat",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Biltstraat 46, 3572 BC Utrecht",
+   "phone": "030 662 8068",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
+   "name": "Bruna Fahrenheitstraat",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Fahrenheitstraat 536-546, 2561 DJ Den Haag",
+   "phone": "070 205 7032",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
+  },
+  {
    "name": "Bruna Pijnacker Centrum",
    "group": "unknown",
    "city": "Pijnacker",
@@ -1772,6 +1963,16 @@
    "phone": "015 361 4202",
    "website": "https://www.brunapijnacker.nl/",
    "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "Bruna Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Poolsterstraat 107, 3067 LX Rotterdam",
+   "phone": "010 455 9398",
+   "website": "https://www.bruna.nl/winkels/amsterdam/761",
+   "checked_at": "2026-10-16T03:15:35Z"
   },
   {
    "name": "Bruna Van Woustraat",
@@ -2021,6 +2222,17 @@
    "address": "Kannenmarkt 9, 6511 KC Nijmegen",
    "website": "https://www.kruidentuin.com/",
    "checked_at": "2026-10-16T03:23:05Z"
+  },
+  {
+   "name": "Collectableworld",
+   "group": "unknown",
+   "city": "Alkmaar",
+   "region": "NH",
+   "address": "Houttil 64, 1811 JL Alkmaar",
+   "phone": "06 87885096",
+   "website": "https://collectableworld.nl/",
+   "buylist_url": "https://collectableworld.nl/verkoop-je-kaarten/",
+   "checked_at": "2026-10-16T03:14:01Z"
   },
   {
    "name": "Collectableworld events",
@@ -2478,12 +2690,42 @@
    "checked_at": "2026-10-16T03:12:41Z"
   },
   {
+   "name": "DreamLand Eindhoven",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Noord Brabantlaan 267, 5652 AL Eindhoven",
+   "phone": "040 206 5597",
+   "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
+   "checked_at": "2026-10-16T03:16:34Z"
+  },
+  {
+   "name": "DreamLand Groningen",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Roskildeweg 31, 9723 MA Groningen",
+   "phone": "050 305 1696",
+   "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
+   "checked_at": "2026-10-16T03:16:34Z"
+  },
+  {
    "name": "DreamLand Rotterdam",
    "group": "unknown",
    "city": "Rotterdam",
    "region": "ZH",
    "address": "Watermanweg 327, 3067 GA Rotterdam",
    "phone": "010 303 2544",
+   "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
+   "checked_at": "2026-10-16T03:16:34Z"
+  },
+  {
+   "name": "DreamLand Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Hertogswetering 185, 3543 AS Utrecht",
+   "phone": "030 202 8006",
    "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
    "checked_at": "2026-10-16T03:16:34Z"
   },
@@ -2554,6 +2796,15 @@
    "city": "Amsterdam",
    "region": "NH",
    "address": "Kalverstraat 9, 1012 NX Amsterdam",
+   "website": "https://elbenwald.nl/pages/stores/elbenwald-store-amsterdam",
+   "checked_at": "2026-10-16T03:15:10Z"
+  },
+  {
+   "name": "Elbenwald",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Lijnbaan 60, 3012 EP Rotterdam",
    "website": "https://elbenwald.nl/pages/stores/elbenwald-store-amsterdam",
    "checked_at": "2026-10-16T03:15:10Z"
   },
@@ -3134,12 +3385,142 @@
    "checked_at": "2026-10-16T03:14:22Z"
   },
   {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Lijnbaan 155, 3012 EN Rotterdam",
+   "phone": "088 334 3553",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Spuistraat 31 B, 2511 BC Den Haag",
+   "phone": "088 334 3714",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Leidschendam",
+   "region": "ZH",
+   "address": "Liguster 3, 2262 AC Leidschendam",
+   "phone": "088 334 3878",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Gildenkwartier 179, 3511 DG Utrecht",
+   "phone": "088 334 3627",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Nieuwegein",
+   "region": "UT",
+   "address": "Plein 101, 3431 HJ Nieuwegein",
+   "phone": "088 334 3770",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Vleuten",
+   "region": "UT",
+   "address": "Burchtplein 20, 3452 MJ Vleuten",
+   "phone": "088 334 3728",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Wijk bij Duurstede",
+   "region": "UT",
+   "address": "Veldpoortstraat 2, 3961 BL Wijk bij Duurstede",
+   "phone": "088 334 3519",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Maarssen",
+   "region": "UT",
+   "address": "Bisonspoor 2034, 3605 LD Maarssen",
+   "phone": "088 334 3544",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Vismarkt 39, 9712 CB Groningen",
+   "phone": "088 334 3696",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys XL",
+   "group": "unknown",
+   "city": "Amersfoort",
+   "region": "UT",
+   "address": "Sint Jorisplein 21, 3811 DC Amersfoort",
+   "phone": "088 334 3650",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys XL",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Heuvel Galerie 159, 5611 DK Eindhoven",
+   "phone": "088 334 3713",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
+   "name": "Intertoys XL",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Plein 1944 90, 6511 LE Nijmegen",
+   "phone": "088 334 3524",
+   "website": "https://www.intertoys.nl/",
+   "checked_at": "2026-10-16T03:14:22Z"
+  },
+  {
    "name": "It's A Present!",
    "group": "unknown",
    "city": "Amsterdam",
    "region": "NH",
    "address": "Haarlemmerstraat 25, 1013 EJ Amsterdam",
    "phone": "020 422 1795",
+   "website": "https://itsapresent.nl/",
+   "checked_at": "2026-10-16T03:15:11Z"
+  },
+  {
+   "name": "IT'S A PRESENT! ROTTERDAM",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Witte de Withstraat 5, 3012 BK Rotterdam",
+   "phone": "010 499 3330",
    "website": "https://itsapresent.nl/",
    "checked_at": "2026-10-16T03:15:11Z"
   },
@@ -3153,6 +3534,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:13:07Z"
+  },
+  {
+   "name": "It`s a present!",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Lijnmarkt 16, 3511 KH Utrecht",
+   "phone": "030 232 8790",
+   "website": "https://itsapresent.nl/",
+   "checked_at": "2026-10-16T03:15:11Z"
   },
   {
    "name": "Jaarbeurs",
@@ -3502,6 +3893,26 @@
    "checked_at": "2026-10-16T03:15:24Z"
   },
   {
+   "name": "MediaMarkt",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Gildenkwartier 181, 3511 DG Utrecht",
+   "phone": "010 793 3100",
+   "website": "https://www.mediamarkt.nl/nl/store/mediamarkt-rotterdam-tech-village-852?utm_source=google%20places&utm_medium=seo-places%20link",
+   "checked_at": "2026-10-16T03:16:38Z"
+  },
+  {
+   "name": "MediaMarkt Den Haag",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Grote Marktstraat 48A, 2511 BJ Den Haag",
+   "phone": "010 793 3100",
+   "website": "https://www.mediamarkt.nl/nl/store/mediamarkt-rotterdam-tech-village-852?utm_source=google%20places&utm_medium=seo-places%20link",
+   "checked_at": "2026-10-16T03:16:38Z"
+  },
+  {
    "name": "Megastores",
    "group": "unknown",
    "city": "Den Haag",
@@ -3569,6 +3980,16 @@
    "region": "ZH",
    "address": "Beurstraverse 170, 3012 AT Rotterdam",
    "phone": "010 310 5176",
+   "website": "https://miniso.nl/",
+   "checked_at": "2026-10-16T03:16:35Z"
+  },
+  {
+   "name": "Miniso",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Demer 13, 5611 AN Eindhoven",
+   "phone": "040 209 2513",
    "website": "https://miniso.nl/",
    "checked_at": "2026-10-16T03:16:35Z"
   },
@@ -3866,6 +4287,16 @@
    "checked_at": "2026-10-16T03:15:41Z"
   },
   {
+   "name": "Pipoos Rotterdam-Center",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Binnenwegplein 6C, 3012 KA Rotterdam",
+   "phone": "010 413 0308",
+   "website": "https://www.pipoos.com/pages/winkels/pipoos-amsterdam-zuid",
+   "checked_at": "2026-10-16T03:15:41Z"
+  },
+  {
    "name": "Pit Conceptstore",
    "group": "unknown",
    "city": "Utrecht",
@@ -3938,6 +4369,26 @@
    "checked_at": "2026-10-16T03:22:03Z"
   },
   {
+   "name": "Primera",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Goeverneurlaan 664, 2523 CS Den Haag",
+   "phone": "070 396 4732",
+   "website": "https://www.primera.nl/primera-oude-binnenweg?utm_source=google-places&utm_medium=organic&utm_campaign=google-places-30122",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
+   "name": "Primera",
+   "group": "unknown",
+   "city": "Eindhoven",
+   "region": "NB",
+   "address": "Lardinoisstraat 1, 5611 ZZ Eindhoven",
+   "phone": "040 737 0189",
+   "website": "https://www.primera.nl/primera-oude-binnenweg?utm_source=google-places&utm_medium=organic&utm_campaign=google-places-30122",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
    "name": "Primera De Driehoek",
    "group": "unknown",
    "city": "Den Haag",
@@ -3946,6 +4397,26 @@
    "phone": "070 329 4741",
    "website": "https://primeradedriehoek.nl/",
    "checked_at": "2026-10-16T03:17:54Z"
+  },
+  {
+   "name": "Primera Dukenburg",
+   "group": "unknown",
+   "city": "Nijmegen",
+   "region": "GE",
+   "address": "Zwanenveld 9095, 6538 SG Nijmegen",
+   "phone": "024 343 0148",
+   "website": "https://www.primera.nl/primera-oude-binnenweg?utm_source=google-places&utm_medium=organic&utm_campaign=google-places-30122",
+   "checked_at": "2026-10-16T03:17:03Z"
+  },
+  {
+   "name": "Primera Groeneweg",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Haroekoeplein 140, 3531 WN Utrecht",
+   "phone": "030 294 9957",
+   "website": "https://www.primera.nl/primera-oude-binnenweg?utm_source=google-places&utm_medium=organic&utm_campaign=google-places-30122",
+   "checked_at": "2026-10-16T03:17:03Z"
   },
   {
    "name": "Primera Oude Binnenweg",
@@ -4268,6 +4739,33 @@
    "city": "Amsterdam",
    "region": "NH",
    "address": "Ookmeerweg 416, 1069 CG Amsterdam",
+   "website": "https://www.smythstoys.com/nl/nl-nl",
+   "checked_at": "2026-10-16T03:14:13Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Leidschendam",
+   "group": "unknown",
+   "city": "Leidschendam",
+   "region": "ZH",
+   "address": "Eglantier 1e, 2262 AP Leidschendam",
+   "website": "https://www.smythstoys.com/nl/nl-nl",
+   "checked_at": "2026-10-16T03:14:13Z"
+  },
+  {
+   "name": "Smyths Toys Superstore Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Vierhavensstraat 123, 3029 BB Rotterdam",
+   "website": "https://www.smythstoys.com/nl/nl-nl",
+   "checked_at": "2026-10-16T03:14:13Z"
+  },
+  {
+   "name": "Smyths Toys Superstores",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Rijnkade 5, 3511 CV Utrecht",
    "phone": "030 231 4929",
    "website": "https://www.smythstoys.com/nl/nl-nl",
    "checked_at": "2026-10-16T03:14:13Z"
@@ -4289,6 +4787,26 @@
    "region": "ZH",
    "address": "Hoogstraat 171, 3011 PM Rotterdam",
    "phone": "010 790 1000",
+   "website": "https://solow.nl/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:17Z"
+  },
+  {
+   "name": "SoLow XXL",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Grote Markt 3, 9712 GA Groningen",
+   "phone": "050 790 0038",
+   "website": "https://solow.nl/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=rotterdam_hoogstraat",
+   "checked_at": "2026-10-16T03:17:17Z"
+  },
+  {
+   "name": "SoLow XXL Feestwinkel Utrecht Oudegracht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Oudegracht 89, 3511 AD Utrecht",
+   "phone": "030 790 0071",
    "website": "https://solow.nl/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=rotterdam_hoogstraat",
    "checked_at": "2026-10-16T03:17:17Z"
   },
@@ -4401,6 +4919,16 @@
    "checked_at": "2026-10-16T03:13:06Z"
   },
   {
+   "name": "Spellenhuis Den Haag",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Torenstraat 142, 2513 BW Den Haag",
+   "phone": "070 364 4782",
+   "website": "https://www.spellenhuis.nl/",
+   "checked_at": "2026-10-16T21:49:07Z"
+  },
+  {
    "name": "SpellenHuis Haarlem",
    "group": "unknown",
    "city": "Haarlem",
@@ -4413,6 +4941,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Spellenhuis Rotterdam",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Schilderstraat 20-A, 3011 CK Rotterdam",
+   "phone": "010 313 2204",
+   "website": "https://www.spellenhuis.nl/",
+   "checked_at": "2026-10-16T21:49:07Z"
   },
   {
    "name": "Spellenpoort",
@@ -4622,6 +5160,15 @@
    "checked_at": "2026-10-16T03:17:05Z"
   },
   {
+   "name": "Søstrene Grene",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Spuistraat 46, 2511 BE Den Haag",
+   "website": "https://sostrenegrene.com/nl/winkel/hoogstraat-rotterdam-s-3004?utm_campaign=gbpg&utm_source=googlebusiness&utm_medium=google",
+   "checked_at": "2026-10-16T03:17:05Z"
+  },
+  {
    "name": "Table Heroes",
    "group": "unknown",
    "address": "Kerkstraat 45, Nederweert, Limburg, 6031CE, Netherlands",
@@ -4636,11 +5183,12 @@
    "name": "Tabletop Kingdom",
    "group": "unknown",
    "city": "Rotterdam",
-   "region": "ZH",
+   "region": "Zuid-Holland",
    "address": "Korte houtstraat 13, Den Haag, ZH, 2511 CC, Netherlands",
    "phone": "316 45329692",
    "website": "https://www.tabletopkingdom.nl/",
    "games_events": [
+    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:10:51Z"
@@ -4658,6 +5206,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:10:11Z"
+  },
+  {
+   "name": "Tabletop Kingdom Haarlem",
+   "group": "unknown",
+   "city": "Haarlem",
+   "region": "Noord-Holland",
+   "address": "Kleine Houtstraat 26, 2011 DM Haarlem, Netherlands, Haarlem, Noord-Holland, 2011 DM",
+   "phone": "06 21575998",
+   "website": "https://www.tabletopkingdom.nl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:10:51Z"
   },
   {
    "name": "Tallies Cards",
@@ -4811,6 +5372,16 @@
    "checked_at": "2026-10-16T03:14:11Z"
   },
   {
+   "name": "The American Book Center",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Lange Poten 23, 2511 CM Den Haag",
+   "phone": "070 364 2742",
+   "website": "https://abc.nl/",
+   "checked_at": "2026-10-16T03:14:11Z"
+  },
+  {
    "name": "The Base",
    "group": "unknown",
    "city": "Rotterdam",
@@ -4871,6 +5442,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:10:49Z"
+  },
+  {
+   "name": "The Gamekeeper",
+   "group": "unknown",
+   "city": "Leidschendam",
+   "region": "ZH",
+   "address": "Rozemarijn 7, 2262 AH Leidschendam",
+   "phone": "070 444 8549",
+   "website": "https://gamekeeper.nl/",
+   "checked_at": "2026-10-16T03:10:11Z"
   },
   {
    "name": "The Games Guild",
@@ -4947,6 +5528,16 @@
    "region": "NH",
    "address": "Kalverstraat 57, 1012 NZ Amsterdam",
    "phone": "020 793 0620",
+   "website": "https://www.lego.com/nl-nl/stores/store/amsterdam?cmp=REF-202601-GBP-871&y_source=1_MTY2ODY3MTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T03:14:56Z"
+  },
+  {
+   "name": "The LEGO® Store Utrecht",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Space W068, Hoog Catharijne Mall, Hoog Catharijnepassage 7, 3511 WP Utrecht",
+   "phone": "030 899 3546",
    "website": "https://www.lego.com/nl-nl/stores/store/amsterdam?cmp=REF-202601-GBP-871&y_source=1_MTY2ODY3MTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
    "checked_at": "2026-10-16T03:14:56Z"
   },
@@ -5048,6 +5639,15 @@
    "checked_at": "2026-10-16T03:17:29Z"
   },
   {
+   "name": "Top 1 Toys Paddepoel",
+   "group": "unknown",
+   "city": "Groningen",
+   "region": "GR",
+   "address": "Zonnelaan 277, 9742 BD Groningen",
+   "website": "https://www.top1toys.nl/",
+   "checked_at": "2026-10-16T03:17:29Z"
+  },
+  {
    "name": "Top1Toys Zeist",
    "group": "unknown",
    "city": "Zeist",
@@ -5076,6 +5676,16 @@
    "phone": "040 297 9115",
    "website": "https://www.thisiseindhoven.com/nl",
    "checked_at": "2026-10-16T03:20:47Z"
+  },
+  {
+   "name": "Toy champ",
+   "group": "unknown",
+   "city": "Veenendaal",
+   "region": "UT",
+   "address": "Brouwersgracht 162, 3901 TP Veenendaal",
+   "phone": "0318 742 577",
+   "website": "https://www.dreamland.nl/vestigingen/dreamland-rotterdam",
+   "checked_at": "2026-10-16T03:16:34Z"
   },
   {
    "name": "Toy Trend",
@@ -5219,6 +5829,26 @@
    "checked_at": "2026-10-16T03:20:21Z"
   },
   {
+   "name": "VOORLOPIG",
+   "group": "unknown",
+   "city": "Delft",
+   "region": "ZH",
+   "address": "Voorstraat 8, 2611 JP Delft",
+   "phone": "015 364 6916",
+   "website": "https://www.voorlopigconceptstore.com/",
+   "checked_at": "2026-10-16T03:16:54Z"
+  },
+  {
+   "name": "Voorlopig Den Haag",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Noordeinde 109, 2514 GE Den Haag",
+   "phone": "06 39306633",
+   "website": "https://www.voorlopigconceptstore.com/",
+   "checked_at": "2026-10-16T03:16:54Z"
+  },
+  {
    "name": "VOORLOPIG ROTTERDAM",
    "group": "unknown",
    "city": "Rotterdam",
@@ -5287,6 +5917,36 @@
    "phone": "020 623 2800",
    "website": "https://www.warhammer.com/shop/Warhammer-Amsterdam-West",
    "checked_at": "2026-10-16T03:14:49Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Rotterdam",
+   "region": "ZH",
+   "address": "Van Oldenbarneveltplaats 452, 3012 AP Rotterdam",
+   "phone": "010 280 0268",
+   "website": "https://www.warhammer.com/shop/Warhammer-Amsterdam-West",
+   "checked_at": "2026-10-16T03:14:49Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Den Haag",
+   "region": "ZH",
+   "address": "Schoolstraat 12B, B, 2511 AX Den Haag",
+   "phone": "070 392 7836",
+   "website": "https://www.warhammer.com/en-NL/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T21:49:07Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Utrecht",
+   "region": "UT",
+   "address": "Zakkendragerssteeg 7, 3511 AA Utrecht",
+   "phone": "030 231 8887",
+   "website": "https://www.warhammer.com/en-NL/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T21:49:07Z"
   },
   {
    "name": "Waterstones",

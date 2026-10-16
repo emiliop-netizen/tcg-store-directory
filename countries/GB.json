@@ -2,7 +2,7 @@
  "country": "GB",
  "currency": "GBP",
  "updated": "2026-10-16",
- "store_count": 918,
+ "store_count": 1140,
  "stores": [
   {
    "name": "Axion Now",
@@ -506,7 +506,6 @@
   {
    "name": "Forbidden Planet Hanley",
    "group": "public_buylist",
-   "city": "Brighton and Hove",
    "region": "England",
    "address": "48-52 Stafford Street, Stoke-On-Trent, England, ST1 1JB, United Kingdom",
    "phone": "+44(0) 1782 279294",
@@ -865,6 +864,24 @@
    "checked_at": "2026-10-16T02:25:14Z"
   },
   {
+   "name": "Blackwell's Book Shop Newcastle",
+   "group": "blocked",
+   "region": "England",
+   "address": "141 Percy St, Newcastle upon Tyne NE1 7RS",
+   "phone": "0191 232 6421",
+   "website": "https://blackwells.co.uk/bookshop/home",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
+   "name": "Blackwell's Bookshop",
+   "group": "blocked",
+   "region": "England",
+   "address": "48-51 Broad St, Oxford OX1 3BQ",
+   "phone": "01865 792792",
+   "website": "https://blackwells.co.uk/bookshop/home",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
    "name": "Boss Miniatures and Gaming",
    "group": "blocked",
    "address": "9 Great George Street, Weymouth, UK, DT4 8NN, United Kingdom",
@@ -1090,6 +1107,15 @@
    "checked_at": "2026-10-16T02:23:21Z"
   },
   {
+   "name": "Heffers Bookshop",
+   "group": "blocked",
+   "region": "England",
+   "address": "20 Trinity St, Cambridge CB2 1TY",
+   "phone": "01223 463200",
+   "website": "https://blackwells.co.uk/bookshop/home",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
    "name": "Heroes",
    "group": "blocked",
    "region": "England",
@@ -1119,6 +1145,104 @@
    "phone": "0843 221 0121",
    "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
    "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "England",
+   "address": "UNIT 3A, St Johns Shopping Centre, 2-3 South Mall, Leeds LS2 8LQ",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "Scotland",
+   "address": "84a Princes St., Edinburgh EH2 2ER",
+   "phone": "0843 221 0187",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "England",
+   "address": "24 / 26 Broadmead, Bristol BS1 3HA",
+   "phone": "0843 221 0138",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "England",
+   "address": "Unit 2b, Blackettbridge, Eldon Square Shopping Centre, Newcastle upon Tyne NE1 7XJ",
+   "phone": "0843 221 0275",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "England",
+   "address": "Unit 95 Victoria Centre, Nottingham NG1 3QE",
+   "phone": "0843 221 0283",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "Wales",
+   "address": "41 Queen St, St Davids Centre, Cardiff CF10 2AS",
+   "phone": "0843 221 0147",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "Northern Ireland",
+   "address": "3-6 Castle Pl, Donegall Pl, Belfast BT1 1PT",
+   "phone": "0843 221 0116",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "England",
+   "address": "176-178 High St, Southampton SO14 2BY",
+   "phone": "0843 221 0318",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "region": "Scotland",
+   "address": "113 Union Bridge, Aberdeen AB11 6BE",
+   "phone": "0843 221 0101",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "Hobbycraft",
+   "group": "blocked",
+   "region": "England",
+   "address": "3, Silverlink point, The Silverlink, Wallsend NE28 9ND",
+   "phone": "0330 026 1116",
+   "website": "https://www.hobbycraft.co.uk/stores/edinburgh?utm_source=googlemybusiness&utm_medium=organicgmb&utm_campaign=localseo",
+   "checked_at": "2026-10-16T02:25:28Z"
+  },
+  {
+   "name": "Hobbycraft",
+   "group": "blocked",
+   "region": "England",
+   "address": "Unit B, Meadowside, RETAIL PARK, Lamarsh Rd., Oxford OX2 0HF",
+   "phone": "0330 026 1088",
+   "website": "https://www.hobbycraft.co.uk/stores/edinburgh?utm_source=googlemybusiness&utm_medium=organicgmb&utm_campaign=localseo",
+   "checked_at": "2026-10-16T02:25:28Z"
   },
   {
    "name": "Hobbycraft Edinburgh",
@@ -1179,6 +1303,15 @@
    "checked_at": "2026-10-16T02:28:14Z"
   },
   {
+   "name": "Menkind",
+   "group": "blocked",
+   "region": "England",
+   "address": "Unit LG18, Westgate Centre, Queen St, Oxford OX1 1NZ",
+   "phone": "020 4639 9998",
+   "website": "https://www.menkind.co.uk/",
+   "checked_at": "2026-10-16T02:28:14Z"
+  },
+  {
    "name": "Mulligan Game Cafe",
    "group": "blocked",
    "address": "41A Upper Brook St, Ipswich, England, IP4 1DU, United Kingdom",
@@ -1194,7 +1327,6 @@
    "group": "blocked",
    "region": "England",
    "address": "DOCKYARD, UNIT 3, Albion Dockside Estate, Hanover Pl, Bristol BS1 6UT",
-   "phone": "07736 331170",
    "website": "https://www.etsy.com/uk/shop/NancyandBelle",
    "checked_at": "2026-10-16T02:25:49Z"
   },
@@ -1243,11 +1375,65 @@
    "checked_at": "2026-10-16T02:25:55Z"
   },
   {
+   "name": "Rough Trade Nottingham",
+   "group": "blocked",
+   "region": "England",
+   "address": "5 Broad St, Nottingham NG1 3AJ",
+   "phone": "0115 896 4012",
+   "website": "https://www.roughtrade.com/",
+   "checked_at": "2026-10-16T02:25:55Z"
+  },
+  {
    "name": "Ryman Stationery",
    "group": "blocked",
    "region": "England",
    "address": "20 Temple St, Birmingham B2 5BG",
    "phone": "0121 270 7432",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "region": "Scotland",
+   "address": "81 Shandwick Pl, Edinburgh EH2 4SD",
+   "phone": "0131 202 2614",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "region": "England",
+   "address": "29-31 High Friar, Eldon Square, Newcastle upon Tyne NE1 7XQ",
+   "phone": "0191 300 2391",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "region": "Wales",
+   "address": "3 Queen's Arcade, St Davids Centre, Cardiff CF10 2BY",
+   "phone": "029 2002 3683",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "region": "England",
+   "address": "7 Fitzroy St, Cambridge CB1 1ER",
+   "phone": "01223 650401",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "region": "England",
+   "address": "10 Queen St, Oxford OX1 1EJ",
+   "phone": "01865 587606",
    "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
    "checked_at": "2026-10-16T02:24:04Z"
   },
@@ -1259,6 +1445,15 @@
    "phone": "020 3609 3337",
    "website": "https://www.scottscollectables.co.uk/",
    "checked_at": "2026-10-16T02:23:51Z"
+  },
+  {
+   "name": "Shoestring EDH",
+   "group": "blocked",
+   "region": "England",
+   "address": "15 Troutbeck Way, South Shields NE34 9HE",
+   "phone": "07736 331170",
+   "website": "https://www.etsy.com/uk/shop/NancyandBelle",
+   "checked_at": "2026-10-16T02:25:49Z"
   },
   {
    "name": "Shuffle Board Game Café",
@@ -1336,6 +1531,24 @@
    "region": "Scotland",
    "address": "25 Lady Rd, Edinburgh EH16 5PB",
    "phone": "0131 672 3777",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "TGJones",
+   "group": "blocked",
+   "region": "England",
+   "address": "22 Cornmarket St, Oxford OX1 3HE",
+   "phone": "01865 248698",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "TGJones",
+   "group": "blocked",
+   "region": "Scotland",
+   "address": "St Nicholas St, George St, Aberdeen AB10 1HW",
+   "phone": "01224 647301",
    "website": "https://www.tgjonesonline.co.uk/storelocator",
    "checked_at": "2026-10-16T02:25:24Z"
   },
@@ -1551,6 +1764,16 @@
    "checked_at": "2026-10-16T02:24:30Z"
   },
   {
+   "name": "Baka Neko Brighton",
+   "group": "in_store",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "20 Marshalls Row, Brighton and Hove, Brighton BN1 4JU",
+   "phone": "01273 699322",
+   "website": "http://www.facebook.com/bakanekobrighton",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "BakaCards",
    "group": "in_store",
    "region": "England",
@@ -1595,6 +1818,16 @@
    "address": "First Floor, Barton House, Barton Rd, Long Eaton, Nottingham NG10 2FN",
    "phone": "0115 849 1494",
    "checked_at": "2026-10-16T02:27:01Z"
+  },
+  {
+   "name": "Bibliotheca Magica CIC",
+   "group": "in_store",
+   "city": "Chopwell",
+   "region": "England",
+   "address": "Chopwell Park Pavilion, Chopwell, Newcastle upon Tyne NE17 7EH",
+   "phone": "07446 139842",
+   "website": "http://facebook.com/profile.php/?id=100083229427134",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Black Raven Games Limited",
@@ -1691,6 +1924,15 @@
    "region": "Wales",
    "address": "1st Floor, Jacobs Antique Market, W Canal Wharf, Cardiff CF10 5DB",
    "checked_at": "2026-10-16T02:27:46Z"
+  },
+  {
+   "name": "Cards Den",
+   "group": "in_store",
+   "city": "Polbeth",
+   "region": "Scotland",
+   "address": "Unit C, The, Daks Bldg, Polbeth Industrial Estate, Polbeth, West Calder EH55 8TJ",
+   "website": "https://www.facebook.com/CardsDen",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Cards in the City",
@@ -2204,11 +2446,36 @@
    "checked_at": "2026-10-16T02:24:43Z"
   },
   {
+   "name": "MAS collectables",
+   "group": "in_store",
+   "city": "Eckington",
+   "region": "England",
+   "address": "51 Market St, Eckington, Sheffield S21 4EG",
+   "website": "https://www.facebook.com/share/1DezWeqUv6/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Megawin",
    "group": "in_store",
    "region": "Northern Ireland",
    "address": "1 Victoria Square, Belfast BT1 4QG",
    "checked_at": "2026-10-16T02:27:55Z"
+  },
+  {
+   "name": "MH94Cards",
+   "group": "in_store",
+   "region": "England",
+   "address": "51 Westerleigh Rd, Bristol BS16 6UU",
+   "website": "https://instagram.com/mh94cards",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Mike's Comics",
+   "group": "in_store",
+   "region": "England",
+   "address": "Stall 7, Exchange, Corn St, Bristol BS1 1JQ",
+   "website": "https://www.instagram.com/mikescomicsbristol",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "MiLOs TCG",
@@ -2278,6 +2545,15 @@
    "checked_at": "2026-10-16T02:20:00Z"
   },
   {
+   "name": "NK Collectibles",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "84 S Clerk St, Edinburgh EH8 9PT",
+   "phone": "07719 539979",
+   "website": "https://www.instagram.com/nkcardsncollectibles?igsh=Y2Zwa2Z0am5yNnk1&utm_source=qr",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Norton TCG",
    "group": "in_store",
    "address": "84b High St, Midsomer Norton, England, BA3 2DE, United Kingdom",
@@ -2343,7 +2619,6 @@
   {
    "name": "Piranha Comics - Kingston",
    "group": "in_store",
-   "city": "Brighton and Hove",
    "region": "England",
    "address": "Union St, Kingston upon Thames, UK, KT1 1RP, United Kingdom",
    "phone": "02036590889",
@@ -2376,6 +2651,14 @@
    "checked_at": "2026-10-16T02:27:34Z"
   },
   {
+   "name": "Pokecards",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "5 Raeburn Pl, Edinburgh EH4 1HU",
+   "website": "https://www.instagram.com/hellopokecards",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Pokemon center",
    "group": "in_store",
    "region": "England",
@@ -2405,6 +2688,16 @@
    "address": "7 Kensington Gardens, Brighton and Hove, Brighton BN1 4AL",
    "phone": "07460 394762",
    "checked_at": "2026-10-16T02:28:22Z"
+  },
+  {
+   "name": "POP PICK",
+   "group": "in_store",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "97 Church St, Brighton and Hove, Brighton BN1 1UJ",
+   "phone": "07849 645982",
+   "website": "https://www.instagram.com/poppick.toys",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Print 'n' Pull TCG",
@@ -2471,6 +2764,18 @@
    "checked_at": "2026-10-16T02:25:35Z"
   },
   {
+   "name": "Retro relics games cafe",
+   "group": "in_store",
+   "city": "Market Lavington",
+   "region": "England",
+   "address": "2 Woodlands Yard, Market Lavington, Devizes SN10 4AG, UK, Market Lavington, England, SN10 4AG",
+   "phone": "+44 7525 395276",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
    "name": "Rippin Pax",
    "group": "in_store",
    "region": "Scotland",
@@ -2486,6 +2791,15 @@
    "address": "1 London Wall, Barbican, London EC2Y 5BL",
    "phone": "07949 482204",
    "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "Sankyu 39",
+   "group": "in_store",
+   "region": "England",
+   "address": "Ste 1 , 1st Foor, 71 Lever St, Manchester M1 1FL",
+   "phone": "07544 549094",
+   "website": "https://www.instagram.com/sankyu39uk",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Sarahs Shinies",
@@ -2509,6 +2823,14 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:49Z"
+  },
+  {
+   "name": "Sector One",
+   "group": "in_store",
+   "region": "Wales",
+   "address": "Unit 2, Brickworks, Trade St, Cardiff CF10 5EG",
+   "website": "https://www.instagram.com/sectoronecards?igsh=MmkydnQ4MWR5emt2",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Seekers Keepers TCG",
@@ -2549,9 +2871,18 @@
    "checked_at": "2026-10-16T02:24:00Z"
   },
   {
-   "name": "Southsea Models and Games",
+   "name": "Southsea Models & Games",
    "group": "in_store",
    "city": "Portsmouth",
+   "region": "England",
+   "address": "69 Albert Rd, Southsea, Portsmouth, Southsea PO5 2SG",
+   "phone": "023 9273 3208",
+   "website": "https://m.facebook.com/SouthseaModelsandGames/",
+   "checked_at": "2026-10-16T02:17:26Z"
+  },
+  {
+   "name": "Southsea Models and Games",
+   "group": "in_store",
    "region": "England",
    "address": "69 Albert Road, Portsmouth, England, PO5 2SG, United Kingdom",
    "phone": "+44(0) 23 9273 3208",
@@ -2622,6 +2953,13 @@
    "checked_at": "2026-10-16T02:23:36Z"
   },
   {
+   "name": "Tcg store",
+   "group": "in_store",
+   "region": "England",
+   "address": "9 Percy St, Oxford OX4 3AA",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
    "name": "TCGsNTreats",
    "group": "in_store",
    "region": "England",
@@ -2672,6 +3010,15 @@
    "checked_at": "2026-10-16T02:27:07Z"
   },
   {
+   "name": "The Card Gallery",
+   "group": "in_store",
+   "region": "England",
+   "address": "387 Bitterne Rd, Bitterne Village, Southampton SO18 5RR",
+   "phone": "023 8043 7203",
+   "website": "https://www.instagram.com/thecardandgiftgallerybitterne/",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "The Card Market",
    "group": "in_store",
    "region": "England",
@@ -2681,6 +3028,22 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:43Z"
+  },
+  {
+   "name": "The Card Shop",
+   "group": "in_store",
+   "region": "England",
+   "address": "403 Sheffield Rd, Whittington Moor, Chesterfield S41 8LS",
+   "phone": "01246 452278",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "The Card Shop",
+   "group": "in_store",
+   "region": "England",
+   "address": "111 Salhouse Rd, Norwich NR7 9AN",
+   "phone": "01603 531803",
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "The Collectibles Hangar",
@@ -2811,6 +3174,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:24Z"
+  },
+  {
+   "name": "Toxel Tcg",
+   "group": "in_store",
+   "region": "England",
+   "address": "212 Liscard Rd, Liscard, Wallasey CH44 5TN",
+   "phone": "07450 938944",
+   "website": "https://www.instagram.com/toxel_tcg?igsh=MWNxbGFnc2dpMTg=",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Trade Off TCG",
@@ -3634,6 +4006,14 @@
    "checked_at": "2026-10-16T02:12:24Z"
   },
   {
+   "name": "Bandai Namco Cross Store Birmingham",
+   "group": "unknown",
+   "region": "England",
+   "address": "2, 42 New St, Birmingham B2 4EG",
+   "website": "https://www.bandainamcocrossstoreuk.com/",
+   "checked_at": "2026-10-16T02:22:57Z"
+  },
+  {
    "name": "Bandai Namco Cross Store Camden",
    "group": "unknown",
    "region": "England",
@@ -4204,6 +4584,107 @@
    "checked_at": "2026-10-16T02:24:21Z"
   },
   {
+   "name": "Card Empire",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 18, Market Hall, Market Pl, Stockport SK1 1ES",
+   "phone": "07982 232437",
+   "website": "https://www.cardempire.com/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Card Empire",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 5, Cavern Walks Shopping Centre, Mathew St, Liverpool L2 6RE",
+   "phone": "07982 232437",
+   "website": "https://www.cardempire.com/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Card Empire Nottingham",
+   "group": "unknown",
+   "region": "England",
+   "address": "36 Friar Ln, Nottingham NG1 6DQ",
+   "phone": "07982 232437",
+   "website": "https://www.cardempire.com/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Card Empire Sheffield",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 34, Moor Markets, 77 The Moor, Sheffield City Centre, Sheffield S1 4PF",
+   "phone": "07982 232437",
+   "website": "https://www.cardempire.com/",
+   "checked_at": "2026-10-16T02:24:21Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Argyle Building, Argyle St, Argyll Arcade, Glasgow G2 8BU",
+   "phone": "0141 248 5268",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Edinburgh",
+   "region": "Scotland",
+   "address": "119 Princes St., Edinburgh EH2 4AA",
+   "phone": "0131 225 5306",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "13a Lady Rd, Edinburgh EH16 5PB",
+   "phone": "0131 672 3514",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "England",
+   "address": "25-27 High Friar Ln, Eldon Square, Newcastle upon Tyne NE1 6QG",
+   "phone": "0191 222 1027",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "England",
+   "address": "66 Above Bar St, Southampton SO14 7NN",
+   "phone": "023 8023 1742",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "city": "Totton",
+   "region": "England",
+   "address": "33 Commercial Rd, Totton Precinct, Totton, Southampton SO40 3BX",
+   "phone": "023 8086 9615",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Card Factory",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Beach Boulevard Retail Park, Aberdeen AB11 5EJ",
+   "phone": "01224 592649",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
    "name": "Card Goblin",
    "group": "unknown",
    "region": "England",
@@ -4249,10 +4730,138 @@
   {
    "name": "cardfactory",
    "group": "unknown",
-   "city": "Edinburgh",
    "region": "England",
    "address": "Manchester Arndale, 58 Barbirolli Mall, Manchester M4 3AB",
    "phone": "0161 834 1080",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "St John's Centre, Leeds LS2 8LQ",
+   "phone": "0113 234 0180",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 30a, Fort Kinnaird Park Newcraighall Rd, Edinburgh EH15 3RD",
+   "phone": "0131 669 3359",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "cardfactory, 65 Broadmead, Bristol BS1 3EA",
+   "phone": "0117 925 5095",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "89 East St, Bedminster, Bristol BS3 4EX",
+   "phone": "0117 923 1141",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "92 The Moor, Sheffield City Centre, Sheffield S1 4PB",
+   "phone": "0114 263 4363",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Arnold",
+   "region": "England",
+   "address": "Unit 144, Victoria Centre, Nottingham NG1 3QE",
+   "phone": "0115 941 2854",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "28 Gallowtree Gate, Leicester LE1 1DA",
+   "phone": "0116 251 9525",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "26, 28 St David's Way, St Davids Centre, Cardiff CF10 2DP",
+   "phone": "029 2023 3097",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "Castle Court Shopping Centre, castle court, Belfast BT1 1DD",
+   "phone": "028 9023 6599",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "11 London Rd, Brighton and Hove, Brighton BN1 4JA",
+   "phone": "01273 622377",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Bar Hill",
+   "region": "England",
+   "address": "29 Fitzroy St, Cambridge CB1 1ER",
+   "phone": "01223 366791",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 33 Poundway, Templars Shopping Centre, Oxford OX4 3XX",
+   "phone": "01865 748809",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 18, 155 Union St, Aberdeen AB11 6BE",
+   "phone": "01224 588289",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "region": "England",
+   "address": "34 St Stephens St, Norwich NR1 3SH",
+   "phone": "01603 666024",
    "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
    "checked_at": "2026-10-16T02:24:40Z"
   },
@@ -4280,6 +4889,15 @@
    "region": "England",
    "address": "Haymarket Shopping Centre, 22 Humberstone Gate, Leicester LE1 3PH",
    "phone": "0116 319 3530",
+   "website": "https://www.cardsdirect.co.uk/",
+   "checked_at": "2026-10-16T02:27:24Z"
+  },
+  {
+   "name": "Cards Direct",
+   "group": "unknown",
+   "region": "England",
+   "address": "27, Marlands shopping centre, Civic Centre Rd, Southampton SO14 7SJ",
+   "phone": "023 8184 8614",
    "website": "https://www.cardsdirect.co.uk/",
    "checked_at": "2026-10-16T02:27:24Z"
   },
@@ -4324,6 +4942,66 @@
    "checked_at": "2026-10-16T02:24:55Z"
   },
   {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "region": "England",
+   "address": "30, Bramley Shopping Centre, Bramley, Leeds LS13 2ET",
+   "phone": "0113 255 1458",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "66-68 Renfield St, Glasgow G2 1NQ",
+   "phone": "0141 286 3286",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "region": "England",
+   "address": "82-86 Clayton St, Newcastle upon Tyne NE1 5PG",
+   "phone": "0191 230 1677",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "186 George St, Aberdeen AB25 1BS",
+   "phone": "01224 644111",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "23 Union St, Aberdeen AB11 5BP",
+   "phone": "01224 028497",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Generator Nottingham | The Buy and Sell Store",
+   "group": "unknown",
+   "region": "England",
+   "address": "10-11 Angel Row, Nottingham NG1 6HL",
+   "phone": "0115 778 8499",
+   "website": "https://cashgenerator.co.uk/pages/edinburgh",
+   "buylist_url": "https://cashgenerator.co.uk/pages/sell",
+   "checked_at": "2026-10-16T02:25:25Z"
+  },
+  {
    "name": "Castle Comics",
    "group": "unknown",
    "city": "Cumbernauld",
@@ -4335,6 +5013,16 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:15:48Z"
+  },
+  {
+   "name": "Castle Comics UK",
+   "group": "unknown",
+   "city": "East Kilbride",
+   "region": "Scotland",
+   "address": "37 Princess Mall, East Kilbride, Glasgow G74 1LW",
+   "phone": "01355 681681",
+   "website": "https://castlecomicsuk.co.uk/",
    "checked_at": "2026-10-16T02:15:48Z"
   },
   {
@@ -4366,9 +5054,209 @@
   {
    "name": "CeX",
    "group": "unknown",
-   "city": "Crystal Peaks",
    "region": "England",
    "address": "Unit 26, 89-90 Bull St, Birmingham B4 7AA",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 50, Barbirolli Mall, Manchester Arndale, Manchester M4 2HU",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 28a, White Rose Shopping Centre, Leeds LS11 8LU",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "28 The Headrow, Leeds LS1 8EQ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "28, 40 Union St, Glasgow G1 3QX",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 2, 19 Rose St, Edinburgh EH2 2PR",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 18, Cameron Toll Shopping Centre, 6 Lady Rd, Edinburgh EH16 5PB",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "54 Lord St, Liverpool L2 1TD",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "CEX, 21-23 Broadmead, Bristol BS1 3HF",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "27/29 High St, Sheffield City Centre, Sheffield S1 2GA",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Crystal Peaks",
+   "region": "England",
+   "address": "19, Shopping Centre, Unit 37 West Mall, Crystal Peaks, Sheffield S20 7PJ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "81-83 Grainger St, Newcastle upon Tyne NE1 5JF",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "2 Exchange Walk, Nottingham NG1 2NX",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "37 Gallowtree Gate, Leicester LE1 5AD",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "9-11 St. Davids Way, St Davids Centre, Cardiff CF10 2DP",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "25-27 Ann St, Belfast BT1 4EB",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 2324, The Marlands Shopping Centre, Southampton SO14 7SJ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "9 Fitzroy St, Cambridge CB1 1ER",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "Templars Square, Unit 19 The Square, Oxford OX4 3UZ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "46 Union St, Aberdeen AB10 1BD",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "region": "England",
+   "address": "35-37 St Stephens St, Norwich NR1 3QN",
    "phone": "0330 123 5986",
    "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
    "buylist_url": "https://uk.webuy.com/sell/",
@@ -4453,12 +5341,92 @@
    "checked_at": "2026-10-16T02:18:35Z"
   },
   {
+   "name": "Clinton Cards",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "55 St Enoch Sq, Glasgow G1 4BW",
+   "phone": "0141 248 4857",
+   "website": "https://www.clintonscards.co.uk/our-stores/",
+   "checked_at": "2026-10-16T02:24:43Z"
+  },
+  {
+   "name": "Clinton Cards",
+   "group": "unknown",
+   "region": "England",
+   "address": "3, Eldon Way, Eldon Square, Newcastle upon Tyne NE1 7XW",
+   "phone": "0191 232 7837",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
    "name": "Clintons",
    "group": "unknown",
    "city": "Stretford",
    "region": "England",
    "address": "Unit 7, 30 Regent Cres, Trafford Park, Stretford, Manchester M17 8AP",
    "phone": "0161 749 8632",
+   "website": "https://www.clintonscards.co.uk/our-stores/",
+   "checked_at": "2026-10-16T02:24:43Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "England",
+   "address": "12-13 Commercial St, Leeds LS1 6AL",
+   "website": "https://www.clintonscards.co.uk/our-stores/",
+   "checked_at": "2026-10-16T02:24:43Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "England",
+   "address": "Meadowhall Shopping Centre, High St, Meadowhall, Sheffield S9 1BY",
+   "phone": "0114 256 9131",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 024, Nottingham NG1 3QB",
+   "phone": "0115 950 8151",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "England",
+   "address": "Units 16, & 17, Highcross St, Leicester LE1 4FR",
+   "phone": "0116 251 9122",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 11-12, 155 Union St, Aberdeen AB11 6BE",
+   "phone": "01224 582782",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 122 Mercants hall, Chantry place shopping centre, Lower ground, Norwich NR2 1SF",
+   "phone": "01603 662411",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons - Belfast Castle Lane",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "10 Castle Ln, Belfast BT1 5DA",
+   "phone": "028 9031 1821",
    "website": "https://www.clintonscards.co.uk/our-stores/",
    "checked_at": "2026-10-16T02:24:43Z"
   },
@@ -5104,6 +6072,16 @@
    "checked_at": "2026-10-16T02:12:55Z"
   },
   {
+   "name": "Edinburgh Collectables",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "16, 18 Crighton Pl, Edinburgh EH7 4NY",
+   "phone": "0131 561 4189",
+   "website": "https://linktr.ee/pokemonduelcards",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:23:08Z"
+  },
+  {
    "name": "EH Gaming",
    "group": "unknown",
    "city": "Stockton on the Forest",
@@ -5138,6 +6116,26 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:14:27Z"
+  },
+  {
+   "name": "Element Games Newcastle",
+   "group": "unknown",
+   "region": "England",
+   "address": "18-20 Ridley Pl, Newcastle upon Tyne NE1 8JN",
+   "phone": "0191 261 8998",
+   "website": "https://elementgames.co.uk/store-information?%1=",
+   "buylist_url": "https://elementgames.co.uk/store-credit",
+   "checked_at": "2026-10-16T02:14:27Z"
+  },
+  {
+   "name": "Element Games Nottingham",
+   "group": "unknown",
+   "region": "England",
+   "address": "58 Long Row W, Nottingham NG1 6JE",
+   "phone": "0115 837 5657",
+   "website": "https://elementgames.co.uk/store-information?%1=",
+   "buylist_url": "https://elementgames.co.uk/store-credit",
    "checked_at": "2026-10-16T02:14:27Z"
   },
   {
@@ -5372,6 +6370,123 @@
    "checked_at": "2026-10-16T02:12:59Z"
   },
   {
+   "name": "Forbidden Planet",
+   "group": "unknown",
+   "region": "England",
+   "address": "19-23 Friar Ln, Nottingham NG1 6DA",
+   "phone": "0115 948 4122",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Belfast",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "52-54 Ann St, Belfast BT1 4ED",
+   "phone": "028 9043 8744",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Birmingham",
+   "group": "unknown",
+   "region": "England",
+   "address": "74 Bull St, Birmingham B4 6AD",
+   "phone": "0121 236 3026",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Forbidden Planet Brighton",
+   "group": "unknown",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "35-36 West St, Brighton and Hove, Brighton BN1 2RE",
+   "phone": "01273 964540",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Bristol",
+   "group": "unknown",
+   "region": "England",
+   "address": "4 & 5, Clifton Heights Triangle West, Clifton, Bristol BS8 1EJ",
+   "phone": "0117 929 7767",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Forbidden Planet Cambridge",
+   "group": "unknown",
+   "region": "England",
+   "address": "28-30 Burleigh St, Cambridge CB1 1DG",
+   "phone": "01223 301666",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Forbidden Planet Cardiff",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "5 Duke St, Cardiff CF10 1AY",
+   "phone": "029 2022 8885",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Edinburgh",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "40-41 South Bridge, Edinburgh EH1 1LL",
+   "phone": "0131 558 8226",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Glasgow",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "122-126 Sauchiehall St, Glasgow G2 3DH",
+   "phone": "0141 331 1215",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet International",
+   "group": "unknown",
+   "region": "England",
+   "address": "8 The Headrow, Leeds LS1 6PT",
+   "phone": "0113 242 6325",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Leicester",
+   "group": "unknown",
+   "region": "England",
+   "address": "23 Silver St, Leicester LE1 5EU",
+   "phone": "0116 251 5266",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Liverpool",
+   "group": "unknown",
+   "region": "England",
+   "address": "92 Bold St, Liverpool L1 4HY",
+   "phone": "0151 707 1491",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
    "name": "Forbidden Planet LTD - London",
    "group": "unknown",
    "region": "England",
@@ -5381,6 +6496,54 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Forbidden Planet Manchester",
+   "group": "unknown",
+   "region": "England",
+   "address": "65-67 Oldham St, Manchester M1 1JR",
+   "phone": "0161 839 4777",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Newcastle",
+   "group": "unknown",
+   "region": "England",
+   "address": "49 Grainger St, Newcastle upon Tyne NE1 5JE",
+   "phone": "0191 261 9173",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Forbidden Planet Norwich",
+   "group": "unknown",
+   "region": "England",
+   "address": "59-61 St Stephens St, Norwich NR1 3QR",
+   "phone": "01603 576890",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Sheffield",
+   "group": "unknown",
+   "region": "England",
+   "address": "70 The Moor, Sheffield City Centre, Sheffield S1 4PA",
+   "phone": "0114 276 9475",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Southampton",
+   "group": "unknown",
+   "region": "England",
+   "address": "24 Hanover Buildings, Southampton SO14 1JU",
+   "phone": "023 8022 4761",
+   "website": "https://www.forbiddenplanet.com",
    "checked_at": "2026-10-16T02:12:17Z"
   },
   {
@@ -5457,11 +6620,239 @@
   {
    "name": "GAME",
    "group": "unknown",
-   "city": "Patchway",
    "region": "England",
    "address": "150, 154 Oxford St, London W1D 1ND",
    "phone": "0344 332 5666",
    "website": "https://www.game.co.uk/oxford-street-store-0666",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "18 New St, Birmingham B2 4RQ",
+   "phone": "0343 909 2193",
+   "website": "https://www.game.co.uk/birmingham-new-st-store-2193",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 1B, Battery Retail Park, Chapel Ln, Selly Oak, Birmingham B29 6SJ",
+   "phone": "0343 777 1497",
+   "website": "https://www.game.co.uk/selly-oak-sd-store-1497",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit B1, cheetham hill retail park, Cheetham Hill Rd, Cheetham Hill, Manchester M8 8BB",
+   "phone": "0343 909 2185",
+   "website": "https://www.game.co.uk/cheetham-hill-store-2185",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "20 The Headrow, Leeds LS1 6PT",
+   "phone": "0343 777 1333",
+   "website": "https://www.game.co.uk/leeds-centre-store-1333",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 63, White Rose Shopping Centre, Dewsbury Rd, Leeds LS11 8LU",
+   "phone": "0343 909 3396",
+   "website": "https://www.game.co.uk/leeds-white-rose-sd-store-3396",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "28-32 Argyle St, Glasgow G2 8AD",
+   "phone": "0343 909 3249",
+   "website": "https://www.game.co.uk/glasgow---argyle-st-store-0326",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "35 Church St, Liverpool L1 1DF",
+   "phone": "0343 909 3864",
+   "website": "https://www.game.co.uk/liverpool-church-sd-store-3864",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "Patchway",
+   "region": "England",
+   "address": "13/15 Broadmead, Bristol BS1 3HF",
+   "phone": "0344 332 5154",
+   "website": "https://www.game.co.uk/bristol---broadmead-store-0154",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "city": "Portishead",
+   "region": "England",
+   "address": "21-23 High St, Portishead, Bristol BS20 6AF",
+   "phone": "0343 909 3978",
+   "website": "https://www.game.co.uk/portishead-sd-store-3978",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "92, Shop 1, 3 The Moor, Sheffield City Centre, Sheffield S1 4PH",
+   "phone": "0343 909 2879",
+   "website": "https://www.game.co.uk/sheffield-moor-store-2879",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "Metrocentre",
+   "region": "England",
+   "address": "42 Northumberland St, Newcastle upon Tyne NE1 7AF",
+   "phone": "0343 909 2986",
+   "website": "https://www.game.co.uk/newcastle-store-2986",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit F1, Silverlink Retail Park, Coast Rd, Wallsend NE28 9ND",
+   "phone": "0344 332 5206",
+   "website": "https://www.game.co.uk/newcastle---silverlink-store-0206",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit S-T, The Galleries, Parkway, Washington NE38 7RW",
+   "phone": "0344 332 5387",
+   "website": "https://www.game.co.uk/washington-store-0387",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "Beeston",
+   "region": "England",
+   "address": "3, Chilwell Retail Park, Barton Ln, Beeston, Nottingham NG9 6DS",
+   "phone": "0344 332 5236",
+   "website": "https://www.game.co.uk/nottingham---chilwell-store-0236",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "11-13 Lister Gate, Nottingham NG1 7DE",
+   "phone": "0343 909 3832",
+   "website": "https://www.game.co.uk/nottingham-lister-sd-store-3832",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "52, 56 Gallowtree Gate, Leicester LE1 1DA",
+   "phone": "0343 777 1780",
+   "website": "https://www.game.co.uk/leicester-gallowtree-store-1780",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "63 - 67 Queen St, St Davids Centre, Cardiff CF10 2BE",
+   "phone": "0343 777 1973",
+   "website": "https://www.game.co.uk/cardiff-queen-sd-store-1973",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "Unit D, 5-7 Castle Pl, Belfast BT1 1JL",
+   "phone": "0343 909 3965",
+   "website": "https://www.game.co.uk/belfast-don-arcade-store-3965",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "Unit 2 and 3, Bow Street Mall, Antrim St, Lisburn BT28 1AU",
+   "phone": "0343 909 2350",
+   "website": "https://www.game.co.uk/lisburn-store-2350",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "40-50 Above Bar St, Southampton SO14 7DS",
+   "phone": "0343 777 1498",
+   "website": "https://www.game.co.uk/southampton-above-store-1498",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Wells Pl Msu, 3A, The Swan Centre Wells Place, Shopping Centre, Eastleigh SO50 5FX",
+   "phone": "0344 332 5369",
+   "website": "https://www.game.co.uk/eastleigh-store-0369",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 34, 37 Lion Yard, Cambridge CB2 3NA",
+   "phone": "0344 332 5199",
+   "website": "https://www.game.co.uk/cambridge---lion-yard-store-0199",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Retail Park, Unit 6 Ambassador Ave, Cowley, Oxford OX4 6XJ",
+   "phone": "0344 332 5218",
+   "website": "https://www.game.co.uk/oxford---cowley-store-0218",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 2, Retail Park, West Way, Botley, Oxford OX2 0JJ",
+   "phone": "0343 777 1074",
+   "website": "https://www.game.co.uk/oxford-seacourt-store-1074",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Berryden Retail Park, Berryden Rd, Aberdeen AB25 3SG",
+   "phone": "0343 909 2793",
+   "website": "https://www.game.co.uk/aberdeen-berryden-store-2793",
    "checked_at": "2026-10-16T02:23:36Z"
   },
   {
@@ -5489,6 +6880,15 @@
    "checked_at": "2026-10-16T02:18:10Z"
   },
   {
+   "name": "Game District Elgin – Mobile Repairs, Gaming Consoles & Pokémon Cards",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "132 High St, Elgin IV30 1BW",
+   "phone": "01343 509099",
+   "website": "https://www.gamedistrict.uk/password",
+   "checked_at": "2026-10-16T02:18:10Z"
+  },
+  {
    "name": "Game Guru (Utilita Arena)",
    "group": "unknown",
    "region": "England",
@@ -5498,6 +6898,15 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:13:18Z"
+  },
+  {
+   "name": "Game Guru - Board Game Cafe Solihull",
+   "group": "unknown",
+   "region": "England",
+   "address": "Touchwood Shopping Centre, 25 Jubilee Walk, Solihull B91 3HT",
+   "phone": "0121 296 9218",
+   "website": "https://gameguru.co.uk",
    "checked_at": "2026-10-16T02:13:18Z"
   },
   {
@@ -5621,6 +7030,17 @@
    "address": "101 Lauriston Pl, Edinburgh EH3 9JB",
    "website": "https://edinburghgamehub.com/",
    "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
+   "name": "Games Network",
+   "group": "unknown",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "100 Blatchington Rd, Brighton and Hove, Hove BN3 3YF",
+   "phone": "01273 786752",
+   "website": "https://www.games-network.co.uk/",
+   "buylist_url": "https://www.games-network.co.uk/trade-in",
+   "checked_at": "2026-10-16T21:46:21Z"
   },
   {
    "name": "GamesHaven Retail Limited",
@@ -5861,6 +7281,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:45Z"
+  },
+  {
+   "name": "GG Trading Cards and Collectables",
+   "group": "unknown",
+   "city": "Stonham Aspal",
+   "region": "England",
+   "address": "Pod 12/13, Stonham Barns, Pettaugh road, Stonham Aspal, Stowmarket IP14 6AT",
+   "website": "https://linktr.ee/pokemonduelcards",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:23:08Z"
   },
   {
    "name": "Giant Kitten",
@@ -6131,6 +7561,14 @@
    "checked_at": "2026-10-16T02:15:32Z"
   },
   {
+   "name": "HUZ Gaming",
+   "group": "unknown",
+   "region": "England",
+   "address": "32 Cank St, Leicester LE1 5GW",
+   "website": "https://www.huzgaming.com/",
+   "checked_at": "2026-10-16T21:46:16Z"
+  },
+  {
    "name": "I Love Scotland",
    "group": "unknown",
    "region": "Scotland",
@@ -6259,6 +7697,14 @@
    "group": "unknown",
    "region": "England",
    "address": "17 Landcross Rd, Fallowfield, Manchester M14 6LZ",
+   "website": "https://japans2uk.com/",
+   "checked_at": "2026-10-16T02:24:36Z"
+  },
+  {
+   "name": "Japan2uk",
+   "group": "unknown",
+   "region": "England",
+   "address": "5 Barnhill Rd, Liverpool L15 5BE",
    "website": "https://japans2uk.com/",
    "checked_at": "2026-10-16T02:24:36Z"
   },
@@ -6526,6 +7972,15 @@
    "phone": "0113 234 0363",
    "website": "https://www.leedscornexchange.co.uk/",
    "checked_at": "2026-10-16T02:25:01Z"
+  },
+  {
+   "name": "LEGO® Store Belfast",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "1 Victoria Square, Belfast BT1 4QG",
+   "phone": "028 9602 6988",
+   "website": "https://www.lego.com/en-gb/stores/store/cardiff?cmp=REF-202601-GBP-772&y_source=1_MTY2ODY3MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T02:27:46Z"
   },
   {
    "name": "Leicester Vintage & Old Toy Shop",
@@ -7543,11 +8998,28 @@
    "checked_at": "2026-10-16T02:20:22Z"
   },
   {
+   "name": "Pokemon Game Card",
+   "group": "unknown",
+   "region": "England",
+   "address": "25 Hilton St, Manchester M1 1EL",
+   "website": "https://t.me/+cmAltjvh9nM2NzQx",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-16T02:23:05Z"
+  },
+  {
+   "name": "Pokemon Trading Card Game",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "588E Glasgow Rd, Clydebank G81 1NH",
+   "phone": "07300 414074",
+   "website": "https://api.whatsapp.com/send/?phone=237672257426&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:22:51Z"
+  },
+  {
    "name": "POKÈMON TCG CENTER",
    "group": "unknown",
    "region": "England",
    "address": "99 Kensington High St, London W8 5SA",
-   "phone": "07300 414074",
    "website": "https://api.whatsapp.com/send/?phone=237672257426&text&type=phone_number&app_absent=0",
    "checked_at": "2026-10-16T02:22:51Z"
   },
@@ -7560,6 +9032,14 @@
    "checked_at": "2026-10-16T02:29:10Z"
   },
   {
+   "name": "Pokémon cards store",
+   "group": "unknown",
+   "region": "England",
+   "address": "451 Westdale Ln W, Mapperley, Nottingham NG3 6DG",
+   "website": "https://api.whatsapp.com/send/?phone=237672257426&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:22:51Z"
+  },
+  {
    "name": "Pokémon Center",
    "group": "unknown",
    "region": "England",
@@ -7570,10 +9050,8 @@
   {
    "name": "Pokémon Duel Cards",
    "group": "unknown",
-   "city": "Kirkintilloch",
    "region": "England",
    "address": "80 Victoria St, London SW1H 0HW",
-   "phone": "07376 450367",
    "website": "https://linktr.ee/pokemonduelcards",
    "buylist_url": "https://linktr.ee/buylist",
    "checked_at": "2026-10-16T02:23:08Z"
@@ -7958,6 +9436,15 @@
    "checked_at": "2026-10-16T02:16:15Z"
   },
   {
+   "name": "Rules of Play - Cardiff",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "29, Castle Arcade, Cardiff CF10 1BW",
+   "phone": "029 2022 1695",
+   "website": "https://rulesofplay.co.uk/",
+   "checked_at": "2026-10-16T02:16:15Z"
+  },
+  {
    "name": "Rusys Collectables Ltd",
    "group": "unknown",
    "address": "13 Church Green East , Redditch, Worcestershire, B98 8bp, United Kingdom",
@@ -8013,10 +9500,100 @@
   {
    "name": "Scribbler",
    "group": "unknown",
-   "city": "Brighton and Hove",
    "region": "England",
    "address": "14 Market St, Manchester M1 1PT",
    "phone": "0161 834 9201",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "29 Commercial St, Leeds LS1 6HH",
+   "phone": "0113 243 4663",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Unit 20, Central, 79 Gordon St, Glasgow G1 3SQ",
+   "phone": "0141 248 1003",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "80a Princes St., Edinburgh EH2 2ER",
+   "phone": "0131 220 5793",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "140 Grainger St, Newcastle upon Tyne NE1 5AF",
+   "phone": "0191 261 0736",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "10 Albert St, Nottingham NG1 7DA",
+   "phone": "0115 947 2340",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "48 Royal Arcade, Cardiff CF10 1AE",
+   "phone": "029 2022 6835",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "8 Cranbourne St, Brighton and Hove, Brighton BN1 2RD",
+   "phone": "01273 739221",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "2 Market Passage, Cambridge CB2 3PA",
+   "phone": "01223 314861",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "6 New Inn Hall St, Oxford OX1 2DH",
+   "phone": "01865 727524",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "region": "England",
+   "address": "Scribbler Cards, 1 The Royal Arcade, Norwich NR2 1NQ",
+   "phone": "01603 617272",
    "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
    "checked_at": "2026-10-16T02:24:26Z"
   },
@@ -8152,11 +9729,159 @@
    "checked_at": "2026-10-16T02:24:35Z"
   },
   {
-   "name": "Smyths Toys Superstores Leeds Junction",
+   "name": "Smyths Toys Superstores Aberdeen",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "6-7, beach boulevard retail park, Links Rd, Aberdeen AB11 5EJ",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Boucher Rd",
+   "group": "unknown",
+   "city": "Forestside",
+   "region": "Northern Ireland",
+   "address": "Unit 6-7, Shane Retail Park, Boucher Rd, Belfast BT12 6HR",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Bristol Cribbs Causeway",
+   "group": "unknown",
+   "city": "Patchway",
+   "region": "England",
+   "address": "5, Block A, Cribbs Causeway Retail Park, Lysander Rd, Patchway, Bristol BS34 5TX",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Cardiff East",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "unit 4, Avenue Retail Park, Newport Rd, Cardiff CF23 9FF",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Cardiff Leckwith",
+   "group": "unknown",
+   "region": "Wales",
+   "address": "Capital Shopping Park, 6 Hadfield Rd, Cardiff CF11 8EG",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Edinburgh",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "27B, Fleming House, Fort Kinnaird Retail Park, Newcraighall Rd, Edinburgh EH15 3RD",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Leeds Bridge / Kirkstall",
    "group": "unknown",
    "city": "Birstall",
    "region": "England",
+   "address": "10, Kirkstall Bridge Shopping Park, Bridge Rd, Kirkstall, Leeds LS5 3BL",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Leeds Junction",
+   "group": "unknown",
+   "region": "England",
    "address": "Unit 15, Crown Point Retail Park, Junction St, Leeds LS10 1ET",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Leicester",
+   "group": "unknown",
+   "region": "England",
+   "address": "St. Margaret's Retail Park, 25 Devonshire Rd, Leicester LE4 0BG",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Liverpool Edge Lane",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 39, Liverpool Shopping Park, Edge Ln, Liverpool L13 1EW",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Liverpool North",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 3, North Retail Park, 2 Portal Wy, Fazakerley, Liverpool L11 0JA",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Meadowhall",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit A1, meadowhall retail park, Attercliffe Common, Sheffield S9 2YZ",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Metro Centre",
+   "group": "unknown",
+   "city": "Metrocentre",
+   "region": "England",
+   "address": "Unit 3, metro retail park, Metrocentre, Gateshead NE11 9XU",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Newtownabbey",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "5-6, Valley Retail Park, Church Rd, Newtownabbey BT36 7LP",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Nottingham",
+   "group": "unknown",
+   "region": "England",
+   "address": "5, Eastpoint Retail Park, Daleside Rd, Nottingham NG2 3GG",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Sheffield",
+   "group": "unknown",
+   "city": "Waterthorpe",
+   "region": "England",
+   "address": "6, Drakehouse Retail Park, Waterthorpe Greenway, Waterthorpe, Sheffield S20 7JJ",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Southampton",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 6, west quay retail park, Harbour Parade, Southampton SO15 1BA",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Team Valley",
+   "group": "unknown",
+   "region": "England",
+   "address": "12, Team Valley Shopping Park, Dukesway W, Team Valley, Gateshead NE11 0BD",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Wallsend",
+   "group": "unknown",
+   "region": "England",
+   "address": "Middle Engine Ln, Wallsend NE28 9NT",
    "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
    "checked_at": "2026-10-16T02:24:58Z"
   },
@@ -8239,6 +9964,16 @@
    "checked_at": "2026-10-16T02:27:36Z"
   },
   {
+   "name": "St Nicholas Market",
+   "group": "unknown",
+   "region": "England",
+   "address": "The Corn Exchange, Corn St, Bristol BS1 1JQ",
+   "phone": "0117 922 4014",
+   "website": "https://linktr.ee/pokemonduelcards",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:23:08Z"
+  },
+  {
    "name": "Stanley Gibbons",
    "group": "unknown",
    "region": "England",
@@ -8275,6 +10010,17 @@
    "phone": "020 8560 9598",
    "website": "https://www.stylecreep.com/",
    "checked_at": "2026-10-16T02:23:31Z"
+  },
+  {
+   "name": "Sword & Sorcery",
+   "group": "unknown",
+   "city": "Kirkintilloch",
+   "region": "Scotland",
+   "address": "76 Townhead, Kirkintilloch, Glasgow G66 1NZ",
+   "phone": "07376 450367",
+   "website": "https://linktr.ee/pokemonduelcards",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:23:08Z"
   },
   {
    "name": "TableTaps",
@@ -8388,6 +10134,7 @@
   {
    "name": "The Adventurer's Attic",
    "group": "unknown",
+   "region": "England",
    "address": "Unit 29, Grange Road Pyramids Shopping Centre, Birkenhead, Wirral, CH41 2ZL, United Kingdom",
    "phone": "+4407539714765",
    "website": "https://theadventurersattic.co.uk/",
@@ -8581,6 +10328,16 @@
    "checked_at": "2026-10-16T02:18:27Z"
   },
   {
+   "name": "The Collector store Delivery",
+   "group": "unknown",
+   "region": "England",
+   "address": "148 James's Rd, London SE1 5BW",
+   "phone": "07882 771959",
+   "website": "https://t.me/+cmAltjvh9nM2NzQx",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-16T02:23:05Z"
+  },
+  {
    "name": "The Comic Shop LTD",
    "group": "unknown",
    "region": "England",
@@ -8623,12 +10380,140 @@
   {
    "name": "The Entertainer",
    "group": "unknown",
-   "city": "Metrocentre",
    "region": "England",
    "address": "Unit MSU10A, Bullring, Birmingham B5 4BE",
    "phone": "0121 616 1326",
    "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
    "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "409-410 Albion St, Leeds LS1 5AY",
+   "phone": "0113 246 7531",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "White Rose, Dewsbury Rd, Leeds LS11 8LU",
+   "phone": "0113 272 1906",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 28, The Springs Thorpe, 1150 Park Approach, Century Way, Leeds LS15 8GB",
+   "phone": "0113 264 4734",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 35-37, Dawson St, Liverpool L1 1LY",
+   "phone": "0151 707 0941",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 77, Bond St S, Broadmead, Bristol BS1 3BX",
+   "phone": "0117 929 4698",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 12, The Arcade, Meadowhall, Sheffield S9 1EH",
+   "phone": "0114 256 8097",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Metrocentre",
+   "region": "England",
+   "address": "Unit 1.72, 69 Russell Way, Metrocentre, Gateshead NE11 9YG",
+   "phone": "0191 493 2170",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 302B, 301 Lower Parliament St, Nottingham NG1 3QN",
+   "phone": "0115 924 1325",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Cardiff",
+   "region": "Wales",
+   "address": "6-12, St Davids, Bridge St, St Davids Centre, Cardiff, Way CF10 2EF",
+   "phone": "029 2034 2580",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "Castle Court Unit 60 Castle Court Shopping Centre, Royal Ave, Belfast BT1 1DD",
+   "phone": "028 9031 2544",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 56, Grafton Centre, Fitzroy St, Cambridge CB1 1PS",
+   "phone": "01223 327182",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "Union Square Retail Park Unit 6a, Aberdeen AB11 5RD",
+   "phone": "01224 090044",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "region": "England",
+   "address": "33 Castle Quarter, Norwich NR1 3DD",
+   "phone": "01603 631190",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Game Shop",
+   "group": "unknown",
+   "city": "Crystal Peaks",
+   "region": "England",
+   "address": "84-85 Market Street, Crystal Peaks, Sheffield S20 7PL",
+   "phone": "07361 896305",
+   "website": "https://www.game.co.uk/",
+   "checked_at": "2026-10-16T02:23:36Z"
   },
   {
    "name": "The Gamers Lodge",
@@ -8714,6 +10599,15 @@
    "checked_at": "2026-10-16T02:13:22Z"
   },
   {
+   "name": "The Graded Gallery (Walsall)",
+   "group": "unknown",
+   "region": "England",
+   "address": "67 Bridge St, Walsall WS1 1JQ",
+   "phone": "01922 926828",
+   "website": "https://thegradedgallery.com/",
+   "checked_at": "2026-10-16T02:13:22Z"
+  },
+  {
    "name": "The Great Yorkshire Shop - Local gifts and souvenirs from Leeds & Yorkshire",
    "group": "unknown",
    "region": "England",
@@ -8790,6 +10684,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:26Z"
+  },
+  {
+   "name": "The LEGO® Store Oxford",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit L23, Westgate Shopping Centre, Oxford OX1 1NZ",
+   "phone": "01865 632922",
+   "website": "https://www.lego.com/en-gb/stores/store/cardiff?cmp=REF-202601-GBP-772&y_source=1_MTY2ODY3MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T02:27:46Z"
   },
   {
    "name": "The Lizards Lair Gaming Co",
@@ -9063,6 +10966,15 @@
    "checked_at": "2026-10-16T02:27:29Z"
   },
   {
+   "name": "The Television And Movie Store",
+   "group": "unknown",
+   "region": "England",
+   "address": "2 Millennium Plain, Norwich NR2 1TF",
+   "phone": "01603 611420",
+   "website": "https://www.tvmnorwich.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
    "name": "The Venue Plymouth",
    "group": "unknown",
    "region": "England",
@@ -9117,6 +11029,15 @@
    "address": "91 Front St, Chester-le-Street DH3 3BJ",
    "website": "http://thencard.jnobleandsons.com",
    "checked_at": "2026-10-16T02:26:53Z"
+  },
+  {
+   "name": "Thistle Tavern",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "395 Union St, Aberdeen AB11 6BX",
+   "website": "https://thistletavern.com",
+   "buylist_url": "https://thistletavern.com/pages/fab-buylist",
+   "checked_at": "2026-10-16T02:15:57Z"
   },
   {
    "name": "Thistle Tavern Games Hub Edinburgh",
@@ -9223,6 +11144,15 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:15:39Z"
+  },
+  {
+   "name": "TokyoToys Anime, Manga Store + Video Game Merchandise.",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "27 Union St, Glasgow G1 3RB",
+   "phone": "0141 387 0263",
+   "website": "https://tokyotoys.com/",
    "checked_at": "2026-10-16T02:15:39Z"
   },
   {
@@ -9342,6 +11272,24 @@
    "checked_at": "2026-10-16T02:25:13Z"
   },
   {
+   "name": "Travelling Man",
+   "group": "unknown",
+   "region": "England",
+   "address": "32 Central Rd, Leeds LS1 6DE",
+   "phone": "0113 345 2420",
+   "website": "https://travellingman.com/",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "Travelling Man",
+   "group": "unknown",
+   "region": "England",
+   "address": "43 Grainger St, Newcastle upon Tyne NE1 5JE",
+   "phone": "0191 261 4993",
+   "website": "https://travellingman.com/",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
    "name": "Travelling Man - Manchester",
    "group": "unknown",
    "region": "England",
@@ -9352,6 +11300,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "TridentCards - Mansfield",
+   "group": "unknown",
+   "region": "England",
+   "address": "1 Queen St, Mansfield NG18 1JN",
+   "phone": "07503 667369",
+   "website": "https://tridentcards.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
   },
   {
    "name": "TrinityCentre",
@@ -9611,6 +11568,42 @@
    "checked_at": "2026-10-16T02:26:54Z"
   },
   {
+   "name": "Warhammer",
+   "group": "unknown",
+   "region": "England",
+   "address": "Unit 2, 16/20 Silver St, Leicester LE1 5ET",
+   "phone": "0116 253 0510",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "13 Wellington Pl, Belfast BT1 6GB",
+   "phone": "028 9023 3684",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "region": "England",
+   "address": "1A, Bush House, New Inn Hall St, Oxford OX1 2DH",
+   "phone": "01865 242182",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer World",
+   "group": "unknown",
+   "region": "England",
+   "address": "Willow Rd, Lenton, Nottingham NG7 2WS",
+   "phone": "0115 900 4151",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
    "name": "Warlord Games",
    "group": "unknown",
    "region": "England",
@@ -9629,6 +11622,33 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "128 Princes St., Edinburgh EH2 4AD",
+   "phone": "0131 226 2666",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "region": "England",
+   "address": "Emerson Chambers, Blackett St, Newcastle upon Tyne NE1 7JF",
+   "phone": "0191 261 7757",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "region": "Northern Ireland",
+   "address": "44-46 Fountain St, Belfast BT1 5EE",
+   "phone": "028 9024 0159",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
   },
   {
    "name": "Waterstones - Newport",
@@ -9760,6 +11780,16 @@
    "address": "23 Longacre Cl, Sheffield S20 3FR",
    "website": "https://worldofsuperheroes.com/",
    "checked_at": "2026-10-16T02:26:12Z"
+  },
+  {
+   "name": "Worlds Apart Liverpool",
+   "group": "unknown",
+   "region": "England",
+   "address": "Lime Court, 58-60 Lime St, Liverpool L1 1JN",
+   "phone": "0151 707 0839",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "checked_at": "2026-10-16T02:13:59Z"
   },
   {
    "name": "Wright Cards",

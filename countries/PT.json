@@ -1,8 +1,8 @@
 {
  "country": "PT",
  "currency": "EUR",
- "updated": "2026-10-15",
- "store_count": 204,
+ "updated": "2026-10-16",
+ "store_count": 243,
  "stores": [
   {
    "name": "Kingpin Books",
@@ -64,12 +64,32 @@
    "checked_at": "2026-10-16T03:31:11Z"
   },
   {
+   "name": "Decathlon",
+   "group": "blocked",
+   "city": "Faro",
+   "region": "Faro",
+   "address": "R. Eng. Nuno Abecassis 2, 8005-548 Faro",
+   "phone": "289 892 050",
+   "website": "https://www.decathlon.pt/store-view/loja-de-desporto-braga-0070054300543",
+   "checked_at": "2026-10-16T03:32:02Z"
+  },
+  {
    "name": "Decathlon Braga",
    "group": "blocked",
    "city": "Braga",
    "region": "Braga",
    "address": "Av. Dom Eurico Dias Nogueira, 4700-441 Braga",
    "phone": "253 602 060",
+   "website": "https://www.decathlon.pt/store-view/loja-de-desporto-braga-0070054300543",
+   "checked_at": "2026-10-16T03:32:02Z"
+  },
+  {
+   "name": "Decathlon Coimbra",
+   "group": "blocked",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "Av. José Bonifácio de Andrade e Silva 1, 3040-389 Coimbra",
+   "phone": "239 246 080",
    "website": "https://www.decathlon.pt/store-view/loja-de-desporto-braga-0070054300543",
    "checked_at": "2026-10-16T03:32:02Z"
   },
@@ -173,12 +193,42 @@
    "checked_at": "2026-10-16T03:31:44Z"
   },
   {
+   "name": "TeeLegend, for Geeks, Nerds & Jedi",
+   "group": "blocked",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "R. Visc. da Luz 56, 3000-179 Coimbra",
+   "phone": "913 879 914",
+   "website": "https://www.teelegend.com/",
+   "checked_at": "2026-10-16T03:31:44Z"
+  },
+  {
    "name": "Toys \"R\" Us",
    "group": "blocked",
    "city": "Lisboa",
    "region": "Lisboa",
    "address": "Av. Lusíada s/n, 1500-392 Lisboa",
    "phone": "21 138 9453",
+   "website": "https://www.toysrus.pt/",
+   "checked_at": "2026-10-16T03:31:06Z"
+  },
+  {
+   "name": "Toys \"R\" Us Coimbra",
+   "group": "blocked",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "Coimbra Retail Park Eiras, Loja 10, 3020-487 Coimbra",
+   "phone": "239 436 406",
+   "website": "https://www.toysrus.pt/",
+   "checked_at": "2026-10-16T03:31:06Z"
+  },
+  {
+   "name": "Toys 'R' Us",
+   "group": "blocked",
+   "city": "Braga",
+   "region": "Braga",
+   "address": "Av. Robert Smith, 4715-249 Braga",
+   "phone": "253 250 030",
    "website": "https://www.toysrus.pt/",
    "checked_at": "2026-10-16T03:31:06Z"
   },
@@ -192,6 +242,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:30:01Z"
+  },
+  {
+   "name": "Zenith Game Store",
+   "group": "blocked",
+   "city": "Leiria",
+   "region": "Leiria",
+   "address": "Av. Marquês de Pombal 7 420, LT, 2410-152 Leiria, Portugal, Leiria, Leiria, 2410-152",
+   "phone": "918 494 013",
+   "website": "https://www.zenithgamestore.pt/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:59Z"
   },
   {
    "name": "4 Games And Toys",
@@ -287,6 +350,17 @@
    "checked_at": "2026-10-16T03:32:12Z"
   },
   {
+   "name": "Café Beira",
+   "group": "in_store",
+   "city": "Covilhã",
+   "region": "Castelo Branco",
+   "address": "R. Conselheiro António Pedroso dos Santos 13, 6200-344 Covilhã, Portugal, Covilhã, Castelo Branco, 6200-344",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:59Z"
+  },
+  {
    "name": "Casa da Sorte",
    "group": "in_store",
    "city": "Coimbra",
@@ -320,6 +394,15 @@
    "region": "Faro",
    "address": "R. do Bocage 118, 8000-297 Faro",
    "checked_at": "2026-10-16T03:32:24Z"
+  },
+  {
+   "name": "Counterspell",
+   "group": "in_store",
+   "city": "Carnaxide",
+   "region": "Lisboa",
+   "address": "R. Manuel Teixeira Gomes 25B, 2790-102 Carnaxide",
+   "website": "https://www.instagram.com/counterspell.pt?igsh=MWt2aDNiMWNpdWwxdQ==",
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "CrystalBet Point",
@@ -378,6 +461,19 @@
    "checked_at": "2026-10-16T03:30:54Z"
   },
   {
+   "name": "GaleriaBT - Game Center",
+   "group": "in_store",
+   "city": "Sines",
+   "region": "Setúbal",
+   "address": "R. Gomes Freire Gen. 19, 7520-241 Sines, Portugal, Sines, Setúbal, 7520-241",
+   "phone": "936286438",
+   "website": "https://www.facebook.com/GaleriaBT/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Gargula Templo de Jogos",
    "group": "in_store",
    "city": "Estoril",
@@ -424,6 +520,17 @@
    "checked_at": "2026-10-16T03:29:50Z"
   },
   {
+   "name": "Guildpact",
+   "group": "in_store",
+   "city": "Almada",
+   "region": "Setúbal",
+   "address": "R. Manuel da Fonseca 12, 2800-573 Almada, Portugal, Almada, Setúbal, 2800-573",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:49:59Z"
+  },
+  {
    "name": "Gárgula Gaming",
    "group": "in_store",
    "city": "Lisboa",
@@ -450,6 +557,15 @@
    "checked_at": "2026-10-16T03:31:35Z"
   },
   {
+   "name": "Kanto Geek",
+   "group": "in_store",
+   "city": "Porto",
+   "region": "Porto",
+   "address": "R. do Bonjardim 505, 4000-126 Porto",
+   "website": "https://www.instagram.com/kanto.geek/",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Kiosque Dos Milhões",
    "group": "in_store",
    "city": "Braga",
@@ -466,6 +582,36 @@
    "address": "Av. José Bonifácio de Andrada e Silva, 1 c/o Forum, 3040-389 Coimbra",
    "phone": "239 120 345",
    "checked_at": "2026-10-16T03:32:21Z"
+  },
+  {
+   "name": "Livraria Timtimportimtim",
+   "group": "in_store",
+   "city": "Porto",
+   "region": "Porto",
+   "address": "4050-213, Rua da Conceição 27, Porto",
+   "phone": "22 201 1083",
+   "website": "https://www.facebook.com/pages/Livraria-Timtimportimtim/129318483809523?fref=ts",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Loja de Jogos - MAGUS",
+   "group": "in_store",
+   "city": "Vila Nova de Famalicão",
+   "region": "Braga",
+   "address": "Rua Mário Cesariny, Urb, Rua Quinta da Maia 3375 Loja 2, 4760-010 Vila Nova de Famalicão",
+   "phone": "252 213 380",
+   "website": "http://facebook.com/magusportugal",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Loja de Jogos de Tabuleiro - JOGOS & COMPANHIA...",
+   "group": "in_store",
+   "city": "Olhão",
+   "region": "Faro",
+   "address": "R. 18 de Junho nº40, 8700-478 Olhão",
+   "phone": "969 885 043",
+   "website": "https://www.facebook.com/Jogos-Companhia-973183239399031/",
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Loja do Jó",
@@ -533,6 +679,16 @@
    "checked_at": "2026-10-16T03:30:37Z"
   },
   {
+   "name": "Mercadia Sul",
+   "group": "in_store",
+   "city": "Almada",
+   "region": "Setúbal",
+   "address": "R. Manuel da Fonseca 12A, 2800-573 Almada",
+   "phone": "937 063 323",
+   "website": "https://www.instagram.com/mercadia_sul/",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Mercadinho Spirolino",
    "group": "in_store",
    "city": "Coimbra",
@@ -568,6 +724,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:30:37Z"
+  },
+  {
+   "name": "PlayHub",
+   "group": "in_store",
+   "city": "Faro",
+   "region": "Faro",
+   "address": "R. Eng. Aboim Sande de Lemos 8 A, 8000-544 Faro",
+   "phone": "964 033 659",
+   "website": "https://www.instagram.com/playhubfaro/",
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Pokemon Cards For Sale",
@@ -785,12 +951,21 @@
    "checked_at": "2026-10-16T03:32:29Z"
   },
   {
+   "name": "Adidas Forum Coimbra",
+   "group": "unknown",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "Av. José Bonifácio de Andrade e Silva 1 Lj 1.52, 3040-389 Coimbra",
+   "phone": "962 451 995",
+   "website": "https://www.adidas.com/",
+   "checked_at": "2026-10-16T03:32:06Z"
+  },
+  {
    "name": "adidas Store Braga",
    "group": "unknown",
    "city": "Porto",
    "region": "Braga",
    "address": "Quinta dos Congregados S/N, 4710-427 Porto",
-   "phone": "962 451 995",
    "website": "https://www.adidas.com/",
    "checked_at": "2026-10-16T03:32:06Z"
   },
@@ -1019,6 +1194,39 @@
    "checked_at": "2026-10-16T03:31:00Z"
   },
   {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Porto",
+   "region": "Porto",
+   "address": "Alameda Shop Spot, R. dos Campeões Europeus 28-198 Loja 1.20/1.21, 4350-414 Porto",
+   "phone": "21 136 9467",
+   "website": "https://pt.webuy.com/site/storeDetail/?branchId=13005",
+   "buylist_url": "https://pt.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:31:00Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Braga",
+   "region": "Braga",
+   "address": "Av. Central 88 - 90, 4710-229 Braga",
+   "phone": "21 136 9467",
+   "website": "https://pt.webuy.com/site/storeDetail/?branchId=13005",
+   "buylist_url": "https://pt.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:31:00Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "C.C Alma Shopping, R. Gen. Humberto Delgado 007A, Fonte da Cheira, 3030-327 Coimbra",
+   "phone": "21 136 9467",
+   "website": "https://pt.webuy.com/site/storeDetail/?branchId=13005",
+   "buylist_url": "https://pt.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:31:00Z"
+  },
+  {
    "name": "CONBINI - Hobby & Collectables",
    "group": "unknown",
    "city": "Lisboa",
@@ -1140,6 +1348,15 @@
    "checked_at": "2026-10-16T03:29:50Z"
   },
   {
+   "name": "Duels of Honor",
+   "group": "unknown",
+   "city": "Reboleira",
+   "region": "Lisboa",
+   "address": "Av. Conde Castro Guimarães 18A 2720, Reboleira",
+   "website": "https://duelosdehonra.weebly.com/",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Eleclerc",
    "group": "unknown",
    "city": "Braga",
@@ -1202,6 +1419,16 @@
    "checked_at": "2026-10-16T03:32:00Z"
   },
   {
+   "name": "Flying Tiger Copenhagen Forum Algarve",
+   "group": "unknown",
+   "city": "Faro",
+   "region": "Faro",
+   "address": "N125 KM 103 Loja 0.81+0.82, 8009-020 Faro",
+   "phone": "964 389 353",
+   "website": "https://flyingtiger.com/pt-pt",
+   "checked_at": "2026-10-16T03:32:16Z"
+  },
+  {
    "name": "Flying Tiger Copenhagen Fórum Coimbra",
    "group": "unknown",
    "city": "Coimbra",
@@ -1217,6 +1444,86 @@
    "city": "Lisboa",
    "region": "Lisboa",
    "address": "Centro Colombo, Av. Lusíada Lj A - 103, 1500-392 Lisboa",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Fnac",
+   "group": "unknown",
+   "city": "Braga",
+   "region": "Braga",
+   "address": "Quinta dos Congregados 323, 4710-427 Braga",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "FNAC",
+   "group": "unknown",
+   "city": "Vila Nova de Famalicão",
+   "region": "Braga",
+   "address": "Av. do Brasil 206, 4760-010 Vila Nova de Famalicão",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Fnac",
+   "group": "unknown",
+   "city": "Guimarães",
+   "region": "Braga",
+   "address": "Alameda Dr. Mariano Felgueiras 413, 4835-075 Guimarães",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "FNAC",
+   "group": "unknown",
+   "city": "Viana do Castelo",
+   "region": "Viana do Castelo",
+   "address": "Estação Viana Shopping, R. Gen. Humberto Delgado 101 Loja A006, 4900-317 Viana do Castelo",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "FNAC",
+   "group": "unknown",
+   "city": "Guilhufe",
+   "region": "Porto",
+   "address": "Av. Central de Guilhufe, 4560-143 Guilhufe",
+   "phone": "925 454 080",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "FNAC",
+   "group": "unknown",
+   "city": "Porto",
+   "region": "Porto",
+   "address": "Aeroporto Francisco Sá Carneiro - Porto, Ar, Piso 2 , Loja EC 12D, Pedras Rubras, 4470-558 Porto",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Fnac",
+   "group": "unknown",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "Av. José Bonifácio de Andrade e Silva, 3044-520 Coimbra",
+   "phone": "21 153 6000",
+   "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Fnac",
+   "group": "unknown",
+   "city": "Faro",
+   "region": "Faro",
+   "address": "N125 Km 103 Loja 0.7, 8000-126 Faro",
    "phone": "21 153 6000",
    "website": "https://www.fnac.pt/Fnac-Colombo/Fnac-Colombo/cl2/w-4?origin=gmb_fnaccolombo",
    "checked_at": "2026-10-16T03:30:54Z"
@@ -1495,6 +1802,16 @@
    "checked_at": "2026-10-16T03:31:15Z"
   },
   {
+   "name": "Loja INCM - Coimbra",
+   "group": "unknown",
+   "city": "Coimbra",
+   "region": "Coimbra",
+   "address": "R. Visc. da Luz 94, 96 e 98, 3000-414 Coimbra",
+   "phone": "21 799 8010",
+   "website": "https://incm.pt/site/index.php",
+   "checked_at": "2026-10-16T03:31:15Z"
+  },
+  {
    "name": "Loja Senhor Gato",
    "group": "unknown",
    "city": "Sra. da Hora",
@@ -1554,6 +1871,16 @@
    "checked_at": "2026-10-16T03:30:03Z"
   },
   {
+   "name": "Mercadia Oeste",
+   "group": "unknown",
+   "city": "Lousa",
+   "region": "Lisboa",
+   "address": "R. Heróis do Ultramar 62A, 2670-764 Lousa",
+   "phone": "967 805 279",
+   "website": "https://mercadiagames.pt/",
+   "checked_at": "2026-10-16T03:30:03Z"
+  },
+  {
    "name": "Miniversos",
    "group": "unknown",
    "city": "Porto",
@@ -1562,6 +1889,16 @@
    "phone": "928 249 292",
    "website": "https://miniversos.pt/",
    "checked_at": "2026-10-16T03:31:19Z"
+  },
+  {
+   "name": "Mirai Cards Portugal",
+   "group": "unknown",
+   "city": "Mafra",
+   "region": "Lisboa",
+   "address": "Largo Cel. Brito Gorjão 8, 2640-465 Mafra",
+   "phone": "261 106 944",
+   "website": "https://www.miraicards.pt/",
+   "checked_at": "2026-10-16T21:49:59Z"
   },
   {
    "name": "Mocho Roxo - Loja esotérica e Cartomancia",
@@ -1628,11 +1965,56 @@
    "checked_at": "2026-10-16T03:31:26Z"
   },
   {
+   "name": "Note! Barcelos",
+   "group": "unknown",
+   "city": "Vila Frescainha (São Pedro)",
+   "region": "Braga",
+   "address": "Rua do Passal, Freguesia de Vila Frescaínha de, 4750-804 Vila Frescainha (São Pedro)",
+   "website": "https://noteonline.pt/",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "note! Braga - Minho Center",
+   "group": "unknown",
+   "city": "Braga",
+   "region": "Braga",
+   "address": "Av. Robert Smith, 4715-249 Braga",
+   "website": "https://noteonline.pt/",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
    "name": "Note! Ferreira Borges",
    "group": "unknown",
    "city": "Lisboa",
    "region": "Lisboa",
    "address": "R. Ferreira Borges 82 A, 1350-127 Lisboa",
+   "website": "https://noteonline.pt/",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Note! Mira Maia",
+   "group": "unknown",
+   "city": "Maia",
+   "region": "Porto",
+   "address": "Estrada Real nº 95 Centro Comercial Maia Vivaci, 4470-274 Maia",
+   "website": "https://noteonline.pt/",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "note! Trindade",
+   "group": "unknown",
+   "city": "Porto",
+   "region": "Porto",
+   "address": "Praça Trindade 146 loja 4, 4000-235 Porto",
+   "website": "https://noteonline.pt/",
+   "checked_at": "2026-10-16T03:30:54Z"
+  },
+  {
+   "name": "Note! Valongo",
+   "group": "unknown",
+   "city": "Valongo",
+   "region": "Porto",
+   "address": "Av. do Conhecimento 75, R. Julião Sarmento 285, 4440-837 Valongo",
    "website": "https://noteonline.pt/",
    "checked_at": "2026-10-16T03:30:54Z"
   },
@@ -1663,6 +2045,16 @@
    "region": "Braga",
    "address": "R. dos Congregados 23, 4710-427 Braga",
    "phone": "939 875 651",
+   "website": "https://www.pingodoce.pt/",
+   "checked_at": "2026-10-16T03:31:49Z"
+  },
+  {
+   "name": "Pingo Doce - Braga, Frossos",
+   "group": "unknown",
+   "city": "Frossos",
+   "region": "Braga",
+   "address": "R. de Cima 58, 4700-151 Frossos",
+   "phone": "938 875 748",
    "website": "https://www.pingodoce.pt/",
    "checked_at": "2026-10-16T03:31:49Z"
   },
@@ -2101,6 +2493,8 @@
   {
    "name": "Versus Gamecenter Algés",
    "group": "unknown",
+   "city": "Algés",
+   "region": "Lisboa",
    "address": "Av. dos Bombeiros Voluntários de Algés, 68B, R/C, Algés, 11, 1495-023, Portugal",
    "phone": "351216058505",
    "website": "https://magic.wizards.com/en",

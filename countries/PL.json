@@ -1,8 +1,8 @@
 {
  "country": "PL",
  "currency": "PLN",
- "updated": "2026-10-15",
- "store_count": 311,
+ "updated": "2026-10-16",
+ "store_count": 356,
  "stores": [
   {
    "name": "MTGSPOT",
@@ -16,6 +16,20 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:39Z"
+  },
+  {
+   "name": "MTGSPOT",
+   "group": "public_buylist",
+   "city": "Katowice",
+   "region": "Województwo śląskie",
+   "address": "Ignacego Mościckiego 6, 40-857 Katowice, Poland, Katowice, Województwo śląskie, 40-857",
+   "phone": "+48 668 194 628",
+   "website": "https://www.mtgspot.pl/",
+   "buylist_url": "https://buylist.mtgspot.pl/sell-singles",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:45:39Z"
   },
@@ -79,6 +93,46 @@
    "checked_at": "2026-10-16T03:49:06Z"
   },
   {
+   "name": "Decathlon Korona",
+   "group": "blocked",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Bolesława Krzywoustego 126, 51-421 Wrocław",
+   "phone": "71 711 89 00",
+   "website": "https://www.decathlon.pl/store-view/sport-shop-bielany-wroc%C5%82awskie-0070037600376?utm_source=google&utm_medium=organic&utm_campaign=google_business_website",
+   "checked_at": "2026-10-16T03:49:06Z"
+  },
+  {
+   "name": "Decathlon Poznań Franowo",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Szwedzka 8, 61-285 Poznań",
+   "phone": "61 641 52 45",
+   "website": "https://www.decathlon.pl/store-view/sport-shop-bielany-wroc%C5%82awskie-0070037600376?utm_source=google&utm_medium=organic&utm_campaign=google_business_website",
+   "checked_at": "2026-10-16T03:49:06Z"
+  },
+  {
+   "name": "Decathlon Swadzim",
+   "group": "blocked",
+   "city": "Swadzim",
+   "region": "Województwo wielkopolskie",
+   "address": "Św. Antoniego 5, 62-080 Swadzim",
+   "phone": "61 641 54 45",
+   "website": "https://www.decathlon.pl/store-view/sport-shop-bielany-wroc%C5%82awskie-0070037600376?utm_source=google&utm_medium=organic&utm_campaign=google_business_website",
+   "checked_at": "2026-10-16T03:49:06Z"
+  },
+  {
+   "name": "Decathlon Łódź Pasaż Łódzki",
+   "group": "blocked",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Aleja Jana Pawła II 30, 93-570 Łódź",
+   "phone": "42 298 65 75",
+   "website": "https://www.decathlon.pl/store-view/sport-shop-bielany-wroc%C5%82awskie-0070037600376?utm_source=google&utm_medium=organic&utm_campaign=google_business_website",
+   "checked_at": "2026-10-16T03:49:06Z"
+  },
+  {
    "name": "Draft Game",
    "group": "blocked",
    "city": "Poznań",
@@ -135,6 +189,16 @@
    "city": "Poznań",
    "region": "Województwo wielkopolskie",
    "address": "Szwedzka 10A, 61-285 Poznań",
+   "phone": "22 338 88 88",
+   "website": "https://www.jula.pl/nasze-sklepy/poznan/",
+   "checked_at": "2026-10-16T03:49:30Z"
+  },
+  {
+   "name": "Jula",
+   "group": "blocked",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "św. Teresy od Dzieciątka Jezus 100, 91-341 Łódź",
    "phone": "22 338 88 88",
    "website": "https://www.jula.pl/nasze-sklepy/poznan/",
    "checked_at": "2026-10-16T03:49:30Z"
@@ -244,6 +308,16 @@
    "checked_at": "2026-10-16T03:49:47Z"
   },
   {
+   "name": "Skup książek – Antykwariat Tezeusz (Poznań)",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Szczepankowo 91, 61-306 Poznań",
+   "phone": "664 734 834",
+   "website": "https://www.tezeusz.pl/",
+   "checked_at": "2026-10-16T03:48:41Z"
+  },
+  {
    "name": "Theseus. Antiquarian and Bookstore",
    "group": "blocked",
    "city": "Kraków",
@@ -276,6 +350,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:26Z"
+  },
+  {
+   "name": "Wilczek",
+   "group": "blocked",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Garbary 64, 61-758 Poznań",
+   "phone": "534 954 355",
+   "website": "https://wilczek.poznan.pl/",
+   "checked_at": "2026-10-16T03:45:46Z"
   },
   {
    "name": "Wilczek Sklep",
@@ -343,6 +427,16 @@
    "region": "Województwo mazowieckie",
    "address": "Bobrowiecka 9, 00-728 Warszawa",
    "checked_at": "2026-10-16T03:47:05Z"
+  },
+  {
+   "name": "ARTWALD",
+   "group": "in_store",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Komandorska 66, CH Arena Stoisko nr 100, przy wejściu od parkingu, 54-343 Wrocław",
+   "phone": "693 347 297",
+   "website": "http://facebook.com/artwald",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Automat z kartami pokaemon",
@@ -466,6 +560,19 @@
    "checked_at": "2026-10-16T03:48:59Z"
   },
   {
+   "name": "GC",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Mazowieckie",
+   "address": "Chmielna 122, Warszawa, Poland, Warszawa, Mazowieckie, 03",
+   "phone": "+48 506550330",
+   "website": "https://www.facebook.com/wargamingpl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Gildia Grodzisk",
    "group": "in_store",
    "city": "Gdańsk",
@@ -507,6 +614,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:46:00Z"
+  },
+  {
+   "name": "Gry i Karty — Pokemon | MTG | Lorcana",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Karmelicka 9, 31-133 Kraków",
+   "phone": "887 139 948",
+   "website": "http://www.facebook.com/gryikarty",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Grywanda",
@@ -567,6 +684,16 @@
    "region": "Województwo łódzkie",
    "address": "Skrzydlata 32, 95-050 Konstantynów Łódzki",
    "checked_at": "2026-10-16T03:50:37Z"
+  },
+  {
+   "name": "Kitsunebu",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Nowomiejska 3, 91-414 Łódź",
+   "phone": "517 216 428",
+   "website": "https://facebook.com/kitsunebu",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Klaser55 - Sklep filatelistyczny, monety, militaria",
@@ -634,6 +761,18 @@
    "checked_at": "2026-10-16T03:49:35Z"
   },
   {
+   "name": "Mystic Shop",
+   "group": "in_store",
+   "city": "Nowy Sącz",
+   "region": "Województwo małopolskie",
+   "address": "Jana Długosza 11/4, 33-300 Nowy Sącz, Poland, Nowy Sącz, Województwo małopolskie, 33-300",
+   "phone": "0048730287787",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:50:50Z"
+  },
+  {
    "name": "Notogramy TCG i zabawki",
    "group": "in_store",
    "city": "Zielonka",
@@ -676,6 +815,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:36Z"
+  },
+  {
+   "name": "PL Card World Poznań",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Galeria Panorama, Górecka 30, 61-001 Poznań",
+   "website": "https://www.facebook.com/PLCardWorld.Poznan/",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "PlanetToys",
@@ -756,6 +904,26 @@
    "address": "Bolesława Chrobrego 11, 50-240 Wrocław",
    "phone": "514 547 778",
    "checked_at": "2026-10-16T03:48:51Z"
+  },
+  {
+   "name": "Skrzat - piętrowy sklep z zabawkami i artykułami szkolnymi.",
+   "group": "in_store",
+   "city": "Luboń",
+   "region": "Województwo wielkopolskie",
+   "address": "Żabikowska 45, 62-030 Luboń",
+   "phone": "500 652 327",
+   "website": "http://www.facebook.com/sklepskrzat",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "Strefa Gracza",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Obrońców Wybrzeża 1, 80-398 Gdańsk",
+   "phone": "535 007 007",
+   "website": "https://m.facebook.com/GsmStrefaGracza/",
+   "checked_at": "2026-10-16T03:45:53Z"
   },
   {
    "name": "Swiat Gier",
@@ -844,6 +1012,28 @@
    "city": "Wrocław",
    "region": "Województwo dolnośląskie",
    "address": "plac Dominikański 3, 50-159 Wrocław",
+   "phone": "503 200 100",
+   "website": "https://mediamarkt.pl/pl/store/mediamarkt-wroclaw-plac-dominikanski-166?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=P311",
+   "buylist_url": "https://mediamarkt.pl/pl/specials/trade-in",
+   "checked_at": "2026-10-16T03:49:05Z"
+  },
+  {
+   "name": "Media Markt",
+   "group": "not_buying_singles",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Aleje Solidarności 47, 61-696 Poznań",
+   "phone": "503 200 100",
+   "website": "https://mediamarkt.pl/pl/store/mediamarkt-wroclaw-plac-dominikanski-166?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=P311",
+   "buylist_url": "https://mediamarkt.pl/pl/specials/trade-in",
+   "checked_at": "2026-10-16T03:49:05Z"
+  },
+  {
+   "name": "Media Markt",
+   "group": "not_buying_singles",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 15, 90-307 Łódź",
    "phone": "503 200 100",
    "website": "https://mediamarkt.pl/pl/store/mediamarkt-wroclaw-plac-dominikanski-166?utm_source=google%20places&utm_medium=seo-places%20link&utm_term=P311",
    "buylist_url": "https://mediamarkt.pl/pl/specials/trade-in",
@@ -1040,6 +1230,16 @@
    "checked_at": "2026-10-16T03:49:34Z"
   },
   {
+   "name": "Auchan",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 94, 92-202 Łódź",
+   "phone": "22 444 02 22",
+   "website": "https://www.auchan.pl/pl/sklepy/auchan-poznan-bukowska",
+   "checked_at": "2026-10-16T03:49:34Z"
+  },
+  {
    "name": "AZYL KOMIKSU",
    "group": "unknown",
    "city": "Poznań",
@@ -1102,6 +1302,16 @@
    "region": "Województwo mazowieckie",
    "address": "Puławska 111A/Lokal 4, 02-707 Warszawa",
    "phone": "784 371 277",
+   "website": "https://bigcards.pl/",
+   "checked_at": "2026-10-16T03:46:39Z"
+  },
+  {
+   "name": "Big Cards Hobby Store",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "ks. Piotra Skargi 22, 50-082 Wrocław",
+   "phone": "734 430 802",
    "website": "https://bigcards.pl/",
    "checked_at": "2026-10-16T03:46:39Z"
   },
@@ -1314,6 +1524,39 @@
    "checked_at": "2026-10-16T03:47:34Z"
   },
   {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Świdnicka 41, 50-029 Wrocław",
+   "phone": "71 337 57 77",
+   "website": "https://pl.webuy.com/site/storeDetail/?branchId=16013",
+   "buylist_url": "https://pl.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:47:34Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Półwiejska 14, 61-888 Poznań",
+   "phone": "61 853 91 25",
+   "website": "https://pl.webuy.com/site/storeDetail/?branchId=16013",
+   "buylist_url": "https://pl.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:47:34Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 83, 90-423 Łódź",
+   "phone": "573 790 389",
+   "website": "https://pl.webuy.com/site/storeDetail/?branchId=16013",
+   "buylist_url": "https://pl.webuy.com/sell/",
+   "checked_at": "2026-10-16T03:47:34Z"
+  },
+  {
    "name": "Chaos Games",
    "group": "unknown",
    "city": "Piła",
@@ -1354,6 +1597,16 @@
    "phone": "531 205 937",
    "website": "http://comics4fun.com/",
    "checked_at": "2026-10-16T03:50:32Z"
+  },
+  {
+   "name": "Cube Centrum Gier",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Słowiańska 53c/LOK 2, 61-664 Poznań",
+   "phone": "508 458 325",
+   "website": "https://www.cubecp.pl/",
+   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Cyberpub Andrzej Jarzebak",
@@ -1423,6 +1676,36 @@
    "city": "Kraków",
    "region": "Województwo małopolskie",
    "address": "Rynek Główny 23, 31-008 Kraków",
+   "phone": "22 462 72 52",
+   "website": "https://www.empik.com/salony-empik/krakow/krakow-rynek,12088,e?utm_source=google&utm_medium=organic&utm_campaign=googlemaps",
+   "checked_at": "2026-10-16T03:48:29Z"
+  },
+  {
+   "name": "Empik",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Plac Grunwaldzki 22, 50-363 Wrocław",
+   "phone": "22 462 72 52",
+   "website": "https://www.empik.com/salony-empik/krakow/krakow-rynek,12088,e?utm_source=google&utm_medium=organic&utm_campaign=googlemaps",
+   "checked_at": "2026-10-16T03:48:29Z"
+  },
+  {
+   "name": "Empik",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Ratajczaka 44, 61-816 Poznań",
+   "phone": "22 462 72 52",
+   "website": "https://www.empik.com/salony-empik/krakow/krakow-rynek,12088,e?utm_source=google&utm_medium=organic&utm_campaign=googlemaps",
+   "checked_at": "2026-10-16T03:48:29Z"
+  },
+  {
+   "name": "Empik",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Al. Marsz. Józefa Piłsudskiego 15/23, 90-307 Łódź",
    "phone": "22 462 72 52",
    "website": "https://www.empik.com/salony-empik/krakow/krakow-rynek,12088,e?utm_source=google&utm_medium=organic&utm_campaign=googlemaps",
    "checked_at": "2026-10-16T03:48:29Z"
@@ -1507,12 +1790,32 @@
    "checked_at": "2026-10-16T03:49:02Z"
   },
   {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 55, 90-413 Łódź",
+   "phone": "42 292 00 17",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/pl/wroclaw/sucha-1/pl01038",
+   "checked_at": "2026-10-16T03:49:02Z"
+  },
+  {
    "name": "Folkstar",
    "group": "unknown",
    "city": "Wrocław",
    "region": "Województwo dolnośląskie",
    "address": "Galeria Dominikańska, plac Dominikański 3, 50-159 Wrocław",
    "phone": "570 800 993",
+   "website": "http://folkstar.pl/pl/",
+   "checked_at": "2026-10-16T03:48:55Z"
+  },
+  {
+   "name": "Folkstar Łódź",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Piotrkowska 70, 90-105 Łódź",
+   "phone": "575 300 633",
    "website": "http://folkstar.pl/pl/",
    "checked_at": "2026-10-16T03:48:55Z"
   },
@@ -1535,6 +1838,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:33Z"
+  },
+  {
+   "name": "FUTUREX",
+   "group": "unknown",
+   "city": "Gdynia",
+   "region": "Województwo pomorskie",
+   "address": "Waleriana Szefki 2d/b8, 81-572 Gdynia",
+   "phone": "503 975 260",
+   "website": "https://futurex.pl/",
+   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Galaktyka Gier",
@@ -1714,6 +2027,19 @@
    "phone": "509 019 199",
    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FGreenGameCenter",
    "checked_at": "2026-10-16T03:49:48Z"
+  },
+  {
+   "name": "Gry i Karty",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Karmelicka 9, 31-133 Kraków, Poland, Kraków, Województwo małopolskie, 31-133",
+   "phone": "+48 887 139 948",
+   "website": "https://gryikarty.pl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Grybezpradu",
@@ -2042,6 +2368,8 @@
   {
    "name": "MAGIC Cafe",
    "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
    "address": "ul. Torfowa 7, Kraków, MA, 30-384, Poland",
    "phone": "+48(0) 666167666",
    "website": "https://magic.wizards.com/en",
@@ -2049,6 +2377,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:27Z"
+  },
+  {
+   "name": "Maginarium.pl",
+   "group": "unknown",
+   "city": "Gdynia",
+   "region": "Województwo pomorskie",
+   "address": "Abrahama 50, 81-395 Gdynia, Poland, Gdynia, Województwo pomorskie, 81-395",
+   "website": "https://maginarium.pl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "ManaDrop.pl - Sklep Hobbystyczny",
@@ -2108,6 +2448,16 @@
    "checked_at": "2026-10-16T03:45:18Z"
   },
   {
+   "name": "Merfolk",
+   "group": "unknown",
+   "city": "Pruszków",
+   "region": "Województwo mazowieckie",
+   "address": "Tadeusza Kościuszki 44, 05-800 Pruszków",
+   "phone": "883 427 699",
+   "website": "https://sklep.merfolk.pl",
+   "checked_at": "2026-10-16T03:45:18Z"
+  },
+  {
    "name": "MGLA",
    "group": "unknown",
    "city": "Jaworzno",
@@ -2162,6 +2512,19 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:26Z"
+  },
+  {
+   "name": "Morigal",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Kadecka 1, 33-332 Kraków, Poland, Kraków, Województwo małopolskie, 33-332",
+   "phone": "574 418 373",
+   "website": "https://morigal.pl/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:45:26Z"
   },
@@ -2775,6 +3138,46 @@
    "checked_at": "2026-10-16T03:49:03Z"
   },
   {
+   "name": "Smyk",
+   "group": "unknown",
+   "city": "Luboń",
+   "region": "Województwo wielkopolskie",
+   "address": "Dębiecka 1, Factory, 62-030 Luboń",
+   "phone": "22 448 00 00",
+   "website": "https://www.smyk.com/pl/pl/storelocator",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
+   "name": "Smyk",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Manufaktura, Jana Karskiego 5, 91-071 Łódź",
+   "phone": "22 448 00 00",
+   "website": "https://www.smyk.com/pl/pl/storelocator",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
+   "name": "Smyk. Megastore",
+   "group": "unknown",
+   "city": "Bielany Wrocławskie",
+   "region": "Województwo dolnośląskie",
+   "address": "Aleja Bielany, Czekoladowa 9, 55-040 Bielany Wrocławskie",
+   "phone": "22 448 00 00",
+   "website": "https://www.smyk.com/pl/pl/storelocator",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
+   "name": "Smyk. Megastore",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Homepark Franowo, Szwedzka 10A, 61-285 Poznań",
+   "phone": "22 448 00 00",
+   "website": "https://www.smyk.com/pl/pl/storelocator",
+   "checked_at": "2026-10-16T03:49:03Z"
+  },
+  {
    "name": "Souvenirs by Visitgdansk",
    "group": "unknown",
    "city": "Gdańsk",
@@ -2917,6 +3320,16 @@
    "phone": "500 520 870",
    "website": "https://www.sztos.top/",
    "checked_at": "2026-10-16T03:50:00Z"
+  },
+  {
+   "name": "TCG Heaven",
+   "group": "unknown",
+   "city": "Wieliczka",
+   "region": "Województwo małopolskie",
+   "address": "Edwarda Dembowskiego 59, 32-020 Wieliczka",
+   "phone": "576 924 752",
+   "website": "https://tcgheaven.eu",
+   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Tcg love",
@@ -3207,6 +3620,16 @@
    "checked_at": "2026-10-16T03:49:51Z"
   },
   {
+   "name": "Wyjątkowy Prezent",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Drewnowska 58, 91-002 Łódź",
+   "phone": "511 075 427",
+   "website": "https://www.wyjatkowyprezent.pl/",
+   "checked_at": "2026-10-16T03:49:51Z"
+  },
+  {
    "name": "Wyślij do PSA",
    "group": "unknown",
    "city": "Warszawa",
@@ -3228,12 +3651,62 @@
    "checked_at": "2026-10-16T03:48:57Z"
   },
   {
+   "name": "Yatta",
+   "group": "unknown",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Grobla 1A, 61-858 Poznań",
+   "phone": "883 372 144",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "Yatta.pl",
+   "group": "unknown",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Wielopole 26, 31-072 Kraków",
+   "phone": "883 372 138",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "Yatta.pl",
+   "group": "unknown",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Garncarska 4/6, 80-894 Gdańsk",
+   "phone": "883 372 147",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
    "name": "Yatta.pl Centrum Popkultury - sklep z mangą i komiksami",
    "group": "unknown",
    "city": "Warszawa",
    "region": "Województwo mazowieckie",
    "address": "Hoża 19, 00-521 Warszawa",
    "phone": "883 372 148",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "Yatta.pl Wrocław - sklep z mangą i komiksami",
+   "group": "unknown",
+   "city": "Wrocław",
+   "region": "Województwo dolnośląskie",
+   "address": "Kiełbaśnicza 25, 50-110 Wrocław",
+   "phone": "883 372 142",
+   "website": "https://yatta.pl/",
+   "checked_at": "2026-10-16T03:47:10Z"
+  },
+  {
+   "name": "Yatta.pl Łódź",
+   "group": "unknown",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Jana Karskiego 5, 91-071 Łódź",
+   "phone": "882 782 662",
    "website": "https://yatta.pl/",
    "checked_at": "2026-10-16T03:47:10Z"
   },

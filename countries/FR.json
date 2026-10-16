@@ -2,7 +2,7 @@
  "country": "FR",
  "currency": "EUR",
  "updated": "2026-10-16",
- "store_count": 765,
+ "store_count": 1001,
  "stores": [
   {
    "name": "Magic Corporation",
@@ -37,6 +37,22 @@
    "checked_at": "2026-10-16T02:15:43Z"
   },
   {
+   "name": "Parkage",
+   "group": "public_buylist",
+   "city": "Pertuis",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "176 Pl. Mirabeau, 84120 Pertuis, France, Pertuis, Provence-Alpes-Côte d'Azur, 84120",
+   "phone": "09 87 49 87 63",
+   "website": "https://www.parkage.com/fr",
+   "buylist_url": "https://www.parkage.com/fr/conditions-generales-de-rachat",
+   "mail_in": true,
+   "credit_bonus": "Voucher payout is increased by 10%",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Uchronies games",
    "group": "public_buylist",
    "city": "Paris",
@@ -51,6 +67,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Apple Sainte-Catherine",
+   "group": "login_required",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "2-4 Rue Sainte-Catherine, 33000 Bordeaux",
+   "phone": "05 56 69 58 00",
+   "website": "https://www.apple.com/fr/retail/strasbourg/?cid=aos-fr-seo-maps",
+   "buylist_url": "https://www.apple.com/shop/trade-in",
+   "checked_at": "2026-10-16T02:25:39Z"
   },
   {
    "name": "Apple Strasbourg",
@@ -253,6 +280,19 @@
    "checked_at": "2026-10-16T02:25:54Z"
   },
   {
+   "name": "Card'Era",
+   "group": "blocked",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "8 Rue de Fleurieu, 69002 Lyon, France, Lyon, Auvergne-Rhône-Alpes, 69002",
+   "phone": "06 13 56 64 56",
+   "website": "https://www.cardmarket.com/fr/Magic/Users/MagicoSphere",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:16:57Z"
+  },
+  {
    "name": "Centre Commercial Carrefour Rennes-Cesson",
    "group": "blocked",
    "city": "Cesson-Sévigné",
@@ -272,6 +312,156 @@
    "checked_at": "2026-10-16T02:22:28Z"
   },
   {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Saint-Priest",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "Bd André Bouloche, 69800 Saint-Priest",
+   "phone": "04 81 91 24 00",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Centre Commercial Des 3 Horloges, 13 Trav. de la Montre, 13011 Marseille",
+   "phone": "04 91 87 93 10",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Fenouillet",
+   "region": "Occitanie",
+   "address": "CC ESPACE FENOUILLET - RN 20 ZI SAINT JORY, 31150 Fenouillet",
+   "phone": "05 34 27 04 60",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "606 Bd du Mercantour, 06200 Nice",
+   "phone": "04 83 93 59 00",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Geispolsheim",
+   "region": "Grand Est",
+   "address": "7 Rue du Fort, 67118 Geispolsheim",
+   "phone": "03 68 71 11 90",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Reichstett",
+   "region": "Grand Est",
+   "address": "6 Bd des Enseignes, 67116 Reichstett",
+   "phone": "03 69 61 53 10",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Lezennes",
+   "region": "Hauts-de-France",
+   "address": "Centre Commercial Héron Parc, 59260 Lezennes",
+   "phone": "03 20 67 65 90",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura",
+   "group": "blocked",
+   "city": "Saint-Grégoire",
+   "region": "Bretagne",
+   "address": "Centre Commercial Grand Quartier, 35760 Saint-Grégoire",
+   "phone": "02 30 21 28 50",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Balma - Toulouse",
+   "group": "blocked",
+   "city": "Balma",
+   "region": "Occitanie",
+   "address": "5 Rue de la Tuilerie, 31130 Balma",
+   "phone": "05 61 12 50 90",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Bordeaux Lac - Produits Culturels Neufs et d' Occasion",
+   "group": "blocked",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "64 Mail des Bordelais, 33300 Bordeaux",
+   "phone": "05 33 89 68 10",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Bègles - Produits Culturels Neufs et d' Occasion",
+   "group": "blocked",
+   "city": "Bègles",
+   "region": "Nouvelle-Aquitaine",
+   "address": "Rue Denis Papin, 33130 Bègles",
+   "phone": "05 56 30 08 30",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Chantepie",
+   "group": "blocked",
+   "city": "Chantepie",
+   "region": "Bretagne",
+   "address": "All. de Guerlédan, 35135 Chantepie",
+   "phone": "02 99 77 02 50",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Labège",
+   "group": "blocked",
+   "city": "Labège",
+   "region": "Occitanie",
+   "address": "94 Pl. du Commerce, 31670 Labège",
+   "phone": "05 61 00 98 98",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Lomme",
+   "group": "blocked",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "ZA du Grand But, 59160 Lille",
+   "phone": "03 20 19 32 00",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Mérignac",
+   "group": "blocked",
+   "city": "Mérignac",
+   "region": "Nouvelle-Aquitaine",
+   "address": "16 Rue Jacques Anquetil, 33700 Mérignac",
+   "phone": "05 57 92 01 20",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
    "name": "Cultura Plaisir",
    "group": "blocked",
    "city": "Champagne-au-Mont-d'Or",
@@ -285,6 +475,26 @@
    "checked_at": "2026-10-16T02:16:14Z"
   },
   {
+   "name": "Cultura Plan de Campagne",
+   "group": "blocked",
+   "city": "Cabriès",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "ZAC, Plan de campagne, Chem. de la Charbonnière, 13480 Cabriès",
+   "phone": "04 42 41 33 84",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Cultura Portet-sur-Garonne",
+   "group": "blocked",
+   "city": "Portet-sur-Garonne",
+   "region": "Occitanie",
+   "address": "12 Bd de l'Europe, 31120 Portet-sur-Garonne",
+   "phone": "05 62 87 68 76",
+   "website": "https://www.cultura.com/les-magasins/cultura-plaisir-les-clayes-sous-bois.html",
+   "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
    "name": "Decitre",
    "group": "blocked",
    "city": "Lyon",
@@ -293,6 +503,16 @@
    "phone": "04 26 68 00 85",
    "website": "https://www.decitre.fr/aide/nos-librairies/part-dieu/",
    "checked_at": "2026-10-16T02:23:25Z"
+  },
+  {
+   "name": "Dooz TCG - Trading Card Games",
+   "group": "blocked",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "12 Rue des Magasins, 67000 Strasbourg",
+   "phone": "06 80 13 63 17",
+   "website": "https://www.cardmarket.com/fr/Magic/Users/MagicoSphere",
+   "checked_at": "2026-10-16T02:16:57Z"
   },
   {
    "name": "Elyoh Bar",
@@ -328,12 +548,32 @@
    "checked_at": "2026-10-16T02:24:09Z"
   },
   {
+   "name": "Figurine-collector",
+   "group": "blocked",
+   "city": "Miremont",
+   "region": "Occitanie",
+   "address": "Voie Héra, 31190 Miremont",
+   "phone": "05 62 18 50 43",
+   "website": "https://www.figurine-collector.fr/",
+   "checked_at": "2026-10-16T02:24:09Z"
+  },
+  {
    "name": "Furet du Nord",
    "group": "blocked",
    "city": "Lille",
    "region": "Hauts-de-France",
    "address": "15 Pl. du Général de Gaulle, 59800 Lille",
    "phone": "03 20 78 43 43",
+   "website": "https://www.furet.com/blog/nos-magasins/furet-du-nord-de-lille/",
+   "checked_at": "2026-10-16T02:27:12Z"
+  },
+  {
+   "name": "Furet du Nord",
+   "group": "blocked",
+   "city": "Haubourdin",
+   "region": "Hauts-de-France",
+   "address": "Centre Commercial Englos les Géants, Route Nationale, 59320 Haubourdin",
+   "phone": "03 20 44 98 00",
    "website": "https://www.furet.com/blog/nos-magasins/furet-du-nord-de-lille/",
    "checked_at": "2026-10-16T02:27:12Z"
   },
@@ -361,6 +601,16 @@
    "checked_at": "2026-10-16T02:15:52Z"
   },
   {
+   "name": "Geek Factory Rennes",
+   "group": "blocked",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "Centre Commercial Les Longs Champs, 7 All. Morvan Lebesque, 35700 Rennes",
+   "phone": "02 99 27 76 09",
+   "website": "https://www.geekfactory.games/",
+   "checked_at": "2026-10-16T02:15:52Z"
+  },
+  {
    "name": "Gibert Toulouse",
    "group": "blocked",
    "city": "Toulouse",
@@ -371,12 +621,172 @@
    "checked_at": "2026-10-16T02:24:30Z"
   },
   {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "4 Rue du Président Carnot, 69002 Lyon",
+   "phone": "04 28 70 58 10",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Cabriès",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "zone industrielle Plan De Campagne, 13480 Cabriès",
+   "phone": "04 42 02 01 92",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Blagnac",
+   "region": "Occitanie",
+   "address": "5 All. Emile Zola, 31700 Blagnac",
+   "phone": "05 61 15 62 96",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Roques",
+   "region": "Occitanie",
+   "address": "3 All. de Fraixinet, 31120 Roques",
+   "phone": "05 16 05 70 42",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "16 Rue du Vieux Marché aux Grains, 67000 Strasbourg",
+   "phone": "03 88 23 04 55",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Saint-Clément-de-Rivière",
+   "region": "Occitanie",
+   "address": "6 Rue des Genêts, 34980 Saint-Clément-de-Rivière",
+   "phone": "04 99 77 20 20",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Saint-Grégoire",
+   "region": "Bretagne",
+   "address": "2 Rue du Chesnay Beauregard, 35760 Saint-Grégoire",
+   "phone": "02 99 84 11 80",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Échirolles",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "7 Rue de Comboire, 38130 Échirolles",
+   "phone": "04 76 40 80 24",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "blocked",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "18 Bd Agutte Sembat, 38000 Grenoble",
+   "phone": "04 76 56 62 75",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Toy - King'okaz",
+   "group": "blocked",
+   "city": "Geispolsheim",
+   "region": "Grand Est",
+   "address": "Rue du 23 Novembre, 67118 Geispolsheim",
+   "phone": "03 88 66 36 38",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Toy - King'okaz",
+   "group": "blocked",
+   "city": "Mérignac",
+   "region": "Nouvelle-Aquitaine",
+   "address": "18 Rue Isaac Newton, 33700 Mérignac",
+   "phone": "05 56 51 60 01",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Toy - King'okaz",
+   "group": "blocked",
+   "city": "Pacé",
+   "region": "Bretagne",
+   "address": "6 Bd de la Giraudais, 35740 Pacé",
+   "phone": "02 99 60 20 18",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "King Toy Marseille Les Terrasses",
+   "group": "blocked",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Centre commercial Les terrasses du port, 13002 Marseille",
+   "phone": "04 12 04 68 40",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
    "name": "King Toy Paris Rivoli",
    "group": "blocked",
    "city": "Paris",
    "region": "IDF",
    "address": "146 Rue de Rivoli, 75001 Paris",
    "phone": "01 86 90 58 91",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "KingDultes - Le Repaire des TCG",
+   "group": "blocked",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "1 Rue Guépin, 44000 Nantes",
+   "phone": "02 21 81 33 24",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "KingDultes par King Jouet",
+   "group": "blocked",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "150 Rue Sainte-Catherine, 33000 Bordeaux",
+   "phone": "05 25 52 10 75",
+   "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
+   "checked_at": "2026-10-16T02:21:51Z"
+  },
+  {
+   "name": "KingDultes par King Jouet",
+   "group": "blocked",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "100 Av. Willy Brandt, 59777 Lille",
+   "phone": "03 39 67 01 32",
    "website": "https://www.king-jouet.com/magasins/75-Paris/magasin-PARIS-0266.htm",
    "checked_at": "2026-10-16T02:21:51Z"
   },
@@ -422,6 +832,46 @@
    "phone": "04 67 22 51 75",
    "website": "https://le-32-montpellier.jimdosite.com/",
    "checked_at": "2026-10-16T02:26:13Z"
+  },
+  {
+   "name": "Le Coin des Barons",
+   "group": "blocked",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "34 Rue Franklin, 69002 Lyon",
+   "phone": "06 76 82 28 62",
+   "website": "https://lecoindesbarons.com",
+   "checked_at": "2026-10-16T02:16:39Z"
+  },
+  {
+   "name": "Le Coin des Barons",
+   "group": "blocked",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "72 Rue Saint-Ferréol, 13006 Marseille",
+   "phone": "04 91 33 74 19",
+   "website": "https://lecoindesbarons.com",
+   "checked_at": "2026-10-16T02:16:39Z"
+  },
+  {
+   "name": "Le Coin des Barons - Lille",
+   "group": "blocked",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "54 Rue de Béthune, 59800 Lille",
+   "phone": "06 52 19 34 81",
+   "website": "https://lecoindesbarons.com",
+   "checked_at": "2026-10-16T02:16:39Z"
+  },
+  {
+   "name": "Le Coin des Barons - Paris",
+   "group": "blocked",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "48B Rue de Rivoli, 75004 Paris",
+   "phone": "09 79 41 99 69",
+   "website": "https://lecoindesbarons.com",
+   "checked_at": "2026-10-16T02:16:39Z"
   },
   {
    "name": "Le Coin des Barons Lyon Franklin",
@@ -496,6 +946,36 @@
    "checked_at": "2026-10-16T02:28:09Z"
   },
   {
+   "name": "Mag Presse",
+   "group": "blocked",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "25 Rue des Carmes, 44000 Nantes",
+   "phone": "02 40 12 15 44",
+   "website": "https://www.maisondelapresse.com/magasin/MaisondelaPresse-13005-marseille05.html/",
+   "checked_at": "2026-10-16T02:23:53Z"
+  },
+  {
+   "name": "Mag Presse",
+   "group": "blocked",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "8 Rue du Travail, 67000 Strasbourg",
+   "phone": "03 88 10 92 42",
+   "website": "https://www.maisondelapresse.com/magasin/MaisondelaPresse-13005-marseille05.html/",
+   "checked_at": "2026-10-16T02:23:53Z"
+  },
+  {
+   "name": "Mag Presse",
+   "group": "blocked",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "4 Pl. Carnot, 34000 Montpellier",
+   "phone": "04 67 65 46 41",
+   "website": "https://www.maisondelapresse.com/magasin/MaisondelaPresse-13005-marseille05.html/",
+   "checked_at": "2026-10-16T02:23:53Z"
+  },
+  {
    "name": "Mag Presse ,PRESSE,TABAC,FRANCAISE DES JEUX,PMU,PUFF 24K !, PRODUIT ELFBAR ,CONFISERIE,JOUET, RELAIS COLIS, CARTE CADEAUX,",
    "group": "blocked",
    "city": "Nantes",
@@ -540,6 +1020,19 @@
    "checked_at": "2026-10-16T02:21:57Z"
   },
   {
+   "name": "MEiSiA",
+   "group": "blocked",
+   "city": "Paris",
+   "region": "Île-de-France",
+   "address": "84 Rue René Boulanger, 75010 Paris, France, Paris, Île-de-France, 75010",
+   "phone": "01 40 18 48 52",
+   "website": "https://cafemeisia.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:04Z"
+  },
+  {
    "name": "Monsieur Dé",
    "group": "blocked",
    "city": "Vitré",
@@ -577,6 +1070,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:59Z"
+  },
+  {
+   "name": "Paradise Cards",
+   "group": "blocked",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "58 Bis Chem. du Chapitre, 31100 Toulouse",
+   "website": "https://www.cardmarket.com/fr/Magic/Users/MagicoSphere",
+   "checked_at": "2026-10-16T02:16:57Z"
   },
   {
    "name": "Pokegourou",
@@ -822,6 +1324,18 @@
    "checked_at": "2026-10-16T02:24:30Z"
   },
   {
+   "name": "Astranova",
+   "group": "in_store",
+   "city": "Béziers",
+   "region": "Occitanie",
+   "address": "6 Av. 22 Août 1944, 34500 Béziers, France, Béziers, Occitanie, 34500",
+   "phone": "09 75 76 83 40",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
+  },
+  {
    "name": "ATOUT JEU",
    "group": "in_store",
    "city": "Rezé",
@@ -840,6 +1354,41 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:46Z"
+  },
+  {
+   "name": "Au dé chanceux",
+   "group": "in_store",
+   "city": "Aix-en-Provence",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "5 Av. de Grassi, 13100 Aix-en-Provence, France, Aix-en-Provence, Provence-Alpes-Côte d'Azur, 13100",
+   "phone": "06 65 01 34 35",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:05Z"
+  },
+  {
+   "name": "Au Grand Gnome - Remiremont",
+   "group": "in_store",
+   "city": "Remiremont",
+   "region": "Grand Est",
+   "address": "11 Rue de la Filature, 88200 Remiremont, France, Remiremont, Grand Est, 88200",
+   "website": "http://www.facebook.com/augrandgnome",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Aux Dés Coupés",
+   "group": "in_store",
+   "city": "Dreux",
+   "region": "Centre-Val de Loire",
+   "address": "28 Rue Saint-Martin, 28100 Dreux, France, Dreux, Centre-Val de Loire, 28100",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
   },
   {
    "name": "Aux Jeux de l’Hibours",
@@ -930,6 +1479,30 @@
    "checked_at": "2026-10-16T02:26:21Z"
   },
   {
+   "name": "BREAK OUT CHAMBERY",
+   "group": "in_store",
+   "city": "Chambéry",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "Zone des Landiers Nord, 715 Rue de Belle Eau, 73000 Chambéry, France, Chambéry, Auvergne-Rhône-Alpes, 73000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:07Z"
+  },
+  {
+   "name": "Ca joue!",
+   "group": "in_store",
+   "city": "Morteau",
+   "region": "Bourgogne-Franche-Comté",
+   "address": "2 Rue du Collège, 25500 Morteau, France, Morteau, Bourgogne-Franche-Comté, 25500",
+   "phone": "09 55 58 17 72",
+   "website": "https://www.youtube.com/@Cajoue",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:20:34Z"
+  },
+  {
    "name": "Card Fusion - TCG Store",
    "group": "in_store",
    "city": "Paris",
@@ -998,6 +1571,26 @@
    "checked_at": "2026-10-16T02:21:05Z"
   },
   {
+   "name": "Carta'Galaxie TCG",
+   "group": "in_store",
+   "city": "Perpignan",
+   "region": "Occitanie",
+   "address": "Dans le Cinéma Méga Castillet, ZAC du, Mas Balande, 66000 Perpignan",
+   "phone": "06 30 63 60 70",
+   "website": "https://www.instagram.com/cartagalaxietcg/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Cartabaffe - Boutique de cartes Pokémon",
+   "group": "in_store",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "78 Rue Notre Dame de Nazareth, 75003 Paris",
+   "phone": "01 40 56 34 48",
+   "website": "https://www.instagram.com/cartabaffe/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Carte Blanche",
    "group": "in_store",
    "city": "Paris",
@@ -1053,6 +1646,16 @@
    "checked_at": "2026-10-16T02:24:13Z"
   },
   {
+   "name": "Coeur de Chineur brocante friperie vintage",
+   "group": "in_store",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "3e Rue Bernex, 13001 Marseille",
+   "phone": "07 67 62 15 75",
+   "website": "https://www.instagram.com/coeurdechineur/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Collections du Palais",
    "group": "in_store",
    "city": "Rennes",
@@ -1060,6 +1663,16 @@
    "address": "1 Rue Salomon de Brosse, 35000 Rennes",
    "phone": "02 99 79 46 10",
    "checked_at": "2026-10-16T02:27:48Z"
+  },
+  {
+   "name": "Comics in Stock",
+   "group": "in_store",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "4 Rue Jean-Jacques Rousseau, 38000 Grenoble",
+   "phone": "09 83 41 72 53",
+   "website": "http://www.facebook.com/bdenstock",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Comix Buro",
@@ -1142,6 +1755,46 @@
    "checked_at": "2026-10-16T02:23:46Z"
   },
   {
+   "name": "Difintel Micro",
+   "group": "in_store",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "25 Rue Judaïque, 33000 Bordeaux",
+   "phone": "05 56 79 05 52",
+   "website": "https://www.facebook.com/Difintelbordeaux",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Difintel TCG",
+   "group": "in_store",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "24 Rue Judaïque, 33000 Bordeaux",
+   "phone": "05 56 28 99 63",
+   "website": "https://www.instagram.com/difinteltcg?stkn=MWhnYmprOWY3NHFhNw==",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Distributeur de cartes Pokémon & TCG - Zin Distri",
+   "group": "in_store",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "36-54 Rte de Bayonne, 31300 Toulouse",
+   "phone": "07 60 71 08 85",
+   "website": "https://www.instagram.com/zin_distri/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Distributeur de cartes à collectionner (Pokemon, One Piece, Yu-Gi-Oh, ...)",
+   "group": "in_store",
+   "city": "Bègles",
+   "region": "Nouvelle-Aquitaine",
+   "address": "centre commercial Rives d'Arcins, Espace Whoopy, 33130 Bègles",
+   "phone": "07 60 68 79 03",
+   "website": "https://www.instagram.com/suricarte33/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "DooZ TCG",
    "group": "in_store",
    "city": "Strasbourg",
@@ -1215,6 +1868,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:44Z"
+  },
+  {
+   "name": "Espace Jeux",
+   "group": "in_store",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "14 Rte de Paris, 44300 Nantes, France, Nantes, Pays de la Loire, 44300",
+   "phone": "02 40 35 39 08",
+   "website": "https://www.facebook.com/ELeclercParidis",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Esport Nimes Arena",
@@ -1322,6 +1988,28 @@
    "checked_at": "2026-10-16T02:21:51Z"
   },
   {
+   "name": "GAME ME MORE",
+   "group": "in_store",
+   "city": "Istres",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "22 Bd Frédéric Mistral, 13800 Istres, France, Istres, Provence-Alpes-Côte d'Azur, 13800",
+   "phone": "09 78 80 15 72",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
+  },
+  {
+   "name": "Games Descartes Lyon",
+   "group": "in_store",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "13 Rue des Remparts d'Ainay, 69002 Lyon",
+   "phone": "04 78 37 75 94",
+   "website": "https://www.facebook.com/JeuxDescartesLyon",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Geek Factory Charleville",
    "group": "in_store",
    "city": "Charleville-Mézières",
@@ -1389,6 +2077,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:04Z"
+  },
+  {
+   "name": "GG COLLECTOR'S GAMES",
+   "group": "in_store",
+   "city": "Les Pennes-Mirabeau",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "1 Rue Guy de Maupassant, 13170 Les Pennes-Mirabeau, France, Les Pennes-Mirabeau, Provence-Alpes-Côte d'Azur, 13170",
+   "phone": "07 43 53 94 53",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:07Z"
   },
   {
    "name": "Gibert Bandes dessinées",
@@ -1542,6 +2242,16 @@
    "checked_at": "2026-10-16T02:25:41Z"
   },
   {
+   "name": "Images de Demain",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "10 Rue de la Vieille, 34000 Montpellier",
+   "phone": "04 67 66 23 45",
+   "website": "https://www.facebook.com/ImagesDeDemain/",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Immaterium Café",
    "group": "in_store",
    "city": "Toulon",
@@ -1601,6 +2311,27 @@
    "checked_at": "2026-10-16T02:27:03Z"
   },
   {
+   "name": "Kado Shop Rennes",
+   "group": "in_store",
+   "city": "La Mézière",
+   "region": "Bretagne",
+   "address": "28 Montgerval, 35520 La Mézière",
+   "phone": "02 23 22 39 57",
+   "website": "https://instagram.com/kadoshop35",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "KadoShop",
+   "group": "in_store",
+   "city": "La Mézière",
+   "region": "Bretagne",
+   "address": "28 Rte de Montgerval, 35520 La Mézière, France, La Mézière, Bretagne, 35520",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:07Z"
+  },
+  {
    "name": "Kapla Galery",
    "group": "in_store",
    "city": "Nice",
@@ -1658,6 +2389,19 @@
    "checked_at": "2026-10-16T02:16:02Z"
   },
   {
+   "name": "L'antre des joueurs",
+   "group": "in_store",
+   "city": "Laval",
+   "region": "Pays de la Loire",
+   "address": "3 Rue du Lieutenant, 53000 Laval, France, Laval, Pays de la Loire, 53000",
+   "phone": "0983976367",
+   "website": "https://www.facebook.com/profile.php?id=100073546729573",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "L'Antre du Jouet",
    "group": "in_store",
    "city": "Saint-Martin-Boulogne",
@@ -1667,6 +2411,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:44Z"
+  },
+  {
+   "name": "L'Antre du TCG",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "58 Av. Georges Clemenceau, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
   },
   {
    "name": "L'ARENA TCG",
@@ -1978,6 +2733,16 @@
    "checked_at": "2026-10-16T02:25:48Z"
   },
   {
+   "name": "Le club TCG",
+   "group": "in_store",
+   "city": "Francheville",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "78 Grande Rue, 69340 Francheville",
+   "phone": "06 51 54 26 96",
+   "website": "https://www.instagram.com/explore/locations/670236842840051/le-club-tcg/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "LE COIN DES BARONS - LYON",
    "group": "in_store",
    "city": "Lyon",
@@ -2008,6 +2773,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:46Z"
+  },
+  {
+   "name": "Le délire",
+   "group": "in_store",
+   "city": "Compiègne",
+   "region": "Hauts-de-France",
+   "address": "84 Rue de Paris, 60200 Compiègne, France, Compiègne, Hauts-de-France, 60200",
+   "phone": "03 60 45 53 50",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
   },
   {
    "name": "Le Farfa'Dés",
@@ -2060,6 +2837,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:03Z"
+  },
+  {
+   "name": "Le Monde en Jeux",
+   "group": "in_store",
+   "city": "Villeurbanne",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "38 Rue Michel Servet, 69100 Villeurbanne",
+   "phone": "04 72 31 84 91",
+   "website": "https://www.facebook.com/le.monde.en.jeux",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "LE PAM'S",
@@ -2124,6 +2911,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:44Z"
+  },
+  {
+   "name": "Les Fictionautes",
+   "group": "in_store",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "5 Rue Biscarra, 06000 Nice",
+   "phone": "04 93 13 88 48",
+   "website": "http://www.facebook.com/lesfictionautes",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Les Mau'jeux",
@@ -2207,6 +3004,18 @@
    "checked_at": "2026-10-16T02:25:27Z"
   },
   {
+   "name": "Ludetopia",
+   "group": "in_store",
+   "city": "Poncin",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "1 Rue du 8 Mai 1945, 01450 Poncin, France, Poncin, Auvergne-Rhône-Alpes, 01450",
+   "phone": "+33 6 59 52 63 56",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "Ludi Libri",
    "group": "in_store",
    "city": "Les Andelys",
@@ -2249,6 +3058,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:03Z"
+  },
+  {
+   "name": "LUDITHORYNQUE",
+   "group": "in_store",
+   "city": "La Sentinelle",
+   "region": "Hauts-de-France",
+   "address": "334 Av. Jean Jaurès, 59174 La Sentinelle, France, La Sentinelle, Hauts-de-France, 59174",
+   "phone": "+33 9 88 42 63 41",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
   },
   {
    "name": "Ludotrotter",
@@ -2429,6 +3250,16 @@
    "checked_at": "2026-10-16T02:15:53Z"
   },
   {
+   "name": "Multivers",
+   "group": "in_store",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "Ground Control, 81 Rue du Charolais, 75012 Paris",
+   "phone": "06 02 68 15 95",
+   "website": "https://www.facebook.com/multivers.paris",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "My Happy Box",
    "group": "in_store",
    "city": "Strasbourg",
@@ -2509,6 +3340,17 @@
    "checked_at": "2026-10-16T02:15:54Z"
   },
   {
+   "name": "Ovni Game",
+   "group": "in_store",
+   "city": "Saint-Maur-des-Fossés",
+   "region": "Île-de-France",
+   "address": "114 Av. du Bac, 94210 Saint-Maur-des-Fossés, France, Saint-Maur-des-Fossés, Île-de-France, 94210",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
+  },
+  {
    "name": "Parence SARL",
    "group": "in_store",
    "city": "Le Havre",
@@ -2556,6 +3398,27 @@
    "address": "22 Rue d'Entrecasteaux, 13009 Marseille",
    "phone": "06 38 31 03 44",
    "checked_at": "2026-10-16T02:23:34Z"
+  },
+  {
+   "name": "Pick a Pack TCG Store",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "1 Rue Font du Pila Saint-Gély, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:07Z"
+  },
+  {
+   "name": "PIIKABOO - BOUTIQUE POKEMON ET CAFÉ LUDIQUE",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "Juste avant le gymnase de la Babote, 1 Rue Parlier, 34000 Montpellier",
+   "phone": "04 67 55 04 60",
+   "website": "https://instagram.com/piikaboo.pokecenter",
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Pikastore",
@@ -2633,6 +3496,17 @@
    "checked_at": "2026-10-16T02:20:52Z"
   },
   {
+   "name": "POSE TON PION",
+   "group": "in_store",
+   "city": "Finhan",
+   "region": "Occitanie",
+   "address": "2 Pl. de la Mairie, 82700 Finhan, France, Finhan, Occitanie, 82700",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
+  },
+  {
    "name": "QG des Avenjoueurs",
    "group": "in_store",
    "city": "Rouen",
@@ -2688,6 +3562,18 @@
    "checked_at": "2026-10-16T02:20:38Z"
   },
   {
+   "name": "Re-Play Games",
+   "group": "in_store",
+   "city": "Roanne",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "14 Rue de Cadore, 42300 Roanne, France, Roanne, Auvergne-Rhône-Alpes, 42300",
+   "phone": "+33 4 77 78 29 19",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "Retro-Games25",
    "group": "in_store",
    "city": "Morteau",
@@ -2715,17 +3601,6 @@
    "address": "Les boutiques St Georges, 51 Bis Rue du Rempart Saint-Etienne, 31000 Toulouse",
    "phone": "05 61 73 79 29",
    "checked_at": "2026-10-16T02:24:16Z"
-  },
-  {
-   "name": "Rôle Games",
-   "group": "in_store",
-   "city": "Marseille",
-   "region": "Provence-Alpes-Côte d'Azur",
-   "address": "11 Rue Barbaroux, 13001 Marseille, France, Marseille, Provence-Alpes-Côte d'Azur, 13001",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T02:21:03Z"
   },
   {
    "name": "SARL Au WQT Shop",
@@ -2832,6 +3707,16 @@
    "checked_at": "2026-10-16T02:25:23Z"
   },
   {
+   "name": "Tabac Nao' Smoke",
+   "group": "in_store",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "2 All. Penthièvre, 44000 Nantes",
+   "phone": "09 79 56 07 15",
+   "website": "https://www.instagram.com/naosmoke/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Tabac Saint-Simon",
    "group": "in_store",
    "city": "Toulouse",
@@ -2850,6 +3735,19 @@
    "checked_at": "2026-10-16T02:24:27Z"
   },
   {
+   "name": "Tableraze Gap",
+   "group": "in_store",
+   "city": "Gap",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "46 Rue Jean Eymar, 05000 Gap, France, Gap, Provence-Alpes-Côte d'Azur, 05000",
+   "phone": "07 66 21 33 54",
+   "website": "https://www.facebook.com/tablerazegap/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "TAKAJOUER",
    "group": "in_store",
    "city": "Saint-Philbert-de-Grand-Lieu",
@@ -2860,6 +3758,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:06Z"
+  },
+  {
+   "name": "Taverne & Donjon Infinite",
+   "group": "in_store",
+   "city": "Vire Normandie",
+   "region": "Normandie",
+   "address": "6 Rue Saulnerie, 14500 Vire Normandie, France, Vire Normandie, Normandie, 14500",
+   "phone": "02.31.59.71.30",
+   "website": "https://www.facebook.com/TaverneEtDonjonInfinite",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "TCG Lab",
@@ -2906,6 +3817,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:46Z"
+  },
+  {
+   "name": "Terres de Jeux",
+   "group": "in_store",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "26/28 Rue du Capitaine Alfred Dreyfus, 35000 Rennes",
+   "phone": "02 99 78 31 14",
+   "website": "https://www.facebook.com/terresdejeux/",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "The Card Game",
@@ -2964,6 +3885,19 @@
    "address": "3 All. Jean Bart, Cr des 50 Otages, 44000 Nantes",
    "phone": "02 59 28 05 67",
    "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "VENI VIDI",
+   "group": "in_store",
+   "city": "Morières-lès-Avignon",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "22 Rue de la République, 84310 Morières-lès-Avignon, France, Morières-lès-Avignon, Provence-Alpes-Côte d'Azur, 84310",
+   "phone": "0432442072",
+   "website": "https://www.facebook.com/venividi84",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "vermorel",
@@ -3100,6 +4034,16 @@
    "checked_at": "2026-10-16T02:26:46Z"
   },
   {
+   "name": "Adidas BCS Grenoble",
+   "group": "unknown",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "Centre Commercial, 117 Grand Place, 38000 Grenoble",
+   "phone": "04 38 12 83 00",
+   "website": "https://www.adidas.fr/storefinder?consent-level=0,1,2#/search/33000%20Bordeaux,%20France/",
+   "checked_at": "2026-10-16T02:26:46Z"
+  },
+  {
    "name": "AFFAIR'S Grenoble Echirolles - ACHAT CASH",
    "group": "unknown",
    "city": "Échirolles",
@@ -3162,6 +4106,19 @@
    "phone": "09 50 70 07 36",
    "website": "https://allgeeks.fr/",
    "checked_at": "2026-10-16T02:21:57Z"
+  },
+  {
+   "name": "ALL4PLAY",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "203 Av. de Grande Bretagne, 31300 Toulouse, France, Toulouse, Occitanie, 31300",
+   "phone": "0564721700",
+   "website": "https://all4play.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
   },
   {
    "name": "Alpha Game",
@@ -3239,6 +4196,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:33Z"
+  },
+  {
+   "name": "Archi Chouette Jeux et Jouets Montpellier",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "10 Rue du Palais des Guilhem, 34000 Montpellier",
+   "phone": "04 67 60 76 34",
+   "website": "https://archi-chouette.fr/content/12-archi-chouette-nantes",
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Archi Chouette Jeux et Jouets Nantes",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "91 Bd de la Prairie au Duc, 44200 Nantes",
+   "phone": "02 28 49 42 83",
+   "website": "https://archi-chouette.fr/content/12-archi-chouette-nantes",
+   "checked_at": "2026-10-16T02:17:41Z"
   },
   {
    "name": "Archi Chouette Nantes",
@@ -3469,6 +4446,16 @@
    "checked_at": "2026-10-16T02:25:38Z"
   },
   {
+   "name": "Auchan Hypermarché Bordeaux Mériadeck",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "Cc Meriadeck, Rue Claude Bonnier, 33000 Bordeaux",
+   "phone": "05 56 99 59 00",
+   "website": "https://www.auchan.fr/magasins/hypermarche/auchan-hypermarche-strasbourg/s-21?utm_source=gmb",
+   "checked_at": "2026-10-16T02:25:38Z"
+  },
+  {
    "name": "Autour des Jeux",
    "group": "unknown",
    "city": "Tours",
@@ -3493,6 +4480,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:43Z"
+  },
+  {
+   "name": "Back To The Game - Toulouse",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "54 Rue Luchet, 31200 Toulouse",
+   "phone": "06 13 23 17 67",
+   "website": "https://www.vinted.fr/member/97041515-geekandtoys",
+   "checked_at": "2026-10-16T02:22:54Z"
   },
   {
    "name": "Bande Dessinée Musique : Mangas - Comics - BD...",
@@ -3540,6 +4537,19 @@
    "region": "Normandie",
    "address": "19 Rue des Teinturiers, 14000 Caen, France, Caen, Normandie, 14000",
    "phone": "+33 2 31 27 13 78",
+   "website": "https://www.bazardubizarre.com/?fbclid=IwAR0iBwqM0zVoaIHMLMC44p04SqHuaikDo2Omg3mrbY7JJeRKyBERhY6e97c",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:19:54Z"
+  },
+  {
+   "name": "Bazar du Bizarre Rouen",
+   "group": "unknown",
+   "city": "Rouen",
+   "region": "Normandie",
+   "address": "38 Rue aux Ours, 76000 Rouen, France, Rouen, Normandie, 76000",
+   "phone": "+33 2 35 89 07 27",
    "website": "https://www.bazardubizarre.com/?fbclid=IwAR0iBwqM0zVoaIHMLMC44p04SqHuaikDo2Omg3mrbY7JJeRKyBERhY6e97c",
    "games_events": [
     "Flesh and Blood"
@@ -3640,6 +4650,17 @@
    "checked_at": "2026-10-16T02:20:39Z"
   },
   {
+   "name": "Break Out Grenoble - Boutique de jeux de société",
+   "group": "unknown",
+   "city": "Saint-Martin-d'Hères",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "9 Av. Benoît Frachon, 38400 Saint-Martin-d'Hères",
+   "phone": "04 22 91 63 41",
+   "website": "https://linktr.ee/desriresdesjeux",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:16:11Z"
+  },
+  {
    "name": "Bshop Basketball Lille",
    "group": "unknown",
    "city": "Lille",
@@ -3724,6 +4745,16 @@
    "checked_at": "2026-10-16T02:26:30Z"
   },
   {
+   "name": "Ca va Buller",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "46 Rue du Fossé-des-Tanneurs, 67000 Strasbourg",
+   "phone": "09 73 23 29 34",
+   "website": "https://www.canalbd.net/la-caverne-des-bd/",
+   "checked_at": "2026-10-16T02:22:09Z"
+  },
+  {
    "name": "Call Out : The Game",
    "group": "unknown",
    "city": "Marseille",
@@ -3783,6 +4814,40 @@
    "checked_at": "2026-10-16T02:25:14Z"
   },
   {
+   "name": "Carrefour Strasbourg Mundo",
+   "group": "unknown",
+   "city": "Mundolsheim",
+   "region": "Grand Est",
+   "address": "RN 63, 67450 Mundolsheim",
+   "phone": "03 88 20 96 96",
+   "website": "https://www.carrefour.fr/magasin/nantes-beaulieu",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
+   "name": "Cartapapa",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "21 Rue des Étuves, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "phone": "+33 4 67 55 73 48",
+   "website": "https://cartapapa.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
+   "name": "CartaRennes",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "23 Rue d'Antrain, 35000 Rennes",
+   "phone": "02 99 63 56 63",
+   "website": "https://www.cartarennes.fr/",
+   "buylist_url": "https://www.cartarennes.fr/rachat-de-cartes/",
+   "checked_at": "2026-10-16T21:47:18Z"
+  },
+  {
    "name": "Carta’jeu",
    "group": "unknown",
    "city": "Lyon",
@@ -3831,12 +4896,56 @@
    "checked_at": "2026-10-16T02:24:46Z"
   },
   {
+   "name": "Cash Express",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "22 Rue des Changes, 31000 Toulouse",
+   "phone": "05 61 57 22 76",
+   "website": "https://www.cashexpress.fr/magasin/produit/marseille-rue-de-rome",
+   "buylist_url": "https://www.cashexpress.fr/p-11/nous-achetons-votre-or.html",
+   "checked_at": "2026-10-16T02:23:32Z"
+  },
+  {
+   "name": "Cash Express",
+   "group": "unknown",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Residence Bel Canto, 29 Av. Malaussena, 06000 Nice",
+   "phone": "04 93 16 04 09",
+   "website": "https://www.cashexpress.fr/magasin/produit/marseille-rue-de-rome",
+   "buylist_url": "https://www.cashexpress.fr/p-11/nous-achetons-votre-or.html",
+   "checked_at": "2026-10-16T02:23:32Z"
+  },
+  {
+   "name": "Cash Express Magasin d'occasions Multimédia, Image et Son, Téléphonie, Bijoux, Achat d'or",
+   "group": "unknown",
+   "city": "Cabriès",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Centre Commercial Barneoud, 700 Av. du Plan de Campagne Bat A, 13480 Cabriès",
+   "phone": "04 42 46 60 47",
+   "website": "https://www.cashexpress.fr/magasin/produit/marseille-rue-de-rome",
+   "buylist_url": "https://www.cashexpress.fr/p-11/nous-achetons-votre-or.html",
+   "checked_at": "2026-10-16T02:23:32Z"
+  },
+  {
    "name": "Cash Express Marseille Street in Rome",
    "group": "unknown",
    "city": "Marseille",
    "region": "Provence-Alpes-Côte d'Azur",
    "address": "86 Rue de Rome, 13006 Marseille",
    "phone": "04 86 77 83 00",
+   "website": "https://www.cashexpress.fr/magasin/produit/marseille-rue-de-rome",
+   "buylist_url": "https://www.cashexpress.fr/p-11/nous-achetons-votre-or.html",
+   "checked_at": "2026-10-16T02:23:32Z"
+  },
+  {
+   "name": "Cash Express, achat et vente de Jeux vidéos, Consoles, Multimédia, Téléphonie, Maroquinerie, et Achat/vente d'or.",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "20 Rue du Sec Arembault, 59800 Lille",
+   "phone": "03 20 37 46 16",
    "website": "https://www.cashexpress.fr/magasin/produit/marseille-rue-de-rome",
    "buylist_url": "https://www.cashexpress.fr/p-11/nous-achetons-votre-or.html",
    "checked_at": "2026-10-16T02:23:32Z"
@@ -4004,6 +5113,15 @@
    "phone": "06 35 03 59 99",
    "website": "https://coinpokers.fr/",
    "checked_at": "2026-10-16T02:25:23Z"
+  },
+  {
+   "name": "Collector-World",
+   "group": "unknown",
+   "city": "Lattes",
+   "region": "Occitanie",
+   "address": "295 Rue de la Roseraie, 34970 Lattes",
+   "website": "https://www.vinted.fr/member/97041515-geekandtoys",
+   "checked_at": "2026-10-16T02:22:54Z"
   },
   {
    "name": "Collectors Boutique (ouvert uniquement sur rendez-vous)",
@@ -4270,6 +5388,16 @@
    "checked_at": "2026-10-16T02:25:14Z"
   },
   {
+   "name": "E.Leclerc BORDEAUX",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "155 Cr Saint-Louis, 33300 Bordeaux",
+   "phone": "05 56 39 98 66",
+   "website": "https://www.e.leclerc/mag/e-leclerc-paridis",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
    "name": "Easter Egg La petite boutique des cultures geeks",
    "group": "unknown",
    "city": "Montpellier",
@@ -4278,6 +5406,17 @@
    "phone": "09 72 10 23 31",
    "website": "https://easteregg-montpellier.fr/",
    "checked_at": "2026-10-16T02:26:01Z"
+  },
+  {
+   "name": "Easy Cash Rennes République",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "Pl. de la République, 35000 Rennes",
+   "phone": "02 23 62 70 25",
+   "website": "https://magasins.easycash.fr/Haute-Garonne-31/ENT80-Labege-31670?utm_campaign=trafic-gmb&utm_medium=organic&utm_source=google",
+   "buylist_url": "https://prix.easycash.fr/rachat-or",
+   "checked_at": "2026-10-16T02:24:23Z"
   },
   {
    "name": "Easy Cash Toulouse Labège 2",
@@ -4355,6 +5494,16 @@
    "checked_at": "2026-10-16T02:18:41Z"
   },
   {
+   "name": "Espace Culturel E.Leclerc in Rennes",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "Rue Jules Vallès, 35000 Rennes",
+   "phone": "02 23 40 23 23",
+   "website": "https://www.e.leclerc/mag/e-leclerc-paridis",
+   "checked_at": "2026-10-16T02:25:14Z"
+  },
+  {
    "name": "Espace Tintin",
    "group": "unknown",
    "city": "Montpellier",
@@ -4363,6 +5512,19 @@
    "phone": "04 67 60 79 60",
    "website": "https://www.espacetintin-montpellier.com/",
    "checked_at": "2026-10-16T02:26:29Z"
+  },
+  {
+   "name": "Excalibur Montpellier",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "7 Bis Rue de l'Ancien Courrier, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "phone": "+334 67 60 81 33",
+   "website": "https://www.excalibur34.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
   },
   {
    "name": "FAIRPLAY",
@@ -4474,6 +5636,28 @@
    "checked_at": "2026-10-16T02:17:02Z"
   },
   {
+   "name": "Fuji Store - Lille",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "136 Rue Nationale, 59800 Lille",
+   "phone": "09 60 04 86 70",
+   "website": "https://fuji-store.fr/?utm_campaign=GMB+L&utm_medium=GMB&utm_source=GMB",
+   "buylist_url": "https://fuji-store.fr/nos-services/rachat-de-collections/",
+   "checked_at": "2026-10-16T02:21:05Z"
+  },
+  {
+   "name": "Fuji Store - Lyon",
+   "group": "unknown",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "17 Rue Mulet, 69001 Lyon",
+   "phone": "04 72 07 08 37",
+   "website": "https://fuji-store.fr/?utm_campaign=GMB+L&utm_medium=GMB&utm_source=GMB",
+   "buylist_url": "https://fuji-store.fr/nos-services/rachat-de-collections/",
+   "checked_at": "2026-10-16T02:21:05Z"
+  },
+  {
    "name": "FUNGAMES",
    "group": "unknown",
    "city": "Lampertheim",
@@ -4496,6 +5680,16 @@
    "phone": "09 50 92 15 66",
    "website": "https://www.funkyshop.fr/fr/",
    "checked_at": "2026-10-16T02:27:08Z"
+  },
+  {
+   "name": "Galaxie Games",
+   "group": "unknown",
+   "city": "La Chapelle-sur-Erdre",
+   "region": "Pays de la Loire",
+   "address": "Centre Commercial Viv'Erdre, 44240 La Chapelle-sur-Erdre",
+   "phone": "02 51 12 36 61",
+   "website": "https://galaxiegames.fr/",
+   "checked_at": "2026-10-16T21:47:10Z"
   },
   {
    "name": "GAME JUTSU Montpellier",
@@ -4540,6 +5734,46 @@
    "checked_at": "2026-10-16T02:19:20Z"
   },
   {
+   "name": "Gamecash",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "5 Rue de l'Arche Sèche, 44000 Nantes",
+   "phone": "02 52 10 05 61",
+   "website": "https://www.gamecash.fr/",
+   "checked_at": "2026-10-16T21:47:08Z"
+  },
+  {
+   "name": "Gamecash",
+   "group": "unknown",
+   "city": "Souffelweyersheim",
+   "region": "Grand Est",
+   "address": "34 Rue des Tuileries, 67460 Souffelweyersheim",
+   "phone": "03 65 67 49 02",
+   "website": "https://www.gamecash.fr/magasin-gamecash-strasbourg-m189.html",
+   "checked_at": "2026-10-16T21:47:12Z"
+  },
+  {
+   "name": "Gamecash",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "19 Rue de l'Ancien Courrier, 34000 Montpellier",
+   "phone": "04 58 28 60 79",
+   "website": "https://www.gamecash.fr/magasin-gamecash-montpellier-m201.html",
+   "checked_at": "2026-10-16T21:47:17Z"
+  },
+  {
+   "name": "Gamecash",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "271 Rue Léon Gambetta, 59000 Lille",
+   "phone": "03 62 28 53 07",
+   "website": "https://www.gamecash.fr/magasin-gamecash-lille-gambetta-m34.html",
+   "checked_at": "2026-10-16T21:47:17Z"
+  },
+  {
    "name": "Games of the World",
    "group": "unknown",
    "city": "Toulouse",
@@ -4548,6 +5782,16 @@
    "phone": "05 61 23 73 88",
    "website": "https://www.jeuxdumonde.fr/",
    "checked_at": "2026-10-16T02:23:59Z"
+  },
+  {
+   "name": "Games of the World",
+   "group": "unknown",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "1 Rue Lakanal, 38000 Grenoble",
+   "phone": "09 54 73 48 34",
+   "website": "https://www.jeuxdumonde.com/",
+   "checked_at": "2026-10-16T21:47:18Z"
   },
   {
    "name": "GameSpirit",
@@ -4777,6 +6021,29 @@
    "checked_at": "2026-10-16T02:18:12Z"
   },
   {
+   "name": "Hobby dou'",
+   "group": "unknown",
+   "city": "Rives",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "56 Rue de la République, 38140 Rives",
+   "phone": "09 82 62 77 20",
+   "website": "https://www.vinted.fr/member/97041515-geekandtoys",
+   "checked_at": "2026-10-16T02:22:54Z"
+  },
+  {
+   "name": "Hobby Max",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "31 Rue Edouard Delesalle, 59800 Lille, France, Lille, Hauts-de-France, 59800",
+   "phone": "+33 3 20 39 19 08",
+   "website": "https://www.hobby-max.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "Hobby one",
    "group": "unknown",
    "city": "Paris",
@@ -4839,12 +6106,32 @@
    "checked_at": "2026-10-16T02:22:27Z"
   },
   {
+   "name": "Japanim Nantes Atlantis",
+   "group": "unknown",
+   "city": "Saint-Herblain",
+   "region": "Pays de la Loire",
+   "address": "17 Pl. Magellan, 44800 Saint-Herblain",
+   "phone": "09 86 47 79 63",
+   "website": "https://japanim.com/",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
    "name": "Japanim Nantes Brancas",
    "group": "unknown",
    "city": "Nantes",
    "region": "Pays de la Loire",
    "address": "10 All. Brancas, 44000 Nantes",
    "phone": "09 86 60 92 42",
+   "website": "https://japanim.com/",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Japanim Rennes Joffre",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "17 Rue Maréchal Joffre, 35000 Rennes",
+   "phone": "09 88 31 41 40",
    "website": "https://japanim.com/",
    "checked_at": "2026-10-16T02:24:58Z"
   },
@@ -4979,6 +6266,76 @@
    "checked_at": "2026-10-16T02:23:27Z"
   },
   {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Les Pennes-Mirabeau",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Z.C. Plan de Campagne Lieu dit Le Rigon, Centre commercial Barneoud, 1 Av. du Plan de Campagne, 13170 Les Pennes-Mirabeau",
+   "phone": "04 42 02 55 37",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Portet-sur-Garonne",
+   "region": "Occitanie",
+   "address": "Bd de l'Europe, 31120 Portet-sur-Garonne",
+   "phone": "05 34 56 65 65",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "16 Avenue Notre Dame, 06000 Nice",
+   "phone": "04 93 85 43 10",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Vendenheim",
+   "region": "Grand Est",
+   "address": "8 Rue du Commerce, 67550 Vendenheim",
+   "phone": "03 90 22 61 11",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Saint-Jean-de-Védas",
+   "region": "Occitanie",
+   "address": "Rond point du, 163 Rue Alexander Fleming, 34430 Saint-Jean-de-Védas",
+   "phone": "04 99 52 88 00",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Lattes",
+   "region": "Occitanie",
+   "address": "C.C LE SOLIS, ROUTE DE LA MER, 34970 Lattes",
+   "phone": "04 67 28 94 38",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Villeneuve-d'Ascq",
+   "region": "Hauts-de-France",
+   "address": "21 Av. de l'Avenir, 59650 Villeneuve-d'Ascq",
+   "phone": "03 28 07 63 63",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
    "name": "JSST Jeux",
    "group": "unknown",
    "city": "Nice",
@@ -4991,6 +6348,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:23Z"
+  },
+  {
+   "name": "Krazy Kat",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "11 Rue Saint-James, 33000 Bordeaux",
+   "phone": "05 56 52 16 60",
+   "website": "https://www.canalbd.net/la-caverne-des-bd/",
+   "checked_at": "2026-10-16T02:22:09Z"
   },
   {
    "name": "Kurhinotama",
@@ -5209,6 +6576,16 @@
    "checked_at": "2026-10-16T02:27:04Z"
   },
   {
+   "name": "La Boutique FantastiK",
+   "group": "unknown",
+   "city": "Nort-sur-Erdre",
+   "region": "Pays de la Loire",
+   "address": "4 Rue de la Paix, 44390 Nort-sur-Erdre",
+   "phone": "02 53 35 04 23",
+   "website": "https://www.laboutiquefantastik.com",
+   "checked_at": "2026-10-16T21:47:10Z"
+  },
+  {
    "name": "La Boîte à Jeux",
    "group": "unknown",
    "city": "Le Mans",
@@ -5279,12 +6656,51 @@
    "checked_at": "2026-10-16T02:22:09Z"
   },
   {
+   "name": "La caverne du gobelin",
+   "group": "unknown",
+   "city": "Pont-à-Mousson",
+   "region": "Grand Est",
+   "address": "41 Rue Victor Hugo, 54700 Pont-à-Mousson, France, Pont-à-Mousson, Grand Est, 54700",
+   "phone": "03 55 07 22 72",
+   "website": "https://cavernedugobelin.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:19:56Z"
+  },
+  {
+   "name": "La Caverne du Gobelin Metz",
+   "group": "unknown",
+   "city": "Metz",
+   "region": "Grand Est",
+   "address": "11 Rue des Clercs, 57000 Metz, France, Metz, Grand Est, 57000",
+   "phone": "03 87 18 42 08",
+   "website": "https://cavernedugobelin.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:19:56Z"
+  },
+  {
    "name": "La Caverne du Gobelin Nancy",
    "group": "unknown",
    "city": "Nancy",
    "region": "Grand Est",
    "address": "19 Rue de la Faïencerie, 54000 Nancy, France, Nancy, Grand Est, 54000",
    "phone": "03 83 32 25 06",
+   "website": "https://cavernedugobelin.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:19:56Z"
+  },
+  {
+   "name": "La Caverne Du Gobelin Thionville",
+   "group": "unknown",
+   "city": "Thionville",
+   "region": "Grand Est",
+   "address": "23 Rue Brûlée, 57100 Thionville, France, Thionville, Grand Est, 57100",
+   "phone": "+33 9 70 16 29 34",
    "website": "https://cavernedugobelin.com/",
    "games_events": [
     "Flesh and Blood"
@@ -5361,12 +6777,82 @@
    "checked_at": "2026-10-16T02:22:12Z"
   },
   {
+   "name": "La Grande Récré",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "90 Rue de Rome, 13006 Marseille",
+   "phone": "04 91 54 01 21",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré",
+   "group": "unknown",
+   "city": "Fenouillet",
+   "region": "Occitanie",
+   "address": "RUE DES USINES - ZI DE SAINT JORY, 31150 Fenouillet",
+   "phone": "05 61 70 39 04",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "CC POLYGONE, 1 Rue des Pertuisanes, 34070 Montpellier",
+   "phone": "04 67 22 13 52",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré BORDEAUX SAINTE CATHERINE",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "Rue de la Prte Dijeaux, 33000 Bordeaux",
+   "phone": "05 57 35 33 90",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré JACOU",
+   "group": "unknown",
+   "city": "Jacou",
+   "region": "Occitanie",
+   "address": "Zone commerciale La Plaine, 25 Rue du Clos de Viviers, 34830 Jacou",
+   "phone": "04 67 60 52 77",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
    "name": "La Grande Récré LYON",
    "group": "unknown",
    "city": "Lyon",
    "region": "Auvergne-Rhône-Alpes",
    "address": "17 Rue Dr Bouchut, 69003 Lyon",
    "phone": "04 72 61 89 19",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré STRASBOURG",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "3 Pl. Dauphine, 67100 Strasbourg",
+   "phone": "03 88 55 47 20",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
+   "name": "La Grande Récré TOULOUSE",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "55 Rue Saint-Rome, 31000 Toulouse",
+   "phone": "05 61 29 07 15",
    "website": "https://www.lagranderecre.fr/magasins/",
    "checked_at": "2026-10-16T02:23:20Z"
   },
@@ -5468,6 +6954,19 @@
    "checked_at": "2026-10-16T02:16:12Z"
   },
   {
+   "name": "La Taverne du Gobelin Farci",
+   "group": "unknown",
+   "city": "Saint-Étienne",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "39 Rue du Onze Novembre, 42100 Saint-Étienne, France, Saint-Étienne, Auvergne-Rhône-Alpes, 42100",
+   "phone": "0695069488",
+   "website": "https://event.augobelinfarci.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "LaBD2collec",
    "group": "unknown",
    "city": "Paris",
@@ -5555,6 +7054,17 @@
    "checked_at": "2026-10-16T02:26:00Z"
   },
   {
+   "name": "Le CASH Club - Produits d'Occasion et Reconditionnés",
+   "group": "unknown",
+   "city": "Saint-Jean-de-Védas",
+   "region": "Occitanie",
+   "address": "Face à ACTION et JouéClub, 160 Rue Alexander Fleming, 34430 Saint-Jean-de-Védas",
+   "phone": "04 30 96 98 57",
+   "website": "https://www.lecashclub.fr/",
+   "buylist_url": "https://www.lecashclub.fr/rachat-or/",
+   "checked_at": "2026-10-16T02:26:00Z"
+  },
+  {
    "name": "Le Cercle du Jeu",
    "group": "unknown",
    "city": "Plaisance-du-Touch",
@@ -5601,6 +7111,19 @@
    "address": "Rue Jean Queillau, 13014 Marseille",
    "website": "http://www.le-coin-retrogaming.fr/",
    "checked_at": "2026-10-16T02:23:48Z"
+  },
+  {
+   "name": "Le Coin-Coin Ludique",
+   "group": "unknown",
+   "city": "Saint-Maximin",
+   "region": "Hauts-de-France",
+   "address": "Rue Albert Einstein, 60740 Saint-Maximin, France, Saint-Maximin, Hauts-de-France, 60740",
+   "phone": "+33 3 44 26 37 40",
+   "website": "https://lecoincoinludique.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
   },
   {
    "name": "Le Cube à Comics",
@@ -5659,6 +7182,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:11Z"
+  },
+  {
+   "name": "Le Géant des Beaux Arts Nantes",
+   "group": "unknown",
+   "city": "Saint-Herblain",
+   "region": "Pays de la Loire",
+   "address": "2 Av. des Floralies, 44800 Saint-Herblain",
+   "phone": "02 40 35 83 00",
+   "website": "https://www.geant-beaux-arts.fr/",
+   "checked_at": "2026-10-16T02:24:15Z"
   },
   {
    "name": "Le Géant des Beaux-Arts Toulouse",
@@ -5722,6 +7255,19 @@
    "phone": "05 36 89 54 20",
    "website": "https://www.le-passe-temps.com/",
    "checked_at": "2026-10-16T02:23:58Z"
+  },
+  {
+   "name": "Le Petit Joueur",
+   "group": "unknown",
+   "city": "Mandelieu-la-Napoule",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "225 Av. de Saint-Exupéry, 06211 Mandelieu-la-Napoule, France, Mandelieu-la-Napoule, Provence-Alpes-Côte d'Azur, 06211",
+   "phone": "06 24 71 72 72",
+   "website": "https://lepetitjoueur.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:05Z"
   },
   {
    "name": "Le petit Souk Strasbourg",
@@ -5836,6 +7382,58 @@
    "checked_at": "2026-10-16T02:21:25Z"
   },
   {
+   "name": "Le Temple du Jeu - Brest - Ludik Addict",
+   "group": "unknown",
+   "city": "Brest",
+   "region": "Bretagne",
+   "address": "18 Rue Yves Collet, 29200 Brest, France, Brest, Bretagne, 29200",
+   "phone": "+33 2 98 00 19 99",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Le Temple du Jeu - Limoges",
+   "group": "unknown",
+   "city": "Limoges",
+   "region": "Nouvelle-Aquitaine",
+   "address": "6 Rue Adrien Dubouché, 87000 Limoges, France, Limoges, Nouvelle-Aquitaine, 87000",
+   "phone": "+33 5 44 23 95 47",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Le Temple du Jeu - Pôle Sud",
+   "group": "unknown",
+   "city": "Clisson",
+   "region": "Pays de la Loire",
+   "address": "44190 Clisson, France, Clisson, Pays de la Loire, 44190",
+   "phone": "+33 9 52 90 44 93",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Le Temple du Jeu - Vannes",
+   "group": "unknown",
+   "city": "Vannes",
+   "region": "Bretagne",
+   "address": "6 Rue de la Fontaine, 56000 Vannes, France, Vannes, Bretagne, 56000",
+   "phone": "+33 2 97 54 17 75",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
    "name": "Le Temple du Jeu Nantes",
    "group": "unknown",
    "city": "Rennes",
@@ -5846,6 +7444,32 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Le Temple du Jeu Nantes - Boutique Cartes",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "23 Quai de la Fosse, 44000 Nantes, France, Nantes, Pays de la Loire, 44000",
+   "phone": "0980725959",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Le Temple Du Jeu Poitiers",
+   "group": "unknown",
+   "city": "Poitiers",
+   "region": "Nouvelle-Aquitaine",
+   "address": "13 Rue des Grandes Écoles, 86000 Poitiers, France, Poitiers, Nouvelle-Aquitaine, 86000",
+   "phone": "09 80 77 36 78",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:17:41Z"
   },
@@ -5883,6 +7507,16 @@
    "phone": "04 78 92 13 88",
    "website": "https://levault.fr/",
    "checked_at": "2026-10-16T02:22:48Z"
+  },
+  {
+   "name": "Leconte Toys Joueclub",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "4 Rue d'Isly, 35000 Rennes",
+   "phone": "02 99 31 51 12",
+   "website": "https://www.joueclub.fr/magasin/village-joueclub-lyon.html",
+   "checked_at": "2026-10-16T02:23:27Z"
   },
   {
    "name": "Les 3J",
@@ -6169,6 +7803,16 @@
    "checked_at": "2026-10-16T02:26:39Z"
   },
   {
+   "name": "Librairie Momie, BD, Comics, Jeunesse",
+   "group": "unknown",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "1 Rue Lafayette, 38000 Grenoble",
+   "phone": "04 76 51 66 22",
+   "website": "https://momie.fr/",
+   "checked_at": "2026-10-16T02:22:57Z"
+  },
+  {
    "name": "librairie OMERVEILLES, SF, Fantasy, Fantastique",
    "group": "unknown",
    "city": "Grenoble",
@@ -6406,6 +8050,16 @@
    "checked_at": "2026-10-16T02:18:39Z"
   },
   {
+   "name": "Ludotrotter Faches",
+   "group": "unknown",
+   "city": "Faches-Thumesnil",
+   "region": "Hauts-de-France",
+   "address": "Ludotrotter Faches, Centre Commercial Auchan, 59155 Faches-Thumesnil",
+   "phone": "06 03 06 47 44",
+   "website": "https://ludotrotter.fr/",
+   "checked_at": "2026-10-16T02:18:39Z"
+  },
+  {
    "name": "Ludotrotter Lille",
    "group": "unknown",
    "address": "357 Av. de Dunkerque Lomme, Lille, Hauts-de-France, 59160, France",
@@ -6417,12 +8071,28 @@
    "checked_at": "2026-10-16T02:18:38Z"
   },
   {
+   "name": "Ludotrotter Nantes - Orvault",
+   "group": "unknown",
+   "city": "Orvault",
+   "region": "Pays de la Loire",
+   "address": "11 Rue du Printemps, 44700 Orvault, France, Orvault, Pays de la Loire, 44700",
+   "phone": "02 28 91 03 25",
+   "website": "https://nantes.ludotrotter.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:47:06Z"
+  },
+  {
    "name": "Ludotrotter Salon de Provence",
    "group": "unknown",
+   "city": "Salon-de-Provence",
+   "region": "Provence-Alpes-Côte d'Azur",
    "address": "123 Av. Emile Zola, Salon-de-Provence, Provence-Alpes-Côte d'Azur, 13300, France",
    "phone": "339 83 41 21 24",
    "website": "https://salon-de-provence.ludotrotter.com/",
    "games_events": [
+    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:59Z"
@@ -6553,6 +8223,16 @@
    "checked_at": "2026-10-16T02:22:30Z"
   },
   {
+   "name": "MANGA DOKAZE - neufs et occasions X gunpla X Tcg",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "7 Rue de la Clef, 59000 Lille",
+   "phone": "03 62 13 37 03",
+   "website": "https://www.canalbd.net/la-caverne-des-bd/",
+   "checked_at": "2026-10-16T02:22:09Z"
+  },
+  {
    "name": "Mangarake Lyon",
    "group": "unknown",
    "city": "Lyon",
@@ -6660,6 +8340,296 @@
    "checked_at": "2026-10-16T02:23:21Z"
   },
   {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Cabriès",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "CCial avant cap, local 51, 13480 Cabriès",
+   "phone": "04 42 34 37 12",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Portet-sur-Garonne",
+   "region": "Occitanie",
+   "address": "Centre commercial CARREFOUR, Bd de l'Europe Local 85, 31127 Portet-sur-Garonne",
+   "phone": "05 61 76 21 52",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Labège",
+   "region": "Occitanie",
+   "address": "Centre commercial LABEGE 2, 700 La Pyrénéenne, 31670 Labège",
+   "phone": "05 61 00 13 20",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Fenouillet",
+   "region": "Occitanie",
+   "address": "Centre commercial GEANT FENOUILLET RN20 ZI Saint JORY, 31150 Fenouillet",
+   "phone": "05 62 75 89 14",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Blagnac",
+   "region": "Occitanie",
+   "address": "Zac Du Grand Noble, 2 All. Emile Zola, 31700 Blagnac",
+   "phone": "05 61 78 51 83",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "35 Av. Jean Médecin, 06000 Nice",
+   "phone": "04 93 88 23 20",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Saint-Herblain",
+   "region": "Pays de la Loire",
+   "address": "Centre Commercial Leclerc Atlantis Zone Atlantis, 44800 Saint-Herblain",
+   "phone": "02 40 36 14 23",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "Centre commercial LA, Pl. des Halles Niveau Haut, 67000 Strasbourg",
+   "phone": "03 88 32 60 70",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Saint-Clément-de-Rivière",
+   "region": "Occitanie",
+   "address": "Centre Commercial Trifontaine, Rte de Ganges, 34980 Saint-Clément-de-Rivière",
+   "phone": "04 67 72 12 02",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Saint-Jean-de-Védas",
+   "region": "Occitanie",
+   "address": "Centre commercial Carrefour, Rte de Sète, 34430 Saint-Jean-de-Védas",
+   "phone": "04 67 15 64 93",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "Centre commercial EURALILLE, 1er étage, 59777 Lille",
+   "phone": "07 56 43 36 72",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Villeneuve-d'Ascq",
+   "region": "Hauts-de-France",
+   "address": "Centre commercial, 59650 Villeneuve-d'Ascq",
+   "phone": "03 59 61 39 29",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "Centre Commercial ALMA, Rue du Bosphore, 35200 Rennes",
+   "phone": "02 99 51 06 21",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Saint-Grégoire",
+   "region": "Bretagne",
+   "address": "Centre commercial Grand Quartier, Rte Saint-Malo, 35760 Saint-Grégoire",
+   "phone": "02 23 46 16 16",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Pacé",
+   "region": "Bretagne",
+   "address": "La Giraudais, 35740 Pacé",
+   "phone": "02 99 69 96 90",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania",
+   "group": "unknown",
+   "city": "Échirolles",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "8 Pl. de la Grande Moucherolle, 38130 Échirolles",
+   "phone": "04 76 22 07 76",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing",
+   "group": "unknown",
+   "city": "Mundolsheim",
+   "region": "Grand Est",
+   "address": "Centre Commercial Cora, 900 RN 63, 67450 Mundolsheim",
+   "phone": "03 88 04 43 32",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing",
+   "group": "unknown",
+   "city": "Cesson-Sévigné",
+   "region": "Bretagne",
+   "address": "CCAL CARREFOUR LA RIGOURDIERE, Rte de Domloup, 35510 Cesson-Sévigné",
+   "phone": "02 99 83 19 46",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing BORDEAUX CENTRE VILLE",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "12 Rue des Trois-Conils, 33000 Bordeaux",
+   "phone": "05 56 81 97 03",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing GEISPOLSHEIM",
+   "group": "unknown",
+   "city": "Geispolsheim",
+   "region": "Grand Est",
+   "address": "Centre Commercial Leclerc, Rue du Fort, 67118 Geispolsheim",
+   "phone": "03 88 84 48 70",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing GRENOBLE CENTRE VILLE",
+   "group": "unknown",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "23 Grande Rue, 38000 Grenoble",
+   "phone": "04 76 51 57 30",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing LA VALENTINE",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Centre commercial GEANT, Rte de la Sablière, 13011 Marseille",
+   "phone": "04 91 35 72 72",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing LATTES",
+   "group": "unknown",
+   "city": "Lattes",
+   "region": "Occitanie",
+   "address": "Centre commercial CARREFOUR Grand Sud, Route de Carnon, 34970 Lattes",
+   "phone": "04 67 81 42 33",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing MERIGNAC SOLEIL",
+   "group": "unknown",
+   "city": "Mérignac",
+   "region": "Nouvelle-Aquitaine",
+   "address": "SOLEIL ROUTE DU CAP FERRET, Centre Commercial Carrefour, Av. de la Somme, 33700 Mérignac",
+   "phone": "05 56 46 07 80",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing MONTPELLIER POLYGONE",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "Centre commercial POLYGONE, 1 Rue des Pertuisanes Local 305, 34000 Montpellier",
+   "phone": "04 67 20 09 97",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing NANTES CENTRE VILLE",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "6 Pl. du Commerce, 44000 Nantes",
+   "phone": "02 40 35 20 65",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing ROQUES",
+   "group": "unknown",
+   "city": "Roques",
+   "region": "Occitanie",
+   "address": "Centre commercial Leclerc, All. de Fraixinet, 31120 Roques",
+   "phone": "05 62 48 04 90",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing SAINT SEBASTIEN",
+   "group": "unknown",
+   "city": "Saint-Sébastien-sur-Loire",
+   "region": "Pays de la Loire",
+   "address": "Centre commercial AUCHAN, Rue Pierre Mendès France Local 45, 44230 Saint-Sébastien-sur-Loire",
+   "phone": "02 51 79 08 70",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
+   "name": "Micromania - Zing TOULOUSE RUE SAINT ROME",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "5 Rue Saint-Rome, 31000 Toulouse",
+   "phone": "05 34 45 08 90",
+   "website": "https://www.micromania.fr/?utm_source=Yext&utm_medium=GMB",
+   "checked_at": "2026-10-16T02:23:21Z"
+  },
+  {
    "name": "Momie Mangas Lyon",
    "group": "unknown",
    "city": "Lyon",
@@ -6733,6 +8703,19 @@
    "checked_at": "2026-10-16T02:25:08Z"
   },
   {
+   "name": "MULTILUD -  Le Temple du Jeu  - Saint-Nazaire",
+   "group": "unknown",
+   "city": "Saint-Nazaire",
+   "region": "Pays de la Loire",
+   "address": "44600 Saint-Nazaire, France, Saint-Nazaire, Pays de la Loire, 44600",
+   "phone": "+33 2 40 22 58 64",
+   "website": "https://www.letempledujeu.fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
    "name": "Mysti Drop",
    "group": "unknown",
    "city": "Strasbourg",
@@ -6796,6 +8779,16 @@
    "checked_at": "2026-10-16T02:17:01Z"
   },
   {
+   "name": "NICE",
+   "group": "unknown",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Av. Jean Médecin, 06000 Nice",
+   "phone": "04 93 92 39 60",
+   "website": "https://www.lagranderecre.fr/magasins/",
+   "checked_at": "2026-10-16T02:23:20Z"
+  },
+  {
    "name": "No Top Deck",
    "group": "unknown",
    "city": "Marseille",
@@ -6815,6 +8808,76 @@
    "checked_at": "2026-10-16T02:23:13Z"
   },
   {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "162 Rue de Rome, 13006 Marseille",
+   "phone": "04 91 53 30 98",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "17 Rue des Filatiers, 31000 Toulouse",
+   "phone": "05 61 32 12 17",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "37 Rue de Verdun, 44000 Nantes",
+   "phone": "02 40 20 07 55",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "16 Rue Saint-Guilhem, 34000 Montpellier",
+   "phone": "04 67 60 66 50",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "21 Rue des Tanneurs, 59800 Lille",
+   "phone": "03 20 57 78 88",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "7 Rue d'Antrain, 35000 Rennes",
+   "phone": "02 99 38 57 93",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "O'CD Grenoble",
+   "group": "unknown",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "5 Ter Rue de Sault, 38000 Grenoble",
+   "phone": "04 76 46 30 37",
+   "website": "https://www.ocd.fr/",
+   "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
    "name": "Odysseo",
    "group": "unknown",
    "city": "Cernay",
@@ -6826,6 +8889,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:52Z"
+  },
+  {
+   "name": "OKAIDI",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "52-54 Rue Pierre Mauroy, 59000 Lille",
+   "phone": "03 76 04 45 67",
+   "website": "https://www.okaidi.fr/",
+   "checked_at": "2026-10-16T02:25:19Z"
   },
   {
    "name": "OKAIDI NANTES CALVAIRE",
@@ -6965,6 +9038,20 @@
    "checked_at": "2026-10-16T02:24:55Z"
   },
   {
+   "name": "PARKAGE Vitrolles",
+   "group": "unknown",
+   "city": "Vitrolles",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "44 Rue du Bachelier Ionel Béranger, 13127 Vitrolles, France, Vitrolles, Provence-Alpes-Côte d'Azur, 13127",
+   "phone": "09 83 24 85 21",
+   "website": "https://www.parkage.com/fr",
+   "buylist_url": "https://www.parkage.com/fr/conditions-generales-de-rachat",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Par’Ici",
    "group": "unknown",
    "city": "Paris",
@@ -7006,6 +9093,19 @@
    "checked_at": "2026-10-16T02:28:09Z"
   },
   {
+   "name": "Philibert",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "12 Rue de la Grange, 67000 Strasbourg, France, Strasbourg, Grand Est, 67000",
+   "phone": "+33 3 88 32 65 35",
+   "website": "https://www.philibertnet.com/en/?fbclid=IwAR1nT6Biz4sJeeBkdQ6uGBWITQFTFkisYhs8_U30S0glyY6qGCjCJaGns2s",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "PinModzShop",
    "group": "unknown",
    "city": "Toulouse",
@@ -7033,6 +9133,16 @@
    "region": "Nouvelle-Aquitaine",
    "address": "130 Cr de Verdun, 33000 Bordeaux",
    "phone": "09 81 05 70 82",
+   "website": "http://33pirouettes.fr/",
+   "checked_at": "2026-10-16T02:26:48Z"
+  },
+  {
+   "name": "Pirouettes PESSAC",
+   "group": "unknown",
+   "city": "Pessac",
+   "region": "Nouvelle-Aquitaine",
+   "address": "15 Pl. de la Liberté Samuel Paty, 33600 Pessac",
+   "phone": "09 86 33 59 59",
    "website": "http://33pirouettes.fr/",
    "checked_at": "2026-10-16T02:26:48Z"
   },
@@ -7072,6 +9182,29 @@
    "checked_at": "2026-10-16T02:26:00Z"
   },
   {
+   "name": "Playin Lyon",
+   "group": "unknown",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "52 Rue de Brest, 69002 Lyon",
+   "phone": "07 43 51 24 69",
+   "website": "https://www.play-in.com/fr",
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
+   "name": "Playin Marseille",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "8 Rue Montgrand, 13006 Marseille, France, Marseille, Provence-Alpes-Côte d'Azur, 13006",
+   "phone": "04 13 41 81 26",
+   "website": "https://www.play-in.com/fr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Playin Paris Rivoli",
    "group": "unknown",
    "city": "Paris",
@@ -7082,6 +9215,19 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
+   "name": "Playin Perpignan",
+   "group": "unknown",
+   "city": "Cabestany",
+   "region": "Occitanie",
+   "address": "4 Rue Henri Becquerel, 66330 Cabestany, France, Cabestany, Occitanie, 66330",
+   "phone": "0468539123",
+   "website": "https://www.play-in.com/fr",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:15:43Z"
   },
@@ -7279,6 +9425,16 @@
    "checked_at": "2026-10-16T02:19:05Z"
   },
   {
+   "name": "Pulp's Bordeaux (One)",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "56 Rue du Loup, 33000 Bordeaux",
+   "phone": "09 86 29 42 31",
+   "website": "https://www.pulps.fr/",
+   "checked_at": "2026-10-16T02:21:32Z"
+  },
+  {
    "name": "Pulp's Comics",
    "group": "unknown",
    "city": "Paris",
@@ -7344,6 +9500,20 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:56Z"
+  },
+  {
+   "name": "RELIC",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "32 Gd Rue Saint-Michel, 31400 Toulouse, France, Toulouse, Occitanie, 31400",
+   "phone": "+33981755463",
+   "website": "https://www.relictcg.com/",
+   "buylist_url": "https://www.relictcg.com/pages/rachat-cartes",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
   },
   {
    "name": "Repere Geek",
@@ -7476,6 +9646,19 @@
    "checked_at": "2026-10-16T02:18:27Z"
   },
   {
+   "name": "Rôle Games",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "11 Rue Barbaroux, 13001 Marseille, France, Marseille, Provence-Alpes-Côte d'Azur, 13001",
+   "phone": "04 91 42 10 29",
+   "website": "https://www.ebay.fr/str/declikcomics?mkcid=16&mkevt=1&mkrid=709-127639-2357-0&ssspo=9utyZhtTTdK&sssrc=3418065&ssuid=9utyZhtTTdK&widget_ver=artemis&media=SMS",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:22:34Z"
+  },
+  {
    "name": "S.P.L Collections",
    "group": "unknown",
    "city": "Paris",
@@ -7511,6 +9694,16 @@
    "city": "Fougères",
    "region": "Bretagne",
    "address": "7 Rue de Paris, 35300 Fougères",
+   "phone": "09 62 55 74 22",
+   "website": "https://sakuro.fr/",
+   "checked_at": "2026-10-16T02:27:53Z"
+  },
+  {
+   "name": "SAKURO",
+   "group": "unknown",
+   "city": "Le Mans",
+   "region": "Pays de la Loire",
+   "address": "24 Rue Marchande, 72100 Le Mans",
    "phone": "09 62 55 74 22",
    "website": "https://sakuro.fr/",
    "checked_at": "2026-10-16T02:27:53Z"
@@ -7640,12 +9833,129 @@
    "checked_at": "2026-10-16T02:26:51Z"
   },
   {
+   "name": "Smyths Lomme",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "ZA du Grand But, Rue du Château d'Isenghien, 59160 Lille",
+   "phone": "03 20 87 06 70",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Bordeaux Bègles",
+   "group": "unknown",
+   "city": "Bègles",
+   "region": "Nouvelle-Aquitaine",
+   "address": "5 Rue Denis Papin, 33130 Bègles",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Bordeaux Lac",
+   "group": "unknown",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "Qur du Lac, 33300 Bordeaux",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
    "name": "Smyths Toys Bron",
    "group": "unknown",
    "city": "Bron",
    "region": "Auvergne-Rhône-Alpes",
    "address": "11 Rue Paul Langevin, 69500 Bron",
-   "phone": "03 20 87 06 70",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Englos",
+   "group": "unknown",
+   "city": "Sequedin",
+   "region": "Hauts-de-France",
+   "address": "Zi D'Englos, 59320 Sequedin",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Marseille",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "117 Trav. de la Montre, 13011 Marseille",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Nantes Saint-Sébastien",
+   "group": "unknown",
+   "city": "Saint-Sébastien-sur-Loire",
+   "region": "Pays de la Loire",
+   "address": "7 Rue Pierre Mendès France, 44230 Saint-Sébastien-sur-Loire",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Orvault",
+   "group": "unknown",
+   "city": "Orvault",
+   "region": "Pays de la Loire",
+   "address": "260 Rte de Vannes, 44700 Orvault",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Toulouse Blagnac",
+   "group": "unknown",
+   "city": "Blagnac",
+   "region": "Occitanie",
+   "address": "2 Imp. Emile Zola, 31700 Blagnac",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Toulouse Portet-Sur-Garonne",
+   "group": "unknown",
+   "city": "Portet-sur-Garonne",
+   "region": "Occitanie",
+   "address": "33 Bis Rte d'Espagne, 31120 Portet-sur-Garonne",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Toulouse Saint-Orens",
+   "group": "unknown",
+   "city": "Saint-Orens-de-Gameville",
+   "region": "Occitanie",
+   "address": "Rue du Commerce, 31650 Saint-Orens-de-Gameville",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Vendenheim",
+   "group": "unknown",
+   "city": "Vendenheim",
+   "region": "Grand Est",
+   "address": "5 R. des Emplettes, 67550 Vendenheim",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Villeneuve d'Ascq",
+   "group": "unknown",
+   "city": "Villeneuve-d'Ascq",
+   "region": "Hauts-de-France",
+   "address": "Zone Commerciale V2, Rue de Versailles, 59650 Villeneuve-d'Ascq",
+   "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
+   "checked_at": "2026-10-16T02:23:18Z"
+  },
+  {
+   "name": "Smyths Toys Vitrolles",
+   "group": "unknown",
+   "city": "Vitrolles",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Zac Du, Parc du Relais du Griffon, 13127 Vitrolles",
    "website": "https://www.smythstoys.com/fr/fr-fr?utm_campaign=bron&utm_medium=organic&utm_source=gmb",
    "checked_at": "2026-10-16T02:23:18Z"
   },
@@ -7670,6 +9980,19 @@
    "checked_at": "2026-10-16T02:25:27Z"
   },
   {
+   "name": "SORTILEGES LE MANS",
+   "group": "unknown",
+   "city": "Le Mans",
+   "region": "Pays de la Loire",
+   "address": "1 Rue Gambetta, 72100 Le Mans, France, Le Mans, Pays de la Loire, 72100",
+   "phone": "02 43 87 62 41",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
    "name": "Sortileges Roche sur Yon",
    "group": "unknown",
    "city": "Vannes",
@@ -7680,6 +10003,72 @@
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges Angers",
+   "group": "unknown",
+   "city": "Angers",
+   "region": "Pays de la Loire",
+   "address": "24 Rue de la Roë, 49100 Angers",
+   "phone": "02 41 88 96 96",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges la Roche sur Yon",
+   "group": "unknown",
+   "city": "La Roche-sur-Yon",
+   "region": "Pays de la Loire",
+   "address": "La, 2 Rue des Halles, 85000 La Roche-sur-Yon",
+   "phone": "09 51 94 13 98",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges Nantes",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "1 Rue des Trois Croissants, 44000 Nantes",
+   "phone": "02 40 12 14 99",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges Perpignan",
+   "group": "unknown",
+   "city": "Perpignan",
+   "region": "Occitanie",
+   "address": "19 Rue de l'Ange, 66000 Perpignan, France, Perpignan, Occitanie, 66000",
+   "phone": "09 53 62 79 84",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges Rennes",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "16 Rue d'Antrain, 35000 Rennes",
+   "phone": "02 23 24 66 47",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortilèges Rouen",
+   "group": "unknown",
+   "city": "Paris",
+   "region": "Île-de-France",
+   "address": "90 Rue Jeanne d'Arc, 75013 Paris, France, Paris, Île-de-France, 75013",
+   "phone": "+33 2 35 70 13 06",
+   "website": "https://www.sortileges.fr/sortileges-la-roche-sur-yon",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:17:48Z"
   },
@@ -7841,6 +10230,16 @@
    "checked_at": "2026-10-16T02:25:36Z"
   },
   {
+   "name": "Terres de Légendes, librairie spécialisée en bandes dessinées",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "44 Rue Léon Gambetta, 31000 Toulouse",
+   "phone": "05 61 22 79 47",
+   "website": "https://www.canalbd.net/la-caverne-des-bd/",
+   "checked_at": "2026-10-16T02:22:09Z"
+  },
+  {
    "name": "That's the game",
    "group": "unknown",
    "city": "Toulouse",
@@ -7849,6 +10248,16 @@
    "phone": "05 31 15 18 33",
    "website": "https://www.cestlejeu.com/",
    "checked_at": "2026-10-16T02:23:58Z"
+  },
+  {
+   "name": "The Bizarre Bazaar",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "24 Rue des Ponts de Comines, 59000 Lille",
+   "phone": "03 20 55 56 65",
+   "website": "https://www.bazardubizarre.com/?fbclid=IwAR0iBwqM0zVoaIHMLMC44p04SqHuaikDo2Omg3mrbY7JJeRKyBERhY6e97c",
+   "checked_at": "2026-10-16T02:19:54Z"
   },
   {
    "name": "The Card Quest",
@@ -8017,6 +10426,16 @@
    "checked_at": "2026-10-16T02:17:57Z"
   },
   {
+   "name": "Toypad - Figurines | Jeux Vidéo | Retrogaming",
+   "group": "unknown",
+   "city": "Marseille",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "10 Rue Lafon, 13006 Marseille",
+   "phone": "09 53 80 49 70",
+   "website": "https://www.ebay.fr/str/declikcomics?mkcid=16&mkevt=1&mkrid=709-127639-2357-0&ssspo=9utyZhtTTdK&sssrc=3418065&ssuid=9utyZhtTTdK&widget_ver=artemis&media=SMS",
+   "checked_at": "2026-10-16T02:22:34Z"
+  },
+  {
    "name": "TRAIT papier",
    "group": "unknown",
    "city": "Toulouse",
@@ -8054,6 +10473,16 @@
    "address": "76 Rue de la Pompe, 75116 Paris",
    "website": "https://www.trov.es/",
    "checked_at": "2026-10-16T02:21:41Z"
+  },
+  {
+   "name": "Tsuki Universe – Distributeur de cartes Pokémon (Nice)",
+   "group": "unknown",
+   "city": "Nice",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "Intermarché Super, 2 Bd René Cassin, 06200 Nice",
+   "phone": "06 76 39 59 66",
+   "website": "https://tsukiuniverse.fr/",
+   "checked_at": "2026-10-16T02:23:53Z"
   },
   {
    "name": "Tsuki Universe – Distributeur de cartes Pokémon (Saint-Victoret)",
@@ -8121,6 +10550,16 @@
    "checked_at": "2026-10-16T02:22:23Z"
   },
   {
+   "name": "Univers Parallèle",
+   "group": "unknown",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "36 Rue Sainte-Ursule, 31000 Toulouse",
+   "phone": "05 62 30 84 74",
+   "website": "https://www.univers-parallele.fr/",
+   "checked_at": "2026-10-16T21:47:07Z"
+  },
+  {
    "name": "Variantes",
    "group": "unknown",
    "city": "Paris",
@@ -8139,6 +10578,19 @@
    "phone": "07 61 40 01 38",
    "website": "https://www.vegastore.fr/",
    "checked_at": "2026-10-16T02:28:03Z"
+  },
+  {
+   "name": "Vent Divin",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "16 Rue de la Division Leclerc, 67000 Strasbourg, France, Strasbourg, Grand Est, 67000",
+   "phone": "+33 9 51 42 75 87",
+   "website": "https://www.ventdivin.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:46:57Z"
   },
   {
    "name": "Village du jeu",
@@ -8181,6 +10633,56 @@
    "region": "Provence-Alpes-Côte d'Azur",
    "address": "8 Rue Armény, 13006 Marseille",
    "phone": "04 91 57 01 45",
+   "website": "https://www.warhammer.com/shop/Warhammer-Marseille",
+   "checked_at": "2026-10-16T02:23:49Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "15 Ter Rue de Strasbourg, 44000 Nantes",
+   "phone": "02 53 55 71 75",
+   "website": "https://www.warhammer.com/shop/Warhammer-Marseille",
+   "checked_at": "2026-10-16T02:23:49Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "1 Rue de la Lanterne, 67000 Strasbourg",
+   "phone": "03 88 32 08 06",
+   "website": "https://www.warhammer.com/shop/Warhammer-Marseille",
+   "checked_at": "2026-10-16T02:23:49Z"
+  },
+  {
+   "name": "WARHAMMER",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "2 Rue Draperie Saint-Firmin, 34000 Montpellier",
+   "phone": "04 48 18 86 48",
+   "website": "https://www.warhammer.com/",
+   "checked_at": "2026-10-16T21:47:14Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Lille",
+   "region": "Hauts-de-France",
+   "address": "78 Rue Nationale, 59800 Lille",
+   "phone": "03 20 31 69 89",
+   "website": "https://www.warhammer.com/shop/Warhammer-Marseille",
+   "checked_at": "2026-10-16T02:23:49Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "3 Rue du Vau Saint-Germain, 35000 Rennes",
+   "phone": "02 99 79 11 80",
    "website": "https://www.warhammer.com/shop/Warhammer-Marseille",
    "checked_at": "2026-10-16T02:23:49Z"
   },
