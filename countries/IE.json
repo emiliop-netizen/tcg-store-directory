@@ -1,0 +1,1343 @@
+{
+ "country": "IE",
+ "currency": "EUR",
+ "updated": "2026-10-15",
+ "store_count": 134,
+ "stores": [
+  {
+   "name": "Forbidden Planet Dublin",
+   "group": "feed",
+   "region": "D",
+   "address": "5-7 Crampton Quay, Temple Bar, Dublin 2, D02 VX56",
+   "phone": "(01) 671 0688",
+   "website": "https://forbiddenplanet.co.uk/",
+   "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
+   "feed": {
+    "platform": "cardcompanion",
+    "base": null,
+    "myshopify": "loungefly-collectors-club.myshopify.com",
+    "game_slugs": null,
+    "games": null
+   },
+   "checked_at": "2026-10-16T02:13:44Z"
+  },
+  {
+   "name": "Pokebundles Ireland",
+   "group": "public_buylist",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "11 Wickham St, Prior's-Land, Limerick, V94 WR8N",
+   "phone": "087 775 5007",
+   "website": "https://www.pokebundles.ie/",
+   "buylist_url": "https://www.pokebundles.ie/pages/sell-your-cards-buylist",
+   "mail_in": true,
+   "credit_bonus": "Store credit is best offer (e.g. EUR0.40 credit vs EUR0.30 cash)",
+   "checked_at": "2026-10-16T02:13:52Z"
+  },
+  {
+   "name": "Board And Brewed",
+   "group": "quote_only",
+   "city": "Dublin",
+   "region": "County Dublin",
+   "address": "75 York Rd, Dublin, D, A96 FR99, Ireland",
+   "phone": "+353015242984",
+   "website": "https://www.boardandbrewed.ie/",
+   "buylist_url": "https://www.boardandbrewed.ie/sell-cards/",
+   "credit_bonus": "Cash or store credit, up to 70% of market value",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "CollectionMania IE",
+   "group": "quote_only",
+   "region": "D",
+   "address": "Nangor Road Business Park, Unit 1 Knockmitten Ln, Fox-And-Geese Common, Dublin 12, D12 PX01",
+   "phone": "083 078 4353",
+   "website": "https://www.collectionmania.ie/",
+   "buylist_url": "https://www.collectionmania.ie/",
+   "checked_at": "2026-10-16T02:13:44Z"
+  },
+  {
+   "name": "Conns Cameras",
+   "group": "blocked",
+   "region": "D",
+   "address": "54 Clarendon St, Dublin 2, D02 AK61",
+   "phone": "(01) 677 7179",
+   "website": "https://www.connscameras.ie/",
+   "checked_at": "2026-10-16T02:14:07Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Cork",
+   "region": "D",
+   "address": "18 Henry St, North City, Dublin, D01 WA24",
+   "phone": "(01) 270 7660",
+   "website": "https://hmv.com/store-finder",
+   "checked_at": "2026-10-16T02:14:08Z"
+  },
+  {
+   "name": "Life Style Sports",
+   "group": "blocked",
+   "city": "Galway",
+   "region": "G",
+   "address": "2 - 3 Shop St, Galway, H91 WR23",
+   "website": "https://www.lifestylesports.com/ie/?utm_source=google&utm_medium=organic&utm_campaign=gbp-galway-shop-street",
+   "checked_at": "2026-10-16T02:15:00Z"
+  },
+  {
+   "name": "Mark’s Models",
+   "group": "blocked",
+   "region": "D",
+   "address": "14 Hawkins St, Dublin 2, D02 WT29",
+   "phone": "(01) 671 5809",
+   "website": "http://www.marksmodels.com/",
+   "checked_at": "2026-10-16T02:13:55Z"
+  },
+  {
+   "name": "The Range, Limerick",
+   "group": "blocked",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Unit 1 Limerick One Shopping Park, Childers Rd, Singland, Limerick, V94 YT98",
+   "phone": "(061) 423 444",
+   "website": "https://www.therange.co.uk/stores/limerick/?utm_source=google&utm_medium=organic&utm_campaign=GoogleBusinessProfile",
+   "checked_at": "2026-10-16T02:15:12Z"
+  },
+  {
+   "name": "Vibes & Scribes Bookshop",
+   "group": "blocked",
+   "city": "Cork",
+   "region": "CO",
+   "address": "21 Lavitt's Quay, Centre, Cork, T12 HYT9",
+   "phone": "(021) 427 9535",
+   "website": "https://vibesandscribes.ie/",
+   "checked_at": "2026-10-16T02:14:26Z"
+  },
+  {
+   "name": "Adventure Toys",
+   "group": "in_store",
+   "city": "Dublin",
+   "region": "D",
+   "address": "19 Birch Grove, Kill Ave, Dún Laoghaire, Dublin, A96 VY59",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "Bell Book And Candle",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "Small Crane, Galway",
+   "phone": "(091) 589 060",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "Bookmart & Gamexchange",
+   "group": "in_store",
+   "region": "D",
+   "address": "73 Talbot St, Mountjoy, Dublin 1, D01 TW28",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Cards & cocoa",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Unit 10, wilton shopping centre, Sarsfield Rd, Bishopstown, Cork, T12 HE62",
+   "phone": "(021) 454 5883",
+   "checked_at": "2026-10-16T02:14:33Z"
+  },
+  {
+   "name": "Crees Card Shop",
+   "group": "in_store",
+   "city": "Youghal",
+   "region": "CO",
+   "address": "117 N Main St, Youghal-Lands, Youghal, Co. Cork, P36 X827",
+   "phone": "(024) 93899",
+   "checked_at": "2026-10-16T02:14:27Z"
+  },
+  {
+   "name": "Dublin Model Shop",
+   "group": "in_store",
+   "region": "D",
+   "address": "143 James's St, Saint James, Dublin 8, D08 N6FE",
+   "phone": "089 608 1748",
+   "checked_at": "2026-10-16T02:14:02Z"
+  },
+  {
+   "name": "Echemas Trading Store",
+   "group": "in_store",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "11a, Upper Gerald Griffin St, Prior's-Land, Limerick, V94 Y4X2",
+   "phone": "089 954 7328",
+   "checked_at": "2026-10-16T02:15:12Z"
+  },
+  {
+   "name": "Funky Geeks",
+   "group": "in_store",
+   "city": "Wexford",
+   "region": "WX",
+   "address": "1 Bullring Market, Bull Ring, Townparks, Wexford, Y35 XP48",
+   "phone": "087 643 5573",
+   "checked_at": "2026-10-16T02:15:24Z"
+  },
+  {
+   "name": "Gift Card Station",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Ballincollig Shopping Centre, Ballincollig, Cork, P31 F652",
+   "checked_at": "2026-10-16T02:14:34Z"
+  },
+  {
+   "name": "HD Comics",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "2 market parade, St Patrick's St, Centre, Cork, T12 VH30",
+   "checked_at": "2026-10-16T02:14:37Z"
+  },
+  {
+   "name": "House Of Cards",
+   "group": "in_store",
+   "city": "Gorey",
+   "region": "WX",
+   "address": "89 Main St, Gorey corporation lands, Gorey, Co. Wexford, Y25 E4W2",
+   "phone": "(053) 942 2236",
+   "checked_at": "2026-10-16T02:15:05Z"
+  },
+  {
+   "name": "Hugmie Toys",
+   "group": "in_store",
+   "region": "D",
+   "address": "17 Henry St, North City, Dublin 1, D01 VH00",
+   "checked_at": "2026-10-16T02:14:13Z"
+  },
+  {
+   "name": "J Joyce & Co",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "30 Princes St, Centre, Cork, T12 DV25",
+   "phone": "086 226 1508",
+   "checked_at": "2026-10-16T02:14:21Z"
+  },
+  {
+   "name": "KickinChickenTCG",
+   "group": "in_store",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "City Campus, Prior's-Land, Limerick",
+   "phone": "087 685 0545",
+   "checked_at": "2026-10-16T02:15:07Z"
+  },
+  {
+   "name": "Last1Standing",
+   "group": "in_store",
+   "city": "Portmarnock",
+   "region": "D",
+   "address": "Burrow Ct, Burrow, Portmarnock, Co. Dublin",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "Needful Things",
+   "group": "in_store",
+   "city": "Dublin",
+   "region": "D",
+   "address": "3 Aungier St, Dublin, D02 NV97",
+   "phone": "085 763 8686",
+   "checked_at": "2026-10-16T02:14:02Z"
+  },
+  {
+   "name": "Number Ten",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "10 Quay St, Galway, H91 FXY4",
+   "phone": "(091) 569 180",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "Paper Chase",
+   "group": "in_store",
+   "region": "G",
+   "address": "Unit 1, Terryland Shopping Centre, Headford Rd, Terryland, Ballinfoyle, Co. Galway, H91 WYF9",
+   "phone": "(091) 568 714",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "Paul Street Shopping Centre",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Paul St, Centre, Cork",
+   "phone": "(021) 427 1314",
+   "checked_at": "2026-10-16T02:14:34Z"
+  },
+  {
+   "name": "PokeGuy",
+   "group": "in_store",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Eastmoreland Court, Dublin",
+   "checked_at": "2026-10-16T02:13:55Z"
+  },
+  {
+   "name": "Pride & Joy",
+   "group": "in_store",
+   "region": "D",
+   "address": "13 Donaghmede Rd, Grange, Dublin 13, D13 PX37",
+   "phone": "(01) 847 6107",
+   "checked_at": "2026-10-16T02:14:13Z"
+  },
+  {
+   "name": "Rainbow Gifts And Souvenirs",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "10 Shop Street, H91 X520 Shop St, Galway, H91 X520",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "Rare",
+   "group": "in_store",
+   "city": "Dublin",
+   "region": "D",
+   "address": "George's Street Arcade, South-East Inner City, Dublin, D02 DH79",
+   "checked_at": "2026-10-16T02:14:12Z"
+  },
+  {
+   "name": "Real Cards",
+   "group": "in_store",
+   "city": "Galway",
+   "region": "G",
+   "address": "2 The Village, Galway, H91 XRW8",
+   "phone": "083 064 8353",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "Renewed Thrift Shop and Collectibles",
+   "group": "in_store",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "12 Gladstone St, Trinity Without, Waterford, X91 XT80",
+   "phone": "089 202 1727",
+   "checked_at": "2026-10-16T02:15:18Z"
+  },
+  {
+   "name": "ReRoll Games",
+   "group": "in_store",
+   "city": "Navan",
+   "region": "County Meath",
+   "address": "44 Flower Hill, Navan, Navan, C15 W9P9, Ireland",
+   "phone": "35386 454 6887",
+   "website": "https://www.facebook.com/RRllGames/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Serenity Memorial Cards | Best & Affordable Memorial Cards in Ireland",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "4 Kingslea, Ballybrack, Cork, T12 NFX9",
+   "phone": "087 057 3651",
+   "checked_at": "2026-10-16T02:14:27Z"
+  },
+  {
+   "name": "Testing Store",
+   "group": "in_store",
+   "city": "Sligo",
+   "region": "County Sligo",
+   "address": "Abbeyquarter North, Sligo, Co. Sligo, F91 YNC5, Ireland, Sligo, County Sligo, F91 YNC5",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "The Curiosity Shop",
+   "group": "in_store",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "11 Wickham St, Prior's-Land, Limerick, V94 WR8N",
+   "website": "https://m.facebook.com/thecuriosityshop20",
+   "checked_at": "2026-10-16T02:15:18Z"
+  },
+  {
+   "name": "The Fat Dragon",
+   "group": "in_store",
+   "city": "Ashbourne",
+   "region": "County Meath",
+   "address": "Killegland, Ashbourne, Co. Meath, A84 DX31, Ireland, Ashbourne, County Meath, A84 DX31",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:13:41Z"
+  },
+  {
+   "name": "The Guild Hall",
+   "group": "in_store",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "3 New Market Ln High Street, Killarney, KY, V93FA31, Ireland",
+   "phone": "3530857575710",
+   "website": "https://instagram.com/theguildhallkillarney?igshid=OGQ5ZDc2ODk2ZA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Tiny Goliath Games",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Anglesea St, Ballintemple, Cork, T12 T997",
+   "checked_at": "2026-10-16T02:14:37Z"
+  },
+  {
+   "name": "Tokyo Trends, ILac Shopping Center",
+   "group": "in_store",
+   "region": "D",
+   "address": "Unit 27, Ilac Centre, Henry St, North City, Dublin 1, D01 AY70",
+   "phone": "083 406 7693",
+   "checked_at": "2026-10-16T02:14:12Z"
+  },
+  {
+   "name": "Toys and Stories",
+   "group": "in_store",
+   "city": "Carrigaline",
+   "region": "CO",
+   "address": "1 Owenabue Dr, Carrigaline West, Carrigaline, Co. Cork, P43 X963",
+   "checked_at": "2026-10-16T02:14:37Z"
+  },
+  {
+   "name": "Trade Wise Retro Online Video Game and Toy Store",
+   "group": "in_store",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Cork City, Centre, Cork",
+   "phone": "083 882 7370",
+   "checked_at": "2026-10-16T02:14:21Z"
+  },
+  {
+   "name": "Underworld Gaming",
+   "group": "in_store",
+   "city": "Dublin",
+   "region": "County Dublin",
+   "address": "10 Belgard Square W, Tallaght, Dublin, Ireland, Dublin, County Dublin",
+   "phone": "0867318269",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "Cash Creators",
+   "group": "not_buying_singles",
+   "city": "Galway",
+   "region": "G",
+   "address": "8 Eglinton St, Galway, H91 AP99",
+   "phone": "(091) 394 582",
+   "website": "https://cashcreators.ie/",
+   "checked_at": "2026-10-16T02:14:37Z"
+  },
+  {
+   "name": "Chapters Bookstore",
+   "group": "not_buying_singles",
+   "region": "D",
+   "address": "Ivy Exchange, Parnell St, Rotunda, Dublin 1, D01 P8C2",
+   "phone": "(01) 879 2700",
+   "website": "https://chaptersbookstore.com/?utm_source=google&utm_medium=organic&utm_content=main_button&utm_campaign=gmb",
+   "buylist_url": "https://chaptersbookstore.com/collections/trade-in-now",
+   "mail_in": true,
+   "credit_bonus": "Digital gift card",
+   "checked_at": "2026-10-16T02:14:12Z"
+  },
+  {
+   "name": "Fonez",
+   "group": "not_buying_singles",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 5, 1ST FLOOR, Corbett Court, Williamsgate St, Galway, H91 32Y3",
+   "phone": "087 165 6602",
+   "website": "https://fonez.ie/",
+   "checked_at": "2026-10-16T02:15:04Z"
+  },
+  {
+   "name": "MW Books Ltd.",
+   "group": "not_buying_singles",
+   "city": "Claregalway",
+   "region": "G",
+   "address": "N18 Lydican Rd, Lydacan, Claregalway, Co. Galway, H91 X7E2",
+   "phone": "087 692 7443",
+   "website": "https://www.mwbooks.ie/",
+   "buylist_url": "https://www.mwbooks.ie/",
+   "checked_at": "2026-10-16T02:15:04Z"
+  },
+  {
+   "name": "Paddy Comics",
+   "group": "not_buying_singles",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 4 Abbeygate Street Lower, Galway, H91 Y8CA",
+   "website": "http://paddycomics.com/",
+   "checked_at": "2026-10-16T02:14:44Z"
+  },
+  {
+   "name": "4 Sports & Games",
+   "group": "unknown",
+   "region": "D",
+   "address": "4 Wynnefield Rd, Rathmines, Dublin 6, D06 H329",
+   "phone": "(01) 497 5819",
+   "website": "https://4sportsandgames.ie/",
+   "checked_at": "2026-10-16T02:13:49Z"
+  },
+  {
+   "name": "Atlantic Collectibles",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Unit B3, KCR Business Park, Ravensdale Park, Kimmage, Dublin, D12 C9P6",
+   "website": "https://atlanticcollectibles.com/",
+   "checked_at": "2026-10-16T02:13:41Z"
+  },
+  {
+   "name": "Azzurri Sport",
+   "group": "unknown",
+   "city": "Kilcohan",
+   "region": "WD",
+   "address": "Ballytruckle, Kilcohan, Co. Waterford, X91 P667",
+   "phone": "(051) 850 066",
+   "website": "https://azzurri.ie/",
+   "checked_at": "2026-10-16T02:15:24Z"
+  },
+  {
+   "name": "B&Q Limerick",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "City East Retail Park, Tipperary Road, Garryglass, Limerick, V94 RD32",
+   "phone": "(061) 422 499",
+   "website": "https://www.diy.ie/store/1375?utm_source=google&utm_medium=organic&utm_campaign=Google_1375",
+   "checked_at": "2026-10-16T02:15:13Z"
+  },
+  {
+   "name": "Banba Toymaster",
+   "group": "unknown",
+   "region": "D",
+   "address": "48 Mary St, North City, Dublin, D01 V527",
+   "phone": "(01) 872 7100",
+   "website": "https://banbatoys.ie/",
+   "checked_at": "2026-10-16T02:13:52Z"
+  },
+  {
+   "name": "Big Bang Comics",
+   "group": "unknown",
+   "region": "D",
+   "address": "Sandyford Rd, Dundrum, Dublin 16, D16 Y051",
+   "phone": "(01) 216 5093",
+   "website": "https://stores.comichub.com/big_bang_comics",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Broadsword Wargaming",
+   "group": "unknown",
+   "address": "Bridge Street, Castlebar, Mayo, F23X448, Ireland",
+   "phone": "+353892526992",
+   "website": "https://www.broadswordwargaming.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Card Gallery",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "31 Grafton Street, Dublin, D02 YY42",
+   "website": "https://www.cardgallery.ie/",
+   "checked_at": "2026-10-16T02:13:47Z"
+  },
+  {
+   "name": "Cardfactory",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Unit 9, 10 George's Street Upper, Dún Laoghaire, Dublin, A96 A258",
+   "phone": "(01) 284 5205",
+   "website": "https://www.cardfactory.co.uk/",
+   "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "CC Creatives Waterford",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "87 Meagher's Quay, Waterford, X91 NH2P",
+   "phone": "085 267 1909",
+   "website": "https://cc-creatives.ie/",
+   "checked_at": "2026-10-16T02:15:22Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "23 South Great George's Street, Dublin, D02 AP66",
+   "phone": "(01) 539 4898",
+   "website": "https://ie.webuy.com/site/storeDetail/?branchId=1536",
+   "buylist_url": "https://ie.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:14:05Z"
+  },
+  {
+   "name": "Charlie Byrne's Bookshop",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "The Cornstore, Middle St, Galway, H91 AH7A",
+   "phone": "(091) 561 766",
+   "website": "https://charliebyrne.ie/",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "City Square Shopping Centre",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "Unit 22, Arundel Square, Waterford",
+   "phone": "(051) 853 528",
+   "website": "https://www.city-square.ie/",
+   "checked_at": "2026-10-16T02:15:22Z"
+  },
+  {
+   "name": "Cogs Toys & Games",
+   "group": "unknown",
+   "region": "D",
+   "address": "Unit 4, Stephen's Green Shopping Centre, St Stephen's Green, Dublin 2, D02 Y303",
+   "phone": "(01) 556 9237",
+   "website": "https://www.cogstoysandgames.ie/",
+   "checked_at": "2026-10-16T02:13:56Z"
+  },
+  {
+   "name": "Cosmic Grading Service",
+   "group": "unknown",
+   "city": "Ballinlough",
+   "region": "RN",
+   "address": "Main Street, Falledeen, Ballinlough, Co. Roscommon, F45 A342",
+   "phone": "089 261 9634",
+   "website": "https://cosmicgrading.com/",
+   "checked_at": "2026-10-16T02:14:49Z"
+  },
+  {
+   "name": "Diecast Models 4 U",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Unit 2 (Level 1 Courbett Court Shopping Centre, 9 Williamsgate St, Galway, H91 EA0K",
+   "phone": "087 116 9437",
+   "website": "https://diecastmodels4u.ie/",
+   "checked_at": "2026-10-16T02:14:45Z"
+  },
+  {
+   "name": "Dublin City Comics",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "103 Capel St, Northside, Dublin",
+   "phone": "085 771 7633",
+   "website": "https://www.dublincitycomics.ie/",
+   "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Dublin Comic Con",
+   "group": "unknown",
+   "region": "D",
+   "address": "Spencer Dock, North Wall, Dublin",
+   "website": "https://dublincomiccon.com/",
+   "checked_at": "2026-10-16T02:14:19Z"
+  },
+  {
+   "name": "Dubray Books",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "4 Shop St, Galway, H91 EE03",
+   "phone": "(091) 569 070",
+   "website": "https://www.dubraybooks.ie/",
+   "checked_at": "2026-10-16T02:14:43Z"
+  },
+  {
+   "name": "Eason",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "40 O'Connell Street Lower, North City, Dublin, D01 PY90",
+   "phone": "(01) 858 3800",
+   "website": "https://www.easons.com/",
+   "checked_at": "2026-10-16T02:13:54Z"
+  },
+  {
+   "name": "Eire Hobbies",
+   "group": "unknown",
+   "city": "Dundalk",
+   "region": "LH",
+   "address": "1st Floor, Unit 27, Brewery Business Park, Ardee Rd, Cambrickville, Dundalk, Co. Louth, A91 N6C0",
+   "phone": "(042) 935 1155",
+   "website": "https://eirehobbies.com/",
+   "checked_at": "2026-10-16T02:14:19Z"
+  },
+  {
+   "name": "Evans Art Supplies",
+   "group": "unknown",
+   "region": "D",
+   "address": "5 - 6 Meetinghouse Ln, Mary's Abbey, North City, Dublin 7, D07 YP89",
+   "phone": "(01) 872 6855",
+   "website": "https://store.evansartsupplies.ie/",
+   "checked_at": "2026-10-16T02:14:03Z"
+  },
+  {
+   "name": "Eyre Square Shopping Centre",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Eyre Square, Galway, H91 R123",
+   "phone": "(091) 568 302",
+   "website": "https://eyresquarecentre.com/",
+   "checked_at": "2026-10-16T02:14:50Z"
+  },
+  {
+   "name": "FAO Schwarz",
+   "group": "unknown",
+   "region": "D",
+   "address": "12 Henry St, North City, Dublin, D01 C3Y9",
+   "website": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/",
+   "checked_at": "2026-10-16T02:14:18Z"
+  },
+  {
+   "name": "Gadget Man",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "Waterford Shopping Centre, Lisduggan Big, Waterford, X91 R26N",
+   "phone": "(051) 853 476",
+   "website": "https://gadgetman.ie/",
+   "checked_at": "2026-10-16T02:15:18Z"
+  },
+  {
+   "name": "Galway Shopping Centre",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Galway",
+   "phone": "(091) 561 803",
+   "website": "https://www.galwaysc.com/",
+   "checked_at": "2026-10-16T02:15:05Z"
+  },
+  {
+   "name": "Gamers World",
+   "group": "unknown",
+   "region": "County Dublin",
+   "address": "Unit 1, Dublin, Dublin, Dublin 1, Ireland",
+   "phone": "3530-18-044-540",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "George's Street Arcade",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "South Great George's Street, Dublin",
+   "phone": "(01) 283 6077",
+   "website": "https://georgesstreetarcade.ie/",
+   "checked_at": "2026-10-16T02:14:07Z"
+  },
+  {
+   "name": "Gerald McCarthy Gifts and Awards",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "18 Princes St, Centre, Cork, T12 R8XN",
+   "phone": "(021) 427 5266",
+   "website": "https://www.geraldmccarthytrophies.ie",
+   "checked_at": "2026-10-16T02:14:27Z"
+  },
+  {
+   "name": "Golden Discs",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "80 - 82 St Patrick's St, Centre, Cork, T12 D992",
+   "phone": "(021) 494 9442",
+   "website": "https://goldendiscs.ie/?utm_content=Golden+Discs+-+Cork&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_8728825299608925616",
+   "checked_at": "2026-10-16T02:14:28Z"
+  },
+  {
+   "name": "Happy Go Lucky",
+   "group": "unknown",
+   "city": "Clonakilty",
+   "region": "CO",
+   "address": "11 Ashe St, Scartagh, Clonakilty, Co. Cork, P85 R156",
+   "phone": "(023) 885 9746",
+   "website": "https://happygoluckyclonakilty.com/",
+   "checked_at": "2026-10-16T02:14:25Z"
+  },
+  {
+   "name": "HEROES AND VILLAINS IRELAND - Toys, Comics, Graphic Novels, Model Kits and more",
+   "group": "unknown",
+   "city": "Swords",
+   "region": "D",
+   "address": "C2, Metropoint Business Park, Kettles Ln, Glebe, Swords, Co. Dublin, K67 EC65",
+   "website": "https://www.heroesandvillains.ie/",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "House of Names",
+   "group": "unknown",
+   "region": "D",
+   "address": "8 Fleet St, Temple Bar, Dublin 2, D02 TH74",
+   "phone": "(01) 677 7034",
+   "website": "https://houseofnames.ie/",
+   "checked_at": "2026-10-16T02:14:10Z"
+  },
+  {
+   "name": "Intersport Elverys",
+   "group": "unknown",
+   "region": "G",
+   "address": "Galway Retail Park, Headford Rd, Galway, H91 C3N1",
+   "phone": "(091) 569 542",
+   "website": "https://www.elverys.ie/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=galway-retail",
+   "checked_at": "2026-10-16T02:14:55Z"
+  },
+  {
+   "name": "Laurel Stores",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Laurel Park, Galway",
+   "website": "https://www.mytown.ie/b/Laurel-Stores",
+   "checked_at": "2026-10-16T02:14:51Z"
+  },
+  {
+   "name": "Lucky Lane",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "9a Catherine St, Prior's-Land, Limerick, V94 WF6T",
+   "phone": "089 437 8240",
+   "website": "http://luckylane.ie/",
+   "checked_at": "2026-10-16T02:15:07Z"
+  },
+  {
+   "name": "Marina Market",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Marina Market, Centre Park Rd, Ballintemple, Cork, T12 YX76",
+   "website": "https://www.marinamarket.ie/",
+   "checked_at": "2026-10-16T02:14:30Z"
+  },
+  {
+   "name": "Mary's Toymaster",
+   "group": "unknown",
+   "city": "Macroom",
+   "region": "CO",
+   "address": "2 Main St, Sleveen East, Macroom, Co. Cork, P12 FY91",
+   "phone": "(026) 42491",
+   "website": "http://www.marys.ie/",
+   "checked_at": "2026-10-16T02:14:24Z"
+  },
+  {
+   "name": "McGillicuddy's Toy Shop",
+   "group": "unknown",
+   "city": "Listowel",
+   "region": "KY",
+   "address": "22 William St, Listowel, Co. Kerry, V31 DX60",
+   "phone": "(068) 21529",
+   "website": "https://mcgillicuddystoyshop.ie/",
+   "checked_at": "2026-10-16T02:14:35Z"
+  },
+  {
+   "name": "Merchants Quay Shopping Centre",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "1-5 St Patrick's St, Centre, Cork, T12 ERW9",
+   "phone": "086 044 2618",
+   "website": "https://mqsc.ie/",
+   "checked_at": "2026-10-16T02:14:32Z"
+  },
+  {
+   "name": "Mountain Gremlin Games",
+   "group": "unknown",
+   "address": "1 The Square, Castlebridge, WX, Y35 K188, Ireland",
+   "phone": "+3530852240198",
+   "website": "https://mountaingremlingames.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:39Z"
+  },
+  {
+   "name": "My Shop...Granny Likes It",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Abbeygate Street Upper, Galway, H91 HC04",
+   "phone": "(091) 534 877",
+   "website": "https://www.myshopgranny.com/",
+   "checked_at": "2026-10-16T02:14:42Z"
+  },
+  {
+   "name": "Noad Cards (Online store)",
+   "group": "unknown",
+   "city": "Cobh",
+   "region": "CO",
+   "address": "Apt 3, 15 Rahilly St, Kilgarvan, Cobh, Co. Cork, P24 Y928",
+   "website": "https://abelarine.com/business/noad-cards-online-store-f927f1a89b",
+   "checked_at": "2026-10-16T02:14:21Z"
+  },
+  {
+   "name": "O Connor Toys, Church Street, Newcastle West, Co. Limerick",
+   "group": "unknown",
+   "city": "Newcastle West",
+   "region": "LK",
+   "address": "28 Church St, Gortboy, Newcastle West, Co. Limerick, V42 XC81",
+   "phone": "(069) 62083",
+   "website": "https://oconnortoys.ie/",
+   "checked_at": "2026-10-16T02:15:15Z"
+  },
+  {
+   "name": "O'Mahony's Booksellers",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "120 O'Connell St, Prior's-Land, Limerick, V94 H6Y8",
+   "phone": "(061) 418 155",
+   "website": "https://www.omahonys.ie/",
+   "checked_at": "2026-10-16T02:15:18Z"
+  },
+  {
+   "name": "Otter space: games & community",
+   "group": "unknown",
+   "city": "Skerries",
+   "region": "County Dublin",
+   "address": "Unit 1A, Holmpatrick Shopping Centre, Skerries, Co. Dublin, K34 YK09, Ireland",
+   "phone": "+35318494322",
+   "website": "https://shop.otterspace.ie",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Papermint Store",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "20 Castle St, Dalkey, Dublin, A96 WP82",
+   "phone": "(01) 285 9607",
+   "website": "https://papermintstore.com/",
+   "checked_at": "2026-10-16T02:14:13Z"
+  },
+  {
+   "name": "Pinocchio's Toys & Gifts",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "2 Paul St, Centre, Cork, T12 YT21",
+   "phone": "(021) 427 1771",
+   "website": "https://www.pinocchios.ie/",
+   "checked_at": "2026-10-16T02:14:25Z"
+  },
+  {
+   "name": "Rogue Gaming",
+   "group": "unknown",
+   "region": "County Dublin",
+   "address": "58 Francis St, Dublin, Dublin, D08YE39, Ireland",
+   "phone": "+353870336901",
+   "website": "https://www.roguegaming.ie",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Serious Business",
+   "group": "unknown",
+   "city": "Sligo",
+   "region": "County Sligo",
+   "address": "Abbeyquarter North, Sligo, Co. Sligo, F91 YNC5, Ireland, Sligo, County Sligo, F91 YNC5",
+   "phone": "+353 83 315 3377",
+   "website": "https://seriousbusiness.ie/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Jervis St",
+   "group": "unknown",
+   "city": "Swords",
+   "region": "D",
+   "address": "1 Jervis St, North City, Dublin, D01 R8Y1",
+   "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
+   "checked_at": "2026-10-16T02:13:51Z"
+  },
+  {
+   "name": "St. Nicholas' Market",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "2, 14 Churchyard St, Galway, H91 X2R5",
+   "website": "https://www.discoverireland.ie/galway/galway-farmers-market",
+   "checked_at": "2026-10-16T02:14:58Z"
+  },
+  {
+   "name": "Steamboat Music, Records & Comics",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Riverpoint, 3 Bishop's Quay, Prior's-Land, Limerick, V94 16T2",
+   "phone": "(061) 311 696",
+   "website": "https://steamboat.ie/",
+   "checked_at": "2026-10-16T02:15:16Z"
+  },
+  {
+   "name": "Sub-City Comics",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "D",
+   "address": "53 Mary St, Northside, Dublin 1, D01 Y935",
+   "phone": "(01) 872 8610",
+   "website": "https://www.subcitycomics.ie/",
+   "checked_at": "2026-10-16T02:13:46Z"
+  },
+  {
+   "name": "The Art & Hobby Shop Stephens Green",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Top floor Saint Stephen's Green shopping centre, Dublin",
+   "phone": "(01) 478 1271",
+   "website": "https://www.artnhobby.ie/",
+   "checked_at": "2026-10-16T02:14:18Z"
+  },
+  {
+   "name": "The Book Centre (Waterford)",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "25 Barronstrand St, Waterford, X91 XF8F",
+   "phone": "(051) 873 823",
+   "website": "https://www.thebookcentre.ie/",
+   "checked_at": "2026-10-16T02:15:21Z"
+  },
+  {
+   "name": "The Card Company",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Unit 11A, City Mall, Crescent Shopping Centre, Dooradoyle Rd, Dooradoyle, Limerick, V94 TD42",
+   "phone": "089 256 9566",
+   "website": "https://balloonparty.ie/",
+   "checked_at": "2026-10-16T02:15:09Z"
+  },
+  {
+   "name": "The Celtic Book Shop",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "2 Rutland St, Prior's-Land, Limerick, V94 DX89",
+   "phone": "(061) 401 155",
+   "website": "http://celticbookshop-limerick.ie/",
+   "checked_at": "2026-10-16T02:15:11Z"
+  },
+  {
+   "name": "The Collector's Cave",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "14B French Church Street, Cork, Cork, T12 NRP3, Ireland",
+   "phone": "+353864491120",
+   "website": "https://thecollectorscavecork.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "The English Market",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Grand Parade, Centre, Cork",
+   "website": "https://www.corkcity.ie/en/english-market/",
+   "checked_at": "2026-10-16T02:14:32Z"
+  },
+  {
+   "name": "The Entertainer at Tesco",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "Galway Shopping Centre, Headford Rd, Galway, H91 E778",
+   "phone": "0333 320 5100",
+   "website": "https://www.thetoyshop.com/store/tesco-galway-sc?utm_source=google&utm_medium=tescolocalroi",
+   "checked_at": "2026-10-16T02:15:02Z"
+  },
+  {
+   "name": "The Gathering",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "County Limerick",
+   "address": "43 Lower Gerald Griffin St, Prior's-Land, Limerick, V94 Y1F7, Ireland, Limerick, County Limerick, V94 Y1F7",
+   "phone": "+353 61 315 133",
+   "website": "https://gathering.ie/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "The Gathering Store",
+   "group": "unknown",
+   "address": "43 Lower Gerald Griffin St, Limerick, LK, V94 Y1F7, Ireland",
+   "phone": "353(0) 61 315 133",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:38Z"
+  },
+  {
+   "name": "The Hobby Space (at McGillicuddy's Toyshop)",
+   "group": "unknown",
+   "address": "26 William St, Listowel, KY, V31 DY79, Ireland",
+   "phone": "+353(0)857360269",
+   "website": "https://mcgillicuddystoyshop.ie/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:38Z"
+  },
+  {
+   "name": "The Little Green Door Games",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Kettles Ln, Cloghran, Dublin",
+   "phone": "087 974 2389",
+   "website": "https://littlegreendoorgames.com/",
+   "checked_at": "2026-10-16T02:14:20Z"
+  },
+  {
+   "name": "The Perfume Shop",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Unit 31b, Crescent Shopping Centre, Dooradoyle, Limerick, Co. Limerick, V94 W201",
+   "phone": "(061) 305 624",
+   "website": "https://www.theperfumeshop.com/ie/store/limerick-the-perfume-shop/?utm_source=google&utm_medium=organic&utm_campaign=130",
+   "checked_at": "2026-10-16T02:15:13Z"
+  },
+  {
+   "name": "The Secret Book and Record Store",
+   "group": "unknown",
+   "region": "D",
+   "address": "15A Wicklow St, Dublin 2, D02 Y765",
+   "phone": "087 955 5497",
+   "website": "https://www.thesecretbookstore.ie/",
+   "checked_at": "2026-10-16T02:14:02Z"
+  },
+  {
+   "name": "The Temple Bar Trading Company",
+   "group": "unknown",
+   "region": "D",
+   "address": "43-44 Temple Bar, Dublin 2, D02 KF86",
+   "phone": "(01) 6725 2867",
+   "website": "https://thetemplebarshop.com/",
+   "checked_at": "2026-10-16T02:13:47Z"
+  },
+  {
+   "name": "The Trading Post - Limerick",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "103 High St, Limerick, LK, V94 VF38, Ireland",
+   "phone": "+353(0)862579706",
+   "website": "https://www.ttpmultiverse.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:37Z"
+  },
+  {
+   "name": "The Warchest",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "County Dublin",
+   "address": "Unit 2, Hardy's Lane, Dublin, D, A96 EY09, Ireland",
+   "phone": "35387 782 5886",
+   "website": "https://www.thewarchest.ie/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Tower Records",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "7 Dawson St, Dublin, D02 X688",
+   "phone": "(01) 671 3250",
+   "website": "https://towerrecords.ie/",
+   "checked_at": "2026-10-16T02:14:03Z"
+  },
+  {
+   "name": "Toy Corner",
+   "group": "unknown",
+   "city": "Moycullen",
+   "region": "G",
+   "address": "An Fuarán, Kylebroghlan, Moycullen, Co. Galway",
+   "phone": "(091) 556 886",
+   "website": "https://toycorner.ie/",
+   "checked_at": "2026-10-16T02:14:41Z"
+  },
+  {
+   "name": "Toymaster",
+   "group": "unknown",
+   "city": "Youghal",
+   "region": "CO",
+   "address": "47 S Main St, Youghal-Lands, Youghal, Co. Cork, P36 PR53",
+   "phone": "(024) 93520",
+   "website": "https://www.toymaster.co.uk/",
+   "checked_at": "2026-10-16T02:14:34Z"
+  },
+  {
+   "name": "Unbound",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "5 Bridge St, Victorian Quarter, Cork, T23 PN88",
+   "phone": "(021) 455 4703",
+   "website": "https://unbound.ie/",
+   "checked_at": "2026-10-16T02:14:26Z"
+  },
+  {
+   "name": "Uncanny Collectibles",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "Appointments Required U Store It, M50 Business Park, Ballymount Rd Upper, Kilnamanagh, Dublin, D12 HW6X",
+   "phone": "085 827 2191",
+   "website": "https://www.uncannycollectibles.com/",
+   "buylist_url": "https://www.uncannycollectibles.com/pages/we-buy-collections",
+   "credit_bonus": "Buy or trade option",
+   "checked_at": "2026-10-16T02:13:58Z"
+  },
+  {
+   "name": "Underworld Gaming Limited",
+   "group": "unknown",
+   "city": "Dublin",
+   "region": "D",
+   "address": "10 Belgard Square West, Tallaght, D, D24NXA8, Ireland",
+   "phone": "3531 534 1482",
+   "website": "https://underworldgaming.ie/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "D",
+   "address": "Unit 3 Liffey St. Lower, North City, Dublin, D01 K199",
+   "phone": "(01) 872 5791",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:14:12Z"
+  },
+  {
+   "name": "Waterford Comics",
+   "group": "unknown",
+   "city": "Waterford",
+   "region": "WD",
+   "address": "13 Patrick St, Waterford, WD, X91 X762, Ireland",
+   "phone": "353  (0)83 324 8821",
+   "website": "https://waterfordcomics.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:38Z"
+  },
+  {
+   "name": "WHSmith",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "Kinsale Rd, Lehenagh More, Cork",
+   "phone": "(021) 432 8811",
+   "website": "https://www.whsmith.co.uk/",
+   "checked_at": "2026-10-16T02:14:33Z"
+  },
+  {
+   "name": "Wooden Heart",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "3 Quay St, Galway, H91 TC95",
+   "phone": "(091) 563 542",
+   "website": "https://www.woodenheart.ie/",
+   "checked_at": "2026-10-16T02:14:46Z"
+  },
+  {
+   "name": "Woodie's Limerick",
+   "group": "unknown",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "Ennis Road Retail Centre, Park Ennis Rd, Coolraine, Limerick, V94 FC89",
+   "phone": "(061) 582 426",
+   "website": "https://www.woodies.ie/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=gmb-listing-limerick",
+   "checked_at": "2026-10-16T02:15:12Z"
+  },
+  {
+   "name": "World of Wonder",
+   "group": "unknown",
+   "city": "Cork",
+   "region": "CO",
+   "address": "T23 N 297, Cork",
+   "phone": "(021) 439 7668",
+   "website": "https://worldofwondertoys.ie/",
+   "checked_at": "2026-10-16T02:14:34Z"
+  },
+  {
+   "name": "ZhivagoGifts",
+   "group": "unknown",
+   "city": "Galway",
+   "region": "G",
+   "address": "5 Shop St, Galway, H91 FT5D",
+   "phone": "(091) 509 960",
+   "website": "https://www.zhivagogifts.ie/",
+   "checked_at": "2026-10-16T02:14:39Z"
+  }
+ ]
+}

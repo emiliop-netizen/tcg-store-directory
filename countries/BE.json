@@ -1,0 +1,2821 @@
+{
+ "country": "BE",
+ "currency": "EUR",
+ "updated": "2026-10-15",
+ "store_count": 262,
+ "stores": [
+  {
+   "name": "Blazing Tail Bruxelles",
+   "group": "public_buylist",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de Flandre 26, 1000 Bruxelles",
+   "website": "https://www.blazingtail.fr/",
+   "buylist_url": "https://www.blazingtail.fr/rachat-cartes",
+   "mail_in": true,
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "All of geek by jonax",
+   "group": "quote_only",
+   "city": "Beyne-Heusay",
+   "region": "Région wallonne",
+   "address": "Grand Route 332, 4610 Beyne-Heusay",
+   "website": "https://www.allofgeek.store/",
+   "buylist_url": "https://www.allofgeek.store/accueil/rachat",
+   "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "MagicVortex FLGS",
+   "group": "quote_only",
+   "city": "Genk",
+   "region": "Vlaanderen",
+   "address": "26 Molenstraat, Genk, Vlaams Gewest, 3600, Belgium",
+   "phone": "+32 485484439",
+   "website": "https://www.magicvortex.be/",
+   "buylist_url": "https://www.magicvortex.be/Wij-kopen-kaarten/",
+   "mail_in": true,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:45Z"
+  },
+  {
+   "name": "The Mastermind bordspellen & gezelschapsspellen 🎲",
+   "group": "quote_only",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Kapelstraat 8, 8000 Brugge",
+   "phone": "0497 24 36 50",
+   "website": "https://www.the-mastermind.be/",
+   "buylist_url": "https://www.the-mastermind.be/inkoop-ruilkaarten/",
+   "mail_in": true,
+   "credit_bonus": "Up to 80% of market value in store credit",
+   "checked_at": "2026-10-16T03:29:11Z"
+  },
+  {
+   "name": "Action",
+   "group": "blocked",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Meir 78/bus 109, 2000 Antwerpen",
+   "phone": "02 313 50 66",
+   "website": "https://www.action.com/nl-be/winkels/antwerpen-meir/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=2087",
+   "checked_at": "2026-10-16T03:27:54Z"
+  },
+  {
+   "name": "Akuma Collectors",
+   "group": "blocked",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Saint-Gilles 182, 4000 Liège",
+   "phone": "0493 14 29 82",
+   "website": "https://www.akuma-collectors.com/",
+   "checked_at": "2026-10-16T03:28:28Z"
+  },
+  {
+   "name": "De Spelvogel",
+   "group": "blocked",
+   "city": "Kontich",
+   "region": "Vlaanderen",
+   "address": "Beukendreef 10, 2550 Kontich",
+   "website": "https://www.despelvogel.com/?v=5435c69ed3bc",
+   "checked_at": "2026-10-16T03:28:06Z"
+  },
+  {
+   "name": "Filigranes",
+   "group": "blocked",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd de Waterloo 25, 1000 Bruxelles",
+   "phone": "02 511 90 15",
+   "website": "http://www.filigranes.be/",
+   "checked_at": "2026-10-16T03:26:46Z"
+  },
+  {
+   "name": "Flash-Cards",
+   "group": "blocked",
+   "city": "Hoogstraten",
+   "region": "Vlaanderen",
+   "address": "Sint Lenaartseweg 38 C, 2320 Hoogstraten",
+   "phone": "0465 07 37 75",
+   "website": "https://www.flash-cards.be/",
+   "checked_at": "2026-10-16T03:26:31Z"
+  },
+  {
+   "name": "Hachiko Brussels | Magasin Manga et Pokemon",
+   "group": "blocked",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Galerie du cinquantenaire 32, 1040 Bruxelles",
+   "phone": "02 230 28 78",
+   "website": "https://hachikobrussels.com/",
+   "checked_at": "2026-10-16T03:27:03Z"
+  },
+  {
+   "name": "HiroShop Heusden",
+   "group": "blocked",
+   "city": "Destelbergen",
+   "region": "Vlaanderen",
+   "address": "Tramstraat 48, 9070 Destelbergen",
+   "website": "https://www.hiroshop.be/",
+   "checked_at": "2026-10-16T03:28:18Z"
+  },
+  {
+   "name": "King Toy",
+   "group": "blocked",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de la Blanchisserie 323, 1000 Bruxelles",
+   "phone": "02 218 09 28",
+   "website": "https://www.king-jouet.be/magasins/BRU-Bruxelles-capitale/magasin-Brussel-1320.htm",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
+   "name": "La Cité des Nuages",
+   "group": "blocked",
+   "city": "Waterloo",
+   "region": "Région wallonne",
+   "address": "Rue François Libert 25A, 1410 Waterloo",
+   "website": "https://www.lacitedesnuages.be/",
+   "checked_at": "2026-10-16T03:26:42Z"
+  },
+  {
+   "name": "Le Coin des Barons Bruxelles",
+   "group": "blocked",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "37 Boulevard Adolphe Max, Bruxelles, Bruxelles capitale, 1000, Belgium",
+   "phone": "+320699404663",
+   "website": "https://lecoindesbarons.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "levisuel.com",
+   "group": "blocked",
+   "city": "Mouscron",
+   "region": "Région Wallonne",
+   "address": "Chau. de Lille 353, 7700 Mouscron, Belgium, Mouscron, Région Wallonne, 7700",
+   "phone": "+32 56 34 00 59",
+   "website": "https://www.levisuel.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "MagicFranco",
+   "group": "blocked",
+   "city": "La Louvière",
+   "region": "Région Wallonne",
+   "address": "11 Chau. de Jolimont, La Louvière, Région Wallonne, 7100, Belgium",
+   "phone": "326449-5049",
+   "website": "https://shop.magicfranco.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:45Z"
+  },
+  {
+   "name": "Médiacité",
+   "group": "blocked",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Bd Raymond Poincaré 7, 4020 Liège",
+   "phone": "04 341 12 12",
+   "website": "https://www.mediacite.be/",
+   "checked_at": "2026-10-16T03:28:51Z"
+  },
+  {
+   "name": "Nendo Addicts",
+   "group": "blocked",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Frankrijklei 24, 2000 Antwerpen",
+   "phone": "0479 87 05 81",
+   "website": "https://nendoaddicts.be/",
+   "checked_at": "2026-10-16T03:27:48Z"
+  },
+  {
+   "name": "Nukagames",
+   "group": "blocked",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de l'Université 29, 4000 Liège",
+   "phone": "04 370 64 62",
+   "website": "https://nukagamesshop.fr/",
+   "checked_at": "2026-10-16T03:28:28Z"
+  },
+  {
+   "name": "Outpost Antwerpen",
+   "group": "blocked",
+   "city": "Antwerpen",
+   "region": "Vlaams Gewest",
+   "address": "Beggaardenstraat 6, Antwerpen, Belgium, 2000, Belgium",
+   "phone": "+32(0) 3232315456",
+   "website": "https://www.outpost.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:44Z"
+  },
+  {
+   "name": "Pandora",
+   "group": "blocked",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Meir 60, 2000 Antwerpen",
+   "phone": "03 226 19 01",
+   "website": "https://ca.pandora.net/en",
+   "checked_at": "2026-10-16T03:28:01Z"
+  },
+  {
+   "name": "Smartoys Bourse",
+   "group": "blocked",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Pierres 20, 1000 Bruxelles",
+   "phone": "0475 76 00 60",
+   "website": "https://www.smartoys.be/catalog/index.php",
+   "checked_at": "2026-10-16T03:26:26Z"
+  },
+  {
+   "name": "Sod Games",
+   "group": "blocked",
+   "city": "Fleurus",
+   "region": "Région Wallonne",
+   "address": "Place Albert 1er 32, Fleurus, WHT, 6220, Belgium",
+   "phone": "+3271 87 64 31",
+   "website": "https://www.sodgames.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:50Z"
+  },
+  {
+   "name": "StartSpeler",
+   "group": "blocked",
+   "city": "Lommel",
+   "region": "Vlaams Gewest",
+   "address": "Kerkstraat 32, Lommel, VLI, 3920, Belgium",
+   "phone": "32468056831",
+   "website": "https://startspeler.com",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:28Z"
+  },
+  {
+   "name": "TCG CARD",
+   "group": "blocked",
+   "city": "Mons",
+   "region": "Région wallonne",
+   "address": "Rue du Petit Champ 56, 7012 Mons",
+   "phone": "0473 67 67 93",
+   "website": "https://tcg-card.com/",
+   "checked_at": "2026-10-16T03:27:34Z"
+  },
+  {
+   "name": "The House of Comics",
+   "group": "blocked",
+   "city": "Brussel",
+   "region": "Brussel",
+   "address": "l'imperatrice, Keizerinlaan 1, 1000 Brussel",
+   "phone": "02 502 94 68",
+   "website": "http://www.maisondelabd.be/",
+   "checked_at": "2026-10-16T03:27:13Z"
+  },
+  {
+   "name": "The Old Curiosity Shop",
+   "group": "blocked",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Walstraat 8, 8000 Brugge",
+   "phone": "0486 45 21 47",
+   "website": "https://tocs.myonline.store/en_GB/",
+   "checked_at": "2026-10-16T03:29:19Z"
+  },
+  {
+   "name": "UPS Access Point",
+   "group": "blocked",
+   "city": "Oudenaarde",
+   "region": "Vlaanderen",
+   "address": "Tacambaroplein 8, 9700 Oudenaarde",
+   "phone": "055 20 89 55",
+   "website": "http://www.blent.be/",
+   "checked_at": "2026-10-16T03:28:24Z"
+  },
+  {
+   "name": "War House Games",
+   "group": "blocked",
+   "city": "Drogenbos",
+   "region": "Vlaanderen",
+   "address": "Sterstraat 3, 1620 Drogenbos",
+   "phone": "02 378 09 00",
+   "website": "http://www.warhousegames.com/",
+   "checked_at": "2026-10-16T03:26:51Z"
+  },
+  {
+   "name": "-",
+   "group": "in_store",
+   "city": "Nazareth-De Pinte",
+   "region": "Vlaanderen",
+   "address": "Tulpenstraat 11, 9810 Nazareth-De Pinte, Belgium, Nazareth-De Pinte, Vlaanderen, 9810",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Albion",
+   "group": "in_store",
+   "address": "Doorniksestraat 52, Kortrijk, West Flanders, 8500, Belgium",
+   "phone": "+32 (0) 56324307",
+   "website": "https://discord.com/invite/2B5GNN6",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:04Z"
+  },
+  {
+   "name": "All Services Trading and Investments SPRL",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Royale 97, 1000 Bruxelles",
+   "phone": "02 374 31 02",
+   "checked_at": "2026-10-16T03:26:36Z"
+  },
+  {
+   "name": "Allo Case BD",
+   "group": "in_store",
+   "city": "Saint-Gilles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 205, 1060 Saint-Gilles",
+   "phone": "02 534 63 67",
+   "checked_at": "2026-10-16T03:27:30Z"
+  },
+  {
+   "name": "Amalgames",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Neuves 28, Charleroi, Hainaut, 6000, Belgium",
+   "phone": "+32071703666",
+   "website": "https://www.facebook.com/share/18xHPj9wF1/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "Arkade Liège",
+   "group": "in_store",
+   "city": "Fléron",
+   "region": "Région wallonne",
+   "address": "Rue Noire Fontaine 66, 4624 Fléron",
+   "phone": "0495 55 79 02",
+   "checked_at": "2026-10-16T03:28:51Z"
+  },
+  {
+   "name": "Blackfire OP",
+   "group": "in_store",
+   "city": "Nazareth-De Pinte",
+   "region": "Vlaanderen",
+   "address": "Tulpenstraat 11, 9810 Nazareth-De Pinte, Belgium, Nazareth-De Pinte, Vlaanderen, 9810",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Brussels Comics Store",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Marché aux Herbes 116, 1000 Bruxelles",
+   "phone": "02 502 17 00",
+   "checked_at": "2026-10-16T03:27:17Z"
+  },
+  {
+   "name": "Cardabra",
+   "group": "in_store",
+   "city": "Boom",
+   "region": "Vlaanderen",
+   "address": "Hoek 76/Unit 57, 2850 Boom",
+   "phone": "0479 81 11 17",
+   "checked_at": "2026-10-16T03:27:52Z"
+  },
+  {
+   "name": "Cards & Collections",
+   "group": "in_store",
+   "city": "De Panne",
+   "region": "Flanders",
+   "address": "8660 De Panne, Belgium",
+   "phone": "0473 81 29 18",
+   "checked_at": "2026-10-16T03:26:42Z"
+  },
+  {
+   "name": "Cartes Postales DEHAEN",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Bouchers 70, 1000 Bruxelles",
+   "phone": "0475 49 91 08",
+   "checked_at": "2026-10-16T03:26:31Z"
+  },
+  {
+   "name": "Diamond TCG",
+   "group": "in_store",
+   "city": "Herstal",
+   "region": "Région wallonne",
+   "address": "Rue Laixheau 12, 4040 Herstal",
+   "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "Euro Tops Games sprl",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Ernest Solvay 178, 4000 Liège",
+   "phone": "04 253 10 04",
+   "checked_at": "2026-10-16T03:28:59Z"
+  },
+  {
+   "name": "Flux tcg",
+   "group": "in_store",
+   "city": "Ichtegem",
+   "region": "Vlaanderen",
+   "address": "Kuipersbos 41, 8480 Ichtegem, Belgium, Ichtegem, Vlaanderen, 8480",
+   "phone": "+32 468 31 39 98",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Game Buster🎮",
+   "group": "in_store",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Bervoetstraat 40, 2000 Antwerpen",
+   "phone": "03 289 88 68",
+   "checked_at": "2026-10-16T03:27:47Z"
+  },
+  {
+   "name": "H-Games Sprl",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Parv. de Saint-Gilles 8, 1060 Bruxelles",
+   "checked_at": "2026-10-16T03:26:42Z"
+  },
+  {
+   "name": "Hasard Ludique",
+   "group": "in_store",
+   "city": "Mons",
+   "region": "Région Wallonne",
+   "address": "Grand rue 23, Mons, WHT, 7000, Belgium",
+   "phone": "+3265 33 65 75",
+   "website": "https://fr-fr.facebook.com/HasardLudique/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:02Z"
+  },
+  {
+   "name": "Hasard Ludique Namur",
+   "group": "in_store",
+   "address": "86 rue de Fer, Namur, WBR, 5000, Belgium",
+   "phone": "1(328) 173-8726 ",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:05Z"
+  },
+  {
+   "name": "hmv",
+   "group": "in_store",
+   "city": "Wijnegem",
+   "region": "Vlaanderen",
+   "address": "Shopping Centre, Turnhoutsebaan 5/Unit 236/237, 2110 Wijnegem",
+   "phone": "03 300 28 25",
+   "checked_at": "2026-10-16T03:27:56Z"
+  },
+  {
+   "name": "Jade TCG",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Pierres 22, 1000 Bruxelles, Belgium, Bruxelles, Bruxelles, 1000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Jin Long Trading",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Saint-Pierre 59, 1000 Bruxelles",
+   "phone": "02 681 04 53",
+   "checked_at": "2026-10-16T03:26:36Z"
+  },
+  {
+   "name": "Jorta",
+   "group": "in_store",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Ellermanstraat 10, 2060 Antwerpen",
+   "phone": "0475 24 67 55",
+   "checked_at": "2026-10-16T03:28:09Z"
+  },
+  {
+   "name": "KaartMarkt",
+   "group": "in_store",
+   "city": "Temse",
+   "region": "Vlaanderen",
+   "address": "Pastoor Boelstraat 8, 9140 Temse",
+   "phone": "0468 26 87 33",
+   "website": "https://kaartmarkt.be/",
+   "buylist_url": "https://kaartmarkt.be/pages/inkoop-pokemon-collecties-kaarten",
+   "mail_in": false,
+   "checked_at": "2026-10-16T03:26:41Z"
+  },
+  {
+   "name": "Kabouterpers",
+   "group": "in_store",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Wijngaardstraat 12, 8000 Brugge",
+   "phone": "050 96 98 97",
+   "checked_at": "2026-10-16T03:29:18Z"
+  },
+  {
+   "name": "L'Imaginarium",
+   "group": "in_store",
+   "city": "Namur",
+   "region": "Région Wallonne",
+   "address": "Rue Emile Cuvelier 17, 5000 Namur, Belgium, Namur, Région Wallonne, 5000",
+   "phone": "+32 81 22 17 83",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:11Z"
+  },
+  {
+   "name": "La Guilde des Cartes",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Bd de la Sauvenière 121, 4000 Liège",
+   "website": "https://www.laguildedescartes.com/",
+   "mail_in": false,
+   "checked_at": "2026-10-16T03:28:25Z"
+  },
+  {
+   "name": "LFL CARDS",
+   "group": "in_store",
+   "city": "Fléron",
+   "region": "Région wallonne",
+   "address": "Rue de Magnée 39, 4620 Fléron",
+   "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "Ludotrotter namur",
+   "group": "in_store",
+   "city": "Namur",
+   "region": "Région Wallonne",
+   "address": "Av. du Bourgmestre Jean Materne 64, 5100 Namur, Belgium, Namur, Région Wallonne, 5100",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "MALLE AUX PEPITES",
+   "group": "in_store",
+   "city": "Blegny",
+   "region": "Région wallonne",
+   "address": "Rue Lieutenant Jungling 49, 4671 Blegny",
+   "website": "https://www.malleauxpepites.com/",
+   "buylist_url": "https://www.malleauxpepites.com/",
+   "mail_in": false,
+   "checked_at": "2026-10-16T03:28:42Z"
+  },
+  {
+   "name": "Manga Cash",
+   "group": "in_store",
+   "city": "Ans",
+   "region": "Région wallonne",
+   "address": "Rue de la Station 75, 4430 Ans",
+   "phone": "0470 31 32 88",
+   "website": "https://mangacash.be/",
+   "buylist_url": "https://mangacash.be/pages/reprise-mangas-cartes-pokemon-ans-liege",
+   "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "Moule à gaufres",
+   "group": "in_store",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de l'Étuve 35, 1000 Bruxelles",
+   "phone": "02 511 80 85",
+   "checked_at": "2026-10-16T03:26:49Z"
+  },
+  {
+   "name": "Neo Tcg",
+   "group": "in_store",
+   "city": "Evere",
+   "region": "Bruxelles",
+   "address": "Av. Cicéron 17, 1140 Evere",
+   "checked_at": "2026-10-16T03:26:23Z"
+  },
+  {
+   "name": "New Game +",
+   "group": "in_store",
+   "city": "Forest",
+   "region": "Bruxelles",
+   "address": "Chau. d'Alsemberg 149, 1190 Forest",
+   "phone": "02 759 89 14",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
+   "name": "Oro Trading Snc",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Pont d'Avroy 29/B, 4000 Liège",
+   "phone": "0488 37 41 84",
+   "checked_at": "2026-10-16T03:28:36Z"
+  },
+  {
+   "name": "Outpost Kortrijk",
+   "group": "in_store",
+   "city": "Kortrijk",
+   "region": "Vlaanderen",
+   "address": "Hendrik Consciencestraat 20, 8500 Kortrijk, Belgium, Kortrijk, Vlaanderen, 8500",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Paradise BD🦸",
+   "group": "in_store",
+   "city": "Jette",
+   "region": "Bruxelles",
+   "address": "Av. de Jette 316, 1090 Jette",
+   "phone": "02 420 28 14",
+   "website": "https://m.facebook.com/pages/category/Comic-Bookstore/Paradise-BD-Strips-139234043851/?locale2=fr_FR",
+   "checked_at": "2026-10-16T03:27:23Z"
+  },
+  {
+   "name": "Pierret Michel",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue St Laurent 219, 4000 Liège",
+   "phone": "0495 93 64 18",
+   "checked_at": "2026-10-16T03:29:10Z"
+  },
+  {
+   "name": "Pokemon Cards Games",
+   "group": "in_store",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Jadestraat, 9000 Gent",
+   "checked_at": "2026-10-16T03:28:19Z"
+  },
+  {
+   "name": "Relay",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Pl. des Guillemins 2, 4000 Liège",
+   "phone": "04 253 36 45",
+   "checked_at": "2026-10-16T03:28:55Z"
+  },
+  {
+   "name": "Super TCG",
+   "group": "in_store",
+   "city": "Mechelen",
+   "region": "Vlaanderen",
+   "address": "40 Veemarkt, Mechelen, Vlaams Gewest, 2800, Belgium",
+   "phone": "+32493992956",
+   "website": "https://www.supertcg.be",
+   "buylist_url": "https://www.supertcg.be",
+   "mail_in": false,
+   "credit_bonus": "Store credit, cash when possible",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "T.C.M. Plaisir d'Offrir",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Cathédrale 73, 4000 Liège",
+   "phone": "04 222 28 88",
+   "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "TCG KIOSK",
+   "group": "in_store",
+   "city": "Maasmechelen",
+   "region": "Vlaanderen",
+   "address": "Sint-Pietersstraat 61, 3630 Maasmechelen",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
+   "name": "TL TRADE",
+   "group": "in_store",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Plantin en Moretuslei, 2018 Antwerpen",
+   "phone": "667 91 20 72",
+   "checked_at": "2026-10-16T03:27:48Z"
+  },
+  {
+   "name": "Topio Games Liège",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Quai des Vennes 1, 4031 Liège",
+   "checked_at": "2026-10-16T03:28:35Z"
+  },
+  {
+   "name": "Tp-Games",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Quai Churchill 11, 4020 Liège",
+   "phone": "04 341 04 39",
+   "checked_at": "2026-10-16T03:28:58Z"
+  },
+  {
+   "name": "Versus",
+   "group": "in_store",
+   "city": "Malmedy",
+   "region": "Région Wallonne",
+   "address": "Petit Vinâve 15, 4960 Malmedy, Belgium, Malmedy, Région Wallonne, 4960",
+   "phone": "0470 17 93 22",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "Cash Converters Grivegnée",
+   "group": "not_buying_singles",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Bd Cuivre et Zinc 12, 4030 Liège",
+   "phone": "04 341 12 50",
+   "website": "https://magasins.cashconverters.be/fr/region-wallonne/liege/liege/cash-converters-grivegnee-16",
+   "checked_at": "2026-10-16T03:29:09Z"
+  },
+  {
+   "name": "Cash Express Liège : magasin d'occasions Multimédia, Image et Son, Téléphonie, Bijoux, Achat d'or",
+   "group": "not_buying_singles",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Bd Cuivre et Zinc 17b, 4030 Liège",
+   "phone": "04 235 76 67",
+   "website": "https://www.cashexpress.be/magasin/information/liege",
+   "buylist_url": "https://www.cashexpress.be/p-11/nous-achetons-votre-or.html",
+   "checked_at": "2026-10-16T03:28:51Z"
+  },
+  {
+   "name": "Cash Express Magasin d'occasions Multimédia, Image et Son, Téléphonie, Bijoux, Achat d'or",
+   "group": "not_buying_singles",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue d'Ans 154, 4000 Liège",
+   "phone": "04 367 12 42",
+   "website": "https://www.cashexpress.be/magasin/produit/rocourt",
+   "buylist_url": "https://www.cashexpress.be/p-16949/509583/trade-invaders-boite-cash-express-x20-803207l",
+   "checked_at": "2026-10-16T03:28:55Z"
+  },
+  {
+   "name": "Cultivarium",
+   "group": "not_buying_singles",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Pied-du-Pont-des-Arches 3, 4000 Liège",
+   "phone": "04 343 30 41",
+   "website": "https://www.cultivarium.be/",
+   "checked_at": "2026-10-16T03:29:05Z"
+  },
+  {
+   "name": "eCarsTrade",
+   "group": "not_buying_singles",
+   "city": "Puurs-Sint-Amands",
+   "region": "Vlaanderen",
+   "address": "Schoonmansveld 1, 2870 Puurs-Sint-Amands",
+   "phone": "02 342 22 22",
+   "website": "https://ecarstrade.com/",
+   "checked_at": "2026-10-16T03:27:57Z"
+  },
+  {
+   "name": "L'imaginaire",
+   "group": "not_buying_singles",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Pl. du Jeu de Balle 30, 1000 Bruxelles",
+   "phone": "0477 92 07 74",
+   "website": "http://www.librairielimaginaire.be/",
+   "checked_at": "2026-10-16T03:27:30Z"
+  },
+  {
+   "name": "Olleke, Wizarding Shop Brugge",
+   "group": "not_buying_singles",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Wijngaardstraat 12, 8000 Brugge",
+   "phone": "050 96 98 97",
+   "website": "https://desprookjeswinkel.be/",
+   "checked_at": "2026-10-16T03:29:10Z"
+  },
+  {
+   "name": "Pêle-Mêle Brussel",
+   "group": "not_buying_singles",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Maurice Lemonnier 59, 1000 Bruxelles",
+   "phone": "02 548 78 00",
+   "website": "https://pele-mele.be/bruxelles/",
+   "checked_at": "2026-10-16T03:26:49Z"
+  },
+  {
+   "name": "Retro Game Collector",
+   "group": "not_buying_singles",
+   "city": "Affligem",
+   "region": "Vlaanderen",
+   "address": "Brusselbaan 233/bus 2, 1790 Affligem",
+   "phone": "0456 29 94 25",
+   "website": "https://retrogamecollector.be/",
+   "buylist_url": "https://retrogamecollector.be/sell-trade/",
+   "checked_at": "2026-10-16T03:29:22Z"
+  },
+  {
+   "name": "The Tintin shop",
+   "group": "not_buying_singles",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de la Colline 13, 1000 Bruxelles",
+   "phone": "02 514 51 52",
+   "website": "https://boutique.tintin.com/fr/?popup=1&detect=CA",
+   "buylist_url": "https://boutique.tintin.com/fr/recherche?s=buylist",
+   "checked_at": "2026-10-16T03:27:17Z"
+  },
+  {
+   "name": "Évasions",
+   "group": "not_buying_singles",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 89, 1000 Bruxelles",
+   "phone": "02 502 49 56",
+   "website": "https://www.evasions-livres.eu/",
+   "checked_at": "2026-10-16T03:27:19Z"
+  },
+  {
+   "name": "A fond d'Bulles",
+   "group": "unknown",
+   "city": "Woluwe-St.-Lambert",
+   "region": "Bruxelles",
+   "address": "Av. Georges Henri 305, 1200 Woluwe-Saint-Lambert",
+   "phone": "02 742 37 99",
+   "website": "http://www.afonddbulles.be/",
+   "checked_at": "2026-10-16T03:27:29Z"
+  },
+  {
+   "name": "A.S.Adventure",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Zonnestraat 6/8, 9000 Gent",
+   "phone": "09 224 03 60",
+   "website": "https://www.asadventure.com/nl/winkels/gent-centrum.html?utm_source=google&utm_medium=organic&utm_content=BE406&utm_campaign=localmaps",
+   "checked_at": "2026-10-16T03:28:24Z"
+  },
+  {
+   "name": "Antwerp Expo",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Jan van Rijswijcklaan 191, 2020 Antwerpen",
+   "phone": "03 260 81 25",
+   "website": "https://www.antwerpexpo.be/",
+   "checked_at": "2026-10-16T03:27:52Z"
+  },
+  {
+   "name": "Archonia",
+   "group": "unknown",
+   "city": "Hasselt",
+   "region": "Vlaanderen",
+   "address": "Luikersteenweg 320, 3500 Hasselt",
+   "phone": "011 30 13 39",
+   "website": "https://www.archonia.com/en-us/",
+   "checked_at": "2026-10-16T03:27:57Z"
+  },
+  {
+   "name": "Azao Games, Jeux de société",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de Gaillarmont 76, 4032 Liège",
+   "phone": "04 365 25 63",
+   "website": "https://www.azaogames.com/",
+   "checked_at": "2026-10-16T03:28:49Z"
+  },
+  {
+   "name": "BD Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Lombard 2, 4000 Liège",
+   "phone": "04 221 04 93",
+   "website": "https://www.bdliege.com/",
+   "checked_at": "2026-10-16T03:28:36Z"
+  },
+  {
+   "name": "BDscope",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Casquette 28, 4000 Liège",
+   "phone": "04 223 67 36",
+   "website": "http://www.bdscope.net/",
+   "checked_at": "2026-10-16T03:29:03Z"
+  },
+  {
+   "name": "BillionaireSpin BE",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Drootbeek 113, 1020 Bruxelles",
+   "phone": "0178 4925148",
+   "website": "https://billionaire-spin.be/",
+   "checked_at": "2026-10-16T03:27:31Z"
+  },
+  {
+   "name": "Blitz Entertainment Store",
+   "group": "unknown",
+   "city": "Waregem",
+   "region": "Vlaanderen",
+   "address": "Stormestraat 147, 8790 Waregem",
+   "phone": "056 61 01 58",
+   "website": "https://blitz.blent.be/",
+   "checked_at": "2026-10-16T03:28:23Z"
+  },
+  {
+   "name": "Boekhandel De Slegte Antwerpen",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Wapper 5, 2000 Antwerpen",
+   "phone": "03 231 66 27",
+   "website": "https://www.deslegte.com/",
+   "checked_at": "2026-10-16T03:27:49Z"
+  },
+  {
+   "name": "Boom's BD",
+   "group": "unknown",
+   "city": "Visé",
+   "region": "Région wallonne",
+   "address": "4 Rue des Francs Arquebusiers, Visé, Liège, 4600, Belgium",
+   "phone": "+32003243713328",
+   "website": "https://www.boomsbd.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:34Z"
+  },
+  {
+   "name": "Brood en Spelen",
+   "group": "unknown",
+   "city": "Sint-Niklaas",
+   "region": "Vlaanderen",
+   "address": "Stationsstraat 41, Sint-Niklaas, VOV, 9100, Belgium",
+   "phone": "+32(0) 498 198 205",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "Broze",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Palais Outre-Ponts 420, 1020 Bruxelles",
+   "phone": "02 479 22 47",
+   "website": "http://www.broze.be/",
+   "checked_at": "2026-10-16T03:27:09Z"
+  },
+  {
+   "name": "Brussels COMICS Figurines Museum",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Marché aux Herbes 116, 1000 Bruxelles",
+   "phone": "02 207 79 92",
+   "website": "https://www.brussels-comics-figurines-museum.be",
+   "checked_at": "2026-10-16T03:27:16Z"
+  },
+  {
+   "name": "Card & Crunch",
+   "group": "unknown",
+   "city": "Brasschaat",
+   "region": "Vlaanderen",
+   "address": "322B Bredabaan, Brasschaat, Antwerpen, 2930, Belgium",
+   "phone": "+3238440450",
+   "website": "https://www.cardwallet.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:59Z"
+  },
+  {
+   "name": "Cardgameshop Eksel",
+   "group": "unknown",
+   "city": "Hechtel-Eksel",
+   "region": "Vlaanderen",
+   "address": "Borgveld 1, Hechtel-Eksel, Limburg, 3940, Belgium",
+   "phone": "+32473582388",
+   "website": "https://www.cardgameshop.be/nl",
+   "buylist_url": "https://www.cardgameshop.be/nl/trade-je-pulls",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:40Z"
+  },
+  {
+   "name": "Cardgameshop Hasselt BV",
+   "group": "unknown",
+   "city": "Hasselt",
+   "region": "Vlaanderen",
+   "address": "Demerstraat 39, 3500 Hasselt",
+   "phone": "0499 78 69 26",
+   "website": "https://cardgameshop-hasselt.be/",
+   "checked_at": "2026-10-16T03:28:41Z"
+  },
+  {
+   "name": "Cardgameshop Wijnegem BV",
+   "group": "unknown",
+   "city": "Wijnegem",
+   "region": "Vlaanderen",
+   "address": "Turnhoutsebaan 5/222, 2110 Wijnegem",
+   "phone": "0472 46 64 06",
+   "website": "https://cardgameshop-hasselt.be/",
+   "checked_at": "2026-10-16T03:26:39Z"
+  },
+  {
+   "name": "Cardgameworld",
+   "group": "unknown",
+   "city": "Brecht",
+   "region": "Vlaanderen",
+   "address": "Xavierlaan 25, 2960 Brecht",
+   "phone": "0484 99 58 90",
+   "website": "https://cardgameworld.be/nl/",
+   "checked_at": "2026-10-16T03:27:50Z"
+  },
+  {
+   "name": "Cardworld",
+   "group": "unknown",
+   "city": "Oudsbergen",
+   "region": "Vlaanderen",
+   "address": "Violastraat 4, 3660 Oudsbergen",
+   "website": "https://cardworld.be/",
+   "checked_at": "2026-10-16T03:26:33Z"
+  },
+  {
+   "name": "Case Depart",
+   "group": "unknown",
+   "city": "Ottignies-Louvain-la-Neuve",
+   "region": "Région Wallonne",
+   "address": "Rue des Wallons 31, 1348 Ottignies-Louvain-la-Neuve, Belgium, Ottignies-Louvain-la-Neuve, Région Wallonne, 1348",
+   "phone": "+32 10 45 39 09",
+   "website": "https://casedepart.be/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:12Z"
+  },
+  {
+   "name": "Chuo",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Pelikaanstraat 3/1490, 2018 Antwerpen",
+   "website": "https://www.chuo.be/",
+   "checked_at": "2026-10-16T03:27:38Z"
+  },
+  {
+   "name": "Club Shop",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Olympialaan 72, 8200 Brugge",
+   "website": "https://shop.clubbrugge.be/",
+   "checked_at": "2026-10-16T03:29:25Z"
+  },
+  {
+   "name": "Collecthors",
+   "group": "unknown",
+   "city": "Hasselt",
+   "region": "Vlaanderen",
+   "address": "Luikersteenweg 144B, 3500 Hasselt",
+   "phone": "0479 17 18 86",
+   "website": "https://www.collecthors.eu/",
+   "checked_at": "2026-10-16T03:28:38Z"
+  },
+  {
+   "name": "COLORS Sneakers",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Atomiumsquare 1, 1020 Bruxelles",
+   "phone": "0471 88 39 33",
+   "website": "https://www.colorssneakers.com/",
+   "checked_at": "2026-10-16T03:26:27Z"
+  },
+  {
+   "name": "Comic Sans Brussels",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Fossé aux Loups 27, 1000 Bruxelles",
+   "website": "https://www.privateaser.com/lieu/63331-comic-sans-brussels",
+   "checked_at": "2026-10-16T03:27:26Z"
+  },
+  {
+   "name": "Comics Art Museum | Brussels",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Sables 20, 1000 Bruxelles",
+   "phone": "02 219 19 80",
+   "website": "https://www.comicscenter.net/en/home",
+   "checked_at": "2026-10-16T03:27:23Z"
+  },
+  {
+   "name": "Computer Services Theux - Le coffre des Geeks",
+   "group": "unknown",
+   "address": "12 Pl. du Perron, Theux, Région Wallonne, 4910, Belgium",
+   "phone": "+3287787882",
+   "website": "https://cstheux.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:39Z"
+  },
+  {
+   "name": "Corrco - Pokémon kaart winkel (WEBSHOP)",
+   "group": "unknown",
+   "city": "Bornem",
+   "region": "Vlaanderen",
+   "address": "Bovenstraat 39, 2880 Bornem",
+   "website": "https://www.pokemonkaartwinkel.be/",
+   "checked_at": "2026-10-16T03:28:06Z"
+  },
+  {
+   "name": "Crach Card Club",
+   "group": "unknown",
+   "city": "Leuven",
+   "region": "Vlaams Gewest",
+   "address": "Benedenplein 9, Leuven, Vlaams Gewest, 3010, Belgium",
+   "phone": "32486571774",
+   "website": "https://www.crachcardclub.be/en/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:31Z"
+  },
+  {
+   "name": "Crafty Potions",
+   "group": "unknown",
+   "city": "Kortrijk",
+   "region": "Vlaams Gewest",
+   "address": "Sint-Jansstraat 21, 8500 Kortrijk, Belgium, Kortrijk, Vlaams Gewest, 8500",
+   "phone": "+32 487 68 29 07",
+   "website": "http://www.craftypotions.com",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "CrowdFinder",
+   "group": "unknown",
+   "city": "Aartselaar",
+   "region": "Vlaanderen",
+   "address": "Halfstraat 5/Unit 16, 2630 Aartselaar",
+   "website": "https://www.crowdfinder.be/",
+   "checked_at": "2026-10-16T03:27:44Z"
+  },
+  {
+   "name": "CTRL HUB",
+   "group": "unknown",
+   "address": "Wolvenstraat 2, Zottegem, Oost-Vlaanderen, 9620, Belgium",
+   "phone": "+32494039828",
+   "website": "https://www.ctrlhub.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "Damn Good Questions",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Kielsevest 35, 2018 Antwerpen",
+   "website": "https://www.damngoodquestions.com/password",
+   "checked_at": "2026-10-16T03:28:10Z"
+  },
+  {
+   "name": "De Corte Iris bv",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Sint-Amandsstraat 28, 8000 Brugge",
+   "phone": "050 33 46 07",
+   "website": "https://www.vulpennenbrugge.be/",
+   "checked_at": "2026-10-16T03:29:16Z"
+  },
+  {
+   "name": "De Dobbelkelder",
+   "group": "unknown",
+   "city": "Dilsen-Stokkem",
+   "region": "Vlaams Gewest",
+   "address": "24 Brammert, Dilsen-Stokkem, Vlaams Gewest, 3650, Belgium",
+   "phone": "0032486460965",
+   "website": "https://www.dedobbelkelder.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:55Z"
+  },
+  {
+   "name": "De Kaft",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Nederkouter 8, 9000 Gent",
+   "website": "https://dekaft.be/",
+   "checked_at": "2026-10-16T03:28:22Z"
+  },
+  {
+   "name": "De Kolonisten",
+   "group": "unknown",
+   "city": "Turnhout",
+   "region": "Vlaams Gewest",
+   "address": "Patersstraat 72, Turnhout, VAN, 2300, Belgium",
+   "phone": "+32478 02 74 48",
+   "website": "https://dekolonisten.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:12Z"
+  },
+  {
+   "name": "De Papieren Korf",
+   "group": "unknown",
+   "city": "Destelbergen",
+   "region": "Vlaanderen",
+   "address": "Hanekamlos 18, 9070 Destelbergen",
+   "phone": "0476 61 98 68",
+   "website": "https://www.depapierenkorf.be/",
+   "checked_at": "2026-10-16T03:27:50Z"
+  },
+  {
+   "name": "De Poort🦸",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Nederkouter 137, 9000 Gent",
+   "phone": "09 225 31 28",
+   "website": "https://depoort.com/",
+   "checked_at": "2026-10-16T03:28:21Z"
+  },
+  {
+   "name": "De Spelarena",
+   "group": "unknown",
+   "address": "46 Mechelsesteenweg, Kontich, Vlaams Gewest, 2550, Belgium",
+   "phone": "+32473 99 99 93",
+   "website": "https://despelarena.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "De Spelfanaat - Mechelen",
+   "group": "unknown",
+   "city": "Mechelen",
+   "region": "Vlaams Gewest",
+   "address": "PUTSESTEENWEG 17, Mechelen, VAN, 2800, Belgium",
+   "phone": "+3215 34 59 07",
+   "website": "https://www.spelfanaat.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "de Spelgezel Gent",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Franklin Rooseveltlaan 61, 9000 Gent",
+   "phone": "0472 98 36 97",
+   "website": "https://www.spelgezel.be/",
+   "checked_at": "2026-10-16T03:28:15Z"
+  },
+  {
+   "name": "De Spellenkast",
+   "group": "unknown",
+   "city": "Wetteren",
+   "region": "Vlaanderen",
+   "address": "Hekkerstraat 3, 9230 Wetteren",
+   "phone": "09 233 32 00",
+   "website": "https://www.despellenkast.be/",
+   "checked_at": "2026-10-16T03:28:24Z"
+  },
+  {
+   "name": "De Vrolijke Viking",
+   "group": "unknown",
+   "address": "67 Voskenslaan, Gent, Vlaams Gewest, 9000, Belgium",
+   "phone": "32456376310",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:56Z"
+  },
+  {
+   "name": "De Wieuw",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Scheldestraat 59, 2000 Antwerpen",
+   "phone": "03 244 13 14",
+   "website": "https://www.dewieuw.be/",
+   "checked_at": "2026-10-16T03:27:38Z"
+  },
+  {
+   "name": "Decks & Dice",
+   "group": "unknown",
+   "city": "Boom",
+   "region": "Vlaanderen",
+   "address": "33 Kerkstraat, Boom, Vlaams Gewest, 2850, Belgium",
+   "phone": "+32480654170",
+   "website": "https://decksdice.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:32Z"
+  },
+  {
+   "name": "Demo-Spel bv",
+   "group": "unknown",
+   "city": "Leuven",
+   "region": "Vlaanderen",
+   "address": "Sint-Hubertusstraat 3, 3000 Leuven, Belgium, Leuven, Vlaanderen, 3000",
+   "phone": "016843630",
+   "website": "https://www.demo-spel.be/nl/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:10Z"
+  },
+  {
+   "name": "Distributeur de cartes à collectionner - PullX TCG",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Av. Fonsny 47B, 1060 Bruxelles",
+   "website": "https://pullxtcg.com/",
+   "checked_at": "2026-10-16T03:26:25Z"
+  },
+  {
+   "name": "DONG CO",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 33, 1000 Bruxelles",
+   "phone": "02 503 36 88",
+   "website": "https://dong-co.com/",
+   "checked_at": "2026-10-16T03:26:50Z"
+  },
+  {
+   "name": "Dreamland",
+   "group": "unknown",
+   "city": "Drogenbos",
+   "region": "Vlaanderen",
+   "address": "Paul Gilsonlaan 455, 1620 Drogenbos",
+   "phone": "02 331 54 70",
+   "website": "https://www.dreamland.be/nl/winkels/dreamland-drogenbos",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "FANS - Collectibles & Verzamelobjecten Antwerpen",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Kammenstraat 80, 2000 Antwerpen",
+   "phone": "03 232 31 72",
+   "website": "https://fanssite.be/",
+   "checked_at": "2026-10-16T03:27:35Z"
+  },
+  {
+   "name": "Forbidden Zone",
+   "group": "unknown",
+   "city": "Saint-Gilles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 205, 1060 Saint-Gilles",
+   "phone": "02 534 63 67",
+   "website": "http://www.forbiddenzone.net/V2/index.php",
+   "checked_at": "2026-10-16T03:27:17Z"
+  },
+  {
+   "name": "Fox & Cie Belle-Île Shopping Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Quai des Vennes 1, 4020 Liège",
+   "phone": "04 342 89 00",
+   "website": "https://www.foxetcompagnie.com/fr/magasin?id_store=2",
+   "checked_at": "2026-10-16T03:28:49Z"
+  },
+  {
+   "name": "Fox & Cie Liège Centre",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue du Pot d'Or 18, 4000 Liège",
+   "phone": "04 222 42 66",
+   "website": "https://www.foxetcompagnie.com/fr/shop/list",
+   "checked_at": "2026-10-16T03:28:49Z"
+  },
+  {
+   "name": "Frishtik TCG",
+   "group": "unknown",
+   "city": "Courcelles",
+   "region": "Région wallonne",
+   "address": "Rue du Général de Gaulle 44, 6180 Courcelles",
+   "phone": "0493 49 87 82",
+   "website": "https://frishtik.com/",
+   "checked_at": "2026-10-16T03:27:32Z"
+  },
+  {
+   "name": "Game Bubbles",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Pl. du Jeu de Balle 79, 1000 Bruxelles",
+   "phone": "0475 69 75 38",
+   "website": "https://jeu-de-bulles.be/",
+   "checked_at": "2026-10-16T03:26:37Z"
+  },
+  {
+   "name": "Gamealot",
+   "group": "unknown",
+   "city": "Schoten",
+   "region": "Vlaanderen",
+   "address": "Amerlolaan 8, 2900 Schoten",
+   "phone": "0498 62 01 72",
+   "website": "https://gamealot.shop/",
+   "checked_at": "2026-10-16T03:28:04Z"
+  },
+  {
+   "name": "Gamelootz",
+   "group": "unknown",
+   "address": "4 Langveld, Hakendover, Vlaams Brabant, 3300, Belgium",
+   "phone": "+320496916270",
+   "website": "https://www.gamelootz.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:54Z"
+  },
+  {
+   "name": "GameVault",
+   "group": "unknown",
+   "city": "Dendermonde",
+   "region": "Vlaanderen",
+   "address": "Hofstraat 36, 9200 Dendermonde, Belgium, Dendermonde, Vlaanderen, 9200",
+   "phone": "0486894330",
+   "website": "https://webshop.gamevault.be",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:10Z"
+  },
+  {
+   "name": "GAMMA Brugge Sint Pieters",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Sint-Pieterskaai 57 A, 8000 Brugge",
+   "phone": "050 45 59 60",
+   "website": "https://www.gamma.be/nl/winkels-en-openingsuren/brugge-sint-pieters?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-16T03:29:25Z"
+  },
+  {
+   "name": "GeekCollector",
+   "group": "unknown",
+   "city": "Saint-Georges-sur-Meuse",
+   "region": "Région wallonne",
+   "address": "Dans la boutique DGS Informatique, Chau. Verte 98/2, 4470 Saint-Georges-sur-Meuse",
+   "phone": "0478 80 15 87",
+   "website": "https://www.geekcollector.be/",
+   "checked_at": "2026-10-16T03:29:09Z"
+  },
+  {
+   "name": "Hannello - Queen of Games",
+   "group": "unknown",
+   "city": "Oostende",
+   "region": "Vlaams Gewest",
+   "address": "34 Mimosalaan, Oostende, West-Vlaanderen, 8400, Belgium",
+   "phone": "+32496829349",
+   "website": "https://www.queenofgames.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:06Z"
+  },
+  {
+   "name": "Hermelijn",
+   "group": "unknown",
+   "city": "Aalst",
+   "region": "Vlaams Gewest",
+   "address": "Geraardsbergsestraat 8/bus 9, Aalst, Vlaams Gewest, 9300, Belgium",
+   "phone": "+32 (0)53 414 866",
+   "website": "https://fredsstripwinkel2.odoo.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "Het Spelhuis",
+   "group": "unknown",
+   "city": "Zonhoven",
+   "region": "Vlaams Gewest",
+   "address": "Muizenstraat 51, 3520 Zonhoven, Belgium, Zonhoven, Vlaams Gewest, 3520",
+   "phone": "+32 (0)11 743 804",
+   "website": "https://www.spelhuis.be/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:09Z"
+  },
+  {
+   "name": "House of Wizards",
+   "group": "unknown",
+   "address": "20 Wijngaardstraat, Brugge, Vlaams Gewest, 8000, Belgium",
+   "phone": "+32 491288385",
+   "website": "https://www.atelierverbaert.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:01Z"
+  },
+  {
+   "name": "Ichiban",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Anspach 94, 1000 Bruxelles",
+   "phone": "02 304 02 15",
+   "website": "https://www.ichiban-store.be/",
+   "checked_at": "2026-10-16T03:26:30Z"
+  },
+  {
+   "name": "Ilan TCG Belgium",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de Fragnée 67/77, Liège, Liège, 4000, Belgium",
+   "phone": "+32 478 53 84 31",
+   "website": "https://ilantcgbelgium.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:27Z"
+  },
+  {
+   "name": "Itonim Centraal",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Pelikaanstraat 58, 2018 Antwerpen",
+   "phone": "03 232 29 98",
+   "website": "https://itonim.be/itonim-centraal/",
+   "checked_at": "2026-10-16T03:27:39Z"
+  },
+  {
+   "name": "Jocari",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Régence 35, 4000 Liège",
+   "phone": "04 262 07 27",
+   "website": "https://jocari-liege.be/en",
+   "checked_at": "2026-10-16T03:28:31Z"
+  },
+  {
+   "name": "JouéClub",
+   "group": "unknown",
+   "city": "Sprimont",
+   "region": "Région wallonne",
+   "address": "42, Rue d'Aywaille 8, 4140 Sprimont",
+   "phone": "04 380 34 64",
+   "website": "https://www.joueclub.fr/magasin/joueclub-sprimont.html",
+   "checked_at": "2026-10-16T03:28:58Z"
+  },
+  {
+   "name": "Kazabulles",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de l'Université 11, 4000 Liège",
+   "phone": "04 222 14 04",
+   "website": "https://www.kazabulles.be/",
+   "checked_at": "2026-10-16T03:29:02Z"
+  },
+  {
+   "name": "Koffie & Spel",
+   "group": "unknown",
+   "address": "35 Gilainstraat, Tienen, Vlaams Gewest, 3300, Belgium",
+   "phone": "+32(0)495 53 81 28",
+   "website": "https://www.koffie-spel.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:43Z"
+  },
+  {
+   "name": "La Guilde",
+   "group": "unknown",
+   "city": "Bastogne",
+   "region": "Région Wallonne",
+   "address": "10 Rue de Neufchâteau, Bastogne, Région Wallonne, 6600, Belgium",
+   "phone": "003261467651",
+   "website": "https://la-guilde.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:26:08Z"
+  },
+  {
+   "name": "la guilde des fines lames",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Hors-Château 31, 4000 Liège",
+   "website": "https://www.gdfl.be/",
+   "checked_at": "2026-10-16T03:28:59Z"
+  },
+  {
+   "name": "La taverne des dresseurs",
+   "group": "unknown",
+   "city": "Uccle",
+   "region": "Bruxelles",
+   "address": "Av. Brugmann 508, 1180 Uccle",
+   "website": "https://latavernedesdresseurs.be/?ucp_preview&theme=cyber_chick_dark",
+   "checked_at": "2026-10-16T03:26:23Z"
+  },
+  {
+   "name": "La Toupie",
+   "group": "unknown",
+   "city": "Sambreville",
+   "region": "Région Wallonne",
+   "address": "Av. des Français 8, 5060 Sambreville, Belgium, Sambreville, Région Wallonne, 5060",
+   "phone": "+32 467 05 89 61",
+   "website": "https://www.latoupie.net/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:18Z"
+  },
+  {
+   "name": "Lace Jewel",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Philipstockstraat 11, 8000 Brugge",
+   "phone": "050 33 42 25",
+   "website": "https://www.bruges-shop.com/",
+   "checked_at": "2026-10-16T03:29:19Z"
+  },
+  {
+   "name": "Le Dépôt de Bruxelles - Go 4 Book",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 108, 1000 Bruxelles",
+   "phone": "02 513 04 84",
+   "website": "https://www.go4book.com/",
+   "checked_at": "2026-10-16T03:27:17Z"
+  },
+  {
+   "name": "Le Meeple Lecteur",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Galerie, Rue Ravenstein 39, 1000 Bruxelles",
+   "phone": "0494 08 34 96",
+   "website": "https://meeple-lecteur.be/",
+   "checked_at": "2026-10-16T03:26:47Z"
+  },
+  {
+   "name": "Le Nexus",
+   "group": "unknown",
+   "address": "rue des savoyards 7, Marche en famenne, Luxembourg, 6900, Belgium",
+   "phone": "+320471515063",
+   "website": "https://lenexus.be/fr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:26:00Z"
+  },
+  {
+   "name": "Le Reliquaire",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Régence 40, 4000 Liège",
+   "phone": "0471 79 38 66",
+   "website": "https://lereliquaire.be/",
+   "checked_at": "2026-10-16T03:29:04Z"
+  },
+  {
+   "name": "Les Galeries St Lambert",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Pl. St Lambert 27, 4000 Liège",
+   "phone": "04 223 23 00",
+   "website": "https://galeries-st-lambert.be/",
+   "checked_at": "2026-10-16T03:28:35Z"
+  },
+  {
+   "name": "Les Nouveaux Disciples",
+   "group": "unknown",
+   "city": "Huy",
+   "region": "Région wallonne",
+   "address": "13 Rue des Brasseurs, Huy, Région Wallonne, 4500, Belgium",
+   "phone": "32456 39 01 53",
+   "website": "https://www.lesnouveauxdisciples.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:16Z"
+  },
+  {
+   "name": "Level BXL",
+   "group": "unknown",
+   "city": "Ixelles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 363A, 1050 Ixelles",
+   "phone": "02 479 93 34",
+   "website": "https://levelbxl.com/",
+   "checked_at": "2026-10-16T03:26:46Z"
+  },
+  {
+   "name": "Levelupshop",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Oude Hoogweg 24, 8310 Brugge",
+   "website": "https://www.levelupshop.be/",
+   "checked_at": "2026-10-16T03:29:10Z"
+  },
+  {
+   "name": "Librairie Galerie BRUSEL",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Anspach 100, 1000 Bruxelles",
+   "phone": "02 511 08 09",
+   "website": "https://www.brusel.com/",
+   "checked_at": "2026-10-16T03:26:45Z"
+  },
+  {
+   "name": "Librairie Manga café",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Marché aux Herbes 75, 1000 Bruxelles",
+   "phone": "02 315 12 17",
+   "website": "https://www.mangacafe.fr/",
+   "checked_at": "2026-10-16T03:26:50Z"
+  },
+  {
+   "name": "Ligne Claire",
+   "group": "unknown",
+   "address": "66 Grand'Rue, Mons, Région Wallonne, 7000, Belgium",
+   "phone": "+33(0)65334838",
+   "website": "https://ligneclaire.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:02Z"
+  },
+  {
+   "name": "Lolifant Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de l'Université 37, 4000 Liège",
+   "phone": "04 221 22 01",
+   "website": "https://www.lolifant-liege.be/",
+   "checked_at": "2026-10-16T03:28:46Z"
+  },
+  {
+   "name": "Ludicorner",
+   "group": "unknown",
+   "address": "21 Grand'Rue, Gembloux, Région wallonne, 5030, Belgium",
+   "phone": "3281346558",
+   "website": "https://www.ludicorner.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:41Z"
+  },
+  {
+   "name": "Ludotrotter Bruxelles",
+   "group": "unknown",
+   "city": "Woluwe-Saint-Lambert",
+   "region": "Bruxelles",
+   "address": "466 Av. Georges Henri, Woluwe-St.-Lambert, Bruxelles, 1200, Belgium",
+   "phone": "+32027342255",
+   "website": "https://bruxelles.ludotrotter.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "Ludotrotter Nivelles",
+   "group": "unknown",
+   "city": "Charleroi",
+   "region": "Région wallonne",
+   "address": "11b Rue de Saintes, Nivelles, Région Wallonne, 1400, Belgium",
+   "phone": "+32(0)67444397",
+   "website": "https://jeux-de-societe.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:33Z"
+  },
+  {
+   "name": "Maelstrom",
+   "group": "unknown",
+   "city": "Malmedy",
+   "region": "Région wallonne",
+   "address": "Chemin-Rue 32,, Malmedy, Liège, 4960, Belgium",
+   "phone": "+32 495 46 58 99",
+   "website": "https://www.maelstromplay.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:54Z"
+  },
+  {
+   "name": "Magical Store by Tin-Key Brussels",
+   "group": "unknown",
+   "city": "Berchem-Sainte-Agathe",
+   "region": "Bruxelles",
+   "address": "Rue Kasterlinden 24, 1082 Berchem-Sainte-Agathe",
+   "website": "https://www.magicalstorebytinkeybrussels.be/",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "Magnytour",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Henri Vandersaenen 5, 1160 Bruxelles",
+   "phone": "02 675 57 41",
+   "website": "https://www.magnytour.com/contact",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "Maison des Échecs",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de Belle-Vue 60, 1000 Bruxelles",
+   "phone": "02 649 39 97",
+   "website": "https://maisondesechecs.be/",
+   "checked_at": "2026-10-16T03:27:35Z"
+  },
+  {
+   "name": "Mandrua's",
+   "group": "unknown",
+   "city": "Roeselare",
+   "region": "Vlaanderen",
+   "address": "Brugsesteenweg 29, Roeselare, West-Vlaanderen, 8800, Belgium",
+   "phone": "+32493914060",
+   "website": "https://mandruas.com",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:04Z"
+  },
+  {
+   "name": "Manticore",
+   "group": "unknown",
+   "city": "Brakel",
+   "region": "Vlaanderen",
+   "address": "17 Hoogstraat, Brakel, Vlaams Gewest, 9660, Belgium",
+   "phone": "+32 451 03 29 58",
+   "website": "https://manticore-zottegem.be/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:48Z"
+  },
+  {
+   "name": "Manticore Zottegem",
+   "group": "unknown",
+   "city": "Zottegem",
+   "region": "Vlaanderen",
+   "address": "Smissenhoek 120, Brakel, Oost-Vlaanderen, 9660, Belgium",
+   "phone": "+32485973507",
+   "website": "https://www.manticore-zottegem.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "MAVAPO - Cigarettes Électroniques - Bruxelles",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de Flandre 15, 1000 Bruxelles",
+   "phone": "02 252 38 01",
+   "website": "https://www.mavapo.brussels/",
+   "checked_at": "2026-10-16T03:26:35Z"
+  },
+  {
+   "name": "MAVAPOKÉMON",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de Flandre 15, 1000 Bruxelles",
+   "phone": "0470 10 64 73",
+   "website": "https://www.mavapokemon.com/",
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "MAXIMUS",
+   "group": "unknown",
+   "city": "Brakel",
+   "region": "Vlaanderen",
+   "address": "Kasteelstraat 10, 9660 Brakel",
+   "website": "https://www.maximus.be/",
+   "checked_at": "2026-10-16T03:27:03Z"
+  },
+  {
+   "name": "Mekanik Strip",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Sint-Jacobsmarkt 73, 2000 Antwerpen",
+   "phone": "03 234 23 47",
+   "website": "https://www.mekanik-strip.be",
+   "checked_at": "2026-10-16T03:27:38Z"
+  },
+  {
+   "name": "Mishra's Playground",
+   "group": "unknown",
+   "city": "Dilbeek",
+   "region": "Vlaams Gewest",
+   "address": "104 Ninoofsesteenweg, Halle, Vlaams Gewest, 1500, Belgium",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "MP Jewelry",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Vestingstraat 73, 2018 Antwerpen",
+   "phone": "0489 89 57 97",
+   "website": "http://mp-jewelry.com/",
+   "checked_at": "2026-10-16T03:27:55Z"
+  },
+  {
+   "name": "Multi BD",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Anspach 122, 1000 Bruxelles",
+   "phone": "02 513 72 35",
+   "website": "https://bulledor.blogspot.com/",
+   "checked_at": "2026-10-16T03:27:15Z"
+  },
+  {
+   "name": "nerdgeek",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Keppestraat 13, Aalst, Oost-Vlaanderen, 9320, Belgium",
+   "phone": "+32476090628",
+   "website": "https://www.nerdgeek.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "Neverland Toys & Trinkets",
+   "group": "unknown",
+   "city": "Eeklo",
+   "region": "Vlaams Gewest",
+   "address": "Zuidmoerstraat 140, Eeklo, East Flanders, 9900, Belgium",
+   "phone": "+32479524818",
+   "website": "https://www.neverland-toys-trinkets.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:11Z"
+  },
+  {
+   "name": "Nexus Games",
+   "group": "unknown",
+   "address": "41 Bovenrij, Herentals, Antwerpen, 2200, Belgium",
+   "phone": "+32472537611",
+   "website": "https://nexusgames.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:56Z"
+  },
+  {
+   "name": "Nike Store Antwerpen",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Meir 55, 2000 Antwerpen",
+   "phone": "03 375 14 20",
+   "website": "https://www.nike.com/ca/",
+   "checked_at": "2026-10-16T03:27:58Z"
+  },
+  {
+   "name": "Nipponzilla",
+   "group": "unknown",
+   "address": "Rue sous-le-château 4, Huy, Liège, 4500, Belgium",
+   "phone": "+32085512043",
+   "website": "https://nipponzilla.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:14Z"
+  },
+  {
+   "name": "Nondejeu",
+   "group": "unknown",
+   "city": "Haacht",
+   "region": "Vlaams Gewest",
+   "address": "Stationsstraat 1b, 3150 Haacht, Belgium, Haacht, Vlaams Gewest, 3150",
+   "phone": "016 43 65 07",
+   "website": "https://www.nondejeu.be/us/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:10Z"
+  },
+  {
+   "name": "nozomi-cards.be",
+   "group": "unknown",
+   "city": "Sint-Niklaas",
+   "region": "Vlaanderen",
+   "address": "Alice Nahon Straat 2, 9111 Sint-Niklaas",
+   "phone": "0497 77 06 58",
+   "website": "https://nozomi-cards.be/",
+   "checked_at": "2026-10-16T03:26:32Z"
+  },
+  {
+   "name": "Nurundial",
+   "group": "unknown",
+   "city": "Kalmthout",
+   "region": "Vlaanderen",
+   "address": "Statiestraat 20/bus 3, 2920 Kalmthout",
+   "phone": "0472 34 94 16",
+   "website": "https://www.nurundialstavern.be/",
+   "checked_at": "2026-10-16T03:27:47Z"
+  },
+  {
+   "name": "Oberonn",
+   "group": "unknown",
+   "city": "Hasselt",
+   "region": "Vlaams Gewest",
+   "address": "27 Kempische Steenweg, Hasselt, Vlaams Gewest, 3500, Belgium",
+   "phone": "1X",
+   "website": "http://www.oberonn.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:14Z"
+  },
+  {
+   "name": "Oli Wood Toys Etterbeek",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Etterbeek, Av. de la Chasse 94A, 1040 Bruxelles",
+   "phone": "02 319 53 91",
+   "website": "https://oliwoodtoys.be/fr/?utm_source=google&utm_medium=mybusiness&utm_campaign=GMB-Etterbeek",
+   "checked_at": "2026-10-16T03:26:55Z"
+  },
+  {
+   "name": "Olskoolgames",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Maurice Lemonnier 19, 1000 Bruxelles",
+   "phone": "0496 36 32 99",
+   "website": "https://www.olskoolgames.be/",
+   "checked_at": "2026-10-16T03:26:37Z"
+  },
+  {
+   "name": "otaku's zone",
+   "group": "unknown",
+   "address": "42 rue de pont , Tournai, hainaut, 7500, Belgium",
+   "phone": "+32470575953",
+   "website": "https://www.otaks-zone.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:18Z"
+  },
+  {
+   "name": "Outpost Brussels",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue de la Tribune 8, Bruxelles, Bruxelles, 1000, Belgium",
+   "phone": "+3202 218 04 00",
+   "website": "https://outpostbrussels.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
+   "name": "Panterland",
+   "group": "unknown",
+   "city": "Mol",
+   "region": "Vlaams Gewest",
+   "address": "19 Rondplein, Mol, Vlaams Gewest, 2400, Belgium",
+   "phone": "32479-46-89-61",
+   "website": "https://www.panterland.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:08Z"
+  },
+  {
+   "name": "Patgames Afhaalpunt na bestelling online op de web.",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaanderen",
+   "address": "Lieven Delaruyestraat 55, 9050 Gent",
+   "phone": "09 232 28 25",
+   "website": "https://www.patgames.be/",
+   "checked_at": "2026-10-16T03:28:24Z"
+  },
+  {
+   "name": "Philac sprl",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 48, 1000 Bruxelles",
+   "phone": "02 512 03 93",
+   "website": "https://www.dezittere-philac.be/nl/",
+   "checked_at": "2026-10-16T03:27:35Z"
+  },
+  {
+   "name": "Planet Fantasy",
+   "group": "unknown",
+   "city": "Schoten",
+   "region": "Vlaanderen",
+   "address": "Paalstraat 87, 2900 Schoten",
+   "phone": "03 288 08 80",
+   "website": "https://www.planetfantasy.be/en_GB",
+   "checked_at": "2026-10-16T03:27:48Z"
+  },
+  {
+   "name": "Player Shop",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Régence 31, 4000 Liège",
+   "phone": "04 267 33 17",
+   "website": "https://www.playerliege.com/",
+   "checked_at": "2026-10-16T03:28:32Z"
+  },
+  {
+   "name": "Point d'Encre Concept Store",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue des Guillemins 16, 4000 Liège",
+   "phone": "04 254 21 25",
+   "website": "https://www.pointdencre.be/",
+   "checked_at": "2026-10-16T03:28:45Z"
+  },
+  {
+   "name": "PokéCardShop",
+   "group": "unknown",
+   "city": "Kortenberg",
+   "region": "Vlaanderen",
+   "address": "Leuvensesteenweg, 3070 Kortenberg",
+   "website": "https://www.pokecardshop.be/",
+   "checked_at": "2026-10-16T03:26:36Z"
+  },
+  {
+   "name": "Premier Organizer - Fanfinity",
+   "group": "unknown",
+   "city": "Nazareth-De Pinte",
+   "region": "Vlaanderen",
+   "address": "11 Tulpenstraat, Nazareth-De Pinte, Vlaanderen, 9810, BE",
+   "phone": "4420 3998 3018",
+   "website": "https://www.fanfinity.gg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:59Z"
+  },
+  {
+   "name": "Quartier Geek",
+   "group": "unknown",
+   "city": "Herstal",
+   "region": "Région wallonne",
+   "address": "Stand dans le carrefour, coté Lunch Garden, Rue Basse Campagne 1, 4040 Herstal",
+   "phone": "0490 40 04 81",
+   "website": "https://www.quartiergeek.be/",
+   "checked_at": "2026-10-16T03:29:05Z"
+  },
+  {
+   "name": "Retrorewind Game shop",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Lambermont 1, 1000 Bruxelles",
+   "website": "https://www.retrorewind.us/",
+   "checked_at": "2026-10-16T03:27:07Z"
+  },
+  {
+   "name": "SAJOU",
+   "group": "unknown",
+   "city": "Jette",
+   "region": "Bruxelles",
+   "address": "Av. de Jette 298, 1090 Jette",
+   "phone": "02 427 08 87",
+   "website": "https://www.sajou.be/",
+   "checked_at": "2026-10-16T03:26:47Z"
+  },
+  {
+   "name": "ScheldeSpel",
+   "group": "unknown",
+   "city": "Oudenaarde",
+   "region": "Vlaanderen",
+   "address": "Hoogstraat 63, Oudenaarde, Oost-Vlaanderen, 9700, Belgium",
+   "phone": "+32055387620",
+   "website": "https://www.scheldespel.be",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:02Z"
+  },
+  {
+   "name": "Schleiper Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Cathédrale 27, 4000 Liège",
+   "phone": "04 223 50 80",
+   "website": "https://www.schleiper.com/",
+   "checked_at": "2026-10-16T03:29:09Z"
+  },
+  {
+   "name": "Secret Wonders Collectibles",
+   "group": "unknown",
+   "city": "Oostkamp",
+   "region": "Vlaanderen",
+   "address": "31b Schooldreef, Oostkamp, Vlaams Gewest, 8020, Belgium",
+   "phone": "+32494546006",
+   "website": "https://www.secretwonderscollectibles.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:00Z"
+  },
+  {
+   "name": "Shopping Belle-Île Liège",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Quai des Vennes 1, 4020 Liège",
+   "phone": "04 342 22 23",
+   "website": "https://belle-ile.be/fr",
+   "checked_at": "2026-10-16T03:28:51Z"
+  },
+  {
+   "name": "Slumberland Musée de la BD",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue des Sables 20, 1000 Bruxelles",
+   "phone": "02 219 58 01",
+   "website": "http://www.slumberlandbdworld.com/",
+   "checked_at": "2026-10-16T03:27:23Z"
+  },
+  {
+   "name": "Sod Games Andenne",
+   "group": "unknown",
+   "city": "Andenne",
+   "region": "Région wallonne",
+   "address": "5 Rue de la Papeterie, Andenne, Région Wallonne, 5300, Belgium",
+   "phone": "+3285511868",
+   "website": "https://www.andenne.sodgames.be/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:07Z"
+  },
+  {
+   "name": "Spellenboom.be | Specialist in TCG, RPG, miniaturen en bordspellen, afhalen mogelijk na afspraak.",
+   "group": "unknown",
+   "city": "Lede",
+   "region": "Vlaanderen",
+   "address": "Broeder de Saedeleerstraat 8/bus 2, 9340 Lede",
+   "phone": "0478 69 61 04",
+   "website": "https://www.spellenboom.be/",
+   "checked_at": "2026-10-16T03:26:36Z"
+  },
+  {
+   "name": "Spelshop.be",
+   "group": "unknown",
+   "city": "Hulshout",
+   "region": "Vlaams Gewest",
+   "address": "A. Van Looplein 11, 2235 Hulshout, Belgium, Hulshout, Vlaams Gewest, 2235",
+   "phone": "+32 495 700 242",
+   "website": "https://www.spelshop.be/nl/zoek-een-spel",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:13Z"
+  },
+  {
+   "name": "Spirit manga feniksu",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Anspach 104, 1000 Bruxelles",
+   "phone": "0492 40 16 17",
+   "website": "https://mineralmuseum.org/",
+   "checked_at": "2026-10-16T03:26:42Z"
+  },
+  {
+   "name": "Stacks Sint-Kruis",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Maalse Steenweg 153, 8310 Brugge",
+   "phone": "050 37 35 23",
+   "website": "https://stacks.be/",
+   "checked_at": "2026-10-16T03:29:15Z"
+  },
+  {
+   "name": "Stripwinkel Alex🦸",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Gitschotellei 143, 2600 Antwerpen",
+   "phone": "03 236 25 40",
+   "website": "https://stripwinkelalex.be/index.php/nl/",
+   "checked_at": "2026-10-16T03:28:06Z"
+  },
+  {
+   "name": "Stripwinkel Beo",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Oudevaartplaats 16, 2000 Antwerpen",
+   "phone": "03 233 25 36",
+   "website": "https://stripwinkelbeo.be/",
+   "checked_at": "2026-10-16T03:28:12Z"
+  },
+  {
+   "name": "Sunny Europe NV",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Scheurweg 11 Port 261, 2030 Antwerpen",
+   "phone": "03 540 27 70",
+   "website": "https://sunny-europe.com/",
+   "checked_at": "2026-10-16T03:28:10Z"
+  },
+  {
+   "name": "Super Dragon Toys",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Sainte-Catherine 6, 1000 Bruxelles",
+   "phone": "02 511 56 25",
+   "website": "https://www.superdragontoys.com/fr/",
+   "checked_at": "2026-10-16T03:26:23Z"
+  },
+  {
+   "name": "Super Gaby Games Jette-Miroir",
+   "group": "unknown",
+   "city": "Jette",
+   "region": "Bruxelles",
+   "address": "Chau. de Wemmel 7, 1090 Jette",
+   "phone": "02 428 38 38",
+   "website": "https://www.supergabygames.com/",
+   "checked_at": "2026-10-16T03:26:30Z"
+  },
+  {
+   "name": "TCGshop.eu (MADE Creations)",
+   "group": "unknown",
+   "city": "Boom",
+   "region": "Vlaams Gewest",
+   "address": "Hoek 76, 2850 Boom, Belgium, Boom, Vlaams Gewest, 2850",
+   "phone": "+32 479 81 11 17",
+   "website": "https://www.tcgshop.eu/nl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:13Z"
+  },
+  {
+   "name": "TCGVault.be",
+   "group": "unknown",
+   "city": "Oudenburg",
+   "region": "Vlaanderen",
+   "address": "Weststraat 29, 8460 Oudenburg",
+   "phone": "0468 31 24 09",
+   "website": "https://tcgvault.be/nl",
+   "checked_at": "2026-10-16T03:28:19Z"
+  },
+  {
+   "name": "THE ELDER COLLECTOR SHOP",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaanderen",
+   "address": "Langestraat 84, 8000 Brugge",
+   "phone": "0456 88 14 63",
+   "website": "https://denelder.be/",
+   "checked_at": "2026-10-16T03:29:18Z"
+  },
+  {
+   "name": "The Game Corner",
+   "group": "unknown",
+   "city": "Merelbeke-Melle",
+   "region": "Vlaanderen",
+   "address": "Merelbekestraat 105, 9090 Merelbeke-Melle, Belgium, Merelbeke-Melle, Vlaanderen, 9090",
+   "phone": "+32 472 61 75 29",
+   "website": "https://thegamecorner.be/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:19Z"
+  },
+  {
+   "name": "The Geeky Pop",
+   "group": "unknown",
+   "city": "Nivelles",
+   "region": "Région wallonne",
+   "address": "Rue du Bosquet 31, 1400 Nivelles",
+   "website": "https://www.thegeekypop.com/fr/",
+   "checked_at": "2026-10-16T03:28:55Z"
+  },
+  {
+   "name": "The Grasshopper",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Marché aux Herbes 39, 1000 Bruxelles",
+   "phone": "02 511 96 22",
+   "website": "https://www.thegrasshopper.be/",
+   "checked_at": "2026-10-16T03:26:44Z"
+  },
+  {
+   "name": "The hub game lounge",
+   "group": "unknown",
+   "city": "Leuven",
+   "region": "Vlaams Gewest",
+   "address": "Bondgenotenlaan 122, 3000 Leuven, Belgium, Leuven, Vlaams Gewest, 3000",
+   "phone": "+32493992956",
+   "website": "http://www.thehubgameloungeleuven.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:09Z"
+  },
+  {
+   "name": "The LEGO® Store Wijnegem",
+   "group": "unknown",
+   "city": "Wijnegem",
+   "region": "Vlaanderen",
+   "address": "Turnhoutsebaan 5, Shopping Center, Space 526, 2110 Wijnegem",
+   "phone": "03 318 00 25",
+   "website": "https://www.lego.com/fr-be/stores/store/wijnegem?cmp=REF-202601-GBP-819&y_source=1_MTY2ODY3MzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-16T03:27:56Z"
+  },
+  {
+   "name": "The Skull",
+   "group": "unknown",
+   "city": "Saint-Gilles",
+   "region": "Bruxelles",
+   "address": "Chau. de Waterloo 336, 1060 Saint-Gilles",
+   "phone": "02 538 36 99",
+   "website": "https://www.skullbd.com/index.php/fr/",
+   "checked_at": "2026-10-16T03:27:22Z"
+  },
+  {
+   "name": "The Vault",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaams Gewest",
+   "address": "Grootkanonplein 4, 9000 Gent, Belgium, Gent, Vlaams Gewest, 9000",
+   "phone": "+32 9 278 98 27",
+   "website": "https://www.the-vault.be/nl",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T03:26:11Z"
+  },
+  {
+   "name": "The Wonder World",
+   "group": "unknown",
+   "city": "Beauraing",
+   "region": "Région wallonne",
+   "address": "rue de rochefort 578 bt1, Beauraing, Namur, 5572, Belgium",
+   "phone": "+32486277319",
+   "website": "https://thewonderworld.odoo.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:26:03Z"
+  },
+  {
+   "name": "Time to Play",
+   "group": "unknown",
+   "address": "4 Rue Léopold, Gembloux, Région Wallonne, 5030, Belgium",
+   "phone": "323281352568",
+   "website": "http://www.time-to-play.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:37Z"
+  },
+  {
+   "name": "Toys Planets",
+   "group": "unknown",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue de la Cathédrale 87, 4000 Liège",
+   "phone": "0498 03 24 39",
+   "website": "https://www.toysplanets.be/",
+   "checked_at": "2026-10-16T03:28:32Z"
+  },
+  {
+   "name": "Trading Card Game Store",
+   "group": "unknown",
+   "city": "Geel",
+   "region": "Vlaanderen",
+   "address": "92 Nieuwstraat, Geel, Vlaams Gewest, 2440, Belgium",
+   "phone": "32014720672",
+   "website": "https://tradingcardgamestore.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:05Z"
+  },
+  {
+   "name": "Utopia",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Midi 39, 1000 Bruxelles",
+   "phone": "02 514 08 26",
+   "website": "https://www.utopiacomics.be/",
+   "checked_at": "2026-10-16T03:27:12Z"
+  },
+  {
+   "name": "Verbrugghe Neverland",
+   "group": "unknown",
+   "city": "Brugge",
+   "region": "Vlaams Gewest",
+   "address": "186 Blankenbergse Steenweg, Brugge, Vlaams Gewest, 8000, Belgium",
+   "phone": "+32(0) 50323972",
+   "website": "https://neverland.be/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:01Z"
+  },
+  {
+   "name": "VGN Deals",
+   "group": "unknown",
+   "city": "Schaerbeek",
+   "region": "Bruxelles",
+   "address": "Av. Herbert Hoover 59, 1030 Schaerbeek",
+   "phone": "0477 89 37 02",
+   "website": "https://www.vgndeals.be/",
+   "checked_at": "2026-10-16T03:27:10Z"
+  },
+  {
+   "name": "Vintage Games",
+   "group": "unknown",
+   "city": "Woluwe-St.-Lambert",
+   "region": "Bruxelles",
+   "address": "Rue Saint-Lambert 112, 1200 Woluwe-Saint-Lambert",
+   "phone": "02 344 55 55",
+   "website": "https://vintage-games.be/",
+   "checked_at": "2026-10-16T03:27:03Z"
+  },
+  {
+   "name": "Vinticards",
+   "group": "unknown",
+   "address": "Wolfsbergstraat 67, Genk, Limburg, 3600, Belgium",
+   "phone": "+32492657973",
+   "website": "https://vinticards.be/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:25:53Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Vleminckstraat 10, 2000 Antwerpen",
+   "phone": "03 485 86 27",
+   "website": "https://www.warhammer.com/shop/Warhammer-Antwerpen",
+   "checked_at": "2026-10-16T03:27:45Z"
+  },
+  {
+   "name": "WASD - Gaming Café",
+   "group": "unknown",
+   "address": "99 Graatakker, Turnhout, Vlaams Gewest, 2300, Belgium",
+   "phone": "+32468056885",
+   "website": "https://www.wasdgamingcafe.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:24:08Z"
+  },
+  {
+   "name": "Waterstones Brussels",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Bd Adolphe Max 71/75, 1000 Bruxelles",
+   "phone": "02 219 27 08",
+   "website": "https://www.waterstones.com/bookshops/brussels",
+   "checked_at": "2026-10-16T03:27:30Z"
+  },
+  {
+   "name": "Wholesale Pokemon CARDS",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue Belliard 68, 1000 Bruxelles",
+   "website": "https://api.whatsapp.com/send/?phone=652473338&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T03:26:25Z"
+  },
+  {
+   "name": "Wijnegem - Shop Eat Enjoy",
+   "group": "unknown",
+   "city": "Wijnegem",
+   "region": "Vlaanderen",
+   "address": "Turnhoutsebaan 5, 2110 Wijnegem",
+   "phone": "03 350 14 44",
+   "website": "https://www.wijnegemshoppingcenter.be/",
+   "checked_at": "2026-10-16T03:28:09Z"
+  },
+  {
+   "name": "WildCards",
+   "group": "unknown",
+   "city": "Dendermonde",
+   "region": "Vlaanderen",
+   "address": "Buisstraat 43, 9200 Dendermonde",
+   "phone": "0496 30 37 48",
+   "website": "https://www.wildcards.be/",
+   "checked_at": "2026-10-16T03:29:19Z"
+  },
+  {
+   "name": "Wingames Bvba",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Steynstraat 332, 2660 Antwerpen",
+   "phone": "03 825 52 56",
+   "website": "http://www.wingames.be/",
+   "checked_at": "2026-10-16T03:28:09Z"
+  },
+  {
+   "name": "Worlds End Comics",
+   "group": "unknown",
+   "city": "Gent",
+   "region": "Vlaams Gewest",
+   "address": "Ketelvest 51, Gent, VAN, 9000, Belgium",
+   "phone": "1X",
+   "website": "https://www.worldsendcomics.com/",
+   "buylist_url": "https://www.worldsendcomics.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:55Z"
+  },
+  {
+   "name": "Write Away",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Lange Nieuwstraat, 2000 Antwerpen",
+   "phone": "0468 40 96 07",
+   "website": "https://www.writeawayprompts.com/",
+   "checked_at": "2026-10-16T03:28:11Z"
+  },
+  {
+   "name": "Za Warudo",
+   "group": "unknown",
+   "city": "Bruxelles",
+   "region": "Bruxelles",
+   "address": "Rue du Lombard 13, 1000 Bruxelles",
+   "website": "https://zawarudo.be/",
+   "checked_at": "2026-10-16T03:26:30Z"
+  },
+  {
+   "name": "Zara",
+   "group": "unknown",
+   "city": "Antwerpen",
+   "region": "Vlaanderen",
+   "address": "Meir 58, 2000 Antwerpen",
+   "phone": "0800 78 323",
+   "website": "https://www.zara.com/be/en/stores-locator/zara-antwerpen-meir-s376",
+   "checked_at": "2026-10-16T03:28:00Z"
+  }
+ ]
+}
