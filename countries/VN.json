@@ -1,0 +1,1724 @@
+{
+ "country": "VN",
+ "currency": "VND",
+ "updated": "2026-10-16",
+ "store_count": 185,
+ "stores": [
+  {
+   "name": "Máy Tính PCM",
+   "group": "blocked",
+   "region": "Hà Nội",
+   "address": "83 P. Thái Hà, Đống Đa, Hà Nội",
+   "phone": "0879 979 997",
+   "website": "https://pcmarket.vn/",
+   "checked_at": "2026-10-17T00:49:19Z"
+  },
+  {
+   "name": "Oreka - Mua bán đồ cũ, sách truyện cũ uy tín tại Việt Nam",
+   "group": "blocked",
+   "region": "Hà Nội",
+   "address": "B2-25, P. Hàm Nghi, Vinhomes Gardenia, Từ Liêm, Hà Nội 12006",
+   "phone": "0904 433 126",
+   "website": "https://www.oreka.vn/",
+   "checked_at": "2026-10-17T00:49:46Z"
+  },
+  {
+   "name": "Yugioh Saigon Shop",
+   "group": "blocked",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "595/018 Cách Mạng Tháng Tám, Hòa Hưng, Hồ Chí Minh",
+   "phone": "0339 462 426",
+   "website": "https://saigontcg.com/",
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "zShop Hà Nội - Chuyên hàng Apple và máy ảnh chính hãng",
+   "group": "blocked",
+   "region": "Hà Nội",
+   "address": "264 P. Thái Hà, Ô Chợ Dừa, Hà Nội",
+   "phone": "0922 882 662",
+   "website": "https://zshop.vn/",
+   "checked_at": "2026-10-17T00:49:32Z"
+  },
+  {
+   "name": "7 Gift Shop (Shop Quà Tặng)",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "714/29 Nguyễn Trãi, Chợ Lớn, Hồ Chí Minh",
+   "phone": "0933 383 421",
+   "checked_at": "2026-10-17T00:48:22Z"
+  },
+  {
+   "name": "Adam Smith trading card",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "17 D. Nguyễn Trung Trực, Bình Lợi Trung, Hồ Chí Minh 72300",
+   "phone": "0969 727 943",
+   "checked_at": "2026-10-17T00:48:01Z"
+  },
+  {
+   "name": "AKIRA MANGA SHOP",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "97 Trần Hữu Tước, Đống Đa, Hà Nội 100000",
+   "phone": "0845 992 368",
+   "checked_at": "2026-10-17T00:49:50Z"
+  },
+  {
+   "name": "Ares TCG",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "Trần Văn Đang/1/60/36 Hẻm 785 Hoàng Sa, Nhiêu Lộc, Hồ Chí Minh 70000",
+   "phone": "0981 863 633",
+   "checked_at": "2026-10-17T00:47:51Z"
+  },
+  {
+   "name": "B1 Football Cards Store",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "Ng. 564 Đ. Nguyễn Văn Cừ/2, Ngách 12 P. Gia Thụy, Bồ Đề, Hà Nội 10000",
+   "phone": "0343 605 171",
+   "website": "https://www.facebook.com/share/1BZ5jzXz3S/",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "Bandle Vault TCG",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "Tầng 4, 12 Ng. 80 P. Chùa Láng, Láng, Hà Nội",
+   "phone": "0833 945 337",
+   "website": "https://web.facebook.com/profile.php?id=61593302755331",
+   "checked_at": "2026-10-17T00:48:59Z"
+  },
+  {
+   "name": "BANG BANG TCG JAPAN",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "31 Trương Phước Phan, Bình Trị Đông, Hồ Chí Minh 700000",
+   "phone": "0387 980 081",
+   "checked_at": "2026-10-17T00:48:15Z"
+  },
+  {
+   "name": "Battle Bunker ( Vietnam )",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "386 Ngô Gia Tự, quận 10, Hồ Chí Minh 70000",
+   "phone": "8193 7741",
+   "checked_at": "2026-10-17T00:48:15Z"
+  },
+  {
+   "name": "Ben Thanh Market",
+   "group": "in_store",
+   "city": "Ho Chi Minh City",
+   "region": "Ho Chi Minh",
+   "address": "Ben Thanh, Ho Chi Minh",
+   "checked_at": "2026-10-17T00:48:25Z"
+  },
+  {
+   "name": "BIG BOAR GEM",
+   "group": "in_store",
+   "region": "Thành phố Hồ Chí Minh",
+   "address": "03 Đ. Trần Phú, Phường 4, Quận 5, Thành phố Hồ Chí Minh 748500, Vietnam, Thành phố Hồ Chí Minh, 748500",
+   "phone": "0906839333",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "blackpink.reimagined",
+   "group": "in_store",
+   "region": "Da Nang",
+   "address": "357Q+646, Thanh Khe, Da Nang 550000",
+   "phone": "0369 628 975",
+   "checked_at": "2026-10-17T00:50:20Z"
+  },
+  {
+   "name": "bé nhỏ",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "211, 186 Đống Đa, Hải Châu, Đà Nẵng 550000",
+   "phone": "0708 040 702",
+   "checked_at": "2026-10-17T00:50:10Z"
+  },
+  {
+   "name": "CardCenter Cyber Game",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "18 Ngách 52/2 P. Yên Lạc, Vĩnh Tuy, Hà Nội 10000",
+   "phone": "0918 494 097",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "CARTOON STORY",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "123BIS Đ. Cống Quỳnh, Cầu Ông Lãnh, Hồ Chí Minh",
+   "phone": "0933 490 942",
+   "checked_at": "2026-10-17T00:48:37Z"
+  },
+  {
+   "name": "CheapHobby Gundam Figure Store",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "81 P. Hoàng Cầu, Đống Đa, Hà Nội 100000",
+   "phone": "0326 186 094",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "CheapHobby Nguyễn Thị Thập",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "185 Nguyễn Thị Thập, Tân Mỹ, Hồ Chí Minh",
+   "phone": "0396 595 604",
+   "checked_at": "2026-10-17T00:47:56Z"
+  },
+  {
+   "name": "CheapHobby Thích Quảng Đức",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "167 Đ. Thích Quảng Đức, Đức Nhuận, Hồ Chí Minh 70000",
+   "phone": "0358 048 604",
+   "checked_at": "2026-10-17T00:47:56Z"
+  },
+  {
+   "name": "Công ty TNHH Coinhub Đà Nẵng",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "118 Khu Công nghệ FPT, Khu đô thị FPT City, Ngũ Hành Sơn, Đà Nẵng 550000",
+   "phone": "0702 716 093",
+   "checked_at": "2026-10-17T00:50:11Z"
+  },
+  {
+   "name": "Công Ty TNHH SX TM DV Quốc Huy",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "40 Đ. Trần Chánh Chiếu, Chợ Lớn, Hồ Chí Minh",
+   "phone": "028 3855 1641",
+   "checked_at": "2026-10-17T00:48:14Z"
+  },
+  {
+   "name": "Daigiaan J.S.C",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "Toa C2, D'Capitale Vincom 119 TranDuyHung Str, TrungHoa Ward, CauGiay Distr, Yên Hòa, Hà Nội 11313",
+   "phone": "0903 261 968",
+   "checked_at": "2026-10-17T00:49:12Z"
+  },
+  {
+   "name": "DARK POKE - Pokemon Trading Card Store",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "224/36 Đ. Lý Thường Kiệt, Diên Hồng, Hồ Chí Minh",
+   "phone": "0906 745 176",
+   "checked_at": "2026-10-17T00:47:49Z"
+  },
+  {
+   "name": "DayDreams Coffee Card Game",
+   "group": "in_store",
+   "region": "Thành phố Hồ Chí Minh",
+   "address": "648 Đ. Cách Mạng Tháng 8, Phường 11, Quận 3, Thành phố Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh",
+   "phone": "0392372171",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Dragon Fly",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "10 P. Tố Tịch, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội",
+   "phone": "024 3828 5532",
+   "checked_at": "2026-10-17T00:49:14Z"
+  },
+  {
+   "name": "Du Học Quốc Tế Vic Vina",
+   "group": "in_store",
+   "city": "Phố Hiến",
+   "region": "Hưng Yên",
+   "address": "58 Nguyễn Văn Linh, Phố Hiến, Hưng Yên 17000",
+   "phone": "0975 095 888",
+   "checked_at": "2026-10-17T00:49:24Z"
+  },
+  {
+   "name": "Funny Store",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "299/8D Đ. Lý Thường Kiệt, Phú Thọ, Hồ Chí Minh 700000",
+   "phone": "0962 927 357",
+   "checked_at": "2026-10-17T00:48:15Z"
+  },
+  {
+   "name": "Garmin Lotte Mall West Lake Hanoi",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "272 Đ. Võ Chí Công, Khu đô thị Ciputra, Tây Hồ, Hà Nội",
+   "phone": "0941 988 062",
+   "checked_at": "2026-10-17T00:49:25Z"
+  },
+  {
+   "name": "Gifthaus - Ngôi Nhà Quà Tặng",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "39D P. Lý Quốc Sư, Hoàn Kiếm, Hà Nội",
+   "phone": "0912 880 890",
+   "checked_at": "2026-10-17T00:49:02Z"
+  },
+  {
+   "name": "GoalCard Hanoi - Collect The Game",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "2Q49+XQQ, Mỹ Đình Pearl, Từ Liêm, Hà Nội",
+   "checked_at": "2026-10-17T00:49:12Z"
+  },
+  {
+   "name": "Happy Smile Quilling",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "76/1 Trần Phú, Old Town, Hội An, Đà Nẵng 560000",
+   "phone": "0796 727 060",
+   "website": "https://www.facebook.com/Happy-Smile-Quilling-103690529449897",
+   "checked_at": "2026-10-17T00:50:10Z"
+  },
+  {
+   "name": "Hoang Thanh IMP",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "39 Hàm Tử Quan, Hồng Hà, Hà Nội 100000",
+   "phone": "0942 201 978",
+   "checked_at": "2026-10-17T00:49:19Z"
+  },
+  {
+   "name": "Home LGS",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "23 Ngõ 62 Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội, Vietnam, Hà Nội",
+   "phone": "+84385393046",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Hằng Dũng Lantern Making Class & Painting Class",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "51 Nguyễn Thái Học, Old Town, Hội An, Đà Nẵng",
+   "phone": "0932 686 463",
+   "website": "https://instagram.com/hangdung.lanternworkshop?igshid=ZDdkNTZiNTM=",
+   "checked_at": "2026-10-17T00:50:11Z"
+  },
+  {
+   "name": "Lanh Leather Handmade",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "21 P. Hàng Quạt, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 110706",
+   "phone": "0978 520 825",
+   "checked_at": "2026-10-17T00:49:24Z"
+  },
+  {
+   "name": "Laptop 99 - Sửa mua bán Laptop, Pc tại Đan phượng",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "25 P. Phượng Trì, Đan Phượng, Hà Nội 100000",
+   "phone": "0972 766 280",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "Local Gift",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "92B Trần Phú, Hải Châu, Đà Nẵng 50000",
+   "phone": "0905 517 204",
+   "checked_at": "2026-10-17T00:50:11Z"
+  },
+  {
+   "name": "Long Phạm Hobby",
+   "group": "in_store",
+   "region": "Ha Noi",
+   "address": "Phuc Thinh, Ha Noi 100000",
+   "checked_at": "2026-10-17T00:49:39Z"
+  },
+  {
+   "name": "Lunar Town TCG",
+   "group": "in_store",
+   "region": "Hồ Chí Minh",
+   "address": "89 Đặng Dung, Phường Tân Định, Quận 1, Hồ Chí Minh 70000, Vietnam, Hồ Chí Minh, 70000",
+   "phone": "877612988",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Mahado Yugioh Shop",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "41/77 ngõ 612 La Thành, Giảng Võ, Hà Nội 100000",
+   "phone": "0984 570 206",
+   "checked_at": "2026-10-17T00:49:00Z"
+  },
+  {
+   "name": "MasterBall Store",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "25 Đường số 8, An Phú, Hồ Chí Minh",
+   "checked_at": "2026-10-17T00:47:51Z"
+  },
+  {
+   "name": "MementoTCG",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "136 Nguyễn Tri Phương, An Đông, Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh, Hồ Chí Minh",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "MinGemStore",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "478 Nguyễn Tri Phương, Hòa Cường, Đà Nẵng 550000",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "Minipolo",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "21/20 P. Láng Hạ, Láng Hạ, Đống Đa, Hà Nội, Vietnam, Hà Nội",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Minipolo TCG Bach Khoa",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "11 Ng. 40 P. Tạ Quang Bửu, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam, Hà Nội",
+   "phone": "+84 913 287 645",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "MINT SHINY , TCG, TRANDING CARD GAME",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "34/23 Lê Hữu Trác, An Hải, Đà Nẵng 50413",
+   "phone": "0369 949 195",
+   "checked_at": "2026-10-17T00:50:05Z"
+  },
+  {
+   "name": "MinT Store - Blind Box Đà Nẵng",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "131 Trưng Nữ Vương, Hải Châu, Đà Nẵng 50000",
+   "phone": "0878 743 777",
+   "website": "https://www.tiktok.com/@mint_blindbox_danang?_t=8rvsQ4K6ix8&_r=1",
+   "checked_at": "2026-10-17T00:50:20Z"
+  },
+  {
+   "name": "Mountain's Color 1 Ha Noi Handmade Shop",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "12 P. Hàng Bông, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội",
+   "phone": "0986 138 831",
+   "checked_at": "2026-10-17T00:49:12Z"
+  },
+  {
+   "name": "Mystic Crew TCG",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "Tầng 4/4th Floor, 10 P. Trần Tử Bình, Khu tập thể Nghĩa Tân, Nghĩa Đô, Hà Nội",
+   "phone": "0924 632 929",
+   "website": "https://www.facebook.com/mysticcreww/",
+   "checked_at": "2026-10-17T00:47:51Z"
+  },
+  {
+   "name": "Mộc Lan Souvenir Shop",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "192 Trần Phú, Hải Châu, Đà Nẵng 550000",
+   "phone": "0393 201 095",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "Nguyen Xuan Thu",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "114 Nguyễn Công Trứ, Sài Gòn, Hồ Chí Minh 700000",
+   "phone": "0942 463 388",
+   "checked_at": "2026-10-17T00:48:25Z"
+  },
+  {
+   "name": "Nhà Sách Quốc Thắng",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "115, 117 Phạm Văn Bạch, P, Hòa Cường, Đà Nẵng 550000",
+   "phone": "0905 047 036",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "OrginGaming",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "XNVT, Khu đô thị Him Lam, Tân Hưng, Hồ Chí Minh 70000",
+   "phone": "0973 082 280",
+   "checked_at": "2026-10-17T00:48:25Z"
+  },
+  {
+   "name": "PeoPo Store",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "14 Đ. Số 6, Hòa Hưng, Hồ Chí Minh",
+   "checked_at": "2026-10-17T00:48:50Z"
+  },
+  {
+   "name": "PikaChub TCG",
+   "group": "in_store",
+   "city": "Đồng Nai",
+   "region": "Đồng Nai",
+   "address": "152/2 Nguyễn Ái Quốc, Biên Hòa, Đồng Nai",
+   "phone": "0798 701 044",
+   "checked_at": "2026-10-17T00:48:50Z"
+  },
+  {
+   "name": "Pocket Kayryan",
+   "group": "in_store",
+   "city": "Ho Chi Minh City",
+   "region": "Ho Chi Minh",
+   "address": "Tan Son Nhi, Ho Chi Minh",
+   "phone": "0385 152 240",
+   "checked_at": "2026-10-17T00:48:19Z"
+  },
+  {
+   "name": "Pokemon One Piece Lorcana Da Nang",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "21 Đầm Rong 1, Hải Châu, Đà Nẵng 550000",
+   "phone": "0367 414 859",
+   "checked_at": "2026-10-17T00:50:05Z"
+  },
+  {
+   "name": "PONY TCG COMPANY LIMITED",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "141 Nguyễn Thị Nhỏ, Tân Hòa, Hồ Chí Minh 700000",
+   "phone": "0908 718 775",
+   "checked_at": "2026-10-17T00:48:12Z"
+  },
+  {
+   "name": "POP MART - Hà Nội Centre",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "175 P. Nguyễn Thái Học, Ô Chợ Dừa, Hà Nội",
+   "phone": "024 3203 3048",
+   "checked_at": "2026-10-17T00:49:47Z"
+  },
+  {
+   "name": "PS3 Game Shop",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "41 Núi Thành, Quận Hải Châu, Thành Phố Đà Nẵng, 77 Núi Thành, Hòa Cường, Đà Nẵng 550000",
+   "phone": "0236 3615 804",
+   "checked_at": "2026-10-17T00:50:20Z"
+  },
+  {
+   "name": "Rubicon Hobby",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "871 Hoàng Sa.st, ward 9, District 3, Ho Chi Minh, Ho Chi Minh, 72453, Viet Nam",
+   "phone": "+84961609860",
+   "website": "https://www.facebook.com/rubicon.hobby?locale=vi_VN",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "TCG Warehouse",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "Tôn Thất Thuyết, Vĩnh Hội, Hồ Chí Minh",
+   "checked_at": "2026-10-17T00:48:06Z"
+  },
+  {
+   "name": "TekCore - Chuyên PC tản nước Đồ họa và Game",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "96 Đ. Huỳnh Văn Một, Phú Thạnh, Hồ Chí Minh",
+   "phone": "028 2249 9777",
+   "checked_at": "2026-10-17T00:48:29Z"
+  },
+  {
+   "name": "Terra Hobby Shop",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "51 Ng. Thịnh Hào 1, Hàng Bột, Đống Đa, Hà Nội, Vietnam, Hà Nội",
+   "phone": "+84372556968",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "The Loot",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "285 Tô Hiến Thành, Hòa Hưng, Hồ Chí Minh 70000, Vietnam, Thành phố Hồ Chí Minh, Hồ Chí Minh, 70000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "The Maze",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "14 Ng. 4 P. Phương Mai, Phương Mai, Đống Đa, Hà Nội, Vietnam, Hà Nội",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "The Nest - Board Game Cafe",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "3 Ng. 133 - Thái Hà, Đống Đa, Hà Nội, Vietnam, Hà Nội",
+   "phone": "+84 836 487 633",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "The Root",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "72 P. Trần Xuân Soạn, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội 100000, Vietnam, Hà Nội, 100000",
+   "phone": "+84 32 576 2750",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "THIS IS NOT A BOOKSTORE",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "53 Hồ Xuân Hương, Ngũ Hành Sơn, Đà Nẵng 550000",
+   "phone": "0934 770 474",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "THẺ TỪ THANG MÁY HOA TÚ",
+   "group": "in_store",
+   "region": "Hà Nội",
+   "address": "Chung Cư The Kpark, P. Văn Phú, Khu đô thị Văn Phú, Kiến Hưng, Hà Nội 100000",
+   "phone": "0903 420 408",
+   "checked_at": "2026-10-17T00:49:14Z"
+  },
+  {
+   "name": "Tiny House LOTTE Mart Da Nang",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "06 Nại Nam, Hòa Cường, Đà Nẵng 550000",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "Totatoys Tcg - Pokemon Đà Nẵng",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "580a Ông Ích Khiêm, Hải Châu, Đà Nẵng 550000",
+   "phone": "0981 658 640",
+   "website": "https://www.facebook.com/share/1LhP9EZJr8/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:50:05Z"
+  },
+  {
+   "name": "TOYPRO ĐÀ NẴNG",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "167 Hùng Vương, Hải Châu, Đà Nẵng 550000",
+   "phone": "0702 798 679",
+   "checked_at": "2026-10-17T00:50:14Z"
+  },
+  {
+   "name": "TWIN LEGENDS TCG",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "243/14 Tô Hiến Thành, Hòa Hưng, Hồ Chí Minh",
+   "phone": "0707 666 323",
+   "checked_at": "2026-10-17T00:48:08Z"
+  },
+  {
+   "name": "Xonetcg",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "7 An Thượng 5, Ngũ Hành Sơn, Đà Nẵng 550000",
+   "checked_at": "2026-10-17T00:50:10Z"
+  },
+  {
+   "name": "Yuki TCG",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "13 Đường Số 13, Khu dân cư Ấp 5 Phong Phú, Tân Thuận, Hồ Chí Minh",
+   "checked_at": "2026-10-17T00:48:50Z"
+  },
+  {
+   "name": "Zeni Card Central",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "107 Bến Vân Đồn, Khánh Hội, Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh, Hồ Chí Minh",
+   "phone": "+84909155994",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Đà Nẵng TCG",
+   "group": "in_store",
+   "region": "Đà Nẵng",
+   "address": "406 Hoàng Diệu, Hòa Cường, Đà Nẵng 550000",
+   "phone": "0886 086 570",
+   "checked_at": "2026-10-17T00:50:05Z"
+  },
+  {
+   "name": "Đại lý mua bán thẻ Player Card",
+   "group": "in_store",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "167 Nguyễn Biểu, Chợ Quán, Hồ Chí Minh 748000",
+   "phone": "0931 899 298",
+   "checked_at": "2026-10-17T00:48:22Z"
+  },
+  {
+   "name": "CellphoneS",
+   "group": "not_buying_singles",
+   "region": "Đà Nẵng",
+   "address": "749 Tôn Đức Thắng, quận, Liên Chiểu, Đà Nẵng 50612",
+   "phone": "024 7100 7749",
+   "website": "https://cellphones.com.vn/",
+   "buylist_url": "https://cellphones.com.vn/thu-cu-doi-moi/trade-in-iphone",
+   "checked_at": "2026-10-17T00:50:11Z"
+  },
+  {
+   "name": "Hội An Camera Shop - Chuyên máy ảnh cũ uy tín Hội An Since 2011",
+   "group": "not_buying_singles",
+   "region": "Đà Nẵng",
+   "address": "346 Nguyễn Duy Hiệu, Hội An, Đà Nẵng",
+   "phone": "0987 877 273",
+   "website": "https://hoiancamera.vn/",
+   "buylist_url": "https://hoiancamera.vn/thu-mua-may-anh-cu-uy-tin",
+   "checked_at": "2026-10-17T00:50:10Z"
+  },
+  {
+   "name": "Sonpixel",
+   "group": "not_buying_singles",
+   "region": "Hà Nội",
+   "address": "C12 Lô 12, Khu đô thị Định Công, Phương Liệt, Hà Nội 100000",
+   "website": "https://sonpixel.vn/",
+   "buylist_url": "https://sonpixel.vn/thu-mua-dien-thoai-cu/",
+   "checked_at": "2026-10-17T00:49:36Z"
+  },
+  {
+   "name": "Táo Việt",
+   "group": "not_buying_singles",
+   "region": "Hà Nội",
+   "address": "43 P. Thái Hà, Đống Đa, Hà Nội",
+   "phone": "0983 579 999",
+   "website": "https://taoviet.net/",
+   "buylist_url": "https://taoviet.net/thu-mua-may-tinh-gia-cao-tai-ha-noi/",
+   "checked_at": "2026-10-17T00:49:25Z"
+  },
+  {
+   "name": "39 Concept (Gallery 39)",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "39A P. Lý Quốc Sư, Hoàn Kiếm, Hà Nội",
+   "phone": "0393 969 469",
+   "website": "https://www.39concept.com/",
+   "checked_at": "2026-10-17T00:49:12Z"
+  },
+  {
+   "name": "Anbert Manga Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "128 P. Lê Lợi, Hà Đông, Hà Nội 100000",
+   "website": "https://shopee.vn/anbertmangashop",
+   "checked_at": "2026-10-17T00:49:50Z"
+  },
+  {
+   "name": "Artbook Souvenir Shop",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "26 Lê Lợi, Bến Nghé, Sài Gòn, Hồ Chí Minh 700000",
+   "phone": "028 3636 9026",
+   "website": "https://artbook.com.vn/",
+   "checked_at": "2026-10-17T00:48:22Z"
+  },
+  {
+   "name": "BGC Boardgame Center",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "4, 45, P. Kim Mã Thượng/Cuối ngõ rẽ phải, Khu tập thể KH XH & NV, Ngọc Hà, Hà Nội",
+   "phone": "0968 864 244",
+   "website": "https://boardgamecenter.vn/",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "BlindboxVN",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "419 Huỳnh Văn Bánh, Phú Nhuận, Hồ Chí Minh 700000",
+   "phone": "0923 813 368",
+   "website": "https://blindbox.vn/",
+   "checked_at": "2026-10-17T00:48:30Z"
+  },
+  {
+   "name": "Bookworm Hanoi",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "44 P. Phạm Hồng Thái, Ba Đình, Hà Nội 10000",
+   "phone": "024 3715 3711",
+   "website": "https://bookwormhanoi.com/",
+   "checked_at": "2026-10-17T00:49:07Z"
+  },
+  {
+   "name": "Box8 - Hobby Gundam Figure",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "36, 933 Hồng Hà, Hà Nội 100000",
+   "phone": "0906 238 093",
+   "website": "http://box8.vn/",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "Boxx Shop - boxxgame cửa hàng Nintendo Switch|Xbox|Playstation",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "7 Đ. Nguyễn Thái Sơn, Hạnh Thông, Hồ Chí Minh",
+   "phone": "0353 379 468",
+   "website": "https://boxxgame.vn/",
+   "checked_at": "2026-10-17T00:48:13Z"
+  },
+  {
+   "name": "BulbaShop - Pokémon Shop Since 2017",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Tầng 8, 251 Trần Đăng Ninh, Cầu Giấy, Hà Nội 100000",
+   "phone": "0977 179 496",
+   "website": "https://bulbashop.com/",
+   "checked_at": "2026-10-17T00:48:40Z"
+  },
+  {
+   "name": "Bánh Mì Gamestore",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "2/1, Chấn Hưng, Tân Hòa, Hồ Chí Minh 700000",
+   "phone": "0336 590 429",
+   "website": "https://banhmigames.vn/",
+   "checked_at": "2026-10-17T00:48:46Z"
+  },
+  {
+   "name": "CAMERA SHOP CHUBINH",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "3B P. Vọng Đức, Cửa Nam, Hà Nội",
+   "phone": "0834 968 888",
+   "website": "https://chubinhcamera.vn/",
+   "checked_at": "2026-10-17T00:49:24Z"
+  },
+  {
+   "name": "Collective Memory - The House of Curios",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "12 P. Nhà Chung, Hoàn Kiếm, Hà Nội 100000",
+   "phone": "0986 474 243",
+   "website": "https://collectivememory.vn/",
+   "checked_at": "2026-10-17T00:49:50Z"
+  },
+  {
+   "name": "ComicHouse",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "303 Phan Châu Trinh, Hải Châu, Đà Nẵng 50000",
+   "phone": "0934 605 793",
+   "website": "https://shopee.vn/comichouse93?mmp_pid=an_17306530248&uls_trackid=56t5atfr00un&utm_campaign=-&utm_content=product&utm_medium=affiliates&utm_source=an_17306530248&utm_term=fpmhnecsqbr7",
+   "checked_at": "2026-10-17T00:50:20Z"
+  },
+  {
+   "name": "Comicola Hà Nội",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "20 Ng. 7 P. Thái Hà, Đống Đa, Hà Nội 100000",
+   "phone": "0388 888 262",
+   "website": "https://vn.comicola.com/",
+   "checked_at": "2026-10-17T00:49:58Z"
+  },
+  {
+   "name": "COSY Toys Danang- Đồ chơi trẻ em Đà Nẵng",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "38A_17, Nguyễn Hữu Thọ, Hòa Cường, Đà Nẵng 50000",
+   "phone": "0905 054 428",
+   "website": "https://cosymart.vn/",
+   "checked_at": "2026-10-17T00:50:11Z"
+  },
+  {
+   "name": "Cua hang game trong le",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "592 / 2, 592/2 Vĩnh Viễn, Diên Hồng, Hồ Chí Minh",
+   "phone": "0909 132 136",
+   "website": "https://gameshoptl.com/",
+   "buylist_url": "https://gameshoptl.com/buylist",
+   "checked_at": "2026-10-17T00:48:22Z"
+  },
+  {
+   "name": "Cá Voi Yugioh Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Số 86, hẻm 86/16/23 Tô Vĩnh Diện, Khương Đình, Hà Nội",
+   "phone": "0333 111 308",
+   "website": "https://cavoiyugiohshop.com/",
+   "checked_at": "2026-10-17T00:49:00Z"
+  },
+  {
+   "name": "CÔNG TY CP IN & TRUYỀN THÔNG ROYAL VIỆT NAM (ROYAL VIETNAM PRINTING AND COMMUNICATION.,JSC)",
+   "group": "unknown",
+   "city": "Việt Yên",
+   "region": "Hưng Yên",
+   "address": "Thôn, Bình Phú, Việt Yên, Hưng Yên 17716",
+   "phone": "0967 366 388",
+   "website": "http://www.inroyal.vn/",
+   "checked_at": "2026-10-17T00:49:35Z"
+  },
+  {
+   "name": "CÔNG TY THẺ CHUYÊN NGHIỆP",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "6 Đ. DHT 21, Đông Hưng Thuận, Hồ Chí Minh 700000",
+   "phone": "028 3810 8004",
+   "website": "https://procard.com.vn/",
+   "checked_at": "2026-10-17T00:48:22Z"
+  },
+  {
+   "name": "Công Ty TNHH Giang Duy Đạt",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "463 Đ. Giải Phóng, Tương Mai, Hà Nội 100000",
+   "phone": "0918 926 655",
+   "website": "https://giangduydat.vn/",
+   "checked_at": "2026-10-17T00:49:17Z"
+  },
+  {
+   "name": "CÔNG TY TNHH TMDV CƯỜNG THỊNH",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "449 Nguyễn Kiệm, Đức Nhuận, Hồ Chí Minh 700000",
+   "phone": "028 3995 6959",
+   "website": "https://tbso.vn/",
+   "checked_at": "2026-10-17T00:48:01Z"
+  },
+  {
+   "name": "Cửa Hàng Pop Mart - KBOXx",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "87 Lê Văn Duyệt, Gia Định, Hồ Chí Minh",
+   "phone": "0942 458 145",
+   "website": "https://projectk.vn/",
+   "checked_at": "2026-10-17T00:48:30Z"
+  },
+  {
+   "name": "Cửa Hàng Ảo Thuật QQ",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Vinata Towers 2B Apartment, 289 Khuất Duy Tiến, Thăng Long Number One, Đại Mỗ, Hà Nội 100000",
+   "phone": "0868 686 925",
+   "website": "http://qqmagicstore.com/",
+   "checked_at": "2026-10-17T00:49:41Z"
+  },
+  {
+   "name": "Danang Bookstore",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "76, 78 Bạch Đằng, Hải Châu, Đà Nẵng 550000",
+   "phone": "0236 3849 707",
+   "website": "https://www.danangbook.com/",
+   "checked_at": "2026-10-17T00:50:21Z"
+  },
+  {
+   "name": "Day Dreams Yugioh Coffee",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "648 Cách Mạng Tháng Tám, Nhiêu Lộc, Hồ Chí Minh",
+   "website": "http://sandh-zvg.com/zokvisitor/6b0838f6-c9c4-11f1-9fdb-12fff945348b/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=6b133573-c9c4-11f1-9fdb-12fff945348b",
+   "checked_at": "2026-10-17T00:48:06Z"
+  },
+  {
+   "name": "Empire Central Stores - 16 Quách Văn Tuấn",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "16 Quách Văn Tuấn, Bảy Hiền, Hồ Chí Minh 72111",
+   "phone": "0394 581 861",
+   "website": "https://empirecentral.vn/",
+   "checked_at": "2026-10-17T00:47:51Z"
+  },
+  {
+   "name": "Fahasa Book Store",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "338 P. Xã Đàn, Văn Miếu - Quốc Tử Giám, Hà Nội 100000",
+   "phone": "024 3573 8739",
+   "website": "https://fahasasg.com.vn/",
+   "checked_at": "2026-10-17T00:49:57Z"
+  },
+  {
+   "name": "FAHASA Da Nang Bookstore",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "300 Lê Duẩn, Thanh Khê, Đà Nẵng 550000",
+   "phone": "0236 3647 707",
+   "website": "https://fahasasg.com.vn/",
+   "checked_at": "2026-10-17T00:50:23Z"
+  },
+  {
+   "name": "Floating Dojo LGS",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "21/535 Kim Ma, Bah Dinh, Hanoi, Hanoi, 10000, Viet Nam",
+   "phone": "+84357232872",
+   "website": "https://www.floatingdojo.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Fm Coffee Shop",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "56 Đ. Phước Hưng, An Đông, Hồ Chí Minh 700000",
+   "phone": "0768 772 788",
+   "website": "https://fmshopvn.com/",
+   "checked_at": "2026-10-17T00:48:30Z"
+  },
+  {
+   "name": "Funny Shop (Yugioh Funny Shop & G's Funny Shop)",
+   "group": "unknown",
+   "region": "Cần Thơ",
+   "address": "101 Ấp Thới Hòa C, Ô Môn, Cần Thơ 94000",
+   "phone": "0978 222 467",
+   "website": "https://shopee.vn/123master1?categoryId=100639&entryPoint=ShopByPDP&itemId=29051565409&mmp_pid=an_17065900003&uls_trackid=56t5api600j2&utm_campaign=id_ApkzTNUzvZ&utm_content=----&utm_medium=affiliates&utm_source=an_17065900003&utm_term=fpmhj76yhjpb",
+   "checked_at": "2026-10-17T00:49:39Z"
+  },
+  {
+   "name": "GACHA CENTER",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "139A Đ. Trần Huy Liệu, P, Phú Nhuận, Hồ Chí Minh 72200",
+   "phone": "0784 689 998",
+   "website": "https://gachacenter.com.vn/",
+   "checked_at": "2026-10-17T00:48:29Z"
+  },
+  {
+   "name": "Gachabond - Trading Card Game Shop",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "890 Trần Cao Vân, Thanh Khê, Đà Nẵng 550000",
+   "phone": "0935 016 932",
+   "website": "https://gachabond.com/",
+   "checked_at": "2026-10-17T00:50:08Z"
+  },
+  {
+   "name": "GamesCenter Store",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "38C P. Lý Nam Đế, Hoàn Kiếm, Hà Nội 100000",
+   "phone": "0345 856 789",
+   "website": "https://www.gamescenter.vn/",
+   "checked_at": "2026-10-17T00:49:06Z"
+  },
+  {
+   "name": "Gameshop",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "14 Hoa Sữa, Cầu Kiệu, Hồ Chí Minh 700000",
+   "phone": "0937 802 306",
+   "website": "https://muagame.vn/",
+   "checked_at": "2026-10-17T00:48:25Z"
+  },
+  {
+   "name": "GEARVN Hoàng Hoa Thám",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "82 Hoàng Hoa Thám, Bảy Hiền, Hồ Chí Minh 700000",
+   "website": "https://gearvn.com/",
+   "checked_at": "2026-10-17T00:48:06Z"
+  },
+  {
+   "name": "Geeky Mart LGS",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "83 Thảo Điền, An Khánh, Hồ Chí Minh 700000",
+   "phone": "0985 104 031",
+   "website": "https://geekymart.vn/",
+   "checked_at": "2026-10-17T00:47:49Z"
+  },
+  {
+   "name": "GEMPOKER | Cung cấp phỉnh chip Poker, bài Tây nhựa, bàn ghế và phụ kiện Poker Cao Cấp",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "456/59 Cao Thắng, Hòa Hưng, Hồ Chí Minh 72510",
+   "phone": "0938 839 566",
+   "website": "https://gempoker.vn/",
+   "checked_at": "2026-10-17T00:48:02Z"
+  },
+  {
+   "name": "Gg Club Boardgame",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "15G P. Bùi Ngọc Dương, Bạch Mai, Hoàn Kiếm, Hà Nội, Vietnam, Hà Nội",
+   "phone": "+84 96 297 68 41",
+   "website": "https://ggstore.vn/?fbclid=IwAR3Zil9VtwpS6gljbCepoRRWy26Ya1kaV5X9JfLSxY7cEJqC0C5QZ79dWV8",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Gundamchat Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "80 P. Dịch Vọng, Cầu Giấy, Hà Nội 100000",
+   "phone": "0981 313 335",
+   "website": "https://gundamchat.com/",
+   "checked_at": "2026-10-17T00:49:47Z"
+  },
+  {
+   "name": "HALO",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "92 Pasteur, Sài Gòn, Hồ Chí Minh 700000",
+   "phone": "028 7306 8666",
+   "website": "https://haloshop.vn/",
+   "checked_at": "2026-10-17T00:48:35Z"
+  },
+  {
+   "name": "Haze Toys - Figure & Hobby",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "9 Hàng Đường, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000",
+   "phone": "0849 231 999",
+   "website": "https://hazetoys.com/",
+   "checked_at": "2026-10-17T00:49:47Z"
+  },
+  {
+   "name": "HERO GAME - Game Machine And Accessories",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "200 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh 70000",
+   "phone": "0906 221 218",
+   "website": "https://herogame.vn/",
+   "checked_at": "2026-10-17T00:48:34Z"
+  },
+  {
+   "name": "Hero Game Hà Nội",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "20 P. Ngọc Khánh, Giảng Võ, Hà Nội 100000",
+   "phone": "0937 666 822",
+   "website": "https://herogame.vn/",
+   "checked_at": "2026-10-17T00:49:08Z"
+  },
+  {
+   "name": "Hobby Center - Quận 11",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "Shop house Chung cư Hoa Sen, 262/20 Lạc Long Quân, Bình Thới, Hồ Chí Minh 700000",
+   "phone": "0763 152 125",
+   "website": "https://hobbycenter.vn/",
+   "buylist_url": "https://hobbycenter.vn/page/services/thu-mua-the-bai",
+   "mail_in": true,
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Hotgear",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "203 Đ. Nguyễn Thượng Hiền, Bình Lợi Trung, Hồ Chí Minh",
+   "phone": "0946 700 006",
+   "website": "https://hotgear.vn/",
+   "checked_at": "2026-10-17T00:48:20Z"
+  },
+  {
+   "name": "HOÀNG HÀ COMPUTER - MÁY TÍNH CŨ - MỚI - Đồ Họa - Game - Render - Văn phòng",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "2 Ngõ 93 Tô Vĩnh Diện, Khương Đình, Hà Nội 100000",
+   "phone": "0988 592 692",
+   "website": "https://maytinhhoangha.com/",
+   "checked_at": "2026-10-17T00:49:23Z"
+  },
+  {
+   "name": "HYPE ZONE",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "511 Trần Hưng Đạo, Cầu Ông Lãnh, Hồ Chí Minh 700000",
+   "phone": "0799 799 687",
+   "website": "https://hypezone.com.vn/",
+   "checked_at": "2026-10-17T00:47:50Z"
+  },
+  {
+   "name": "iCamera trading office",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "391 Đ. Trường Chinh, Khương Đình, Hà Nội 10000",
+   "phone": "0919 699 983",
+   "website": "https://icamera.vn/",
+   "checked_at": "2026-10-17T00:49:18Z"
+  },
+  {
+   "name": "Investment Company Limited Trading & Services Vietnam Hoang",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "22 Ng. 141 Đ. Nguyễn Khang, Yên Hòa, Hà Nội",
+   "phone": "024 3839 8688",
+   "website": "https://vanphongphamviethoang.vn/",
+   "checked_at": "2026-10-17T00:49:29Z"
+  },
+  {
+   "name": "Iron Hammer",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "47 Huynh Thuc Khang, Lang Ha Ward, Hanoi, Hanoi, 100000, Viet Nam",
+   "phone": "+84385393046",
+   "website": "https://ironhammer.vn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "JunTCG",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "đường Đê Quai/Số 54 P. Tứ Liên, quận, Hồng Hà, Hà Nội 100000",
+   "phone": "0984 593 382",
+   "website": "https://juntcg.com/",
+   "checked_at": "2026-10-17T00:49:01Z"
+  },
+  {
+   "name": "Kawaii Kulture",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "21 Đầm Rong 1, Hải Châu, Đà Nẵng 550000",
+   "phone": "0367 414 859",
+   "website": "https://kawaikulture.vn/",
+   "checked_at": "2026-10-17T00:50:02Z"
+  },
+  {
+   "name": "Kisara Board Game Cafe",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "69/58 Nguyễn Trãi, Chợ Quán, Hồ Chí Minh 700000",
+   "phone": "0374 193 272",
+   "website": "https://kisara.vn/",
+   "checked_at": "2026-10-17T00:47:56Z"
+  },
+  {
+   "name": "Kute Land",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "62 Lê Hữu Trác, An Hải, Đà Nẵng 550000",
+   "phone": "0905 388 197",
+   "website": "https://shopee.vn/kuteland",
+   "checked_at": "2026-10-17T00:50:05Z"
+  },
+  {
+   "name": "Legendary Yugioh",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Số 17 Ng. 221 P. Trung Kính, Yên Hòa, Hà Nội",
+   "phone": "0936 378 812",
+   "website": "https://legendyugioh.vn/",
+   "checked_at": "2026-10-17T00:49:01Z"
+  },
+  {
+   "name": "M Figure - Genuine Anime Figure & Trading Card Games",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "106 Tôn Đức Thắng, Ô Chợ Dừa, Hà Nội 100000",
+   "phone": "0987 770 035",
+   "website": "https://mfigure.vn/",
+   "checked_at": "2026-10-17T00:48:59Z"
+  },
+  {
+   "name": "M.A.S Store",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "456/59 Cao Thắng, Hòa Hưng, Hồ Chí Minh 72510",
+   "phone": "0937 839 566",
+   "website": "https://baitaynhua.com/",
+   "checked_at": "2026-10-17T00:48:12Z"
+  },
+  {
+   "name": "M2 DUEL Store",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "186 Nguyễn Văn Khạ, Tân An Hội, Hồ Chí Minh 733000",
+   "phone": "0938 144 068",
+   "website": "https://pro.m2duelstore.com/",
+   "checked_at": "2026-10-17T00:47:56Z"
+  },
+  {
+   "name": "MCGame Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "3 P. Hàng Mành, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội",
+   "phone": "0903 296 585",
+   "website": "https://mcgame.vn/",
+   "checked_at": "2026-10-17T00:49:38Z"
+  },
+  {
+   "name": "Merry Meeple",
+   "group": "unknown",
+   "region": "Thành phố Hồ Chí Minh",
+   "address": "34 Trương Quốc Dung, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh",
+   "phone": "+84 93 867 14 37",
+   "website": "https://merry-meeple.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "Metro TCG",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "277 Võ Nguyên Giáp, P, An Khánh, Hồ Chí Minh 700000",
+   "website": "https://ipptravelretail.vn",
+   "checked_at": "2026-10-17T00:48:37Z"
+  },
+  {
+   "name": "MIMIGAME SHOP",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "13 Lý Chính Thắng, Xuân Hòa, Hồ Chí Minh",
+   "phone": "0902 891 881",
+   "website": "https://mimigame.vn/",
+   "checked_at": "2026-10-17T00:47:57Z"
+  },
+  {
+   "name": "Momotarou",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "Tầng 2, 11 Sư Vạn Hạnh, Hòa Hưng, Hồ Chí Minh",
+   "website": "https://momotarou.vn/",
+   "checked_at": "2026-10-17T00:48:19Z"
+  },
+  {
+   "name": "Mykingdom",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "21 Yên Bái, Hải Châu, Đà Nẵng 550000",
+   "phone": "0236 3522 379",
+   "website": "https://www.mykingdom.com.vn/",
+   "checked_at": "2026-10-17T00:50:12Z"
+  },
+  {
+   "name": "Mác Store - Macbook & Phụ Kiện",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "94 P. Thái Hà, Đống Đa, Hà Nội 11515",
+   "phone": "0374 611 111",
+   "website": "https://macstore.vn/",
+   "checked_at": "2026-10-17T00:49:37Z"
+  },
+  {
+   "name": "NINTCG",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "no. 51, Thinh Hao 1 alley, O Cho Dua ward, Hanoi, Hanoi, 100000, Viet Nam",
+   "phone": "+84945020899",
+   "website": "https://nintcg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "nShop Hà Nội | Game & Hobby",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "190 P. Kim Mã, Ngọc Hà, Hà Nội 11112",
+   "phone": "0966 190 676",
+   "website": "https://www.nshop.com.vn/",
+   "checked_at": "2026-10-17T00:48:59Z"
+  },
+  {
+   "name": "nShop Lotte Mall Tây Hồ",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Tầng 3, TTTM, 272 Đ. Võ Chí Công, Khu đô thị Ciputra, Phú Thượng, Hà Nội 100000",
+   "website": "https://www.nshop.com.vn/",
+   "checked_at": "2026-10-17T00:49:47Z"
+  },
+  {
+   "name": "nShop Quận 1 | Game & Hobby",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "239 Trần Quang Khải, Tân Định, Hồ Chí Minh 700000",
+   "phone": "0372 766 239",
+   "website": "http://nshop.com.vn/",
+   "checked_at": "2026-10-17T00:47:46Z"
+  },
+  {
+   "name": "Omocha pop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "2b P. Thịnh Yên, Hai Bà Trưng, Hà Nội 100000",
+   "phone": "0917 391 989",
+   "website": "https://funkopopvietnam.com/",
+   "checked_at": "2026-10-17T00:49:50Z"
+  },
+  {
+   "name": "Phin Bar by refined. Specialty Coffee",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "43 P. Văn Miếu, Văn Miếu - Quốc Tử Giám, Hà Nội 10000",
+   "phone": "0346 382 691",
+   "website": "https://www.refined.vn/",
+   "checked_at": "2026-10-17T00:49:33Z"
+  },
+  {
+   "name": "PokeCorner - Mô Hình Pokemon, Bài Pokemon TCG",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "60/61 Lý Chính Thắng, Xuân Hòa, Hồ Chí Minh 700000",
+   "phone": "0932 788 593",
+   "website": "https://pokecorner.vn/",
+   "checked_at": "2026-10-17T00:48:08Z"
+  },
+  {
+   "name": "PokeHub TCG - Cửa hàng thẻ bài sưu tập",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "60/26 Tuệ Tĩnh, Phường Phú Thọ, Phú Thọ, Hồ Chí Minh",
+   "phone": "0387 980 081",
+   "website": "https://pokehubtcg.vn/",
+   "checked_at": "2026-10-17T00:47:45Z"
+  },
+  {
+   "name": "pokemon danang",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "379 Ng. Quyền, An Hải, Đà Nẵng 550000",
+   "website": "https://shopee.vn",
+   "checked_at": "2026-10-17T00:50:01Z"
+  },
+  {
+   "name": "Poro TCG",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "382/23 Nguyễn Thị Minh Khai, P, Bàn Cờ, Hồ Chí Minh",
+   "phone": "0888 802 526",
+   "website": "https://porotcg.com/",
+   "checked_at": "2026-10-17T00:48:54Z"
+  },
+  {
+   "name": "Rabby TCG",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "159 Bùi Minh Trực, Bình Đông, Hồ Chí Minh 700000",
+   "phone": "0707 990 303",
+   "website": "https://rabbytcg.com/",
+   "checked_at": "2026-10-17T00:48:11Z"
+  },
+  {
+   "name": "Saigon Centre",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "65 - 67 Lê Lợi, Sài Gòn, Hồ Chí Minh 71016",
+   "phone": "028 3829 4888",
+   "website": "https://shopping.saigoncentre.com.vn/vi",
+   "checked_at": "2026-10-17T00:48:14Z"
+  },
+  {
+   "name": "SCM x St.B The Station: Hobby & Coffee",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "50A Ng. 399 Đ. Âu Cơ, Tây Hồ, Hà Nội 100000",
+   "phone": "0827 857 628",
+   "website": "https://scmhobbystore.com/expired",
+   "checked_at": "2026-10-17T00:49:02Z"
+  },
+  {
+   "name": "Shop Bài Tây VN",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "17 Phan Chu Trinh, Tân Sơn Nhì, Hồ Chí Minh 700000",
+   "phone": "0932 759 553",
+   "website": "http://www.baitay.vn/",
+   "checked_at": "2026-10-17T00:48:20Z"
+  },
+  {
+   "name": "Shop Craft Link",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "51 P. Văn Miếu, Văn Miếu - Quốc Tử Giám, Hà Nội",
+   "phone": "024 3733 6101",
+   "website": "http://craftlink.com.vn/vn/about-craftlink/Gioi-thieu-Craft-Link.html",
+   "checked_at": "2026-10-17T00:49:12Z"
+  },
+  {
+   "name": "Shop Game Lý",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "86/11 Liên Khu 2-5, Bình Trị Đông, Hồ Chí Minh 749000",
+   "phone": "0942 156 735",
+   "website": "https://www.tiemmaygame1990hoido.vn/",
+   "checked_at": "2026-10-17T00:48:05Z"
+  },
+  {
+   "name": "Speed Computer - PC Gaming, PC Đồ Họa - Render, PC Văn Phòng, Workstations, Linh Kiện Chính Hãng",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "Ngõ 533 Tam Trinh Số nhà 19, ngõ 533 đường Tam Trinh Hà Nội, Hoàng Mai, Hà Nội",
+   "phone": "0916 016 866",
+   "website": "https://speedcom.vn/",
+   "checked_at": "2026-10-17T00:49:14Z"
+  },
+  {
+   "name": "T69 Shop",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "556C Đ. Minh Phụng, Bình Thới, Hồ Chí Minh",
+   "phone": "0909 128 323",
+   "website": "https://t69shop.vn/",
+   "checked_at": "2026-10-17T00:47:57Z"
+  },
+  {
+   "name": "The Arena",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "Ward, 5 Trường Sa, Street, Ngũ Hành Sơn, Đà Nẵng 550000",
+   "phone": "0236 3981 234",
+   "website": "https://www.hyatt.com/en-US/hotel/vietnam/hyatt-regency-danang-resort-and-spa/danhr?src=nplk-danhr-lclb-the-arena",
+   "checked_at": "2026-10-17T00:50:14Z"
+  },
+  {
+   "name": "The Happy Box Cafe",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "176 QL13, Bình Thạnh, Hồ Chí Minh",
+   "phone": "0911 581 009",
+   "website": "https://amacomics.com/",
+   "checked_at": "2026-10-17T00:48:50Z"
+  },
+  {
+   "name": "THEGIOIPOKER | Chip Poker, Phỉnh Poker, Bài Tây Nhựa ,Thảm Poker, Bàn Poker & Phụ Kiện Poker Chính Hãng",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "394/3 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh",
+   "phone": "0981 714 999",
+   "website": "https://thegioipoker.vn/",
+   "checked_at": "2026-10-17T00:48:02Z"
+  },
+  {
+   "name": "Thợ Săn Voucher",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "04 Điện Biên Phủ, P, Thanh Khê, Đà Nẵng 55000",
+   "phone": "0961 894 472",
+   "website": "https://thosanvoucher.com/",
+   "checked_at": "2026-10-17T00:50:19Z"
+  },
+  {
+   "name": "TokyoCamera Đà Nẵng (Hàm Nghi)",
+   "group": "unknown",
+   "region": "Đà Nẵng",
+   "address": "165 Hàm Nghi, Phường, Thanh Khê, Đà Nẵng 550000",
+   "phone": "0588 268 286",
+   "website": "https://tokyocamera.vn/",
+   "checked_at": "2026-10-17T00:50:10Z"
+  },
+  {
+   "name": "Topo Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "35 Ng. 41 P. Thái Hà, Đống Đa, Hà Nội 63000",
+   "phone": "0866 456 828",
+   "website": "https://toposhop.vn/",
+   "checked_at": "2026-10-17T00:49:04Z"
+  },
+  {
+   "name": "Toyist Zone",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "200/3 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh 72217",
+   "phone": "0866 777 320",
+   "website": "https://toyist.zone/",
+   "checked_at": "2026-10-17T00:48:34Z"
+  },
+  {
+   "name": "TOYS IN ME - LÊ VĂN SỸ",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "355 Đ. Lê Văn Sỹ, Nhiêu Lộc, Hồ Chí Minh 70000",
+   "phone": "0836 622 889",
+   "website": "https://toysinme.vn/",
+   "checked_at": "2026-10-17T00:48:34Z"
+  },
+  {
+   "name": "Trong'sCompany - Tổng kho Tân Phú",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "32 Tân Thắng, Celadon City, Tân Sơn Nhì, Hồ Chí Minh 700000",
+   "phone": "0915 493 137",
+   "website": "https://songanhiet.com/",
+   "checked_at": "2026-10-17T00:48:15Z"
+  },
+  {
+   "name": "TTD Shop",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "130 P. Quan Nhân, Thanh Xuân, Hà Nội 10000",
+   "phone": "0969 974 974",
+   "website": "http://ttdshop.com/",
+   "checked_at": "2026-10-17T00:49:23Z"
+  },
+  {
+   "name": "Táo Đen Shop - Số 10 Hàng Bún",
+   "group": "unknown",
+   "region": "Hà Nội",
+   "address": "10 P. Hàng Bún, Ba Đình, Hà Nội",
+   "phone": "0366 919 191",
+   "website": "https://taodenshop.com/",
+   "checked_at": "2026-10-17T00:49:13Z"
+  },
+  {
+   "name": "UNIK BRICK (shop đồ chơi Lego)",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "158 Ba Đình, Chánh Hưng, Hồ Chí Minh 70000",
+   "phone": "0907 414 041",
+   "website": "https://unikbrick.com/",
+   "checked_at": "2026-10-17T00:48:47Z"
+  },
+  {
+   "name": "Vesta Lifestyle & Gifts - Flagship store",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "34 Ngô Quang Huy, An Khánh, Hồ Chí Minh 700000",
+   "phone": "0702 446 153",
+   "website": "http://vestalifestyle.com/",
+   "checked_at": "2026-10-17T00:48:02Z"
+  },
+  {
+   "name": "Wolf Gang - Hobby Store",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "285 Hiền Vương, Phú Thạnh, Hồ Chí Minh 700000",
+   "phone": "0838 682 023",
+   "website": "https://wolfgang.kiotvietweb.vn/",
+   "checked_at": "2026-10-17T00:48:06Z"
+  },
+  {
+   "name": "YGO Việt Nam",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "B13, 39KA Ấp 2, Tân Vĩnh Lộc, Hồ Chí Minh",
+   "website": "https://ygovietnam.com/",
+   "checked_at": "2026-10-17T00:48:51Z"
+  },
+  {
+   "name": "Ảo Thuật HL Magic Shop - Shop đồ chơi ảo thuật - Shop bài tây",
+   "group": "unknown",
+   "city": "Thành phố Hồ Chí Minh",
+   "region": "Hồ Chí Minh",
+   "address": "399/3 Lý Thái Tổ, Vườn Lài, Hồ Chí Minh 72507",
+   "phone": "0913 511 185",
+   "website": "https://shopee.vn/hl_magic",
+   "checked_at": "2026-10-17T00:48:06Z"
+  }
+ ]
+}

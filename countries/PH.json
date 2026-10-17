@@ -1,0 +1,4066 @@
+{
+ "country": "PH",
+ "currency": "PHP",
+ "updated": "2026-10-16",
+ "store_count": 406,
+ "stores": [
+  {
+   "name": "Block 101 Hobbies Store",
+   "group": "public_buylist",
+   "city": "Mandaluyong",
+   "region": "Metro Manila",
+   "address": "G/F Royal Plaza Building, #14, Mandaluyong, 00, 1550, Philippines",
+   "phone": "+639561304699",
+   "website": "https://blk101.com/",
+   "buylist_url": "https://blk101.com/sell-your-cards/",
+   "credit_bonus": "Store credit payout option (account required)",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:14Z"
+  },
+  {
+   "name": "Block 101 Hobbies Store",
+   "group": "public_buylist",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "G/F, The Royal Plaza Commercial Center, 14 Domingo M. Guevara, Mandaluyong City, 1550 Metro Manila",
+   "phone": "0962 709 6549",
+   "website": "https://blk101.com/",
+   "buylist_url": "https://blk101.com/sell-your-cards/",
+   "credit_bonus": "Store credit payout option (account required)",
+   "checked_at": "2026-10-17T00:37:00Z"
+  },
+  {
+   "name": "Contemporary Nook",
+   "group": "public_buylist",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "LG01 Torre Lorenzo Loyola, 91 Rosa Alvero St, Quezon City, Metro Manila, 1108, Philippines",
+   "phone": "+6309943411633",
+   "website": "https://www.contemporarynook.com/",
+   "buylist_url": "https://www.contemporarynook.com/shop/buylist",
+   "credit_bonus": "+10% on top of cash offer if taking store credit",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:21Z"
+  },
+  {
+   "name": "Games Haven (Philippines)",
+   "group": "login_required",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "10 Anonas, Quirino 3A, Quezon City, National Capital Region, 1110, Philippines",
+   "phone": "+639185444114",
+   "website": "https://www.gameshaventcg.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:15Z"
+  },
+  {
+   "name": "Top Deck Games and Hobbies",
+   "group": "login_required",
+   "city": "Cagayan de Oro",
+   "region": "Northern Mindanao",
+   "address": "FJGV+GRJ, Hayes St, Cagayan de Oro, Misamis Oriental, Philippines, Cagayan de Oro, Northern Mindanao",
+   "phone": "+63 917 772 1596",
+   "website": "https://topdeckph.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:40Z"
+  },
+  {
+   "name": "VCS Toys Trading",
+   "group": "quote_only",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "LL123 Upper Ground Floor, Circuit Lane, Brgy. Carmona, Ayala Malls, Makati, Metropolitan Manila, 1207, Philippines",
+   "phone": "+639989735010",
+   "website": "https://www.vaultcardshop.com/",
+   "buylist_url": "https://www.vaultcardshop.com/sell-us-your-cards/",
+   "credit_bonus": "Cash or store credit",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Aerophone",
+   "group": "blocked",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "G/F Go Lokal Stall, Across Rustans, ayala center cebu, Cebu City, 6000 Cebu",
+   "phone": "(032) 341 4297",
+   "website": "http://www.aerophone.com.ph/",
+   "checked_at": "2026-10-17T00:38:38Z"
+  },
+  {
+   "name": "FG Davao - Flowers Gifts Delivery",
+   "group": "blocked",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "123 Lopez Jaena Street, Corner Lastimosa Alley, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "0998 579 5720",
+   "website": "https://fgdavao.com/",
+   "checked_at": "2026-10-17T00:38:54Z"
+  },
+  {
+   "name": "Fully Booked (SM City Cebu)",
+   "group": "blocked",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "2nd Level, North Wing, SM City, Cebu City, 6000 Cebu",
+   "phone": "(032) 417 1400",
+   "website": "https://fullybookedonline.com/",
+   "checked_at": "2026-10-17T00:38:35Z"
+  },
+  {
+   "name": "Fully Booked Bonifacio High Street",
+   "group": "blocked",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Ground, B6 Bonifacio High Street, Taguig, Metro Manila",
+   "phone": "(02) 8858 7052",
+   "website": "https://fullybookedonline.com/",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Fully Booked Kinokuniya",
+   "group": "blocked",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "M24J+FXV, North Ave, Quezon City, Metro Manila",
+   "phone": "(02) 8442 0132",
+   "website": "https://fullybookedonline.com/",
+   "checked_at": "2026-10-17T00:37:53Z"
+  },
+  {
+   "name": "Fully Booked Kinokuniya",
+   "group": "blocked",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2/F, Glorietta 3, Ayala Center, Makati City, Metro Manila",
+   "phone": "(02) 7752 7107",
+   "website": "https://fullybookedonline.com/",
+   "checked_at": "2026-10-17T00:37:57Z"
+  },
+  {
+   "name": "Game One Tech Store",
+   "group": "blocked",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Greenhills Mall, Greenhills Shopping Center, San Juan City, 1502 Metro Manila",
+   "phone": "0919 089 0953",
+   "website": "https://gameone.ph/",
+   "checked_at": "2026-10-17T00:38:28Z"
+  },
+  {
+   "name": "GreattoysOnline.com",
+   "group": "blocked",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "Ground Floor, Excelion Commercial Center, 2108 F. Fernando St, Sta Clara District, Pasay City, 1304 Metro Manila",
+   "phone": "(02) 7238 4712",
+   "website": "https://www.greattoysonline.com/",
+   "checked_at": "2026-10-17T00:37:21Z"
+  },
+  {
+   "name": "Hobby Alley QC",
+   "group": "blocked",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "2ND FLOOR VIRKA Bldg 1191 EDSA, Corner Roosevelt, Fernando Poe Jr. Ave, Quezon City, 1105 Metro Manila",
+   "phone": "0955 539 3676",
+   "website": "https://www.hobbyalley.biz/",
+   "checked_at": "2026-10-17T00:37:15Z"
+  },
+  {
+   "name": "MG Collectibles and Toys",
+   "group": "blocked",
+   "city": "Parañaque",
+   "region": "NCR",
+   "address": "Unit 202 Banig Bldg Parqal Mall Aseana City, Pres, Diosdado Macapagal Blvd, Brgy. Tambo, Parañaque, 1701 Metro Manila",
+   "phone": "0927 138 4151",
+   "website": "https://mgcollectiblesandtoys.ph/",
+   "checked_at": "2026-10-17T00:37:28Z"
+  },
+  {
+   "name": "A3 Rent a Book",
+   "group": "in_store",
+   "city": "Iloilo City",
+   "region": "Western Visayas",
+   "address": "113 Fuentes St, Iloilo City Proper, Iloilo City, Iloilo, Philippines, Iloilo City, Western Visayas",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Akibarahaph",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "704 A-53 Apelo Cruz, Pasay City, 1300 Kalakhang Maynila",
+   "phone": "0994 876 1923",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "All aBOARD XP Uptown Mall",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "Metro Manila",
+   "address": "131 O. Arellano, Manila, Metro Manila, Philippines, Manila, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Alter Ego",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "Metro Manila",
+   "address": "1 Garden Way, Ortigas Center, Pasig, Metro Manila, Philippines, Pasig, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Anchor Marketing",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Pacific Star Building, Gil Puyat Cor. Makati Ave, Makati City, 1206 Metro Manila",
+   "phone": "(02) 8579 6566",
+   "checked_at": "2026-10-17T00:38:00Z"
+  },
+  {
+   "name": "Apex Glory Hobby Shop Inc.",
+   "group": "in_store",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "L1 Unit 125/126/127, pavilion mall greenfield district, Highway Hills, Mandaluyong City, Metro Manila",
+   "phone": "0976 082 0810",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "Aqua Card Games Flagship Makati",
+   "group": "in_store",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "2130 Chino Roces Ave, Legazpi Village, Makati, 1230 Metro Manila, Philippines, Makati, Metro Manila, 1230",
+   "phone": "09760029722",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:40Z"
+  },
+  {
+   "name": "ARKEN - Ayala Malls Circuit",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2/F, Ayala Malls, Circuit, Makati City, 1207 Metro Manila",
+   "phone": "0953 882 6963",
+   "checked_at": "2026-10-17T00:36:47Z"
+  },
+  {
+   "name": "ARKEN CardZone",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "H2F9+5VW, Hippodromo St, Makati City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:00Z"
+  },
+  {
+   "name": "Asiandom Trading",
+   "group": "in_store",
+   "city": "Parañaque",
+   "region": "NCR",
+   "address": "9401 Urma Drive, Airport Village, Baltao Rd, Parañaque, 1700 Metro Manila",
+   "phone": "0919 338 1963",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "AstroBalloons Party Station",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "AstroBalloons, 2nd Floor, Quimpo Blvd, Talomo, Davao City, Davao del Sur",
+   "phone": "(082) 282 2222",
+   "website": "https://www.instagram.com/astrotoysph",
+   "checked_at": "2026-10-17T00:38:59Z"
+  },
+  {
+   "name": "Back Room Board Games at Honeycomb Manila",
+   "group": "in_store",
+   "city": "Pasay",
+   "region": "Metro Manila",
+   "address": "24 Diosdado Macapagal Blvd, Pasay, Metro Manila, Philippines, Pasay, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Bentley Trading",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "956 Sabino Padilla St, Binondo, Manila Metro Manila, Santa Cruz, Manila, 1008 Metro Manila",
+   "phone": "6322441928",
+   "checked_at": "2026-10-17T00:36:52Z"
+  },
+  {
+   "name": "big green monster hobby and collectibles",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "2F, Proluxe Bldg, 12 Mount Mayon St, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "0919 430 3571",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "black market",
+   "group": "in_store",
+   "city": "Digos",
+   "region": "Davao Region",
+   "address": "P9X6+F3P, Marcelo del Pilar, Digos, Davao del Sur",
+   "phone": "0928 116 1475",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Booksale",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Lower Ground Floor, SM City Cebu, Juan Luna Ave Ext, Cebu City, 6000 Cebu",
+   "phone": "(02) 8819 0448",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Bright Security Training Academy, Inc.",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "4th Floor Victoria I Bldg., Quezon Ave., Q.C., South Triangle, Diliman, Quezon City, Metro Manila",
+   "phone": "0915 201 8593",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "BubbleMan Industries Inc. - UniAqua Pasig",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Ayala Malls Feliz 4th Floor Market, Finds, Pasig, 1600 Metro Manila",
+   "phone": "0976 002 9722",
+   "checked_at": "2026-10-17T00:38:28Z"
+  },
+  {
+   "name": "buy and sell",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "1, lot 3 Anahaw Rd, village, Davao City, 8000 Davao del Sur",
+   "phone": "0907 983 2101",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Card Central Cafe",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Unit 963 & 965 B6, Bonifacio High street , bgc, Taguig, Metro Manila",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Card Oppa",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "12th st E Rodriguez Sr. Ave, Quezon City, 1102 Metro Manila",
+   "phone": "0977 377 4127",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "Card2CartPH",
+   "group": "in_store",
+   "city": "Valenzuela",
+   "region": "NCR",
+   "address": "147, Valenzuela, 1444 Metro Manila",
+   "phone": "0928 322 1335",
+   "website": "https://www.facebook.com/Card2CartPH",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "CardPro Hobbies & Collectibles",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "Metro Manila",
+   "address": "1634 9th Ave, Taguig, Metro Manila, Philippines, Taguig, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Cebu Sino Parts Services",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Purok Tiber, Cebu City, 6046 Cebu",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "Cebu Toys and Collectibles",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "7V86+6JW, White Road, Inadanan, Cebu City, 6000 Cebu",
+   "checked_at": "2026-10-17T00:38:42Z"
+  },
+  {
+   "name": "Cebu Urban Collectibles",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Lomboy St, banawa, Cebu City, 6000 Cebu",
+   "phone": "0995 100 8538",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Chemare Enterprises",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "1293, 1200 Batangas, Makati City, 1234 Metro Manila",
+   "phone": "0995 648 0012",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "CJ hub",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "62C G. Felipe Sr., San Francisco del Monte, Quezon City, 1104 Metro Manila",
+   "phone": "0917 330 3267",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Clipper",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "3JH7+6GH, Bajada, Davao City, 8000 Davao del Sur",
+   "phone": "0917 585 2578",
+   "checked_at": "2026-10-17T00:38:59Z"
+  },
+  {
+   "name": "CM Collexion",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Fortune, Buhangin, Davao City, 8000 Davao del Sur",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "CO. The Collectible Store",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "H353+G2G, Taguig, Metro Manila",
+   "checked_at": "2026-10-17T00:37:35Z"
+  },
+  {
+   "name": "Coffee and Comics",
+   "group": "in_store",
+   "city": "Diliman",
+   "region": "NCR",
+   "address": "23 Panay Ave, Diliman, 1103 Metro Manila",
+   "phone": "0995 780 7594",
+   "checked_at": "2026-10-17T00:37:29Z"
+  },
+  {
+   "name": "Collectio",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "04 Mahinhin, Diliman, Quezon City, 1101 Kalakhang Maynila",
+   "phone": "0905 454 6016",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "Collectors Pad - Banawe, Quezon City",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "808 Banawe St, Quezon City, 1105 Metro Manila",
+   "phone": "0915 992 2250",
+   "website": "http://www.instagram.com/collectorspad",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "Copy mo Copy ko",
+   "group": "in_store",
+   "address": "Block 21 Lot 11 Kapayapaan Village, Asia 1, Canlubang,",
+   "phone": "+639275457622",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:27Z"
+  },
+  {
+   "name": "Cotton's TCG PH",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "1st Ave, Laura Dr, Bagumbayan, Taguig, 1630 Metro Manila",
+   "phone": "0954 337 3253",
+   "checked_at": "2026-10-17T00:38:09Z"
+  },
+  {
+   "name": "Courtside",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Level 2, Robinsons Galleria, Ortigas Ave, Ortigas Center, Quezon City, Metro Manila",
+   "checked_at": "2026-10-17T00:36:50Z"
+  },
+  {
+   "name": "Cram Sessions X Hobby Shop",
+   "group": "in_store",
+   "city": "Marikina",
+   "region": "NCR",
+   "address": "63 Gen. Ordoñez St, Marikina, 1810 Metro Manila",
+   "website": "https://www.facebook.com/cramsessionph",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "D6 Games Online Store",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1443 R Cristobal St, Sampaloc, Manila, 1008 Metro Manila",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Datablitz",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "HXGM+CP7, Pedro Gil St, Ermita, Manila, 1000 Metro Manila",
+   "phone": "(02) 8536 3308",
+   "checked_at": "2026-10-17T00:37:26Z"
+  },
+  {
+   "name": "Davao City Times Trading Inc",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "16 J. Palma Gil St, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 221 2112",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "Decked Out Cafe",
+   "group": "in_store",
+   "city": "Cabuyao City",
+   "region": "Calabarzon",
+   "address": "Zion Rd, Cabuyao City, 4025 Laguna, Philippines, Cabuyao City, Calabarzon, 4025",
+   "phone": "09178852850",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:47Z"
+  },
+  {
+   "name": "Dibs Pack",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "10C Countryside, Manila, Metro Manila",
+   "phone": "0991 519 2249",
+   "checked_at": "2026-10-17T00:38:18Z"
+  },
+  {
+   "name": "Dice Box",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "Metro Manila",
+   "address": "Arca Boulevard, Corner W Union Dr, Taguig, 1633 Metro Manila, Philippines, Taguig, Metro Manila, 1633",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "DirkiieJoy",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "7VHG+5XC Villa Concepcion, Cebu City, 6000 Cebu",
+   "phone": "0950 980 3373",
+   "checked_at": "2026-10-17T00:38:46Z"
+  },
+  {
+   "name": "DNS Trading Services Corporation",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Unit 1, 101 Green Manor, 11th Street, Mariana, Quezon City, 1112 Metro Manila",
+   "phone": "0917 833 5190",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Dragon's Lair Hobby Shop",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1425 Maceda St, Sampaloc, Manila, 1008 Metro Manila",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Dunk Card",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "63-A Maria Clara St, Santa Mesa Heights, Quezon City, 1114 Metro Manila",
+   "phone": "0991 555 1456",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "EverBest Achievers International Trading Corporation",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "675 Alonzo St, Santa Cruz, Manila, 1003 Metro Manila",
+   "phone": "(02) 8733 0787",
+   "checked_at": "2026-10-17T00:36:50Z"
+  },
+  {
+   "name": "Feliz Exito Trading Corp.",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Salinas Dr, Cebu City, 6000 Cebu",
+   "checked_at": "2026-10-17T00:38:35Z"
+  },
+  {
+   "name": "Feliza Trading, Corp.",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Km. 7, Door 2, 2/F, SPK Bldg, Brgy R. Castillo St, Lanang, Davao City, 8000 Davao del Sur",
+   "checked_at": "2026-10-17T00:38:56Z"
+  },
+  {
+   "name": "Fifi's Marketplace",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "10242 San Benissa Condonimium, 1124 Quirino Hwy, Quezon City, Metro Manila",
+   "phone": "0928 503 7275",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Filbar's",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "Level-1, EM 184, Moa, Pacific Dr, Pasay City, 1300 Metro Manila",
+   "checked_at": "2026-10-17T00:37:28Z"
+  },
+  {
+   "name": "Filbar's - SM Megamall",
+   "group": "in_store",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "Unit 14A Building B SM Mega Mall 5th Floor EDSA, Corner Doña Julia Vargas Ave, Ortigas Center, Mandaluyong City, 1550 Metro Manila",
+   "phone": "0933 393 7857",
+   "website": "http://www.facebook.com/filbarsonline",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "first leads",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "15 West Ave, Project 7, Quezon City, 1105 Metro Manila",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "Forge Hobby Place Southside",
+   "group": "in_store",
+   "city": "Bacoor",
+   "region": "Calabarzon",
+   "address": "Molino Rd, Molino III, Bacoor, Cavite, Philippines, Bacoor, Calabarzon",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Fresh Cards PH",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Promenade, Greenhills, San Juan City, 1502 Metro Manila",
+   "phone": "0917 880 1435",
+   "website": "https://www.facebook.com/freshcardsph",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "G-HUB DAVAO",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "3JM4+VG, Davao City, Davao del Sur, Philippines, Davao City, Davao Region",
+   "phone": "09662584495",
+   "website": "https://www.facebook.com/ghubdavao",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Game Patch - The Console Gaming Station",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "City Triangle Building, M. Roxas Ave, Poblacion District, Davao City, Davao del Sur",
+   "phone": "3274588",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Gameline - Fairview Branch",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "SM City Fairview Main Building, Quirino Highway Corner Regalado Avenue, Pasong Putik Novaliches, Quezon City, 1118 Metro Manila",
+   "phone": "(02) 8355 6707",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "GamershopGS",
+   "group": "in_store",
+   "city": "Quezon",
+   "region": "Kalakhang Maynila",
+   "address": "138 Maginhawa, Teacher's Village East, Quezon, 1101 Kalakhang Maynila, Philippines, Quezon, Kalakhang Maynila, 1101",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Gamersloot",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "65 Salvador St, Cebu City, 6000 Cebu",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "Games and Amusements Board - Davao",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Door 2 2nd Floor Davat Building, #428 Villa Abrille St, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 227 6907",
+   "checked_at": "2026-10-17T00:38:58Z"
+  },
+  {
+   "name": "Gaming Library SM North",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "SM North Edsa North Link, North Link Access Road, Quezon City, Metro Manila, Philippines, Quezon City, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Gashapon Bandai Official Shop - One Ayala",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Level 4, Ayala Malls One, Ayala Ave, Ayala Center, Makati City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:26Z"
+  },
+  {
+   "name": "GBS Trading",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "637 Quirino Hi-Way, Quezon City, Quezon City, Metro Manila",
+   "phone": "(02) 3417 5942",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "GDC TRADE",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Rosalina Village, 1 Puan, Bago Gallera, Talomo, Davao City, 8000 Davao del Sur",
+   "phone": "0945 127 9030",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "Geek Hero+",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Unit 6 Miraluna's Apartelle, Naya Village, First St, Tisa, Cebu City, 6000 Cebu",
+   "phone": "0925 768 8888",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Geek PH - SM Mall of Asia",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "MoA Globamaze, Globe Rotunda, Pasay City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:21Z"
+  },
+  {
+   "name": "Geeks Around a Table",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "112 Kalayaan Ave, Taguig, 1214 Metro Manila",
+   "phone": "0907 596 6398",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Gembar enterprises Inc",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "H36V+XMJ Lipana, 20 Sandoval Ave, Palatiw, Pasig, 1600 Metro Manila",
+   "phone": "0991 377 3515",
+   "checked_at": "2026-10-17T00:38:21Z"
+  },
+  {
+   "name": "Genkyu TCG",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Cluster E C1, Ayala, Woodside Homes, Quezon City, 1112 Metro Manila",
+   "phone": "0928 939 7720",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Gift Shop",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Inside Philippine Eagle Foundation, Purok 5, Malagos, Baguio District, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 324 1860",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Gloree TCG",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Wellspring Village 3 Ave, Catalunan Pequeno, Davao City, 8000 Davao del Sur",
+   "phone": "0917 875 9008",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "GOAT NBA Card Shop",
+   "group": "in_store",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "113 Rt. Rev. G. Aglipay, Mandaluyong City, 1990 Metro Manila",
+   "phone": "0961 552 2507",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "Gonza Anime Merch and Hobby Shop",
+   "group": "in_store",
+   "city": "Cagayan de Oro",
+   "region": "Northern Mindanao",
+   "address": "Paladio Building, Fernandez St, Cagayan de Oro, 9000 Misamis Oriental, Philippines, Cagayan de Oro, Northern Mindanao, 9000",
+   "phone": "(088) 326 3371",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Hirec Trading",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "2947, Pilar Street, Manuguit, Tondo, 2871 Pilar St, Tondo, Manila, 1012 Metro Manila",
+   "phone": "(02) 8252 0156",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "Hobbes & Landes",
+   "group": "in_store",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "L4, 403 , Shangri-La Plaza EDSA Corner, 1650 Shaw Blvd, Ortigas Center, Mandaluyong City, Metro Manila",
+   "phone": "(02) 8637 2069",
+   "checked_at": "2026-10-17T00:38:23Z"
+  },
+  {
+   "name": "Hobbies & Comics makati",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "H227+WRQ, Makati City, Metro Manila",
+   "phone": "(02) 8811 1854",
+   "checked_at": "2026-10-17T00:37:32Z"
+  },
+  {
+   "name": "Hobby Hive",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2nd Floor, Wilcon Depot IT Hub, Chino Roces Ave, Makati City, Metro Manila",
+   "phone": "0998 557 3061",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Hobby Plus",
+   "group": "in_store",
+   "city": "Tagum",
+   "region": "Davao Region",
+   "address": "Door 6-7, NSIL Building, Tipaz St, Tagum, 8100 Davao del Norte",
+   "checked_at": "2026-10-17T00:38:59Z"
+  },
+  {
+   "name": "Hobby Stadium Inc",
+   "group": "in_store",
+   "address": "3rd floor, 84 Dona Hemady St, corner E.Rodriguez Sr, Quezon City, Metro Manila, 1112, Philippines",
+   "phone": "+639190917484",
+   "website": "https://m.facebook.com/hobbystadiumph/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Hobbyists U Toy Store",
+   "group": "in_store",
+   "city": "Muntinlupa",
+   "region": "Metro Manila",
+   "address": "2 Building, 684 National Road, Poblacion, Muntinlupa, 1776 Metro Manila, Philippines, Muntinlupa, Metro Manila, 1776",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Hope Trading",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "47 J.Cancio, Manila, Metro Manila",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "House of Cards MNL - Quezon City",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Bagong Buhay, Quezon City, 1113 Kalakhang Maynila",
+   "phone": "0991 403 6093",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "Hub4Tots Gift Shop",
+   "group": "in_store",
+   "city": "Lungsod ng Dabaw",
+   "region": "Rehiyon ng Davao",
+   "address": "Km 12, Catalunan Pequeno, Lungsod ng Dabaw, 8000 Lalawigan ng Davao del Sur",
+   "phone": "0948 919 7034",
+   "website": "https://www.facebook.com/hub4tots",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Humil International Corporation - Warehouse",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "459 Alegria Street, Sampaloc, Manila, 1008 Kalakhang Maynila",
+   "phone": "(02) 8715 0180",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "Inspiring Owl",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Toril, Davao City, Davao del Norte",
+   "phone": "0945 135 2925",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "International Regis Trading Corporation",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1873 Angel Linao St, Malate, Manila, 1004 Metro Manila",
+   "phone": "0905 274 1072",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "J Martin Consumer Goods Trading",
+   "group": "in_store",
+   "city": "Talisay",
+   "region": "Central Visayas",
+   "address": "South Central Square, Lawaan 3 St, Talisay, 6045 Cebu",
+   "phone": "0917 632 2924",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "J8th Otaku",
+   "group": "in_store",
+   "city": "General Santos City",
+   "region": "SOCCSKSARGEN",
+   "address": "Cor. Santiago Blvd, San Miguel St, General Santos City, 757695 South Cotabato, Philippines, General Santos City, SOCCSKSARGEN, 757695",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "janseen calipay garage",
+   "group": "in_store",
+   "city": "Malabon",
+   "region": "NCR",
+   "address": "MXH6+47Q Maysilo, Malabon, Metro Manila",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "JENESIS.PH INT'L.",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "BLK 184 LOT 12 JASMIN ST, C5 Service Rd, FOURTH DISTRICT, Taguig, 1218 Metro Manila",
+   "phone": "0928 517 7709",
+   "checked_at": "2026-10-17T00:38:04Z"
+  },
+  {
+   "name": "Jeyjey",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "North homes, Pedro Pablo Pelaez, Cebu City, 6009 Cebu",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "JLF Crafts and Accessories",
+   "group": "in_store",
+   "city": "Mandaue",
+   "region": "Central Visayas",
+   "address": "S.E. LLENES ST Zone Kamunggay, Pakna-an, Mandaue, 6014 Cebu",
+   "phone": "0917 631 7021",
+   "checked_at": "2026-10-17T00:38:35Z"
+  },
+  {
+   "name": "Josefa Store",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Metro Manila",
+   "address": "8V4Q+GMF, Rodriguez Ext, Sambag II, Cebu City, 6000 Metro Manila",
+   "phone": "0910 312 0210",
+   "checked_at": "2026-10-17T00:38:42Z"
+  },
+  {
+   "name": "Joyarga",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2919 Finlandia, Makati City, Metro Manila",
+   "phone": "0922 887 1054",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "Joyce Hobby Toys Shop",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "35 Teodoro Palma Gil St, Obrero, Davao City, 8000 Davao del Sur",
+   "phone": "0908 718 1488",
+   "checked_at": "2026-10-17T00:38:56Z"
+  },
+  {
+   "name": "JPR TRADING",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "sct dgeuia, SECOND DISTRICT, Quezon City, 1103 Metro Manila",
+   "phone": "0905 489 5962",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "JQSportscard and Action Figures",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "L2 B78 Sandawa Road New Matina SIR, Talomo, Davao City, 8000 Davao del Sur",
+   "phone": "0976 166 7457",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "Junkat Trading and Services",
+   "group": "in_store",
+   "city": "Talisay",
+   "region": "Central Visayas",
+   "address": "Ilang-Ilang, Talisay, Cebu",
+   "phone": "0917 775 0775",
+   "checked_at": "2026-10-17T00:38:34Z"
+  },
+  {
+   "name": "K.I.M CONSUMER GOODS TRADING",
+   "group": "in_store",
+   "city": "Mandaue",
+   "region": "Central Visayas",
+   "address": "Latasan, Labogon, Mandaue, 6014 Cebu",
+   "phone": "0908 897 0875",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "Kachi Coffee and Collectibles",
+   "group": "in_store",
+   "city": "San Juan",
+   "region": "Metro Manila",
+   "address": "299 N. Domingo, San Juan, 1500 Metro Manila, Philippines, San Juan, Metro Manila, 1500",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "kench collects",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "7 C. Benitez St, Cubao, Quezon City, 1112 Metro Manila",
+   "phone": "0917 521 7072",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "Kings of the Hardwood",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "86 Chico, Project 2, Quezon City, 1102 Kalakhang Maynila",
+   "phone": "0906 200 1369",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "KKamaro Trading",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "1033 Masbate St, Project 6, Quezon City, 1100 Metro Manila",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Kolektor NBA Cards",
+   "group": "in_store",
+   "city": "Malabon",
+   "region": "NCR",
+   "address": "black 1 lot 4, baytown homes, Gervacio St, Hulong Duhat, Malabon, 1470 Metro Manila",
+   "phone": "0910 874 5105",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Kolektors Alley",
+   "group": "in_store",
+   "city": "Caloocan",
+   "region": "NCR",
+   "address": "3rd Floor LRT Caloocan Mall (Northmall), LRT Monumento Station, 56, 1400 Rizal Avenue Ext, Grace Park East, Caloocan, Metro Manila",
+   "phone": "0999 675 3322",
+   "website": "https://www.facebook.com/kolektorsalley/",
+   "checked_at": "2026-10-17T00:36:50Z"
+  },
+  {
+   "name": "Kramer: Toy Warden Collectibles Store",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Shoppesville Plus, 3rd Floor Shoppesville Building, Greenhills Shopping Center, San Juan City, 1500 Metro Manila",
+   "phone": "0917 513 7156",
+   "checked_at": "2026-10-17T00:37:31Z"
+  },
+  {
+   "name": "La Casa de Karton",
+   "group": "in_store",
+   "city": "Pateros",
+   "region": "NCR",
+   "address": "425 S Castillo, Pateros, 1650 Metro Manila",
+   "phone": "0945 822 0718",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Legends Hobby Shop",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Erlinda Badilles, 481 Kinasang - An, Cebu City, 6000 Cebu, Philippines, Cebu City, Central Visayas, 6000",
+   "phone": "09177920888",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Long Live Play Philippines",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Estancia Mall, Capitol Commons, Camino Verde Rd, Pasig, 1600 Metro Manila",
+   "phone": "0922 836 8640",
+   "website": "http://facebook.com/longliveplayph",
+   "checked_at": "2026-10-17T00:37:11Z"
+  },
+  {
+   "name": "Louie's Hobby Collection",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "5 Versari Village Purok 6, Brgy, Bago Aplaya, Talomo, Davao City, 8000 Davao del Sur",
+   "phone": "0993 307 0034",
+   "checked_at": "2026-10-17T00:38:58Z"
+  },
+  {
+   "name": "LTAB Gaming Hub QC Branch",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "14 Ft Santiago, Bago Bantay, Quezon City, 1105 Metro Manila",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Ludo Boardgame Store",
+   "group": "in_store",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "7396 Santillan, Makati, 1230 Metro Manila, Philippines, Makati, Metro Manila, 1230",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Ludo Games Store",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "7396 Santillan, Makati City, 1230 Metro Manila",
+   "phone": "(02) 8661 4440",
+   "checked_at": "2026-10-17T00:36:53Z"
+  },
+  {
+   "name": "Ludus Distributors Corp.",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "Kalakhang Maynila",
+   "address": "194 A. Mabini, San Juan City, 1500 Kalakhang Maynila, Philippines, San Juan City, Kalakhang Maynila, 1500",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Lynx Com Trading",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Blk 55 Lot 6 Ruby, Quezon City, 1118 Metro Manila",
+   "phone": "0908 950 3044",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "M.I. Trading Inc.",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2455, Mezzanine Floor, Arsonvel, San Isidro, Makati City, 1234 Metro Manila",
+   "phone": "0917 712 7435",
+   "checked_at": "2026-10-17T00:37:58Z"
+  },
+  {
+   "name": "Mad Geeks Novelty Shop",
+   "group": "in_store",
+   "address": "2nd Floor, Allegria Plaza Mall, Avenida Rizal St.",
+   "phone": "63 (916) 422-4282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:26Z"
+  },
+  {
+   "name": "Madcap Gaming",
+   "group": "in_store",
+   "address": "#5820 UNIT 7, 2ND FLOOR, MACLANE CENTER, OLD NATIONAL HIGHWAY",
+   "phone": "0945 870 2013",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:26Z"
+  },
+  {
+   "name": "Madcap Gaming Philippines",
+   "group": "in_store",
+   "city": "San Pedro",
+   "region": "Calabarzon",
+   "address": "Unit 7 2/F, Maclane Center, Bldg Manila S Rd, San Pedro, 4023 Laguna",
+   "phone": "0945 870 2013",
+   "website": "https://www.facebook.com/madcapgamingphilippines/",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "MAETC MARAGUSAN",
+   "group": "in_store",
+   "city": "Maragusan (San Mariano)",
+   "region": "Davao Region",
+   "address": "849J+65Q, Maragusan (San Mariano), Davao de Oro",
+   "checked_at": "2026-10-17T00:38:58Z"
+  },
+  {
+   "name": "Mage-Ring",
+   "group": "in_store",
+   "city": "Dasmariñas",
+   "region": "Calabarzon",
+   "address": "8WMJ+2FR, Dasmariñas, Cavite, Philippines, Dasmariñas, Calabarzon",
+   "phone": "+639497293909",
+   "website": "https://www.facebook.com/MageRingHobbyShop",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:42Z"
+  },
+  {
+   "name": "Mage-Ring Hobby Shop",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "#52, Unit 1G Eva Commercial Building, Dasmariñas City, CAV, 4114, Philippines",
+   "phone": "+639778530446",
+   "website": "https://web.facebook.com/MageRingHobbyShop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:26Z"
+  },
+  {
+   "name": "Magic 210",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "206-210, Ermin Garcia Ave, Quezon City, 1102 Metro Manila",
+   "phone": "0995 129 1011",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Magic 3 Gaming Corporation (STL)",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "3JWC+F25, Cabaguio Ave, Agdao, Davao City, Davao del Sur",
+   "phone": "0935 925 8591",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Markobes NBA Trading Cards Davao City",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Marang street Bajada, Jereza Subdivision, Davao City, 8000 Davao del Sur",
+   "phone": "0995 412 9468",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Mav's Hobby Shop",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "S, S.H Loyola St, Sampaloc, Manila, 1008 Metro Manila",
+   "phone": "0955 966 3806",
+   "checked_at": "2026-10-17T00:37:22Z"
+  },
+  {
+   "name": "Mighty Alley Hobby Store",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "CBY Tower, Mlle. de Binondo, Binondo, Manila, 1114 Metro Manila",
+   "phone": "0928 579 3423",
+   "website": "https://www.facebook.com/share/14Y3QoFXHro/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Minna",
+   "group": "in_store",
+   "city": "Digos",
+   "region": "Davao Region",
+   "address": "2609 Estrada 3rd, Digos, Davao del Sur, Philippines, Digos, Davao Region",
+   "phone": "09301411522",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:47Z"
+  },
+  {
+   "name": "Minnano Supermarket -Japanese Grocery",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "〒1229 Metro Manila, Makati City, Legazpi Village, 197",
+   "phone": "0966 842 0491",
+   "website": "https://www.instagram.com/msuperph/",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "Monarch Games and Hobbies",
+   "group": "in_store",
+   "city": "Marikina",
+   "region": "NCR",
+   "address": "Unit 4A Phase 2, Mec Building, Midtown Subd, 2 Pitpitan, Marikina, 1801 Metro Manila",
+   "phone": "0917 795 3607",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "MonJen Toys and Collectibles",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "2917 C Cruz St, Pasay City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:35Z"
+  },
+  {
+   "name": "Moon Discounted Game Credits",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "SOCCSKSARGEN",
+   "address": "W5X4+7W2, Purok 3 Rd, NBCA, Davao City, Cotabato",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "MR trading card shop",
+   "group": "in_store",
+   "city": "Angono",
+   "region": "Calabarzon",
+   "address": "G5W6+XRJ medna, Angono, Rizal",
+   "phone": "0947 329 2940",
+   "checked_at": "2026-10-17T00:38:23Z"
+  },
+  {
+   "name": "MTG Never Stops Online",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "#2008 AF, 1004 F. Munoz St, Malate, Manila, 1004 Metro Manila",
+   "phone": "0927 432 0168",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "MTG Player's Hub",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "2008 AF, F. Munoz St, Malate, Manila, 1004 Metro Manila",
+   "phone": "0918 647 9454",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "My Breathing Space",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Unit 56-57, Cubao Expo, General Romulo Ave, Cubao, Quezon City, 1109 Metro Manila",
+   "phone": "0917 880 1347",
+   "checked_at": "2026-10-17T00:37:52Z"
+  },
+  {
+   "name": "Netco general merchandise",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Villas Pugad Lawin, Project 8, Quezon City, 1106 Kalakhang Maynila",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Neutral Grounds - Centris Walk",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "3K-3L Eton Centris EDSA Corner Quezon Avenu, Quezon City, QUE, 1100, Philippines",
+   "phone": "+6387314179",
+   "website": "https://www.facebook.com/neutralgrounds",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Neutral Grounds - IT Park",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "3RD LEVEL, AYALA MALL, Central Bloc, I. Villa St, Cebu City, 6000 Cebu",
+   "phone": "0977 801 9201",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "Neutral Grounds Centris",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "Epifanio de los Santos Ave, Quezon City, Metro Manila, Philippines, Quezon City, Metro Manila",
+   "phone": "+63 2 8376 7312",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Neutral Grounds District",
+   "group": "in_store",
+   "city": "Imus",
+   "region": "Calabarzon",
+   "address": "Daang Hari Road, cor Aguinaldo Hwy, Imus, Cavite, Philippines, Imus, Calabarzon",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Neutral Grounds GH Mall",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "Metro Manila",
+   "address": "1502 Ortigas Ave, San Juan City, Metro Manila, Philippines, San Juan City, Metro Manila",
+   "phone": "+63 9778013201",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Neutral Grounds Glorietta",
+   "group": "in_store",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "Palm Dr, Makati, Metro Manila, Philippines, Makati, Metro Manila",
+   "phone": "+63 917 838 1831",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Neutral Grounds Manila Bay",
+   "group": "in_store",
+   "city": "Parañaque",
+   "region": "Metro Manila",
+   "address": "1701 Aseana Ave, Baclaran, Parañaque, Metro Manila, Philippines, Parañaque, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Neutral Grounds Megamall",
+   "group": "in_store",
+   "city": "Mandaluyong",
+   "region": "Metro Manila",
+   "address": "1555 Epifanio de los Santos Ave, Mandaluyong, Metro Manila, Philippines, Mandaluyong, Metro Manila",
+   "phone": "+63 977 802 3201",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Neutral Grounds Vertis North",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "North Ave, Bagong Pag-asa, Quezon City, Metro Manila, Philippines, Quezon City, Metro Manila",
+   "phone": "+63 2 8292 6724",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "NEW IMAGE MULTI LINE INDUSTRIAL RESOURCES",
+   "group": "in_store",
+   "city": "Lapu-Lapu",
+   "region": "Central Visayas",
+   "address": "B12 L17 KAGUDOY RD, C, Lapu-Lapu, 6015 Cebu",
+   "phone": "(032) 348 2427",
+   "checked_at": "2026-10-17T00:38:41Z"
+  },
+  {
+   "name": "Nintendo Authorized Store",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2F, SM Makati, Makati City, Metro Manila",
+   "phone": "0917 116 9510",
+   "website": "https://www.facebook.com/NintendoAuthorizedStore/",
+   "checked_at": "2026-10-17T00:37:57Z"
+  },
+  {
+   "name": "Nissa and Hikaru Gaming Station",
+   "group": "in_store",
+   "city": "Imus",
+   "region": "Calabarzon",
+   "address": "Colonel Topacio St, Imus, Cavite, Philippines, Imus, Calabarzon",
+   "phone": "+639957540901",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:29Z"
+  },
+  {
+   "name": "Nolex Merchandising",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "M2GV+CF8, Quezon City, 1126 Metro Manila",
+   "phone": "0933 171 4343",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "NPC Cafe",
+   "group": "in_store",
+   "city": "Calamba",
+   "region": "Calabarzon",
+   "address": "404 Manila S Rd, Calamba, 4027 Laguna, Philippines, Calamba, Calabarzon, 4027",
+   "phone": "+63 917 572 7813",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:42Z"
+  },
+  {
+   "name": "On The Stack Hobby Shop",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Urban Deca Homes, Ortigas Ave, Rosario, Pasig, 1609 Metro Manila",
+   "phone": "0915 682 4008",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Ongkeco's Hobby Shop",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "Metro Manila",
+   "address": "D’ Students’ Place Bldg, 3/F, unit 3O-3P",
+   "phone": "(0917) 536 3911",
+   "website": "https://www.facebook.com/ongkeco.shop",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Otaku Toys and Collectibles",
+   "group": "in_store",
+   "city": "Digos",
+   "region": "Davao Region",
+   "address": "6th Street, Doña Aurora St, Digos, Davao del Sur",
+   "phone": "0950 375 2701",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Pack Hunter Cards",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Carlos ll building, Quimpo Blvd, Talomo, Davao City, Davao del Sur",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Panabo NBA Cards",
+   "group": "in_store",
+   "city": "Panabo",
+   "region": "Davao Region",
+   "address": "BRGY, 2131 PRK.1, San Vicente, Panabo, 8105 Davao del Norte",
+   "phone": "0985 554 1210",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Pasig Mega Market",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Pasig, Metro Manila",
+   "checked_at": "2026-10-17T00:38:20Z"
+  },
+  {
+   "name": "PC Butlers",
+   "group": "in_store",
+   "city": "Santa Rosa",
+   "region": "Calabarzon",
+   "address": "7327+369, Laguna Blvd, Don Jose, Santa Rosa, 4026 Laguna, Philippines, Santa Rosa, Calabarzon, 4026",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:42Z"
+  },
+  {
+   "name": "PC Express SM City Cebu - PCX Gaming",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "6000 Juan Luna Ext, Mabolo, Cebu City, 6000 Cebu",
+   "phone": "0908 869 4347",
+   "checked_at": "2026-10-17T00:38:48Z"
+  },
+  {
+   "name": "Play Giant",
+   "group": "in_store",
+   "city": "Makati",
+   "region": "NCR",
+   "address": "Glorietta BPO 2 Building, Palm Dr, Makati, Kalakhang Maynila",
+   "checked_at": "2026-10-17T00:38:09Z"
+  },
+  {
+   "name": "Play2Learn",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "3rd Floor, Ayala Center Cebu, Cebu Business Park",
+   "phone": "(+63) 32-415-8084",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:27Z"
+  },
+  {
+   "name": "PLAY2LEARN THE DISCOVERY TOYSHOP",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "G/F, BPI Corporate Center, Archbishop Reyes Ave, corner Luzon Ave, Cebu City, 6000 Cebu, Philippines, Cebu City, Central Visayas, 6000",
+   "phone": "0917-1697726",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Pokemon Store",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "5M74+5PF, Sarmiento - Luzville Rd, Bunawan, Davao City, Davao del Sur",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "PokéMarket Collectibles",
+   "group": "in_store",
+   "city": "Ermita",
+   "region": "Central Visayas",
+   "address": "Briones Still, 51 M C, Brgy, Ermita, 6000 Cebu",
+   "phone": "0975 427 2548",
+   "website": "https://www.facebook.com/share/g/1D63pmQSdw/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:38:49Z"
+  },
+  {
+   "name": "Pokémon Center Pop Up",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "SM Mall Of Asia, J.W. Diokno Blvd, Pasay City, 1300 Metro Manila",
+   "website": "https://www.facebook.com/Pokemon/",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Pokémon Play Hub",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Robinsons Galleria, Ortigas Ave, Ortigas Center, Quezon City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:20Z"
+  },
+  {
+   "name": "PopCulture Community",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "Eastwood City Walk, 188 Eulogio Rodriguez Jr. Ave, Bagumbayan, Quezon City, 1110 Metro Manila, Philippines, Quezon City, Metro Manila, 1110",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Precious Pages",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "SM Manila, Conception Cor Arroceros & San Marcelino, Ermita, Manila, 1000 Metro Manila",
+   "phone": "(02) 8584 8727",
+   "checked_at": "2026-10-17T00:37:32Z"
+  },
+  {
+   "name": "R & G Toys and Collectibles",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2F, Century City Mall, Makati Ave, Makati City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:35Z"
+  },
+  {
+   "name": "Ram Toys and Collectibles",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "M4X6+QGP Bona Ext, Quezon City, 1119 Metro Manila",
+   "phone": "0961 516 6276",
+   "checked_at": "2026-10-17T00:37:53Z"
+  },
+  {
+   "name": "RBC Traders",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "Navigation Lighthouse, ESTATE, San Nicolas, Manila, 1012 Metro Manila",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "Regran Toys and Collectibles",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "H3R6+W2W, Epifanio de los Santos Ave, Ortigas Center, Quezon City, 1110 Metro Manila, Philippines, Quezon City, Metro Manila, 1110",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:31Z"
+  },
+  {
+   "name": "RGK TRADING",
+   "group": "in_store",
+   "city": "Caloocan",
+   "region": "NCR",
+   "address": "phase 7b package 3 block 1 lot 33, Caloocan, 1428 Metro Manila",
+   "phone": "0995 463 9462",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "RJ STENSHYN CONSUMER GOODS TRADING",
+   "group": "in_store",
+   "city": "Barili",
+   "region": "Central Visayas",
+   "address": "4G76+3WJ, Felix Paras St, Barili, Cebu",
+   "phone": "0951 993 2899",
+   "checked_at": "2026-10-17T00:38:46Z"
+  },
+  {
+   "name": "RMDC Collections",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "1274 Damside, Compound Doña Subdivision, Commonwealth, Quezon City, 1121 Metro Manila",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "RODA Consumer Goods and Trading",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "12 E Marcela Marcelo, Makati City, 1300 Metro Manila",
+   "phone": "0922 245 4156",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "Sanmig's Collectibles",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Pres. Magsaysay St, Kasambagan, Cebu City, 6000 Cebu",
+   "phone": "0915 112 5751",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "Scrap Cartoon Buy And Sell",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "3G8Q+V94, Talomo, Davao City, Davao del Sur",
+   "phone": "0907 919 1494",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Scry Games",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "Metro Manila",
+   "address": "26 Rev. Dumandan, Pasig, 1800 Metro Manila, Philippines, Pasig, Metro Manila, 1800",
+   "phone": "+63 906 338 7858",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:29Z"
+  },
+  {
+   "name": "Side By Side Collectibles - Ayala The 30th Mall",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Ground Floor, Shuffle Hobbies, Ayala The 30th Mall, Meralco Ave, Pasig, Metro Manila",
+   "website": "http://instagram.com/sidebyside.ph/",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "Side By Side Collectibles - Promenade Mall",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Collective Base, CAB 26, Basement 2, Promenade Mall, Greenhills, San Juan City, Metro Manila",
+   "website": "http://instagram.com/sidebyside.ph/",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "SilverbackGaming",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Texas Rd, Inayawan, Cebu City, 6000 Cebu",
+   "phone": "0917 308 2750",
+   "checked_at": "2026-10-17T00:38:47Z"
+  },
+  {
+   "name": "Snad's Trading & Printing Services",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "8VMW+VMX, Cebu Veterans Dr, Cebu City, 6000 Cebu",
+   "phone": "(032) 415 2262",
+   "checked_at": "2026-10-17T00:38:35Z"
+  },
+  {
+   "name": "Southgate Mall",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Unit Space G-11d GF Southgate Mall, 2258 Chino Roces Ave, Cor Epifanio de los Santos Ave, Makati City, 1232 Metro Manila",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "Sparrow Educational Supply Depot Trading",
+   "group": "in_store",
+   "city": "Carmen",
+   "region": "Central Visayas",
+   "address": "Dawis Norte, Carmen, 6005 Cebu",
+   "checked_at": "2026-10-17T00:38:48Z"
+  },
+  {
+   "name": "Spielipinas Toys Shop",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Mango Square, General Maxilom Ave, Cebu City, 6000 Cebu, Philippines, Cebu City, Central Visayas, 6000",
+   "phone": "09959702085",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Spiral Hobby Shop",
+   "group": "in_store",
+   "city": "Caloocan",
+   "region": "Metro Manila",
+   "address": "LRT Caloocan Mall, Rizal Ave Ext, Grace Park East, Caloocan, 1400 Metro Manila, Philippines, Caloocan, Metro Manila, 1400",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Ssp Ego Trading",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "303c Roberto Oca St, Port Area, Manila, Metro Manila",
+   "phone": "(02) 8995 3842",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "STAXX Gaming Station",
+   "group": "in_store",
+   "address": "2nd Floor, 39 Constabulary Road, Veterans Village",
+   "phone": "09176645956",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:22Z"
+  },
+  {
+   "name": "STAXX Hobbies and Games",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "39 Constabulary Rd, Quezon City, Metro Manila, Philippines, Quezon City, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Tactics Collectibes",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "Metro Manila",
+   "address": "H25M+C2C, Jupiter, Makati City, Metro Manila, Philippines, Makati City, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:47Z"
+  },
+  {
+   "name": "Tamiya Yugioh Shop",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Sahara Subdivision, 11 Piko, Novaliches, Quezon City, 1116 Metro Manila",
+   "phone": "0948 383 9545",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "TCG KINGDOM",
+   "group": "in_store",
+   "city": "Caloocan",
+   "region": "NCR",
+   "address": "Caloocan, Metro Manila",
+   "phone": "0952 580 6225",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "Teikoku Rising",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "6 Temple, Forest Hill Dr, Barangay Gulog, Quezon City, 1117 Metro Manila",
+   "phone": "0905 454 7443",
+   "checked_at": "2026-10-17T00:37:40Z"
+  },
+  {
+   "name": "THAI BL MERCH",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Kd covered court, K-5th, Quezon City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "the collectible store",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Greenhills, 3F Shoppesvillle, San Juan City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "the collectible store",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "3rd floor Mountain Wing, SM Seaside City, Cebu City, 6000 Cebu",
+   "phone": "0970 070 8849",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "The Collective Hobbies",
+   "group": "in_store",
+   "city": "Cainta",
+   "region": "Calabarzon",
+   "address": "Valley Golf, Brgy, St. Martha's Valley Subd, 7625 Nazareth Street, San Juan, Cainta, 1900 Rizal",
+   "phone": "0919 069 0190",
+   "website": "https://www.facebook.com/thecollectivehobbies",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "The Devil’s Deals MTG",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Blk 28 Lot 31 Apollo St, North Olympus Subdivision, Zabarte Rd, Kaligayahan, Novaliches, Quezon City, 1124 Metro Manila",
+   "phone": "0927 968 0550",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "The Dragonforge - Katipunan",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "3rd Floor, Phase 2, UP, Diliman, Quezon City, Metro Manila",
+   "phone": "(02) 8426 2907",
+   "checked_at": "2026-10-17T00:37:45Z"
+  },
+  {
+   "name": "The Dragonforge, Inc.",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "249, 216 Katipunan Ave, Diliman, Quezon City, 1101 Metro Manila, Philippines, Quezon City, Metro Manila, 1101",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:42Z"
+  },
+  {
+   "name": "The Metro Card Club Davao",
+   "group": "in_store",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "26 Tionko Ave, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 336 2819",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "The Office | Roll Play Ayala Mall",
+   "group": "in_store",
+   "city": "San Juan",
+   "region": "Metro Manila",
+   "address": "Ayala Malls the 30th, Meralco Ave, Pasig, NCR, 1600, PH",
+   "phone": "(+63)09178535222",
+   "website": "https://www.instagram.com/rollplayglounge/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:16Z"
+  },
+  {
+   "name": "The Tiny Bar",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "23 Panay Ave, Diliman, Quezon City, Metro Manila",
+   "phone": "0917 529 7440",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "TMV Trading",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "2-C, Corumi Street, corner Delmonte Avenue, Corumi, Quezon City, 1105 Metro Manila",
+   "phone": "0927 429 2948",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Tradelink Construction Materials Trading",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "Zone 79, Ext, 2220 Angel Linao St, Malate, Manila, 1004 Metro Manila",
+   "phone": "0936 927 0675",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "Trance Hubby",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "09275525411",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:26Z"
+  },
+  {
+   "name": "Trending Products Inc.",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1137 G Masangkay St, Tondo, Manila, 1003 Metro Manila",
+   "phone": "0917 186 2288",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "TRICS CIRCLE OF HOBBIES",
+   "group": "in_store",
+   "city": "Parañaque",
+   "region": "Metro Manila",
+   "address": "6 St.Thomas Ave, San Isidro, Parañaque, 1700 Metro Manila, Philippines, Parañaque, Metro Manila, 1700",
+   "phone": "+63 926 025 6981",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Tuck_Ph",
+   "group": "in_store",
+   "city": "Talisay",
+   "region": "Central Visayas",
+   "address": "III Ext, Sta. Theresa Village, Uldog Street, Talisay, 6045 Cebu",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "Unbox Cebu",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "3rd Floor, 8WJ4+5XC Ayala, Central Bloc, Cebu City, 6000 Cebu",
+   "phone": "0917 512 8000",
+   "website": "http://www.facebook.com/UnboxCebuPH",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "Unbox Greenhills",
+   "group": "in_store",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "2nd Floor, Promenade Mall, Missouri, San Juan City, Metro Manila",
+   "checked_at": "2026-10-17T00:37:00Z"
+  },
+  {
+   "name": "Upkeep Hobbies",
+   "group": "in_store",
+   "city": "Taytay",
+   "region": "Calabarzon",
+   "address": "Bgy, 133 Cabrera Rd, Extension, Taytay, 1920 Rizal",
+   "phone": "0906 257 3346",
+   "website": "http://www.facebook.com/UpkeepHobbiesOfficial",
+   "checked_at": "2026-10-17T00:38:29Z"
+  },
+  {
+   "name": "Urban Trading",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Sta. Catalina St, Quezon City, 1127 Metro Manila",
+   "phone": "0929 822 1692",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Vault Card Shop Philippines",
+   "group": "in_store",
+   "city": "Makati City",
+   "region": "Metro Manila",
+   "address": "4763 Barasoain St, Makati City, 1205 Metro Manila, Philippines, Makati City, Metro Manila, 1205",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Vault77",
+   "group": "in_store",
+   "city": "Legazpi City",
+   "region": "Bicol",
+   "address": "4PQW+V8X, 4500 Rizal St, Legazpi Port District, Legazpi City, 4500 Albay, Philippines, Legazpi City, Bicol, 4500",
+   "phone": "09171595450",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "VC Trading - Cubao",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "VC Trading, Ground Floor, Araneta Center, General Roxas Ave, Cubao, Quezon City, 1109 Metro Manila",
+   "phone": "(02) 8911 1911",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Vibonne Marketing",
+   "group": "in_store",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "JMJ Building, Pat Antonio, cor P. Sanchez St, Santa Mesa, Manila, 1016 Metro Manila",
+   "phone": "0945 721 3722",
+   "checked_at": "2026-10-17T00:36:50Z"
+  },
+  {
+   "name": "Vintage Card Collector",
+   "group": "in_store",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "Kalayaan Covered Court, Pasay City, 1300 Metro Manila",
+   "checked_at": "2026-10-17T00:38:09Z"
+  },
+  {
+   "name": "WD Cards",
+   "group": "in_store",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Fatima 3rd, R. Padilla St, Cebu City, 6000 Cebu",
+   "phone": "0968 861 1180",
+   "checked_at": "2026-10-17T00:38:37Z"
+  },
+  {
+   "name": "What's In The Box Co.",
+   "group": "in_store",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "A. Melchor, Quezon City, 1800 Kalakhang Maynila",
+   "phone": "0917 671 7103",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Whimsy Game Cafe",
+   "group": "in_store",
+   "city": "Mandaluyong",
+   "region": "Metro Manila",
+   "address": "The Portal, Mayflower St, Greenfield District, Mandaluyong, Metro Manila, Philippines, Mandaluyong, Metro Manila",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Whimsy Game Cafe",
+   "group": "in_store",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "The Portal, Unit 14&15 Mayflower St, Highway Hills, Greenfield District, Mandaluyong City, Metro Manila",
+   "checked_at": "2026-10-17T00:38:07Z"
+  },
+  {
+   "name": "Wolfspider",
+   "group": "in_store",
+   "city": "Bacolod",
+   "region": "Visayas",
+   "address": "Lot 29, Brgy, villa Angela subd, blk 49 Banana St, Bacolod, 6100 Negros Occidental, Philippines, Bacolod, Visayas, 6100",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Wolves Den",
+   "group": "in_store",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "326 H.V. Dela Costa, Makati, 1227 Metro Manila, Philippines, Makati, Metro Manila, 1227",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "X LEGENDARY COFFEE SHOP",
+   "group": "in_store",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "G3V4+3JQ, Cactus St, Taguig, Metro Manila",
+   "phone": "(02) 8856 4936",
+   "website": "https://www.facebook.com/xlegendaryshop?mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T00:37:57Z"
+  },
+  {
+   "name": "XSIKLOZ",
+   "group": "in_store",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "138 Dr. Sixto Antonio Ave., Pasig, Metro Manila",
+   "checked_at": "2026-10-17T00:38:27Z"
+  },
+  {
+   "name": "NASHE ENTERPRISES",
+   "group": "not_buying_singles",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "FB 27/28A BASEMENT LEVEL, Makati Square, Chino Roces Ave, Pio del Pilar, Makati City, 1230 Metro Manila",
+   "phone": "(02) 8811 1881",
+   "website": "https://nasheenterprises.com/",
+   "buylist_url": "https://nasheenterprises.com/retailer/buylist/",
+   "checked_at": "2026-10-17T00:38:01Z"
+  },
+  {
+   "name": "Alyanna's Nook Collectible Toys & Crafts",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "924 Elcano St, Tondo, Manila, 1013 Metro Manila",
+   "phone": "0917 871 1888",
+   "website": "https://alyannasnook.com/",
+   "checked_at": "2026-10-17T00:37:32Z"
+  },
+  {
+   "name": "Anding's Toys and Flowers, Inc. - Tabora Branch",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "847 Tabora St, Binondo, Manila, Metro Manila",
+   "phone": "(02) 8241 9378",
+   "website": "https://shop.andings.com.ph/",
+   "checked_at": "2026-10-17T00:37:26Z"
+  },
+  {
+   "name": "Anotoys Collectibles",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Building K-1, Veterans Center, J.Y. & Sons Compound, Taguig, 1630 Metro Manila",
+   "phone": "0917 899 8697",
+   "website": "https://anotoys.com/",
+   "checked_at": "2026-10-17T00:37:29Z"
+  },
+  {
+   "name": "Arcane Alley",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "Kanlaon Town Center,8 Kanlaon St, Quezon City, NCR, 1114, PH",
+   "phone": "639688841798",
+   "website": "https://arcanealley.app/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Arcanopolis Cafe and Boardgamery",
+   "group": "unknown",
+   "city": "Bacolod",
+   "region": "Western Visayas",
+   "address": "28 Lacson St, Bacolod, 6100 Negros Occidental, Philippines, Bacolod, Western Visayas, 6100",
+   "phone": "+639178020008",
+   "website": "https://arcanopolis-bacolod.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:36Z"
+  },
+  {
+   "name": "ARKEN Arnaiz Makati",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "4952-D Antonio Arnaiz Ave, Makati, Makati City, 1230 Metro Manila",
+   "phone": "0917 532 7536",
+   "website": "https://arken.ph/",
+   "checked_at": "2026-10-17T00:36:47Z"
+  },
+  {
+   "name": "ARKEN CardZone - Makati",
+   "group": "unknown",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "A. Arnaiz Avenue & Mayor, Makati, Metro Manila, Philippines, Makati, Metro Manila",
+   "phone": "+63 917 532 7536",
+   "website": "https://shopee.ph/arkenhobbycenter",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:37Z"
+  },
+  {
+   "name": "Ayala Center Cebu",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Cebu City, 6000 Cebu",
+   "phone": "(032) 888 3777",
+   "website": "https://www.ayalamalls.com/explore/ayala-center-cebu",
+   "checked_at": "2026-10-17T00:38:35Z"
+  },
+  {
+   "name": "Ayala Malls Abreeza",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "J.P. Laurel Ave, Poblacion District, Davao City, Davao del Sur",
+   "phone": "(082) 321 9332",
+   "website": "https://www.ayalamalls.com/main/malls/ayala-abreeza",
+   "checked_at": "2026-10-17T00:38:54Z"
+  },
+  {
+   "name": "Ayala Malls The 30th",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "30 Meralco Ave, Pasig, 1604 Metro Manila",
+   "phone": "(02) 7944 6755",
+   "website": "https://www.ayalamalls.com/",
+   "checked_at": "2026-10-17T00:38:23Z"
+  },
+  {
+   "name": "Big Boys Toy Store Fishermall",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "2/F Fishermall Quezon Ave, Cor Roosevelt Ave, Quezon City, Metro Manila, 1104, PH",
+   "phone": "+6309228387269",
+   "website": "https://www.bigboys.ph/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Big Boys Toys Store - Shoppesville, Greenhills Shopping Center",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "3rd Level Shoppesville, Greenhills Shopping Center,, Ortigas Ave, San Juan City, 1502 Metro Manila",
+   "phone": "0922 869 5944",
+   "website": "https://www.bigboys.ph/",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "Board Game Madness - Robinsons Metro East",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Level 2 Unit 132, right beside the Department Store, Robinsons Metro East, Pasig, 1800 Metro Manila",
+   "phone": "0960 642 7882",
+   "website": "https://www.boardgamemadness.ph/",
+   "checked_at": "2026-10-17T00:38:18Z"
+  },
+  {
+   "name": "Bored Prints PH",
+   "group": "unknown",
+   "city": "Rodriguez",
+   "region": "Calabarzon",
+   "address": "Lolo Tinong Subd., Rodriguez, 1860 Rizal",
+   "website": "https://boredprintsph.com/",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "CardPro Hobbies and Collectibles",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Unit 1707 17th Floor One Park Drive, 9th Avenue, Corner 11th Dr, Taguig, 1214 Metro Manila",
+   "phone": "0917 866 0089",
+   "website": "https://www.cardpro.ph/",
+   "buylist_url": "https://www.cardpro.ph/buylist/",
+   "checked_at": "2026-10-17T00:36:59Z"
+  },
+  {
+   "name": "CardSage",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Emerald Valley Homes, 5B Pearl Dr, Pasig, 1600 Metro Manila",
+   "phone": "0955 124 4007",
+   "website": "https://shp.ee/kermu93",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "Cash & Carry Mall",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "1200 Filmore Street, South super highway, cor filmore and emilia st, Barangay 756, Makati City, Metro Manila",
+   "phone": "(02) 8846 6586",
+   "website": "https://cashandcarrymall.com/#contact",
+   "checked_at": "2026-10-17T00:37:57Z"
+  },
+  {
+   "name": "Catholic Trade",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1916 Oroquieta Rd, Santa Cruz, Manila, 1003 Metro Manila",
+   "phone": "(02) 8711 3630",
+   "website": "https://www.catholictrade.com.ph/index.html",
+   "checked_at": "2026-10-17T00:37:04Z"
+  },
+  {
+   "name": "CO. the collectible store",
+   "group": "unknown",
+   "city": "San Juan",
+   "region": "Metro Manila",
+   "address": "Greenhills, 3F Shoppesvillle,, San Juan City,, Metro Manila, 1503, PH",
+   "phone": "+639459702117",
+   "website": "https://cothecollectiblestore.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Collectors' Toy Box",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "1140 Lorenzo St, Tondo, Manila, 1012 Metro Manila",
+   "phone": "0919 999 6569",
+   "website": "https://www.ctboxmanila.com/",
+   "checked_at": "2026-10-17T00:37:35Z"
+  },
+  {
+   "name": "Comic Odyssey",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Level 2, Robinsons Galleria, Ortigas Center, Quezon City, Metro Manila",
+   "phone": "(02) 7914 0040",
+   "website": "https://www.comic-odyssey.com/",
+   "checked_at": "2026-10-17T00:37:28Z"
+  },
+  {
+   "name": "Cyberzone | SM Seaside City",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "SM Seaside City, Cor Mambaling Cor, Cebu City, 6000 Cebu",
+   "website": "https://www.smcyberzone.com/",
+   "checked_at": "2026-10-17T00:38:40Z"
+  },
+  {
+   "name": "Data Blitz",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "ayala center cebu, 176 Archbishop Reyes Ave. Cebu Business Park, Cebu City, 6000 Cebu",
+   "phone": "(032) 416 3850",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:38:49Z"
+  },
+  {
+   "name": "Data Blitz | SM Mall of Asia",
+   "group": "unknown",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "1 J.W. Diokno Blvd, Pasay City, 1300 Metro Manila",
+   "phone": "(02) 8556 0112",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:36:54Z"
+  },
+  {
+   "name": "Datablitz - One Ayala",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Level 4, Ayala Malls One Ayala, Makati City, Metro Manila",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:38:14Z"
+  },
+  {
+   "name": "DataBlitz - Power Plant Mall",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "R3, Power Plant Mall, Rockwell Dr, Makati City, Metro Manila",
+   "phone": "(02) 7756 0470",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:38:13Z"
+  },
+  {
+   "name": "DataBlitz - Trinoma Mall",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Trinoma Mall, 1601e North Ave Cor Mindanao Ave, Bagong Pagasa, Quezon City, 1105 Metro Manila",
+   "phone": "(02) 7901 3658",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "Datablitz Market-Market",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Market Market, McKinley Pkwy, Taguig, 1634 Metro Manila",
+   "phone": "(02) 7901 4104",
+   "website": "https://ecommerce.datablitz.com.ph/",
+   "checked_at": "2026-10-17T00:38:16Z"
+  },
+  {
+   "name": "Davao Magic Shop",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "3JFF+MF5, 57 Ramon Magsaysay Ave, Poblacion District, Davao City, 8000 Davao del Sur, Philippines, Davao City, Davao Region, 8000",
+   "phone": "(0917) 700 3371",
+   "website": "https://tontonchee.wordpress.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:27Z"
+  },
+  {
+   "name": "Decathlon Pasig",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "L2 Tiendesitas, Buliding C, Ortigas Ave, cor Eulogio Amang Rodriguez Ave, Pasig, 1604 Metro Manila",
+   "phone": "(02) 8424 2970",
+   "website": "https://www.decathlon.ph/",
+   "checked_at": "2026-10-17T00:38:27Z"
+  },
+  {
+   "name": "EJESS Trading",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Diliman, Quezon City, Metro Manila",
+   "phone": "(02) 8936 6139",
+   "website": "https://ejesstrading.wordpress.com/",
+   "checked_at": "2026-10-17T00:37:40Z"
+  },
+  {
+   "name": "Elizabeth Mall",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Natalio B. Bacalso Ave, Cebu City, 6000 Cebu",
+   "phone": "(032) 380 0090",
+   "website": "https://elizabethmall-cebu.com/",
+   "checked_at": "2026-10-17T00:38:36Z"
+  },
+  {
+   "name": "Fairex Trading (Asia) Corporation",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "7F Times Plaza Building, United Nations Avenue, corner Taft Ave, Ermita, Manila, 1000 Metro Manila",
+   "phone": "(02) 8567 2222",
+   "website": "http://fairexgroup.com/",
+   "checked_at": "2026-10-17T00:37:04Z"
+  },
+  {
+   "name": "Filbar's",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "Level 2, Robinsons Place Manila, Pedro Gil, cor Adriatico St, Ermita, Manila, 1000 Metro Manila",
+   "website": "https://www.filbars.com.ph/reserve/login.aspx",
+   "checked_at": "2026-10-17T00:37:30Z"
+  },
+  {
+   "name": "Filbar's",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "L3 Ortigas Ave, San Juan City, Metro Manila",
+   "phone": "0933 866 8472",
+   "website": "https://www.filbars.com.ph/reserve/login.aspx",
+   "checked_at": "2026-10-17T00:37:31Z"
+  },
+  {
+   "name": "Filbar's",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "36th St, Taguig, Metro Manila",
+   "website": "https://filbars.com.ph/reserve/login.aspx",
+   "checked_at": "2026-10-17T00:37:53Z"
+  },
+  {
+   "name": "Filbar's Multiverse The Block",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "4th Floor, The Block, SM City North EDSA, Quezon City, Metro Manila",
+   "phone": "0921 464 2543",
+   "website": "https://shop.filbars.online/",
+   "checked_at": "2026-10-17T00:37:31Z"
+  },
+  {
+   "name": "Filbar's U.P. Town Center",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Level 1, Phase 1, U.P. Town Center, Katipunan Ave, Diliman, Quezon City, 1800 Metro Manila",
+   "phone": "0933 866 8476",
+   "website": "https://filbars.com.ph/reserve/login.aspx",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "FINAL TURN HOBBY SHOP",
+   "group": "unknown",
+   "city": "Bacolod",
+   "region": "Western Visayas",
+   "address": "Pacita Building, Bacolod, 6100 Negros Occidental, Philippines, Bacolod, Western Visayas, 6100",
+   "phone": "(034) 432 1860",
+   "website": "https://www.finalturnhobbyshop.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:36Z"
+  },
+  {
+   "name": "Forgehobby Place",
+   "group": "unknown",
+   "city": "Las Piñas",
+   "region": "Metro Manila",
+   "address": "0070 unit 5 Naga Road velasquez Compound Pulang lupa Dos, Las Pinas, 00, 1740, Philippines",
+   "phone": "+639178866103",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:23Z"
+  },
+  {
+   "name": "Gaisano Mall of Davao",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "J.P. Laurel Ave, Obrero, Davao City, 8000 Davao del Sur",
+   "website": "https://shopgaisano.com/",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Gameline - Megamall",
+   "group": "unknown",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "Unit KC 414, Building B Cyberzone SM Mega Mall, EDSA Corner Julia Vargas Ave, Ortigas Center, Mandaluyong City, 1550 Metro Manila",
+   "phone": "0999 436 6757",
+   "website": "https://gameline.ph/",
+   "checked_at": "2026-10-17T00:38:21Z"
+  },
+  {
+   "name": "Gameline - Mitsukoshi BGC",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Second Floor, Mitsukoshi, 8th Ave Cor. 36th St, Grand Central Park, North, Post Proper Northside, Taguig, Metro Manila",
+   "website": "https://gameline.ph/",
+   "checked_at": "2026-10-17T00:37:20Z"
+  },
+  {
+   "name": "Gameline - MOA Branch",
+   "group": "unknown",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "2nd flr., North Wing, SM Mall of Asia, 123 Seaside Blvd, Pasay City, 1300 Metro Manila",
+   "phone": "0955 460 5204",
+   "website": "https://gameline.ph/",
+   "checked_at": "2026-10-17T00:37:16Z"
+  },
+  {
+   "name": "Gameline - North Edsa Annex",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Annex, SM City North EDSA, North Avenue Corner EDSA, Bago Bantay, Quezon City, 1105 Metro Manila",
+   "phone": "(02) 8355 5406",
+   "website": "https://gameline.ph/",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "Gaming Library Greenbelt 5",
+   "group": "unknown",
+   "city": "Makati",
+   "region": "Metro Manila",
+   "address": "5 Greenbelt Dr, Makati, Metro Manila, Philippines, Makati, Metro Manila",
+   "website": "https://www.gaminglib.com",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:44Z"
+  },
+  {
+   "name": "Gaming Library Greenbelt 5",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Level 3, Greenbelt 5, 1228 Legazpi St, Makati City, 1228 Metro Manila",
+   "phone": "(02) 7238 0356",
+   "website": "https://www.gaminglib.com/",
+   "checked_at": "2026-10-17T00:37:17Z"
+  },
+  {
+   "name": "Gaming Library One Bonifacio High Street",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "H22W+HG7, 5th Ave, Taguig, Metro Manila",
+   "phone": "(02) 8811 6387",
+   "website": "https://www.gaminglib.com/",
+   "checked_at": "2026-10-17T00:38:15Z"
+  },
+  {
+   "name": "Geek PH",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Level 4, Ayala Malls One Ayala, Makati City, 1200 Metro Manila",
+   "website": "https://www.geekphstore.com/",
+   "checked_at": "2026-10-17T00:37:34Z"
+  },
+  {
+   "name": "GeekshackPH",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Chino Roces Ave, Makati, Makati City, 1223 Metro Manila",
+   "phone": "0917 256 2221",
+   "website": "https://www.geekshackph.com/home",
+   "checked_at": "2026-10-17T00:38:00Z"
+  },
+  {
+   "name": "Glorietta",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Ayala Center, Makati City, 1226 Metro Manila",
+   "phone": "(02) 7625 5149",
+   "website": "https://www.ayalamalls.com/",
+   "checked_at": "2026-10-17T00:37:57Z"
+  },
+  {
+   "name": "Green Gate Hobbies",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "857 Aurora Blvd. cor. Saint Mary St., Brgy. E. Rodriguez, Quezon City, National Capital Region, 1102, Philippines",
+   "phone": "+639454686146",
+   "website": "https://shop.greengatehobbies.com/",
+   "buylist_url": "https://shop.greengatehobbies.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Greenhills Mall",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "1502 Ortigas Ave, San Juan City, Metro Manila",
+   "phone": "(02) 8721 0572",
+   "website": "https://www.ortigasmalls.com/greenhills/",
+   "checked_at": "2026-10-17T00:37:07Z"
+  },
+  {
+   "name": "Harper's Hobbies & Toys Shop",
+   "group": "unknown",
+   "address": "77 East Drive St, Marikina, NCR, 1810, PH",
+   "phone": "+6309754005401",
+   "website": "https://harpershobbiestoysshop.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:23Z"
+  },
+  {
+   "name": "HGround Hobbies and Toys Shop",
+   "group": "unknown",
+   "city": "Baguio",
+   "region": "Cordillera Administrative Region",
+   "address": "46 Kayang St, Baguio, 2602 Benguet, Philippines, Baguio, Cordillera Administrative Region, 2602",
+   "phone": "+63 947 433 7684",
+   "website": "https://www.ebay.com/usr/hgbaguio",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:32Z"
+  },
+  {
+   "name": "High Market Store & Cafe",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "903 Aurora Blvd corner Harvard Street Cubao, Quezon City, National Capital Region, 1109, Philippines",
+   "phone": "+639175086226",
+   "website": "https://www.highmarketonline.shop/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:15Z"
+  },
+  {
+   "name": "Hobbiestock",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Glorietta 2, Ayala Center, Makati City, 1224 Metro Manila",
+   "phone": "(02) 7958 4587",
+   "website": "https://hobbiestock.com/",
+   "checked_at": "2026-10-17T00:38:08Z"
+  },
+  {
+   "name": "Hobby Factory Marikina",
+   "group": "unknown",
+   "city": "Marikina",
+   "region": "NCR",
+   "address": "153 A. Bonifacio Ave, Marikina, 1803 Metro Manila",
+   "website": "https://hobbyfactoryph.com/",
+   "checked_at": "2026-10-17T00:38:24Z"
+  },
+  {
+   "name": "Hobby Kaikan",
+   "group": "unknown",
+   "city": "Muntinlupa",
+   "region": "Metro Manila",
+   "address": "Unit 4406-4407 3F East Wing Festival Mall Alabang, Muntinlupa City, National Capital Region, 1781, Philippines",
+   "phone": "+639107848678",
+   "website": "https://www.hobbykaikan.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:24Z"
+  },
+  {
+   "name": "i'Belle SpOt",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Phase 1 Block 3, Roseville Subdivision, Lot 3 Daisy St, Alfonso Angliongto Sr., damosa, Davao City, 8000 Davao del Sur",
+   "phone": "0949 197 5441",
+   "website": "http://www.ibellespot.com/",
+   "checked_at": "2026-10-17T00:38:56Z"
+  },
+  {
+   "name": "IL Corso Filinvest Malls",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "IL Corso Filinvest Malls, City di Mare Visitor Center, 6000 Cebu South Coastal Rd, Cebu City, 6000 Cebu",
+   "phone": "(032) 234 0771",
+   "website": "https://www.filinvestlifemalls.com/",
+   "checked_at": "2026-10-17T00:38:37Z"
+  },
+  {
+   "name": "Infinity Hobbies",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Unit T04, 3rd floor, Alphaland Southgate Mall, Makati, National Capital Region, 1232, Philippines",
+   "phone": "+639688918777",
+   "website": "https://infinity-hobbies.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:15Z"
+  },
+  {
+   "name": "Infinity Hobbies- Las Piñas",
+   "group": "unknown",
+   "address": "0024 A J. Aguilar Ave. Talon 1, Las Piñas, NCR, 1747, PH",
+   "phone": "+6309681778771",
+   "website": "https://infinityhobbieslp.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:23Z"
+  },
+  {
+   "name": "Jace Collection",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Unit I, 43 J.P. Rizal Street, Brgy Marilag, Quezon City, National Capital Region, 1119, Philippines",
+   "phone": "+639603351468",
+   "website": "https://www.jacecollection.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:16Z"
+  },
+  {
+   "name": "JapStorePh Cards and Hobbies",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "2nd floor, JPSTR Building, 363 Moriones St, Tondo, Manila, 1012 Metro Manila",
+   "phone": "(02) 8743 7595",
+   "website": "https://jpstr.ph/",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "JayLei's Collectible and Game Cards",
+   "group": "unknown",
+   "city": "Valenzuela",
+   "region": "NCR",
+   "address": "Block 38, Grand cedar homes, lot 12 Walnut St., Valenzuela, 1448 Metro Manila",
+   "phone": "0905 511 3950",
+   "website": "https://shopee.ph/jayleis.collectible.game.cards?v=d41&smtt=09055113950",
+   "checked_at": "2026-10-17T00:37:03Z"
+  },
+  {
+   "name": "JG Superstore",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "3F, Annapolis Tower, 43 Annapolis St, San Juan City, 1502 Metro Manila",
+   "phone": "0917 188 6900",
+   "website": "https://jgsuperstore.com/",
+   "buylist_url": "https://jgsuperstore.com/pages/trade-in",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "JG Superstore - SM North Edsa",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "3F, The Annex, SM City North EDSA, Quezon City, 1105 Metro Manila",
+   "phone": "0917 517 6900",
+   "website": "https://jgsuperstore.com/",
+   "buylist_url": "https://jgsuperstore.com/pages/trade-in",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "JK Hobby Shop",
+   "group": "unknown",
+   "city": "Tagum",
+   "region": "Davao Region",
+   "address": "GECP Building, Door 4, Infront of Seventh Day Adventist Church, Extension Mabini St, Tagum, 8100 Davao del Norte",
+   "website": "https://jkhobbyshop.com/",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Kimstore",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "1517 Ave Maria Bldg Quezon Ave, Quezon City, 1104 Metro Manila",
+   "website": "https://www.kimstore.com/",
+   "checked_at": "2026-10-17T00:37:46Z"
+  },
+  {
+   "name": "Kooky Curious Games & Collectibles",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "Metro Manila",
+   "address": "1600 Camino Verde Rd, Pasig, Metro Manila, Philippines, Pasig, Metro Manila",
+   "phone": "09178535222",
+   "website": "https://www.rponlineshop.com/",
+   "buylist_url": "https://www.rponlineshop.com/pages/sell-your-cards",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:33Z"
+  },
+  {
+   "name": "LYRIC",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "80 Horseshoe Drive corner N. Domingo Street, Main Horseshoe Drive, Mariana, Quezon City, Metro Manila",
+   "phone": "(02) 7004 1273",
+   "website": "https://lyric.ph/",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "Magus Games",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Predico building, Hernan Cortes St, Cebu City, 6000 Cebu, Philippines, Cebu City, Central Visayas, 6000",
+   "phone": "+63 32 261 3586",
+   "website": "https://www.magus.games/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:42Z"
+  },
+  {
+   "name": "Main Phase Hobbies Cafe",
+   "group": "unknown",
+   "address": "Rus 888, Room Rental, Riverside Bldg, Pasig, Metro Manila, 1608, Philippines",
+   "phone": "639156824008",
+   "website": "https://mainphasehobbies.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:22Z"
+  },
+  {
+   "name": "Mega Q Mart",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Ermin Garcia, Quezon City, Metro Manila",
+   "phone": "(02) 8731 7824",
+   "website": "https://megaqmart.com/",
+   "checked_at": "2026-10-17T00:37:42Z"
+  },
+  {
+   "name": "Memory",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "17 Pasig Blvd Ext, Pasig, 1600 Metro Manila",
+   "phone": "0928 378 4682",
+   "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FMemory.ph",
+   "checked_at": "2026-10-17T00:38:19Z"
+  },
+  {
+   "name": "Miniso | 2nd Floor | SM City Davao | Ecoland",
+   "group": "unknown",
+   "city": "Lungsod ng Dabaw",
+   "region": "Rehiyon ng Davao",
+   "address": "2F, SM City Davao, Corner Tulip Drive Ecoland Subdivision, Barangay Matina, Davao City, Quimpo Blvd, Talomo, Lungsod ng Dabaw, 8000 Lalawigan ng Davao del Sur",
+   "website": "https://www.miniso.com/",
+   "checked_at": "2026-10-17T00:39:00Z"
+  },
+  {
+   "name": "MINKEYS",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "7/F ACC Tower, Cebu City, 6000 Cebu",
+   "phone": "0966 163 2127",
+   "website": "http://test2.ripeacademy.com/",
+   "checked_at": "2026-10-17T00:38:42Z"
+  },
+  {
+   "name": "National Book Store",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "2F Glorietta 1, Ayala Commercial Center, Hotel Dr, Makati City, 1224 Metro Manila",
+   "phone": "0917 828 3872",
+   "website": "https://nationalbookstore.com/",
+   "checked_at": "2026-10-17T00:38:12Z"
+  },
+  {
+   "name": "National Book Store - C. Raymundo",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Ground Floor, C. Raymundo Ave, Pasig, Metro Manila",
+   "phone": "(02) 8640 0902",
+   "website": "https://nationalbookstore.com/",
+   "checked_at": "2026-10-17T00:38:27Z"
+  },
+  {
+   "name": "National Book Store - Gaisano Davao",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Ground Gaisano Mall of Davao, J.P. Laurel Ave, St., Bajada, Davao City, Davao del Sur",
+   "phone": "(082) 226 4350",
+   "website": "https://nationalbookstore.com/",
+   "checked_at": "2026-10-17T00:38:58Z"
+  },
+  {
+   "name": "National Book Store - SM City Cebu",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Upper Ground Floor, SM City Cebu Juan Luna Ave. cor. Cabahug and, Kaohsiung St, Cebu City, 6000 Cebu",
+   "phone": "0917 827 2948",
+   "website": "https://nationalbookstore.com/",
+   "checked_at": "2026-10-17T00:38:46Z"
+  },
+  {
+   "name": "Neko Anime Figure Store",
+   "group": "unknown",
+   "city": "Bacoor",
+   "region": "Calabarzon",
+   "address": "Lessandra Heights, Block 13 Lot 21 Miranda St, Molino IV, Bacoor, Cavite",
+   "phone": "0936 918 7135",
+   "website": "https://store.nekofigs.com/",
+   "checked_at": "2026-10-17T00:37:35Z"
+  },
+  {
+   "name": "Neutral Grounds - Makati",
+   "group": "unknown",
+   "city": "Muntinlupa",
+   "region": "Metro Manila",
+   "address": "Retail C-404, 4th Floor, One Ayala Mall, , Makati City, NCR, 1226, Philippines",
+   "phone": "+636328569872",
+   "website": "https://neutralgrounds.online/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Neutral Grounds - One Ayala",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "MallsOne, H22G+5X9, Ayala Ave, Makati City, Metro Manila",
+   "website": "https://neutralgrounds.online/",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "Neutral Grounds Philippines Cebu",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Central Bloc, I. Villa St, Apas, Cebu City, Cebu, Philippines, Cebu City, Central Visayas",
+   "phone": "0977-8019201",
+   "website": "http://sandh-zvg.com/zokvisitor/d315dda0-c9c2-11f1-be9a-0afff3dae8af/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=d32287d1-c9c2-11f1-be9a-0afff3dae8af",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "New Hatchin Japanese Grocery Makati",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "7602, Metropolitan Avenue, 1203 Sacred Heart St, Village, Makati City, Metro Manila",
+   "phone": "(02) 8897 7207",
+   "website": "https://sites.google.com/newhatchin.com/new-hatchin/home",
+   "buylist_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/retailer/buylist&followup=https://sites.google.com/retailer/buylist&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1171059299:1792197485550545",
+   "checked_at": "2026-10-17T00:38:04Z"
+  },
+  {
+   "name": "Nine Lives Collectibles",
+   "group": "unknown",
+   "region": "Western Visayas",
+   "address": "Lacson St, 6100 Negros Occidental, Philippines, Western Visayas, 6100",
+   "website": "https://ninelivescollectibles.shop/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Nodu Toys",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "136 Rd 3, Barangay Bagong Pag-Asa, Quezon City, 1105 Metro Manila",
+   "website": "https://nodutoystore.com/",
+   "checked_at": "2026-10-17T00:37:51Z"
+  },
+  {
+   "name": "Octagon Computer Superstore",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "SM City Cebu, Juan Luna Ave . Cor . Cabahug And Kaoshiung, Cebu City, 6000 Cebu",
+   "phone": "(032) 236 9307",
+   "website": "https://www.octagon.com.ph/",
+   "checked_at": "2026-10-17T00:38:47Z"
+  },
+  {
+   "name": "Otaku Toys Davao (Pick-up Hub)",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Turbo Serps Inc. Corporate Office, Unit 1 GF R8 Building Eagle St, Ecoland Phase II, Ecoland Dr, Talomo, Davao City, 8000 Davao del Sur",
+   "phone": "0921 328 2791",
+   "website": "https://otakutoystore.com/",
+   "checked_at": "2026-10-17T00:38:56Z"
+  },
+  {
+   "name": "Pair O’Dice Games and Hobbies",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Address:, Second floor, CIAC Building, D Suazo St, Barangay 27-C, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "0917 183 7221",
+   "website": "https://pairodicegamez.com/",
+   "checked_at": "2026-10-17T00:38:50Z"
+  },
+  {
+   "name": "Papemelroti SM City Manila",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "Lg/F, SM City Manila, San Marcelino St, Ermita, Manila, 1000 Metro Manila",
+   "phone": "0933 823 1593",
+   "website": "https://papemelroti.com/",
+   "checked_at": "2026-10-17T00:36:50Z"
+  },
+  {
+   "name": "PC BUTLERS COMPUTER SERVICES",
+   "group": "unknown",
+   "address": "40 Covina St. Laguna Belair 1, Santa Rosa, Laguna, 4026, Philippines",
+   "phone": "639088780126",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:26Z"
+  },
+  {
+   "name": "PC WORTH Experience",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "7 J.P. Rizal st, Cor Malong, Project 4, Quezon City, 1109 Metro Manila",
+   "phone": "0947 357 1727",
+   "website": "https://www.pcworth.com/",
+   "checked_at": "2026-10-17T00:37:38Z"
+  },
+  {
+   "name": "PC WORTH Manila Branch",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "618 M Earnshaw St, Sampaloc, Manila, 1008 Metro Manila",
+   "phone": "0917 139 5458",
+   "website": "https://www.pcworth.com/",
+   "checked_at": "2026-10-17T00:37:11Z"
+  },
+  {
+   "name": "Playcafe",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "Metro Manila",
+   "address": "RH-Rhm Bldg 3, Tuscany, upper Mckinley hill, Mckinley Hill, Brgy Pinagsama, Taguig, National Capital Region, 1630, Philippines",
+   "phone": "+639984821656",
+   "website": "https://www.playcafeph.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:22Z"
+  },
+  {
+   "name": "PokeJam Card Shop & Cafe",
+   "group": "unknown",
+   "city": "Antipolo",
+   "region": "Calabarzon",
+   "address": "Ciannat Complex, Marikina-Infanta Hwy, Bgy. Mayamot, Antipolo, 1870 Rizal",
+   "website": "https://pokejampacks.com/",
+   "checked_at": "2026-10-17T00:37:45Z"
+  },
+  {
+   "name": "Pop N' Collect",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Urban Deca Homes Ortigas - Building, O Area 2, Rosario, Pasig, 1609 Metro Manila",
+   "phone": "0917 499 0813",
+   "website": "https://shopee.ph/popncollectph",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "Poptopia PH",
+   "group": "unknown",
+   "city": "Iloilo City",
+   "region": "Western Visayas",
+   "address": "31 Quezon St, Iloilo City Proper, Iloilo City, Iloilo, Philippines, Iloilo City, Western Visayas",
+   "website": "https://poptopiaph.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:31Z"
+  },
+  {
+   "name": "Poptopia PH",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Upper level, Greenhills Promenade Mall, R-1, San Juan City, 1502 Metro Manila",
+   "website": "https://poptopiaph.com/",
+   "checked_at": "2026-10-17T00:38:29Z"
+  },
+  {
+   "name": "Power Plant Mall",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Rockwell Dr, Makati City, 12242 Metro Manila",
+   "phone": "(02) 8898 1702",
+   "website": "https://therockwellist.com/",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "R Collectibles",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Ayala Fairview Terraces, Quezon City, 1118 Metro Manila",
+   "phone": "(02) 8559 6590",
+   "website": "https://itsrco.com/",
+   "checked_at": "2026-10-17T00:37:52Z"
+  },
+  {
+   "name": "Raghouse Manila",
+   "group": "unknown",
+   "city": "Caloocan",
+   "region": "NCR",
+   "address": "243 Dr. Puno Road, Barangay 188, Caloocan, Metro Manila",
+   "phone": "0916 434 0425",
+   "website": "https://linkr.bio/raghouse.mnl",
+   "checked_at": "2026-10-17T00:37:56Z"
+  },
+  {
+   "name": "RC Victory World ‎| DJI Store Makati (DroneRepair.PH)",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Unit LG-10, Alfaro Place, Salcedo Village, 146 L.P. Leviste Street, Bel-Air, Makati City, 1227 Metro Manila",
+   "phone": "0917 807 0168",
+   "website": "https://rcvictoryworld.com/",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "Regran s Toys and Collectibles",
+   "group": "unknown",
+   "phone": "09053107650",
+   "website": "http://www.regrantoys.multiply.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:15Z"
+  },
+  {
+   "name": "Reptile Super Store",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "JV Managers Tower # 34 sct. Reyes, corner Sct. Castor St, Diliman, Quezon City, 1103 Metro Manila",
+   "phone": "0917 899 2922",
+   "website": "https://reptilesuperstore.ph/",
+   "checked_at": "2026-10-17T00:37:23Z"
+  },
+  {
+   "name": "Rift Vault",
+   "group": "unknown",
+   "city": "Olongapo City",
+   "region": "Central Luzon",
+   "address": "Unit C2, 72 Fendler St, East Tapinac, Olongapo City, 2200 Zambales, Philippines, Olongapo City, Central Luzon, 2200",
+   "phone": "+639451146219",
+   "website": "https://rift-vault.com",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "RM Box Center",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "3132 1st St, Santa Mesa, Manila, 1016 Metro Manila",
+   "phone": "(02) 8713 8547",
+   "website": "https://rmboxes.com/",
+   "checked_at": "2026-10-17T00:37:10Z"
+  },
+  {
+   "name": "Robinsons Place Manila",
+   "group": "unknown",
+   "city": "Manila",
+   "region": "NCR",
+   "address": "Pedro Gil, cor Adriatico St, Ermita, Manila, 1000 Metro Manila",
+   "website": "https://robinsonsmalls.com/mall-info/robinsons-place-manila",
+   "checked_at": "2026-10-17T00:36:52Z"
+  },
+  {
+   "name": "San Gabriel Industrial Solutions, Inc.",
+   "group": "unknown",
+   "city": "Mandaue",
+   "region": "Central Visayas",
+   "address": "Door 8 LK Building, Tipolo, Mandaue, Cebu",
+   "phone": "(032) 422 5942",
+   "website": "https://www.sgmcitrading.com/",
+   "checked_at": "2026-10-17T00:38:40Z"
+  },
+  {
+   "name": "Savemore Market Free Choice Mart",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Free Choice Bldg, Caruncho Ave, Pasig, 1600 Metro Manila",
+   "phone": "(02) 8635 2104",
+   "website": "https://smmarkets.ph/",
+   "checked_at": "2026-10-17T00:38:21Z"
+  },
+  {
+   "name": "Scry Games Ciannat",
+   "group": "unknown",
+   "city": "Antipolo",
+   "region": "Calabarzon",
+   "address": "63 Marikina-Infanta Hwy, Antipolo, Rizal, Philippines, Antipolo, Calabarzon",
+   "phone": "+63 906 338 7858x",
+   "website": "https://www.scrygamesciannat.com",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:33Z"
+  },
+  {
+   "name": "Shelfscape",
+   "group": "unknown",
+   "address": "162 Kanlaon Street,  Sta. Mesa Heights, Quezon City, Metro Manila, 1114, PH",
+   "phone": "+6309564761410",
+   "website": "https://shelfscapeph.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "Shuffle Hobbies",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "30 Meralco Ave, Pasig, NCR, 1600, PH",
+   "phone": "+639657451279",
+   "website": "https://www.shufflehobbies.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:16Z"
+  },
+  {
+   "name": "SideQuest: Cafe + Hobby Lounge",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "Metro Manila",
+   "address": "1600 Meralco Ave, Pasig, Metro Manila, Philippines, Pasig, Metro Manila",
+   "phone": "+63 969 610 7640",
+   "website": "https://linktr.ee/sidequestph",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:41Z"
+  },
+  {
+   "name": "Silicon Valley Mega Store",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "3-035,3rd floor, Glorietta 2, Ayala Center, North St, Makati City, 1224 Metro Manila",
+   "phone": "(02) 8812 6734",
+   "website": "https://siliconvalley.com.ph/",
+   "checked_at": "2026-10-17T00:38:03Z"
+  },
+  {
+   "name": "Slotsph",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "23 Maria Eva, Quezon City, 1128 Metro Manila",
+   "phone": "0907 057 1512",
+   "website": "https://zairuc.com/fk?dat=TALdcCFoZd0oaWkhMQ1Hxn49fkluNkxTUGhaQ2pTM3lvcldOeTYrcjJUaU9kcGszUXhNWElrMmNUcjlVV2VjTzVMNU5VMUEwVTJjM0xkSmpnbHRKTXZTYzYxNVNteXpJUzUyTncwaGhHTHR2N2FQWlg2TnVROFhJQjc0ck9iVUpUQk5YMUl5T3hZeEJ5dW5oNWJIeVZEOEx6aG44M1k4V3I4aHNiTmF0dHRRaFJPbTVaZmNIZ3crN1cyUVFnMGVWRE92Zy8xRzI3aFNQcHZxRHJFY1d3SjlaQjBJWHBNQjhzNXdkSXVwTEo5WDFIWGE1UTErNzJ6cDVzaUZOS1dZZlc1Wk5vTGdsdG83Szk4c0dOSU5TeHNKZXkvQklLQlNZRUFwWExVYjFOV0xsVUdOSFEzd2FUVkwvTXVpcWVRcUtERFBUTC9RVTQ5aGlNTXMwWHpEVFhUKzlXbmtBblpEeEY0eE9idTFVeVU1aW9LaXQ3UXQ5ZlpuKy9kWDZpampQKzNJOGZPVGNQdjNRNjBGZFg3dFAycjBtMGJnVjlTdS80dUIzOTk4QXcyMGhaUnBVUEFkVjlLaHZpaWFJQVdKRXJhMHJvR1dCWEZRbmM5WXdUS3ZITVV4Z1kwTTlEZG5vWDI4NUY4MmtJekgwejJBVFhRZ0NML2dRejYzNk9MMldvNXpZT2dnbmFjWExXVCt6U0xnQllHZDY1NldsN2lMLzd1VzR5cTlJUklQTFNmaUVpU3VnUWg2b2cwY3dpK3pzQnhIQldpbzNyL2ExSmVKZ3ErZS9qb3FNcmQ1c2JmNFZCc3ZoU2VKZVVmekprd0VsdlNjUHhHaWdPUmlKRTA9",
+   "checked_at": "2026-10-17T00:37:45Z"
+  },
+  {
+   "name": "SM City Cebu",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Juan Luna Ave. cor. Cabahug and Kaoshiung Streets, Cebu Port Center, North Reclamation Area, Mabolo, Cebu City, 6000 Cebu",
+   "phone": "(032) 231 0557",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-city-cebu/information",
+   "checked_at": "2026-10-17T00:38:30Z"
+  },
+  {
+   "name": "SM City East Ortigas",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Ortigas Ave Ext, Pasig, 1608 Metro Manila",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-city-east-ortigas/information/?utm_source=GMB&utm_medium=directory&utm_campaign=mall_hours",
+   "checked_at": "2026-10-17T00:38:23Z"
+  },
+  {
+   "name": "SM City North EDSA",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "North Avenue, corner Epifanio de los Santos Ave, Quezon City, 1100 Metro Manila",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-center-north-edsa/information/?utm_source=GMB&utm_medium=directory&utm_campaign=mall_hours",
+   "checked_at": "2026-10-17T00:37:37Z"
+  },
+  {
+   "name": "SM J Mall",
+   "group": "unknown",
+   "city": "Mandaue",
+   "region": "Central Visayas",
+   "address": "165 A. S. Fortuna St, Mandaue, 6014 Cebu",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-jmall/information",
+   "checked_at": "2026-10-17T00:38:37Z"
+  },
+  {
+   "name": "SM Lanang",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "J.P. Laurel Ave, Agdao District, Davao City, 8000 Davao del Sur",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-lanang/information/?ref=mall_directory#/",
+   "checked_at": "2026-10-17T00:38:52Z"
+  },
+  {
+   "name": "SM Makati",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Hotel Dr, East St, Ayala Center, Makati City, 12242 Metro Manila",
+   "website": "https://www.smsupermalls.com/",
+   "checked_at": "2026-10-17T00:38:09Z"
+  },
+  {
+   "name": "SM Mall of Asia",
+   "group": "unknown",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "Seaside Blvd, Pasay City, 1300 Metro Manila",
+   "website": "https://www.smsupermalls.com/mall-directory/sm-mall-of-asia/information",
+   "checked_at": "2026-10-17T00:37:13Z"
+  },
+  {
+   "name": "ST PAULS Superstore",
+   "group": "unknown",
+   "city": "Makati",
+   "region": "NCR",
+   "address": "7708 Saint Paul Rd, Village, Makati, 1203 Kalakhang Maynila",
+   "phone": "(02) 8895 9701",
+   "website": "https://stpauls.ph/",
+   "checked_at": "2026-10-17T00:37:58Z"
+  },
+  {
+   "name": "Stellar Affections",
+   "group": "unknown",
+   "city": "Villasis",
+   "region": "Ilocos Region",
+   "address": "2427, 1 Municipal Norte, Villasis, Pangasinan, Philippines, Villasis, Ilocos Region",
+   "phone": "+63 927 064 9025",
+   "website": "http://www.stellaraffections.com/?fbclid=IwAR0mqHcloQhsS0flI8Kl-nGSDeQvvPUiwPKHuBW4SAtGJGSh6hcRVkzyuFk",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:31Z"
+  },
+  {
+   "name": "Sulit Hub",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Epifanio de los Santos Ave, Project 7, Quezon City, 1105 Metro Manila",
+   "website": "https://sulithub.com/",
+   "checked_at": "2026-10-17T00:37:08Z"
+  },
+  {
+   "name": "Summon.ph",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "Scout Santiago, Diliman, Quezon City, 1100 Metro Manila, Philippines, Quezon City, Metro Manila, 1100",
+   "website": "https://summon.ph/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:46Z"
+  },
+  {
+   "name": "Super Metro",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "7WX2+35W, Colon Corner Junquera Street, Cebu City, 6000 Cebu",
+   "phone": "(032) 254 2106",
+   "website": "https://metroretail.com.ph/",
+   "checked_at": "2026-10-17T00:38:48Z"
+  },
+  {
+   "name": "Tactics PH",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "4F ALCO Building, Jupiter Street, Makati, Metro Manila, 1209, PH",
+   "phone": "+6309458868871",
+   "website": "https://tactics.ph/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:08Z"
+  },
+  {
+   "name": "TheGameArmory",
+   "group": "unknown",
+   "city": "Baguio",
+   "region": "Cordillera Administrative Region",
+   "address": "205 Upper Bonifacio St, Baguio, 2600 Benguet, Philippines, Baguio, Cordillera Administrative Region, 2600",
+   "phone": "(074) 244 8956",
+   "website": "https://thegamearmory.com",
+   "buylist_url": "https://thegamearmory.com/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:36:29Z"
+  },
+  {
+   "name": "Tiendesitas",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "5 Retail Row, Pasig, Metro Manila",
+   "phone": "(02) 8635 5680",
+   "website": "https://www.ortigasmalls.com/tiendesitas/",
+   "checked_at": "2026-10-17T00:38:20Z"
+  },
+  {
+   "name": "Timezone Abreeza Mall",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Third Floor, Store, Abreeza Mall, 3023B J.P. Laurel Ave, Poblacion District, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 321 5072",
+   "website": "https://www.timezonegames.com/en-ph/locations/mindanao/timezone-abreeza/",
+   "checked_at": "2026-10-17T00:38:59Z"
+  },
+  {
+   "name": "Toby's Sports Abreeza Mall",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Level 2, Abreeza Mall, J.P. Laurel Ave, Bajada, Davao City, 8000 Davao del Sur",
+   "phone": "(082) 321 9677",
+   "website": "https://www.tobys.com/",
+   "checked_at": "2026-10-17T00:38:57Z"
+  },
+  {
+   "name": "Toy Kingdom",
+   "group": "unknown",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "Unit 006 A, Lower Ground Floor Building A SM Mega Mall, EDSA, Corner Doña Julia Vargas Ave, Ortigas Center, Mandaluyong City, 1550 Metro Manila",
+   "phone": "(02) 8636 1822",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:37:25Z"
+  },
+  {
+   "name": "Toy Kingdom",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "2nd level SM City Cebu, Juan Luna Ave Cor Cabahug, Kaohsiung St, Cebu City, 6000 Cebu",
+   "phone": "(032) 232 5732",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:38:31Z"
+  },
+  {
+   "name": "Toy Kingdom",
+   "group": "unknown",
+   "city": "Davao City",
+   "region": "Davao Region",
+   "address": "Sm Building, Quimpo Blvd. Corner Tulip Drive, Ecoland, Davao City, 8000 Davao del Sur",
+   "phone": "0917 898 4034",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:38:58Z"
+  },
+  {
+   "name": "Toy Kingdom - SM Aura",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "3/F, Sm Aura Premier, McKinley Pkwy, Taguig, 1634 Metro Manila",
+   "phone": "(02) 8808 4129",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:38:07Z"
+  },
+  {
+   "name": "Toy Kingdom - SM Makati",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "Third Floor, SM Makati, Palm Dr, Makati City, 1223 Metro Manila",
+   "phone": "(02) 8892 0843",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:37:22Z"
+  },
+  {
+   "name": "Toy Kingdom - SM North Edsa",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "3rd Floor, The Block, SM City North EDSA, Corner North Ave, Quezon City, 1550 Metro Manila",
+   "phone": "0917 557 8798",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:37:26Z"
+  },
+  {
+   "name": "Toy Kingdom - The Podium",
+   "group": "unknown",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "L3, 12 ADB Ave, Ortigas Center, Mandaluyong City, 1550 Metro Manila",
+   "phone": "0917 557 8799",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:38:24Z"
+  },
+  {
+   "name": "Toy Kingdom - V Mall",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "3F, GH Mall, Ortigas Ave, San Juan City, Metro Manila",
+   "phone": "(02) 8726 1279",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:37:22Z"
+  },
+  {
+   "name": "Toy Kingdom | SM Mall of Asia",
+   "group": "unknown",
+   "city": "Pasay City",
+   "region": "NCR",
+   "address": "GF, SM MOA, Pacific Dr, Pasay City, 1300 Metro Manila",
+   "phone": "(02) 8556 0433",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:36:53Z"
+  },
+  {
+   "name": "Toy Kingdom | SM Seaside City",
+   "group": "unknown",
+   "city": "City",
+   "region": "Central Visayas",
+   "address": "2F Sm Seaside, F.Vestil St, Cor Cebu South Coastal Rd, City, 6000 Cebu",
+   "website": "https://www.toykingdom.com.ph/",
+   "checked_at": "2026-10-17T00:38:33Z"
+  },
+  {
+   "name": "Toys\"R\"Us - Ayala Malls Circuit",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "H2F9+9PR, Makati City, Metro Manila",
+   "website": "https://toysrus.com.ph/",
+   "checked_at": "2026-10-17T00:37:23Z"
+  },
+  {
+   "name": "Toys\"R\"Us - Cloverleaf",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "3rd Level, Brgy, Ayala Malls Cloverleaf, Street, Quezon City, Metro Manila",
+   "phone": "(02) 8936 9648",
+   "website": "https://toysrus.com.ph/",
+   "checked_at": "2026-10-17T00:37:26Z"
+  },
+  {
+   "name": "Toys\"R\"Us - Galleria Cebu",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "Level 2 Robinsons Place Galleria Cebu, Cebu City, 6000 Cebu",
+   "phone": "(032) 401 2633",
+   "website": "https://toysrus.com.ph/",
+   "checked_at": "2026-10-17T00:38:34Z"
+  },
+  {
+   "name": "Toys\"R\"Us - Robinsons Metro East",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Barangay Dela Paz, Marcos Hwy, Pasig, 1800 Metro Manila",
+   "phone": "(02) 8638 4802",
+   "website": "https://toysrus.com.ph/",
+   "checked_at": "2026-10-17T00:38:25Z"
+  },
+  {
+   "name": "Toys\"R\"Us - TriNoma",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "173 Level M-3, TriNoma Mall EDSA corner 173, Quezon City, Metro Manila",
+   "phone": "(02) 8916 6993",
+   "website": "https://toysrus.gorobinsons.ph/",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Toys\"R\"Us Estancia Mall",
+   "group": "unknown",
+   "city": "Pasig",
+   "region": "NCR",
+   "address": "Lower Level Estancia Mall, Capitol Commons, Ortigas Center, Pasig, Metro Manila",
+   "phone": "(02) 8997 6588",
+   "website": "https://toysrus.gorobinsons.ph/",
+   "checked_at": "2026-10-17T00:38:18Z"
+  },
+  {
+   "name": "Toys\"R\"Us Greenbelt",
+   "group": "unknown",
+   "city": "Makati City",
+   "region": "NCR",
+   "address": "3rd Level Greenbelt 5 Ayala Center, Makati City, Metro Manila",
+   "phone": "(02) 7757 2049",
+   "website": "https://toysrus.gorobinsons.ph/",
+   "checked_at": "2026-10-17T00:36:57Z"
+  },
+  {
+   "name": "Toys\"R\"Us Shangri-La Plaza",
+   "group": "unknown",
+   "city": "Mandaluyong City",
+   "region": "NCR",
+   "address": "4th Level Shangri-la Mall, Epifanio de los Santos Ave, Ortigas Center, Mandaluyong City, Metro Manila",
+   "phone": "(02) 8364 8703",
+   "website": "https://toysrus.gorobinsons.ph/",
+   "checked_at": "2026-10-17T00:38:17Z"
+  },
+  {
+   "name": "Toys\"R\"Us Uptown Mall",
+   "group": "unknown",
+   "city": "Taguig",
+   "region": "NCR",
+   "address": "Uptown Place Mall, C29 3rd Level, Uptown Bonifacio, Taguig, Metro Manila",
+   "phone": "(02) 8815 9484",
+   "website": "https://toysrus.gorobinsons.ph/",
+   "checked_at": "2026-10-17T00:38:17Z"
+  },
+  {
+   "name": "ToySack, \"ToysAaack\"",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "ToySack HQ Office, Unit 3 G/F Ascension Plaza Bldg, Ascension Ave, Quezon City, 1100 Metro Manila",
+   "phone": "0917 109 7381",
+   "website": "https://toysack.toys/",
+   "checked_at": "2026-10-17T00:37:36Z"
+  },
+  {
+   "name": "Toyzone Xpress",
+   "group": "unknown",
+   "city": "San Juan City",
+   "region": "NCR",
+   "address": "Unit U-07 Upper Level Shoppesville Plus Greenhills, San Juan City, Metro Manila",
+   "phone": "0908 879 7910",
+   "website": "http://www.toyzonexpress.com/",
+   "checked_at": "2026-10-17T00:37:32Z"
+  },
+  {
+   "name": "TriNoma Mall",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "NCR",
+   "address": "Edsa, cor North Ave, Quezon City, Metro Manila",
+   "phone": "(02) 7795 9595",
+   "website": "https://www.ayalamalls.com/main/malls/ayala-trinoma",
+   "checked_at": "2026-10-17T00:37:41Z"
+  },
+  {
+   "name": "YONGE POWER YOUR PLAY",
+   "group": "unknown",
+   "city": "Quezon City",
+   "region": "Metro Manila",
+   "address": "YONGE AT THE AUTOCOMPLEX, 8 MERCURY AVENUE , QUEZON CITY, METRO MANILA, 1110, PH",
+   "phone": "+639193664947",
+   "website": "https://yongepoweryourplay.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:36:18Z"
+  },
+  {
+   "name": "Zaku Cebu - Unbox Cebu Branch",
+   "group": "unknown",
+   "city": "Cebu City",
+   "region": "Central Visayas",
+   "address": "I. Villa St Unbox, 3rd Floor, Ayala Malls, Central Bloc, Lahug, Cebu City, 6000 Cebu",
+   "phone": "0929 844 9222",
+   "website": "https://zakucebu.com/",
+   "checked_at": "2026-10-17T00:38:41Z"
+  }
+ ]
+}
