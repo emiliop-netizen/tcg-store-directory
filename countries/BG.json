@@ -1,0 +1,723 @@
+{
+ "country": "BG",
+ "currency": "BGN",
+ "updated": "2026-10-16",
+ "store_count": 69,
+ "stores": [
+  {
+   "name": "Mox Games",
+   "group": "login_required",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "1612, zh.k. Hipodruma, blok 24",
+   "phone": "359884225468",
+   "website": "https://mox.games/password",
+   "buylist_url": "https://mox.games/password",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Ciela Vitosha",
+   "group": "blocked",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, bul. \"Vitosha\" 60, 1463 Sofia",
+   "phone": "087 653 6843",
+   "website": "https://www.ciela.com/",
+   "checked_at": "2026-10-17T05:31:54Z"
+  },
+  {
+   "name": "DECATHLON Plovdiv | Пловдив",
+   "group": "blocked",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TrakiyaTrakia, bul. \"Osvobozhdenie\" 43 а, 4000 Plovdiv",
+   "website": "https://www.decathlon.bg/content/64-store-decathlon-plovdiv?utm_source=google&utm_medium=organic&utm_campaign=gmb-plovdiv",
+   "checked_at": "2026-10-17T05:32:13Z"
+  },
+  {
+   "name": "Orange - Plovdiv Plaza",
+   "group": "blocked",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "KazarmiIztochen, ул. „Д-р Георги Странски“ 3, етаж 2, 4019 Plovdiv",
+   "phone": "088 702 1430",
+   "website": "https://www.orangecenter.bg/",
+   "checked_at": "2026-10-17T05:32:09Z"
+  },
+  {
+   "name": "Shop Hobbyland - Sofia",
+   "group": "blocked",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "ул. Гео Милев №24, жк Гео Милев, Слатина, Geo Milev, ul. \"Geo Milev\" 24, 1111 Sofia",
+   "phone": "089 249 2535",
+   "website": "https://www.hobbyland.bg/",
+   "checked_at": "2026-10-17T05:31:37Z"
+  },
+  {
+   "name": "Shop HobbyLand Plovdiv",
+   "group": "blocked",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "4P2G+28 МАГАЗИН ХОБИЛЕНД, Yuzhen, ул. „Бялата воденица“ 6“ № 1, 4004 Plovdiv",
+   "phone": "089 249 2530",
+   "website": "https://www.hobbyland.bg/",
+   "checked_at": "2026-10-17T05:32:01Z"
+  },
+  {
+   "name": "Technopolis",
+   "group": "blocked",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Oborishte, Sitnyakovo Blvd 48, 1000 Sofia",
+   "phone": "02 892 7927",
+   "website": "http://www.technopolis.bg/",
+   "checked_at": "2026-10-17T05:31:58Z"
+  },
+  {
+   "name": "КНИЖАРНИЦА СИЕЛА - Мол Пловдив",
+   "group": "blocked",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "g.k. Mladezhki halmZapaden, ul. \"Perushtitsa\" 8, 4000 Plovdiv",
+   "phone": "088 422 9919",
+   "website": "https://www.ciela.com/",
+   "checked_at": "2026-10-17T05:32:11Z"
+  },
+  {
+   "name": "Abordage",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+359) 889180993",
+   "website": "https://discord.gg/GrYhQxQ",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Carcassonne",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, ul. \"William Gladstone\" 30, 1000 Sofia",
+   "phone": "088 846 8109",
+   "checked_at": "2026-10-17T05:31:58Z"
+  },
+  {
+   "name": "Checkpoint",
+   "group": "in_store",
+   "city": "Ruse",
+   "region": "Ruse",
+   "address": "Yalta, bul. \"Tsar Osvoboditel\" 63, 7002 Ruse, Bulgaria, Ruse, Ruse, 7002",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:31:23Z"
+  },
+  {
+   "name": "Chronicles of Rathe",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Panayot Volov\" 11, P, 1504 Sofia",
+   "checked_at": "2026-10-17T05:31:59Z"
+  },
+  {
+   "name": "Draconis Kingdom",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "American collegeMladost, ж.к Младост 4 614, 1715 Sofia",
+   "phone": "088 463 8363",
+   "checked_at": "2026-10-17T05:31:58Z"
+  },
+  {
+   "name": "Gift shop and packaging \"The two crows\"",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "блока с магазините, TsentarPlovdiv Center, pl. \"Nikola Mushanov\", 4002 Plovdiv",
+   "phone": "087 821 8232",
+   "website": "https://www.facebook.com/dvetegargi/?locale=bg_BG",
+   "checked_at": "2026-10-17T05:32:02Z"
+  },
+  {
+   "name": "Goblin Card Vault",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "7 ulitsa\"Akad konstantin Pashev\", Sofia, Sofia City Province, 1632, Bulgaria",
+   "phone": "+359885843501",
+   "website": "https://www.facebook.com/profile.php?id=61565314505860",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Koprina",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "Kamenitsa 1Plovdiv Center, ул. Карловско шосе 5, 4000 Plovdiv",
+   "phone": "032 963 322",
+   "checked_at": "2026-10-17T05:32:15Z"
+  },
+  {
+   "name": "Level UP",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+35 (0) 9888398302",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "M.K.-Ko",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "бл. 15, Old City Center, ul. Serdika 15А, вх. Г ж.к, 1379 Sofia",
+   "phone": "089 916 0790",
+   "checked_at": "2026-10-17T05:31:52Z"
+  },
+  {
+   "name": "Magic Games - Playstation игри, конзоли, сервиз",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TrakiyaTrakia, ul. \"Saedinenie\" 34, 4023 Plovdiv",
+   "phone": "089 882 8877",
+   "checked_at": "2026-10-17T05:32:17Z"
+  },
+  {
+   "name": "Pulsar Games - Plovdiv",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+359888409681",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Sinergon Card Service Ltd",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "НПЗ Хаджи Димитър, ul. P.Unufrieva 2, 1510 Sofia",
+   "phone": "02 936 6192",
+   "checked_at": "2026-10-17T05:31:35Z"
+  },
+  {
+   "name": "The magic of gifts",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Gladston\" 64, 4000 Plovdiv",
+   "phone": "088 822 6013",
+   "checked_at": "2026-10-17T05:32:02Z"
+  },
+  {
+   "name": "Книгофилница \"Славейков\"",
+   "group": "in_store",
+   "city": "София",
+   "region": "Област София",
+   "address": "София, Пл. Славейков 9 /безистен/, магазин 8, София център, пл. „Петко Р. Славейков“ 9, 1000 София",
+   "website": "https://www.facebook.com/groups/1350391205152350/",
+   "checked_at": "2026-10-17T05:31:35Z"
+  },
+  {
+   "name": "Книжарница - Канцеларски и художествени материали",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Yanko Sakazov\" 1, 4000 Plovdiv",
+   "phone": "089 738 7087",
+   "checked_at": "2026-10-17T05:32:15Z"
+  },
+  {
+   "name": "Магазин за Картички • Timo From Here • Hand & Custom-Made Postcards",
+   "group": "in_store",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Doctor's Garden, San Stefano St 17, 1504 Sofia",
+   "checked_at": "2026-10-17T05:31:40Z"
+  },
+  {
+   "name": "Подаръци AdiroomArt",
+   "group": "in_store",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Ivan Vazov\" 17, 4000 Plovdiv",
+   "phone": "088 940 0058",
+   "checked_at": "2026-10-17T05:32:09Z"
+  },
+  {
+   "name": "Anime King",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Knyaz Boris I\" 145, 1000 Sofia",
+   "phone": "088 873 8476",
+   "website": "https://lit.link/animeking?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGny8TIalhJd3ui0FjhIwHfVdEJmGFkzdi-rpV6vsBIQ-5SnJYV33QmaHZnPrg_aem_8S-JWza-JjOycZ0NVVZK1g",
+   "buylist_url": "https://lit.link/buylist",
+   "checked_at": "2026-10-17T05:31:55Z"
+  },
+  {
+   "name": "Antique Shop Plovdiv",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Saborna\" 51А, 4000 Plovdiv",
+   "phone": "032 624 427",
+   "website": "http://etruscila.com/",
+   "checked_at": "2026-10-17T05:32:02Z"
+  },
+  {
+   "name": "BoardGames Ruse",
+   "group": "unknown",
+   "city": "Ruse",
+   "region": "Ruse",
+   "address": "Ruse Center, ul. \"Alexandrovska\" 62, 7000 Ruse, Bulgaria, Ruse, Ruse, 7000",
+   "phone": "+359 89 858 5180",
+   "website": "https://boardgamesruse.store/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:31:21Z"
+  },
+  {
+   "name": "BoardGames.BG - магазин за настолни игри, Dungeons & Dragons и Magic: the Gathering",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "g.k. Lozenets, ul. \"Krum Popov\" 75, 1421 Sofia",
+   "phone": "089 760 6919",
+   "website": "https://boardgames-bg.com/",
+   "checked_at": "2026-10-17T05:31:26Z"
+  },
+  {
+   "name": "Booktrading",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Graf Ignatiev\" 15, 1000 Sofia",
+   "phone": "088 290 7213",
+   "website": "https://booktrading.bg/",
+   "checked_at": "2026-10-17T05:31:53Z"
+  },
+  {
+   "name": "Chobanov Games Ltd",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Veslets\" 36, 1000 Sofia, Bulgaria, Sofia, Sofia City Province, 1000",
+   "phone": "+359876167303",
+   "website": "https://chobanovgamesltd.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:31:19Z"
+  },
+  {
+   "name": "Craft Land",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Angel Kanchev\" 8, 4000 Plovdiv",
+   "phone": "089 302 5125",
+   "website": "https://craftland.bg/",
+   "checked_at": "2026-10-17T05:32:08Z"
+  },
+  {
+   "name": "Drugiyat Zamak",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Poligona 1784, build. 43, shop 2, Sofia, 23, 1784, Bulgaria",
+   "phone": "1+359883450549 ",
+   "website": "https://castle.bg/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Elephant Bookstore",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Tsar Shishman\" 31, 1000 Sofia",
+   "phone": "088 234 3641",
+   "website": "https://elephantbookstore.com/bg",
+   "checked_at": "2026-10-17T05:31:41Z"
+  },
+  {
+   "name": "Fantasmagoria",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Manastirski Livadi, ulitsa\"Lavski Rid\" 6, бл. 4, 1680, 1309 Sofia",
+   "phone": "089 561 8810",
+   "website": "https://bigbag.bg/",
+   "checked_at": "2026-10-17T05:31:26Z"
+  },
+  {
+   "name": "gameshop.bg",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "KapanaPlovdiv Center, ul. \"Zagreb\" 2, 4000 Plovdiv, Bulgaria, Plovdiv, Plovdiv, 4000",
+   "phone": "+359888409681",
+   "website": "https://www.gameshop.bg/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Gaming Club Imperia",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "g.k. Hristo Botev-SouthYuzhen, bul. \"Nikola Vaptsarov\" 115, 4004 Plovdiv",
+   "phone": "089 685 1270",
+   "website": "https://casinoimperia.bg/",
+   "checked_at": "2026-10-17T05:32:15Z"
+  },
+  {
+   "name": "Gift shop / Corentis Gifts",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Han Kubrat\" 9, 4000 Plovdiv",
+   "phone": "088 691 3705",
+   "website": "https://www.podaraci-corentis.com/",
+   "checked_at": "2026-10-17T05:32:05Z"
+  },
+  {
+   "name": "GiftCard - Mall Plovdiv",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "ул. „Перущица“ 8 Mall Plovdiv (Мол Пловдив Партер, до Рецепция, g.k. Mladezhki halmZapaden, 4002 Plovdiv",
+   "phone": "088 294 6527",
+   "website": "https://www.giftcards.eu/en/home",
+   "checked_at": "2026-10-17T05:32:14Z"
+  },
+  {
+   "name": "Gifted - Urban Art & Culture Hub",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Ivan Denkoglu\" 24, 1000 Sofia",
+   "phone": "098 825 2032",
+   "website": "https://www.giftedsofia.com/",
+   "checked_at": "2026-10-17T05:31:39Z"
+  },
+  {
+   "name": "Gifts - Подарявай с любов",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, Solunska Street 39, 1000 Sofia",
+   "phone": "088 899 5818",
+   "website": "https://podaracisofia.com/",
+   "checked_at": "2026-10-17T05:31:52Z"
+  },
+  {
+   "name": "Greenwich Book Center",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, bul. \"Vitosha\" 37, 1000 Sofia",
+   "phone": "02 950 8337",
+   "website": "https://bookshop.bg/",
+   "checked_at": "2026-10-17T05:31:51Z"
+  },
+  {
+   "name": "Hobby Games Club & Snacks",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Mladost 3 District, bl. 389, shop 9, Sofia, Sofia city, 1712, Bulgaria",
+   "phone": "+359884583463",
+   "website": "https://hobbygamesbg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "hopstop",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "KapanaPlovdiv Center, ul. \"Zagreb\" 2, 4000 Plovdiv",
+   "phone": "088 840 9686",
+   "website": "https://www.hopstop.bg/gdp-privacy-policy.html",
+   "checked_at": "2026-10-17T05:32:09Z"
+  },
+  {
+   "name": "Ina Treyding",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia, Dianabad, bl. 58 ent. 8 fl. 1 ap. 29, ж.к. Дианабад, 1172 Sofia",
+   "phone": "02 974 5240",
+   "website": "https://inatrading.com/",
+   "checked_at": "2026-10-17T05:31:35Z"
+  },
+  {
+   "name": "Jumbo",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Motopista, blvd. \"Bulgaria\" 51, 1404 Sofia",
+   "phone": "02 805 6506",
+   "website": "https://www.e-jumbo.gr/",
+   "checked_at": "2026-10-17T05:31:57Z"
+  },
+  {
+   "name": "Jumbo",
+   "group": "unknown",
+   "region": "Plovdiv",
+   "address": "Пловдив, Околовръстно Шосе, До Метро 2, 4205",
+   "phone": "032 920 101",
+   "website": "https://www.e-jumbo.gr/",
+   "checked_at": "2026-10-17T05:32:15Z"
+  },
+  {
+   "name": "Jumbo Plovdiv Plaza",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "Plovdiv Plaza Mall, KazarmiIztochen, ул. „Д-р Георги Странски“ 3, 4019 Plovdiv",
+   "website": "https://www.e-jumbo.bg/bg/",
+   "checked_at": "2026-10-17T05:32:17Z"
+  },
+  {
+   "name": "Kamato Games",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "ul. Rayko Daskalov 32, Plovdiv, Plovdiv, 4000, Bulgaria",
+   "phone": "+3590888777795",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Mouradiani Games",
+   "group": "unknown",
+   "city": "София",
+   "region": "Област София",
+   "address": "Sofia Center, Безистен, център, пл. „Петко Р. Славейков“ 9, 1000 София",
+   "phone": "087 753 1343",
+   "website": "https://mgames.bg/",
+   "checked_at": "2026-10-17T05:31:23Z"
+  },
+  {
+   "name": "My Gift Shop Ltd. - Магазин за подаръци",
+   "group": "unknown",
+   "city": "Пловдив",
+   "region": "Пловдив",
+   "address": "Подлез Централна Гара, Южна промишлена зонаРайон Централен, 4000 Пловдив",
+   "phone": "089 558 9848",
+   "website": "https://zapalki.net/",
+   "checked_at": "2026-10-17T05:32:13Z"
+  },
+  {
+   "name": "MyHobby.bg",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "ж.к. зона Б-5, Блок 18 до вход А, Zona B-5, 1303 Sofia",
+   "phone": "089 861 5858",
+   "website": "https://www.myhobby.bg/",
+   "checked_at": "2026-10-17T05:31:27Z"
+  },
+  {
+   "name": "Mysterygamesbg",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "Николов 56, Kamenitsa 1Plovdiv Center, ul. \"Kapitan Raycho Nikolov\" 56, 4000 Plovdiv",
+   "phone": "089 842 9029",
+   "website": "https://mysterygames.bg/",
+   "checked_at": "2026-10-17T05:32:01Z"
+  },
+  {
+   "name": "Ozone Games",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Bulgaria Mall, Manastirski Livadi, blvd. \"Bulgaria\" 69, ниво 3, 1404 Sofia",
+   "phone": "088 921 6802",
+   "website": "https://www.ozone.bg/shop-bulgaria-mall/",
+   "checked_at": "2026-10-17T05:31:34Z"
+  },
+  {
+   "name": "Ozone Games",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "Mall Plovdiv, g.k. Mladezhki halmZapaden, ul. \"Perushtitsa\" 8, ниво 1, 4002 Plovdiv",
+   "phone": "088 464 6687",
+   "website": "https://www.ozone.bg/shop-mall-plovdiv/",
+   "checked_at": "2026-10-17T05:31:59Z"
+  },
+  {
+   "name": "Pikko Games",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, ul. \"Neofit Rilski\" 31, 1000 Sofia",
+   "phone": "087 833 7852",
+   "website": "https://nastolniigri.com/",
+   "checked_at": "2026-10-17T05:31:33Z"
+  },
+  {
+   "name": "STEMOTOYS",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, Solunska Street 34, 1000 Sofia",
+   "phone": "087 937 2112",
+   "website": "https://stemotoys.bg/",
+   "checked_at": "2026-10-17T05:31:25Z"
+  },
+  {
+   "name": "Stoyanov Games",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Hipodruma,Street Sotir Andonov 3 , Shop 3, Sofia, Sofia, 1612, Bulgaria",
+   "phone": "+359885513107",
+   "website": "https://stoyanov-gamesbg.com",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "Stratos Games",
+   "group": "unknown",
+   "city": "Veliko Tarnovo",
+   "region": "Veliko Tarnovo",
+   "address": "ul. \"Maria Gabrovska\" 2a, 5005 g.k. Kolyo Ficheto, Veliko Tarnovo, Bulgaria, Veliko Tarnovo, Veliko Tarnovo, 5005",
+   "phone": "+359887744006",
+   "website": "https://stratosgames.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "The Next Generation",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "19 ul. \"Petar Bogdan\", Sofia, Sofia City Province, 1505, Bulgaria",
+   "phone": "359893587110",
+   "website": "https://thenextgeneration.bg/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:31:14Z"
+  },
+  {
+   "name": "The Pink Shop",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, ul. \"Knyaz Boris I\" 69, 1000 Sofia",
+   "phone": "087 844 8445",
+   "website": "https://think-in-pink.com/",
+   "checked_at": "2026-10-17T05:31:49Z"
+  },
+  {
+   "name": "Time2Play",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Sofia Center, bul. \"Vasil Levski\" 110, 1527 Sofia",
+   "phone": "089 499 3647",
+   "website": "https://time2play.bg/",
+   "checked_at": "2026-10-17T05:31:43Z"
+  },
+  {
+   "name": "Top Gifts Ltd",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, bul. \"Vitosha\" 28, 1000 Sofia",
+   "phone": "088 762 7772",
+   "website": "https://www.topgifts.bg/",
+   "checked_at": "2026-10-17T05:31:47Z"
+  },
+  {
+   "name": "Top Souvenirs Ltd",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "TsentarPlovdiv Center, ul. \"Knyaz Alexander I\" 35, 4001 Plovdiv",
+   "phone": "088 000 0000",
+   "website": "https://www.topgifts.bg/",
+   "checked_at": "2026-10-17T05:32:04Z"
+  },
+  {
+   "name": "Другият замък",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "ж.к. Полигона, бл. 43, партер, Poligona, 1784 Sofia",
+   "phone": "088 345 0549",
+   "website": "http://castle.bg/",
+   "checked_at": "2026-10-17T05:31:30Z"
+  },
+  {
+   "name": "МЕДЖИК ШОП / MagicShop",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "g.k. Levski G 47, g.k. Levski G, 1836 Sofia",
+   "website": "https://www.magicshoprental.com/",
+   "checked_at": "2026-10-17T05:31:54Z"
+  },
+  {
+   "name": "Моята приказна книга",
+   "group": "unknown",
+   "city": "Plovdiv",
+   "region": "Plovdiv",
+   "address": "g.k. Hristo SmirnenskiZapaden, ul. \"Sofia\" 68 А, 4001 Plovdiv",
+   "phone": "088 344 9039",
+   "website": "https://myfairytale-book.com/",
+   "checked_at": "2026-10-17T05:32:02Z"
+  },
+  {
+   "name": "Хоби Култ",
+   "group": "unknown",
+   "city": "Sofia",
+   "region": "Sofia City Province",
+   "address": "Old City Center, ul. \"Knyaz Boris I\" 121, 1000 Sofia",
+   "phone": "088 792 0624",
+   "website": "https://www.hobbycult.com/",
+   "checked_at": "2026-10-17T05:31:40Z"
+  }
+ ]
+}

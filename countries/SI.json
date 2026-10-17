@@ -1,0 +1,706 @@
+{
+ "country": "SI",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 74,
+ "stores": [
+  {
+   "name": "Airdom Basketball Shop",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "Ukmarjeva ul. 6, 1000 Ljubljana",
+   "phone": "064 162 626",
+   "website": "https://airdom.com/sl",
+   "checked_at": "2026-10-17T05:26:00Z"
+  },
+  {
+   "name": "CardPoint",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "18 Zaloška cesta, Ljubljana , Ljubljana, 1000, Slovenia",
+   "phone": "+38631453774",
+   "website": "https://www.cardmarket.com/en/Magic/Users/Cardpoint",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "Hobby & Art trgovina PRI LEVČKU",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "Ameriška ulica 13, 1000 Ljubljana",
+   "phone": "(01) 585 16 19",
+   "website": "http://www.prilevcku.si/",
+   "checked_at": "2026-10-17T05:25:47Z"
+  },
+  {
+   "name": "Intersport",
+   "group": "blocked",
+   "region": "Upravna enota Maribor",
+   "address": "Ulica Eve Lovše 1, 2000 Maribor",
+   "phone": "051 356 104",
+   "website": "https://www.intersport.si/",
+   "checked_at": "2026-10-17T05:26:37Z"
+  },
+  {
+   "name": "PTCGO Store",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "Dunajska c. 151, 1000 Ljubljana",
+   "phone": "031 568 264",
+   "website": "https://www.ptcgostore.com/",
+   "checked_at": "2026-10-17T05:25:36Z"
+  },
+  {
+   "name": "TCG Park",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "4 Moskovska ulica, Ljubljana, Ljubljana, 1000, Slovenia",
+   "phone": "+386018109099",
+   "website": "https://www.tcgpark.com/si",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "TCG Park Citypark",
+   "group": "blocked",
+   "region": "Ljubljana",
+   "address": "Moskovska ulica 4-1. nadstropje, 1000 Ljubljana",
+   "phone": "(01) 810 90 99",
+   "website": "https://www.tcgpark.com/si/trgovine/btc-citypark-ljubljana",
+   "checked_at": "2026-10-17T05:25:32Z"
+  },
+  {
+   "name": "A1 Tonerji",
+   "group": "in_store",
+   "region": "Upravna enota Maribor",
+   "address": "Cesta k Tamu 77, 2000 Maribor",
+   "phone": "(02) 250 01 00",
+   "checked_at": "2026-10-17T05:26:40Z"
+  },
+  {
+   "name": "CARDPIECE, spletna trgovina, Anžej Lah Dizdarević s.p.",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Bezenškova ulica 27, 1000 Ljubljana",
+   "checked_at": "2026-10-17T05:25:59Z"
+  },
+  {
+   "name": "Dušan Cunjak, Založniško-Knjigarniška družba, d.o.o.",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Gallusovo nabrežje 21, 1000 Ljubljana",
+   "phone": "(01) 425 40 07",
+   "checked_at": "2026-10-17T05:25:48Z"
+  },
+  {
+   "name": "LJ GIFT SHOP LJ",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Trubarjeva cesta 14, 1000 Ljubljana",
+   "phone": "031 628 462",
+   "checked_at": "2026-10-17T05:25:37Z"
+  },
+  {
+   "name": "Lugters Trade, družba za trgovino in poslovne storitve d.o.o.",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Čopova ulica 14, 1000 Ljubljana",
+   "phone": "(01) 252 79 21",
+   "checked_at": "2026-10-17T05:26:08Z"
+  },
+  {
+   "name": "Majolka d.o.o.",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Ciril-Metodov trg 5, 1000 Ljubljana",
+   "phone": "(01) 234 76 30",
+   "checked_at": "2026-10-17T05:25:47Z"
+  },
+  {
+   "name": "Papirnica ABC",
+   "group": "in_store",
+   "region": "Upravna enota Maribor",
+   "address": "Lapajnetova ulica 19, Idrija, Idrija, 5280, Slovenia",
+   "phone": "+38653771242",
+   "website": "https://www.instagram.com/papirnica_abc/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:15Z"
+  },
+  {
+   "name": "Poke Planet",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Kolarjeva ulica 10, 1000 Ljubljana",
+   "phone": "064 168 850",
+   "checked_at": "2026-10-17T05:25:49Z"
+  },
+  {
+   "name": "Pravi junak, trgovina in storitve, Jure Pucko s.p.",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Zbiljska cesta 45, 1215 Medvode",
+   "phone": "040 379 987",
+   "checked_at": "2026-10-17T05:25:37Z"
+  },
+  {
+   "name": "Stari Mercator",
+   "group": "in_store",
+   "region": "Upravna enota Maribor",
+   "address": "Tržaška cesta 14, 2000 Maribor",
+   "checked_at": "2026-10-17T05:26:29Z"
+  },
+  {
+   "name": "Superca",
+   "group": "in_store",
+   "region": "Ljubljana",
+   "address": "Na Korošci 2, 1000 Ljubljana",
+   "phone": "040 688 118",
+   "checked_at": "2026-10-17T05:25:48Z"
+  },
+  {
+   "name": "TCG DEFENDER",
+   "group": "in_store",
+   "region": "Upravna enota Maribor",
+   "address": "Tržaška cesta 65, 2000 Maribor",
+   "phone": "031 341 426",
+   "checked_at": "2026-10-17T05:26:24Z"
+  },
+  {
+   "name": "Adidas",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Pobreška cesta 18, 2000 Maribor",
+   "phone": "(02) 620 22 75",
+   "website": "https://www.adidas.com/",
+   "checked_at": "2026-10-17T05:26:40Z"
+  },
+  {
+   "name": "adidas Store Ljubljana, Moskovska ulica",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Moskovska ulica 4, 1000 Ljubljana",
+   "phone": "(01) 320 81 40",
+   "website": "https://www.adidas.com/",
+   "checked_at": "2026-10-17T05:26:23Z"
+  },
+  {
+   "name": "Bauhaus",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Premrlova ulica 1, 1000 Ljubljana",
+   "phone": "(01) 546 68 08",
+   "website": "https://www.bauhaus.si/",
+   "checked_at": "2026-10-17T05:26:18Z"
+  },
+  {
+   "name": "Biljardist.si",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Prušnikova Ul. 55, 1210 Ljubljana - Šentvid",
+   "phone": "041 249 993",
+   "website": "http://www.biljardist.si/",
+   "checked_at": "2026-10-17T05:25:53Z"
+  },
+  {
+   "name": "Bookstore & Antiquariat Vodnik",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Ciril-Metodov trg 15, 1000 Ljubljana",
+   "phone": "041 400 406",
+   "website": "https://www.antikvariat-vodnik.si/",
+   "checked_at": "2026-10-17T05:25:51Z"
+  },
+  {
+   "name": "BTC City Ljubljana",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Ameriška ulica 2, 1000 Ljubljana",
+   "phone": "(01) 585 22 22",
+   "website": "http://www.btc-city.com/sl",
+   "checked_at": "2026-10-17T05:25:49Z"
+  },
+  {
+   "name": "Das Ist Valter - Center",
+   "group": "unknown",
+   "address": "3 Borštnikov trg, Ljubljana, Osrednjeslovenska, 1000, Slovenia",
+   "phone": "+38641854927",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "Dragon Shop",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Ciril-Metodov trg 10, 1000 Ljubljana",
+   "phone": "030 995 588",
+   "website": "https://www.zakladi.si/",
+   "checked_at": "2026-10-17T05:25:41Z"
+  },
+  {
+   "name": "Družabne Igre",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Haloška ulica 5, 2204 Miklavž na Dravskem polju",
+   "phone": "040 305 203",
+   "website": "https://druzabneigre.si/",
+   "checked_at": "2026-10-17T05:26:41Z"
+  },
+  {
+   "name": "E. Leclerc Ljubljana",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Jurčkova Cesta 225, 1000 Ljubljana",
+   "phone": "(01) 420 41 00",
+   "website": "https://www.e-leclerc.si/",
+   "checked_at": "2026-10-17T05:26:10Z"
+  },
+  {
+   "name": "Exhibition and Convention Centre",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Dunajska c. 18, 1000 Ljubljana",
+   "phone": "(01) 300 26 00",
+   "website": "https://www.gr.si/",
+   "checked_at": "2026-10-17T05:26:08Z"
+  },
+  {
+   "name": "Filke",
+   "group": "unknown",
+   "address": "Kocljeva ulica 9, Murska Sobota, Slovenia, 9000, Slovenia",
+   "phone": "+38640155085",
+   "website": "https://www.tcgroyal.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:21Z"
+  },
+  {
+   "name": "FOXBOUTIQUE",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Peruzzijeva ulica 82, 1000 Ljubljana",
+   "phone": "(01) 430 48 11",
+   "website": "http://www.foxboutique.si/",
+   "checked_at": "2026-10-17T05:25:56Z"
+  },
+  {
+   "name": "GAME SPOT Ljubljana",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Nove Fužine 43, 1000 Ljubljana",
+   "website": "https://gamespot.si/",
+   "checked_at": "2026-10-17T05:25:43Z"
+  },
+  {
+   "name": "Goblin Maribor | servis igralnih konzol in dodatne opreme",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Ob ribniku 24 Pred Pohorsko kavarno desno, Ob ribniku 24, 2000 Maribor",
+   "phone": "051 811 515",
+   "website": "https://goblin.si/",
+   "checked_at": "2026-10-17T05:26:24Z"
+  },
+  {
+   "name": "GUD Shop",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Stari trg 4, 1000 Ljubljana",
+   "phone": "0599 64485",
+   "website": "https://www.gud-shop.com/",
+   "checked_at": "2026-10-17T05:25:42Z"
+  },
+  {
+   "name": "Happy Games - CityPark, Ljubljana",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Moskovska ulica 4, 1000 Ljubljana",
+   "phone": "040 379 987",
+   "website": "https://www.happygames.fun/",
+   "checked_at": "2026-10-17T05:25:35Z"
+  },
+  {
+   "name": "Harvey Norman | Ljubljana",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Letališka cesta 3d, 1000 Ljubljana",
+   "phone": "(01) 585 50 00",
+   "website": "https://www.harveynorman.si/",
+   "checked_at": "2026-10-17T05:26:12Z"
+  },
+  {
+   "name": "Harvey Norman | Maribor",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Bohova 1a, 2000 Maribor",
+   "phone": "(02) 300 48 50",
+   "website": "https://www.harveynorman.si/",
+   "checked_at": "2026-10-17T05:26:40Z"
+  },
+  {
+   "name": "Igraji",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "318 Dolenjska cesta, Škofljica, Ljubljana, 1291, Slovenia",
+   "phone": "+386030606603",
+   "website": "https://www.igraj.si/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "Joker City",
+   "group": "unknown",
+   "region": "Velenje",
+   "address": "40 Celjska cesta, Velenje, Velenje, 3320, Slovenia",
+   "phone": "+386041763507",
+   "website": "https://jokercity.si/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:15Z"
+  },
+  {
+   "name": "Kartuše.net - Kartuše in tonerji",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Titova cesta 44, 2000 Maribor",
+   "phone": "(02) 331 84 80",
+   "website": "https://xn--kartue-fkb.net/",
+   "checked_at": "2026-10-17T05:26:29Z"
+  },
+  {
+   "name": "Knjigarna bestseller.si",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Celovška cesta 160, 1000 Ljubljana",
+   "website": "https://www.bestseller.si/",
+   "checked_at": "2026-10-17T05:25:59Z"
+  },
+  {
+   "name": "Konzolko | igralne konzole in igre, servis, odkup in menjave | PlayStation | Xbox | Nintendo",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Francoska ulica 15 BTC - Hala 5, Tangram, 1000 Ljubljana",
+   "phone": "041 252 886",
+   "website": "https://www.konzolko.si/",
+   "checked_at": "2026-10-17T05:25:37Z"
+  },
+  {
+   "name": "Konzorcij Bookstore and Stationery",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Slovenska cesta 29, 1000 Ljubljana",
+   "phone": "(01) 241 06 54",
+   "website": "https://www.mladinska.com/trgovine/ljubljana-konzorcij",
+   "checked_at": "2026-10-17T05:26:24Z"
+  },
+  {
+   "name": "Magic Art",
+   "group": "unknown",
+   "address": "Smartinska cesta 152, Ljubljana, Ljubljana, 1000, Slovenia",
+   "phone": "38630313955",
+   "website": "https://magicshop.si/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "Mana Oaza",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Strossmayerjeva ulica 3, Maribor, Podravska, 2000, Slovenia",
+   "phone": "+38631804736",
+   "website": "https://www.mana-oaza.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:17Z"
+  },
+  {
+   "name": "Masta Trade, trgovske in poslovne storitve, d.o.o.",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Kolodvorska ulica 12, 1000 Ljubljana",
+   "phone": "(01) 431 00 77",
+   "website": "http://www.mastatrade.si/",
+   "checked_at": "2026-10-17T05:26:04Z"
+  },
+  {
+   "name": "Merkur d.d.",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Gerbičeva ulica 101, 1000 Ljubljana",
+   "phone": "(01) 242 86 20",
+   "website": "https://www.merkur.si/merkur-ljubljana-vic?utm_source=google&utm_medium=organic&utm_campaign=tc-lokacije-september&utm_content=merkur-ljubljana-vic",
+   "checked_at": "2026-10-17T05:26:19Z"
+  },
+  {
+   "name": "MERKUR Ljubljana BTC",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Hrvaška ulica 21, 1000 Ljubljana",
+   "phone": "(01) 520 08 14",
+   "website": "https://www.merkur.si/merkur-ljubljana-btc?utm_source=google&utm_medium=organic&utm_campaign=tc-lokacije-september&utm_content=merkur-ljubljana-btc",
+   "checked_at": "2026-10-17T05:26:17Z"
+  },
+  {
+   "name": "MERKUR Maribor",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Tržaška cesta 87, 2000 Maribor",
+   "phone": "(02) 333 89 00",
+   "website": "https://www.merkur.si/merkur-maribor?utm_source=google&utm_medium=organic&utm_campaign=tc-lokacije-september&utm_content=merkur-maribor",
+   "checked_at": "2026-10-17T05:26:35Z"
+  },
+  {
+   "name": "Merkur trgovina in storitve, d.d.",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Sokolska ulica 58, 2000 Maribor",
+   "phone": "(02) 429 21 00",
+   "website": "https://www.merkur.si/merkur-mojster-maribor?utm_source=google&utm_medium=organic&utm_campaign=tc-lokacije-september&utm_content=merkur-mojster-maribor",
+   "checked_at": "2026-10-17T05:26:35Z"
+  },
+  {
+   "name": "Mladinska knjiga - knjigarna in Svet knjige Kongresni trg",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Kongresni trg 8, 1000 Ljubljana",
+   "phone": "(01) 230 09 10",
+   "website": "https://www.mladinska.com/trgovine/ljubljana-kongresni-trg",
+   "checked_at": "2026-10-17T05:25:59Z"
+  },
+  {
+   "name": "Odkup Pokemon kart in zbirk (karte, albumi, sličice, figurice) NI fizična trgovina",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Lackova cesta 15a, 2000 Maribor",
+   "phone": "040 295 083",
+   "website": "https://linktr.ee/slocollector",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T05:25:41Z"
+  },
+  {
+   "name": "Osvoji Olimp / Conquer Olympus",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Ulica škofa Maksimilijana Držečnika 6, 2000 Maribor",
+   "website": "https://conquerolympus.eu/",
+   "checked_at": "2026-10-17T05:26:45Z"
+  },
+  {
+   "name": "OTK Cards",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Tržaška cesta 14, Maribor, Podravska, 2000, Slovenia",
+   "phone": "+386070583090",
+   "website": "https://otkcards.com/",
+   "buylist_url": "https://otkcards.com/retailer/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:20Z"
+  },
+  {
+   "name": "Paper Dealer",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Albrehtova ulica, 1291 Škofljica",
+   "website": "https://www.paperdealer.eu/",
+   "checked_at": "2026-10-17T05:25:36Z"
+  },
+  {
+   "name": "Park Enigma",
+   "group": "unknown",
+   "address": "5 Glavni trg, Kranj, Gorenjska, 4000, Slovenia",
+   "phone": "38659017635",
+   "website": "https://parkenigma.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:14Z"
+  },
+  {
+   "name": "PokeFan",
+   "group": "unknown",
+   "region": "Celje",
+   "address": "Mariborska cesta 86, 3000 Celje",
+   "website": "https://tcgstar.eu/",
+   "checked_at": "2026-10-17T05:26:06Z"
+  },
+  {
+   "name": "PokePower 2",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "1 Poljanska cesta, Ljubljana, Osrednjeslovenska, 1000, Slovenia",
+   "phone": "+386051641931",
+   "website": "https://poke-power.eu",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "POP SHOP SLOVENIJA",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Zaloška cesta 24, 1000 Ljubljana",
+   "phone": "041 512 565",
+   "website": "https://pop-shop.si/si/",
+   "checked_at": "2026-10-17T05:25:37Z"
+  },
+  {
+   "name": "Shopping Center Citypark",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Moskovska ulica 4, 1000 Ljubljana",
+   "phone": "(01) 587 30 50",
+   "website": "https://www.citypark.si/si/",
+   "checked_at": "2026-10-17T05:25:49Z"
+  },
+  {
+   "name": "Shopping center Europark Maribor",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Pobreška cesta 18, 2000 Maribor",
+   "phone": "(02) 320 82 10",
+   "website": "https://www.europark.si/si/",
+   "checked_at": "2026-10-17T05:26:27Z"
+  },
+  {
+   "name": "Spinwinera SI",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Vojkova cesta 59, 1000 Ljubljana",
+   "phone": "0778 376 726",
+   "website": "https://spin-winera.si/",
+   "checked_at": "2026-10-17T05:26:24Z"
+  },
+  {
+   "name": "Striparna Oblacek",
+   "group": "unknown",
+   "address": "Askerceva ulica 14, Celje, Celje, 3000, Slovenia",
+   "phone": "3860-68-164-210",
+   "website": "https://company.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:16Z"
+  },
+  {
+   "name": "Supernova Ljubljana Rudnik",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Jurčkova Cesta 223, 1000 Ljubljana",
+   "phone": "0820 08000",
+   "website": "https://www.supernova-ljubljana.si/",
+   "checked_at": "2026-10-17T05:25:49Z"
+  },
+  {
+   "name": "Supernova Maribor",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Cesta proletarskih brigad 100, 2000 Maribor",
+   "phone": "0820 08000",
+   "website": "https://www.supernova-maribor.si/",
+   "checked_at": "2026-10-17T05:26:25Z"
+  },
+  {
+   "name": "Tady",
+   "group": "unknown",
+   "address": "Studljanska cesta 36a, Domzale, Domzale, 1230, Slovenia",
+   "phone": "1800-800-8000",
+   "website": "https://wpn.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:14Z"
+  },
+  {
+   "name": "TJB FOKUS",
+   "group": "unknown",
+   "address": "Ulica Alenke Gerlovič 1, Brežice, Brežice, 8250, Slovenia",
+   "phone": "+386031379028",
+   "website": "https://www.tjbalkan.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:25Z"
+  },
+  {
+   "name": "Trafika 3DVA",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Levstikov trg 4, 1000 Ljubljana",
+   "phone": "051 282 697",
+   "website": "https://www.trafika3dva.si/",
+   "checked_at": "2026-10-17T05:25:59Z"
+  },
+  {
+   "name": "Trafika 3DVA",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Vodmatski trg 1, 1000 Ljubljana",
+   "phone": "051 282 779",
+   "website": "https://www.trafika3dva.si/",
+   "checked_at": "2026-10-17T05:26:05Z"
+  },
+  {
+   "name": "Trgovina TojeTo",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "29 Gallusovo nabrežje, Ljubljana, Ljubljana, 1000, Slovenia",
+   "phone": "+3638614256784",
+   "website": "https://www.tojeto.info/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:25:09Z"
+  },
+  {
+   "name": "Trgovski center City",
+   "group": "unknown",
+   "region": "Upravna enota Maribor",
+   "address": "Ulica Vita Kraigherja 5, 2000 Maribor",
+   "phone": "(02) 230 15 10",
+   "website": "https://city.si/",
+   "checked_at": "2026-10-17T05:26:29Z"
+  },
+  {
+   "name": "Value Add Games, založništvo, trgovina in storitve, d.o.o.",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Dunajska c. 106, 1000 Ljubljana",
+   "phone": "0820 57765",
+   "website": "https://valueaddgames.com/",
+   "checked_at": "2026-10-17T05:25:48Z"
+  },
+  {
+   "name": "Črna Luknja",
+   "group": "unknown",
+   "region": "Ljubljana",
+   "address": "Poljanska cesta 19, 1000 Ljubljana, Slovenia, Ljubljana, 1000",
+   "phone": "+386 590 31220",
+   "website": "https://www.crnaluknja.si/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:25:31Z"
+  }
+ ]
+}

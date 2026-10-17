@@ -1,0 +1,485 @@
+{
+ "country": "HR",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 46,
+ "stores": [
+  {
+   "name": "Animart Anime Shop",
+   "group": "blocked",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Ul. Ruđera Boškovića 13, 21000, Split",
+   "phone": "095 524 2522",
+   "website": "https://animart.hr/",
+   "checked_at": "2026-10-17T05:24:50Z"
+  },
+  {
+   "name": "Knjižara i antikvarijat Bono",
+   "group": "blocked",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Petrinjska ul. 83, 10000, Zagreb",
+   "phone": "01 4921 830",
+   "website": "https://antikvarijat-bono.com/",
+   "checked_at": "2026-10-17T05:24:46Z"
+  },
+  {
+   "name": "Superknjižara",
+   "group": "blocked",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Rooseveltov trg 4, 10000, Zagreb",
+   "phone": "01 4875 735",
+   "website": "https://www.superknjizara.hr/",
+   "checked_at": "2026-10-17T05:24:42Z"
+  },
+  {
+   "name": "Svijet Karata j.d.o.o.",
+   "group": "blocked",
+   "city": "Velika Gorica",
+   "region": "Zagrebačka županija",
+   "address": "Ul. Mate Lovraka 9, 10410, Velika Gorica",
+   "phone": "099 282 5888",
+   "website": "https://svijet-karata.hr/",
+   "checked_at": "2026-10-17T05:24:13Z"
+  },
+  {
+   "name": "CARDNATION HRVATSKA",
+   "group": "in_store",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Draškovićeva ul. 66, 10000, Zagreb",
+   "phone": "099 202 1185",
+   "website": "http://instagram.com/cardnation_hr",
+   "checked_at": "2026-10-17T05:24:17Z"
+  },
+  {
+   "name": "Format Toys & Cards",
+   "group": "in_store",
+   "city": "Kaštel Sućurac",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Cesta Dr. Franje Tuđmana 7, 21212, Kaštel Sućurac",
+   "phone": "091 617 4085",
+   "checked_at": "2026-10-17T05:24:50Z"
+  },
+  {
+   "name": "GameRock",
+   "group": "in_store",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Maksimirsko naselje IV 27, 10000, Zagreb",
+   "phone": "091 232 3868",
+   "checked_at": "2026-10-17T05:24:29Z"
+  },
+  {
+   "name": "Hobby shop",
+   "group": "in_store",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Frankopanska ul. 3, 10000, Zagreb",
+   "phone": "01 4830 313",
+   "checked_at": "2026-10-17T05:24:47Z"
+  },
+  {
+   "name": "ToyBox",
+   "group": "in_store",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Medarska ul. 80, 10000, Zagreb",
+   "phone": "01 6560 509",
+   "website": "http://www.toybox.com.hr/",
+   "checked_at": "2026-10-17T05:24:21Z"
+  },
+  {
+   "name": "Tvoja knjiga - Poké knjižara",
+   "group": "in_store",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ozaljska ul. 46, 10000, Zagreb",
+   "phone": "01 6646 609",
+   "checked_at": "2026-10-17T05:24:19Z"
+  },
+  {
+   "name": "Aquarius Music Shop",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Varšavska ul. 13, 10000, Zagreb",
+   "phone": "01 6391 673",
+   "website": "http://hr.cedeterija.com/",
+   "checked_at": "2026-10-17T05:24:43Z"
+  },
+  {
+   "name": "Arena Center",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. Vice Vukova 6, 10020, Zagreb",
+   "phone": "01 6661 411",
+   "website": "https://www.arenacentar.hr/",
+   "checked_at": "2026-10-17T05:24:47Z"
+  },
+  {
+   "name": "Carta Magica",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Frankopanska 24, Zagreb, 07, 10000, Croatia",
+   "phone": "+38(0) 514846099",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "Carta Magica Game Shop",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Frankopanska ul. 20, 10000, Zagreb",
+   "phone": "01 2112 754",
+   "website": "https://cartamagica.hr/",
+   "checked_at": "2026-10-17T05:24:12Z"
+  },
+  {
+   "name": "ChickenRoad HR",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. Frana Alfirevića 49, 10000, Zagreb",
+   "phone": "095 402 7970",
+   "website": "https://chicken-road.com.hr/",
+   "checked_at": "2026-10-17T05:24:41Z"
+  },
+  {
+   "name": "dabas Anime Shop",
+   "group": "unknown",
+   "city": "Zaprešić",
+   "region": "Zagrebačka županija",
+   "address": "Zagorska 10, Zapresic, Zagrebacka Zupanija, 10290, Croatia",
+   "phone": "+385916166209",
+   "website": "https://dabas.hr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "De Pol Trade",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Ul. Antuna Branka Šimića 31, 21000, Split",
+   "phone": "095 554 7897",
+   "website": "http://www.depoltrade.hr/",
+   "checked_at": "2026-10-17T05:24:54Z"
+  },
+  {
+   "name": "Dirty Old Shop",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Tratinska 34, 10000, Zagreb",
+   "phone": "01 5573 888",
+   "website": "https://www.dirtyoldempire.com/",
+   "checked_at": "2026-10-17T05:24:38Z"
+  },
+  {
+   "name": "Free Bird Music",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Tratinska 50, 10000, Zagreb",
+   "phone": "01 3821 870",
+   "website": "https://www.freebird.hr/",
+   "checked_at": "2026-10-17T05:24:47Z"
+  },
+  {
+   "name": "Gameshop",
+   "group": "unknown",
+   "city": "Rijeka",
+   "region": "Primorsko-goranska županija",
+   "address": "Adamićeva ul. 7, 51000, Rijeka, Croatia, Rijeka, Primorsko-goranska županija, 51000",
+   "phone": "+385993488868",
+   "website": "https://www.sophoslab.hr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:24:06Z"
+  },
+  {
+   "name": "GameStore (gamestore.hr) - GameStore je trgovina i servis igraćih konzola, dodatne gaming, opreme, mobitela i tableta.",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Tržnica Savica 1.kat, Lastovska ul. 2a, 10000, Zagreb",
+   "phone": "092 334 4455",
+   "website": "https://www.gamestore.hr/",
+   "checked_at": "2026-10-17T05:24:17Z"
+  },
+  {
+   "name": "Hero Heaven",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Tratinska 26, 10000, Zagreb",
+   "phone": "098 966 3117",
+   "website": "https://heroheaven.hr/",
+   "checked_at": "2026-10-17T05:24:32Z"
+  },
+  {
+   "name": "Hobby Art Chemaco",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. grada Vukovara 226B, 10000, Zagreb",
+   "phone": "01 6114 711",
+   "website": "https://www.chemaco.hr/hr/",
+   "checked_at": "2026-10-17T05:24:42Z"
+  },
+  {
+   "name": "House of Games",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "222 Ulica grada Vukovara, Zagreb, Grad Zagreb, 10000, Croatia",
+   "phone": "+385916042610",
+   "website": "https://thehouseofgames.eu",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "IRON THRONE of Game of Thrones in Split city shop",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Bosanska ul. 10, 21000, Split",
+   "website": "https://docs.google.com/forms/d/e/1FAIpQLSeC0MAG40o9OKr1h9AqYTnVeVZaf4VzaCzjPqKGsuOT6mOC3g/viewform?usp=send_form",
+   "checked_at": "2026-10-17T05:24:50Z"
+  },
+  {
+   "name": "Konan Games",
+   "group": "unknown",
+   "address": "1 Vrančićeva ul., Split, Splitsko-dalmatinska županija, 21000, Croatia",
+   "phone": "+385955314918",
+   "website": "https://www.konan-games.hr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:06Z"
+  },
+  {
+   "name": "Magic Omens",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Savska Cesta 144A, Zagreb, 01, 10000, Croatia",
+   "phone": "1(+385) (0) 919.820.250",
+   "website": "https://magicomens.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "Menart multimedijalna knjižara",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Avenija Dubrovnik 16, 10000, Zagreb",
+   "phone": "01 2359 375",
+   "website": "https://menartshop.hr/",
+   "checked_at": "2026-10-17T05:24:27Z"
+  },
+  {
+   "name": "miniBIGme trgovina",
+   "group": "unknown",
+   "city": "Donja Stubica",
+   "region": "Krapinsko-zagorska županija",
+   "address": "Golubovečka ul. 6, 49240, Donja Stubica",
+   "phone": "049 288 090",
+   "website": "https://minibigme.com/",
+   "checked_at": "2026-10-17T05:24:21Z"
+  },
+  {
+   "name": "Minshara doo",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Biogradska ul., 21000, Split",
+   "phone": "060 320 417",
+   "website": "http://www.minshara.hr/hr/",
+   "checked_at": "2026-10-17T05:24:58Z"
+  },
+  {
+   "name": "Müller",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Vukovarska ul. 207, 21000, Split",
+   "phone": "021 434 540",
+   "website": "https://www.mueller.hr/moja-poslovnica/",
+   "checked_at": "2026-10-17T05:24:57Z"
+  },
+  {
+   "name": "Origin Cards",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. Braće Domany 8, 10000, Zagreb",
+   "website": "http://origin-cards.com/",
+   "checked_at": "2026-10-17T05:24:08Z"
+  },
+  {
+   "name": "Phoenix Feather",
+   "group": "unknown",
+   "city": "Osijek",
+   "region": "Osječko-baranjska županija",
+   "address": "Trg Lava Mirskog 3, 31000, Osijek, Croatia, Osijek, Osječko-baranjska županija, 31000",
+   "phone": "+385992229064",
+   "website": "https://www.phoenix-feather.eu",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:24:08Z"
+  },
+  {
+   "name": "Rockmark - Glazbena knjižara",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. Hrvatske bratske zajednice 4, 10000, Zagreb",
+   "phone": "01 5392 430",
+   "website": "https://www.rockmark.hr/",
+   "checked_at": "2026-10-17T05:24:19Z"
+  },
+  {
+   "name": "SAT MEDIA Ltd.",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Slavonska ul. 33, 10040, Zagreb",
+   "phone": "01 2932 283",
+   "website": "https://satmedia.hr/",
+   "checked_at": "2026-10-17T05:24:24Z"
+  },
+  {
+   "name": "Skupi sve",
+   "group": "unknown",
+   "address": "Ulica Baruna Trenka 8, Zagreb, Grad Zagreb, 10000, Croatia",
+   "phone": "+385998314378",
+   "website": "https://skupisve.hr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "Squared Comics",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Preradovićeva ul. 34, 10000, Zagreb",
+   "phone": "01 4837 777",
+   "website": "https://www.stripovi.hr/",
+   "checked_at": "2026-10-17T05:24:29Z"
+  },
+  {
+   "name": "Strip-knjižara Asteroid B612",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Gajeva ul. 17, 10000, Zagreb",
+   "phone": "01 4819 636",
+   "website": "https://skab612.com/",
+   "checked_at": "2026-10-17T05:24:29Z"
+  },
+  {
+   "name": "Stripovi Columbo",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Kragića ul. 2, 21000, Split",
+   "phone": "091 509 6388",
+   "website": "https://www.stripovicolumbo.com/",
+   "checked_at": "2026-10-17T05:24:59Z"
+  },
+  {
+   "name": "Svarog's Den",
+   "group": "unknown",
+   "city": "Varaždin",
+   "region": "Varaždinska županija",
+   "address": "17 Ul. Ljudevita Gaja, Varaždin, Varaždinska županija, 42000, Croatia",
+   "phone": "+385977845177",
+   "website": "https://svarogsden.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:24:00Z"
+  },
+  {
+   "name": "Trgovina Kolekcionar - numizmatika,filatelija,stare razglednice,kristali,minerali",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Vlaška ul. 97, 10000, Zagreb",
+   "phone": "01 4817 526",
+   "website": "https://kolekcionar.hr/",
+   "checked_at": "2026-10-17T05:24:17Z"
+  },
+  {
+   "name": "Udruga Custodes",
+   "group": "unknown",
+   "city": "Split",
+   "region": "Splitsko-dalmatinska županija",
+   "address": "Vrančićeva ul. 1, 21000, Split",
+   "website": "https://udruga-custodes.hr/",
+   "checked_at": "2026-10-17T05:24:53Z"
+  },
+  {
+   "name": "Udruga Stripforum",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Radnička cesta 22, 10000, Zagreb",
+   "website": "http://www.stripforum.hr/",
+   "checked_at": "2026-10-17T05:24:49Z"
+  },
+  {
+   "name": "Znanje Bookshop",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Gajeva ul. 1, 10000, Zagreb",
+   "phone": "01 5812 852",
+   "website": "https://znanje.hr/",
+   "checked_at": "2026-10-17T05:24:29Z"
+  },
+  {
+   "name": "Zuzi (second hand) bookstore",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Ul. Antuna Šoljana 33, 10090, Zagreb",
+   "website": "https://www.zuzi.hr/",
+   "checked_at": "2026-10-17T05:24:39Z"
+  },
+  {
+   "name": "Što čitaš? - antikvarijat i knjižara",
+   "group": "unknown",
+   "city": "Zagreb",
+   "region": "Grad Zagreb",
+   "address": "Frankopanska ul. 22, 10000, Zagreb",
+   "phone": "01 4827 250",
+   "website": "http://www.stocitas.org/",
+   "checked_at": "2026-10-17T05:24:41Z"
+  }
+ ]
+}

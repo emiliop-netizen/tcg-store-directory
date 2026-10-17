@@ -1,0 +1,1614 @@
+{
+ "country": "GR",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 161,
+ "stores": [
+  {
+   "name": "Cardcore Arena",
+   "group": "quote_only",
+   "city": "Nea Ionia",
+   "address": "Eptalofou 6, Nea Ionia 142 31",
+   "phone": "21 0440 4336",
+   "website": "https://cardcore.gr/",
+   "buylist_url": "https://cardcore.gr/sell-your-cards/",
+   "mail_in": true,
+   "checked_at": "2026-10-17T05:11:21Z"
+  },
+  {
+   "name": "ExtremePokeCorner",
+   "group": "quote_only",
+   "city": "Ag. Ioannis Rentis",
+   "address": "P. Mela 32, Ag. Ioannis Rentis 182 33",
+   "phone": "21 0482 5728",
+   "website": "https://extremepokecorner.com/",
+   "buylist_url": "https://extremepokecorner.com/sell-your-cards/",
+   "checked_at": "2026-10-17T05:11:29Z"
+  },
+  {
+   "name": "Anélixē",
+   "group": "blocked",
+   "city": "Athina",
+   "address": "Ippokratous 161Α, Athina 114 72",
+   "phone": "21 1333 5340",
+   "website": "https://anelixi.com.gr/",
+   "checked_at": "2026-10-17T05:12:07Z"
+  },
+  {
+   "name": "ARCADES.GR",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "Kanari 35, Thessaloniki 544 53",
+   "phone": "693 997 7077",
+   "website": "http://www.arcades.gr/",
+   "checked_at": "2026-10-17T05:12:41Z"
+  },
+  {
+   "name": "BreakingCards",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "Kourtesi 29, Chalandri 15234, Athens, Attiki, 15234, Greece",
+   "phone": "+302106004326",
+   "website": "https://www.cardmarket.com/en/Magic/Users/BreakingCards",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:43Z"
+  },
+  {
+   "name": "Card Mall Περιστέρι - YGO.gr",
+   "group": "blocked",
+   "city": "Peristeri",
+   "address": "AKROPOLEOS 4, Markopoulo, Attiki, 12134, Greece",
+   "phone": "+302112184757",
+   "website": "https://ygo.gr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "GAMELAND",
+   "group": "blocked",
+   "city": "Nea Ionia",
+   "address": "Ifigenias 21, Nea Ionia 142 31",
+   "phone": "21 0279 0271",
+   "website": "https://www.gameland.com.gr/",
+   "checked_at": "2026-10-17T05:11:49Z"
+  },
+  {
+   "name": "GenX Gaming Store",
+   "group": "blocked",
+   "city": "Egaleo",
+   "address": "Kerasountos 80, Egaleo 122 42, Greece, Egaleo, 122 42",
+   "phone": "211-1111649",
+   "website": "https://www.genx.gr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:01Z"
+  },
+  {
+   "name": "HobbyPlanet Elefsis",
+   "group": "blocked",
+   "address": "Ermou 75 & Tsoka, Athens, Attica, 19200, Greece",
+   "phone": "302114040614",
+   "website": "https://www.xo.gr/profile/profile-911699285/en/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:46Z"
+  },
+  {
+   "name": "I.Q. Games",
+   "group": "blocked",
+   "city": "Nafplio",
+   "address": "Char. Trikoupi 9, Nafplio 211 00, Greece, Nafplio, 211 00",
+   "phone": "+30 2752 302142",
+   "website": "https://www.cardmarket.com/en/Magic/Users/MTG-AGORA",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:00Z"
+  },
+  {
+   "name": "Kalogiannis, A., & Co. E.E.",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "Fragkon 16, Thessaloniki 546 26",
+   "phone": "231 055 5557",
+   "website": "http://www.kalogiannis.gr/",
+   "checked_at": "2026-10-17T05:12:37Z"
+  },
+  {
+   "name": "Mythic Vault - Thessaloniki",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "71 Εγνατία, Thessaloniki, Central Macedonia, 546 23, Greece",
+   "phone": "+302311545990",
+   "website": "https://mythicvault.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:49Z"
+  },
+  {
+   "name": "Nerdom",
+   "group": "blocked",
+   "city": "Athina",
+   "address": "Kallirrois 17, Athina 117 43",
+   "phone": "21 0923 0883",
+   "website": "http://www.nerdom.gr/",
+   "checked_at": "2026-10-17T05:11:32Z"
+  },
+  {
+   "name": "Nerdom",
+   "group": "blocked",
+   "city": "Marousi",
+   "address": "Andrea Papandreou 35, Marousi 151 22",
+   "phone": "21 0923 0883",
+   "website": "https://www.nerdom.gr/",
+   "checked_at": "2026-10-17T05:12:13Z"
+  },
+  {
+   "name": "OtakuStore",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "25is Martiou 51, Thessaloniki 542 48",
+   "phone": "231 081 0268",
+   "website": "https://www.otakustore.gr/",
+   "checked_at": "2026-10-17T05:12:47Z"
+  },
+  {
+   "name": "Pegasus Collectables",
+   "group": "blocked",
+   "city": "Stavroupoli",
+   "address": "Karavaggeli Germanou 25, Stavroupoli 564 31",
+   "phone": "231 700 3384",
+   "website": "https://www.pegasuscollectables.gr/",
+   "checked_at": "2026-10-17T05:12:28Z"
+  },
+  {
+   "name": "Playhouse",
+   "group": "blocked",
+   "city": "Thessaloniki",
+   "address": "Geor. Charalampous Kipriou 7, Thessaloniki 546 22",
+   "phone": "231 026 1086",
+   "website": "https://playhousegames.eu/",
+   "checked_at": "2026-10-17T05:12:39Z"
+  },
+  {
+   "name": "Roll 'n' Trade",
+   "group": "blocked",
+   "city": "Volos",
+   "address": "Konstanta 144, Volos 382 21, Greece, Volos, 382 21",
+   "phone": "00302421031562",
+   "website": "https://rollntrade.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:03Z"
+  },
+  {
+   "name": "SopCoins",
+   "group": "blocked",
+   "city": "Athina",
+   "address": "Stadiou 5, Athina 105 62",
+   "phone": "21 0440 3900",
+   "website": "https://sopcoins.com/",
+   "checked_at": "2026-10-17T05:11:56Z"
+  },
+  {
+   "name": "Syndiq Games",
+   "group": "blocked",
+   "city": "Argiroupoli",
+   "address": "Roumelis 45 , Argiroupoli, Athens, Attiki, 16451, Greece",
+   "phone": "+302130056273",
+   "website": "https://syndiqgames.com",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:40Z"
+  },
+  {
+   "name": "Card Mall - Peristeri",
+   "group": "in_store",
+   "city": "Peristeri",
+   "address": "Akropoleos 4, Peristeri 121 34, Greece, Peristeri, 121 34",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:20Z"
+  },
+  {
+   "name": "Change of hearts",
+   "group": "in_store",
+   "city": "Athina",
+   "address": "Kritis 21, Athina 104 38",
+   "phone": "699 641 4999",
+   "checked_at": "2026-10-17T05:11:32Z"
+  },
+  {
+   "name": "christos anestakis - C4 Gamers",
+   "group": "in_store",
+   "city": "Kalamaria",
+   "address": "Kerasountos 65, Kalamaria 551 31, Greece, Kalamaria, 551 31",
+   "phone": "6978802106",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:12Z"
+  },
+  {
+   "name": "D20 GAMES",
+   "group": "in_store",
+   "city": "Paros",
+   "address": "Epar.Od. Parikias-Pountas 1, Paros 844 00, Greece, Paros, 844 00",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:12Z"
+  },
+  {
+   "name": "Diachron Games",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Giannitson 31, Thessaloniki 546 27",
+   "phone": "231 128 7640",
+   "checked_at": "2026-10-17T05:12:47Z"
+  },
+  {
+   "name": "Digital Fantasy",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Diagora 106, Thessaloniki 543 51",
+   "phone": "231 092 0020",
+   "checked_at": "2026-10-17T05:12:29Z"
+  },
+  {
+   "name": "Ekavi Shop",
+   "group": "in_store",
+   "city": "Athina",
+   "address": "Voulis 21, Athina 105 63",
+   "phone": "21 0323 7740",
+   "checked_at": "2026-10-17T05:11:49Z"
+  },
+  {
+   "name": "Fantasic Market",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Ionos Dragoumi 38, Thessaloniki 546 31",
+   "phone": "231 022 0676",
+   "checked_at": "2026-10-17T05:13:20Z"
+  },
+  {
+   "name": "Game Changer TCG",
+   "group": "in_store",
+   "city": "Peristeri",
+   "address": "Damokleous, Peristeri 121 31",
+   "checked_at": "2026-10-17T05:11:31Z"
+  },
+  {
+   "name": "GAME ON Peristeri",
+   "group": "in_store",
+   "city": "Peristeri",
+   "address": "Leof. Panagi Tsaldari 63, Peristeri 121 34, Greece, Peristeri, 121 34",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:18Z"
+  },
+  {
+   "name": "Gamer's castle",
+   "group": "in_store",
+   "city": "Ag. Dimitrios",
+   "address": "Leonidou 4, Ag. Dimitrios 173 43",
+   "phone": "21 0976 0763",
+   "website": "https://www.facebook.com/people/Gamers-castle/100057458349676/",
+   "checked_at": "2026-10-17T05:11:31Z"
+  },
+  {
+   "name": "Hobby Games",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Geor. Theochari 4, Thessaloniki 546 21",
+   "phone": "231 025 2668",
+   "checked_at": "2026-10-17T05:12:26Z"
+  },
+  {
+   "name": "ISPANIDIS NIKOLAOS- Nino Toys",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Katouni 45, Thessaloniki 546 25",
+   "phone": "231 053 2936",
+   "checked_at": "2026-10-17T05:13:04Z"
+  },
+  {
+   "name": "Kaissa Halandri",
+   "group": "in_store",
+   "city": "Chalandri",
+   "address": "Aristotelous 33, Chalandri 152 34",
+   "phone": "21 0689 8485",
+   "website": "https://www.facebook.com/kaissahalandri/",
+   "checked_at": "2026-10-17T05:11:31Z"
+  },
+  {
+   "name": "Kaissa Peristeri",
+   "group": "in_store",
+   "city": "Peristeri",
+   "address": "Eth. Antistaseos 85Α, Peristeri 121 34",
+   "phone": "21 0572 2291",
+   "checked_at": "2026-10-17T05:11:40Z"
+  },
+  {
+   "name": "Kaizoku TCG hall",
+   "group": "in_store",
+   "city": "Pireas",
+   "address": "Elpidos 4, Athens, Attiki, 14231, Greece",
+   "phone": "+306934438868",
+   "website": "https://www.instagram.com/kaizokutcghall",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:42Z"
+  },
+  {
+   "name": "No Label X",
+   "group": "in_store",
+   "city": "Athina",
+   "address": "48 28is Oktovriou, Athina, Attiki, 106 82, Greece",
+   "phone": "302103828877",
+   "website": "https://www.facebook.com/NoLabelX",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "PANDA GAMER",
+   "group": "in_store",
+   "city": "Koridallos",
+   "address": "Kritis 61, Koridallos 181 20, Greece, Koridallos, 181 20",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:18Z"
+  },
+  {
+   "name": "Pekíno",
+   "group": "in_store",
+   "city": "Ampelokipi",
+   "address": "Christou Rapti 63-41, Ampelokipi 561 23",
+   "phone": "231 074 9889",
+   "checked_at": "2026-10-17T05:13:15Z"
+  },
+  {
+   "name": "SOUVENIRS",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Leof. Nikis 11, Thessaloniki 546 24",
+   "phone": "231 022 4376",
+   "checked_at": "2026-10-17T05:12:35Z"
+  },
+  {
+   "name": "spartans casebreaker",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Nea, door A, Irakleous 37, Thessaloniki 542 49",
+   "phone": "694 894 1578",
+   "checked_at": "2026-10-17T05:12:31Z"
+  },
+  {
+   "name": "TECHBOX",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Al. Papanastasiou 100, Thessaloniki 546 44",
+   "phone": "231 055 3055",
+   "website": "https://www.techbox.com.gr/",
+   "checked_at": "2026-10-17T05:12:37Z"
+  },
+  {
+   "name": "The Lab Game Store",
+   "group": "in_store",
+   "city": "Skidra",
+   "address": "Eth. Antistasis 28, Skidra 585 00, Greece, Skidra, 585 00",
+   "phone": "+30 2381089323",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:11Z"
+  },
+  {
+   "name": "Tutorial",
+   "group": "in_store",
+   "city": "Kalamaria",
+   "address": "Mitropolitou Chrisanthou 20, Kalamaria 551 32, Greece, Kalamaria, 551 32",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:18Z"
+  },
+  {
+   "name": "Underworld Games",
+   "group": "in_store",
+   "city": "Thessaloniki",
+   "address": "Kon/nou Paleologou 25, Thessaloniki 546 35",
+   "phone": "231 024 0193",
+   "website": "https://www.facebook.com/UnderworldGames",
+   "checked_at": "2026-10-17T05:12:33Z"
+  },
+  {
+   "name": "Acheron Vault",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Spirou Patsi 86, Athina 118 55",
+   "phone": "698 561 8176",
+   "website": "https://acheronvault.com/",
+   "checked_at": "2026-10-17T05:11:30Z"
+  },
+  {
+   "name": "Aenao Toys",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "25is Martiou 47, Thessaloniki 542 48",
+   "phone": "698 185 9017",
+   "website": "https://aenaotoys.gr/",
+   "checked_at": "2026-10-17T05:13:06Z"
+  },
+  {
+   "name": "all your senses",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Roumpesi 42, Athina 117 44",
+   "phone": "21 0901 9412",
+   "website": "https://www.allyoursenses.gr/",
+   "checked_at": "2026-10-17T05:12:07Z"
+  },
+  {
+   "name": "Angrynerd",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Alexandrias 89, Thessaloniki 546 46",
+   "phone": "231 325 1073",
+   "website": "https://angrynerd.gr/",
+   "checked_at": "2026-10-17T05:12:31Z"
+  },
+  {
+   "name": "Anime House",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kallidopoulou 26, Thessaloniki, Thessaloniki, 54642, Greece",
+   "phone": "30231 081 1173",
+   "website": "https://www.animehouse.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:51Z"
+  },
+  {
+   "name": "Anime Portal GR",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kon/nou Paleologou 17, Thessaloniki 546 22",
+   "website": "https://store.animeportal.gr/",
+   "checked_at": "2026-10-17T05:12:29Z"
+  },
+  {
+   "name": "Anime World",
+   "group": "unknown",
+   "address": "Riga Feraiou 45, Thessaloniki, Central Macedonia, 56728, Greece",
+   "phone": "+302313035929",
+   "website": "https://animeworld.gr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:49Z"
+  },
+  {
+   "name": "ANTHEM EFFECT",
+   "group": "unknown",
+   "city": "Kallithea",
+   "address": "Likourgou 70, Kallithea 176 76, Greece, Kallithea, 176 76",
+   "phone": "2111825670",
+   "website": "https://anthem-effect.business.site/?utm_source=gmb&utm_medium=referral",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:04Z"
+  },
+  {
+   "name": "Arcaneforge.gr",
+   "group": "unknown",
+   "city": "Egaleo",
+   "address": "Vizantiou 2, Egaleo 122 42, Greece, Egaleo, 122 42",
+   "phone": "6938145591",
+   "website": "https://www.arcaneforge.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:13Z"
+  },
+  {
+   "name": "argytoys",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Agiou Nikolaou 3, Thessaloniki 570 01",
+   "phone": "231 046 2441",
+   "website": "https://www.argytoys.gr/",
+   "checked_at": "2026-10-17T05:12:44Z"
+  },
+  {
+   "name": "Arkoudáki",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kassandrou 67, Thessaloniki 546 33",
+   "phone": "231 121 8362",
+   "website": "https://arkoudakistore.gr/",
+   "checked_at": "2026-10-17T05:12:50Z"
+  },
+  {
+   "name": "Aroundyou",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Likourgou 9, Athina 105 51",
+   "phone": "21 0325 4175",
+   "website": "https://aroundyou.gr/",
+   "checked_at": "2026-10-17T05:11:54Z"
+  },
+  {
+   "name": "ATHENS COLLECTIBLES",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "LEOSTHENOUS 3, ATHENS, GREECE, 11631, Greece",
+   "phone": "+302109025317",
+   "website": "https://www.athenscollectibles.gr/el",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Black Flame Collectibles",
+   "group": "unknown",
+   "city": "Kalamaria",
+   "address": "Kouskoura Street 18, Thessaloniki, Thessaloniki, 55131, Greece",
+   "phone": "+306943766775",
+   "website": "https://www.blackflamecollectibles.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:54Z"
+  },
+  {
+   "name": "Black Flame Collectibles",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kouskoura 18, Thessaloniki 551 31",
+   "phone": "694 376 6775",
+   "website": "https://www.blackflamecollectibles.com/",
+   "checked_at": "2026-10-17T05:12:26Z"
+  },
+  {
+   "name": "Blueflame",
+   "group": "unknown",
+   "city": "Dafni",
+   "address": "Gymnastiriou 21 Dafni, Athens, Attiki, 17235, Greece",
+   "phone": "+302121215273",
+   "website": "https://www.blueflamestore.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Buzzer.gr",
+   "group": "unknown",
+   "city": "Tavros",
+   "address": "Grigoriou Lampraki 86, Tavros 177 78",
+   "phone": "21 1001 3265",
+   "website": "https://buzzer.gr/",
+   "checked_at": "2026-10-17T05:11:36Z"
+  },
+  {
+   "name": "c4gamers",
+   "group": "unknown",
+   "city": "Kalamaria",
+   "address": "Sourmenon 46, Kalamaria 551 31",
+   "phone": "694 777 0555",
+   "website": "https://d4e6a3-7f.myshopify.com/",
+   "checked_at": "2026-10-17T05:12:30Z"
+  },
+  {
+   "name": "CardBros",
+   "group": "unknown",
+   "city": "Nikea",
+   "address": "Agiou Ioannou 4 & Ganoxoron, Athens, Keratsini, 18450, Greece",
+   "phone": "+302110087051",
+   "website": "https://www.cardbros.gr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:41Z"
+  },
+  {
+   "name": "CardsHive Tsimiski",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Tsimiski Ioannou 7, Thessaloniki, GR, 54625, Greece",
+   "phone": "+302311545555",
+   "website": "https://www.cardshive.gr",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:47Z"
+  },
+  {
+   "name": "Chania Collectibles",
+   "group": "unknown",
+   "city": "Chania",
+   "address": "Apokoronou 15, Chania 731 34, Greece, Chania, 731 34",
+   "phone": "+30 2821 056026",
+   "website": "https://www.athenscollectibles.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:20Z"
+  },
+  {
+   "name": "Chronokápsoula",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Efstratiou Pissa 48-50, Athina 117 44",
+   "website": "https://vendora.gr/@xronokapsoula",
+   "checked_at": "2026-10-17T05:11:51Z"
+  },
+  {
+   "name": "COLLECTOR CENTER Ε Ε",
+   "group": "unknown",
+   "city": "Chalandri",
+   "address": "Eyvoias 2, Athens, Chalandri, 152 31, Greece",
+   "phone": "+302106711811",
+   "website": "https://collectorcenter.gr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:37Z"
+  },
+  {
+   "name": "comicon-shop",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Solonos 128, Athina 106 81",
+   "phone": "21 3008 0255",
+   "website": "https://comicon-shop.gr/",
+   "checked_at": "2026-10-17T05:12:14Z"
+  },
+  {
+   "name": "ComicStrip",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Solonos 125, Athina 106 78",
+   "phone": "21 5540 2852",
+   "website": "https://comicstrip.gr/",
+   "checked_at": "2026-10-17T05:11:36Z"
+  },
+  {
+   "name": "Cosmic Realms",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Alexandrias 68, Thessaloniki 546 45",
+   "phone": "231 303 9190",
+   "website": "https://www.cosmicrealms.gr/",
+   "checked_at": "2026-10-17T05:12:32Z"
+  },
+  {
+   "name": "Crystal Lotus",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "3 Skouze, Athens, Attica, 10560, Greece",
+   "phone": "+302102205729",
+   "website": "https://crystallotus.eu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Damigos",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Nikiou 6, Athina 105 60",
+   "phone": "21 0324 7969",
+   "website": "https://damigostoys.gr/",
+   "checked_at": "2026-10-17T05:11:58Z"
+  },
+  {
+   "name": "Digital Fantasy Thessaloniki",
+   "group": "unknown",
+   "city": "Kerkira",
+   "address": "106 Diagora Str, Thessaloniki, 54, 54351, Greece",
+   "phone": "30231 092 0020",
+   "website": "https://dfantasy.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:53Z"
+  },
+  {
+   "name": "eFantasy.gr Game Arena",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Iasonidou 13, Thessaloniki, 54, 54635, Greece",
+   "phone": "+30(0)2313021171",
+   "website": "https://www.efantasy.gr",
+   "buylist_url": "https://www.efantasy.gr/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:46Z"
+  },
+  {
+   "name": "eFantasy.gr Heraklion",
+   "group": "unknown",
+   "city": "Iraklio",
+   "address": "Evans 5, Iraklio 712 01, Greece, Iraklio, 712 01",
+   "phone": "+30 281 024 4500",
+   "website": "https://www.efantasy.gr/",
+   "buylist_url": "https://www.efantasy.gr/retailer/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:08Z"
+  },
+  {
+   "name": "Empire Vinyl - CD - DVD",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kon/nou Paleologou 10, Thessaloniki 546 22",
+   "phone": "698 076 3320",
+   "website": "https://empirestore.gr/",
+   "checked_at": "2026-10-17T05:12:44Z"
+  },
+  {
+   "name": "Fantasy Shop",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "3rd Septembriou 65, Athens, Greece, 10433, Greece",
+   "phone": "30210-823-1072",
+   "website": "https://www.fantasy-shop.gr/en/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Fantasy Wanderer",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Petrou Sindika 18, Thessaloniki 546 45",
+   "phone": "231 602 2466",
+   "website": "https://fantasywanderer.gr/",
+   "checked_at": "2026-10-17T05:12:35Z"
+  },
+  {
+   "name": "FANTOM",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Ermou 20, Thessaloniki 546 23",
+   "phone": "231 028 7680",
+   "website": "https://fantomtoys.com/",
+   "checked_at": "2026-10-17T05:12:55Z"
+  },
+  {
+   "name": "Fun Planet",
+   "group": "unknown",
+   "city": "Kallithea",
+   "address": "Dimosthenous 201, Kallithea 176 73",
+   "phone": "21 0958 9788",
+   "website": "https://www.funplanet.gr/",
+   "checked_at": "2026-10-17T05:12:08Z"
+  },
+  {
+   "name": "GAME KNIGHT",
+   "group": "unknown",
+   "city": "Marousi",
+   "address": "Thiseos 40, Marousi 151 24, Greece, Marousi, 151 24",
+   "phone": "+30 21 0612 7161",
+   "website": "https://www.gameknight.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:18Z"
+  },
+  {
+   "name": "GAME ON - Athens",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "41 Leof. Mesogeion, Μενεμένη, Ampelokipoi, 115 26, Greece",
+   "phone": "302130453124",
+   "website": "https://gameongreece.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Game Theory",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Asteropis 14, Athina 116 33, Greece, Athina, 116 33",
+   "phone": "2102856212",
+   "website": "https://www.gametheory.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:11Z"
+  },
+  {
+   "name": "GameExplorers.gr",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Panormou 31, Athina 115 22",
+   "phone": "21 0642 4092",
+   "website": "https://www.gameexplorers.gr/",
+   "checked_at": "2026-10-17T05:11:26Z"
+  },
+  {
+   "name": "Gamescape",
+   "group": "unknown",
+   "city": "Agios Dimitrios",
+   "address": "10 I. Metaxa, Ag. Dimitrios, Attiki, 173 43, Greece",
+   "phone": "302110011626",
+   "website": "https://gamescape.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Gamescape TCG Store",
+   "group": "unknown",
+   "city": "Ag. Dimitrios",
+   "address": "I. Metaxa 10, Ag. Dimitrios 173 43",
+   "phone": "21 1001 1626",
+   "website": "https://gamescape.gr/",
+   "checked_at": "2026-10-17T05:11:22Z"
+  },
+  {
+   "name": "Gamestation",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "28is Oktovriou 23, Athina 104 32",
+   "phone": "21 0524 4488",
+   "website": "https://www.gamestation.gr/el/",
+   "checked_at": "2026-10-17T05:11:47Z"
+  },
+  {
+   "name": "Hello Kids",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Char. Trikoupi 6-10, Athina 106 79",
+   "phone": "21 0682 8809",
+   "website": "https://www.hellokids.gr/",
+   "checked_at": "2026-10-17T05:12:09Z"
+  },
+  {
+   "name": "Highfly Αθήνα",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Timosthenous 10, Athina 104 42",
+   "phone": "699 763 1242",
+   "website": "https://highflybetslots.com.gr/",
+   "checked_at": "2026-10-17T05:12:13Z"
+  },
+  {
+   "name": "HobbyHub",
+   "group": "unknown",
+   "city": "Iraklio",
+   "address": "Steliou Karagiorgi 6, Athens, Attiki, 14121, Greece",
+   "phone": "+306982202084",
+   "website": "https://hobbyhub.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:42Z"
+  },
+  {
+   "name": "HobbyPlanet LTD",
+   "group": "unknown",
+   "address": "Agiou Georgiou 22, Athens, Athens, 15234, Greece",
+   "phone": "+30 210 60 42 291",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:42Z"
+  },
+  {
+   "name": "House of Cards and Figures",
+   "group": "unknown",
+   "address": "72 Ασπασίας, Athens, Attica, 15561, Greece",
+   "phone": "+302106525855",
+   "website": "https://cardsandfigures.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:32Z"
+  },
+  {
+   "name": "I Love Thessaloniki",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Dim. Gounari 28, Thessaloniki 546 21",
+   "phone": "231 431 1353",
+   "website": "https://www.ilovethessaloniki.com/",
+   "checked_at": "2026-10-17T05:12:37Z"
+  },
+  {
+   "name": "Jemma Βooks & Comics - Jemma Press",
+   "group": "unknown",
+   "city": "Pireas",
+   "address": "Alkiviadou 138-140, Pireas 185 35",
+   "phone": "21 0422 7664",
+   "website": "https://www.jemmacomics.com/",
+   "checked_at": "2026-10-17T05:12:19Z"
+  },
+  {
+   "name": "Jemma-Tilt",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Asklipiou 37, Athina 106 80",
+   "phone": "21 0363 6028",
+   "website": "https://www.jemmacomics.com/",
+   "checked_at": "2026-10-17T05:12:23Z"
+  },
+  {
+   "name": "Kaissa Amarousiou",
+   "group": "unknown",
+   "city": "Marousi",
+   "address": "G. Kondili 7, Athens, Athens, 15122, Greece",
+   "phone": "3021 0614 1675",
+   "website": "https://www.kaissa.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:45Z"
+  },
+  {
+   "name": "Kaissa ilioupolis",
+   "group": "unknown",
+   "city": "Ilioupoli",
+   "address": "Agiou Konstantinou 6, Ilioupoli, A1, 16346, Greece",
+   "phone": "+30 21 1404 9855",
+   "website": "https://avalongames.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:27Z"
+  },
+  {
+   "name": "Kaissa of Kallidromiou",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Kallidromiou 8, Athina 114 72",
+   "phone": "21 0360 6488",
+   "website": "https://kaissagames.com/",
+   "buylist_url": "https://kaissagames.com/b2c_gr/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-17T05:11:29Z"
+  },
+  {
+   "name": "Kaissa Peristeri",
+   "group": "unknown",
+   "city": "Piraeus",
+   "address": "Ethnikis Antistaseos 85A, Athens, Athens, 12134, Greece",
+   "phone": "3021 0572 2291",
+   "website": "https://kaissagames.com/b2c_gr/",
+   "buylist_url": "https://kaissagames.com/b2c_gr/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:34Z"
+  },
+  {
+   "name": "Kaissa Thessalonikis x Tutorial",
+   "group": "unknown",
+   "city": "Kalamaria",
+   "address": "MITROPOLITOU CHRISANTHOU 20, , Thessaloniki, MACEDONIA, 55132, Greece",
+   "phone": "+302313037108",
+   "website": "https://tutorialstores.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:55Z"
+  },
+  {
+   "name": "KIFISIA COLLECTIBLES",
+   "group": "unknown",
+   "city": "Kifisia",
+   "address": "Leof. Kifisias 228, Kifisia 145 62, Greece, Kifisia, 145 62",
+   "phone": "2105153064",
+   "website": "https://www.athenscollectibles.gr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:18Z"
+  },
+  {
+   "name": "Koala toys - Κατάστημα Παιχνιδιών, Θεσσαλονίκη",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Mark. Mpotsari 11, Thessaloniki 546 43",
+   "phone": "231 082 3130",
+   "website": "https://www.koalatoys.gr/",
+   "checked_at": "2026-10-17T05:12:59Z"
+  },
+  {
+   "name": "Letsplay.gr",
+   "group": "unknown",
+   "city": "Kallithea",
+   "address": "Idras 3Α, Kallithea 176 76",
+   "phone": "21 0956 9835",
+   "website": "https://letsplay.gr/",
+   "checked_at": "2026-10-17T05:12:11Z"
+  },
+  {
+   "name": "LILIPOUPOLI",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Tsimiski 117, Thessaloniki 546 21",
+   "phone": "231 028 5096",
+   "website": "http://lilipoupoli-toys.gr/",
+   "checked_at": "2026-10-17T05:12:54Z"
+  },
+  {
+   "name": "Limited Edition Comics",
+   "group": "unknown",
+   "city": "Kallithea",
+   "address": "Arapaki 15, Kallithea 176 76",
+   "phone": "21 0957 4196",
+   "website": "https://www.ltdeditioncomics.com/",
+   "checked_at": "2026-10-17T05:12:17Z"
+  },
+  {
+   "name": "MayToys",
+   "group": "unknown",
+   "city": "Kalamaria",
+   "address": "Komninon 68, Kalamaria 551 32",
+   "phone": "231 182 9588",
+   "website": "https://maytoys.gr/",
+   "checked_at": "2026-10-17T05:13:18Z"
+  },
+  {
+   "name": "Mini Vault",
+   "group": "unknown",
+   "city": "Egaleo",
+   "address": "Miriofitou 62, Egaleo 122 42, Greece, Egaleo, 122 42",
+   "phone": "+30 21 0590 0162",
+   "website": "https://www.minivault.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:03Z"
+  },
+  {
+   "name": "Monokeros - επιτραπέζια & παιδικά βιβλία",
+   "group": "unknown",
+   "city": "Nea Chalkidona",
+   "address": "Leof. Dekelias 13, Nea Chalkidona 143 43",
+   "phone": "21 3049 3872",
+   "website": "https://www.monokeros-store.gr/",
+   "checked_at": "2026-10-17T05:12:02Z"
+  },
+  {
+   "name": "MrPunter GR",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Egnatia 52, Thessaloniki 546 31",
+   "phone": "07836 522735",
+   "website": "https://mrpunter.edu.gr/",
+   "checked_at": "2026-10-17T05:12:59Z"
+  },
+  {
+   "name": "MtGSingles",
+   "group": "unknown",
+   "city": "Galatsi",
+   "address": "Kountouriotou 49, Galatsi 111 46",
+   "phone": "21 0292 5904",
+   "website": "https://mtgsingles.gr/",
+   "checked_at": "2026-10-17T05:11:31Z"
+  },
+  {
+   "name": "My Greek Games",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Kallitheas 18, Thessaloniki 565 32",
+   "phone": "231 063 6465",
+   "website": "https://www.mygreekgames.com/",
+   "checked_at": "2026-10-17T05:12:35Z"
+  },
+  {
+   "name": "OniGireece",
+   "group": "unknown",
+   "city": "Ilioupoli",
+   "address": "Kleanthous 49, Athens, Ilioupoli, Attiki, 16341, Greece",
+   "phone": "+302109946939",
+   "website": "https://onigireece.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:32Z"
+  },
+  {
+   "name": "Paichnidókouto",
+   "group": "unknown",
+   "city": "Nea Smirni",
+   "address": "Pl. Vasileos Konstantinou 11, Nea Smirni 171 21",
+   "phone": "21 0931 7071",
+   "website": "https://paixnidokouto.gr/",
+   "checked_at": "2026-10-17T05:11:57Z"
+  },
+  {
+   "name": "Papell",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Grigoriou Lampraki 213, Thessaloniki 543 52",
+   "phone": "231 307 5174",
+   "website": "https://www.papell.gr/",
+   "checked_at": "2026-10-17T05:12:50Z"
+  },
+  {
+   "name": "Paradise Waterfalls",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Ippokratous 77-79, Athina 106 80",
+   "phone": "21 0363 4773",
+   "website": "https://www.paradisewaterfalls.gr/",
+   "checked_at": "2026-10-17T05:11:54Z"
+  },
+  {
+   "name": "Paramythi",
+   "group": "unknown",
+   "city": "Chios",
+   "address": "Tselepi 4, Chios 821 00",
+   "phone": "2271 044854",
+   "website": "https://paramithishop.gr/",
+   "checked_at": "2026-10-17T05:12:31Z"
+  },
+  {
+   "name": "Perfectoys Χολαργός",
+   "group": "unknown",
+   "city": "Cholargos",
+   "address": "Leof. Mesogeion 228, Cholargos 155 61",
+   "phone": "21 0652 0225",
+   "website": "https://www.perfectoys.gr/",
+   "checked_at": "2026-10-17T05:11:31Z"
+  },
+  {
+   "name": "Pexnodromio Store",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Pandorou 73, Athina 118 53",
+   "phone": "21 3043 1271",
+   "website": "https://paixnodromio.com/",
+   "checked_at": "2026-10-17T05:11:43Z"
+  },
+  {
+   "name": "Pit Stop",
+   "group": "unknown",
+   "address": "Agiou Konstantinou 40, Marousi, Attica, 15124, Greece",
+   "phone": "+306932446188",
+   "website": "https://www.pitstoptcg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:43Z"
+  },
+  {
+   "name": "Playroot",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Al. Flemingk 41, Thessaloniki 546 42",
+   "phone": "697 661 1438",
+   "website": "https://playroot.gr/",
+   "checked_at": "2026-10-17T05:12:56Z"
+  },
+  {
+   "name": "Pokeholics",
+   "group": "unknown",
+   "city": "Nikea",
+   "address": "Ganochoron 1, Nikea 184 50",
+   "website": "https://cardbros.gr/",
+   "checked_at": "2026-10-17T05:11:38Z"
+  },
+  {
+   "name": "Popster",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Apiranthou 2Α, Athina 111 47",
+   "phone": "21 0292 1009",
+   "website": "https://www.popster.gr/",
+   "checked_at": "2026-10-17T05:11:55Z"
+  },
+  {
+   "name": "Questville",
+   "group": "unknown",
+   "city": "Thermi",
+   "address": "Karaoli & Dimitriou 23, Thermi, Central Macedonia, 57001, Greece",
+   "phone": "+302310464018",
+   "website": "https://questville.gr/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:10:56Z"
+  },
+  {
+   "name": "RABBITOYS",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Βοσπόρου 111, Thessaloniki 544 54",
+   "phone": "231 091 6350",
+   "website": "https://www.rabbitoys.gr/",
+   "checked_at": "2026-10-17T05:12:33Z"
+  },
+  {
+   "name": "Relax",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Kaniggos 30, Athina 106 82",
+   "phone": "21 0384 4994",
+   "website": "https://www.relaxcomics.gr/",
+   "checked_at": "2026-10-17T05:12:17Z"
+  },
+  {
+   "name": "Retro Gaming Club - Νο1 κατάστημα σε πωλήσεις μεταχειρισμένων video games στην Ελλάδα!",
+   "group": "unknown",
+   "city": "Kalamaria",
+   "address": "Papantoniou 22-24, Kalamaria 551 34",
+   "phone": "231 405 1505",
+   "website": "https://retro-gaming-club.gr/",
+   "checked_at": "2026-10-17T05:12:34Z"
+  },
+  {
+   "name": "RockinWood",
+   "group": "unknown",
+   "city": "Θεσσαλονίκη",
+   "address": "Βαφοπούλου 19, Θεσσαλονίκη 546 46",
+   "phone": "231 307 9032",
+   "website": "https://rockinwood.gr/",
+   "checked_at": "2026-10-17T05:12:59Z"
+  },
+  {
+   "name": "Rollnplay - Andreadakis Georgios",
+   "group": "unknown",
+   "city": "Sitia",
+   "address": "Vitsentzou Kornarou 74, Sitia 723 00, Greece, Sitia, 723 00",
+   "phone": "+30 6945953927",
+   "website": "https://rollnplay.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:09Z"
+  },
+  {
+   "name": "SevenSpot(SevenWorld)",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "25is Martiou 16, Thessaloniki 546 46",
+   "phone": "231 040 2879",
+   "website": "https://www.sevenworld.gr/",
+   "checked_at": "2026-10-17T05:12:35Z"
+  },
+  {
+   "name": "Skaki64",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Halkidikis 77, Thessaloniki 542 48",
+   "phone": "231 086 6410",
+   "website": "https://skaki64.gr/",
+   "checked_at": "2026-10-17T05:13:04Z"
+  },
+  {
+   "name": "Solaris",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "6 Botassi, Athens, 10682, Athina 106 82",
+   "phone": "21 0384 1065",
+   "website": "https://solaris.gr/",
+   "checked_at": "2026-10-17T05:12:16Z"
+  },
+  {
+   "name": "Spell Scroll",
+   "group": "unknown",
+   "city": "Agii Anargiri",
+   "address": "Sofokli Venizelou 95, Agii Anargiri 135 61, Greece, Agii Anargiri, 135 61",
+   "phone": "+30 21 0262 7615",
+   "website": "http://spellscroll.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:11Z"
+  },
+  {
+   "name": "spinMACHO Thessaloniki",
+   "group": "unknown",
+   "city": "Sikies",
+   "address": "Gianni Tsaroichi 3, Sikies 566 26",
+   "phone": "0541 684 06 97",
+   "website": "https://spinmacho.gr/",
+   "checked_at": "2026-10-17T05:13:15Z"
+  },
+  {
+   "name": "TCG Corner",
+   "group": "unknown",
+   "city": "Zografou",
+   "address": "Eshop only, Theodamantos 16, Zografou 157 71",
+   "phone": "21 1003 2471",
+   "website": "https://tcgcorner.eu/",
+   "checked_at": "2026-10-17T05:11:28Z"
+  },
+  {
+   "name": "The Console Club - Videogames",
+   "group": "unknown",
+   "city": "Iraklio",
+   "address": "Leof. Irakliou 378, Iraklio 141 22",
+   "phone": "21 0281 0019",
+   "website": "https://www.theconsoleclub.gr/",
+   "checked_at": "2026-10-17T05:11:51Z"
+  },
+  {
+   "name": "The Game Box",
+   "group": "unknown",
+   "city": "Ilion",
+   "address": "Palatianis 54, Ilion 131 21",
+   "phone": "697 190 8587",
+   "website": "https://thegamebox.gr/",
+   "checked_at": "2026-10-17T05:11:40Z"
+  },
+  {
+   "name": "The Game Rules (Chalandri)",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Agias Paraskevis 69, Athina 152 34",
+   "phone": "21 5215 1221",
+   "website": "https://thegamerules.com/",
+   "checked_at": "2026-10-17T05:11:44Z"
+  },
+  {
+   "name": "The Rubicon",
+   "group": "unknown",
+   "city": "Galatsi",
+   "address": "Orfeos 10, Galatsi 111 46, Greece, Galatsi, 111 46",
+   "phone": "+30 6947617045",
+   "website": "https://therubicon.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:04Z"
+  },
+  {
+   "name": "The Toy Lab",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Ταβάκη 6, Θέρμη, Εντός της στοάς στο Εμπορικό Αηδονίδη, Thessaloniki 570 01",
+   "phone": "231 405 3054",
+   "website": "https://www.thetoylab.gr/",
+   "checked_at": "2026-10-17T05:12:44Z"
+  },
+  {
+   "name": "TOMPOLA",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Lassani 7, Thessaloniki 546 22",
+   "phone": "231 028 5915",
+   "website": "https://tompolatoys.gr/el/",
+   "checked_at": "2026-10-17T05:13:15Z"
+  },
+  {
+   "name": "Toymania",
+   "group": "unknown",
+   "city": "Pilea",
+   "address": "Christoforou Perraivou 14, Pilea 543 52",
+   "phone": "231 074 8713",
+   "website": "https://www.toymania.gr/",
+   "checked_at": "2026-10-17T05:12:52Z"
+  },
+  {
+   "name": "Toys-shop Άνω Τούμπα",
+   "group": "unknown",
+   "city": "Pilea",
+   "address": "Grigoriou Lampraki 208, Pilea 555 34",
+   "phone": "231 231 7564",
+   "website": "https://www.toys-shop.gr/el/",
+   "checked_at": "2026-10-17T05:13:03Z"
+  },
+  {
+   "name": "Toys-shop Ευόσμου",
+   "group": "unknown",
+   "city": "Evosmos",
+   "address": "28is Oktovriou 17, Evosmos 562 24",
+   "phone": "231 231 1457",
+   "website": "https://www.toys-shop.gr/el/",
+   "checked_at": "2026-10-17T05:13:13Z"
+  },
+  {
+   "name": "Toys-shop.gr Aristotelous",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Aristotélous 10, Thessaloniki 546 23",
+   "phone": "231 022 0051",
+   "website": "https://www.toys-shop.gr/el/",
+   "checked_at": "2026-10-17T05:12:48Z"
+  },
+  {
+   "name": "Trace 'n Chase",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Antoniou Daniolou 50, Thessaloniki 542 49",
+   "phone": "231 325 2172",
+   "website": "https://tracenchase.com/server-security-challenge?return=/",
+   "checked_at": "2026-10-17T05:12:26Z"
+  },
+  {
+   "name": "Trenakitoys",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "25is Martiou 112, Thessaloniki 542 49",
+   "phone": "231 032 7049",
+   "website": "https://www.trenakitoys.gr/",
+   "checked_at": "2026-10-17T05:12:36Z"
+  },
+  {
+   "name": "V-Games",
+   "group": "unknown",
+   "city": "Chalandri",
+   "address": "Agias Paraskevis 69, Chalandri 152 34, Greece, Chalandri, 152 34",
+   "phone": "+302111110150",
+   "website": "https://v-games.gr",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:03Z"
+  },
+  {
+   "name": "V-Games",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Agias Paraskevis 69, Athina 152 34",
+   "website": "https://store.v-games.gr/",
+   "checked_at": "2026-10-17T05:12:07Z"
+  },
+  {
+   "name": "Vintage Toy Mania",
+   "group": "unknown",
+   "city": "Χολαργός",
+   "address": "Greece, Μέτωνος 57, Χολαργός 155 61",
+   "phone": "21 3029 5931",
+   "website": "https://vintagetoymania.com/",
+   "checked_at": "2026-10-17T05:12:01Z"
+  },
+  {
+   "name": "WinHERO Tesalonika",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Antiochou 12, Thessaloniki 546 33",
+   "phone": "378 052 2084",
+   "website": "https://winhero.gr/",
+   "checked_at": "2026-10-17T05:13:19Z"
+  },
+  {
+   "name": "Wizbox",
+   "group": "unknown",
+   "city": "Sindos",
+   "address": "ΒΙ.ΠΕ Σίνδου - Ζώνη Α, Είσοδος Β, οδός, A8, Sindos 570 22",
+   "phone": "231 057 0754",
+   "website": "https://www.wizbox.gr/",
+   "checked_at": "2026-10-17T05:12:36Z"
+  },
+  {
+   "name": "Zartan's Store",
+   "group": "unknown",
+   "city": "Nea Ionia",
+   "address": "Pittakou 14, Nea Ionia 142 31",
+   "phone": "21 0277 3867",
+   "website": "https://www.zartans.com/",
+   "checked_at": "2026-10-17T05:11:49Z"
+  },
+  {
+   "name": "ZOUZOU Toys Athens",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Voukourestiou 26, Athina 106 71",
+   "phone": "21 0363 9182",
+   "website": "https://www.zouzoutoys.gr/",
+   "checked_at": "2026-10-17T05:11:57Z"
+  },
+  {
+   "name": "ΑΣΛΑΝΙΔΗΣ ΜΑΝΩΛΗΣ-ΣΥΛΛΕΚΤΙΚΑ ΕΙΔΗ",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Ermou 40, Ermou 65, Thessaloniki 546 23",
+   "phone": "697 299 5064",
+   "website": "https://www.aslanidis-syllektika.gr/",
+   "checked_at": "2026-10-17T05:12:32Z"
+  },
+  {
+   "name": "ΒΑΣΙΛΕΙΟΣ ΜΟΛΑΚΙΔΗΣ",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Edmondou Rostan 19, Thessaloniki 546 41, Greece, Thessaloniki, 546 41",
+   "phone": "6907089777",
+   "website": "https://gnet.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:09Z"
+  },
+  {
+   "name": "Η Άγνωστη Καντάθ / Unknown Kadath",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Aimilianoi Grevenon 6, Thessaloniki 546 21",
+   "phone": "231 022 9060",
+   "website": "https://kadath.gr/",
+   "checked_at": "2026-10-17T05:12:38Z"
+  },
+  {
+   "name": "Παιχνίδια Μουστάκας Μοναστηράκι",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Ermou 87-89, Athina 105 55",
+   "phone": "21 0321 0410",
+   "website": "https://www.moustakastoys.gr/",
+   "checked_at": "2026-10-17T05:11:40Z"
+  },
+  {
+   "name": "ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΣ ΑΝΤΩΝΙΟΣ ΧΡΗΣΤΟΣ - Games Link",
+   "group": "unknown",
+   "city": "Iraklio",
+   "address": "Leof. Irakliou 347, Iraklio 141 22, Greece, Iraklio, 141 22",
+   "website": "https://gameslink.gr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:11:12Z"
+  },
+  {
+   "name": "ΤΡΙΛΙΖΑ - Toys & more",
+   "group": "unknown",
+   "city": "Athina",
+   "address": "Imittou 84, Athina 116 34",
+   "phone": "21 0701 1448",
+   "website": "https://trilizastore.gr/",
+   "checked_at": "2026-10-17T05:12:11Z"
+  },
+  {
+   "name": "Χιονάτη κατάστημα παιχνιδιών",
+   "group": "unknown",
+   "city": "Thessaloniki",
+   "address": "Ionos Dragoumi 14, Thessaloniki 546 24",
+   "phone": "231 027 7104",
+   "website": "https://xionati.toys/",
+   "checked_at": "2026-10-17T05:12:29Z"
+  }
+ ]
+}

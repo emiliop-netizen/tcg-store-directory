@@ -1,0 +1,1656 @@
+{
+ "country": "CZ",
+ "currency": "CZK",
+ "updated": "2026-10-16",
+ "store_count": 175,
+ "stores": [
+  {
+   "name": "Najada",
+   "group": "public_buylist",
+   "region": "Hlavní město Praha",
+   "address": "Ondrickova 2166/14, Praha 3, Vinohrady, 13000, Czechia",
+   "phone": "420722-069-709",
+   "website": "https://www.najada.games/en",
+   "buylist_url": "https://www.najada.games/en/buylist",
+   "mail_in": true,
+   "credit_bonus": "25% higher value if taken as store credit (registered customers)",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Najáda Brno",
+   "group": "public_buylist",
+   "region": "Jihomoravský kraj",
+   "address": "Biskupská 283/1, 602 00 Brno-Brno-střed",
+   "phone": "739 202 212",
+   "website": "https://www.najada.games/herna/brno/turnaje",
+   "buylist_url": "https://www.najada.games/en/buylist",
+   "mail_in": true,
+   "credit_bonus": "25% higher value if taken as store credit (registered customers)",
+   "checked_at": "2026-10-17T05:08:24Z"
+  },
+  {
+   "name": "HOKEJ-KARTY.CZ",
+   "group": "blocked",
+   "region": "Ústecký kraj",
+   "address": "Vrchlického 1092, 436 01 Litvínov-Horní Litvínov",
+   "phone": "602 635 912",
+   "website": "http://www.hokej-karty.cz/",
+   "checked_at": "2026-10-17T05:08:51Z"
+  },
+  {
+   "name": "JRC",
+   "group": "blocked",
+   "region": "Moravskoslezský kraj",
+   "address": "Forum Nová Karolína, Jantarová 3344/4, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "724 167 161",
+   "website": "https://www.smarty.cz/jrc-game-completed",
+   "checked_at": "2026-10-17T05:09:15Z"
+  },
+  {
+   "name": "KUPAHREJ.CZ s.r.o.",
+   "group": "blocked",
+   "region": "Moravskoslezský kraj",
+   "address": "Josefa Brabce 2875/31, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "608 856 037",
+   "website": "https://www.kupahrej.cz/",
+   "checked_at": "2026-10-17T05:09:17Z"
+  },
+  {
+   "name": "PokecTCG - Eshop",
+   "group": "blocked",
+   "region": "Moravskoslezský kraj",
+   "address": "Sokolovská 1252/60, 708 00 Ostrava-Poruba",
+   "phone": "604 566 757",
+   "website": "http://pokectcg.cz/",
+   "checked_at": "2026-10-17T05:09:06Z"
+  },
+  {
+   "name": "Rocking Horse Toy Shop",
+   "group": "blocked",
+   "region": "Hlavní město Praha",
+   "address": "Loretánské nám. 3/109, Hradčany, 118 00 Praha-Praha 1",
+   "phone": "603 515 745",
+   "website": "https://www.tripadvisor.com/Attraction_Review-g274707-d3588791-Reviews-Rocking_Horse_Toy_Shop-Prague_Bohemia.html",
+   "checked_at": "2026-10-17T05:07:16Z"
+  },
+  {
+   "name": "Smarty.cz - OC Avion",
+   "group": "blocked",
+   "region": "Moravskoslezský kraj",
+   "address": "Avion, Rudná 114, 700 30 Ostrava-Ostrava-jih",
+   "phone": "724 167 662",
+   "website": "https://www.smarty.cz/",
+   "checked_at": "2026-10-17T05:09:19Z"
+  },
+  {
+   "name": "Smarty.cz - OC Palladium",
+   "group": "blocked",
+   "region": "Hlavní město Praha",
+   "address": "Náměstí Republiky 1, Staré Město, 110 00 Praha-Praha 1",
+   "phone": "724 167 824",
+   "website": "https://www.smarty.cz/",
+   "checked_at": "2026-10-17T05:07:15Z"
+  },
+  {
+   "name": "Afindis",
+   "group": "in_store",
+   "region": "Jihomoravský kraj",
+   "address": "Údolní 405/46, 602 00 Brno-střed-Veveří",
+   "phone": "774 375 470",
+   "checked_at": "2026-10-17T05:08:39Z"
+  },
+  {
+   "name": "Antiquarian basement",
+   "group": "in_store",
+   "region": "Moravskoslezský kraj",
+   "address": "Havanská 735/11, 708 00 Ostrava-Poruba",
+   "phone": "596 913 216",
+   "checked_at": "2026-10-17T05:09:35Z"
+  },
+  {
+   "name": "Cards Against Humanity CZ",
+   "group": "in_store",
+   "region": "Jihomoravský kraj",
+   "address": "Skřivanova, 602 00 Brno-Brno-Královo Pole",
+   "phone": "775 937 972",
+   "checked_at": "2026-10-17T05:08:57Z"
+  },
+  {
+   "name": "Cardvalue",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Příčná 1892/4, 110 00 Praha 1-Nové Město",
+   "phone": "702 204 327",
+   "checked_at": "2026-10-17T05:07:16Z"
+  },
+  {
+   "name": "DiLorca",
+   "group": "in_store",
+   "region": "Moravskoslezský kraj",
+   "address": "Josefa Brabce 38, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "checked_at": "2026-10-17T05:09:11Z"
+  },
+  {
+   "name": "KID Cards",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Veletržní 1396/39, 170 00 Praha 7-Holešovice",
+   "phone": "730 899 433",
+   "checked_at": "2026-10-17T05:07:42Z"
+  },
+  {
+   "name": "Lafata Cards",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Anny Drabíkové, 149 00 Praha 11",
+   "phone": "773 204 394",
+   "checked_at": "2026-10-17T05:07:15Z"
+  },
+  {
+   "name": "Momentscards",
+   "group": "in_store",
+   "region": "Moravskoslezský kraj",
+   "address": "Stodolní 794/21, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "723 311 033",
+   "checked_at": "2026-10-17T05:09:19Z"
+  },
+  {
+   "name": "Myths & Legends",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Melantrichova 473/14/110 00, Staré Město, 110 00 Praha-Praha 1",
+   "checked_at": "2026-10-17T05:07:30Z"
+  },
+  {
+   "name": "Nerd Alert",
+   "group": "in_store",
+   "address": "Bulharská 924/26101 00 Praha 10-Vršovice, Praha, Hlavní město Praha, 101 00, Czechia",
+   "phone": "420774631287",
+   "website": "https://www.instagram.com/nerd_alert_prague/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Obchod u Tatínků",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Jugoslávských partyzánů 636/20, Bubeneč, 160 00 Praha-Praha 6",
+   "phone": "222 967 882",
+   "checked_at": "2026-10-17T05:08:04Z"
+  },
+  {
+   "name": "Phu Gnom",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48660527787",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:32Z"
+  },
+  {
+   "name": "Prodejna V",
+   "group": "in_store",
+   "region": "Jihomoravský kraj",
+   "address": "25, Táborská 714, 615 00 Brno-Židenice",
+   "phone": "544 211 015",
+   "checked_at": "2026-10-17T05:08:58Z"
+  },
+  {
+   "name": "Re-load",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "Zborovská 1047/30, Praha, Hlavní město Praha, 150 00, Czechia",
+   "phone": "+420605740996",
+   "website": "https://www.facebook.com/people/Reload-Bar/61571690626615/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Slot Game A.s.",
+   "group": "in_store",
+   "region": "Jihomoravský kraj",
+   "address": "9, Starobrněnská 287, Brno-město, 602 00 Brno-Brno-střed",
+   "phone": "542 210 050",
+   "checked_at": "2026-10-17T05:08:58Z"
+  },
+  {
+   "name": "Steffizard.cz",
+   "group": "in_store",
+   "region": "Hlavní město Praha",
+   "address": "415 Praha-Praha 415 CZ, Ke Smrčině 694/17, Újezd u Průhonic, 149 00 Praha-Praha 415",
+   "phone": "731 939 777",
+   "checked_at": "2026-10-17T05:07:07Z"
+  },
+  {
+   "name": "Street Art Shop",
+   "group": "in_store",
+   "region": "Moravskoslezský kraj",
+   "address": "28. října 86, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "727 845 820",
+   "checked_at": "2026-10-17T05:09:10Z"
+  },
+  {
+   "name": "Xzone s.r.o.",
+   "group": "in_store",
+   "region": "Jihomoravský kraj",
+   "address": "Palackého tř. 177/50, 612 00 Brno-Královo Pole, Czechia, Jihomoravský kraj, 612 00",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:06:54Z"
+  },
+  {
+   "name": "Hrana Stolu - Board Game Pub",
+   "group": "not_buying_singles",
+   "region": "Jihomoravský kraj",
+   "address": "Úvoz 466/8, 602 00 Brno-střed",
+   "phone": "730 274 546",
+   "website": "https://hranastolu.cz/",
+   "buylist_url": "https://hranastolu.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:08:34Z"
+  },
+  {
+   "name": "KOH-I-NOOR HARDTMUTH Trade a.s.",
+   "group": "not_buying_singles",
+   "region": "Moravskoslezský kraj",
+   "address": "28. října 1081/202, 709 00 Ostrava-Mariánské Hory a Hulváky",
+   "phone": "731 422 393",
+   "website": "https://www.koh-i-noor.cz/",
+   "checked_at": "2026-10-17T05:09:10Z"
+  },
+  {
+   "name": "ABSOLUTE TEAMSPORT SPORTFOTBAL",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Voroněžská 174/28, 101 00 Praha 10-Vršovice",
+   "phone": "725 743 811",
+   "website": "https://www.sportfotbal.cz/?utm_source=google&utm_medium=organic&utm_campaign=Google+Business+Profil",
+   "checked_at": "2026-10-17T05:08:11Z"
+  },
+  {
+   "name": "Allwyn - TRAFIKA POKEC SHOP s.r.o.",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "nám. Gen. Svobody 1135/5, 700 30 Ostrava-Ostrava-jih",
+   "website": "https://legislativegeoblock.z1.web.core.windows.net/geoblock.html",
+   "checked_at": "2026-10-17T05:09:23Z"
+  },
+  {
+   "name": "Alola",
+   "group": "unknown",
+   "address": "Staromestske namesti 29/5, Mladá Boleslav, Czech Republic, 29301, Czechia",
+   "phone": "420608-608-358",
+   "website": "https://www.alola.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:10Z"
+  },
+  {
+   "name": "Alza.cz Showroom Brno - střed",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Skořepka 336/15, 602 00 Brno-střed",
+   "phone": "225 340 111",
+   "website": "https://www.alza.cz/prodejna-brno-stred-598.htm",
+   "checked_at": "2026-10-17T05:08:53Z"
+  },
+  {
+   "name": "Alza.cz Showroom Ostrava",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Novinářská 6a, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "225 340 111",
+   "website": "https://www.alza.cz/prodejna-ostrava-603.htm",
+   "checked_at": "2026-10-17T05:09:28Z"
+  },
+  {
+   "name": "antikchimera.cz",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "8, S. K. Neumanna 609, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "728 610 024",
+   "website": "https://antikchimera.cz/",
+   "checked_at": "2026-10-17T05:09:35Z"
+  },
+  {
+   "name": "Antikvariat Fénix",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Reální 338/6, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "732 849 649",
+   "website": "https://antikvariat-fenix.cz/",
+   "checked_at": "2026-10-17T05:09:36Z"
+  },
+  {
+   "name": "Azgarra Pokémon e-shop",
+   "group": "unknown",
+   "region": "Ústecký kraj",
+   "address": "Kamenická 52, 405 02 Děčín-Děčín 2",
+   "phone": "606 924 230",
+   "website": "https://www.azgarra.cz/",
+   "checked_at": "2026-10-17T05:09:34Z"
+  },
+  {
+   "name": "Bambule - Království hraček",
+   "group": "unknown",
+   "city": "Modřice",
+   "region": "Jihomoravský kraj",
+   "address": "U Dálnice 777, 664 42 Modřice-Brno-jih",
+   "phone": "607 053 584",
+   "website": "https://www.bambule.cz/",
+   "checked_at": "2026-10-17T05:09:04Z"
+  },
+  {
+   "name": "Bazaar CD DVD Vinyl PRAGUE",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "36, Školská 1385, 110 00 Praha 1-Nové Město",
+   "phone": "222 240 914",
+   "website": "https://www.bazar-cd.cz/",
+   "checked_at": "2026-10-17T05:07:37Z"
+  },
+  {
+   "name": "Black Lotus",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Puchmajerova 208/1, Ostrava, Ostrava, 702 00, Czechia",
+   "phone": "420776 677 157",
+   "website": "https://www.blacklotus.cz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:21Z"
+  },
+  {
+   "name": "BLACK OIL – Gaming & Social Hub",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "51a, Kotlářská 989/51a, 602 00 Brno-střed, Czechia, Jihomoravský kraj, 602 00",
+   "phone": "+ 420 776 187 859",
+   "website": "https://www.blackoil.cz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:06:48Z"
+  },
+  {
+   "name": "Blindbox Geek Store",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "1e, vestibul CineStar Anděl, Radlická 3179, 150 00 Praha 5-Anděl",
+   "phone": "728 889 888",
+   "website": "https://www.blindbox.cz/",
+   "checked_at": "2026-10-17T05:07:42Z"
+  },
+  {
+   "name": "BrickBros",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Puchmajerova 1799/9, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "704 523 001",
+   "website": "https://www.brickbros.cz/",
+   "checked_at": "2026-10-17T05:09:35Z"
+  },
+  {
+   "name": "Bubuobchod.cz (obchod s Pokémony)",
+   "group": "unknown",
+   "region": "Středočeský kraj",
+   "address": "M. Zd. Poláka 309, 277 42 Obříství",
+   "phone": "725 947 158",
+   "website": "https://www.bubuobchod.cz/",
+   "checked_at": "2026-10-17T05:07:50Z"
+  },
+  {
+   "name": "Butterfly Wonderland (Butterfly Magic Store)",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Osadní 774/35, 170 00 Praha 7-Holešovice",
+   "phone": "771 147 655",
+   "website": "https://www.butterflywonderland.cz/",
+   "checked_at": "2026-10-17T05:07:19Z"
+  },
+  {
+   "name": "Campus Square",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Netroufalky 770, 625 00 Brno-Bohunice",
+   "phone": "538 728 690",
+   "website": "http://www.campusbrno.cz/",
+   "checked_at": "2026-10-17T05:09:04Z"
+  },
+  {
+   "name": "Cardverse",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Dr. Marodyho 912/16, 196 00 Praha-Čakovice",
+   "phone": "728 442 634",
+   "website": "https://www.cardverse.cz/",
+   "checked_at": "2026-10-17T05:06:57Z"
+  },
+  {
+   "name": "CD BAZAR",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "22, Jilská 452, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "602 313 730",
+   "website": "http://www.cdkrakovska.cz/",
+   "checked_at": "2026-10-17T05:07:37Z"
+  },
+  {
+   "name": "Cerny Rytir Praha",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Praha 8, Praha, Praha, 18600, Czechia",
+   "phone": "+420(0) 731.164.496",
+   "website": "https://cernyrytir.cz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Colectio",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Dobrovského 4, 612 00 Brno-Královo Pole",
+   "website": "https://colectio.com/",
+   "buylist_url": "https://colectio.com/retailer/buylist",
+   "checked_at": "2026-10-17T05:08:43Z"
+  },
+  {
+   "name": "Comics Center",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Slavíkova 1510/19, Vinohrady, 120 00 Praha-Praha 2",
+   "phone": "774 302 570",
+   "website": "http://www.comicscentrum.cz/",
+   "buylist_url": "http://www.comicscentrum.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:07:29Z"
+  },
+  {
+   "name": "Comics Point",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Westfield Chodov (ground floor, Roztylská 2321/19, 148 00 Praha 4-Chodov",
+   "phone": "606 602 005",
+   "website": "https://www.comicspoint.cz/",
+   "checked_at": "2026-10-17T05:07:43Z"
+  },
+  {
+   "name": "Comics Point (PALLADIUM)",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "1, Náměstí Republiky 1078, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "222 311 415",
+   "website": "https://www.comicspoint.cz/",
+   "checked_at": "2026-10-17T05:07:07Z"
+  },
+  {
+   "name": "Detektorykovu.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Žitná 560/2, Nové Město, 120 00 Praha-Praha 2",
+   "phone": "721 500 200",
+   "website": "https://www.detektorykovu.cz/",
+   "checked_at": "2026-10-17T05:08:19Z"
+  },
+  {
+   "name": "Draci jeskyne",
+   "group": "unknown",
+   "address": "Bechyňská 640, Praha, Hlavní město Praha, 199 00, Czechia",
+   "phone": "+420737256786",
+   "website": "https://dracijeskyne.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Dragon World Store",
+   "group": "unknown",
+   "region": "Středočeský kraj",
+   "address": "Třebízského 163/5, Slaný, Czech Republic, 27401, Czechia",
+   "phone": "420725014256",
+   "website": "https://dragon-world.store/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:10Z"
+  },
+  {
+   "name": "Dráčik",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "44, Výškovická 3086, 700 30 Ostrava-jih",
+   "phone": "595 781 390",
+   "website": "https://www.dracik.cz/",
+   "checked_at": "2026-10-17T05:09:31Z"
+  },
+  {
+   "name": "Dráčik",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "50, Varenská 3309, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "596 634 774",
+   "website": "https://www.dracik.cz/",
+   "checked_at": "2026-10-17T05:09:33Z"
+  },
+  {
+   "name": "Dum deti a mladeze UL",
+   "group": "unknown",
+   "address": "Velka Hradebni 19, Usti nad Labem, Usti nad Labem, 400 01, Czechia",
+   "phone": "+420606875898",
+   "website": "https://mtgul.mozellosite.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:14Z"
+  },
+  {
+   "name": "DárkyHry.cz",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Rostislavovo nám. 7, 612 00 Brno-Brno-Královo Pole",
+   "phone": "725 975 977",
+   "website": "https://www.darkyhry.cz/",
+   "checked_at": "2026-10-17T05:08:34Z"
+  },
+  {
+   "name": "Eshop Veselý drak",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Velkomoravská 4392/87d 695 01, 1 Hodonín 1",
+   "phone": "605 737 588",
+   "website": "https://www.vesely-drak.cz/",
+   "checked_at": "2026-10-17T05:08:55Z"
+  },
+  {
+   "name": "EveryRetroGame",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Podnikatelská 539C, 190 11 Praha-Běchovice",
+   "phone": "608 620 427",
+   "website": "https://www.everyretrogame.cz/",
+   "checked_at": "2026-10-17T05:07:37Z"
+  },
+  {
+   "name": "Fanshop FC Baník Ostrava",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Závodní 2992/86D, 703 00 Ostrava-Vítkovice",
+   "phone": "776 584 776",
+   "website": "https://www.fanshopfcb.cz/",
+   "checked_at": "2026-10-17T05:09:23Z"
+  },
+  {
+   "name": "FanStation & Sports Cards Museum",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Galerie Myšák, Vodičkova 710/31, 110 00 Praha 1-Nové Město",
+   "phone": "722 646 906",
+   "website": "https://www.fanstation.cz/",
+   "checked_at": "2026-10-17T05:07:06Z"
+  },
+  {
+   "name": "Flamberg",
+   "group": "unknown",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 (0) 513845913",
+   "website": "https://flamberg.com.pl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:37Z"
+  },
+  {
+   "name": "Flea market",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "U Elektry 7, 190 00 Praha 9",
+   "website": "https://www.blesitrhy.cz/",
+   "checked_at": "2026-10-17T05:07:38Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Jantarová 4, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "607 027 105",
+   "website": "https://flyingtiger.com/en-cz",
+   "checked_at": "2026-10-17T05:09:31Z"
+  },
+  {
+   "name": "Fortuna Game, a.s.",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "115, Cejl 53, 602 00 Brno-Brno-sever",
+   "phone": "267 218 218",
+   "website": "https://www.ifortuna.cz/",
+   "checked_at": "2026-10-17T05:08:57Z"
+  },
+  {
+   "name": "Fortuna Game, a.s.",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "118A, Výškovická 2635, Zábřeh, 700 30 Ostrava-Ostrava-jih",
+   "phone": "267 218 218",
+   "website": "https://www.ifortuna.cz/",
+   "checked_at": "2026-10-17T05:09:29Z"
+  },
+  {
+   "name": "Fortuna Game, a.s.",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "44, Ruská 99, 703 00 Ostrava-Vítkovice",
+   "phone": "267 218 218",
+   "website": "https://www.ifortuna.cz/",
+   "checked_at": "2026-10-17T05:09:30Z"
+  },
+  {
+   "name": "FYFT",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Osadni 774/35, Prague, Prague, 17000, Czechia",
+   "phone": "+420704265148",
+   "website": "https://www.fyft.cz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Galerie Vaňkovka",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Ve Vaňkovce 1, 602 00 Brno-Brno-střed",
+   "phone": "533 110 111",
+   "website": "https://www.galerie-vankovka.cz/",
+   "checked_at": "2026-10-17T05:08:39Z"
+  },
+  {
+   "name": "Game shop, s.r.o.",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Poděbradova 101, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "556 205 606",
+   "website": "https://www.gameshop.cz/",
+   "checked_at": "2026-10-17T05:09:24Z"
+  },
+  {
+   "name": "Gengar.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Květnového vítězství 2408/5, Chodov, 149 00 Praha-Praha 11",
+   "phone": "736 797 638",
+   "website": "https://www.gengar.cz/",
+   "checked_at": "2026-10-17T05:06:59Z"
+  },
+  {
+   "name": "GOLDENAXE.EU - herna a eshop - vše pro wargaming",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Poděbradská 489/116, 198 00 Praha 9",
+   "website": "https://www.goldenaxe.eu/",
+   "checked_at": "2026-10-17T05:07:59Z"
+  },
+  {
+   "name": "HERO Comics",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Křenová 35, 602 00 Brno-Brno-střed",
+   "phone": "731 697 967",
+   "website": "https://www.herocomics.cz/",
+   "checked_at": "2026-10-17T05:08:28Z"
+  },
+  {
+   "name": "HEROES PARK",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Národní 63/26, 110 00 Praha 1-Nové Město",
+   "phone": "725 390 777",
+   "website": "https://heroespark.cz/",
+   "checked_at": "2026-10-17T05:08:10Z"
+  },
+  {
+   "name": "Hobby Shop s.r.o.",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Žel. stanice ČD Ostrava hl.n, Nádražní 164/215, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "603 787 270",
+   "website": "https://www.hobby-shop.cz/",
+   "checked_at": "2026-10-17T05:09:10Z"
+  },
+  {
+   "name": "Hokejpro",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "3, Dlážděná 1491, 110 00 Praha 1-Nové Město",
+   "phone": "224 210 921",
+   "website": "http://www.hokejpro.cz/",
+   "checked_at": "2026-10-17T05:08:10Z"
+  },
+  {
+   "name": "HORNBACH Brno",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Heršpická 3, 639 00 Brno-Brno-střed",
+   "phone": "531 016 000",
+   "website": "https://www.hornbach.cz/moje-prodejna/prodejna-hornbach-brno/",
+   "checked_at": "2026-10-17T05:08:45Z"
+  },
+  {
+   "name": "HORNBACH Ostrava - Vítkovice",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Rudná 11, 703 00 Ostrava-Vítkovice",
+   "phone": "596 980 000",
+   "website": "https://www.hornbach.cz/moje-prodejna/prodejna-hornbach-ostrava-vitkovice/",
+   "checked_at": "2026-10-17T05:09:10Z"
+  },
+  {
+   "name": "HORNBACH Praha - Velká Chuchle",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Strakonická 62, 159 00 Praha-Praha-Velká Chuchle",
+   "phone": "221 669 000",
+   "website": "https://www.hornbach.cz/moje-prodejna/prodejna-hornbach-praha-velka-chuchle/",
+   "checked_at": "2026-10-17T05:07:39Z"
+  },
+  {
+   "name": "Hrackarstvi Trojanova",
+   "group": "unknown",
+   "address": "Husovo namesti 46, Beroun 2, Beroun 2, 26601, Czechia",
+   "phone": "420311 625 706",
+   "website": "https://www.magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:07Z"
+  },
+  {
+   "name": "Hrana Stolu",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "8 Úvoz, Brno 2, Jihomoravský kraj, 602 00, Czechia",
+   "phone": "+420773998295",
+   "website": "https://www.hrananetu.cz",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:17Z"
+  },
+  {
+   "name": "HRAS - the world of board games and puzzles",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "pasáž Rokoko, Václavské nám. 794/38, 110 00 Praha 1-Nové Město",
+   "phone": "224 946 506",
+   "website": "https://www.hras.cz/",
+   "checked_at": "2026-10-17T05:07:05Z"
+  },
+  {
+   "name": "Hrax.cz | Výdejní místo | Výkup her",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Dolní 1479/10, 140 00 Praha 4-Nusle",
+   "phone": "795 509 055",
+   "website": "https://hrax.cz/",
+   "checked_at": "2026-10-17T05:08:00Z"
+  },
+  {
+   "name": "HYVEco, Ltd.",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Benešova 4, 602 00 Brno-střed",
+   "phone": "774 433 363",
+   "website": "https://eshop.hyveco.cz/",
+   "checked_at": "2026-10-17T05:08:46Z"
+  },
+  {
+   "name": "imago tribe s.r.o",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "K Myslivně 2362/9, Ostrava, Ostrava, 70800, Czechia",
+   "phone": "+420774421641",
+   "website": "https://www.imago.cz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:23Z"
+  },
+  {
+   "name": "imperium hobby",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Gen. Janouška 2926/14, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "776 608 599",
+   "website": "http://www.imperium-hobby.eu/cz-sekce-kontaktni_informace.html",
+   "checked_at": "2026-10-17T05:09:24Z"
+  },
+  {
+   "name": "JB Sport",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "3, Dlážděná 1491, 110 00 Praha 1-Nové Město",
+   "phone": "739 428 367",
+   "website": "https://jbsport.cz/",
+   "checked_at": "2026-10-17T05:07:17Z"
+  },
+  {
+   "name": "JR Collectibles",
+   "group": "unknown",
+   "city": "Květnice",
+   "region": "Středočeský kraj",
+   "address": "Rezedová 470, 250 84 Květnice-Sibřina",
+   "phone": "774 626 149",
+   "website": "https://jrcollectibles.eu/",
+   "checked_at": "2026-10-17T05:07:31Z"
+  },
+  {
+   "name": "Kal-El",
+   "group": "unknown",
+   "address": "Hajnova 179, Kladno, JC, 272 01, Czechia",
+   "phone": "+420732160600",
+   "website": "https://www.spellbound.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:06Z"
+  },
+  {
+   "name": "Kartičkárna.cz - sběratelský obchod",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Na Hutích 665/8, 160 00 Praha 6-Dejvice",
+   "phone": "606 780 400",
+   "website": "https://www.kartickarna.cz/",
+   "checked_at": "2026-10-17T05:06:56Z"
+  },
+  {
+   "name": "Knihkupectvi Arrakis",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Veveří 24, Brno, Brno, 602 00, Czechia",
+   "phone": "420774 254 384",
+   "website": "https://www.fantasyshop.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:16Z"
+  },
+  {
+   "name": "Knihkupectvi KRAKATIT",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Jungmanova 14, Praha, Praha, 110 00, Czechia",
+   "phone": "420731 487 887",
+   "website": "https://www.krakatit.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Knihkupectví Luxor",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Rudná 3114/114, 700 30 Ostrava-jih-Zábřeh",
+   "phone": "597 490 991",
+   "website": "https://www.luxor.cz/pobocky/detail/40/knihkupectvi-luxor-avion-sp",
+   "buylist_url": "https://www.luxor.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:09:35Z"
+  },
+  {
+   "name": "Knihy Dobrovský",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Galerie Vaňkovka, Ve Vaňkovce 1, 602 00 Brno-střed",
+   "phone": "542 220 320",
+   "website": "https://www.knihydobrovsky.cz/prodejny/brno-galerie-vankovka",
+   "checked_at": "2026-10-17T05:08:39Z"
+  },
+  {
+   "name": "kobzahry",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Výškovická 2636/116, 700 30 Ostrava-jih",
+   "phone": "603 238 289",
+   "website": "https://kobzahry.cz/",
+   "checked_at": "2026-10-17T05:09:11Z"
+  },
+  {
+   "name": "KOMIXÁRNA s.r.o.",
+   "group": "unknown",
+   "address": "Masarykova 3127/28, Ústí nad Labem, Ústecký kraj, 400 01, Czechia",
+   "phone": "420773151826",
+   "website": "https://komixarna.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:14Z"
+  },
+  {
+   "name": "KONZOLIŠTĚ",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "M. Horákové 1, 602 00 Brno-Brno-střed",
+   "website": "https://www.konzoliste.cz/?utm_source=google&utm_medium=gmb",
+   "checked_at": "2026-10-17T05:08:27Z"
+  },
+  {
+   "name": "KSPACE Brno | K-POP store",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Malinovského nám. 211/5, 602 00 Brno-střed",
+   "phone": "721 679 670",
+   "website": "https://www.kspaceproject.com/",
+   "checked_at": "2026-10-17T05:08:39Z"
+  },
+  {
+   "name": "KSPACE Praha | K-POP & Bubble tea",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Truhlářská 1107/7, 110 00 Praha 1-Nové Město",
+   "phone": "721 777 057",
+   "website": "https://www.kspaceproject.com/",
+   "checked_at": "2026-10-17T05:08:23Z"
+  },
+  {
+   "name": "Legárna.cz - specialized trade LEGO",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Lesní 546/1, 634 00 Brno-Nový Lískovec",
+   "phone": "736 121 154",
+   "website": "https://www.legrarna.cz/",
+   "checked_at": "2026-10-17T05:08:34Z"
+  },
+  {
+   "name": "LEVELS Prague",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Národní 63/26, 110 00 Praha 1-Nové Město",
+   "phone": "720 772 003",
+   "website": "https://levelsprague.com/",
+   "checked_at": "2026-10-17T05:07:45Z"
+  },
+  {
+   "name": "Linkup Brno",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Kapucínské nám. 312/10, 602 00 Brno-střed-Brno-město",
+   "phone": "778 835 223",
+   "website": "https://linkupstore.cz/password",
+   "checked_at": "2026-10-17T05:08:30Z"
+  },
+  {
+   "name": "Luxor",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Cimburkova 4, 612 00 Brno-Královo Pole",
+   "phone": "722 360 393",
+   "website": "https://www.luxor.cz/pobocky/detail/24/knihkupectvi-luxor-nc-kralovo-pole",
+   "buylist_url": "https://www.luxor.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:09:04Z"
+  },
+  {
+   "name": "Luxor",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Jantarová 3344/4, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "771 253 531",
+   "website": "https://www.luxor.cz/pobocky/detail/60/knihkupectvi-luxor-nova-karolina",
+   "buylist_url": "https://www.luxor.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:09:33Z"
+  },
+  {
+   "name": "Magicstore",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Do Čertous 2634/7, 193 00 Praha 20",
+   "phone": "774 530 406",
+   "website": "https://www.dokonalytrik.cz/",
+   "checked_at": "2026-10-17T05:07:31Z"
+  },
+  {
+   "name": "MAKRO Cash & Carry",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Kaštanová 506/50, 620 00 Brno-Tuřany",
+   "phone": "281 083 083",
+   "website": "https://www.makro.cz/prodejny/brno?utm_source=gmb&utm_medium=organic&utm_content=website&utm_term=brno",
+   "checked_at": "2026-10-17T05:08:54Z"
+  },
+  {
+   "name": "Mapcards.net, S.r.o.",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Vinohrady 97/29, 602 00 Brno-střed",
+   "phone": "543 213 800",
+   "website": "https://www.mapcards.net/",
+   "checked_at": "2026-10-17T05:08:53Z"
+  },
+  {
+   "name": "MasterBall.cz",
+   "group": "unknown",
+   "region": "Olomoucký kraj",
+   "address": "Blanická 1/10, 787 01 Šumperk 1",
+   "phone": "732 625 505",
+   "website": "https://www.masterball.cz/",
+   "checked_at": "2026-10-17T05:07:21Z"
+  },
+  {
+   "name": "Moje kartičky",
+   "group": "unknown",
+   "region": "Královéhradecký kraj",
+   "address": "Tylovo nábř. 293, 500 02 Hradec Králové-Hradec Králové 2",
+   "phone": "735 724 902",
+   "website": "https://www.hokejovekarticky.cz/",
+   "checked_at": "2026-10-17T05:09:19Z"
+  },
+  {
+   "name": "MtgForFun",
+   "group": "unknown",
+   "address": "44 Nádražní, Žďár nad Sázavou, Kraj Vysočina, 591 01, Czechia",
+   "phone": "+420 608 187 808",
+   "website": "http://www.mtgforfun.cz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:20Z"
+  },
+  {
+   "name": "Multiland Brno /CD,DVD,LP/",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Orlí 491/16, 602 00 Brno-střed",
+   "phone": "601 309 192",
+   "website": "http://www.multiland.cz/",
+   "checked_at": "2026-10-17T05:08:43Z"
+  },
+  {
+   "name": "Máj - House of Fun",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Národní 63/26, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "246 097 030",
+   "website": "https://houseoffunprague.cz/",
+   "checked_at": "2026-10-17T05:07:48Z"
+  },
+  {
+   "name": "NakamaCards",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Milánská 631, 109 00 Praha 15-Horní Měcholupy",
+   "phone": "777 772 356",
+   "website": "https://nakamacards.cz/",
+   "checked_at": "2026-10-17T05:07:07Z"
+  },
+  {
+   "name": "NERDI.CZ",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "nám. Svobody 16, 602 00 Brno-střed",
+   "phone": "604 247 449",
+   "website": "https://www.nerdi.cz/",
+   "checked_at": "2026-10-17T05:08:39Z"
+  },
+  {
+   "name": "Nintendoshop.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Kolbenova 961/27d, 190 00 Praha 9",
+   "phone": "284 000 127",
+   "website": "http://www.nintendoshop.cz/",
+   "checked_at": "2026-10-17T05:08:04Z"
+  },
+  {
+   "name": "Numismatics Gold Crown - Roman Repka",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Jurečkova 1860/4, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "723 463 462",
+   "website": "https://www.zlatakorunacz.cz/",
+   "checked_at": "2026-10-17T05:09:18Z"
+  },
+  {
+   "name": "Numismatika Ostrava",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "U Tiskárny 578/1, 702 54 Moravská Ostrava a Přívoz",
+   "phone": "596 112 431",
+   "website": "https://www.numismatika-ostrava.cz/cz/",
+   "checked_at": "2026-10-17T05:09:08Z"
+  },
+  {
+   "name": "Obchodvpraze.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "43, Záhřebská 149/43, Vinohrady, 120 00 Praha-Praha 2",
+   "phone": "774 730 933",
+   "website": "https://www.obchodvpraze.cz/",
+   "checked_at": "2026-10-17T05:08:16Z"
+  },
+  {
+   "name": "Ogří Doupě",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Moravská 867/5, Vinohrady, 120 00 Praha-Praha 2",
+   "phone": "732 901 262",
+   "website": "https://www.ogridoupe.cz/",
+   "checked_at": "2026-10-17T05:07:26Z"
+  },
+  {
+   "name": "ohodnocenekarty.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Vodičkova, Nové Město, 110 00 Praha-Praha 1",
+   "website": "https://www.ohodnocenekarty.cz/",
+   "checked_at": "2026-10-17T05:07:16Z"
+  },
+  {
+   "name": "Olympia Brno",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "U Dálnice 777, 664 42 Modřice",
+   "phone": "547 423 677",
+   "website": "https://www.olympia-centrum.cz/",
+   "checked_at": "2026-10-17T05:08:49Z"
+  },
+  {
+   "name": "Ostrov-her",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Kotevní 1099/1, 150 00 Praha 5-Smíchov",
+   "phone": "775 421 349",
+   "website": "https://www.ostrov-her.cz/",
+   "checked_at": "2026-10-17T05:07:31Z"
+  },
+  {
+   "name": "Otarie",
+   "group": "unknown",
+   "address": "Tylova 5, Olomouc, OL, 77900, Czechia",
+   "phone": "10",
+   "website": "https://www.otarie.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:21Z"
+  },
+  {
+   "name": "PACKRIP",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Nademlejnská 600/1, 198 00 Praha 9",
+   "phone": "735 090 010",
+   "website": "https://www.packrip.cz/",
+   "checked_at": "2026-10-17T05:07:18Z"
+  },
+  {
+   "name": "Palác knih Luxor",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Václavské nám. 820/41, 110 00 Praha 1-Nové Město",
+   "phone": "296 110 351",
+   "website": "https://www.luxor.cz/pobocky/detail/22/palac-knih-luxor",
+   "buylist_url": "https://www.luxor.cz/retailer/buylist",
+   "checked_at": "2026-10-17T05:07:15Z"
+  },
+  {
+   "name": "PANDASTIC",
+   "group": "unknown",
+   "region": "Středočeský kraj",
+   "address": "I. Olbrachta 80 272 01, 1 Kladno 1",
+   "phone": "799 533 399",
+   "website": "https://www.pandastic.cz/",
+   "checked_at": "2026-10-17T05:08:17Z"
+  },
+  {
+   "name": "PikaBoom.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Kurzova 2222/16, 155 00 Praha 13-Stodůlky",
+   "phone": "739 471 549",
+   "website": "https://pikaboom.cz/",
+   "checked_at": "2026-10-17T05:08:09Z"
+  },
+  {
+   "name": "Planeta her",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Palackého tř. 198 /72, 612 00 Brno-Královo Pole",
+   "phone": "773 700 126",
+   "website": "https://www.planetaher.cz/",
+   "checked_at": "2026-10-17T05:08:24Z"
+  },
+  {
+   "name": "plasticwargaming.com",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Anenská 7, 602 00 Brno-Brno-střed",
+   "phone": "720 339 904",
+   "website": "https://www.plasticwargaming.com/",
+   "checked_at": "2026-10-17T05:08:59Z"
+  },
+  {
+   "name": "Pohary Bauer - prodejna Brno",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Heršpická 813/5, 639 00 Brno-Brno-střed",
+   "phone": "777 221 804",
+   "website": "https://www.pohary-bauer.cz/prodejny/partnerska-prodejna-brno",
+   "checked_at": "2026-10-17T05:08:55Z"
+  },
+  {
+   "name": "Pohádka - Toys at the Golden Lion",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Celetná 568/32, Staré Město, 110 00 Praha-Praha 1",
+   "phone": "224 239 469",
+   "website": "https://www.eshop.ceskehracky.com/",
+   "checked_at": "2026-10-17T05:07:14Z"
+  },
+  {
+   "name": "Pokemall",
+   "group": "unknown",
+   "city": "Braškov",
+   "region": "Středočeský kraj",
+   "address": "Rudé armády 110, 273 51 Braškov-Unhošť",
+   "phone": "770 663 664",
+   "website": "https://www.pokemall.cz/",
+   "checked_at": "2026-10-17T05:07:54Z"
+  },
+  {
+   "name": "Pokeriders.cz",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Prameny 600/16, Ráj, 734 01 Karviná-Karviná 4",
+   "phone": "736 660 566",
+   "website": "https://www.pokeriders.cz/",
+   "checked_at": "2026-10-17T05:09:32Z"
+  },
+  {
+   "name": "PokešihoMat - První automat s Pokémony v ČR",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "nám. Svobody 702/9, 602 00 Brno-střed-Brno-město",
+   "website": "https://www.pokesihomat.cz/",
+   "checked_at": "2026-10-17T05:08:27Z"
+  },
+  {
+   "name": "Pokélandia",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Na Poříčí 1068/23, 110 00 Praha 1-Nové Město",
+   "phone": "776 608 267",
+   "website": "https://adventure.pokelandia.cz/",
+   "checked_at": "2026-10-17T05:07:15Z"
+  },
+  {
+   "name": "Pompo",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Ve Vaňkovce 462/1, 602 00 Brno-střed",
+   "phone": "778 547 147",
+   "website": "https://pompo.cz/",
+   "checked_at": "2026-10-17T05:09:03Z"
+  },
+  {
+   "name": "Prague Card",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "A. Staška 2027/79A, 140 00 Praha 4-Krč",
+   "website": "https://www.praguecard.com/",
+   "checked_at": "2026-10-17T05:08:18Z"
+  },
+  {
+   "name": "Presto - Svět Her",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "4, Zlatnická 1127, Petrská čtvrť, 110 00 Praha-Praha 1",
+   "phone": "222 313 557",
+   "website": "https://www.hry-presto.cz/",
+   "checked_at": "2026-10-17T05:07:21Z"
+  },
+  {
+   "name": "Professor Onyx",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Arbesovo nám. 781/14, 150 00 Praha 5-Smíchov",
+   "phone": "725 759 085",
+   "website": "https://www.professoronyx.com/",
+   "checked_at": "2026-10-17T05:07:18Z"
+  },
+  {
+   "name": "Prokonzole.cz",
+   "group": "unknown",
+   "region": "Středočeský kraj",
+   "address": "Švermova 782, 289 22 Lysá nad Labem",
+   "website": "https://www.prokonzole.cz/",
+   "checked_at": "2026-10-17T05:08:01Z"
+  },
+  {
+   "name": "Rishada.cz",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Antonina Slavika 2, Brno, Brno, 60200, Czechia",
+   "phone": "420777 820 735",
+   "website": "http://www.rishada.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:17Z"
+  },
+  {
+   "name": "Rookieshop",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Jičínská 226/17, 130 00 Praha 3-Vinohrady",
+   "phone": "739 664 015",
+   "website": "https://rookieshop.cz/",
+   "checked_at": "2026-10-17T05:07:16Z"
+  },
+  {
+   "name": "Růžovka.cz a.s.",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "16, Růžová 1522, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "777 555 222",
+   "website": "https://ruzovka.cz/cs/",
+   "checked_at": "2026-10-17T05:08:01Z"
+  },
+  {
+   "name": "Sbírejhokej.cz",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Střední, 602 00 Brno-Královo Pole",
+   "phone": "728 601 953",
+   "website": "https://www.sbirejhokej.cz/",
+   "checked_at": "2026-10-17T05:08:44Z"
+  },
+  {
+   "name": "Section Prague",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Jeruzalémská 1782 /11, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "722 590 721",
+   "website": "https://sectionstore.cz/",
+   "checked_at": "2026-10-17T05:07:55Z"
+  },
+  {
+   "name": "ShadowBall.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Perlová 8, 110 00 Praha 1-Staré Město",
+   "phone": "608 352 912",
+   "website": "https://www.shadowball.cz/",
+   "checked_at": "2026-10-17T05:06:54Z"
+  },
+  {
+   "name": "Shop RealGeek.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Hartigova 1827/135, 130 00 Praha 3-Žižkov",
+   "website": "https://www.realgeek.cz/",
+   "checked_at": "2026-10-17T05:07:54Z"
+  },
+  {
+   "name": "Shop4fans.cz",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Českomoravská 1308/1, 190 00 Praha-Praha 9",
+   "phone": "722 267 272",
+   "website": "https://www.shop4fans.cz/",
+   "checked_at": "2026-10-17T05:07:21Z"
+  },
+  {
+   "name": "Shopping Centre Futurum",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Vídeňská 132/100, 619 00 Brno-jih",
+   "website": "https://www.futurumbrno.cz/",
+   "checked_at": "2026-10-17T05:09:02Z"
+  },
+  {
+   "name": "Sparkys",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Masarykova 15, 602 00 Brno-střed",
+   "phone": "602 519 742",
+   "website": "https://www.sparkys.cz/",
+   "checked_at": "2026-10-17T05:08:58Z"
+  },
+  {
+   "name": "Sparkys - Dům hraček",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Václavské nám. 782, Nové Město, 110 00 Praha-Praha 1",
+   "phone": "777 722 085",
+   "website": "https://www.sparkys.cz/",
+   "checked_at": "2026-10-17T05:07:49Z"
+  },
+  {
+   "name": "Sports Cards Museum / Muzeum sportovních karet",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Myšák Gallery, Vodičkova 710/31, 110 00 Praha 1-Nové Město",
+   "phone": "722 646 906",
+   "website": "https://sportscardsmuseum.cz/",
+   "checked_at": "2026-10-17T05:07:30Z"
+  },
+  {
+   "name": "SVĚT HER s.r.o.",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Janovského 920/34, 170 00 Praha 7-Holešovice",
+   "phone": "774 305 064",
+   "website": "https://www.svet-her.cz/",
+   "checked_at": "2026-10-17T05:07:29Z"
+  },
+  {
+   "name": "TBgames.cz - prodej elektronických licencí PC her",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Hájkovická 325/7, 725 26 Ostrava-Krásné Pole",
+   "website": "https://tbgames.cz/overeni-cloveka.php?u=%2f&q=&r=scraper-stary-desktop-chrome-bez-cestiny",
+   "checked_at": "2026-10-17T05:09:16Z"
+  },
+  {
+   "name": "Tecege",
+   "group": "unknown",
+   "address": "Čechova, Mlada Boleslav, Středočeský kraj, 293 01, Czechia",
+   "phone": "+420605805500",
+   "website": "https://tecege.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:10Z"
+  },
+  {
+   "name": "The Grail",
+   "group": "unknown",
+   "address": "Viktora Huga 287/5, Prague, Hlavní město Praha, 150 00, Czechia",
+   "phone": "774349870",
+   "website": "https://www.thegrail.cz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "The world of board games",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Kubánské nám. 1268/9, 100 00 Praha 10-Vršovice",
+   "phone": "733 512 361",
+   "website": "https://www.svet-deskovych-her.cz/",
+   "checked_at": "2026-10-17T05:07:28Z"
+  },
+  {
+   "name": "Time Walk s.r.o.",
+   "group": "unknown",
+   "address": "Resslova 106/16, Nový Jičín, Czech Republic, 741 01, Czechia",
+   "phone": "+420725181915",
+   "website": "https://www.timewalk.cz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:26Z"
+  },
+  {
+   "name": "TLAMA Games",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Třebohostická 2283/2, Prague, ST, 100 00, Czechia",
+   "phone": "420608 400 030",
+   "website": "https://www.tlamagames.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "Tlapkashop",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Saudkova, 149 00 Praha 11-Chodov",
+   "phone": "724 275 727",
+   "website": "https://www.tlapkashop.cz/",
+   "checked_at": "2026-10-17T05:07:46Z"
+  },
+  {
+   "name": "TNT prodej zvukových nosičů - Music Shop",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Jurečkova 12, 702 00 Moravská Ostrava a Přívoz",
+   "phone": "596 125 659",
+   "website": "https://www.tntshop.eu/",
+   "checked_at": "2026-10-17T05:09:21Z"
+  },
+  {
+   "name": "Tolarie s.r.o.",
+   "group": "unknown",
+   "region": "Pardubický kraj",
+   "address": "Zámecká 23, 530 02 Pardubice I-Staré Město, Czechia, Pardubický kraj, 530 02",
+   "phone": "+420 776311666",
+   "website": "https://www.tolarie.cz/uvod/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:06:47Z"
+  },
+  {
+   "name": "UNTAP s.r.o.",
+   "group": "unknown",
+   "region": "Královéhradecký kraj",
+   "address": "Pospíšilova 281/18, 500 03 Hradec Králové-Hradec Králové 3, Czechia, Královéhradecký kraj, 500 03",
+   "phone": "+420 731 588 412",
+   "website": "http://www.untap.cz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:06:53Z"
+  },
+  {
+   "name": "Veselý Drak",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Freyova 945/35, 190 00 Praha-Praha 9",
+   "phone": "734 593 444",
+   "website": "https://www.vesely-drak.cz/",
+   "checked_at": "2026-10-17T05:07:01Z"
+  },
+  {
+   "name": "Virtual Grading",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Štolbova 6, 162 00 Praha 6",
+   "phone": "602 617 505",
+   "website": "https://vgrading.com/cs",
+   "checked_at": "2026-10-17T05:07:07Z"
+  },
+  {
+   "name": "Westfield Chodov",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Roztylská 2321/19, Chodov, 148 00 Praha-Praha 11",
+   "phone": "272 173 677",
+   "website": "https://www.westfield.com/cz/czech-republic/chodov",
+   "checked_at": "2026-10-17T05:08:05Z"
+  },
+  {
+   "name": "Wombat Games",
+   "group": "unknown",
+   "region": "Pardubický kraj",
+   "address": "Sladkovského 505, 530 02 Pardubice I, Czechia, Pardubický kraj, 530 02",
+   "phone": "+420 775 105 892",
+   "website": "https://www.wombatgames.cz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:06:54Z"
+  },
+  {
+   "name": "www.cardsnation.cz",
+   "group": "unknown",
+   "region": "Středočeský kraj",
+   "address": "Letců R. A. F. 2163, 288 02 Nymburk-Nymburk 2",
+   "website": "https://www.cardsnation.cz/",
+   "checked_at": "2026-10-17T05:07:36Z"
+  },
+  {
+   "name": "Xzone Brno",
+   "group": "unknown",
+   "region": "Jihomoravský kraj",
+   "address": "Palackého tř. 177/50, 612 00 Brno-Královo Pole",
+   "phone": "737 337 880",
+   "website": "https://www.xzone.cz/",
+   "checked_at": "2026-10-17T05:08:25Z"
+  },
+  {
+   "name": "Xzone Praha OC Lužiny",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "1 Archeologická, Prague, Hlavní město Praha, 155 00, Czechia",
+   "phone": "+420735114848",
+   "website": "https://www.xzone.cz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:06:00Z"
+  },
+  {
+   "name": "ZARDO CARDS",
+   "group": "unknown",
+   "region": "Hlavní město Praha",
+   "address": "Petrohradská 4/35, 101 00 Praha 10-Vršovice",
+   "phone": "608 877 157",
+   "website": "https://www.zardo.cards/",
+   "checked_at": "2026-10-17T05:06:59Z"
+  },
+  {
+   "name": "ZLAŤÁKY",
+   "group": "unknown",
+   "region": "Moravskoslezský kraj",
+   "address": "Tyršova 1250/6, 702 00 Ostrava-Moravská Ostrava a Přívoz",
+   "phone": "232 003 050",
+   "website": "https://zlataky.cz/",
+   "checked_at": "2026-10-17T05:09:22Z"
+  }
+ ]
+}

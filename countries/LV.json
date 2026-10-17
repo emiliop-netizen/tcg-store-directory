@@ -1,0 +1,388 @@
+{
+ "country": "LV",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 42,
+ "stores": [
+  {
+   "name": "Baitukas",
+   "group": "blocked",
+   "city": "Rīga",
+   "address": "Brīvības gat. 372, Vidzemes priekšpilsēta, Rīga, LV-1006",
+   "phone": "27 749 992",
+   "website": "https://www.baitukas.lv/",
+   "checked_at": "2026-10-17T05:20:42Z"
+  },
+  {
+   "name": "IK \"Striker\"",
+   "group": "blocked",
+   "city": "Baloži",
+   "region": "Ķekavas novads",
+   "address": "Krišjāņa Barona iela 4, Baloži, Baloži pilsēta, Ķekavas novads, LV-2128",
+   "phone": "29 795 485",
+   "website": "http://www.striker.lv/",
+   "checked_at": "2026-10-17T05:20:37Z"
+  },
+  {
+   "name": "Riga Football Club official shop Old town",
+   "group": "blocked",
+   "city": "Rīga",
+   "address": "Vaļņu iela 1, Centra rajons, Rīga, LV-1050",
+   "phone": "24 338 675",
+   "website": "https://shop.rigafc.lv/",
+   "checked_at": "2026-10-17T05:20:37Z"
+  },
+  {
+   "name": "AP-CARDS",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Kalnciema Iela 207, Zemgales priekšpilsēta, Rīga, LV-1046",
+   "phone": "67 223 390",
+   "checked_at": "2026-10-17T05:20:41Z"
+  },
+  {
+   "name": "daigs",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Miera iela 5, Centra rajons, Rīga, LV-1488",
+   "checked_at": "2026-10-17T05:20:54Z"
+  },
+  {
+   "name": "Diy Ciy",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Zaļenieku iela 18, Zemgales priekšpilsēta, Rīga, LV-1058",
+   "phone": "28 263 853",
+   "checked_at": "2026-10-17T05:20:51Z"
+  },
+  {
+   "name": "FS Metta office",
+   "group": "in_store",
+   "city": "Riga",
+   "address": "Central District, Riga, LV-1013",
+   "checked_at": "2026-10-17T05:20:41Z"
+  },
+  {
+   "name": "gameplay.lv",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Upeņu iela 17, Vidzemes priekšpilsēta, Rīga, LV-1084",
+   "phone": "22 132 131",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "Games Shop",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "kab/room 207, Tallinas iela 95, Latgales priekšpilsēta, Rīga, LV-1009",
+   "phone": "27 700 390",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "KAWALLA Castle",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Senču iela 5, Vidzemes priekšpilsēta, Rīga, LV-1012",
+   "checked_at": "2026-10-17T05:20:42Z"
+  },
+  {
+   "name": "Megagame Riga",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+37129558219",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "Riga Football Club official shop Stadium",
+   "group": "in_store",
+   "city": "Riga",
+   "address": "Central District, Riga, LV-1010",
+   "checked_at": "2026-10-17T05:20:39Z"
+  },
+  {
+   "name": "Stickytix",
+   "group": "in_store",
+   "city": "Rīga",
+   "address": "Latgales iela, Latgales priekšpilsēta, Rīga, LV-1003",
+   "phone": "26 702 298",
+   "checked_at": "2026-10-17T05:20:47Z"
+  },
+  {
+   "name": "4games, Internetveikals",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Ganību dambis 36, Ziemeļu rajons, Rīga, LV-1005",
+   "phone": "22 164 949",
+   "website": "https://www.4games.pro/",
+   "checked_at": "2026-10-17T05:20:29Z"
+  },
+  {
+   "name": "Aniimeshop",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Krišjāņa Barona iela 10, Centra rajons, Rīga, LV-1050",
+   "website": "https://aniimeshop.com/",
+   "checked_at": "2026-10-17T05:20:23Z"
+  },
+  {
+   "name": "animaji - Origo Jaunā E ēka",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Stacijas laukums 4, Centra rajons, Rīga, LV-1050",
+   "phone": "20 042 700",
+   "website": "https://animaji.lv/",
+   "checked_at": "2026-10-17T05:20:21Z"
+  },
+  {
+   "name": "BigGames",
+   "group": "unknown",
+   "city": "Dzidriņas",
+   "region": "Ropažu novads",
+   "address": "Piekūnu iela 10, Dzidriņas, Stopiņu pagasts, Ropažu novads, LV-2130",
+   "phone": "26 450 906",
+   "website": "https://www.biggames.lv/",
+   "checked_at": "2026-10-17T05:20:45Z"
+  },
+  {
+   "name": "Black Cat Souvenirs",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Mazā Jaunavu iela 8, Centra rajons, Rīga, LV-1050",
+   "phone": "27 491 777",
+   "website": "https://balticgifts.com/",
+   "checked_at": "2026-10-17T05:20:26Z"
+  },
+  {
+   "name": "BONBALOO",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Doma laukums 2, Centra rajons, Rīga, LV-1050",
+   "phone": "25 739 000",
+   "website": "https://bonbaloo.com/",
+   "checked_at": "2026-10-17T05:20:50Z"
+  },
+  {
+   "name": "Collector",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Daugavgrīvas iela 45, Kurzemes rajons, Rīga, LV-1007",
+   "phone": "67 464 999",
+   "website": "https://www.collector.lv/lv/",
+   "checked_at": "2026-10-17T05:20:32Z"
+  },
+  {
+   "name": "Comics.lv",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Aleksandra Čaka iela 22, Latgales priekšpilsēta, Rīga, LV-1011",
+   "phone": "29 729 665",
+   "website": "https://comics.lv/",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "Darkwood Tavern",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Augusta Deglava iela 69H, Vidzemes priekšpilsēta, Rīga, LV-1082, Latvia, Rīga, 1082",
+   "phone": "+371 24931575",
+   "website": "https://darkwood.lv/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "Enjoy the Game",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Krišjāņa Barona iela 41/43, Centra rajons, Rīga, LV-1011",
+   "phone": "26 775 483",
+   "website": "https://videogames.lv/",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "IGROTEKA",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Ernesta Birznieka-Upīša iela 26, Latgales priekšpilsēta, Rīga, LV-1050",
+   "phone": "20 237 202",
+   "website": "http://igroteka.lv/",
+   "checked_at": "2026-10-17T05:20:41Z"
+  },
+  {
+   "name": "Jana Seta",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Elizabetes iela 85A, Centra rajons, Rīga, LV-1050",
+   "phone": "67 240 894",
+   "website": "https://www.karsuveikals.lv/lv/",
+   "checked_at": "2026-10-17T05:20:25Z"
+  },
+  {
+   "name": "Kanika Latvia",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Tērbatas iela 22, Centra rajons, Rīga, LV-1011",
+   "phone": "25 470 033",
+   "website": "https://kanika.lv/",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "KNIPS",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Ganību dambis 22d, Vidzemes priekšpilsēta, Rīga, LV-1045",
+   "phone": "29 573 639",
+   "website": "http://www.knipsgame.com/",
+   "checked_at": "2026-10-17T05:20:45Z"
+  },
+  {
+   "name": "Lieliska dāvana I/C Olimpia (pašapkalpošanās punkts)",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Āzenes iela 5, Kurzemes rajons, Rīga, LV-1048",
+   "phone": "29 611 348",
+   "website": "https://www.lieliskadavana.lv/",
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "MegaGame",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Lāčplēša iela 29, Centra rajons, Rīga, LV-1011, Latvia, Rīga, 1011",
+   "phone": "+371 29558219",
+   "website": "https://linktr.ee/megagamelv",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "MNOGOKNIG",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Augusta Deglava iela 69D, Vidzemes priekšpilsēta, Rīga, LV-1082",
+   "phone": "26 003 303",
+   "website": "https://mnogoknig.com/ru",
+   "checked_at": "2026-10-17T05:20:41Z"
+  },
+  {
+   "name": "Partyprieks.lv",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Emīlijas Benjamiņas iela 14b, Latgales priekšpilsēta, Rīga, LV-1050",
+   "phone": "27 199 930",
+   "website": "https://www.partyprieks.lv/",
+   "checked_at": "2026-10-17T05:20:47Z"
+  },
+  {
+   "name": "Randoms",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Vaļņu iela 18, Centra rajons, Rīga, LV-1050",
+   "phone": "67 225 212",
+   "website": "https://randoms.lv/",
+   "checked_at": "2026-10-17T05:20:25Z"
+  },
+  {
+   "name": "Retrogames.lv",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Mūkusalas iela 72b, Zemgales priekšpilsēta, Rīga, LV-1004",
+   "phone": "28 800 281",
+   "website": "https://retrogames.lv/",
+   "checked_at": "2026-10-17T05:20:38Z"
+  },
+  {
+   "name": "SIA Brain Games",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "55 Krišjāņa Barona iela, Rīga, Riga, 1001, Latvia",
+   "phone": "+37167294040",
+   "website": "https://www.brain-games.lv",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "SIA Novusa galds",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Meirānu iela 4, Latgales priekšpilsēta, Rīga, LV-1073",
+   "phone": "25 366 446",
+   "website": "https://novusagalds.lv/",
+   "checked_at": "2026-10-17T05:20:44Z"
+  },
+  {
+   "name": "Solid Wood Gifts",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Krustpils iela 17, Latgales priekšpilsēta, Rīga, LV-1073",
+   "phone": "29 675 034",
+   "website": "https://solidwoodgifts.com/",
+   "checked_at": "2026-10-17T05:20:46Z"
+  },
+  {
+   "name": "Veikals | EUROGOLD.LV STACIJA",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Stacijas laukums 2, Centra rajons, Rīga, LV-1050",
+   "phone": "28 660 076",
+   "website": "https://eurogold.lv/lv/",
+   "checked_at": "2026-10-17T05:20:39Z"
+  },
+  {
+   "name": "Voland Game , SIA",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Ganību dambis 24d, Ziemeļu rajons, Rīga, LV-1005",
+   "phone": "67 383 471",
+   "website": "https://www.firmas.lv/lv/uznemumi/voland-game/40003535348",
+   "checked_at": "2026-10-17T05:20:51Z"
+  },
+  {
+   "name": "VR.LV (GoStation)",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Emīlijas Benjamiņas iela 11, Latgales priekšpilsēta, Rīga, LV-1050",
+   "website": "https://vr.lv/",
+   "checked_at": "2026-10-17T05:20:20Z"
+  },
+  {
+   "name": "Yuranka Games",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "25 Matīsa iela, Rīga, Riga, 1001, Latvia",
+   "phone": "+37037127460885",
+   "website": "https://www.yuranka.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:20:15Z"
+  },
+  {
+   "name": "Zvaigzne",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Krišjāņa Valdemāra iela 6, Centra rajons, Rīga, LV-1010",
+   "phone": "26 624 070",
+   "website": "https://www.zvaigzne.lv/",
+   "checked_at": "2026-10-17T05:20:39Z"
+  },
+  {
+   "name": "Магазин коллекционеров",
+   "group": "unknown",
+   "city": "Rīga",
+   "address": "Elizabetes iela 103 - 29, Centra rajons, Rīga, LV-1050",
+   "phone": "20 403 403",
+   "website": "https://importa-aksesuari.ss.com/ru",
+   "buylist_url": "https://importa-aksesuari.ss.com/retailer/buylist",
+   "checked_at": "2026-10-17T05:20:22Z"
+  }
+ ]
+}

@@ -1,0 +1,523 @@
+{
+ "country": "MT",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 51,
+ "stores": [
+  {
+   "name": "Briscoe Cards",
+   "group": "blocked",
+   "city": "Swieqi",
+   "region": "Eastern Region",
+   "address": "V.Menville Is, Swieqi SWQ 2161",
+   "phone": "7937 2315",
+   "website": "https://www.etsy.com/shop/briscoecards",
+   "checked_at": "2026-10-17T05:35:01Z"
+  },
+  {
+   "name": "Decathlon Qormi (Malta)",
+   "group": "blocked",
+   "city": "Il-Marsa",
+   "region": "Reġjun Nofsinhar",
+   "address": "Triq it-Tiġrija, Il-Marsa MRS 2912",
+   "phone": "2034 1681",
+   "website": "https://www.decathlon.mt/",
+   "checked_at": "2026-10-17T05:34:59Z"
+  },
+  {
+   "name": "Exotique",
+   "group": "blocked",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "3 Republic St, Valletta",
+   "phone": "7924 1349",
+   "website": "https://exotique.com.mt/",
+   "checked_at": "2026-10-17T05:34:29Z"
+  },
+  {
+   "name": "PlanetConsoles",
+   "group": "blocked",
+   "city": "B'Kara",
+   "region": "Eastern Region",
+   "address": "Tumas Fenech St, Birkirkara",
+   "phone": "9914 4689",
+   "website": "https://www.planetconsoles.com/en/home",
+   "checked_at": "2026-10-17T05:34:34Z"
+  },
+  {
+   "name": "SCAN Malta",
+   "group": "blocked",
+   "city": "B'Kara",
+   "region": "Reġjun Lvant",
+   "address": "Triq Dun Karm, Birkirkara BKR 9033",
+   "phone": "2331 5555",
+   "website": "https://www.scanmalta.com/",
+   "checked_at": "2026-10-17T05:34:59Z"
+  },
+  {
+   "name": "The Model Shop",
+   "group": "blocked",
+   "city": "Is-Swieqi",
+   "region": "Reġjun Lvant",
+   "address": "Pjazza Navona, Triq Ta l-Ibrag Ibrag SWQ, Is-Swieqi 2031",
+   "phone": "2149 9101",
+   "website": "https://www.modelshop.com.mt/",
+   "checked_at": "2026-10-17T05:34:55Z"
+  },
+  {
+   "name": "The Model Shop",
+   "group": "blocked",
+   "city": "St Paul's Bay",
+   "region": "Northern Region",
+   "address": "Mosta Road, St Paul's Bay",
+   "phone": "2149 9101",
+   "website": "https://www.modelshop.com.mt/",
+   "checked_at": "2026-10-17T05:34:56Z"
+  },
+  {
+   "name": "The Mystical Tavern",
+   "group": "blocked",
+   "city": "Il-Gudja",
+   "region": "Reġjun Nofsinhar",
+   "address": "19, Triq il-Barjola, Gudja, -, GDJ 2021, Malta",
+   "phone": "+35677428441",
+   "website": "https://www.mysticaltavern.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "C.GALEA",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "VGW6+R2F, Valletta",
+   "phone": "7922 4562",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Card Lounge Malta",
+   "group": "in_store",
+   "city": "Ħal Qormi",
+   "region": "Reġjun Nofsinhar",
+   "address": "Triq John Michael Testa, Ħal Qormi QRM 2504",
+   "phone": "9902 9750",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Clamus",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "35 Melita St, Valletta VLT 1125",
+   "phone": "2122 6596",
+   "website": "https://www.facebook.com/pages/category/Shopping---Retail/Clamus-170489969660849/",
+   "checked_at": "2026-10-17T05:34:35Z"
+  },
+  {
+   "name": "De Niro Pacino Figures and Collectibles",
+   "group": "in_store",
+   "city": "Santa Venera",
+   "region": "Southern Region",
+   "address": "Carmelite St, Santa Venera SVR 1047",
+   "phone": "9946 7364",
+   "website": "https://www.facebook.com/groups/177578825912290/?hoisted_section_header_type=recently_seen&multi_permalinks=1940437636293058",
+   "checked_at": "2026-10-17T05:34:49Z"
+  },
+  {
+   "name": "Exotique",
+   "group": "in_store",
+   "city": "San Ġiljan",
+   "region": "Reġjun Lvant",
+   "address": "55, 77 Triq Sqaq Lourdes, San Ġiljan",
+   "phone": "7923 7260",
+   "checked_at": "2026-10-17T05:34:59Z"
+  },
+  {
+   "name": "Gifts Unlimited",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "Republic St, Valletta",
+   "phone": "2138 2820",
+   "checked_at": "2026-10-17T05:34:55Z"
+  },
+  {
+   "name": "Go Bananas",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "247 Republic St, Valletta",
+   "phone": "2733 7944",
+   "checked_at": "2026-10-17T05:35:09Z"
+  },
+  {
+   "name": "Handkrafts",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "83, South Street, Valletta",
+   "phone": "2122 1160",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Malta Antiques & Collectables",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "48 Melita St, Valletta",
+   "phone": "9921 1592",
+   "checked_at": "2026-10-17T05:34:39Z"
+  },
+  {
+   "name": "Mercury's One Stop Shop",
+   "group": "in_store",
+   "city": "Sliema",
+   "region": "Eastern Region",
+   "address": "WF7W+4QF, Sliema",
+   "phone": "2131 3651",
+   "checked_at": "2026-10-17T05:34:58Z"
+  },
+  {
+   "name": "Pandamonium",
+   "group": "in_store",
+   "city": "Ħal Qormi",
+   "address": "17 Triq San Bartolomew, Ħal Qormi, Malta, Ħal Qormi",
+   "phone": "+35 6795 91199",
+   "website": "https://www.facebook.com/PandamoniumMalta/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "Print Vault",
+   "group": "in_store",
+   "city": "Żurrieq",
+   "region": "Western Region",
+   "address": "27, Genesis, Żurrieq ZRQ 1741",
+   "phone": "7984 2007",
+   "checked_at": "2026-10-17T05:35:01Z"
+  },
+  {
+   "name": "Rebel Sport",
+   "group": "in_store",
+   "city": "Il-Belt Valletta",
+   "region": "Reġjun Port",
+   "address": "38 Old Theatre Street, Il-Belt Valletta VLT 1425",
+   "phone": "7711 9737",
+   "checked_at": "2026-10-17T05:35:09Z"
+  },
+  {
+   "name": "Sentinel Resources",
+   "group": "in_store",
+   "city": "Żabbar",
+   "region": "Port Region",
+   "address": "20 Triq Alessio Erardi Ħaż, Żabbar ZBR 1836",
+   "phone": "9995 7153",
+   "checked_at": "2026-10-17T05:35:01Z"
+  },
+  {
+   "name": "The Realm of Pure Fantasy",
+   "group": "in_store",
+   "city": "Il-Mosta",
+   "region": "Reġjun Tramuntana",
+   "address": "19 Ruzinjol, Il-Mosta",
+   "phone": "7976 2086",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Thinking... Malta",
+   "group": "in_store",
+   "city": "San Pawl il-Baħar",
+   "region": "Reġjun Tramuntana",
+   "address": "108 Dawret Il-Gzejjer, San Pawl il-Baħar",
+   "checked_at": "2026-10-17T05:34:58Z"
+  },
+  {
+   "name": "Agenda Bookshop",
+   "group": "unknown",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "34 Republic St, Valletta",
+   "phone": "2166 4488",
+   "website": "https://millermalta.com/",
+   "checked_at": "2026-10-17T05:34:52Z"
+  },
+  {
+   "name": "Anastasi Panini",
+   "group": "unknown",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "19, Merchants Street, Valletta VLT 1171",
+   "phone": "2123 0477",
+   "website": "https://kupuni.mt/?v=710998fd1b7c",
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "BigMat Malta - Home & DIY Superstore",
+   "group": "unknown",
+   "city": "Malta",
+   "region": "Reġjun Tramuntana",
+   "address": "Mikesand Industrial Zone, Vjal L-Istadium Nazzjonali Ta Qali Attard, ATD, Malta 4000",
+   "phone": "2338 4400",
+   "website": "https://bigmatmalta.com/",
+   "checked_at": "2026-10-17T05:35:02Z"
+  },
+  {
+   "name": "Buzzer Stationers Anime",
+   "group": "unknown",
+   "city": "L-Imsida",
+   "region": "Reġjun Lvant",
+   "address": "92, Triq J.Borg Msida MT MSD, 1210, L-Imsida",
+   "phone": "2122 6093",
+   "website": "https://www.buzzermalta.com/",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Forbidden Power",
+   "group": "unknown",
+   "city": "L-Imsida",
+   "region": "Reġjun Lvant",
+   "address": "83 Bordin Street, Msida, Msida, 1235, Malta",
+   "phone": "3562122 7999",
+   "website": "https://forbiddenpower.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "Forestals",
+   "group": "unknown",
+   "city": "Ħal Qormi",
+   "region": "Reġjun Nofsinhar",
+   "address": "Triq il-Birrerija, Ħal Qormi",
+   "phone": "2343 6000",
+   "website": "https://forestals.com/",
+   "checked_at": "2026-10-17T05:35:01Z"
+  },
+  {
+   "name": "Gamebreaker",
+   "group": "unknown",
+   "city": "B'Kara",
+   "region": "Reġjun Lvant",
+   "address": "89A, Triq Fleur de Lys, Birkirkara, Malta, BKR9065, Malta",
+   "phone": "+35699841877",
+   "website": "https://gamebreakermalta.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "Gamers Land Gzira",
+   "group": "unknown",
+   "city": "Il-Gżira",
+   "region": "Reġjun Lvant",
+   "address": "Triq Ir- Rebha, Il-Gżira GZR 1132",
+   "phone": "7780 5000",
+   "website": "https://gamersland.com.mt/",
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "Gamers Land Marsaskala",
+   "group": "unknown",
+   "city": "Wied il-Għajn",
+   "region": "Reġjun Nofsinhar",
+   "address": "Triq Il-Qaliet, Wied il-Għajn MSK 3381",
+   "phone": "7780 5000",
+   "website": "https://gamersland.com.mt/",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "GamesPlus",
+   "group": "unknown",
+   "city": "San Ġwann",
+   "region": "Reġjun Tramuntana",
+   "address": "91 Triq Id-Dejma, Ħal Tarxien, Malta, TXN9034, Malta",
+   "phone": "35621434844",
+   "website": "https://gamesplusmalta.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "GamesPlus",
+   "group": "unknown",
+   "city": "Ħal Tarxien",
+   "region": "Reġjun Port",
+   "address": "91 Triq Id-Dejma, Ħal Tarxien TXN 9034",
+   "phone": "2143 4844",
+   "website": "https://gamesplusmalta.com/",
+   "checked_at": "2026-10-17T05:34:27Z"
+  },
+  {
+   "name": "GamesPlus",
+   "group": "unknown",
+   "city": "B'Kara",
+   "region": "Eastern Region",
+   "address": "Triq Dun Karm, Birkirkara BKR 9031",
+   "phone": "2143 4844",
+   "website": "https://gamesplusmalta.com/",
+   "checked_at": "2026-10-17T05:34:34Z"
+  },
+  {
+   "name": "GameStore.mt - Flutisat",
+   "group": "unknown",
+   "city": "San Ġwann",
+   "region": "Reġjun Tramuntana",
+   "address": "64 Triq In-Naxxar, San Ġwann SGN 9032",
+   "phone": "2138 6839",
+   "website": "https://gamestore.mt/",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Homemate Co. Ltd.",
+   "group": "unknown",
+   "city": "B'Kara",
+   "region": "Reġjun Lvant",
+   "address": "Zone 3, Central Business District, Triq L-Imprendituri, Birkirkara CBD 3090",
+   "phone": "2326 2000",
+   "website": "https://www.homemate.com.mt/",
+   "checked_at": "2026-10-17T05:35:03Z"
+  },
+  {
+   "name": "Homemate Co. Ltd.",
+   "group": "unknown",
+   "city": "Sliema",
+   "region": "Eastern Region",
+   "address": "Level -2, The Point Shopping Mall, Sliema",
+   "phone": "2326 2500",
+   "website": "https://www.homemate.com.mt/",
+   "checked_at": "2026-10-17T05:35:09Z"
+  },
+  {
+   "name": "JB Stores",
+   "group": "unknown",
+   "city": "Iklin",
+   "region": "Eastern Region",
+   "address": "Triq Il -Klin, Iklin IKL 1061",
+   "phone": "2331 4301",
+   "website": "https://jbstoresonline.com/",
+   "checked_at": "2026-10-17T05:35:03Z"
+  },
+  {
+   "name": "JB Stores Sliema",
+   "group": "unknown",
+   "city": "Sliema",
+   "region": "Eastern Region",
+   "address": "High Street, Sliema",
+   "phone": "2133 9689",
+   "website": "https://jbstoresonline.com/",
+   "checked_at": "2026-10-17T05:35:06Z"
+  },
+  {
+   "name": "LAB7",
+   "group": "unknown",
+   "city": "Siġġiewi",
+   "region": "Western Region",
+   "address": "LAB7, Triq Santa Margerita, Siġġiewi SGW 1010",
+   "phone": "9983 0891",
+   "website": "https://lab7.com.mt/",
+   "checked_at": "2026-10-17T05:34:27Z"
+  },
+  {
+   "name": "Malta Little Pawprints",
+   "group": "unknown",
+   "city": "Il-Belt Valletta",
+   "region": "Reġjun Port",
+   "address": "50 St. Lucia's Street, Il-Belt Valletta",
+   "phone": "7957 7779",
+   "website": "https://little-pawprints.com/",
+   "checked_at": "2026-10-17T05:34:39Z"
+  },
+  {
+   "name": "MaltaComics",
+   "group": "unknown",
+   "city": "Msida",
+   "region": "Eastern Region",
+   "address": "Phoenix Court, 46 Judge Paolo Debono St, Msida",
+   "phone": "2732 0060",
+   "website": "https://www.malta-comics.com/",
+   "checked_at": "2026-10-17T05:34:49Z"
+  },
+  {
+   "name": "Pandora's Box Collectables",
+   "group": "unknown",
+   "city": "Ħal Għaxaq",
+   "region": "Reġjun Nofsinhar",
+   "address": "Dawret Ħal Għaxaq, Ħal Għaxaq GXQ 9017",
+   "phone": "2713 8758",
+   "website": "https://pandorasboxmalta.com/",
+   "checked_at": "2026-10-17T05:34:35Z"
+  },
+  {
+   "name": "Paul's Arcade",
+   "group": "unknown",
+   "city": "San Pawl il-Baħar",
+   "region": "Reġjun Tramuntana",
+   "address": "Triq il Kahli, San Pawl il-Baħar SPB 3015",
+   "phone": "2157 2324",
+   "website": "https://www.paulsarcade.com/",
+   "checked_at": "2026-10-17T05:34:49Z"
+  },
+  {
+   "name": "PowerPlay",
+   "group": "unknown",
+   "city": "Mġarr",
+   "region": "Northern Region",
+   "address": "39, fishe road, Mgarr, Mgarr Malta, 9057, Malta",
+   "phone": "35679360496",
+   "website": "https://www.powerplaymt.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  },
+  {
+   "name": "Souvenirs That Don't Suck - Valletta",
+   "group": "unknown",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "8, St John's Square Valletta, Valletta VLT 1133",
+   "phone": "7771 3194",
+   "website": "https://www.souvenirsthatdontsuck.mt/",
+   "checked_at": "2026-10-17T05:34:43Z"
+  },
+  {
+   "name": "Spells - Toys, Stationery & Partyware",
+   "group": "unknown",
+   "city": "Attard",
+   "region": "Northern Region",
+   "address": "M4 Shopping Complex, Triq il-Linja Attard ATD, Attard 1234",
+   "phone": "7775 5586",
+   "website": "https://www.spells.com.mt/",
+   "checked_at": "2026-10-17T05:34:51Z"
+  },
+  {
+   "name": "Stable Games Ltd",
+   "group": "unknown",
+   "city": "Il-Belt Valletta",
+   "region": "Reġjun Port",
+   "address": "WG27+2C6, Old Bakery Street, Il-Belt Valletta VLT 1451",
+   "phone": "516 025 348",
+   "website": "https://bgaming.com/",
+   "checked_at": "2026-10-17T05:34:58Z"
+  },
+  {
+   "name": "The Realm",
+   "group": "unknown",
+   "address": "19, Ruzinjol Street, Mosta, Mosta, MST4441, Malta",
+   "phone": "+35679307903",
+   "website": "https://therealmmalta.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:34:22Z"
+  }
+ ]
+}

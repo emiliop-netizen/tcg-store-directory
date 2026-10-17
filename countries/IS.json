@@ -1,0 +1,363 @@
+{
+ "country": "IS",
+ "currency": "ISK",
+ "updated": "2026-10-16",
+ "store_count": 35,
+ "stores": [
+  {
+   "name": "Nordic Cards n Games",
+   "group": "quote_only",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Ármúli 29, 108 Reykjavík",
+   "phone": "765 0289",
+   "website": "https://ncards.is/",
+   "buylist_url": "https://ncards.is/sell-your-cards",
+   "mail_in": true,
+   "credit_bonus": "5% bonus on store credit",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Nordiccardsngames",
+   "group": "quote_only",
+   "city": "Reykjavík",
+   "region": "Reykjavíkurborg",
+   "address": "44PF+2HH, Ármúli 29, 108 Reykjavík, Iceland, Reykjavík, Reykjavíkurborg, 108",
+   "phone": "7650289",
+   "buylist_url": "https://ncards.is/sell-your-cards",
+   "mail_in": true,
+   "credit_bonus": "5% bonus on store credit",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Lucky Records",
+   "group": "blocked",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "105, Rauðarárstígur 10, 105 Reykjavík",
+   "phone": "551 1195",
+   "website": "https://luckyrecords.is/en/vefverslun/",
+   "checked_at": "2026-10-17T05:33:54Z"
+  },
+  {
+   "name": "Arctic Workshop",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 32, 101 Reykjavík",
+   "phone": "699 8872",
+   "checked_at": "2026-10-17T05:33:57Z"
+  },
+  {
+   "name": "Geisladiskabúð Valda",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Háteigsvegur 2, 105 Reykjavík",
+   "phone": "562 9002",
+   "website": "https://www.facebook.com/Geisladiskab%C3%BA%C3%B0-Valda-102544609784433/",
+   "checked_at": "2026-10-17T05:33:47Z"
+  },
+  {
+   "name": "Islandia Bankastræti",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Bankastræti 2, 101 Reykjavík",
+   "phone": "540 2176",
+   "checked_at": "2026-10-17T05:33:53Z"
+  },
+  {
+   "name": "KiDS Coolshop Skeifunni",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Skeifan 7, 108 Reykjavík",
+   "phone": "585 0600",
+   "checked_at": "2026-10-17T05:33:41Z"
+  },
+  {
+   "name": "Pokemon cards",
+   "group": "in_store",
+   "city": "Berlin",
+   "region": "Snæfellsbær",
+   "address": "Ingjaldshólskirkja, 360 Berlin",
+   "phone": "(971) 449-6890",
+   "checked_at": "2026-10-17T05:34:00Z"
+  },
+  {
+   "name": "Polarbear Gift Store",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 38, 101 Reykjavík",
+   "phone": "578 6020",
+   "checked_at": "2026-10-17T05:33:47Z"
+  },
+  {
+   "name": "Reykjavik Gift Store",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Skólavörðustígur 22 101, 101 Reykjavík",
+   "checked_at": "2026-10-17T05:33:50Z"
+  },
+  {
+   "name": "Royal Souvenirs",
+   "group": "in_store",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Skólavörðustígur 28, 101 Reykjavík",
+   "phone": "767 1899",
+   "checked_at": "2026-10-17T05:33:47Z"
+  },
+  {
+   "name": "A4",
+   "group": "not_buying_singles",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Skeifan, 108 Reykjavík",
+   "phone": "580 0090",
+   "website": "https://a4.is/",
+   "buylist_url": "https://a4.is/retailer/buylist",
+   "checked_at": "2026-10-17T05:33:54Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 13, 101 Reykjavík",
+   "phone": "660 8202",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/is/reykjavik/laugavegur-13/is01004",
+   "checked_at": "2026-10-17T05:33:57Z"
+  },
+  {
+   "name": "Gift Reykjavik",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Kolaportið market, 101 Reykjavík",
+   "phone": "842 1082",
+   "website": "https://www.giftreykjavik.is/",
+   "checked_at": "2026-10-17T05:33:58Z"
+  },
+  {
+   "name": "Glæsibær Shopping Centre",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "44MJ+GP9, 104 Reykjavík",
+   "phone": "773 0273",
+   "website": "https://glaesibaer.is/",
+   "checked_at": "2026-10-17T05:33:59Z"
+  },
+  {
+   "name": "Goblin",
+   "group": "unknown",
+   "city": "Akureyri",
+   "region": "Akureyrarbær",
+   "address": "Glerártorg, Glerárgata, 600 Akureyri, Iceland, Akureyri, Akureyrarbær, 600",
+   "phone": "+354 866 4701",
+   "website": "https://goblin.is/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Hjarta Reykjavíkur - The Heart of Reykjavik",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 12 b, 101 Reykjavík",
+   "phone": "864 9822",
+   "website": "https://www.hjartareykjavikur.com/",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Iceland Memories shop",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 39, 101 Reykjavík",
+   "phone": "699 1394",
+   "website": "https://iceland-memories.com/",
+   "checked_at": "2026-10-17T05:33:45Z"
+  },
+  {
+   "name": "KiDS Coolshop",
+   "group": "unknown",
+   "city": "Kópavogur",
+   "region": "Kópavogsbær",
+   "address": "Smáratorg 3, Smáratorg 3, 1. hæð, 201 Kópavogur",
+   "phone": "550 0800",
+   "website": "https://www.coolshop.is/pages/kids-coolshop/",
+   "checked_at": "2026-10-17T05:33:53Z"
+  },
+  {
+   "name": "Kolaportið Market",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Tryggvagötu, Old Harbour, Grófin 19, 101 Reykjavík",
+   "website": "https://kolaportid.is/",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Leit Verslun",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Kolaportið Market, 101 Reykjavík",
+   "website": "https://www.leitverslun.is/is/",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Nakano",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Grensásvegur 16, 2.hæð bakvið, 108 Reykjavík",
+   "website": "https://www.nakano.is/",
+   "checked_at": "2026-10-17T05:33:43Z"
+  },
+  {
+   "name": "Nexus",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Álfheimar 74 Glæsibær, Álfheimar 74 kjallari, 104 Reykjavík",
+   "phone": "552 9011",
+   "website": "https://nexus.is/",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Nexus.Is",
+   "group": "unknown",
+   "city": "Reykjavík",
+   "region": "Capital Region",
+   "address": "Álfheimar 74 Glæsibær, Reykjavik, 7, 104, Iceland",
+   "phone": "+3545529011",
+   "website": "https://nexus.is/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Nomad",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Frakkastígur, 101 Reykjavík",
+   "phone": "537 5300",
+   "website": "https://nomadstore.is/",
+   "checked_at": "2026-10-17T05:33:47Z"
+  },
+  {
+   "name": "Penninn Eymundsson Austurstræti",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Austurstræti 18, 101 Reykjavík",
+   "phone": "540 2130",
+   "website": "http://www.penninn.is/",
+   "checked_at": "2026-10-17T05:33:50Z"
+  },
+  {
+   "name": "PokeHöllin",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Álfheimum 74, 104 Reykjavík",
+   "phone": "883 4440",
+   "website": "https://pokehollin.is/",
+   "checked_at": "2026-10-17T05:33:36Z"
+  },
+  {
+   "name": "Remember Reykjavík",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 32, 101 Reykjavík",
+   "phone": "790 6996",
+   "website": "https://rememberreykjavik.com/",
+   "checked_at": "2026-10-17T05:33:46Z"
+  },
+  {
+   "name": "Saga Store",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Bankastræti 11, 101 Reykjavík",
+   "phone": "699 8872",
+   "website": "https://sagastore.is/",
+   "checked_at": "2026-10-17T05:33:42Z"
+  },
+  {
+   "name": "Shopicelandic",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Dressman húsið, Laugavegur 18, 101 Reykjavík",
+   "phone": "445 8080",
+   "website": "https://www.shopicelandic.com/",
+   "checked_at": "2026-10-17T05:33:48Z"
+  },
+  {
+   "name": "Spilavinir",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Suðurlandsbraut 48, 108 Reykjavík",
+   "phone": "553 3450",
+   "website": "https://www.spilavinir.is/",
+   "checked_at": "2026-10-17T05:33:41Z"
+  },
+  {
+   "name": "The Old Bookstore in Reykjavík",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Hafnarstræti 18, 101 Reykjavík",
+   "phone": "840 0600",
+   "website": "https://gamla.is/",
+   "checked_at": "2026-10-17T05:33:50Z"
+  },
+  {
+   "name": "The VIKING",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Hafnarstræti, 101 Reykjavík",
+   "phone": "551 1250",
+   "website": "http://theviking.is/",
+   "checked_at": "2026-10-17T05:33:50Z"
+  },
+  {
+   "name": "Tölvutek",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Mörkin 3, 108 Reykjavík",
+   "phone": "563 6900",
+   "website": "https://tolvutek.is",
+   "checked_at": "2026-10-17T05:33:57Z"
+  },
+  {
+   "name": "Woolcano Gift Shop",
+   "group": "unknown",
+   "city": "RVK",
+   "region": "Reykjavíkurborg",
+   "address": "Laugavegur 100, 101 Reykjavík",
+   "phone": "571 1144",
+   "website": "https://idontspeakicelandic.myshopify.com/",
+   "checked_at": "2026-10-17T05:33:51Z"
+  }
+ ]
+}

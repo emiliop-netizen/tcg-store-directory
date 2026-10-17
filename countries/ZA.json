@@ -1,0 +1,2171 @@
+{
+ "country": "ZA",
+ "currency": "ZAR",
+ "updated": "2026-10-16",
+ "store_count": 214,
+ "stores": [
+  {
+   "name": "Sword and Board Games and Hobbies",
+   "group": "feed",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Milnerton, Cape Town, WC, 7441, South Africa",
+   "phone": "27815716750",
+   "website": "https://swordandboard.co.za/",
+   "buylist_url": "https://swordandboard.co.za/pages/sell-us-your-cards",
+   "feed": {
+    "platform": "sortswift",
+    "store_key": "08ca96c1a9bb3d01",
+    "games": [
+     "Magic: The Gathering",
+     "Pokemon",
+     "Yu-Gi-Oh!"
+    ],
+    "mail_in": true,
+    "drop_off": true
+   },
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:38Z"
+  },
+  {
+   "name": "D20 Battleground",
+   "group": "login_required",
+   "city": "Alberton",
+   "region": "GP",
+   "address": "33 Chrissie St, Alberton, GP, 1448, South Africa",
+   "phone": "27(0) 828206995",
+   "website": "https://d20battleground.co.za/",
+   "buylist_url": "https://d20battleground.co.za/pages/buylist-conditions",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "greedygold",
+   "group": "login_required",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "17 Aliwal Rd, Wynberg, Cape Town, 7800",
+   "phone": "081 702 9955",
+   "website": "https://greedygold.co.za/",
+   "checked_at": "2026-10-17T05:37:44Z"
+  },
+  {
+   "name": "Import A Toy",
+   "group": "login_required",
+   "city": "Benoni",
+   "region": "GP",
+   "address": "47a Boundary Rd, Vlakfontein 30-Ir, Benoni, 1509",
+   "phone": "082 708 4776",
+   "website": "https://www.importatoy.co.za/",
+   "checked_at": "2026-10-17T05:38:15Z"
+  },
+  {
+   "name": "Card Legends",
+   "group": "quote_only",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "27 Dolphin Way, Wetton, Cape Town, 7780",
+   "phone": "071 627 6126",
+   "website": "https://cardlegends.co.za/",
+   "buylist_url": "https://cardlegends.co.za/pages/sell-your-collection",
+   "credit_bonus": "Store-credit bonus over cash",
+   "checked_at": "2026-10-17T05:37:00Z"
+  },
+  {
+   "name": "Pokestop",
+   "group": "quote_only",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "27 Dolphin Way, Wetton, Cape Town, 7780",
+   "phone": "081 215 1218",
+   "website": "https://cardlegends.co.za/",
+   "buylist_url": "https://cardlegends.co.za/pages/sell-your-collection",
+   "credit_bonus": "Store-credit bonus over cash",
+   "checked_at": "2026-10-17T05:38:11Z"
+  },
+  {
+   "name": "A.I. Fest",
+   "group": "blocked",
+   "city": "Johannesburg South",
+   "region": "GP",
+   "address": "87 True North Road, Johannesburg, GT, 2059, South Africa",
+   "phone": "270741198725",
+   "website": "https://www.ai-fest.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Affordable Gaming",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Bothasig Square, Corner of Vryburger Avenue, and, Tafelberg St, Bothasig, Cape Town, 7441",
+   "phone": "061 548 3573",
+   "website": "http://www.affordablegaming.co.za/",
+   "checked_at": "2026-10-17T05:38:57Z"
+  },
+  {
+   "name": "Bargain Books Canal Walk",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 117, Century Blvd, Century City, Cape Town, 7441",
+   "phone": "021 551 6436",
+   "website": "https://bargainbooks.co.za/stores/canal-walk?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP",
+   "checked_at": "2026-10-17T05:39:06Z"
+  },
+  {
+   "name": "Brooklyn Mall",
+   "group": "blocked",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Cnr Veale Street, and, Fehrsen St, Nieuw Muckleneuk, Pretoria, 0145",
+   "phone": "012 346 1063",
+   "website": "https://www.brooklynmall.co.za/",
+   "checked_at": "2026-10-17T05:40:01Z"
+  },
+  {
+   "name": "Cash Converters Anderson Street",
+   "group": "blocked",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Cnr Anderson St &, Kruis St, Marshalltown, Johannesburg, 2001",
+   "phone": "087 820 6532",
+   "website": "https://www.cashconverters.co.za/?utm_source=GMB&utm_medium=Organic_Link&utm_campaign=Anderson-Street",
+   "checked_at": "2026-10-17T05:37:36Z"
+  },
+  {
+   "name": "Cash Converters Arbour Crossing",
+   "group": "blocked",
+   "city": "eManzimtoti",
+   "region": "KZN",
+   "address": "Arbour Crossing Retail Centre, 2 Oppenheimer Rd, Umbogintwini, eManzimtoti, 4000",
+   "phone": "087 820 0026",
+   "website": "https://www.cashconverters.co.za/?utm_source=GMB&utm_medium=Organic_Link&utm_campaign=Arbour-Crossing",
+   "checked_at": "2026-10-17T05:39:33Z"
+  },
+  {
+   "name": "Cash Converters Berea",
+   "group": "blocked",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop 41, Berea Centre, 249/257 King Dinuzulu Rd N, Berea, Durban, 4001",
+   "phone": "031 201 6621",
+   "website": "http://www.cashconverters.co.za/",
+   "checked_at": "2026-10-17T05:39:23Z"
+  },
+  {
+   "name": "Cash Converters Norwood Mall",
+   "group": "blocked",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Norwood Mall Cnr 6th Ave, Hamlin St, Norwood, Johannesburg, 2192",
+   "phone": "087 266 0250",
+   "website": "https://www.cashconverters.co.za/shop/store/cash-converters-norwood-mall",
+   "checked_at": "2026-10-17T05:37:50Z"
+  },
+  {
+   "name": "Cash Converters Queenswood",
+   "group": "blocked",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Cnr Soutpansberg Rd & Stead Ave First floor, Shop 37, Queens Corner Shopping Centre, Queenswood, Pretoria, 0186",
+   "phone": "065 944 0053",
+   "website": "http://www.cashconverters.co.za/",
+   "checked_at": "2026-10-17T05:40:16Z"
+  },
+  {
+   "name": "Cash Converters Table View",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Parklands Main Rd, Shop 7, Cavalier Centre, Parklands, Cape Town, 7441",
+   "phone": "021 557 5835",
+   "website": "http://www.cashconverters.co.za/",
+   "checked_at": "2026-10-17T05:39:09Z"
+  },
+  {
+   "name": "FXSI",
+   "group": "blocked",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "1347 Market St, Jeppestown, Johannesburg, 2164",
+   "phone": "031 396 7929",
+   "website": "https://fxsi.com/",
+   "checked_at": "2026-10-17T05:36:56Z"
+  },
+  {
+   "name": "Gardens Shopping Centre",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Buitenkant St, Gardens, Cape Town, 8001",
+   "phone": "021 465 1842",
+   "website": "https://www.gardensshoppingcentre.co.za/",
+   "checked_at": "2026-10-17T05:39:03Z"
+  },
+  {
+   "name": "Poke Bulk SA",
+   "group": "blocked",
+   "city": "Kempton Park",
+   "region": "GP",
+   "address": "4 Heloise Street, Birchleigh North, Kempton Park, 1618",
+   "phone": "074 488 6919",
+   "website": "https://www.pokebulk.co.za/",
+   "checked_at": "2026-10-17T05:37:29Z"
+  },
+  {
+   "name": "Pwned Games",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "207B Buchanan Square, 160 Sir Lowry Rd, Foreshore, Cape Town, 8001",
+   "phone": "021 418 1372",
+   "website": "https://www.pwnedgames.co.za/",
+   "checked_at": "2026-10-17T05:38:21Z"
+  },
+  {
+   "name": "Racketlon Sports Store",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 9, Roeland Square, Roeland St, Gardens, Cape Town, 8001",
+   "phone": "083 231 6858",
+   "website": "https://racketlon.co.za/",
+   "checked_at": "2026-10-17T05:38:33Z"
+  },
+  {
+   "name": "SPENCER TRADING TECH",
+   "group": "blocked",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "214 Du Toit St, Arcadia, Pretoria, 0007",
+   "phone": "067 768 3439",
+   "website": "https://spencertech.co.za/",
+   "checked_at": "2026-10-17T05:40:05Z"
+  },
+  {
+   "name": "The Luckshack",
+   "group": "blocked",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "1 Zastron Rd, Cape Town, WC, 7441, South Africa",
+   "phone": "27215553321",
+   "website": "https://www.luckshack.co.za",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:37Z"
+  },
+  {
+   "name": "Ali's Electronic",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Soutter St, Pretoria West, Pretoria, 0117",
+   "phone": "012 327 7660",
+   "checked_at": "2026-10-17T05:40:29Z"
+  },
+  {
+   "name": "Back In Time Vintage Toy Store",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "29, Huguenot St, Ruyterwacht, Cape Town, 7460",
+   "phone": "073 492 2755",
+   "checked_at": "2026-10-17T05:38:46Z"
+  },
+  {
+   "name": "Battle Bunker",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 148C, Tygervalley Shopping Centre, Bellville, Cape Town, 7530",
+   "phone": "087 822 2503",
+   "website": "https://thebattlebunker.co.za/",
+   "mail_in": false,
+   "credit_bonus": "Store credit offered",
+   "checked_at": "2026-10-17T05:38:41Z"
+  },
+  {
+   "name": "Berry crypto trading platform",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Durban Central, Durban, 5300",
+   "phone": "061 637 6038",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Blackbill",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "47 Sailor Malan Ave, Aeroton, Johannesburg, 2013",
+   "phone": "011 083 8412",
+   "checked_at": "2026-10-17T05:37:09Z"
+  },
+  {
+   "name": "Bonnik Game Shop",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "31 Turf Club St, Turffontein, Johannesburg, 2190",
+   "phone": "073 647 2757",
+   "checked_at": "2026-10-17T05:37:31Z"
+  },
+  {
+   "name": "Cape Cards",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "11 Induland Ave, estate, Cape Town, 7780",
+   "phone": "067 712 9766",
+   "checked_at": "2026-10-17T05:38:23Z"
+  },
+  {
+   "name": "CARDMART",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "6 Erica Rd, Tableview, Cape Town, 7441",
+   "phone": "061 514 2671",
+   "checked_at": "2026-10-17T05:38:25Z"
+  },
+  {
+   "name": "Chainsa Consulting CC",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "10 knoppies doring close, Witfontein, Johannesburg, 1619",
+   "phone": "073 733 2378",
+   "checked_at": "2026-10-17T05:37:13Z"
+  },
+  {
+   "name": "China City Wholesale Center Johannesburg",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "2 Dora St, New Doornfontein, Johannesburg, 2094",
+   "phone": "011 402 8882",
+   "checked_at": "2026-10-17T05:37:24Z"
+  },
+  {
+   "name": "Cyber skoobz",
+   "group": "in_store",
+   "city": "Alberton",
+   "region": "GP",
+   "address": "Shop 3a, Brackenhurst Square, Abel Moller St, Brackenhurst, Alberton, 1448",
+   "phone": "068 527 1031",
+   "website": "https://www.cyberskoobz.co.za/",
+   "buylist_url": "https://www.cyberskoobz.co.za/pages/trade-in",
+   "mail_in": false,
+   "credit_bonus": "Store credit only (60% of market)",
+   "checked_at": "2026-10-17T05:37:30Z"
+  },
+  {
+   "name": "Dem's Toys and Stationery",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "67 Campground Rd, Rondebosch, Cape Town, 7700",
+   "phone": "021 686 8660",
+   "checked_at": "2026-10-17T05:39:01Z"
+  },
+  {
+   "name": "Desertmoon Trading",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "12 Gordon Rd, Bertrams, Johannesburg, 2094",
+   "phone": "071 903 2574",
+   "checked_at": "2026-10-17T05:37:07Z"
+  },
+  {
+   "name": "Dragenbit Gaming",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "40 7th Ave, Belgravia Estate, Cape Town, 7764",
+   "phone": "073 767 4289",
+   "checked_at": "2026-10-17T05:39:14Z"
+  },
+  {
+   "name": "DVD and GAME Megastore Montana",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "260 Enkeldoorn Ave, Montana Park, Pretoria, 0182",
+   "phone": "062 769 9122",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Dynasty Game Centre PTY LTD",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "5 Arsenal St, Dunoon, Cape Town, 7441",
+   "phone": "067 098 2543",
+   "checked_at": "2026-10-17T05:39:18Z"
+  },
+  {
+   "name": "Fake it until you make",
+   "group": "in_store",
+   "city": "Sandton",
+   "region": "GP",
+   "address": "90 Rivonia Rd, Johannesburg, Sandton, 2196",
+   "phone": "079 381 1807",
+   "checked_at": "2026-10-17T05:37:00Z"
+  },
+  {
+   "name": "Forex",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "234, Cape Town City Centre, Cape Town, 1632",
+   "checked_at": "2026-10-17T05:38:33Z"
+  },
+  {
+   "name": "Game On: Overport",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Ajmeri Manzil, 140 Sparks Rd, Overport, Durban, 4091",
+   "phone": "081 724 6068",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Game Shakers",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "46 W Turffontein Rd, West Turffontein, Johannesburg, 2190",
+   "checked_at": "2026-10-17T05:38:09Z"
+  },
+  {
+   "name": "GamerTeck.Gaming console/ controller repairs & Services.",
+   "group": "in_store",
+   "city": "Centurion",
+   "region": "GP",
+   "address": "490 Lawrie St, Elardus Park, Centurion, 0181",
+   "phone": "063 425 8282",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Giants Collectables & Memorabilia",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "42, Midrand, Johannesburg, 1684",
+   "phone": "011 466 5656",
+   "checked_at": "2026-10-17T05:37:30Z"
+  },
+  {
+   "name": "Goverlex Trading",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop No. 18, 11th Floor, West St, Durban Central, Durban, 4001",
+   "phone": "083 522 6553",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Greenmarket Square",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Burg St &, Longmarket St, Cape Town City Centre, Cape Town, 8000",
+   "checked_at": "2026-10-17T05:38:34Z"
+  },
+  {
+   "name": "Her-Annies",
+   "group": "in_store",
+   "city": "Centurion",
+   "region": "GP",
+   "address": "146 Burger Ave, Lyttelton Manor, Centurion, 0157",
+   "phone": "012 664 3553",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Hermes Gaming",
+   "group": "in_store",
+   "city": "Centurion",
+   "region": "GP",
+   "address": "17 Hagen Greens, Zwartkop Golf Estate, Golf Drive, Clubview, Centurion, 0157",
+   "phone": "061 631 6543",
+   "checked_at": "2026-10-17T05:40:08Z"
+  },
+  {
+   "name": "Hiba Trading",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "39 Victoria St, Durban Central, Durban, 4001",
+   "phone": "074 241 3052",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "HL Preston/Yellow Star Trading 1145 (Pty) Ltd",
+   "group": "in_store",
+   "city": "Alberton",
+   "region": "GP",
+   "address": "30 Van Zyl St, Albertville, Alberton, 2195",
+   "phone": "011 673 0844",
+   "checked_at": "2026-10-17T05:37:13Z"
+  },
+  {
+   "name": "Mango Sootoo Trading",
+   "group": "in_store",
+   "city": "Sandton",
+   "region": "GP",
+   "address": "19 Andries St, Troyeville, Sandton, 2094",
+   "phone": "011 618 0380",
+   "checked_at": "2026-10-17T05:37:07Z"
+  },
+  {
+   "name": "Master Rikhotso Trading",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "39 Da Costa Rd, Corlett Gardens, Johannesburg, 2090",
+   "phone": "075 471 6259",
+   "checked_at": "2026-10-17T05:36:57Z"
+  },
+  {
+   "name": "Milnerton Market.",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "126 Marine Dr, Paarden Eiland, Cape Town, 7405",
+   "phone": "021 551 7879",
+   "checked_at": "2026-10-17T05:38:57Z"
+  },
+  {
+   "name": "Motunrayo Holdings",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "213 Middelberg St, Muckleneuk, Pretoria, 0001",
+   "phone": "079 384 1567",
+   "checked_at": "2026-10-17T05:39:58Z"
+  },
+  {
+   "name": "mytcg Technologies",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "27 Willie van Schoor Avenue, 301 Tygervalley Chambers, Bellville, Cape Town, 7530",
+   "phone": "021 801 6447",
+   "checked_at": "2026-10-17T05:38:57Z"
+  },
+  {
+   "name": "Newland Accessories - Menlyn",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Menlyn Retail Park, 150 Garsfontein Rd, Menlyn, Pretoria, 0063",
+   "phone": "065 338 5707",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Nexus Hub",
+   "group": "in_store",
+   "city": "Randburg",
+   "region": "GP",
+   "address": "Ferndale, Johannesburg, GT, 2194, South Africa",
+   "phone": "27117898215",
+   "website": "https://www.facebook.com/NexusHubEvents/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Niazi Trading",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "101 Charlotte Maxeke St, Pretoria West, Pretoria, 0183",
+   "phone": "084 222 5188",
+   "checked_at": "2026-10-17T05:40:08Z"
+  },
+  {
+   "name": "Osmans Cash & Carry - Springfield",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "41b Intersite Ave, Umgeni Business Park, Durban, 4001",
+   "phone": "031 263 0005",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Phase Four",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "30 Canongate Rd, Rural, Durban, 4001",
+   "phone": "065 863 1062",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Poke Forge TCG",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Wellway Park East, Cape Town, 7550",
+   "checked_at": "2026-10-17T05:38:50Z"
+  },
+  {
+   "name": "Protea Playing Cards",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "28 Wright St, Industria West, Johannesburg, 2093",
+   "phone": "011 474 8750",
+   "checked_at": "2026-10-17T05:37:02Z"
+  },
+  {
+   "name": "Quizmaster.Durban",
+   "group": "in_store",
+   "city": "Durban North",
+   "region": "KZN",
+   "address": "95 Ridgeside Rd, Umgeni Park, Durban North, 4051",
+   "phone": "071 674 3132",
+   "checked_at": "2026-10-17T05:39:47Z"
+  },
+  {
+   "name": "RE TYRE",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "47 Hazelwood Rd, Hazelwood, Pretoria, 0181",
+   "phone": "012 943 5900",
+   "checked_at": "2026-10-17T05:40:05Z"
+  },
+  {
+   "name": "Rubys Haberdashery Waverley",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "773-779 Codonia Ave, Waverley, Pretoria, 0135",
+   "phone": "079 566 4121",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "T & O Communication & Trading Pty Ltd",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop No.1, 46 Maud Mfusi St, Durban Central, Durban, 4001",
+   "phone": "083 743 0337",
+   "checked_at": "2026-10-17T05:39:37Z"
+  },
+  {
+   "name": "T Trans",
+   "group": "in_store",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "36 Downie Cres, Queensmead Industrial, Durban, 3610",
+   "phone": "083 706 6260",
+   "checked_at": "2026-10-17T05:39:23Z"
+  },
+  {
+   "name": "The Game Shop",
+   "group": "in_store",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "35 Sonneblom St, Jan Hofmeyer, Johannesburg, 2092",
+   "checked_at": "2026-10-17T05:37:00Z"
+  },
+  {
+   "name": "The Micah Trading & Projects",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Ext 1, 580 Corlydia Ave, Nellmapius, Pretoria, 0122",
+   "phone": "071 374 1274",
+   "checked_at": "2026-10-17T05:40:08Z"
+  },
+  {
+   "name": "The Tramshed",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "324 Francis Baard St, Pretoria Central, Pretoria, 0002",
+   "phone": "012 320 4001",
+   "checked_at": "2026-10-17T05:40:05Z"
+  },
+  {
+   "name": "trade ACC",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Ext 22, 38061 Mahlageng Eve, Mamelodi, Pretoria, 0112",
+   "phone": "060 355 1690",
+   "checked_at": "2026-10-17T05:40:11Z"
+  },
+  {
+   "name": "trading stock",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "42 Furrow Rd, Equestria, Pretoria, 0184",
+   "phone": "063 323 5709",
+   "checked_at": "2026-10-17T05:39:58Z"
+  },
+  {
+   "name": "Untapped TCG",
+   "group": "in_store",
+   "city": "Centurion",
+   "region": "GP",
+   "address": "90 Finus Rd, Valhalla, Centurion, 0086",
+   "checked_at": "2026-10-17T05:40:08Z"
+  },
+  {
+   "name": "Video Game Megastore",
+   "group": "in_store",
+   "city": "Randburg",
+   "region": "GP",
+   "address": "Shop 2 Theo George Court, 39 5th St, Linden, Randburg, 2195",
+   "phone": "061 788 7095",
+   "checked_at": "2026-10-17T05:38:04Z"
+  },
+  {
+   "name": "Zack's Shack",
+   "group": "in_store",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "10 Pennant Cl, West Beach, Cape Town, 7441",
+   "phone": "063 846 1617",
+   "checked_at": "2026-10-17T05:38:41Z"
+  },
+  {
+   "name": "Zidan Zan Trading",
+   "group": "in_store",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "505 Gustav Adolf St, Pretoria Gardens, Pretoria, 0082",
+   "phone": "012 379 0822",
+   "checked_at": "2026-10-17T05:39:58Z"
+  },
+  {
+   "name": "Epic Deals",
+   "group": "not_buying_singles",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "4a Regency Terrace, 4b 5th Avenue, Edenburg, Sandton, Edenburg, Johannesburg, 2128",
+   "phone": "010 900 1258",
+   "website": "https://epicdeals.co.za/",
+   "buylist_url": "https://epicdeals.co.za/we-buy-competitors/",
+   "checked_at": "2026-10-17T05:37:31Z"
+  },
+  {
+   "name": "Toys R Us | Babies R Us Pavilion Shopping Centre",
+   "group": "not_buying_singles",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "The Pavilion Centre, 3611 Jack Martens Dr, Dawncliffe, Durban, 3629",
+   "phone": "087 234 8530",
+   "website": "https://www.toysrus.co.za/",
+   "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-17T05:39:42Z"
+  },
+  {
+   "name": "Toys R Us | Babies R Us Rosebank Mall",
+   "group": "not_buying_singles",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Shop No. 300 & 301, 50 Bath Ave, Rosebank, Johannesburg, 2132",
+   "phone": "087 234 8560",
+   "website": "https://www.toysrus.co.za/",
+   "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-17T05:38:17Z"
+  },
+  {
+   "name": "Toys R Us | Babies R Us The Grove Mall",
+   "group": "not_buying_singles",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop no. L36, Simon Vermooten Rd, Equestria, Pretoria, 0184",
+   "phone": "087 234 8508",
+   "website": "https://www.toysrus.co.za/",
+   "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-17T05:40:29Z"
+  },
+  {
+   "name": "ToyZone Kolonnade",
+   "group": "not_buying_singles",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "731 Sefako Makgatho Dr, Montana, Pretoria, 0151",
+   "phone": "012 548 4766",
+   "website": "https://www.toysrus.co.za/welcome-to-toysrus",
+   "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "ABC Wholesalers",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "22 Sir Lowry Rd, District Six, Cape Town, 8001",
+   "phone": "021 465 9151",
+   "website": "http://www.abcwholesalers.co.za/",
+   "checked_at": "2026-10-17T05:39:01Z"
+  },
+  {
+   "name": "AKOA Collectibles",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Sarnia, Durban, 3610",
+   "phone": "084 605 1758",
+   "website": "https://ikwebstore.co.za/akoa-collectibles",
+   "checked_at": "2026-10-17T05:39:18Z"
+  },
+  {
+   "name": "Alert Stationers Head Office",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "19 Dr Yusuf Dadoo St, Durban Central, Durban, 4001",
+   "phone": "031 306 0278",
+   "website": "https://alertstationers.co.za/",
+   "checked_at": "2026-10-17T05:39:29Z"
+  },
+  {
+   "name": "All gaming consoles JHB",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "House 32, 32 College St, Mayfair, Johannesburg, 2092",
+   "phone": "074 495 7666",
+   "website": "https://allgamingconsoles.co.za/",
+   "checked_at": "2026-10-17T05:38:04Z"
+  },
+  {
+   "name": "Andra Trading",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "96 Foundry St, Silvertondale, Pretoria, 0184",
+   "phone": "071 232 9138",
+   "website": "https://andratrading.co.za/",
+   "checked_at": "2026-10-17T05:39:58Z"
+  },
+  {
+   "name": "Aniware TCG",
+   "group": "unknown",
+   "city": "Randburg",
+   "region": "GP",
+   "address": "Suikerbekkie St, Bromhof, Randburg, 2188",
+   "phone": "072 110 6976",
+   "website": "https://sealed.aniware.co.za/",
+   "checked_at": "2026-10-17T05:36:53Z"
+  },
+  {
+   "name": "Archneer",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "1153 Park St, Hatfield, Pretoria, 0028",
+   "phone": "012 342 8432",
+   "website": "https://archneer.co.za/",
+   "checked_at": "2026-10-17T05:39:55Z"
+  },
+  {
+   "name": "Armchair Generals",
+   "group": "unknown",
+   "address": "529 Banket Dr, Roodepoort, GP, 1724, South Africa",
+   "phone": "+27083 233 2349",
+   "website": "https://armchairgenerals.co.za",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Bargain Basket Durban",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "381 West St, Durban Central, Durban, 4001",
+   "phone": "031 304 2131",
+   "website": "http://www.bargainbasketdurban.co.za/",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Bead-Shack",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop 3, Inside Scrap-a-Doodles, Bridge Office Park, 570 Fehrsen St, Brooklyn, Pretoria, Pretoria, 0011",
+   "phone": "079 637 1340",
+   "website": "https://bead-shack.co.za/",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Betting World",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "2 Conifer Rd, Sea Point, Cape Town, 8060",
+   "phone": "087 741 2700",
+   "website": "http://www.bettingworld.co.za/",
+   "checked_at": "2026-10-17T05:38:55Z"
+  },
+  {
+   "name": "Bob Shop Head Office",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "22 Ealing Cres, Bryanston, Johannesburg, 2191",
+   "phone": "010 005 6200",
+   "website": "https://www.bobshop.co.za/",
+   "checked_at": "2026-10-17T05:38:09Z"
+  },
+  {
+   "name": "boosterpack.co.za",
+   "group": "unknown",
+   "city": "Ballito",
+   "region": "KZN",
+   "address": "Ellis Pl, Ballito, 4420",
+   "phone": "073 527 1155",
+   "website": "https://boosterpack.co.za/",
+   "checked_at": "2026-10-17T05:39:45Z"
+  },
+  {
+   "name": "BT Games Menlyn",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop UF#08, Cnr Atterbury &, Menlyn Park, Lois Ave, Menlo Park, Pretoria, 0063",
+   "phone": "012 348 2025",
+   "website": "https://btgames.co.za/",
+   "checked_at": "2026-10-17T05:40:26Z"
+  },
+  {
+   "name": "Canal Walk Shopping Centre",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "490 Century Blvd, Century City, Cape Town, 7446",
+   "phone": "021 529 9699",
+   "website": "https://canalwalk.co.za/?utm_source=local&utm_medium=organic&utm_campaign=gmb-canalwalk",
+   "checked_at": "2026-10-17T05:38:59Z"
+  },
+  {
+   "name": "Canasta Online Playing Card Shop",
+   "group": "unknown",
+   "city": "Randburg",
+   "region": "GP",
+   "address": "375 West Ave, Ferndale, Randburg, 2194",
+   "phone": "083 255 2494",
+   "website": "https://canasta.co.za/",
+   "checked_at": "2026-10-17T05:36:59Z"
+  },
+  {
+   "name": "Cape Quarter Lifestyle Village",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "27 Somerset Rd, Green Point, Cape Town, 8005",
+   "phone": "021 421 1111",
+   "website": "https://capequarter.co.za/",
+   "checked_at": "2026-10-17T05:38:37Z"
+  },
+  {
+   "name": "Cape Town Video Games",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "2 Jasmine Ln, Brackenfell, Cape Town, 7560",
+   "phone": "076 402 1246",
+   "website": "https://www.yaga.co.za/cape-town-video-games",
+   "checked_at": "2026-10-17T05:39:14Z"
+  },
+  {
+   "name": "Card Monster",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "18 St Johns Rd, Houghton Estate, Johannesburg, 2198",
+   "phone": "011 487 1536",
+   "website": "https://www.cardmonster.co.za/",
+   "checked_at": "2026-10-17T05:37:04Z"
+  },
+  {
+   "name": "Cardies",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Rose Bank Mall, 50 Bath Ave, Rosebank, Johannesburg, 2196",
+   "phone": "011 880 7419",
+   "website": "https://cardies.co.za/",
+   "checked_at": "2026-10-17T05:37:34Z"
+  },
+  {
+   "name": "CardQuestZA",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "First on Forest Forest, Extension Drive, Thornton, Cape Town, 7460",
+   "phone": "069 253 1662",
+   "website": "https://www.cardquestza.co.za/",
+   "checked_at": "2026-10-17T05:38:50Z"
+  },
+  {
+   "name": "Cash Crusaders Joe Slovo (Field) Street",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop 5, United Building, 58 Joe Slovo St, Durban Central, Durban, 4001",
+   "phone": "031 001 9918",
+   "website": "https://cashcrusaders.co.za/storedetails?location=JoeSlovoSt",
+   "checked_at": "2026-10-17T05:39:32Z"
+  },
+  {
+   "name": "Catch Them All",
+   "group": "unknown",
+   "city": "Gqeberha",
+   "region": "EC",
+   "address": "31 Cathcart Rd, Humewood, Gqeberha, 6001",
+   "website": "https://catchthemall.co.za/",
+   "checked_at": "2026-10-17T05:40:11Z"
+  },
+  {
+   "name": "Cavendish Square",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "1 Dreyer St, Claremont, Cape Town, 7708",
+   "phone": "021 657 5600",
+   "website": "https://cavendish.co.za/",
+   "checked_at": "2026-10-17T05:39:06Z"
+  },
+  {
+   "name": "China Mall Jhb",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "103 Main Reef Rd, Amalgam, Johannesburg, 2092",
+   "phone": "011 830 1588",
+   "website": "http://www.chinamall.co.za/cgi-sys/suspendedpage.cgi",
+   "checked_at": "2026-10-17T05:37:09Z"
+  },
+  {
+   "name": "China Town Sable Square Cape Town",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Corner Bosmansdam and, Ratanga Rd, Milnerton, Cape Town, 7441",
+   "phone": "062 308 3618",
+   "website": "https://chinatownsa.co.za/",
+   "checked_at": "2026-10-17T05:39:05Z"
+  },
+  {
+   "name": "Clover Records and Collectables - Funkoholics.co.za",
+   "group": "unknown",
+   "city": "Johannesburg South",
+   "region": "GP",
+   "address": "Orpen Rd, Eastcliff, Johannesburg South, 2190",
+   "phone": "076 412 7771",
+   "website": "https://funkoholics.co.za/",
+   "checked_at": "2026-10-17T05:36:53Z"
+  },
+  {
+   "name": "Collectors HQ",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Unit 9, Giuliva House, 47 Blaauwberg Rd, Table View, Cape Town, 7441",
+   "website": "https://collectorshq.co.za/",
+   "checked_at": "2026-10-17T05:38:25Z"
+  },
+  {
+   "name": "Comic Warehouse",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "147 N Reef Rd, Bedfordview, Johannesburg, 1401",
+   "phone": "011 524 7604",
+   "website": "https://comicwarehouse.co.za/",
+   "checked_at": "2026-10-17T05:37:29Z"
+  },
+  {
+   "name": "Cosmic Comics",
+   "group": "unknown",
+   "city": "Sandton",
+   "region": "GP",
+   "address": "Shop M10, Mezzanine Level Food Court Area, Fourways Mall, 11 Ruby Cl, Fourways, Sandton, 2068",
+   "phone": "079 696 2165",
+   "website": "https://cosmiccomics.store/",
+   "checked_at": "2026-10-17T05:37:30Z"
+  },
+  {
+   "name": "Dontoshi",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "4 New St, Durbanville, Cape Town, 7551",
+   "website": "https://dontoshi.co.za/",
+   "buylist_url": "https://dontoshi.co.za/product/trade-in/",
+   "checked_at": "2026-10-17T05:38:23Z"
+  },
+  {
+   "name": "DragonTown",
+   "group": "unknown",
+   "city": "Centurion",
+   "region": "GP",
+   "address": "Blackwood road, Hennopspark, Centurion, GT, 0157, South Africa",
+   "phone": "+27686724840",
+   "website": "https://dragontown.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Durban Tabletop Club",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "7 Barham Rd, Westville, Durban, 3629",
+   "website": "https://www.durbantabletop.co.za/stats/overall",
+   "checked_at": "2026-10-17T05:39:43Z"
+  },
+  {
+   "name": "Epic Toys and Games Warehouse Shop",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Unit 4, Old Mill Park, 22 Old Mill Rd, Ndabeni, Cape Town, 7405",
+   "phone": "021 065 0520",
+   "website": "https://www.epicgames.co.za/",
+   "checked_at": "2026-10-17T05:38:24Z"
+  },
+  {
+   "name": "Exclusive Books Brooklyn",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "338 Bronkhorst St, Nieuw Muckleneuk, Pretoria, 0002",
+   "phone": "012 346 5864",
+   "website": "https://exclusivebooks.co.za/",
+   "checked_at": "2026-10-17T05:40:20Z"
+  },
+  {
+   "name": "Exclusive Books Melrose Arch",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Melrose Arch Shop, HL19, Birnam, Johannesburg, 2076",
+   "phone": "087 351 1124",
+   "website": "https://exclusivebooks.co.za/",
+   "checked_at": "2026-10-17T05:37:41Z"
+  },
+  {
+   "name": "Exclusive Books V&A Waterfront",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "6160, Victoria Wharf, 1 Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001",
+   "phone": "021 419 0905",
+   "website": "https://exclusivebooks.co.za/",
+   "checked_at": "2026-10-17T05:38:34Z"
+  },
+  {
+   "name": "Fanaticus Board Games",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "The Clubhouse, 3 Sonneblom St, Parow North, Cape Town, 7500",
+   "phone": "021 911 1101",
+   "website": "https://fanaticus.co.za/",
+   "checked_at": "2026-10-17T05:38:46Z"
+  },
+  {
+   "name": "Galactic Traders",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "20 Raats Dr, Table View, Cape Town, 7441",
+   "phone": "072 678 4133",
+   "website": "https://galactictraders.co.za/",
+   "checked_at": "2026-10-17T05:37:12Z"
+  },
+  {
+   "name": "Game 4U",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop 201B, The Pavilion Shopping Centre, Jack Martens Dr, Westville, Durban, 3630",
+   "phone": "031 265 0607",
+   "website": "http://www.game4u.co.za/",
+   "checked_at": "2026-10-17T05:39:27Z"
+  },
+  {
+   "name": "GAME IMPRESS",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "1120 Hertzog St, Villieria, Pretoria, 0186",
+   "phone": "060 602 8047",
+   "website": "https://gameimpress.co.za/",
+   "checked_at": "2026-10-17T05:40:08Z"
+  },
+  {
+   "name": "Games.com",
+   "group": "unknown",
+   "city": "Durban North",
+   "region": "KZN",
+   "address": "cnr uitsig and, riverside hyper by the sea, Waterkant Rd, Prospect Hall, Durban North, 4053",
+   "phone": "073 278 6111",
+   "website": "http://www.gameswitch.co.za/",
+   "checked_at": "2026-10-17T05:39:43Z"
+  },
+  {
+   "name": "Geekware Shop",
+   "group": "unknown",
+   "address": "Shop 14 The Village Square Yudelmans Lane Plumstead, Cape Town, Western Cape, 7780, South Africa",
+   "phone": "+270615435096",
+   "website": "https://geekware.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:38Z"
+  },
+  {
+   "name": "Gengar Games",
+   "group": "unknown",
+   "city": "Benoni",
+   "region": "GP",
+   "address": "28 Benoni Road Jatniel, Ekhurhuleni, Gauteng, 1501, South Africa",
+   "phone": "+270747525181",
+   "website": "https://www.gengargames.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Gold Reef City Casino",
+   "group": "unknown",
+   "city": "Johannesburg South",
+   "region": "GP",
+   "address": "Cnr Northern Parkway and, Data Cres, Ormonde, Johannesburg South, 2159",
+   "phone": "011 248 5000",
+   "website": "https://www.tsogosun.com/casino/gold-reef-city/",
+   "checked_at": "2026-10-17T05:37:36Z"
+  },
+  {
+   "name": "Gold Reef City Theme Park",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Northern Pkwy & Data Cres, Ormonde 99-Ir, Johannesburg, 2159",
+   "phone": "011 248 5000",
+   "website": "https://www.tsogosun.com/casino/gold-reef-city-theme-park/?&utm_source=google&utm_medium=businesslisting&utm_campaign=ent_gold-reef-city-theme-park",
+   "checked_at": "2026-10-17T05:37:47Z"
+  },
+  {
+   "name": "Hasmart",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "15 Elmfield Pl, Umgeni Business Park, Durban, 4051",
+   "phone": "031 579 5450",
+   "website": "http://www.hasmart.co.za/",
+   "checked_at": "2026-10-17T05:39:37Z"
+  },
+  {
+   "name": "HLOKOMELA-LEFASTE",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "110 Bosbok St, Kwaggasrand, Pretoria, 0183",
+   "website": "https://tebogobaza.ong.com/",
+   "checked_at": "2026-10-17T05:39:55Z"
+  },
+  {
+   "name": "Imperium Games",
+   "group": "unknown",
+   "city": "Somerset West",
+   "region": "WC",
+   "address": "Helderberg Village Walk Unit 6B, In The Courtyard Cnr Drama & Caledon Street-, Somerset West, Western Cape, 7130, South Africa",
+   "phone": "+270714182602",
+   "website": "https://www.imperiumgames.co.za",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:46Z"
+  },
+  {
+   "name": "In The Box",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Unit 23, Gateway Park, Berkley Rd, Ndabeni, Cape Town, 7405",
+   "phone": "021 286 0170",
+   "website": "https://www.in-the-box.co.za/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+   "checked_at": "2026-10-17T05:39:02Z"
+  },
+  {
+   "name": "Jix Hobbies",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Menlyn Retail Park, 150 Lois Ave, Menlyn, Pretoria, Gauteng, 0063, South Africa",
+   "phone": "+270123480308",
+   "website": "https://jixhobbies.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:37Z"
+  },
+  {
+   "name": "JOB CREATION",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "NANTES, 556 Magaliesberg Rd, Eersterust, Pretoria, 0022",
+   "phone": "063 949 3656",
+   "website": "http://teznayjansen.com/",
+   "checked_at": "2026-10-17T05:39:55Z"
+  },
+  {
+   "name": "Joburg Artist Market @ 27 Boxes",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "76a 4th Ave, Melville, Johannesburg, 2109",
+   "phone": "081 719 8238",
+   "website": "https://joburgartistmarket.com/",
+   "buylist_url": "https://joburgartistmarket.com/retailer/buylist",
+   "checked_at": "2026-10-17T05:37:07Z"
+  },
+  {
+   "name": "Joburg Market",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "4 Fortune St, City Deep, Johannesburg, 2049",
+   "phone": "011 992 8000",
+   "website": "https://joburgmarket.co.za/",
+   "checked_at": "2026-10-17T05:37:13Z"
+  },
+  {
+   "name": "Kitsune Relics",
+   "group": "unknown",
+   "city": "Randburg",
+   "region": "GP",
+   "address": "Shop 9, Devon Valley Shopping Centre, 122 9th Ave, Weltevredenpark, Randburg, 2030",
+   "phone": "060 961 9981",
+   "website": "https://www.kitsunerelics.co.za/",
+   "checked_at": "2026-10-17T05:38:06Z"
+  },
+  {
+   "name": "Kokoro Pretoria",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "751 Duncan St, Brooklyn, Pretoria, 0011",
+   "phone": "012 362 0097",
+   "website": "https://marketkokoro.co.za/",
+   "checked_at": "2026-10-17T05:39:59Z"
+  },
+  {
+   "name": "Level Up Store",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Unit 5, Wetton Works, 14 Mercury Cres, Wetton, Cape Town, 7780",
+   "phone": "063 690 6908",
+   "website": "https://levelupstore.co.za/",
+   "checked_at": "2026-10-17T05:36:57Z"
+  },
+  {
+   "name": "Mac's Wholesalers",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Ext. 7, 81 Planet Ave, Crown, Johannesburg, 2092",
+   "phone": "011 839 1972",
+   "website": "https://www.macswholesalers.co.za/",
+   "checked_at": "2026-10-17T05:37:05Z"
+  },
+  {
+   "name": "MANKA IMPORT AND EXPORT PTY LTD",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "145 Berkley Rd, Maitland, Cape Town, 8000",
+   "phone": "078 953 2107",
+   "website": "http://www.manka-import-export.com/",
+   "checked_at": "2026-10-17T05:38:39Z"
+  },
+  {
+   "name": "Matrix Warehouse Durban",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "47 Intersite Ave, Umgeni Business Park, Durban, 4001",
+   "phone": "031 263 2501",
+   "website": "https://matrixwarehouse.co.za/durban-umgeni-junction-in-store-promotion/?utm_source=gmb_durban&utm_medium=gmb_durban&utm_campaign=gmb_durban&utm_term=gmb_durban",
+   "checked_at": "2026-10-17T05:39:38Z"
+  },
+  {
+   "name": "Mirage Gaming",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "591 Braam Pretorius St, Pretoria, GP, 0084, South Africa",
+   "phone": "+270837979697",
+   "website": "https://miragegaming.co.za/",
+   "buylist_url": "https://miragegaming.co.za/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:37Z"
+  },
+  {
+   "name": "Mirage Gaming Durban",
+   "group": "unknown",
+   "address": "168 Road 701 Montford, Chatsworth, Durban, KwaZulu-Natal, 4092, South Africa",
+   "phone": "+270837979697",
+   "website": "https://www.miragegamingdbn.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:49Z"
+  },
+  {
+   "name": "Mirage Hobbies and Games Chatsworth",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "168 701 Rd, Montford, Durban, 4092",
+   "phone": "069 823 2872",
+   "website": "https://www.miragegaming.co.za/",
+   "buylist_url": "https://www.miragegaming.co.za/buylist",
+   "checked_at": "2026-10-17T05:37:21Z"
+  },
+  {
+   "name": "Mojo Market",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+   "website": "https://mojomarket.co.za/",
+   "checked_at": "2026-10-17T05:38:39Z"
+  },
+  {
+   "name": "Montecasino",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Montecasino Blvd, Fourways, Johannesburg, 2055",
+   "phone": "011 510 7000",
+   "website": "https://www.tsogosun.com/casino/montecasino/",
+   "checked_at": "2026-10-17T05:37:37Z"
+  },
+  {
+   "name": "Monumentpark Stationers",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "79 Skilpad Rd, Monument Park, Pretoria, 0105",
+   "phone": "012 460 2301",
+   "website": "https://www.mpstationers.com/",
+   "checked_at": "2026-10-17T05:40:14Z"
+  },
+  {
+   "name": "Mossdog Games",
+   "group": "unknown",
+   "city": "Klein",
+   "region": "WC",
+   "address": "Leliefontein Boarding Kennels, Klein, 7646",
+   "website": "https://mossdoggames.com/",
+   "checked_at": "2026-10-17T05:39:14Z"
+  },
+  {
+   "name": "Muvo Cards",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "First, 30 Archie Gumede Pl, Stamford Hill, Durban, 4000",
+   "phone": "080 000 6886",
+   "website": "https://www.muvo.co.za/",
+   "checked_at": "2026-10-17T05:39:27Z"
+  },
+  {
+   "name": "Nintendo Store",
+   "group": "unknown",
+   "city": "Sandton",
+   "region": "GP",
+   "address": "Sandton City Shopping Centre, Shop L19, Level 4, Food Court, Sandton City, Sandhurst, Sandton, 2196",
+   "phone": "010 595 6100",
+   "website": "https://www.nintendo.co.za/",
+   "checked_at": "2026-10-17T05:37:39Z"
+  },
+  {
+   "name": "Oasis Gaming",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "2 Petalgreen Place, Greenbury Phoenix, Greenbury, Durban, 4068",
+   "phone": "071 971 9596",
+   "website": "https://oasisgaming.co.za/",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Oriental Plaza",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "50 Dolly Rathebe Rd, Fordsburg, Johannesburg, 2092",
+   "phone": "011 838 6752",
+   "website": "https://www.orientalplaza.co.za/",
+   "checked_at": "2026-10-17T05:37:17Z"
+  },
+  {
+   "name": "Osman's Wholesalers",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "53 Hospital Rd, Point, Durban, 4001",
+   "phone": "031 368 6777",
+   "website": "https://osmans.co.za/",
+   "checked_at": "2026-10-17T05:39:48Z"
+  },
+  {
+   "name": "Pandemonium Games",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 11, 203 Main Rd, Plumstead, Cape Town, 7801",
+   "phone": "067 030 7322",
+   "website": "https://www.pandemoniumgames.co.za/",
+   "buylist_url": "https://www.pandemoniumgames.co.za/pages/sell-to-us",
+   "checked_at": "2026-10-17T05:38:20Z"
+  },
+  {
+   "name": "Park Avenue Stationers",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "No.42 Park Drive Cnr, Albertina Sisulu Rd, Fordsburg, Johannesburg, 2092",
+   "phone": "011 634 1800",
+   "website": "https://parkavenue.co.za/",
+   "checked_at": "2026-10-17T05:37:18Z"
+  },
+  {
+   "name": "PlayPika",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "In Shere, 4 Graham Rd, Pretoria, 0054",
+   "phone": "065 941 2194",
+   "website": "https://playpika.co.za/",
+   "checked_at": "2026-10-17T05:39:53Z"
+  },
+  {
+   "name": "PlayTCG",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "49 Hamilton Cl, Vredekloof, Cape Town, 7560",
+   "phone": "079 365 4394",
+   "website": "https://shop.playtcg.co.za",
+   "checked_at": "2026-10-17T05:38:44Z"
+  },
+  {
+   "name": "PMoney Market",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Saint Square Estate, Wood Dr, Cape Farms, Cape Town, 7100",
+   "phone": "067 841 7847",
+   "website": "https://pmoneymarket.com/",
+   "checked_at": "2026-10-17T05:38:23Z"
+  },
+  {
+   "name": "PNA Campus Square",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Shop 4, Campus Square, Kingsway, Auckland Park, Johannesburg, 2092",
+   "phone": "011 482 7880",
+   "website": "https://www.pna.co.za/",
+   "checked_at": "2026-10-17T05:37:12Z"
+  },
+  {
+   "name": "PNA Loftus Park",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop E01, Loftus Park Cnr Kirkness &, Park St, Arcadia, Pretoria, 0007",
+   "phone": "012 492 7872",
+   "website": "https://www.pna.co.za/",
+   "checked_at": "2026-10-17T05:39:58Z"
+  },
+  {
+   "name": "PNA Observatory",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Saint Peters Square, 423 Main Rd, Observatory, Cape Town, 7925",
+   "phone": "021 447 2676",
+   "website": "https://www.pna.co.za/",
+   "checked_at": "2026-10-17T05:39:10Z"
+  },
+  {
+   "name": "Pokevaultza",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "50 Memel Rd, Claremont, Cape Town, 7550",
+   "phone": "072 481 3324",
+   "website": "https://pokevaultza.com/",
+   "checked_at": "2026-10-17T05:39:13Z"
+  },
+  {
+   "name": "Pop Culture and Collectibles",
+   "group": "unknown",
+   "city": "Alberton",
+   "region": "GP",
+   "address": "Lifestyle Centre, 3 St Austell St, New Redruth, Alberton, 1449",
+   "phone": "076 469 5175",
+   "website": "https://funkoholics.co.za/",
+   "checked_at": "2026-10-17T05:37:24Z"
+  },
+  {
+   "name": "Pops Toys",
+   "group": "unknown",
+   "city": "Benoni",
+   "region": "GP",
+   "address": "15, Cosmopolitan Lifestyle Centre, 15 Fourteenth Ave, Northmead, Benoni, 1501",
+   "phone": "061 176 0974",
+   "website": "https://popstoys.co.za/",
+   "checked_at": "2026-10-17T05:37:06Z"
+  },
+  {
+   "name": "Project Mayhem Collectibles & Action Figures",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Unit 98, Oxford Village, 9 Old Main Rd, Hillcrest, Durban, 3610",
+   "phone": "082 478 6346",
+   "website": "https://projectmayhem.co.za/",
+   "checked_at": "2026-10-17T05:39:50Z"
+  },
+  {
+   "name": "Protea/Aristata Boekwinkel",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "1067 Burnett St, Hatfield, Pretoria, 0083",
+   "phone": "012 051 3089",
+   "website": "https://aristata.co.za/",
+   "checked_at": "2026-10-17T05:40:01Z"
+  },
+  {
+   "name": "PROTO TRADING",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "De Roos St, District Six, Cape Town, 7925",
+   "phone": "021 461 5883",
+   "website": "https://www.proto.co.za/",
+   "checked_at": "2026-10-17T05:39:01Z"
+  },
+  {
+   "name": "Rare Collections",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Constantia Old Village Shop 4 Corner of Constantia Main &, Spaanschemat River Rd, Constantia, Cape Town, 7806",
+   "phone": "021 023 2441",
+   "website": "https://www.rarecollections.co.za/",
+   "checked_at": "2026-10-17T05:38:57Z"
+  },
+  {
+   "name": "Rashid Cassim Sports",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "33 Central Rd, Fordsburg, Johannesburg, 2092",
+   "phone": "011 838 7884",
+   "website": "https://rashidcassimsports.co.za/",
+   "checked_at": "2026-10-17T05:37:11Z"
+  },
+  {
+   "name": "Reader's Warehouse",
+   "group": "unknown",
+   "city": "Sandton",
+   "region": "GP",
+   "address": "Shop No.50, Norwood Mall, Hamlin St, Hawkins Estate, Sandton, 2192",
+   "phone": "011 483 0737",
+   "website": "https://www.readerswarehouse.co.za/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=norwood-mall",
+   "checked_at": "2026-10-17T05:37:31Z"
+  },
+  {
+   "name": "Readers Den Comic Shop",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "25 Barnstaple Rd, Wynberg, Cape Town, 7800",
+   "phone": "021 671 9551",
+   "website": "http://www.readersden.co.za/",
+   "checked_at": "2026-10-17T05:38:54Z"
+  },
+  {
+   "name": "Rosebank Sunday Market",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Level 4, parking, Rosebank Mall, 50 Bath Ave, Rosebank, Johannesburg, 2196",
+   "phone": "083 746 0166",
+   "website": "http://www.rosebanksundaymarket.co.za/",
+   "checked_at": "2026-10-17T05:37:34Z"
+  },
+  {
+   "name": "SATC Gaming",
+   "group": "unknown",
+   "address": "10 Wood Drive Table View, Cape town, Western Cape, 7441, South Africa",
+   "phone": "+270662864004",
+   "website": "https://satcgaming.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:42Z"
+  },
+  {
+   "name": "Silver Toy Shop",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Suite 15 Time Business Park, 39 Blaauwberg Rd, Bloubergstrand, Cape Town, 7441",
+   "phone": "067 015 6605",
+   "website": "https://www.silvertoyshop.co.za/",
+   "checked_at": "2026-10-17T05:38:23Z"
+  },
+  {
+   "name": "Smallville Comics",
+   "group": "unknown",
+   "city": "Alberton",
+   "region": "GP",
+   "address": "41 SaintAubyn St, New Redruth, Alberton, 1449",
+   "phone": "010 013 4670",
+   "website": "https://smallvillecomics.co.za/",
+   "checked_at": "2026-10-17T05:37:55Z"
+  },
+  {
+   "name": "Solarpop Distribution (Pty) Ltd",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "8 Columbus Cres, Rivergate Park, Cape Town, 7441",
+   "phone": "021 905 0311",
+   "website": "https://www.solarpop.co.za/",
+   "checked_at": "2026-10-17T05:39:02Z"
+  },
+  {
+   "name": "Solly M Sports",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "807 Umgeni Rd, Berea, Durban, 4001",
+   "phone": "031 301 0072",
+   "website": "https://www.sollymsports.com/",
+   "checked_at": "2026-10-17T05:39:19Z"
+  },
+  {
+   "name": "Stag Gaming",
+   "group": "unknown",
+   "address": "14 Ridge way, Bergsig, DURBANVILLE, Cape Town, Western Cape, 7550, South Africa",
+   "phone": "+270749131836",
+   "website": "https://staggaming.net/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:46Z"
+  },
+  {
+   "name": "Sunnypark Shopping Centre",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Cnr Steve Biko &, Robert Sobukwe St, Sunnyside, Pretoria, 0002",
+   "phone": "012 341 7556",
+   "website": "https://sunnyparkcentre.co.za/",
+   "checked_at": "2026-10-17T05:39:59Z"
+  },
+  {
+   "name": "Tabletop Guru",
+   "group": "unknown",
+   "city": "Boksburg",
+   "region": "GP",
+   "address": "Shop U3, Sunward Park Lifestyle Centre Cnr Kingfisher Avenue &, Trichardt Rd, Sunward Park, Boksburg, 1459",
+   "phone": "068 059 6774",
+   "website": "https://tabletopguru.co.za/",
+   "checked_at": "2026-10-17T05:38:05Z"
+  },
+  {
+   "name": "The Attic comics and collectables",
+   "group": "unknown",
+   "city": "Edenvale",
+   "region": "GP",
+   "address": "29 Voortrekker Ave, Edenvale, 1609",
+   "phone": "011 454 4332",
+   "website": "https://www.bobshop.co.za/seller/4673119/Atticcomics",
+   "checked_at": "2026-10-17T05:38:07Z"
+  },
+  {
+   "name": "The Batcave",
+   "group": "unknown",
+   "city": "Kloof",
+   "region": "KZN",
+   "address": "42 Old Main Rd, Hillcrest, KZN, 3650, South Africa",
+   "phone": "27317653656",
+   "website": "https://www.batcave.co.za",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:52Z"
+  },
+  {
+   "name": "The Battle Bunker - Tygervalley",
+   "group": "unknown",
+   "address": "148C Tygervalley Shopping Centre Bellville, Cape Town, WC, 7530, South Africa",
+   "phone": "2721 9149121",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:44Z"
+  },
+  {
+   "name": "The Big Bang Shop",
+   "group": "unknown",
+   "city": "uMhlanga",
+   "region": "KZN",
+   "address": "Shop 4, 9 Aurora Dr, Umhlanga, uMhlanga, 4320",
+   "phone": "072 326 8659",
+   "website": "https://bigbangshop.co.za/",
+   "checked_at": "2026-10-17T05:37:01Z"
+  },
+  {
+   "name": "The Crazy Store Canal Walk Shopping Centre",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 47, 1 Century Blvd, Century City, Cape Town, 7441",
+   "phone": "087 135 9654",
+   "website": "https://www.crazystore.co.za/",
+   "checked_at": "2026-10-17T05:39:07Z"
+  },
+  {
+   "name": "The Deckle Edge",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop G06, 13 Brickfield Rd, Salt River, Cape Town, 7925",
+   "phone": "021 201 4100",
+   "website": "https://www.deckleedge.co.za/",
+   "checked_at": "2026-10-17T05:38:25Z"
+  },
+  {
+   "name": "The Duelist Market",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Medelin, 1102 Nico Smith St, Villieria, Pretoria, 0186",
+   "phone": "082 310 7382",
+   "website": "https://www.theduelistmarket.co.za/",
+   "checked_at": "2026-10-17T05:39:51Z"
+  },
+  {
+   "name": "The Geek Home",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Corner of Garsfontein Road & January Masilela Drive, Waterkloof Glen, Pretoria, GT, 0181, South Africa",
+   "phone": "27793094262",
+   "website": "https://www.geekhome.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "The Gnarly Griffin",
+   "group": "unknown",
+   "city": "Hilton",
+   "region": "KZN",
+   "address": "Shop 6D, 39 Hilton Avenue, Hilton, Kwa-Zulu Natal, 3245, South Africa",
+   "phone": "+27686033787",
+   "website": "https://thegnarlygriffin.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:53Z"
+  },
+  {
+   "name": "The Jokers House",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Fountain Square, Lionviham, Cape Town, 7130",
+   "phone": "066 236 2103",
+   "website": "https://thejokershouse.com/",
+   "checked_at": "2026-10-17T05:37:07Z"
+  },
+  {
+   "name": "The Mithril Vault",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "73 Ormonde Dr, Mondeor, Johannesburg, 2091",
+   "phone": "064 761 4583",
+   "website": "https://mithrilvault.co.za/",
+   "checked_at": "2026-10-17T05:36:58Z"
+  },
+  {
+   "name": "The Pavilion Shopping Centre",
+   "group": "unknown",
+   "city": "Westville",
+   "region": "KZN",
+   "address": "Jack Martens Dr, Dawncliffe, Westville, 3611",
+   "phone": "031 275 9800",
+   "website": "https://thepav.co.za/",
+   "checked_at": "2026-10-17T05:39:32Z"
+  },
+  {
+   "name": "The Trade Inn",
+   "group": "unknown",
+   "address": "19 Koorzen St, Gants Plaza, Cape Town, Western Cape, 7140, South Africa",
+   "phone": "+270645490974",
+   "website": "https://thetradeinn.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:46Z"
+  },
+  {
+   "name": "Thintana Card Solutions",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Unit A8 The Stables Business Park, 13 3rd Rd, Linbro Park, Johannesburg, 2090",
+   "phone": "011 608 3001",
+   "website": "http://thintana.com/",
+   "checked_at": "2026-10-17T05:37:02Z"
+  },
+  {
+   "name": "Timeless Board Games",
+   "group": "unknown",
+   "city": "Germiston",
+   "region": "GP",
+   "address": "11 Chopin Road Buurendal, Edenvale, Buurendal, Germiston, 1609",
+   "phone": "071 604 4716",
+   "website": "https://www.timelessboardgames.co.za/",
+   "checked_at": "2026-10-17T05:37:54Z"
+  },
+  {
+   "name": "Toy Kingdom Brooklyn",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop 29A, Cnr Veale and, Brooklyn Mall, Fehrsen St, Nieuw Muckleneuk, Pretoria, 0181",
+   "phone": "012 346 2891",
+   "website": "https://www.toykingdom.co.za/",
+   "checked_at": "2026-10-17T05:40:25Z"
+  },
+  {
+   "name": "Toy Kingdom Canal Walk",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 407, Canal Walk, Century Blvd, Century City, Cape Town, 7441",
+   "phone": "021 555 4791",
+   "website": "https://www.toykingdom.co.za/",
+   "checked_at": "2026-10-17T05:38:57Z"
+  },
+  {
+   "name": "Toy Kingdom Gateway",
+   "group": "unknown",
+   "city": "uMhlanga",
+   "region": "KZN",
+   "address": "Shop E034, Gateway Theatre of Shopping, 1, Palm Blvd, Umhlanga Ridge, uMhlanga, 4319",
+   "phone": "031 566 4356",
+   "website": "https://www.toykingdom.co.za/",
+   "checked_at": "2026-10-17T05:39:47Z"
+  },
+  {
+   "name": "Toy Kingdom Pavilion",
+   "group": "unknown",
+   "city": "Westville",
+   "region": "KZN",
+   "address": "Jack Martens Dr, Dawncliffe, Westville, 3629",
+   "phone": "031 396 3799",
+   "website": "https://www.toykingdom.co.za/",
+   "checked_at": "2026-10-17T05:39:49Z"
+  },
+  {
+   "name": "Trading Collectables",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "5 Hoek St, Lansdowne, Cape Town, 7780",
+   "phone": "067 712 9766",
+   "website": "https://tradingcollectables.com/",
+   "checked_at": "2026-10-17T05:38:25Z"
+  },
+  {
+   "name": "Typo",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "Shop C207, 50 Bathlaan, Rosebank, Johannesburg, Johannesburg, 2194",
+   "phone": "087 292 3007",
+   "website": "https://cottonon.com/ZA/typo-home/?utm_source=google-store-profiles&utm_medium=organic&utm_campaign=google-store-TYPO-ZA&utm_id=google-store-0977-TYPO",
+   "checked_at": "2026-10-17T05:37:09Z"
+  },
+  {
+   "name": "Typo Menlyn Park",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "Shop LF112, Cnr Atterbury and Lois Avenue, Menlo Park, Menlyn, Pretoria, 7708",
+   "phone": "087 756 6419",
+   "website": "https://cottonon.com/ZA/typo-home/?utm_source=google-store-profiles&utm_medium=organic&utm_campaign=google-store-TYPO-ZA&utm_id=google-store-0704-TYPO",
+   "checked_at": "2026-10-17T05:40:24Z"
+  },
+  {
+   "name": "Untapped Potential",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "63e 3rd Ave, Linden,, Johannesburg, Gauteng, 2195, South Africa",
+   "phone": "+270614605289",
+   "website": "https://www.untappedpotentialtcg.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Van Schaik Bookstore Braamfontein CBD",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "56 Jorissen St, Braamfontein, Johannesburg, 2000",
+   "phone": "073 191 8665",
+   "website": "https://www.vanschaik.com/",
+   "checked_at": "2026-10-17T05:37:18Z"
+  },
+  {
+   "name": "Van Schaik Bookstore Capetown CBD",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 43, Matador Center, 62 Strand St, Cape Town City Centre, Cape Town, 8001",
+   "phone": "064 876 8116",
+   "website": "https://www.vanschaik.com/",
+   "checked_at": "2026-10-17T05:39:08Z"
+  },
+  {
+   "name": "Victoria Wharf Shopping Centre",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Waterway House, 3 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+   "phone": "021 408 7500",
+   "website": "https://www.waterfront.co.za/stores",
+   "checked_at": "2026-10-17T05:38:40Z"
+  },
+  {
+   "name": "Wizards Collection Capetown",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Shop 100, Wembley Square, 40 Solan Rd, Gardens, Cape Town, 8001",
+   "phone": "067 624 4533",
+   "website": "https://wizardscollection.com/",
+   "checked_at": "2026-10-17T05:38:17Z"
+  },
+  {
+   "name": "Wizards Collection Rosebank",
+   "group": "unknown",
+   "city": "Johannesburg",
+   "region": "GP",
+   "address": "34 Bolton Road Parkwood, Johannesburg, Gauteng, 2193, South Africa",
+   "phone": "+270795135723",
+   "website": "https://wizardscollection.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
+   "name": "Wize Books",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "1116 Prospect St, Hatfield, Pretoria, 0028",
+   "phone": "012 362 5885",
+   "website": "https://www.wizebooks.co.za/",
+   "checked_at": "2026-10-17T05:40:19Z"
+  },
+  {
+   "name": "Wordsworth Books Sea Point",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "395 Main Rd, Sea Point, Cape Town, 8005",
+   "phone": "021 434 9131",
+   "website": "https://www.wordsworth.co.za/",
+   "checked_at": "2026-10-17T05:39:11Z"
+  },
+  {
+   "name": "Write GEAR - Specialist Stationery Store",
+   "group": "unknown",
+   "city": "Cape Town",
+   "region": "WC",
+   "address": "Unit 303, De Waal House, 172 Victoria Rd, Woodstock, Cape Town, 7925",
+   "phone": "067 240 1986",
+   "website": "https://writegear.co.za/",
+   "checked_at": "2026-10-17T05:38:33Z"
+  },
+  {
+   "name": "WZRD TCG",
+   "group": "unknown",
+   "city": "Durban",
+   "region": "KZN",
+   "address": "Shop 20 Glenwood Village Mall Moore Grove and Hunt Road, Durban, KwaZulu-Natal, 4083, South Africa",
+   "phone": "+270815321312",
+   "website": "https://wzrd.co.za/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:46Z"
+  },
+  {
+   "name": "Yellow Sub Trading",
+   "group": "unknown",
+   "city": "Pretoria",
+   "region": "GP",
+   "address": "24 Mogul St, Marabastad, Pretoria, 0183",
+   "phone": "012 012 5955",
+   "website": "https://www.yellowsubtrading.co.za/",
+   "checked_at": "2026-10-17T05:40:19Z"
+  }
+ ]
+}

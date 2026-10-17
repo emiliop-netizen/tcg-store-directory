@@ -1,0 +1,870 @@
+{
+ "country": "EE",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 88,
+ "stores": [
+  {
+   "name": "COLECTIKA",
+   "group": "blocked",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Kollane 8-10, 10147 Tallinn",
+   "website": "https://colectika.com/",
+   "checked_at": "2026-10-17T05:21:33Z"
+  },
+  {
+   "name": "Decathlon Tallinn",
+   "group": "blocked",
+   "city": "Kurna",
+   "region": "Harju maakond",
+   "address": "Kangrumetsa tee 3, Kurna, 75307 Harju maakond",
+   "phone": "5690 5531",
+   "website": "https://www.decathlon.ee/",
+   "checked_at": "2026-10-17T05:22:06Z"
+  },
+  {
+   "name": "Game Room",
+   "group": "blocked",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Sõle tn 14, 10611 Tallinn",
+   "phone": "5550 5577",
+   "website": "https://gameroom.ee/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Gamekeys OÜ",
+   "group": "blocked",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tornimäe tn 5, 10145 Tallinn",
+   "phone": "5305 7666",
+   "website": "http://punktid.com/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Gemoss Tartu",
+   "group": "blocked",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Narva mnt 3, 51013 Tartu",
+   "phone": "5877 4496",
+   "website": "https://www.gemoss.ee/",
+   "checked_at": "2026-10-17T05:22:28Z"
+  },
+  {
+   "name": "Is Music Team",
+   "group": "blocked",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Rüütli tn 14, 51007 Tartu",
+   "phone": "730 2325",
+   "website": "https://www.ismusic.ee/",
+   "checked_at": "2026-10-17T05:22:47Z"
+  },
+  {
+   "name": "ONOFF",
+   "group": "blocked",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Võru tn 79, 50112 Tartu",
+   "phone": "731 5579",
+   "website": "http://www.onoff.ee/",
+   "checked_at": "2026-10-17T05:22:27Z"
+  },
+  {
+   "name": "Sellme",
+   "group": "blocked",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Narva mnt 7-652, 10117 Tallinn",
+   "phone": "602 6532",
+   "website": "https://sellme.ee/",
+   "checked_at": "2026-10-17T05:22:03Z"
+  },
+  {
+   "name": "Andry Antiik - Antique Shop. Jewelry, figurines, coins, medals, souvenirs",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Viru 9, 10140 Tallinn",
+   "phone": "5664 6919",
+   "checked_at": "2026-10-17T05:22:02Z"
+  },
+  {
+   "name": "Art-Souvenir",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Pikk jalg 7, 10130 Tallinn",
+   "phone": "648 8036",
+   "checked_at": "2026-10-17T05:22:00Z"
+  },
+  {
+   "name": "Bullstar OÜ",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lembitu tn 2, 50406 Tartu",
+   "checked_at": "2026-10-17T05:23:04Z"
+  },
+  {
+   "name": "C&C",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Riia tn 1, 51010 Tartu",
+   "phone": "686 9024",
+   "checked_at": "2026-10-17T05:22:43Z"
+  },
+  {
+   "name": "Craftlare OÜ",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tornimäe tn 5, 10145 Tallinn",
+   "phone": "5747 6643",
+   "checked_at": "2026-10-17T05:22:00Z"
+  },
+  {
+   "name": "Fab Cards OÜ",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Ehitajate tee 113, 13517 Tallinn",
+   "phone": "5809 3389",
+   "checked_at": "2026-10-17T05:22:02Z"
+  },
+  {
+   "name": "Gift Garage",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Aia tn 5, 10111 Tallinn",
+   "phone": "5690 4237",
+   "checked_at": "2026-10-17T05:21:48Z"
+  },
+  {
+   "name": "Gramophonetree Records",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Magasini tn 5, 51005 Tartu",
+   "phone": "5685 9769",
+   "website": "https://www.facebook.com/gramophonetreerecords",
+   "checked_at": "2026-10-17T05:22:26Z"
+  },
+  {
+   "name": "Komisjonikaubamaja",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Kadaka tee 56, 12915 Tallinn",
+   "phone": "564 0383",
+   "website": "https://facebook.com/Komisjonikaubamaja",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "OÜ StrateegiaStuudio",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "J. Kuperjanovi tn, 51003 Tartu",
+   "phone": "5635 8007",
+   "checked_at": "2026-10-17T05:23:10Z"
+  },
+  {
+   "name": "Prisma Sõbra",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Sõbra tn 58, 51013 Tartu",
+   "checked_at": "2026-10-17T05:23:09Z"
+  },
+  {
+   "name": "Souvenirs & Gifts",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Pikk tn 52, 10133 Tallinn",
+   "checked_at": "2026-10-17T05:21:48Z"
+  },
+  {
+   "name": "Suveniirid",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Vana-Viru tn 6, 10111 Tallinn",
+   "checked_at": "2026-10-17T05:22:03Z"
+  },
+  {
+   "name": "Tallinn International Bookshop",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Lossi plats 4, 10130 Tallinn",
+   "checked_at": "2026-10-17T05:21:54Z"
+  },
+  {
+   "name": "Ukrainian Symbols shop",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Pikk tn 30a, 10133 Tallinn",
+   "checked_at": "2026-10-17T05:21:38Z"
+  },
+  {
+   "name": "Biit Me Record Store / Oü Biitmii",
+   "group": "not_buying_singles",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Vabriku tn 7, 10411 Tallinn",
+   "phone": "510 4720",
+   "website": "https://biit.me/",
+   "buylist_url": "https://biit.me/product/we-buy-diabetic-test-strips/",
+   "checked_at": "2026-10-17T05:22:00Z"
+  },
+  {
+   "name": "Airfun",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Aardla 25, 50110 Tartu",
+   "phone": "740 0294",
+   "website": "http://www.airfun.ee/",
+   "checked_at": "2026-10-17T05:22:31Z"
+  },
+  {
+   "name": "Akupank.ee (Am Trading OÜ)",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "C-korpus (välistrepist üles, koridoris otse uks, Jaama tn 76, 50605 Tartu",
+   "phone": "5331 2030",
+   "website": "https://akupank.ee/",
+   "checked_at": "2026-10-17T05:22:57Z"
+  },
+  {
+   "name": "AllDayTCG OÜ",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Kadaka tee 44a-16, 12915 Tallinn",
+   "phone": "5382 5840",
+   "website": "https://alldaytcg.com/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Alzgamer Pärnu",
+   "group": "unknown",
+   "city": "Pärnu",
+   "region": "Pärnu maakond",
+   "address": "Aida tn 7, Pärnu, 80010 Pärnu maakond",
+   "phone": "5410 0203",
+   "website": "http://www.alzgamer.ee/",
+   "checked_at": "2026-10-17T05:22:43Z"
+  },
+  {
+   "name": "Alzgamer T1",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Peterburi tee 2, 11415 Tallinn",
+   "phone": "5410 0201",
+   "website": "https://www.alzgamer.ee/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Alzgamer Tartu",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lääneringtee 39, 50501 Tartu",
+   "phone": "5410 0202",
+   "website": "http://www.alzgamer.ee/",
+   "checked_at": "2026-10-17T05:22:20Z"
+  },
+  {
+   "name": "Annelinna Pandimaja",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Kalda tee 30, 50707 Tartu",
+   "phone": "740 4112",
+   "website": "https://annelinnapandimaja.ee/",
+   "checked_at": "2026-10-17T05:23:05Z"
+  },
+  {
+   "name": "Annelinna Prisma",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Nõlvaku tn 2, 50708 Tartu",
+   "phone": "5689 9600",
+   "website": "https://prismamarket.ee/",
+   "checked_at": "2026-10-17T05:23:08Z"
+  },
+  {
+   "name": "Ariol Trading OÜ",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Jaama tn 175, 50705 Tartu",
+   "phone": "5562 4104",
+   "website": "https://arioltrading.ee/",
+   "checked_at": "2026-10-17T05:22:59Z"
+  },
+  {
+   "name": "AS Hals Trading-T",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Sepa tn 19, 50113 Tartu",
+   "phone": "730 1630",
+   "website": "https://hals.ee/trading-t/",
+   "checked_at": "2026-10-17T05:22:50Z"
+  },
+  {
+   "name": "Avera-Trading AS",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Aardla 23-2, 50110 Tartu",
+   "phone": "736 6646",
+   "website": "https://avera.ee/",
+   "checked_at": "2026-10-17T05:22:40Z"
+  },
+  {
+   "name": "Biomarket Tartu",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Küüni tn 7, 51004 Tartu",
+   "phone": "5314 5444",
+   "website": "https://biomarket.ee/meist/kauplused/tartu",
+   "checked_at": "2026-10-17T05:22:47Z"
+  },
+  {
+   "name": "BonBon",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Parda tänav 8, 10117 Tallinn",
+   "phone": "558 1239",
+   "website": "https://bonbon.ee/",
+   "checked_at": "2026-10-17T05:21:54Z"
+  },
+  {
+   "name": "Brain Games",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Turu 2, Tartu, 78, 51014, Estonia",
+   "phone": "3725557-1986",
+   "website": "https://www.brain-games.ee/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Brain Games Tasku",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Turu tn 2, 51004 Tartu",
+   "phone": "5557 1986",
+   "website": "https://www.brain-games.ee/",
+   "checked_at": "2026-10-17T05:22:15Z"
+  },
+  {
+   "name": "CDplus",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "P. Pinna tn 21, 13615 Tallinn",
+   "phone": "516 5724",
+   "website": "https://cdplus.ee/",
+   "checked_at": "2026-10-17T05:21:46Z"
+  },
+  {
+   "name": "E-POOD: Mängud",
+   "group": "unknown",
+   "city": "Tõrvandi",
+   "region": "Tartu maakond",
+   "address": "Ringtee 11, Tõrvandi, 61715 Tartu maakond",
+   "phone": "5383 1556",
+   "website": "https://xn--mngud-gra.ee/",
+   "checked_at": "2026-10-17T05:22:21Z"
+  },
+  {
+   "name": "Eesti Esindus Tallinnas - Estonian House",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Viru 3, 10140 Tallinn",
+   "phone": "640 4037",
+   "website": "https://www.estonianshop.com/",
+   "checked_at": "2026-10-17T05:21:48Z"
+  },
+  {
+   "name": "Ehte Ruum OÜ",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Liiva tn 41, 50303 Tartu",
+   "phone": "5198 7871",
+   "website": "https://ehteruum.ee/et-ee",
+   "checked_at": "2026-10-17T05:22:27Z"
+  },
+  {
+   "name": "Elfin Trade OÜ",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Punane tn 52-2 korrus, 13619 Tallinn",
+   "website": "https://mudelautod.ee/",
+   "checked_at": "2026-10-17T05:21:53Z"
+  },
+  {
+   "name": "Emilia Lombard",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "J. Kuperjanovi tn 62, 50409 Tartu",
+   "phone": "5815 0312",
+   "website": "https://www.emilialombard.ee/",
+   "checked_at": "2026-10-17T05:23:09Z"
+  },
+  {
+   "name": "Eugenio's Tartu",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lõuna Keskus, Ringtee 75, 50501 Tartu",
+   "phone": "600 7888",
+   "website": "https://www.eugenios.ee/",
+   "checked_at": "2026-10-17T05:23:00Z"
+  },
+  {
+   "name": "EVELATUS LÕUNAKESKUS",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Ringtee 75, 50501 Tartu",
+   "phone": "5600 1871",
+   "website": "https://evelatus.lv/ee/",
+   "checked_at": "2026-10-17T05:22:28Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Solaris, Estonia pst 9, 10143 Tallinn",
+   "phone": "605 0080",
+   "website": "https://flyingtiger.com/pages/store-locator?utm_source=Google&utm_medium=Store+Locator+Traffic&utm_campaign=Uberall&utm_id=Uberall#!/l/ee/tallinn/estonia-puiestee-9/ee01001",
+   "checked_at": "2026-10-17T05:22:13Z"
+  },
+  {
+   "name": "Gaia Kristallid Kingipood",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Ülikooli tn 3, 51003 Tartu",
+   "phone": "5628 2284",
+   "website": "https://www.gaiakristallid.ee/",
+   "checked_at": "2026-10-17T05:23:09Z"
+  },
+  {
+   "name": "GamePood",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Punane tn 16b, 13619 Tallinn",
+   "phone": "5649 9346",
+   "website": "https://gamepood.ee/index.php?route=common/home",
+   "checked_at": "2026-10-17T05:21:36Z"
+  },
+  {
+   "name": "Geek Shop Estonia",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Narva mnt 6, 10120 Tallinn",
+   "phone": "5553 1000",
+   "website": "https://geekshopestonia.ee/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Grossi Groceries",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Soola tn 7, 51004 Tartu",
+   "phone": "776 9802",
+   "website": "https://grossitoidukaubad.ee/",
+   "checked_at": "2026-10-17T05:22:51Z"
+  },
+  {
+   "name": "HitVault",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Ahtri 9, 10151 Tallinn",
+   "phone": "5335 9953",
+   "website": "https://hitvault.ee/asukohad/nautica/",
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Hobimaailm",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Suur-Sõjamäe tn 4, 11415 Tallinn",
+   "phone": "600 4406",
+   "website": "https://www.hobimaailm.ee/",
+   "checked_at": "2026-10-17T05:21:37Z"
+  },
+  {
+   "name": "Karlova Pawn Shop",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Tähe tn 18, 50103 Tartu",
+   "phone": "734 4035",
+   "website": "https://www.pandimajad.ee/",
+   "checked_at": "2026-10-17T05:23:06Z"
+  },
+  {
+   "name": "Kaup24.ee Pood ja pakiväljastus",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Karjavälja tn, Mustika keskus 4, 12918 Tallinn",
+   "website": "https://kaup24.ee/et",
+   "checked_at": "2026-10-17T05:22:09Z"
+  },
+  {
+   "name": "Kaur Trade OÜ",
+   "group": "unknown",
+   "city": "Soinaste",
+   "region": "Tartu maakond",
+   "address": "Rehepapi tee 23, Soinaste, 61709 Tartu maakond",
+   "phone": "730 7250",
+   "website": "https://kaurtrade.ee/",
+   "checked_at": "2026-10-17T05:23:01Z"
+  },
+  {
+   "name": "Kiiks ja Knihv",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Rüütli tn 7, 51007 Tartu",
+   "phone": "5887 9660",
+   "website": "https://kiiksjaknihv.ee/et/",
+   "checked_at": "2026-10-17T05:22:16Z"
+  },
+  {
+   "name": "Kirsi Pood",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Kivi tn 40a, 51009 Tartu",
+   "website": "https://kirsipood.lovable.app/",
+   "checked_at": "2026-10-17T05:22:29Z"
+  },
+  {
+   "name": "KVEST",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tulbi tn 4, 10612 Tallinn",
+   "phone": "529 4099",
+   "website": "https://kvest.ee/",
+   "checked_at": "2026-10-17T05:21:34Z"
+  },
+  {
+   "name": "lauamängud.ee",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Laki tn 3, 10621 Tallinn",
+   "phone": "5386 7775",
+   "website": "https://lauamangud.ee/",
+   "checked_at": "2026-10-17T05:21:48Z"
+  },
+  {
+   "name": "Lembitu Konsum",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lembitu tn 2, 50406 Tartu",
+   "phone": "5302 0074",
+   "website": "https://www.coop.ee/lembitu-konsum",
+   "checked_at": "2026-10-17T05:22:53Z"
+  },
+  {
+   "name": "Loitsukeller",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Küüni tn 2, 51004 Tartu",
+   "phone": "743 0374",
+   "website": "https://loitsukeller.ee/",
+   "checked_at": "2026-10-17T05:22:26Z"
+  },
+  {
+   "name": "LUMO TRADE OÜ",
+   "group": "unknown",
+   "city": "Haaslava",
+   "region": "Tartu maakond",
+   "address": "Lehise Tee 11-1, Haaslava, 62107 Tartu maakond",
+   "phone": "5551 9997",
+   "website": "https://lumo.ee/",
+   "checked_at": "2026-10-17T05:23:02Z"
+  },
+  {
+   "name": "Lõunakeskus",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lääneringtee 39, 50501 Tartu",
+   "phone": "731 5500",
+   "website": "https://www.astri.ee/lounakeskus/",
+   "checked_at": "2026-10-17T05:22:21Z"
+  },
+  {
+   "name": "Lõunakeskuse Euronics",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "50501, Lääneringtee 39, 51014 Tartu",
+   "phone": "640 6400",
+   "website": "https://www.euronics.ee/",
+   "checked_at": "2026-10-17T05:22:44Z"
+  },
+  {
+   "name": "Mabrik - Tallinn",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "50 Tuukri, Tallinn, Harju maakond, 10120, Estonia",
+   "phone": "37258781289",
+   "website": "https://mabrik.ee/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:21:29Z"
+  },
+  {
+   "name": "Maxima XX",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Turu tn 14, 51004 Tartu",
+   "phone": "8002 121",
+   "website": "https://www.maxima.ee/",
+   "checked_at": "2026-10-17T05:22:54Z"
+  },
+  {
+   "name": "Meie Toidukaubad Karlova",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Võru tn 47a, 50111 Tartu",
+   "phone": "5851 1019",
+   "website": "https://www.meietoidukaubad.ee/",
+   "checked_at": "2026-10-17T05:22:59Z"
+  },
+  {
+   "name": "Mnogoknig",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Endla tn 45, 10615 Tallinn",
+   "phone": "5553 7524",
+   "website": "https://mnogoknig.com/ru",
+   "checked_at": "2026-10-17T05:21:54Z"
+  },
+  {
+   "name": "Nailboard Rock Shop",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tulika tn 19-19 Block B, 10613 Tallinn",
+   "phone": "660 9078",
+   "website": "https://nailboard.org/",
+   "checked_at": "2026-10-17T05:22:02Z"
+  },
+  {
+   "name": "Nordbaby Tartu Kaubamaja",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Riia mnt 1, 51004 Tartu",
+   "phone": "731 4835",
+   "website": "https://www.nordbaby.com/ee/et/kodu",
+   "checked_at": "2026-10-17T05:22:35Z"
+  },
+  {
+   "name": "Panda Yama Anime Store Tallinn",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Lastekodu tn 23, 10113 Tallinn",
+   "website": "https://www.pandayama.ee/",
+   "checked_at": "2026-10-17T05:21:34Z"
+  },
+  {
+   "name": "Raamatukoi",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Harju tn 1a, 10146 Tallinn",
+   "phone": "683 7710",
+   "website": "https://raamatukoi.ee/",
+   "checked_at": "2026-10-17T05:21:46Z"
+  },
+  {
+   "name": "Rüütli SuperAlko",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Rüütli tn 4, 51007 Tartu",
+   "phone": "5567 8805",
+   "website": "https://cityalko.ee/",
+   "checked_at": "2026-10-17T05:22:53Z"
+  },
+  {
+   "name": "Smartech.ee",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tähesaju tee 11, 13917 Tallinn",
+   "phone": "647 7777",
+   "website": "https://www.smartech.ee/",
+   "checked_at": "2026-10-17T05:22:11Z"
+  },
+  {
+   "name": "SÕNA book store",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Riia tn 5, 51010 Tartu",
+   "phone": "734 1901",
+   "website": "https://www.vanaraamat.ee/",
+   "checked_at": "2026-10-17T05:23:09Z"
+  },
+  {
+   "name": "T1 Mall of Tallinn",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Peterburi tee 2, 11415 Tallinn",
+   "phone": "600 5540",
+   "website": "https://t1tallinn.com/",
+   "checked_at": "2026-10-17T05:21:54Z"
+  },
+  {
+   "name": "Tallinn Card - Official City Card",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Niguliste tn 2, 10146 Tallinn",
+   "website": "https://visittallinn.ee/eng/visitor/tallinn-card/tallinn-card/what-is-tallinn-card",
+   "checked_at": "2026-10-17T05:22:06Z"
+  },
+  {
+   "name": "Tamec Trade OÜ",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Turu tn 37, 50106 Tartu",
+   "phone": "503 0767",
+   "website": "https://www.profiriided.ee/",
+   "checked_at": "2026-10-17T05:22:51Z"
+  },
+  {
+   "name": "Tartu Lõunakeskuse Rimi hyper",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lääneringtee 39, 51014 Tartu",
+   "phone": "5699 0950",
+   "website": "https://www.rimi.ee/",
+   "checked_at": "2026-10-17T05:22:43Z"
+  },
+  {
+   "name": "Tartu Uuskasutuskeskus",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Riia tn 11, 51010 Tartu",
+   "phone": "5553 0288",
+   "website": "https://uuskasutus.ee/",
+   "checked_at": "2026-10-17T05:23:04Z"
+  },
+  {
+   "name": "Tatari Uuskasutuskeskus",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Tatari tn 64, 10134 Tallinn",
+   "phone": "5553 0240",
+   "website": "https://uuskasutus.ee/",
+   "checked_at": "2026-10-17T05:22:06Z"
+  },
+  {
+   "name": "Tradehouse Ilukaubamaja",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Riia tn 2, 51004 Tartu",
+   "phone": "735 3810",
+   "website": "https://tradehouse.ee/?lang=et",
+   "checked_at": "2026-10-17T05:22:35Z"
+  },
+  {
+   "name": "Umami OÜ",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Kaluri tn 2, 51004 Tartu",
+   "phone": "552 6167",
+   "website": "https://umami.ee/",
+   "checked_at": "2026-10-17T05:22:31Z"
+  },
+  {
+   "name": "Varvikas",
+   "group": "unknown",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Lääneringtee 39, 50501 Tartu",
+   "phone": "610 4269",
+   "website": "https://varvikas.com/",
+   "checked_at": "2026-10-17T05:22:17Z"
+  },
+  {
+   "name": "Weplay! Nautica",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Ahtri 9, Kesklinn, 10151 Tallinn",
+   "phone": "609 9717",
+   "website": "https://weplay.ee/",
+   "checked_at": "2026-10-17T05:21:38Z"
+  },
+  {
+   "name": "Yo Mana Gamers' Home",
+   "group": "unknown",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "Pärnu mnt. 125, 11314 Tallinn",
+   "website": "https://www.yomana.ee",
+   "checked_at": "2026-10-17T05:21:47Z"
+  }
+ ]
+}

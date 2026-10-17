@@ -1,0 +1,321 @@
+{
+ "country": "LU",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 31,
+ "stores": [
+  {
+   "name": "King Jouet Pommerloch",
+   "group": "blocked",
+   "city": "Winseler",
+   "region": "Wiltz",
+   "address": "26 Route de Bastogne, 9638 Pommerloch Winseler",
+   "phone": "95 98 52",
+   "website": "https://www.king-jouet.com/fr-lu/magasins/details.aspx?mag_guid=78eb0708-3483-41f9-b2bc-0d5f858d2765",
+   "checked_at": "2026-10-17T05:33:26Z"
+  },
+  {
+   "name": "King Jouet Sandweiler",
+   "group": "blocked",
+   "city": "Sandweiler",
+   "region": "Luxembourg",
+   "address": "30 Rue de Luxembourg, 5230 Sandweiler",
+   "phone": "26 35 24 86",
+   "website": "https://www.king-jouet.com/fr-lu/magasins/details.aspx?mag_guid=7dfe1514-cc71-4337-85ec-dca8ee8b3ab5",
+   "checked_at": "2026-10-17T05:33:14Z"
+  },
+  {
+   "name": "CD Buttek Beim Palais Sarl",
+   "group": "in_store",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "16 Rue du Marché-aux-Herbes, 1728 Ville-Haute Luxembourg",
+   "phone": "47 39 57",
+   "checked_at": "2026-10-17T05:33:08Z"
+  },
+  {
+   "name": "Fantasybox",
+   "group": "in_store",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "Avenue du X septembre 140, Luxembourg, N/A, 2550, Luxembourg",
+   "phone": "35226 44 14 60",
+   "website": "http://www.facebook.com/pages/FANTASYBOX/175694062478947?fref=ts",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:32:40Z"
+  },
+  {
+   "name": "FanthoEpicards",
+   "group": "in_store",
+   "city": "Rambrouch",
+   "region": "Redange",
+   "address": "12a Rue Abbé Neuens, 8811 Bilsdorf Rambrouch",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "LootCapsule",
+   "group": "in_store",
+   "city": "Beckerich",
+   "region": "Kanton Redingen",
+   "address": "5 Am Hoirbock, 8552 Oberpallen Beckerich",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Mana Temple",
+   "group": "in_store",
+   "address": "251 Rue de Beggen, Luxembourg, Luxembourg, 1221, Luxembourg",
+   "phone": "+352621771588",
+   "website": "https://www.instagram.com/manatempleluxembourg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:32:40Z"
+  },
+  {
+   "name": "Mana Temple Luxembourg",
+   "group": "in_store",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "251 Rue de Beggen, 1221 Beggen Luxembourg",
+   "phone": "27 39 70 68",
+   "website": "https://www.manatemple.com/",
+   "checked_at": "2026-10-17T05:32:58Z"
+  },
+  {
+   "name": "Manga Factory",
+   "group": "in_store",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "48 Av. de la Gare, 1610 Gare Luxembourg",
+   "phone": "27 74 49 31",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Paternoster",
+   "group": "in_store",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "74 Av. de la Liberté, 1930 Gare Luxembourg",
+   "phone": "48 49 39",
+   "checked_at": "2026-10-17T05:33:06Z"
+  },
+  {
+   "name": "Playerone Differdange",
+   "group": "in_store",
+   "city": "Differdange",
+   "region": "Esch-sur-Alzette",
+   "address": "15 Rue de la Grève Nationale, 4633 Differdange",
+   "phone": "661 988 580",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Ars Libri (Spielwarenladen Paradis du Jouet)",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "27 Rue Jean-Baptiste Gelle, 1620 Bouneweg-Süd Luxembourg",
+   "phone": "40 83 50",
+   "website": "https://www.arslibri.lu/",
+   "checked_at": "2026-10-17T05:33:06Z"
+  },
+  {
+   "name": "Bei de Minettsdäpp",
+   "group": "unknown",
+   "city": "Esch an der Alzette",
+   "region": "Kanton Esch an der Alzette",
+   "address": "8, rue Bewart, Esch-sur-Alzette, Esch-sur-Alzette, 4043, Luxembourg",
+   "phone": "+352691580852",
+   "website": "https://www.kimochikardz.lu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:32:40Z"
+  },
+  {
+   "name": "Distriwiz",
+   "group": "unknown",
+   "city": "Leudelange",
+   "region": "Esch-sur-Alzette",
+   "address": "9 Rue Nicolas Brosius, 3372 Leudelange",
+   "phone": "26 37 49 79",
+   "website": "https://distriwiz.com/",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Domino - Jouets",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "6 Rue Louvigny, 1946 Ville-Haute Luxembourg",
+   "phone": "46 68 81",
+   "website": "https://domino.lu/",
+   "checked_at": "2026-10-17T05:33:06Z"
+  },
+  {
+   "name": "Gameone",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "25 Bd Friedrich Wilhelm Raiffeisen, 2411 Gasperich Luxembourg",
+   "phone": "691 209 996",
+   "website": "https://gameone.lu/",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Gamer Luxembourg - The Gameshow",
+   "group": "unknown",
+   "city": "Bertrange",
+   "region": "Luxembourg",
+   "address": "80 Rte de Longwy, 8060 Helfent Bertrange",
+   "website": "https://www.gamer.now/en/luxembourg?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website_button",
+   "checked_at": "2026-10-17T05:33:20Z"
+  },
+  {
+   "name": "Golfank - Jeu de billes et animation événementielle",
+   "group": "unknown",
+   "city": "Bertrange",
+   "region": "Luxembourg",
+   "address": "19 Rue de l'Industrie, 8069 Bertrange",
+   "phone": "621 657 999",
+   "website": "https://www.golfank.com/",
+   "checked_at": "2026-10-17T05:33:10Z"
+  },
+  {
+   "name": "InkedGeeks",
+   "group": "unknown",
+   "city": "Esch-sur-Alzette",
+   "region": "Esch-sur-Alzette",
+   "address": "42 rue de l'Alzette, Esch sur Alzette, L, L - 4010, Luxembourg",
+   "phone": "+352 26531317",
+   "website": "https://www.inkedgeeks.lu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:32:40Z"
+  },
+  {
+   "name": "JBF Toys and Trains | LEGO®, Model Trains and more",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "2-4 Boulevard des Scillas, 2529 Howald Luxembourg",
+   "phone": "26 48 08 20",
+   "website": "https://jbftoysandtrains.com/",
+   "checked_at": "2026-10-17T05:33:23Z"
+  },
+  {
+   "name": "Le Reservoir",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "30 Grand-Rue, 1660 Ville-Haute Luxembourg, Luxembourg, Luxembourg, 1660",
+   "phone": "+352 26 26 25 00",
+   "website": "https://www.lereservoir.lu/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:32:55Z"
+  },
+  {
+   "name": "Leoni-Els Sàrl",
+   "group": "unknown",
+   "city": "Ettelbruck",
+   "region": "Diekirch",
+   "address": "98 Grand-Rue, 9051 Ettelbruck",
+   "phone": "81 22 84",
+   "website": "http://www.leoni-els.lu/de",
+   "checked_at": "2026-10-17T05:33:22Z"
+  },
+  {
+   "name": "LToys - Bricks, Figures & More",
+   "group": "unknown",
+   "city": "Niederanven",
+   "region": "Luxembourg",
+   "address": "141 Rte de Treves, 6940 Senningen Niederanven",
+   "phone": "28 67 63 67",
+   "website": "https://www.ltoys.lu/",
+   "checked_at": "2026-10-17T05:33:19Z"
+  },
+  {
+   "name": "Ludolux",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "19 Rue de Bitbourg, 1273 Hamm Luxembourg",
+   "website": "https://www.ludolux.lu/",
+   "checked_at": "2026-10-17T05:33:14Z"
+  },
+  {
+   "name": "Luxembourg for Shopping GIE - Letzshop",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "14 Rue Erasme, 1468 Kirchberg Luxembourg",
+   "website": "https://letzshop.lu/de",
+   "checked_at": "2026-10-17T05:33:11Z"
+  },
+  {
+   "name": "Meeple Monastery",
+   "group": "unknown",
+   "city": "Echternach",
+   "region": "Echternach",
+   "address": "53 Rue de La Gare, 6440 Echternach",
+   "phone": "621 568 738",
+   "website": "https://www.meeplemonastery.lu/en_GB",
+   "checked_at": "2026-10-17T05:33:14Z"
+  },
+  {
+   "name": "Nick's Diecast Corner s.à r.l.",
+   "group": "unknown",
+   "city": "Clervaux",
+   "region": "Clervaux",
+   "address": "15 Grand-Rue, 9710 Clervaux",
+   "phone": "26 90 38 64",
+   "website": "https://letzshop.lu/de/vendors/nicks-diecast-corner",
+   "checked_at": "2026-10-17T05:33:05Z"
+  },
+  {
+   "name": "Pokédream Store - Boutique Pokémon, One Piece & Magic",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "25 Bd Friedrich Wilhelm Raiffeisen, 2411 Gasperich Luxembourg",
+   "phone": "621 167 315",
+   "website": "https://pokedream.fr/",
+   "checked_at": "2026-10-17T05:33:00Z"
+  },
+  {
+   "name": "Slumberland BD World Belval Plaza",
+   "group": "unknown",
+   "city": "Esch-sur-Alzette",
+   "region": "Esch-sur-Alzette",
+   "address": "7-14 Av. du Rock'n'Roll, 4408 Esch-Belval Esch-sur-Alzette",
+   "phone": "26 57 32 01",
+   "website": "http://www.slumberlandbdworld.com/",
+   "checked_at": "2026-10-17T05:33:08Z"
+  },
+  {
+   "name": "SpielBar Luxembourg",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "30 Rue Félix de Blochausen, 1243 Bonnevoie-Nord-Verlorenkost Luxembourg",
+   "phone": "691 570 537",
+   "website": "https://spielbarluxwargame.com/",
+   "checked_at": "2026-10-17T05:33:04Z"
+  },
+  {
+   "name": "Trading Card games",
+   "group": "unknown",
+   "city": "Luxembourg",
+   "region": "Luxembourg",
+   "address": "251 Rue de Beggen, 1221 Beggen Luxembourg",
+   "website": "https://api.whatsapp.com/send?phone=61480852097",
+   "checked_at": "2026-10-17T05:33:01Z"
+  }
+ ]
+}

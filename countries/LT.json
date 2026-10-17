@@ -1,0 +1,690 @@
+{
+ "country": "LT",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 67,
+ "stores": [
+  {
+   "name": "Baitukas",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "(0-600) 20263",
+   "website": "https://baitukas.lt/",
+   "checked_at": "2026-10-17T05:19:06Z"
+  },
+  {
+   "name": "Baitukas",
+   "group": "blocked",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Ozo g. 25-1 aukštas, 08217 Vilnius",
+   "phone": "(0-600) 20264",
+   "website": "https://www.baitukas.lt/",
+   "checked_at": "2026-10-17T05:19:10Z"
+  },
+  {
+   "name": "Crow's Nest TCG",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskritis",
+   "address": "Radvilėnų pl. 1B, Kaunas, 50264 Kauno m. sav., Kaunas, Kaunas, 50624, Lithuania",
+   "phone": "+37068458430",
+   "website": "https://www.crowsnesttcg.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Cyborg Shop",
+   "group": "blocked",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Justiniškių g. 8, 05131 Vilnius",
+   "phone": "(0-685) 19282",
+   "website": "https://www.cyborgshop.lt/",
+   "checked_at": "2026-10-17T05:18:49Z"
+  },
+  {
+   "name": "ERMITAŽAS",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Pramonės pr. 6b, 51267 Kaunas",
+   "phone": "(0-685) 99599",
+   "website": "https://www.ermitazas.lt/?utm_source=GBP&utm_medium=organic&utm_campaign=GBP",
+   "checked_at": "2026-10-17T05:19:46Z"
+  },
+  {
+   "name": "Florinus.lt | Investment in gold and collections",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Kaunakiemio g. 38, 44332 Kaunas",
+   "phone": "(0-646) 44955",
+   "website": "https://www.florinus.lt/",
+   "checked_at": "2026-10-17T05:19:34Z"
+  },
+  {
+   "name": "Game Room",
+   "group": "blocked",
+   "city": "Vilnius",
+   "region": "Vilniaus apskritis",
+   "address": "Naugarduko g. 41, 03227 Vilnius, Lithuania, Vilnius, Vilniaus apskritis, 03227",
+   "phone": "+37 062781599",
+   "website": "http://www.gameroom.lt",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "GAME ROOM Kaunas",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Baltų pr. 11-1, 48235 Kaunas",
+   "phone": "(0-602) 64441",
+   "website": "https://gameroom.lt/lt/",
+   "checked_at": "2026-10-17T05:19:07Z"
+  },
+  {
+   "name": "Kinect.lt",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Kuršių g. 7, I aukštas, 4 įeiga, 48107 Kaunas",
+   "phone": "(0-621) 11561",
+   "website": "https://www.kinect.lt/",
+   "checked_at": "2026-10-17T05:19:28Z"
+  },
+  {
+   "name": "Offline Game Club",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Šv. Gertrūdos g. 48, 44260 Kaunas",
+   "phone": "(0-618) 55515",
+   "website": "https://offlinegameclub.lt/",
+   "checked_at": "2026-10-17T05:19:49Z"
+  },
+  {
+   "name": "Smartsdcard",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Jonavos g. 68B, 44191 Kaunas",
+   "phone": "(0-698) 25125",
+   "website": "http://smartsdcard.com/",
+   "checked_at": "2026-10-17T05:19:48Z"
+  },
+  {
+   "name": "XS Žaislai - PLC „Mega\"",
+   "group": "blocked",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Islandijos pl. 32, 47446 Kaunas",
+   "phone": "(0-617) 67770",
+   "website": "https://www.xszaislai.lt/",
+   "checked_at": "2026-10-17T05:19:50Z"
+  },
+  {
+   "name": "books gifts store",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Paupio g. 3, 01201 Vilnius",
+   "checked_at": "2026-10-17T05:19:05Z"
+  },
+  {
+   "name": "Danausi Namai",
+   "group": "in_store",
+   "address": "A. Juozapavičiaus pr. 124H, Kaunas, Kaunas, 45102, Lithuania",
+   "phone": "+37060551744",
+   "website": "https://www.instagram.com/danausinamai",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Ivolgamus",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Savanorių pr. 61, 03149 Vilnius",
+   "phone": "(0-5) 265 3416",
+   "checked_at": "2026-10-17T05:19:10Z"
+  },
+  {
+   "name": "Lion Poker- sportinio pokerio klubas Kaune",
+   "group": "in_store",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Vytauto pr. 32, 44328 Kaunas",
+   "phone": "(0-604) 40301",
+   "website": "https://www.facebook.com/lionpokerKaunas/",
+   "checked_at": "2026-10-17T05:19:41Z"
+  },
+  {
+   "name": "LukasTrading",
+   "group": "in_store",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Savanorių pr., Kaunas, 49383 Kauno m. sav.",
+   "phone": "(0-670) 54509",
+   "checked_at": "2026-10-17T05:19:17Z"
+  },
+  {
+   "name": "Manamana",
+   "group": "in_store",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Mituvos g. 2, 50131 Kaunas",
+   "phone": "(0-687) 41747",
+   "checked_at": "2026-10-17T05:19:46Z"
+  },
+  {
+   "name": "Ragainė - Baltik shop",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "S. Skapo g. 3, Vilnius, 01513 Vilniaus m. sav.",
+   "phone": "(0-678) 86443",
+   "website": "http://www.facebook.com/dangausragaine",
+   "checked_at": "2026-10-17T05:18:53Z"
+  },
+  {
+   "name": "Vienaragis LT",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Mindaugo g. 23, 03214 Vilnius",
+   "checked_at": "2026-10-17T05:18:56Z"
+  },
+  {
+   "name": "Akropolis Vilnius",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Ozo g. 25, Vilnius, 08217 Vilniaus m. sav.",
+   "phone": "(0-659) 23632",
+   "website": "https://akropolis.lt/vilnius/",
+   "checked_at": "2026-10-17T05:19:12Z"
+  },
+  {
+   "name": "Antikvaras Kaune. Antikvariatas",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "M. Jankaus g. 9, 50270 Kaunas",
+   "phone": "(0-652) 56668",
+   "website": "https://antikvaraskaune.lt/",
+   "checked_at": "2026-10-17T05:19:24Z"
+  },
+  {
+   "name": "AUREA.SHOP",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Ukmergės 369, 12107 Vilnius",
+   "phone": "(0-699) 33359",
+   "website": "https://aurea.shop/",
+   "checked_at": "2026-10-17T05:18:45Z"
+  },
+  {
+   "name": "Bookstore Eureka!",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Universiteto g. 10, 01122 Vilnius",
+   "phone": "(0-5) 262 9146",
+   "website": "https://knygynas.biz/",
+   "checked_at": "2026-10-17T05:19:11Z"
+  },
+  {
+   "name": "Brain Games Ozas",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "2 aukštas, Ozo g. 18, 08243 Vilnius",
+   "phone": "(0-659) 73577",
+   "website": "https://www.brain-games.lt/",
+   "checked_at": "2026-10-17T05:18:50Z"
+  },
+  {
+   "name": "Cardshouse.eu",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Veiverių g. 55B, 46335 Kaunas",
+   "website": "https://www.cardshouse.eu/",
+   "checked_at": "2026-10-17T05:18:57Z"
+  },
+  {
+   "name": "CoinShop",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Kęstučio g. 60, 44303 Kaunas",
+   "phone": "(0-673) 48248",
+   "website": "http://www.coinshop.lt/",
+   "checked_at": "2026-10-17T05:19:23Z"
+  },
+  {
+   "name": "Disc Shop",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Kalvarijų g. 125, 1 korpusas, 3 laiptinė, 3 aukštas, 314 kab, 08221 Vilnius",
+   "phone": "(0-652) 11998",
+   "website": "https://discshop.eu/en/",
+   "checked_at": "2026-10-17T05:19:03Z"
+  },
+  {
+   "name": "Freshcdkeys",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Šeškinės g. 22, 07156 Vilnius",
+   "phone": "(0-606) 72825",
+   "website": "http://www.freshcdkeys.com/",
+   "checked_at": "2026-10-17T05:19:00Z"
+  },
+  {
+   "name": "FUNTASTIK",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "(0-652) 44896",
+   "website": "https://www.funtastik.lt/",
+   "checked_at": "2026-10-17T05:19:26Z"
+  },
+  {
+   "name": "Galvosūkių pasaulis",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "(0-659) 36082",
+   "website": "https://www.brain-games.lt/",
+   "checked_at": "2026-10-17T05:19:17Z"
+  },
+  {
+   "name": "GG ARENA Kaunas",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Laisves al. 38, 44311 Kaunas",
+   "phone": "(0-631) 89922",
+   "website": "https://ggarena.com/",
+   "checked_at": "2026-10-17T05:19:39Z"
+  },
+  {
+   "name": "GK GALLERY",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "V. Putvinskio g. 42, 44211 Kaunas",
+   "phone": "(0-698) 72926",
+   "website": "https://gkgalerija.lt/",
+   "checked_at": "2026-10-17T05:19:41Z"
+  },
+  {
+   "name": "HOBi.LT parduotuvė KAUNE",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Tvirtovės al. 54A, 50180 Kaunas",
+   "phone": "(0-682) 38338",
+   "website": "https://hobi.lt/",
+   "checked_at": "2026-10-17T05:19:28Z"
+  },
+  {
+   "name": "JUODA RAIDĖ, reklamos agentūra, UAB",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Draugystės g. 19-223, 51230 Kaunas",
+   "phone": "(0-37) 320613",
+   "website": "http://www.juodaraide.lt/",
+   "checked_at": "2026-10-17T05:19:41Z"
+  },
+  {
+   "name": "Kaunas Picture Gallery (Subdivision of M. K. Čiurlionis Art Museum)",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "K. Donelaičio g. 16, 44213 Kaunas",
+   "phone": "(0-675) 13161",
+   "website": "https://ciurlionis.lt/",
+   "checked_at": "2026-10-17T05:19:47Z"
+  },
+  {
+   "name": "Kauno AKROPOLIS",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "(0-659) 38262",
+   "website": "https://akropolis.lt/",
+   "checked_at": "2026-10-17T05:19:15Z"
+  },
+  {
+   "name": "Kolekcija",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Užupio g. 7-2, 01200 Vilnius",
+   "phone": "(0-5) 212 0012",
+   "website": "https://neovital.lt/",
+   "checked_at": "2026-10-17T05:18:53Z"
+  },
+  {
+   "name": "KuroNeko",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Vytauto g. 8, 08118 Vilnius",
+   "phone": "(0-696) 17711",
+   "website": "https://kuroneko.lt/",
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Leela Game of Life",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Varpų g. 1-5, 01208 Vilnius",
+   "phone": "(0-629) 62145",
+   "website": "https://lilagame.ru/",
+   "checked_at": "2026-10-17T05:19:01Z"
+  },
+  {
+   "name": "manohobis.com",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Verkių g. 29F, 09108 Vilnius",
+   "phone": "(0-666) 22028",
+   "website": "https://www.manohobis.com/",
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "MEGA",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Islandijos pl. 32, 47446 Kaunas",
+   "phone": "(0-620) 81150",
+   "website": "https://www.mega.lt/",
+   "checked_at": "2026-10-17T05:19:15Z"
+  },
+  {
+   "name": "Mint Vinetu",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Šv. Ignoto g. 16, 01144 Vilnius",
+   "phone": "(0-618) 20347",
+   "website": "https://mintvinetu.com/",
+   "checked_at": "2026-10-17T05:18:54Z"
+  },
+  {
+   "name": "Miplas - geriausi stalo žaidimai",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Verkių g. 35, 09109 Vilnius",
+   "phone": "(0-612) 31015",
+   "website": "https://miplas.lt/",
+   "checked_at": "2026-10-17T05:18:54Z"
+  },
+  {
+   "name": "Mnogoknig",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Ozo g. 25-1 aukštas, 08217 Vilnius",
+   "phone": "(0-648) 88037",
+   "website": "https://mnogoknig.com/ru",
+   "checked_at": "2026-10-17T05:19:12Z"
+  },
+  {
+   "name": "MTG Vilnius",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Nemenčinės pl. 12, Vilnius, 10102 Vilniaus m. sav.",
+   "phone": "(0-5) 277 2561",
+   "website": "http://vilnius21.lt/mtgvilniusuab-m21509.html",
+   "checked_at": "2026-10-17T05:19:05Z"
+  },
+  {
+   "name": "Noriu Noriu Noriu",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "(0-630) 07111",
+   "website": "https://www.noriunoriunoriu.lt/",
+   "checked_at": "2026-10-17T05:19:32Z"
+  },
+  {
+   "name": "Olympic Casino Donelaitis",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "K. Donelaičio g. 27, 44240 Kaunas",
+   "phone": "(0-37) 409963",
+   "website": "https://olympic-casino.lt/lt/",
+   "checked_at": "2026-10-17T05:19:44Z"
+  },
+  {
+   "name": "Pakavimo prekės",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Plungės g. 4, Vilnius, 02300 Vilniaus m. sav.",
+   "phone": "(0-612) 22393",
+   "website": "https://pakavimoprekes.lt/lt/",
+   "checked_at": "2026-10-17T05:19:01Z"
+  },
+  {
+   "name": "parduotuvė-sandėlis DEPO, Namams Sodui Remontui",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Vakarinis aplinkl. 8, 48182 Kaunas",
+   "phone": "(0-37) 248800",
+   "website": "https://depo-diy.lt/",
+   "checked_at": "2026-10-17T05:19:42Z"
+  },
+  {
+   "name": "Poker Street - Sportinio pokerio klubas",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Lvivo g. 25, Vilnius, 09320 Vilniaus m. sav.",
+   "phone": "(0-625) 59246",
+   "website": "https://www.pokerstreet.lt/",
+   "checked_at": "2026-10-17T05:19:02Z"
+  },
+  {
+   "name": "Post Stone",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Romuvos g. 5, 08401 Vilnius",
+   "phone": "(0-674) 73047",
+   "website": "https://post-stone.com/",
+   "checked_at": "2026-10-17T05:18:56Z"
+  },
+  {
+   "name": "Rikio geimai, MB",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskritis",
+   "address": "Šv. Stepono g. 5, 01138 Vilnius, Lithuania, Vilnius, Vilniaus apskritis, 01138",
+   "phone": "+370 615 97722",
+   "website": "https://rikis.lt/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "RPG House",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "M. Jankaus g. 30, 50274 Kaunas",
+   "phone": "(0-674) 05364",
+   "website": "https://rpghouse.lt/?v=d91af6958918",
+   "checked_at": "2026-10-17T05:19:23Z"
+  },
+  {
+   "name": "Shop4Top",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Veiverių g. 55B, 46335 Kaunas",
+   "phone": "(0-610) 66162",
+   "website": "https://www.shop4top.lt/",
+   "checked_at": "2026-10-17T05:19:32Z"
+  },
+  {
+   "name": "Stalo zaidimai EU",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskritis",
+   "address": "Konstitucijos pr. 12, 09309 Vilnius, Lithuania, Vilnius, Vilniaus apskritis, 09309",
+   "phone": "+370 610 62 529",
+   "website": "https://www.stalozaidimai.eu/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Stalozaidimai EU",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskritis",
+   "address": "Konstitucijos ave. 12, Vilnius, Vilnius, 09308, Lithuania",
+   "phone": "3706106-2529",
+   "website": "https://www.stalozaidimai.eu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Swan of ball'n roll",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "K. Donelaičio g. 70b, Kaunas, 44241 Kauno m. sav.",
+   "website": "http://smagisritis.lt/",
+   "checked_at": "2026-10-17T05:19:35Z"
+  },
+  {
+   "name": "toybox",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Veiverių g. 171, Kaunas, 46422 Kauno m. sav.",
+   "phone": "0 700 33 322",
+   "website": "https://toybox.lt/",
+   "checked_at": "2026-10-17T05:19:32Z"
+  },
+  {
+   "name": "Treasure Hunt",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Savanorių pr., Kaunas, 44149 Kauno m. sav.",
+   "phone": "(0-626) 78769",
+   "website": "https://www.treasurehunt.lt/",
+   "checked_at": "2026-10-17T05:19:20Z"
+  },
+  {
+   "name": "Varvikas",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "phone": "610 4269",
+   "website": "https://varvikas.com/",
+   "checked_at": "2026-10-17T05:19:13Z"
+  },
+  {
+   "name": "Wargamer",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Šv. Stepono g. 5, 01139 Vilnius",
+   "phone": "(0-699) 89868",
+   "website": "http://www.wargamer.lt/",
+   "checked_at": "2026-10-17T05:18:49Z"
+  },
+  {
+   "name": "World of Games",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskritis",
+   "address": "Šv. Gertrūdos 42, Kaunas, NULL, 44261, Lithuania",
+   "phone": "+370+370 614 54842",
+   "website": "https://www.worldofgames.lt/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "zaiskit.lt",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Kalvarijų g. 119, 08220 Vilnius",
+   "phone": "(0-605) 04556",
+   "website": "https://zaiskit.lt/",
+   "checked_at": "2026-10-17T05:18:48Z"
+  },
+  {
+   "name": "Zaiskit24",
+   "group": "unknown",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Savanorių pr. 1, Vilnius, 03116 Vilniaus m. sav.",
+   "phone": "(0-604) 45826",
+   "website": "https://zaiskit24.lt/",
+   "checked_at": "2026-10-17T05:18:56Z"
+  },
+  {
+   "name": "Žaidimų Bazė",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "pirmas vagonėlis, Pramonės pr. 16, 51186 Kaunas",
+   "phone": "(0-601) 05047",
+   "website": "https://www.zaidimubaze.lt/",
+   "checked_at": "2026-10-17T05:19:49Z"
+  },
+  {
+   "name": "Žaislų planeta, PC \"Akropolis\"",
+   "group": "unknown",
+   "city": "Kaunas",
+   "region": "Kauno apskr.",
+   "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
+   "website": "https://www.zaisluplaneta.lt/lt/",
+   "checked_at": "2026-10-17T05:19:51Z"
+  }
+ ]
+}

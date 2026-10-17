@@ -1,0 +1,864 @@
+{
+ "country": "SK",
+ "currency": "EUR",
+ "updated": "2026-10-16",
+ "store_count": 87,
+ "stores": [
+  {
+   "name": "BEASTLAND",
+   "group": "login_required",
+   "region": "Nitriansky kraj",
+   "address": "Pri gymnáziu 9696/9, 940 02 Nové Zámky",
+   "phone": "0905 730 845",
+   "website": "https://beastland.eu/",
+   "checked_at": "2026-10-17T05:30:24Z"
+  },
+  {
+   "name": "Antikvariát",
+   "group": "blocked",
+   "region": "Košický kraj",
+   "address": "Zimná 1147/16, 040 01 Košice-Staré Mesto",
+   "phone": "055 625 23 95",
+   "website": "http://www.antikvart.sk/",
+   "checked_at": "2026-10-17T05:30:44Z"
+  },
+  {
+   "name": "Antikvariát",
+   "group": "blocked",
+   "region": "Košický kraj",
+   "address": "Bočná 2, 040 01 Košice-Staré Mesto",
+   "phone": "055 622 35 68",
+   "website": "http://www.antikvart.sk/",
+   "checked_at": "2026-10-17T05:30:44Z"
+  },
+  {
+   "name": "Krakencards.eu",
+   "group": "blocked",
+   "city": "Rovinka",
+   "region": "Bratislavský kraj",
+   "address": "34/27 Hlavná, Rovinka, Senec, 900 41, Slovakia",
+   "phone": "+421911426520",
+   "website": "https://krakencards.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "Cards & Collectibles - Řehulka",
+   "group": "in_store",
+   "region": "Bratislavský kraj",
+   "address": "Hviezdna 9368/38, 821 06 Bratislava",
+   "phone": "02 452 590 70",
+   "checked_at": "2026-10-17T05:30:18Z"
+  },
+  {
+   "name": "Decks and Drinks",
+   "group": "in_store",
+   "region": "Banskobystrický kraj",
+   "address": "Zámocká 7327/28, Bratislava, Bratislava-Hrad, 811 01, Slovakia",
+   "phone": "+421949371199",
+   "website": "https://www.facebook.com/profile.php?id=61585228877955",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "DZT Market",
+   "group": "in_store",
+   "city": "Košice",
+   "region": "Košický kraj",
+   "address": "Stálicová, 040 12 Košice-Nad jazerom",
+   "phone": "0908 359 916",
+   "checked_at": "2026-10-17T05:31:02Z"
+  },
+  {
+   "name": "Expres Stores Sk s.r.o.",
+   "group": "in_store",
+   "region": "Bratislavský kraj",
+   "address": "Vyšná 1633/9, 821 05 Bratislava",
+   "phone": "0902 492 939",
+   "checked_at": "2026-10-17T05:30:24Z"
+  },
+  {
+   "name": "Flea Market Domingos",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Trnavská cesta 33, 821 08 Bratislava-Nové Mesto",
+   "phone": "0915 397 088",
+   "checked_at": "2026-10-17T05:30:30Z"
+  },
+  {
+   "name": "iHRYsko",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Lamač 6780, 841 06 Bratislava",
+   "checked_at": "2026-10-17T05:30:15Z"
+  },
+  {
+   "name": "Papierníctvo a viac - Terasa",
+   "group": "in_store",
+   "region": "Košický kraj",
+   "address": "Narcisová 6, 040 11 Košice - mestská časť Západ",
+   "phone": "0915 929 200",
+   "checked_at": "2026-10-17T05:31:02Z"
+  },
+  {
+   "name": "Pocket Cards BS",
+   "group": "in_store",
+   "region": "Banskobystrický kraj",
+   "address": "Križovatka 910, 969 01 Banská Štiavnica",
+   "phone": "0917 431 503",
+   "checked_at": "2026-10-17T05:30:15Z"
+  },
+  {
+   "name": "Pocket Cards Zc",
+   "group": "in_store",
+   "region": "Banskobystrický kraj",
+   "address": "Slobody 807/2, 966 81 Žarnovica",
+   "phone": "0917 431 503",
+   "checked_at": "2026-10-17T05:30:19Z"
+  },
+  {
+   "name": "Pokemon Automat",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Panónska cesta 3507/25, 851 04 Bratislava-Petržalka",
+   "checked_at": "2026-10-17T05:30:19Z"
+  },
+  {
+   "name": "Questshop.sk",
+   "group": "in_store",
+   "region": "Trnavský kraj",
+   "address": "Hlavná 7/13, 917 01 Trnava, Slovakia, Trnavský kraj, 917 01",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:48Z"
+  },
+  {
+   "name": "Royal Games",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "2, Stará Prievozská 1349, 821 09 Bratislava-Ružinov",
+   "phone": "02 534 176 24",
+   "checked_at": "2026-10-17T05:30:24Z"
+  },
+  {
+   "name": "Sas és Kos",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": " +36 20 344 9800",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:46Z"
+  },
+  {
+   "name": "Slovak gift and souvenirs",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Hlavné námestie 353/2, 811 01 Bratislava-Staré Mesto",
+   "checked_at": "2026-10-17T05:30:19Z"
+  },
+  {
+   "name": "Souvenirs Klarisky",
+   "group": "in_store",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Klariská 324/6, 811 03 Bratislava-Staré Mesto",
+   "checked_at": "2026-10-17T05:30:15Z"
+  },
+  {
+   "name": "Svet duelov",
+   "group": "in_store",
+   "region": "Trenčiansky kraj",
+   "address": "Námestie slobody, 971 01 Prievidza, Slovakia, Trenčiansky kraj, 971 01",
+   "phone": "+421907332786",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:48Z"
+  },
+  {
+   "name": "Casino Rebuy Stars Košice",
+   "group": "not_buying_singles",
+   "city": "Košice",
+   "region": "Košický kraj",
+   "address": "Trolejbusová 6, 040 01 Košice-Džungľa",
+   "phone": "055 640 03 91",
+   "website": "https://www.rebuystars.sk/casino/pobocky/casino-kosice/1",
+   "buylist_url": "https://www.rebuystars.sk/retailer/buylist",
+   "checked_at": "2026-10-17T05:30:55Z"
+  },
+  {
+   "name": "Ľúbim Tvoriť - hobby eshop",
+   "group": "not_buying_singles",
+   "city": "Košice",
+   "region": "Košický kraj",
+   "address": "Poľov SK, Sadovnícka 277/3A, 040 15 Košice-Poľov",
+   "phone": "0915 058 520",
+   "website": "https://www.lubimtvorit.sk/",
+   "buylist_url": "https://www.lubimtvorit.sk/retailer/buylist",
+   "checked_at": "2026-10-17T05:30:55Z"
+  },
+  {
+   "name": "ALLTOYS",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "OC Cassovia, Pri prachárni 4, 040 11 Košice",
+   "phone": "0915 728 039",
+   "website": "https://www.sparkys.sk/",
+   "checked_at": "2026-10-17T05:30:54Z"
+  },
+  {
+   "name": "Alza",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Mlynské nivy 19034 / 5a, 821 09 Bratislava-Ružinov",
+   "phone": "02 571 018 00",
+   "website": "https://www.alza.sk/prodejna-bratislava-centrala-684.htm",
+   "checked_at": "2026-10-17T05:30:24Z"
+  },
+  {
+   "name": "ANIMIXX",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Gorkého 3, 811 01 Bratislava-Staré Mesto",
+   "phone": "0914 498 000",
+   "website": "https://animixx.eu/",
+   "checked_at": "2026-10-17T05:30:04Z"
+  },
+  {
+   "name": "ArtAttack Shop",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Námestie SNP 484/25, 811 01 Bratislava-Staré Mesto",
+   "phone": "0905 884 480",
+   "website": "https://artattackshop.sk/",
+   "checked_at": "2026-10-17T05:30:26Z"
+  },
+  {
+   "name": "Artforum Košice",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Hlavná 87, 040 01 Staré Mesto",
+   "phone": "055 623 26 77",
+   "website": "https://www.artforum.sk/clanky/knihkupectva",
+   "checked_at": "2026-10-17T05:30:36Z"
+  },
+  {
+   "name": "Belly Button",
+   "group": "unknown",
+   "address": "Timonova 13, Košice, Slovakia, 040 01, Slovakia",
+   "phone": "+421950582242",
+   "website": "https://bellybutton.sk/events",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:46Z"
+  },
+  {
+   "name": "BernyGold - darčeky",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "OC Cassovia, Pri prachárni 4, 040 11 Juh",
+   "phone": "0903 737 632",
+   "website": "http://darceky-bernygold.sk/",
+   "checked_at": "2026-10-17T05:30:48Z"
+  },
+  {
+   "name": "Card Empire",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "102 Slovnaftská, Bratislava, Bratislavský kraj, 821 07, Slovakia",
+   "phone": "+421903161779",
+   "website": "https://www.cardempire.sk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "CardyX",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Svätého Vincenta 5849/2, 821 04 Bratislava-Ružinov",
+   "phone": "0910 339 819",
+   "website": "https://www.cardyx.sk/",
+   "checked_at": "2026-10-17T05:29:57Z"
+  },
+  {
+   "name": "Cloudpost",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Vajnorská 100, 831 04 Bratislava-Ružinov",
+   "phone": "0902 362 306",
+   "website": "http://cloudpost.sk/m/",
+   "checked_at": "2026-10-17T05:30:15Z"
+  },
+  {
+   "name": "Collector Syndicate",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Tolstého 5, 811 06 Bratislava",
+   "phone": "0904 976 979",
+   "website": "http://cscardgrading.com/",
+   "checked_at": "2026-10-17T05:30:19Z"
+  },
+  {
+   "name": "Dazzle Colletibles",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "3228/9 Saratovská, Bratislava, Slovakia, 841 01, Slovakia",
+   "phone": "+4210903719873",
+   "website": "https://www.dazzle.sk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "Decks & Drinks",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Zámocká 7327/28, Hrad, 811 01 Bratislava-Staré Mesto, Slovakia, Bratislava, Bratislavský kraj, 811 01",
+   "phone": "+421 948 458 923",
+   "website": "https://linktr.ee/Decksndrinks_",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:49Z"
+  },
+  {
+   "name": "Decks & Drinks - Pokemon | MTG | Riftbound",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Zámocká 7327/28, Hrad, 811 01 Bratislava-Staré Mesto",
+   "phone": "0948 458 923",
+   "website": "https://linktr.ee/Decksndrinks_",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T05:29:54Z"
+  },
+  {
+   "name": "DRACO",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Trieda KVP 4, 040 23 Košice",
+   "phone": "0905 518 060",
+   "website": "https://eshop.draco.sk/",
+   "checked_at": "2026-10-17T05:30:32Z"
+  },
+  {
+   "name": "Dungeon Pub",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "14, Štefánikova 869, 811 05 Bratislava-Staré Mesto",
+   "phone": "0903 412 248",
+   "website": "https://www.dungeonpub.sk/",
+   "checked_at": "2026-10-17T05:30:29Z"
+  },
+  {
+   "name": "Eurogold (Košice, Ždiarska)",
+   "group": "unknown",
+   "city": "Košice",
+   "region": "Košický kraj",
+   "address": "Ždiarska 1445/17, 040 12 Košice-Nad jazerom",
+   "phone": "0914 123 321",
+   "website": "https://www.herne.eurogold.sk/prevadzky/kosice-zdiarska",
+   "checked_at": "2026-10-17T05:30:55Z"
+  },
+  {
+   "name": "FAMEX, Ltd.",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Výstavby 190/1, 040 11 Košice-Košice - mestská časť Západ",
+   "phone": "0910 941 161",
+   "website": "https://www.famexa.sk/",
+   "checked_at": "2026-10-17T05:30:48Z"
+  },
+  {
+   "name": "Fanatik",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Laurinská 6/209, 811 01 Bratislava-Staré Mesto",
+   "phone": "0905 707 707",
+   "website": "https://www.fanatik.sk/",
+   "checked_at": "2026-10-17T05:30:08Z"
+  },
+  {
+   "name": "Fantasy Store",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Vajnorská 1346/135, 831 04 Bratislava-Nové Mesto",
+   "phone": "0917 113 374",
+   "website": "https://www.fantasystore.sk/",
+   "checked_at": "2026-10-17T05:30:18Z"
+  },
+  {
+   "name": "FENIX Cards",
+   "group": "unknown",
+   "address": "95 Štefánikova, Trnava, Trnavský kraj, 917 01, Slovakia",
+   "phone": "+421 944351176",
+   "website": "https://www.erdecards.sk",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:25Z"
+  },
+  {
+   "name": "Filatelia - Numizmatika",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Lazaretská 2398/11, 811 08 Bratislava-Staré Mesto",
+   "phone": "02 529 674 11",
+   "website": "https://www.filatelia-album.sk/",
+   "checked_at": "2026-10-17T05:30:05Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "city": "Košice&nbsp",
+   "region": "Košický kraj",
+   "address": "Hlavná 35/64, 040 01 Košice&nbsp-Staré Mesto",
+   "phone": "0948 194 366",
+   "website": "https://flyingtiger.com/en-sk",
+   "checked_at": "2026-10-17T05:30:49Z"
+  },
+  {
+   "name": "Flying Tiger Copenhagen",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Moldavská cesta 32, 040 11 Košice",
+   "phone": "0948 091 447",
+   "website": "https://flyingtiger.com/en-sk",
+   "checked_at": "2026-10-17T05:30:56Z"
+  },
+  {
+   "name": "FUNTASTIC",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+421220750027",
+   "website": "https://www.funtastic.sk",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "Galaxy Club",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Bajzova 1436/2, 040 01 Staré Mesto",
+   "phone": "0910 955 107",
+   "website": "https://www.hernagalaxy.cz/sk/zoznam-herni/kosice-bajzova/",
+   "checked_at": "2026-10-17T05:30:59Z"
+  },
+  {
+   "name": "GETGAME - Sloveco s.ro.",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Popradská 66, 040 11 Košice-Košice - mestská časť Západ",
+   "phone": "0903 412 819",
+   "website": "https://www.getgame.sk/",
+   "checked_at": "2026-10-17T05:30:40Z"
+  },
+  {
+   "name": "HC Košice Fanshop",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Nerudova 1627/12, 040 01 Košice",
+   "phone": "0907 776 999",
+   "website": "https://www.onemerch.sk/",
+   "checked_at": "2026-10-17T05:30:44Z"
+  },
+  {
+   "name": "Historické darčeky",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Vyšehradská 12, 851 06 Bratislava-Petržalka",
+   "phone": "0908 819 474",
+   "website": "https://historickedarceky.sk",
+   "checked_at": "2026-10-17T05:30:17Z"
+  },
+  {
+   "name": "Hornbach",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Moldavská cesta 22, 040 11 Košice",
+   "phone": "055 783 30 00",
+   "website": "https://www.hornbach.sk/moja-predajna/predajna-hornbach-kosice/",
+   "checked_at": "2026-10-17T05:30:48Z"
+  },
+  {
+   "name": "House of Cards - Bernolakovo",
+   "group": "unknown",
+   "city": "Bernolákovo",
+   "region": "Bratislavský kraj",
+   "address": "Dukelska 26, Bernolakovo, Bratislava region, 90027, Slovakia",
+   "phone": "+421905325095",
+   "website": "https://www.houseofcards.sk",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "iHRYsko, Cloudpost",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Vajnorská 10645/100, Bratislava, BL, 83104, Slovakia",
+   "phone": "+421902362306",
+   "website": "https://www.ihrysko.sk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "Kartovo - Košice",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Mlynská 876/21, 040 01 Staré Mesto, Slovakia, Košický kraj, 040 01",
+   "phone": "0904 492 478",
+   "website": "https://www.kartovo.net/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:48Z"
+  },
+  {
+   "name": "Kartovo - Košice - Play Hub",
+   "group": "unknown",
+   "region": "Prešovský kraj",
+   "address": "Mlynská 876/21, Košice, Košický kraj, 04001, Slovakia",
+   "phone": "4214219104492478",
+   "website": "https://www.kartovo.net/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:47Z"
+  },
+  {
+   "name": "Kartovo Herňa - Košice",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Alžbetina 11, 040 01 Staré Mesto",
+   "phone": "0904 492 478",
+   "website": "https://www.kartovo.net/",
+   "checked_at": "2026-10-17T05:30:31Z"
+  },
+  {
+   "name": "KERE",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Bačíkova 1, 040 01 Košice-Staré Mesto",
+   "phone": "055 260 10 11",
+   "website": "https://www.kere.sk/",
+   "checked_at": "2026-10-17T05:30:54Z"
+  },
+  {
+   "name": "KPlayground SK | K-Pop Store",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Poštová 4, 811 06 Bratislava-Staré Mesto",
+   "website": "https://kplayground.sk/",
+   "checked_at": "2026-10-17T05:30:27Z"
+  },
+  {
+   "name": "Ludopolis",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "1.poschodie, Záhradnícka 95, 821 08 Bratislava",
+   "phone": "0948 188 211",
+   "website": "https://www.ludopolis.sk/",
+   "checked_at": "2026-10-17T05:30:13Z"
+  },
+  {
+   "name": "MADMAXON predajňa a herňa",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Heydukova 2140/5, 811 08 Bratislava-Staré Mesto",
+   "phone": "0948 668 869",
+   "website": "https://www.madmaxon.sk/",
+   "checked_at": "2026-10-17T05:29:59Z"
+  },
+  {
+   "name": "Martinus",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "OC Cubicon, Staré Grunty 24, 841 04 Bratislava",
+   "phone": "02 326 603 67",
+   "website": "https://www.martinus.sk/knihkupectva/bratislava-cubicon",
+   "checked_at": "2026-10-17T05:30:29Z"
+  },
+  {
+   "name": "Martinus",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "OC Galéria, Toryská 5, 040 11 Košice-Košice - mestská časť Západ",
+   "phone": "055 321 16 70",
+   "website": "https://www.martinus.sk/knihkupectva/kosice-urban",
+   "checked_at": "2026-10-17T05:31:02Z"
+  },
+  {
+   "name": "Martinus",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Hlavná 111, 040 01 Staré Mesto",
+   "phone": "055 555 52 58",
+   "website": "https://www.martinus.sk/",
+   "checked_at": "2026-10-17T05:31:03Z"
+  },
+  {
+   "name": "Martinus Bookstore",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "26, Obchodná 516, 811 06 Bratislava-Staré Mesto",
+   "phone": "02 326 603 66",
+   "website": "https://www.martinus.sk/knihkupectva/bratislava",
+   "checked_at": "2026-10-17T05:30:25Z"
+  },
+  {
+   "name": "Nekonecno.sk Bory Mall Bratislava",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Lamač 6780, Bory Mall, 841 03 Bratislava",
+   "phone": "0947 920 946",
+   "website": "https://www.nekonecno.sk/",
+   "checked_at": "2026-10-17T05:30:12Z"
+  },
+  {
+   "name": "Nekonecno.sk Eurovea Bratislava",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Eurovea, Pribinova 8, 811 09 Bratislava",
+   "phone": "0948 950 813",
+   "website": "https://www.nekonecno.sk/",
+   "checked_at": "2026-10-17T05:30:01Z"
+  },
+  {
+   "name": "Numizmatika Košice",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Mäsiarska 421/5, 040 01 Staré Mesto",
+   "website": "http://www.numizmatikakosice.sk/",
+   "checked_at": "2026-10-17T05:30:35Z"
+  },
+  {
+   "name": "OFFTRENDCLUB",
+   "group": "unknown",
+   "address": "Čulenova 9, Bratislava, Bratislava, 81109, Slovakia",
+   "phone": "+421911040888",
+   "website": "https://www.offtrendclub.com/collections/collectibles",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "OTS shop",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Tabačka Kulturfabrik, Gorkého 2, 040 01 Košice-Staré Mesto",
+   "phone": "0951 450 992",
+   "website": "http://www.overtime.sk/",
+   "checked_at": "2026-10-17T05:30:35Z"
+  },
+  {
+   "name": "Outdoorline",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Pri bitúnku 11, 040 01 Košice-Juh",
+   "phone": "0948 148 606",
+   "website": "https://www.outdoorline.eu/",
+   "checked_at": "2026-10-17T05:30:58Z"
+  },
+  {
+   "name": "Pikazard.eu",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "2616/14 Gessayova, Bratislava, Bratislava, 851 03, Slovakia",
+   "phone": "+421948639222",
+   "website": "https://www.pikazard.eu",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:20Z"
+  },
+  {
+   "name": "Player, Ltd.",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Pražská 502/4, 040 01 Košice",
+   "phone": "0948 950 446",
+   "website": "https://www.hrac.sk/",
+   "checked_at": "2026-10-17T05:30:52Z"
+  },
+  {
+   "name": "Pokeherna",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "M. R. Štefánika 21/11, 902 01 Pezinok",
+   "phone": "0911 843 838",
+   "website": "https://www.pokecenter.sk/",
+   "checked_at": "2026-10-17T05:29:56Z"
+  },
+  {
+   "name": "Poring Cards",
+   "group": "unknown",
+   "address": "8719/7 Dolnopotočná, Trnava, Trnava, 917 01, Slovakia",
+   "phone": "+421919129089",
+   "website": "https://www.poringcards.eu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:29:26Z"
+  },
+  {
+   "name": "Present for you",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Toryská 5, 040 11 Košice - mestská časť Západ",
+   "phone": "0905 200 709",
+   "website": "https://present4you.sk/",
+   "checked_at": "2026-10-17T05:30:48Z"
+  },
+  {
+   "name": "Rare Pocket - Pokémon obchod Bratislava",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "A, Kazanská 5, 821 06 Bratislava",
+   "phone": "0903 552 187",
+   "website": "https://www.rarepocket.sk/",
+   "checked_at": "2026-10-17T05:29:54Z"
+  },
+  {
+   "name": "Rollback Games",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Radlinského 2779/39, 811 07 Bratislava-Staré Mesto",
+   "phone": "0917 900 331",
+   "website": "https://www.rollback.sk/",
+   "checked_at": "2026-10-17T05:29:57Z"
+  },
+  {
+   "name": "Spellbook s.r.o.",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Vysoká 4265/25, 811 06 Bratislava, Slovakia, Bratislavský kraj, 811 06",
+   "phone": "0948 028 486",
+   "website": "http://www.spellbookstore.sk/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:48Z"
+  },
+  {
+   "name": "SportZoo, s. r. o.",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Stará Vajnorská 11, 831 04 Bratislava",
+   "phone": "0948 126 655",
+   "website": "https://sportzoo.sk/",
+   "checked_at": "2026-10-17T05:30:19Z"
+  },
+  {
+   "name": "TabletopWargamingSK",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Jarabinková 6B, 821 09 Bratislava",
+   "phone": "0908 105 233",
+   "website": "https://tabletopwargaming.sk/",
+   "checked_at": "2026-10-17T05:30:06Z"
+  },
+  {
+   "name": "Titi papiernictvo",
+   "group": "unknown",
+   "region": "Košický kraj",
+   "address": "Námestie osloboditeľov 1, 040 01 Košice-Staré Mesto",
+   "phone": "0905 035 031",
+   "website": "https://titi.shopweb.sk/",
+   "checked_at": "2026-10-17T05:30:35Z"
+  },
+  {
+   "name": "Tulnar",
+   "group": "unknown",
+   "region": "Banskobystrický kraj",
+   "address": "Vajanského 823/7, 984 01 Lučenec, Slovakia, Banskobystrický kraj, 984 01",
+   "phone": "+421 911 943 934",
+   "website": "https://www.tulnar.sk/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:29:47Z"
+  },
+  {
+   "name": "Umbreon SK",
+   "group": "unknown",
+   "city": "Bytča",
+   "region": "Žilinský kraj",
+   "address": "Pšurnovice 88, 014 01 Bytča",
+   "phone": "0918 787 252",
+   "website": "https://www.umbreon.sk/",
+   "checked_at": "2026-10-17T05:30:21Z"
+  },
+  {
+   "name": "Universal cards",
+   "group": "unknown",
+   "region": "Bratislavský kraj",
+   "address": "Polanki 66, 841 04 Bratislava",
+   "website": "https://patrikhrabovec.pb.online/universalcards",
+   "checked_at": "2026-10-17T05:30:15Z"
+  },
+  {
+   "name": "Vegas Hero SK",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Bočná 39, 821 04 Bratislava-Ružinov",
+   "phone": "01577 8564417",
+   "website": "https://vegas-hero.sk/",
+   "checked_at": "2026-10-17T05:30:30Z"
+  },
+  {
+   "name": "Šachový obchod e4e5",
+   "group": "unknown",
+   "city": "Bratislava",
+   "region": "Bratislavský kraj",
+   "address": "Klincová 35, 821 08 Bratislava-Ružinov",
+   "phone": "0903 793 013",
+   "website": "https://www.sachovyobchod.sk/",
+   "checked_at": "2026-10-17T05:30:15Z"
+  }
+ ]
+}

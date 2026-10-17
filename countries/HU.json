@@ -1,0 +1,907 @@
+{
+ "country": "HU",
+ "currency": "HUF",
+ "updated": "2026-10-16",
+ "store_count": 99,
+ "stores": [
+  {
+   "name": "Momoko - Japan Treats & Bubble Tea",
+   "group": "blocked",
+   "city": "Budapest",
+   "address": "Budapest, József krt. 46, 1085",
+   "phone": "06 30 924 5361",
+   "website": "https://momokoshop.hu/",
+   "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "Sakura TCG",
+   "group": "blocked",
+   "city": "Budapest",
+   "address": "Budapest, Kis Rókus u. 3, 1024",
+   "phone": "06 30 333 3734",
+   "website": "https://sakuratcg.hu/",
+   "checked_at": "2026-10-17T05:13:52Z"
+  },
+  {
+   "name": "Sárkánytűz Delta Vision",
+   "group": "blocked",
+   "city": "Budapest",
+   "address": "Budapest, Ferenc krt. 40, 1092",
+   "phone": "06 70 322 3093",
+   "website": "http://www.deltavision.hu/konyvek/delta-vision/",
+   "checked_at": "2026-10-17T05:13:56Z"
+  },
+  {
+   "name": "Alien Sport Cards",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Rózsakert u., 1223",
+   "phone": "06 20 530 7548",
+   "checked_at": "2026-10-17T05:14:36Z"
+  },
+  {
+   "name": "Authentic Cards Company",
+   "group": "in_store",
+   "city": "Debrecen",
+   "address": "Debrecen, Budai Nagy Antal u., 4033",
+   "phone": "06 30 546 5995",
+   "checked_at": "2026-10-17T05:15:32Z"
+  },
+  {
+   "name": "Bihar Antikvárium és Könyvesbolt",
+   "group": "in_store",
+   "city": "Debrecen",
+   "address": "Debrecen, Piac u. 26/b, 4025",
+   "phone": "(06 52) 314 780",
+   "checked_at": "2026-10-17T05:15:38Z"
+  },
+  {
+   "name": "Dózsa Konzol Shop",
+   "group": "in_store",
+   "city": "Debrecen",
+   "address": "Debrecen, Dózsa György u. 18, 4027",
+   "phone": "06 20 572 0014",
+   "website": "https://hu-hu.facebook.com/pages/category/Video-Game/D%C3%B3zsa-Konzol-Shop-1535415546679925/",
+   "checked_at": "2026-10-17T05:15:26Z"
+  },
+  {
+   "name": "Ecseri Flea Market",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Nagykőrösi út 156, 1194",
+   "checked_at": "2026-10-17T05:14:42Z"
+  },
+  {
+   "name": "Hungary toys kft",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Zay út 3, 1037",
+   "phone": "06 70 244 0099",
+   "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "L.O.G.-I.N. – World",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Galopp u., 1048",
+   "phone": "06 30 798 5895",
+   "checked_at": "2026-10-17T05:14:00Z"
+  },
+  {
+   "name": "Market1 Hungarian Souvenir and Gift Shop",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Vigadó u. 7, 1051",
+   "phone": "(06 1) 206 6255",
+   "checked_at": "2026-10-17T05:14:17Z"
+  },
+  {
+   "name": "One of One Hunters",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Petőfi Sándor u, 1108",
+   "checked_at": "2026-10-17T05:14:31Z"
+  },
+  {
+   "name": "RB Cards Hungary",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Nagykőrösi út 53, 1203",
+   "phone": "06 20 801 2837",
+   "checked_at": "2026-10-17T05:14:36Z"
+  },
+  {
+   "name": "Retró Souvenir",
+   "group": "in_store",
+   "city": "Szentendre",
+   "address": "Szentendre, Rév u. 2, 2000",
+   "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "Sarkanytuz - Budapest",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+36 (0) 703223093",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "The Biggest Souvenir Shop-Market in Budapest",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Deák Ferenc u. 12, 1051",
+   "phone": "06 30 924 4917",
+   "checked_at": "2026-10-17T05:14:21Z"
+  },
+  {
+   "name": "The Guild House",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Benczúr Tér 19, Nyíregyháza, Szabolcs-Szatmár-Bereg, 4400, Hungary",
+   "phone": "+36703640770",
+   "website": "https://www.facebook.com/profile.php?id=61588933164105",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Trading Card Automat",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, C595+63, 1239",
+   "checked_at": "2026-10-17T05:13:59Z"
+  },
+  {
+   "name": "Airsoftguru Kft",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Bejárat az utcáról!, Gubacsi út 6-d-1. épület, 1. ajtó, 1097",
+   "phone": "(06 1) 249 5145",
+   "website": "https://airsoftguru.hu/",
+   "checked_at": "2026-10-17T05:14:49Z"
+  },
+  {
+   "name": "Alanor Store",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Árpád út 47-49-Springday épület, földszint 24, 1042",
+   "phone": "06 20 326 2558",
+   "website": "https://www.alanor.hu/index.php?route=common/maintenance",
+   "checked_at": "2026-10-17T05:13:48Z"
+  },
+  {
+   "name": "Alza.hu",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Róbert Károly körút 54-58, 1134",
+   "phone": "(06 1) 701 1111",
+   "website": "https://www.alza.hu/uzlet-budapest-951.htm",
+   "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "Aria's Cardshop",
+   "group": "unknown",
+   "address": "39 Rottenbiller u., Budapest, Budapest, 1071, Hungary",
+   "phone": "32363-0362-2220",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Bermudakonzol videojátéküzlet",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, II. Rákóczi Ferenc út 97-105, 1211",
+   "phone": "06 70 272 1603",
+   "website": "https://bermudakonzol.hu/",
+   "checked_at": "2026-10-17T05:15:01Z"
+  },
+  {
+   "name": "Bomo Art Budapest",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Régi posta utca 14, 1052",
+   "phone": "06 20 594 2223",
+   "website": "https://www.bomoart.hu/",
+   "checked_at": "2026-10-17T05:14:54Z"
+  },
+  {
+   "name": "Cambet Cards",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Ungvár u. 64-2.emelet, 228.ajtó, 1142",
+   "phone": "06 70 450 8810",
+   "website": "https://www.cambetcards.hu/",
+   "checked_at": "2026-10-17T05:13:59Z"
+  },
+  {
+   "name": "Cardempire",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Váci út 20-26, Budapest, Budapest, 1132, Hungary",
+   "phone": "+36301261933",
+   "website": "https://www.cardempire.hu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Cardverse – Kártya és Gyűjtői Bolt",
+   "group": "unknown",
+   "city": "Szombathely",
+   "address": "Szombathely, Uránia udvar 4, 9700",
+   "phone": "06 30 994 7378",
+   "website": "https://www.cardverse.hu/",
+   "checked_at": "2026-10-17T05:14:01Z"
+  },
+  {
+   "name": "ComPaYa társasjáték és puzzle szakbolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Szentmihályi út 167-169, 1152",
+   "phone": "06 20 428 1186",
+   "website": "https://www.compaya.hu/",
+   "checked_at": "2026-10-17T05:14:33Z"
+  },
+  {
+   "name": "Concard Studio Bt.",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Komáromi út 21, 1142",
+   "phone": "(06 1) 363 0287",
+   "website": "http://www.concard.hu/",
+   "checked_at": "2026-10-17T05:14:42Z"
+  },
+  {
+   "name": "CreativeCraftKits",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Vágóhíd u. 2-6-os épület, 4034",
+   "website": "https://creativecraftkits.com/",
+   "checked_at": "2026-10-17T05:15:32Z"
+  },
+  {
+   "name": "CURIOCITY Kft.",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Budafoki út 31, 1111",
+   "phone": "06 30 297 3880",
+   "website": "https://www.curiocity.hu/",
+   "checked_at": "2026-10-17T05:14:25Z"
+  },
+  {
+   "name": "Debrecen Plaza",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Péterfia u. 18, 4026",
+   "phone": "06 30 738 1780",
+   "website": "https://debrecenplaza.hu/",
+   "checked_at": "2026-10-17T05:15:32Z"
+  },
+  {
+   "name": "Debreceni Pagony",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Batthyány u. 11, 4024",
+   "phone": "06 30 076 6722",
+   "website": "https://debreceni.pagony.hu/",
+   "checked_at": "2026-10-17T05:15:25Z"
+  },
+  {
+   "name": "Deckmaster",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Esztergomi út 66, 1138",
+   "website": "https://deckmaster.hu/impresszum",
+   "checked_at": "2026-10-17T05:14:31Z"
+  },
+  {
+   "name": "Deckmaster - Prémium kártya webáruház",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Zengő utca 13, 4030",
+   "website": "https://deckmaster.hu/",
+   "checked_at": "2026-10-17T05:15:09Z"
+  },
+  {
+   "name": "DragonShop szerepjáték bolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Izabella u. 45, 1064",
+   "phone": "06 30 076 3034",
+   "website": "https://dragonshop.hu/",
+   "checked_at": "2026-10-17T05:13:58Z"
+  },
+  {
+   "name": "Dungeon Szerepjáték Szaküzlet és Klub",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Erzsébet krt. 37, 1073",
+   "phone": "(06 1) 321 1313",
+   "website": "http://dungeon.hu/",
+   "checked_at": "2026-10-17T05:14:23Z"
+  },
+  {
+   "name": "Dupla Egy",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Üllői út 55, 1094",
+   "phone": "06 20 475 5795",
+   "website": "https://duplaegy.hu/",
+   "checked_at": "2026-10-17T05:14:17Z"
+  },
+  {
+   "name": "Fantasmania.hu Figura- Játékbolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Üllői út 66c, 1082",
+   "website": "https://fantasmania.hu/",
+   "checked_at": "2026-10-17T05:14:17Z"
+  },
+  {
+   "name": "Final Games",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Fiastyúk u. 31-33, 1139",
+   "phone": "06 30 734 4763",
+   "website": "https://finalgames.hu/",
+   "checked_at": "2026-10-17T05:14:53Z"
+  },
+  {
+   "name": "Fradi Shop",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Üllői út 129, 1091",
+   "phone": "06 30 108 4384",
+   "website": "https://shop.fradi.hu/",
+   "checked_at": "2026-10-17T05:14:32Z"
+  },
+  {
+   "name": "Franco-Trade Kft",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Vágóhíd u. 7, 4030",
+   "phone": "06 20 265 9507",
+   "website": "https://francotrade.hu/",
+   "checked_at": "2026-10-17T05:15:26Z"
+  },
+  {
+   "name": "Gameceunami",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Kishegyesi út 162-Iem 2.ajtó, 4031",
+   "website": "https://gamecunami.hu/",
+   "checked_at": "2026-10-17T05:15:21Z"
+  },
+  {
+   "name": "Gamer Tech Kft.",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Corvin köz 4, 1082",
+   "phone": "06 70 776 7875",
+   "website": "https://www.gamertech.hu/",
+   "checked_at": "2026-10-17T05:14:54Z"
+  },
+  {
+   "name": "Gasztro Kártya Kft.",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Mátyás király út 25, 1039",
+   "website": "http://www.gastro-card.hu/",
+   "checked_at": "2026-10-17T05:14:03Z"
+  },
+  {
+   "name": "GeekCorner",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Már bezárták.Csak raktár. Személyes vásárlásra nincs lehetőség, Késmárk u 16, 1158",
+   "phone": "06 30 138 0926",
+   "website": "https://geekcorner.hu/",
+   "checked_at": "2026-10-17T05:14:10Z"
+  },
+  {
+   "name": "Geekstore",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Teréz krt. 9, 1067",
+   "phone": "06 30 263 2625",
+   "website": "https://www.geekstore.hu/",
+   "checked_at": "2026-10-17T05:13:49Z"
+  },
+  {
+   "name": "GFOX Sport Cards",
+   "group": "unknown",
+   "city": "Nyíregyháza",
+   "address": "Nyíregyháza, Debreceni út 2, 4400",
+   "phone": "06 30 955 8826",
+   "website": "https://gfox.hu/",
+   "checked_at": "2026-10-17T05:15:25Z"
+  },
+  {
+   "name": "Gémklub - Társasjáték, játékbolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, József krt. 83, 1085",
+   "phone": "06 20 263 3534",
+   "website": "https://www.gemklub.hu/",
+   "checked_at": "2026-10-17T05:14:13Z"
+  },
+  {
+   "name": "ITC Shop - ITC Sportkártya Kft.",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Kígyó u., 4029",
+   "phone": "06 20 235 4917",
+   "website": "https://www.itcshop.hu/",
+   "checked_at": "2026-10-17T05:15:18Z"
+  },
+  {
+   "name": "JK Keresztény Ékszer - és Ajándékbolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Dohány u. 80, 1074",
+   "phone": "06 30 855 5728",
+   "website": "https://www.jkkeresztenyajandek.com/",
+   "checked_at": "2026-10-17T05:14:39Z"
+  },
+  {
+   "name": "Joker Magic Magic Store",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Erzsébet krt. 16, 1073",
+   "phone": "(06 1) 950 9400",
+   "website": "https://www.jokermagic.com/",
+   "checked_at": "2026-10-17T05:14:00Z"
+  },
+  {
+   "name": "Judapest - Jewish Design Store & Gifts",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, 1075, Kazinczy u. 52, 1075",
+   "website": "https://judapest.store/",
+   "checked_at": "2026-10-17T05:14:37Z"
+  },
+  {
+   "name": "Játék Céh",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+36) 202602939",
+   "website": "https://www.jatekceh.hu",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "JátékNet - Debrecen Fórum",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Csapó u. 30-1. emelet, 4029",
+   "phone": "(06 1) 700 4230",
+   "website": "https://www.jateknet.hu/",
+   "checked_at": "2026-10-17T05:15:10Z"
+  },
+  {
+   "name": "JátékNet.hu",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Szikratávíró u. 12, 1211",
+   "phone": "(06 1) 700 4230",
+   "website": "https://www.jateknet.hu/",
+   "checked_at": "2026-10-17T05:14:58Z"
+  },
+  {
+   "name": "King Cobra Cards",
+   "group": "unknown",
+   "city": "Halásztelek",
+   "address": "Halásztelek, Dózsa György u. 39, 2314",
+   "phone": "06 20 242 6699",
+   "website": "https://cobracard.hu/",
+   "checked_at": "2026-10-17T05:14:16Z"
+  },
+  {
+   "name": "King of Hoops Sports cards & Memorabilia",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Apáczai Csere János u. 17, 1051",
+   "phone": "06 30 874 9828",
+   "website": "https://www.kingofhoops.eu/",
+   "checked_at": "2026-10-17T05:13:52Z"
+  },
+  {
+   "name": "Knowland Games - Pixeland LED-padló & VR",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Miklós u. 47-49/A, 4025",
+   "phone": "06 50 106 5029",
+   "website": "https://knowland.hu/",
+   "checked_at": "2026-10-17T05:15:35Z"
+  },
+  {
+   "name": "Konzol Stúdió",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Kinizsi u. 21-25, 1092",
+   "phone": "06 20 988 8337",
+   "website": "https://www.konzolstudio.hu/",
+   "checked_at": "2026-10-17T05:14:54Z"
+  },
+  {
+   "name": "KonzolGame",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Kresz Géza u 10, 1137",
+   "phone": "06 30 792 2283",
+   "website": "https://www.konzolgame.hu/",
+   "checked_at": "2026-10-17T05:14:21Z"
+  },
+  {
+   "name": "Konzolgamer shop",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Angyal u. 13, 1094",
+   "phone": "06 70 241 9995",
+   "website": "http://konzolgamershop.hu/",
+   "checked_at": "2026-10-17T05:14:25Z"
+  },
+  {
+   "name": "M's Card Shack",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Péterfia u. 18, 4026",
+   "website": "https://linktr.ee/mscardshack",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T05:15:04Z"
+  },
+  {
+   "name": "Magyar kincsek boltja / debreceni ajándék, magyar szuvenír",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Kálvin tér 5/A, 4026",
+   "phone": "06 20 354 3147",
+   "website": "https://magyarosajandek.hu/",
+   "checked_at": "2026-10-17T05:15:29Z"
+  },
+  {
+   "name": "Managertoys - LEGO Only",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Váci u 4, 1052",
+   "phone": "06 30 954 1874",
+   "website": "https://brickbunker.hu/",
+   "checked_at": "2026-10-17T05:15:03Z"
+  },
+  {
+   "name": "Marvel Shop",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Füredi út 27-1. em. Malompark, 4027",
+   "phone": "(06 52) 745 614",
+   "website": "https://www.marvelshop.hu/",
+   "checked_at": "2026-10-17T05:15:24Z"
+  },
+  {
+   "name": "Metagame Kártya-, és Társasjáték Bolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Kádár u. 10, 1132",
+   "phone": "(06 1) 794 4116",
+   "website": "https://www.metagames.hu/",
+   "checked_at": "2026-10-17T05:13:44Z"
+  },
+  {
+   "name": "Metagame Kártyabolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+36 1794 4116",
+   "website": "https://www.metagames.hu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Myth Games",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Bolgárkertész u. 27, 1148",
+   "phone": "06 30 350 2012",
+   "website": "https://mythgames.eu/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+   "checked_at": "2026-10-17T05:13:49Z"
+  },
+  {
+   "name": "Pixel Trading House Ltd.",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Thököly út 31-33, 1146",
+   "phone": "(06 1) 321 2909",
+   "website": "https://pixel.hu/",
+   "checked_at": "2026-10-17T05:14:44Z"
+  },
+  {
+   "name": "PlatinumShop Bajcsy",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Bajcsy-Zsilinszky út 56, 1054",
+   "phone": "(06 1) 302 6126",
+   "website": "https://www.platinumshop.hu/",
+   "checked_at": "2026-10-17T05:14:21Z"
+  },
+  {
+   "name": "Playbox",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Miklós u. 45, 4030",
+   "phone": "(06 52) 955 233",
+   "website": "http://www.playboxkonzol.hu/",
+   "checked_at": "2026-10-17T05:15:21Z"
+  },
+  {
+   "name": "Pokéka Angol és Japán Pokémon kártya-, és hobbi bolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Reitter Ferenc u. 35-37, 1135",
+   "website": "https://pokeka.hu/",
+   "checked_at": "2026-10-17T05:13:49Z"
+  },
+  {
+   "name": "Popkultshop",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Bársony utca, 4031",
+   "phone": "06 70 562 7162",
+   "website": "https://www.popkultshop.hu/",
+   "checked_at": "2026-10-17T05:15:17Z"
+  },
+  {
+   "name": "Pöttyös Zebra Játékbolt",
+   "group": "unknown",
+   "city": "Szeged",
+   "address": "Szeged, Jókai u. 7, 6720 Hungary, Szeged, 6720",
+   "phone": "+36 20 284 4516",
+   "website": "https://pottyoszebra.hu/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "RajzfilmJátékok játékbolt - Toy Store Budapest",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Ferenc krt. 28, 1092",
+   "phone": "06 70 306 2454",
+   "website": "https://www.rajzfilmjatekok.hu/?utm_source=map&utm_medium=map&utm_campaign=map",
+   "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "Ratmayer",
+   "group": "unknown",
+   "city": "Sé",
+   "address": "Sé, Várhegyi Károly u. 14, 9789 Hungary, Sé, 9789",
+   "phone": "+36 30 630 0237",
+   "website": "https://www.ratmayer.hu/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Reflexshop - Debreceni iroda és átvételi pont",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Sámsoni út 16/A, 4028",
+   "phone": "(06 1) 773 3600",
+   "website": "https://reflexshop.hu/",
+   "checked_at": "2026-10-17T05:15:10Z"
+  },
+  {
+   "name": "Reflexshop Boardgame Shop",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Eötvös u. 39, 1067",
+   "phone": "(06 1) 773 3600",
+   "website": "https://reflexshop.hu/",
+   "checked_at": "2026-10-17T05:14:05Z"
+  },
+  {
+   "name": "Regiment Toy Store",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Teréz krt. 32, 1066",
+   "phone": "(06 1) 302 8751",
+   "website": "https://olomkatonak.hu/",
+   "checked_at": "2026-10-17T05:14:14Z"
+  },
+  {
+   "name": "REGIO JÁTÉK",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Városkapu u. 7, 1152",
+   "phone": "(06 1) 414 0054",
+   "website": "https://www.regiojatek.hu/aruhaz-20-m3_varoskapu.html",
+   "checked_at": "2026-10-17T05:14:41Z"
+  },
+  {
+   "name": "REGIO JÁTÉK - Debrecen",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Balmazújvárosi út 29, 4002",
+   "phone": "(06 52) 457 965",
+   "website": "https://www.regiojatek.hu/aruhaz-3-debrecen.html",
+   "checked_at": "2026-10-17T05:15:14Z"
+  },
+  {
+   "name": "Remetebarlang",
+   "group": "unknown",
+   "city": "Vác",
+   "address": "Marcius 15 tér 16-18 fez. 14., Vác, PE, 2600, Hungary",
+   "phone": "+36709469369",
+   "website": "https://tarsasjatekvac.hu/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "Retro-Games.hu webáruház - Retro PC titles with a small console selection",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Budafoki út 34/b. fsz. 3, 1111",
+   "phone": "(06 1) 781 3578",
+   "website": "https://retro-games.hu/hu",
+   "checked_at": "2026-10-17T05:14:36Z"
+  },
+  {
+   "name": "Rock Inferno // Rock & Metal Shop",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Szófia u. 5, 1068",
+   "phone": "06 20 289 0296",
+   "website": "https://rockinferno.hu/",
+   "checked_at": "2026-10-17T05:14:38Z"
+  },
+  {
+   "name": "SakuraZaka",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Erkel u. 6, 1092",
+   "phone": "(06 1) 950 5138",
+   "website": "https://sakurazaka.hu/",
+   "checked_at": "2026-10-17T05:14:19Z"
+  },
+  {
+   "name": "Silverland",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Lajos u. 40, 1036",
+   "phone": "(06 1) 250 4157",
+   "website": "http://www.silverland.hu/",
+   "checked_at": "2026-10-17T05:13:56Z"
+  },
+  {
+   "name": "Szellemlovas Board Games store",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Szondi u. 18/A, 1067",
+   "phone": "06 30 363 2344",
+   "website": "https://www.szellemlovas.hu/",
+   "checked_at": "2026-10-17T05:13:56Z"
+  },
+  {
+   "name": "Szoti Kft. - Játék, ajándék, illatszer, vegyiáru áruház",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Galamb u. 3, 4030",
+   "phone": "(06 52) 448 585",
+   "website": "https://jatekajandekaruhaz.hu/",
+   "checked_at": "2026-10-17T05:15:24Z"
+  },
+  {
+   "name": "Szputnyik shop D20",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Dohány u. 20, 1074",
+   "phone": "(06 1) 321 3730",
+   "website": "https://szputnyikshop.hu/",
+   "checked_at": "2026-10-17T05:14:44Z"
+  },
+  {
+   "name": "Szupi Shop",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Boráros tér 7-Emelet / 44. üzlet, 1095",
+   "phone": "06 30 684 7600",
+   "website": "https://szupishop.hu/",
+   "checked_at": "2026-10-17T05:15:02Z"
+  },
+  {
+   "name": "SzívKártya",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Szív u., 1063",
+   "phone": "(06 25) 314 764",
+   "website": "http://szivkartya.hu/impresszum",
+   "checked_at": "2026-10-17T05:14:48Z"
+  },
+  {
+   "name": "Tavern",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Kossuth utca 7. - Gambrinus Köz, Debrecen, Hajdu-Bihar, 4024, Hungary",
+   "phone": "+36705430443",
+   "website": "https://www.tavern.hu/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
+   "name": "TCGbolt",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Duna Ház, Boráros tér 7-földszint, 13-14-15. üzlet, 1095",
+   "website": "https://tcgbolt.hu/",
+   "checked_at": "2026-10-17T05:13:48Z"
+  },
+  {
+   "name": "The Card Corner - Sportkártya szaküzlet",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Dembinszky u. 29, 1071",
+   "phone": "06 70 770 0436",
+   "website": "https://www.thecardcorner.eu/",
+   "checked_at": "2026-10-17T05:13:55Z"
+  },
+  {
+   "name": "The Royal Cards",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Bartók Béla út, 1114",
+   "phone": "06 70 406 7581",
+   "website": "https://theroyalcards.hu/",
+   "checked_at": "2026-10-17T05:14:52Z"
+  },
+  {
+   "name": "Top Deck Budapest",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Semmelweis u. 15, 1052",
+   "phone": "06 30 970 8778",
+   "website": "https://topdeckbp.com/",
+   "checked_at": "2026-10-17T05:13:46Z"
+  },
+  {
+   "name": "ToysLand",
+   "group": "unknown",
+   "city": "Debrecen",
+   "address": "Debrecen, Balaton u. 40, 4030",
+   "phone": "06 20 326 4231",
+   "website": "http://toysland.hu/",
+   "checked_at": "2026-10-17T05:15:36Z"
+  },
+  {
+   "name": "Woodpecker Toy Store",
+   "group": "unknown",
+   "city": "Budapest",
+   "address": "Budapest, Erzsébet krt. 23, 1072",
+   "phone": "(06 1) 322 3885",
+   "website": "https://www.fakopancs.hu/",
+   "checked_at": "2026-10-17T05:15:02Z"
+  }
+ ]
+}

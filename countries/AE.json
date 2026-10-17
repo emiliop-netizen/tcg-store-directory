@@ -1,0 +1,2323 @@
+{
+ "country": "AE",
+ "currency": "AED",
+ "updated": "2026-10-16",
+ "store_count": 240,
+ "stores": [
+  {
+   "name": "Card Oasis",
+   "group": "login_required",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "E-40 Muroor Rd - Al Sa`Adah - Zone 1 - Abu Dhabi",
+   "phone": "050 124 2703",
+   "website": "https://cardoasis.ae/",
+   "buylist_url": "https://cardoasis.ae/pages/buylist",
+   "mail_in": true,
+   "checked_at": "2026-10-17T05:44:38Z"
+  },
+  {
+   "name": "Al Nahda Gifts Center",
+   "group": "blocked",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Tuliatela St - Hay Al Nahda - Sharjah",
+   "phone": "052 406 1122",
+   "website": "http://www.alnahdagiftcenter.com/",
+   "checked_at": "2026-10-17T05:45:44Z"
+  },
+  {
+   "name": "AL RAHB TR LLC",
+   "group": "blocked",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Shop 139 1st Floor - Sharjah rolla mall - شارع العروبة - الغوير - حي الغرب - الشارقة",
+   "phone": "055 323 2243",
+   "website": "https://alrahbstore.com/",
+   "checked_at": "2026-10-17T05:45:58Z"
+  },
+  {
+   "name": "AMASI STATIONERY TRADING LLC & PRINDING - أماسي لتجارة القرطاسية",
+   "group": "blocked",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Building 182 - الجَرَايِد - Mohamed Bin Zayed City - ME10 - Abu Dhabi",
+   "phone": "056 207 3339",
+   "website": "http://amasitrading.ae/",
+   "checked_at": "2026-10-17T05:45:12Z"
+  },
+  {
+   "name": "Back to Games - Abu Dhabi Mall",
+   "group": "blocked",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Abu Dhabi Mall, Al Maiyani St, 3rd Floor, Abu Dhabi Mall - مول أبو ظبي - الطابق - Al Zahiyah - E16 01 - Abu Dhabi",
+   "phone": "050 333 4967",
+   "website": "https://www.backtogames.com/",
+   "checked_at": "2026-10-17T05:44:35Z"
+  },
+  {
+   "name": "Back to Games - Town Center Jumeirah",
+   "group": "blocked",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Town Center, Jumeirah, Ground Floor - شارع جميرا - جميرا ١ - جميرا - دبي",
+   "phone": "050 335 0283",
+   "website": "https://www.backtogames.com/?srsltid=AfmBOoqfWXGHVvWEH894kldnLIeXZNoPxZj7jblPsWeqw-zND0x4ZGWU",
+   "checked_at": "2026-10-17T05:43:50Z"
+  },
+  {
+   "name": "Back to Games - Town Centre Jumeirah",
+   "group": "blocked",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Town Center Jumeirah, Ground Floor, , Dubai, DU, 0000, United Arab Emirates",
+   "phone": "971503350283",
+   "website": "https://www.backtogames.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Comicave Toys and Games Trading LLC",
+   "group": "blocked",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Route 66 - Al Ain - Dubai Rd - Madinat Hind 1 - Dubai Outlet Mall, DUBAI, DUBAI, 115648, United Arab Emirates",
+   "phone": "+04971566862201",
+   "website": "https://store.comicave.com/en/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "DESCO Copy & Print Center - Defence road, Abu Dhabi (Photo Studio)",
+   "group": "blocked",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Shop No: 2 Hazza ' Bin Zayed The First St - Al Nahyan - E19 02 - Abu Dhabi",
+   "phone": "02 643 1935",
+   "website": "http://www.descoonline.com/desco-copy-print-center-defence-road-abu-dhabi/",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Excellence Attar Perfume Trading LLC",
+   "group": "blocked",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "Amber Gem Tower - Mezzanine Floor Sheikh Khalifa Bin Zayed St - Al Rashidiya 3 - Ajman",
+   "phone": "058 814 1372",
+   "website": "https://excellenceattar.com/",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Geekay - City Centre Al Zahia",
+   "group": "blocked",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Zahia - University City Rd - Muwaileh Commercial - Al Zahia - Sharjah",
+   "phone": "056 404 0277",
+   "website": "https://www.geekay.com/",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
+   "name": "Geekay - Dalma Mall",
+   "group": "blocked",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Unit no. FF116, First Floor, Dalma Mall - مدينة أبوظبى الصناعية - ايكاد 1 - أبو ظبي",
+   "phone": "056 536 4840",
+   "website": "https://www.geekay.com/",
+   "checked_at": "2026-10-17T05:45:07Z"
+  },
+  {
+   "name": "Geekay - Dubai Hills Mall",
+   "group": "blocked",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Shop no. FF-160, 1st Floor, Dubai Hills Mall - حدائق الشيخ محمد بن راشد - دبي",
+   "phone": "056 404 0660",
+   "website": "https://www.geekay.com/",
+   "checked_at": "2026-10-17T05:44:25Z"
+  },
+  {
+   "name": "GEEKAY MIRDIFF CITY CENTRE - GMC",
+   "group": "blocked",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "F103, First Floor, Mirdiff City Centre - Sheikh Mohammed Bin Zayed Rd, DUBAI, UAE, 0000, United Arab Emirates",
+   "phone": "+971565337953",
+   "website": "https://www.geekay.com/?srsltid=AfmBOopNf69ouhb8EAx486qvxJho99KS4yuVyJf1IsSXP5V28-GOXMOy",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Hamleys | Dubai Mall",
+   "group": "blocked",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Unit SF - 078 - شارع المركز المالي - برج خليفة - وسط مدينة دبي - دبي",
+   "phone": "04 339 8889",
+   "website": "https://www.hamleys.com/",
+   "checked_at": "2026-10-17T05:44:26Z"
+  },
+  {
+   "name": "Sahara Centre",
+   "group": "blocked",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Nahda St - Hay Al Nahda - Al Nahda - Sharjah",
+   "phone": "06 531 6611",
+   "website": "https://www.saharacentre.com/",
+   "checked_at": "2026-10-17T05:45:58Z"
+  },
+  {
+   "name": "SEREEN STATIONERY & OFFICE SUPPLY",
+   "group": "blocked",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Sharq St - Al Naba'a - Sharjah",
+   "phone": "055 275 8267",
+   "website": "http://sereengeneral.com/",
+   "checked_at": "2026-10-17T05:45:52Z"
+  },
+  {
+   "name": "TCG HYPE",
+   "group": "blocked",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Retail 2 Ground Floor, Sheikha Yazia Building - United Ar - 11 شارع الرَّاحة - الرَّاحَة - شاطئ الراحة غرب 5 - أبو ظبي",
+   "phone": "02 585 5299",
+   "website": "https://www.tcghype.ae/",
+   "checked_at": "2026-10-17T05:44:34Z"
+  },
+  {
+   "name": "ABAD TRADERS AND DEVELOPERS UAE",
+   "group": "in_store",
+   "city": "123assd",
+   "region": "Dubai",
+   "address": "123assd - Al Wasl - Dubai",
+   "phone": "056 726 4581",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "ABCO",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "8CP6+FR2 - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 533 1491",
+   "checked_at": "2026-10-17T05:44:17Z"
+  },
+  {
+   "name": "Abu Dhabi Duty Free",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Abu Dhabi - Al Matar - Zayed International Airport - Abu Dhabi",
+   "checked_at": "2026-10-17T05:44:41Z"
+  },
+  {
+   "name": "ACC Trading FZE",
+   "group": "in_store",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Block B - الرملة - SRTI Park - الشارقة",
+   "phone": "055 690 9536",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Adnan ab Rauof used car and spar part",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Sewak St - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "050 747 5330",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Al aouz 4",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "5722+H87 - Al Qouz Fourth - Al Quoz - Dubai",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "Al Arooj Silver Trading LLC Sharjah",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Gold Souq),Bridge no:2, Central Market - Shop no:19 King Faisal St - Al Majaz District - Al Majaz - Sharjah",
+   "phone": "056 109 6786",
+   "checked_at": "2026-10-17T05:45:52Z"
+  },
+  {
+   "name": "Al Bushra Trading",
+   "group": "in_store",
+   "city": "Al Ain",
+   "region": "Abu Dhabi",
+   "address": "6Q75+7XJ - Al Jahili - Al Marayegh - Abu Dhabi",
+   "phone": "03 766 4467",
+   "checked_at": "2026-10-17T05:45:12Z"
+  },
+  {
+   "name": "AL NAJM AL QAMAR STAMPS, PRINTING & TYPING SERVICES",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Fire Station Road - Muwaileh - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "052 800 7041",
+   "checked_at": "2026-10-17T05:45:47Z"
+  },
+  {
+   "name": "al noor trading",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Deira Tower - 212 Baniyas Rd - Al Rigga - Deira - Dubai",
+   "phone": "056 174 6263",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "Al Rabya Food Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Abu Hail - Deira - Dubai",
+   "phone": "055 111 5505",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Al Rahma Stationery & Electronic Card Trading",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "F9MF+5VM Al Falah Street - Old Pasport Rd - الدانة - شرق 4 2 - أبو ظبي",
+   "phone": "02 676 6820",
+   "checked_at": "2026-10-17T05:44:51Z"
+  },
+  {
+   "name": "Al Sadiq Stationery & Office Equipment Trading LLC br3",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "89JV+WQ7 Near Hussain Pharmacy - near Hussain Pharmacy - Bu Shaghara - Hay Al Qasimiah - Sharjah",
+   "phone": "06 574 7479",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Al Safran Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Building # B1 Street # 13B - Al Karama - Sheikh Hamdan Colony - Dubai",
+   "phone": "04 396 3855",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "Al Shaki Trading Establishment",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "710 Al Arouba St - Al Ghuwair - Hay Al Gharb - Sharjah",
+   "phone": "06 561 3616",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "Al Times Stamps ( Printing Services, Indoor Signs & Gift Items)",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Wahda St - near 1st Subway Farook International Stationery Bldg AL-AZIZIYA BUILDING - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 533 2240",
+   "checked_at": "2026-10-17T05:45:41Z"
+  },
+  {
+   "name": "Al Wahda Discount Centre",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Wahda St, Sadeq Omer Abusido Building ,G Floor - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 533 3443",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Al Youm Stationery",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "89HC+VMX - Al Khan - Sharjah",
+   "phone": "055 734 5398",
+   "checked_at": "2026-10-17T05:45:58Z"
+  },
+  {
+   "name": "Al zahra toys and gifts",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "9FWR+6MQ - Sheikh Maktoum Bin Rashid St - Ajman Industrial 1 - Ajman",
+   "phone": "06 748 4310",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "ALBEDAYALLC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Abu Dhabi - Al Danah - E6 - Abu Dhabi",
+   "phone": "058 566 3963",
+   "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "ALLAM khaleej",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Industrial Area 3 - Industrial Area - Sharjah",
+   "phone": "054 307 2023",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "AlRAWANBLDGMAT",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "91 Hassan Bin Haitham St - Ajman Industrial 2 - Ajman",
+   "phone": "052 952 3096",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "Ambition International General Trading Co., L.L.C",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "211 - Al Mamzar Building - الممزر - ديرة - دبي",
+   "phone": "055 377 8686",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Archies Bookshop",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Dubai Pyramid - Building, Shop No. 13 - 14 شارع ١١ - الكرامة - دبي",
+   "phone": "04 396 7924",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "ARD AL ALAAB",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "8F65+324 - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "06 538 4595",
+   "checked_at": "2026-10-17T05:45:41Z"
+  },
+  {
+   "name": "ARTSQUARE TRADING",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Abu Dhabi - Al Manhal - W15 01 - Abu Dhabi",
+   "phone": "050 591 8275",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Awat Trading",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "43 11B St - Al Khabaisi - Deira - Dubai",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "BAHMAN GROUP FZCO",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Sheikh Zayed Rd - Jabal Ali Second - Dubai",
+   "phone": "04 887 1472",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "Bait Al Asal Honey Trading",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Near Clock tower - 996X+77X Clock Tower - Maysaloon - Sharjah",
+   "phone": "055 142 5173",
+   "checked_at": "2026-10-17T05:45:27Z"
+  },
+  {
+   "name": "Batumi Flowers",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai - Al Wasl - Dubai",
+   "phone": "050 325 9883",
+   "checked_at": "2026-10-17T05:44:04Z"
+  },
+  {
+   "name": "Bin Fardan Trading",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "F9H3+3HQ - Zayed 1st Street (Electra Road - Al Hisn - W4 - Abu Dhabi",
+   "phone": "02 621 4413",
+   "checked_at": "2026-10-17T05:44:55Z"
+  },
+  {
+   "name": "BITHWAR GENERAL TRADING (L.L.C)",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Satwa R/A, Nr Emirates PetrolStation - البدع - دبي",
+   "phone": "04 332 1707",
+   "checked_at": "2026-10-17T05:43:56Z"
+  },
+  {
+   "name": "Broadband Computer Trading, Abu Dhabi",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Electra Street, Near Eldarado Cinema - الدانة - شرق 10 - أبو ظبي",
+   "phone": "02 673 5825",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Burj Babil General Trading",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Abu Talha St - Al Mahatta - Hay Al Qasimiah - Sharjah",
+   "phone": "06 731 9829",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
+   "name": "CHARI RIVER GENERAL TRADING L.L.C",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Muteena St,Embassy Suites Hotel Appartment - المطينة - ديرة - دبي",
+   "phone": "04 294 6666",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "City Shop General Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "24 6C Street - Al Khabaisi - Deira - Dubai",
+   "checked_at": "2026-10-17T05:43:55Z"
+  },
+  {
+   "name": "Classic Neon General Trading L.L.C",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "29 35th St - Al Karama - Dubai",
+   "phone": "058 878 0585",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Daftar General Trading L. L. C",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "Shop #3, Near China Mall - AL JURF - Industrial Area 2 - Ajman",
+   "phone": "055 778 8712",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "DAR AL BRARI TRADING",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Sikkat Al Khail Street - Dubai - الوصل - دبي",
+   "phone": "04 235 1505",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "deri max",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai - Al Wasl - Dubai",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Dharoub",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "2 Al Nuaimia - Ajman",
+   "phone": "055 928 8200",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "Eagle Country Gift (Game shop)(صقرالريف الهدايا (العاب",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Inside mecca mall- سوق مكة - Ground floor Shop Number-12 - 24 شارع الشَّارات - بني ياس - بني ياس شرق - أبو ظبي",
+   "phone": "055 536 6426",
+   "checked_at": "2026-10-17T05:45:07Z"
+  },
+  {
+   "name": "Engineer's Trading Company",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "056 570 6616",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "Exclusive Electromechanical Trading",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Building # 88 شارع ٦٦ - Mohamed Bin Zayed City - ME10 - Abu Dhabi",
+   "phone": "02 553 3576",
+   "checked_at": "2026-10-17T05:45:15Z"
+  },
+  {
+   "name": "Fantasia Water sport Trading",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "Amber Gem Tower - 26 floor - Al Rashidiya 3 - Ajman",
+   "phone": "058 110 1122",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "FARFASHA TRADING",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Old Souq Building - 31 D St - Naif - Deira - Dubai",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "Frame Art Novelty & Frame Trading LLC",
+   "group": "in_store",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Rolla - Shop No-4 - شارع أم طرافة - أم الطرافة - حي الغرب - إمارة الشارقةّ",
+   "phone": "050 178 9074",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Game Street",
+   "group": "in_store",
+   "city": "gamestreet",
+   "region": "Dubai",
+   "address": "gamestreet - Al Khawaneej 2 - Al Khawaneej - Dubai",
+   "phone": "04 289 2827",
+   "checked_at": "2026-10-17T05:44:26Z"
+  },
+  {
+   "name": "Gaming Tech Hub General Trading LLC - SPC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Al Ain Tower - 3rd Floor Office - 303 Hamdan Bin Mohammed St - Al Danah - E10 - Abu Dhabi",
+   "phone": "02 565 4049",
+   "website": "https://www.facebook.com/profile.php?id=61580542233010",
+   "checked_at": "2026-10-17T05:44:34Z"
+  },
+  {
+   "name": "Geebee textiles",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Textile city - Al Wasl - Dubai",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "general trading",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "Ajman - Al Hamidiya 1 - Ajman",
+   "phone": "050 973 3679",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Gift City General Trading",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Waha St - Al Qouz Third - Al Quoz - Dubai",
+   "phone": "04 338 1020",
+   "checked_at": "2026-10-17T05:44:13Z"
+  },
+  {
+   "name": "Gift King Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "11 25a St - Al Buteen - Al Sabkha - Dubai",
+   "phone": "04 226 1640",
+   "checked_at": "2026-10-17T05:44:11Z"
+  },
+  {
+   "name": "Gift World Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "68Q3+MF3 - 18B St - Al Karama - Dubai",
+   "phone": "04 335 8097",
+   "checked_at": "2026-10-17T05:44:18Z"
+  },
+  {
+   "name": "GISFO TRADING EST",
+   "group": "in_store",
+   "city": "العوير",
+   "region": "Dubai",
+   "address": "Building No 1, Shop no. 12 - vegetable and fruit market - Ras Al Khor Ind. Third - Dubai",
+   "phone": "04 320 2111",
+   "checked_at": "2026-10-17T05:43:54Z"
+  },
+  {
+   "name": "Golden Card",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "CF36+JHW - Meshairef - Ajman",
+   "checked_at": "2026-10-17T05:45:27Z"
+  },
+  {
+   "name": "Golden Noor General Trading L.L.C(Du Dealer, Etisalat Dealer)",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "24 3A St - Al Souq Al Kabeer - Al Fahidi - Dubai",
+   "phone": "04 353 5151",
+   "checked_at": "2026-10-17T05:44:00Z"
+  },
+  {
+   "name": "Golden Tower Gifts",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Al Zahiyah - E16 - Abu Dhabi",
+   "phone": "02 633 3948",
+   "checked_at": "2026-10-17T05:45:16Z"
+  },
+  {
+   "name": "GTECH TCG HUB GENERAL TRADING LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Mezzanine floor, Wadi az Zarqah St - Al Danah - E11, Abu Dhabi, Abu Dhabi, 0000, United Arab Emirates",
+   "phone": "+971542452050",
+   "website": "https://www.facebook.com/gtechhub.tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:49Z"
+  },
+  {
+   "name": "GTECH TCG HUB General Trading LLC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Wadi az Zarqa St - Al Danah - E11 - Abu Dhabi",
+   "phone": "02 565 4049",
+   "website": "https://www.tiktok.com/@gtechhubgeneraltrading",
+   "checked_at": "2026-10-17T05:44:38Z"
+  },
+  {
+   "name": "Hamdan Shopping Center",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Hamdan Bin Mohammed St - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "02 632 8555",
+   "checked_at": "2026-10-17T05:45:17Z"
+  },
+  {
+   "name": "HIVE BOARDGAME CAFE",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "GR-03 ONYX TOWER 1, THE GREENS,, DUBAI, DUBAI, 00000, Dubai",
+   "phone": "+971559665458",
+   "website": "https://www.instagram.com/hiveboardgamecafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "INTEX CHURIDAR TRADING (LLC)",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Shop # 34, Karama Center - شارع الكويت - الكرامة - دبي",
+   "phone": "04 337 2060",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Ivengo IOT Trading",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Business Bay - Dubai",
+   "checked_at": "2026-10-17T05:44:00Z"
+  },
+  {
+   "name": "Landmark Trading LLC Shabiya 11",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "1680 Naseem Al Barr St - Mohamed Bin Zayed City - ME11 - Abu Dhabi",
+   "phone": "055 771 1920",
+   "checked_at": "2026-10-17T05:45:15Z"
+  },
+  {
+   "name": "Mario Zone Kids Game Trading LLC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Hamed Center - Shop #39, M1 - Electra St - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "055 848 0120",
+   "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "Medi Next General Trading LLC",
+   "group": "in_store",
+   "city": "PO#34722",
+   "region": "دبي",
+   "address": "Office # M01, Al Tawhidi Building, Khalid Bin Waleed Road, Bank Street - المنخول - دبي",
+   "phone": "04 351 7371",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "MEET TCG",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "050 655 6456",
+   "website": "https://www.instagram.com/tcgmeet?igsh=MW1nbzBnbzZ0bmJ5dg==&utm_source=qr",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
+   "name": "MEGSONS TRADING CO. (L.L.C.)",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "68W3+7FG - Zaa'beel St - Al Karama - Dubai",
+   "phone": "04 223 6162",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Metrex General Trading LLC",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Mussaffa-13 - مصفح - مصفح 13 - أبو ظبي",
+   "phone": "056 189 9414",
+   "checked_at": "2026-10-17T05:45:15Z"
+  },
+  {
+   "name": "MIAD GENERAL TRADING (L.L.C.)",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Deira,FishR/A - Salahuddin St - الراس - الراس‎ - دبي",
+   "phone": "04 254 9494",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Mohammed Rashid electronics appliances trading shop sole proprietorship LLC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Madinat Zayed shopping mall - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "050 511 5128",
+   "website": "https://www.instagram.com/Reauh.ae",
+   "checked_at": "2026-10-17T05:44:41Z"
+  },
+  {
+   "name": "Moon and light essential readymade trading LLC Dubai",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "shop number M04, Al Mamzar Centre - Hor Al Anz East - Deira - Dubai",
+   "phone": "052 215 4456",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Musaffah Star Building Material LLC",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "8GX2+322 - Musaffah - M37 - Abu Dhabi",
+   "phone": "02 555 8755",
+   "checked_at": "2026-10-17T05:44:41Z"
+  },
+  {
+   "name": "Najm al haya stationery",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Muweilah - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "055 601 3685",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Najmat Al barsha",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "19 I - Radisson blu - شارع بني ياس - رقة البطين - ديرة - دبي",
+   "phone": "04 280 3386",
+   "checked_at": "2026-10-17T05:43:50Z"
+  },
+  {
+   "name": "Nasser ali general trading LLC",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Industrial Area 10 - Industrial Area - Sharjah",
+   "phone": "055 131 7907",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "National General Trading FZC",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Al Qusais Industrial AreaAl - 79PM+MHM - Al Qusais Ind. First - القصيص الصناعية الأولى - دبي",
+   "phone": "04 886 8576",
+   "checked_at": "2026-10-17T05:44:11Z"
+  },
+  {
+   "name": "NINJA TRADING CO .(L.L.C)",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Admiral HotelPlaza Bur Dubai Shop No 21 , 22 - السوق الكبير - Al Fahidi - دبي",
+   "phone": "050 624 0320",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "NTC General Trading LLC",
+   "group": "in_store",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "No.5 - الصناعية - 6 - المنطقة الصناعية - الشارقة",
+   "phone": "052 729 9427",
+   "checked_at": "2026-10-17T05:45:29Z"
+  },
+  {
+   "name": "Platinum Used Electronics Trading LLC",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Shop #13, Adnan Rafat Building - near Dynatrade Service Centre - Industrial Area 2 - Industrial Area - Sharjah",
+   "phone": "06 539 0005",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Polymetal",
+   "group": "in_store",
+   "city": "HFZA",
+   "region": "Sharjah",
+   "address": "HFZA - Hamriya Free Zone - Sharjah",
+   "phone": "056 631 6129",
+   "checked_at": "2026-10-17T05:45:36Z"
+  },
+  {
+   "name": "Press on x online store",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Al Shohala Building Block A office no 503 - بور سعيد - ديرة - دبي",
+   "phone": "056 398 8012",
+   "checked_at": "2026-10-17T05:44:28Z"
+  },
+  {
+   "name": "QANBAR JAFFAR TRADING CO. (L.L.C.)",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Near Sabka Bus Station, Opp Sina Hotel - السبخة - دبي",
+   "phone": "050 986 3068",
+   "checked_at": "2026-10-17T05:43:55Z"
+  },
+  {
+   "name": "RARE TREAURE OLD POSTAGE STAMPS & CURRENCIES TRADING CO LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Union Coop Al Aweer - Ras Al Khor Ind. Third - Ras Al Khor Industrial Area 3 - Dubai",
+   "phone": "054 444 8694",
+   "checked_at": "2026-10-17T05:44:10Z"
+  },
+  {
+   "name": "Regional Trading",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "57WG+2H8 - Old Town Island - Burj Khalifa - Downtown Dubai - Dubai",
+   "phone": "04 361 8573",
+   "checked_at": "2026-10-17T05:43:55Z"
+  },
+  {
+   "name": "Rose Queens Trading Llc",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "13A St - Al Karama - Dubai",
+   "phone": "056 381 5001",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "ROSY SANITARY & ELECT.WARE TR.",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "997V+3VQ - Al Naba'a - Al Nabba - Sharjah",
+   "phone": "050 482 9006",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "Royal Gulf Traders",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Nad Al Sheba 1 - Nad Al Sheba - Dubai",
+   "phone": "058 575 6244",
+   "checked_at": "2026-10-17T05:43:56Z"
+  },
+  {
+   "name": "Ruby Photocopy | Stationery | Typing Abu Dhabi",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Khartoum St - شارع سلطان بن زايد الأول - السعادة - Zone 1 - أبو ظبي",
+   "phone": "056 839 7738",
+   "checked_at": "2026-10-17T05:45:07Z"
+  },
+  {
+   "name": "RUKN AL TELAA STAMPS Tr.",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "89XW+PQJ - Al GharbAl - Al Manakh - Hay Al Qasimiah - Sharjah",
+   "phone": "052 754 3000",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "Safairkemer",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "784J+349 - Port Saeed - Deira - Dubai",
+   "checked_at": "2026-10-17T05:44:29Z"
+  },
+  {
+   "name": "SAS AFRICA GENERAL TRADING INDUSTRIA 6 SHARJA",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "8C9F+QV5 - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "04 250 3326",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Seven Stars Stationery Trading CO. L.L.C",
+   "group": "in_store",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Abu Shagara - بوشغارة - حي القاسمية - إمارة الشارقةّ",
+   "phone": "06 555 3643",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "SHAHEEN AL SHARQ GENERAL TRADING",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai - Al Wasl - Dubai",
+   "phone": "055 157 3243",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "Sham trading",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "43 St - Bu Shaghara - Hay Al Qasimiah - Sharjah",
+   "phone": "055 393 8880",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "SIXPENCE TRADING L.L.C - DUBAI BRANCH",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai Festival City Mall - Al Kheeran - Dubai Festival City - Dubai",
+   "phone": "04 289 9285",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Sofia Readymade Garments & Gifts Trading",
+   "group": "in_store",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "Ajman - Ajman Industrial 2 - Ajman",
+   "phone": "050 731 0952",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "SPARKLING SYNERGY",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai - Al Wasl - Dubai",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Stock market Hardware Equipment Power Tool",
+   "group": "in_store",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Unnamed Road - صناعية ٦ - الصناعيات - المنطقة الصناعية - الشارقة",
+   "phone": "052 630 0771",
+   "checked_at": "2026-10-17T05:45:58Z"
+  },
+  {
+   "name": "Sunlight Electronics Shop",
+   "group": "in_store",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Zayed The 2nd Street (Electra Street - الدانة - Zone 1 - أبو ظبي",
+   "phone": "02 634 1244",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Sunsine",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Bu Tena - Sharjah",
+   "phone": "050 254 7543",
+   "checked_at": "2026-10-17T05:45:29Z"
+  },
+  {
+   "name": "The Green Branch Trading Est.",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "F9P7+9F9 - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "055 111 5047",
+   "checked_at": "2026-10-17T05:44:41Z"
+  },
+  {
+   "name": "The Shiny Vault",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Tiffany Tower - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai",
+   "phone": "056 158 8763",
+   "checked_at": "2026-10-17T05:44:18Z"
+  },
+  {
+   "name": "TODAY GIFTS TR- BRANCH 1",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Industrial Areas - Industrial AreaIndustrial Area 11 - Sharjah",
+   "phone": "06 546 8787",
+   "checked_at": "2026-10-17T05:45:41Z"
+  },
+  {
+   "name": "topbest general trading l.l.c",
+   "group": "in_store",
+   "city": "دبي",
+   "region": "Dhdubai@Hotmail.Com",
+   "address": "Deira ,Baniyas - المرقبات - ديرة - Dhdubai@Hotmail.Com",
+   "phone": "050 659 0779",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "Ultra Tag Electronic Cards Trading LLC",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "68V6+8F6 - Oud Metha - Dubai",
+   "phone": "04 370 5105",
+   "checked_at": "2026-10-17T05:43:56Z"
+  },
+  {
+   "name": "YOUNG STAR GENERAL TRADING ESTABLISHMENT",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Al Khalidiyah - W17 01 - Abu Dhabi",
+   "phone": "056 324 6674",
+   "checked_at": "2026-10-17T05:44:55Z"
+  },
+  {
+   "name": "القلم لتجارة الاجهزة الكهربائية",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "8C87+P52 - Industrial Areas - Industrial Area - Sharjah",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "ترخیص کالا از دبی",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "111 Baniyas Rd - Al Sabkha - Dubai",
+   "phone": "054 400 0406",
+   "checked_at": "2026-10-17T05:44:18Z"
+  },
+  {
+   "name": "عالم المخترعات للألعاب الفيديو ( جابر )",
+   "group": "in_store",
+   "city": "Madinat Zayed",
+   "region": "Abu Dhabi",
+   "address": "F9P7+36C - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "055 380 5680",
+   "checked_at": "2026-10-17T05:45:23Z"
+  },
+  {
+   "name": "Collectors Bazaar",
+   "group": "not_buying_singles",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Saraya One Tower - Corniche Rd E - Al Zahiyah - E12 - Abu Dhabi",
+   "phone": "058 573 8181",
+   "website": "https://collectorsbazaar.ae/",
+   "buylist_url": "https://collectorsbazaar.ae/sell-your-cards",
+   "mail_in": true,
+   "checked_at": "2026-10-17T05:43:55Z"
+  },
+  {
+   "name": "Hit Grading",
+   "group": "not_buying_singles",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Time Square mall - Hit Grading, Dubai, Dubai, 00000, United Arab Emirates",
+   "phone": "+971502051517",
+   "website": "https://hitgrading.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Madinat Zayed Shopping Centre",
+   "group": "not_buying_singles",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Sultan Bin Zayed The First St - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "02 633 3311",
+   "website": "https://www.madinatzayed-mall.com/",
+   "buylist_url": "https://www.madinatzayed-mall.com/retailer/buylist",
+   "checked_at": "2026-10-17T05:44:53Z"
+  },
+  {
+   "name": "Shanghai Gifts Trading | Corporate Gift Supplier | Promotional Giveaways Dubai, Sharjah, Abu Dhabi",
+   "group": "not_buying_singles",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Al Wahda St - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 524 4155",
+   "website": "https://www.shanghaigifts.net/",
+   "buylist_url": "https://www.shanghaigifts.net/retailer/buylist",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "Star Gallery Mart - Sharjah",
+   "group": "not_buying_singles",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "8C38+CHW - 10 Third Industrial St - Industrial Area 10 - Industrial Area - Sharjah",
+   "phone": "054 449 4883",
+   "website": "https://stargallery.ae/en",
+   "buylist_url": "https://stargallery.ae/retailer/buylist",
+   "checked_at": "2026-10-17T05:45:52Z"
+  },
+  {
+   "name": "Al bushra toys and gifts",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Central Market - King Faisal St - Al Majaz District - Al Majaz - Sharjah",
+   "phone": "056 159 9983",
+   "website": "https://albushragaming.com/",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Al Fajer Advertising Gifts Trading LLC",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Shed No 11 Al Furat St - opposite of Beta Auto Spare Parts - Industrial Area 4 - Industrial Area - Sharjah",
+   "phone": "054 455 5310",
+   "website": "https://alfajeradv.com/",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "Al Masam Stationery (L.L.C)",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "19th Street,Lahej Khalifa Building - Near Post Office - شارع زعبيل - الكرامة - دبي",
+   "phone": "04 214 2800",
+   "website": "https://almasam.ae/",
+   "checked_at": "2026-10-17T05:44:18Z"
+  },
+  {
+   "name": "Al Wahda Mall",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "1 Hazza ' Bin Zayed The First St - Al Nahyan - Zone 1 - Abu Dhabi",
+   "phone": "02 443 7000",
+   "website": "http://alwahda-mall.com/",
+   "checked_at": "2026-10-17T05:44:52Z"
+  },
+  {
+   "name": "Al Warqa Stationary (Bu Daniq branch)",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Sharjah - Bu Danig - Hay Al Qasimiah - Sharjah",
+   "phone": "06 575 6073",
+   "website": "http://www.copaingroup.com/",
+   "checked_at": "2026-10-17T05:45:48Z"
+  },
+  {
+   "name": "Almuna Bookshop Rolla Sharjah",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Building - Shop 3 & 4 Al Arouba St - Al Ghuwair - Hay Al Gharb - Sharjah",
+   "phone": "06 561 5483",
+   "website": "http://www.almunabookshop.com/",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "Asik Traders",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai - Al Wasl - Dubai",
+   "website": "http://click-v4.junclikrmedi.com/click?i=MhK1T45-*t0_0",
+   "checked_at": "2026-10-17T05:44:00Z"
+  },
+  {
+   "name": "AST Trading LLC",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Green Emirates Building,Office No 1,Ground Floor, in Electra Street - الدانة - شرق 11 - أبو ظبي",
+   "phone": "052 979 4792",
+   "website": "https://astuae.com/",
+   "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "Auras Innovation",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Workspace business center - 4 AL WASL - Al Wasl - Dubai",
+   "phone": "050 495 8582",
+   "website": "https://auras.ae/",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Bab Al Salama Trading Co LLC - Dubai",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Souk Al Kabeer, Al Raffa, 21A Street,Land Mark - +971 585959332 - +971 556753332 - opp. City Money Exchange - السوق الكبير - Al Fahidi - دبي",
+   "phone": "055 675 3332",
+   "website": "https://babalsalama.com/",
+   "checked_at": "2026-10-17T05:44:21Z"
+  },
+  {
+   "name": "Back to Games - Abu Dhabi",
+   "group": "unknown",
+   "address": "Al Maiyani St, Abu Dhabi, Abu Dhabi, 47174, United Arab Emirates",
+   "phone": "971503334967 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Bait Al Tarfeeh Toys Trading",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Building Number 3451, Shop 15 - تجارية مويلح - المنطقة الصناعية - إمارة الشارقةّ",
+   "phone": "050 335 3740",
+   "website": "https://baitaltarfeeh.com/",
+   "checked_at": "2026-10-17T05:45:56Z"
+  },
+  {
+   "name": "Baynunah WaterGeneration WH",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "KEZAD KPL 4 - WH B8-16 - البطين - غرب 10 - أبو ظبي",
+   "phone": "052 730 2921",
+   "website": "http://www.ueepumps.net/",
+   "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "Blue Oasis Gifts & Printing Services – Rolla, Sharjah",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Umm Tarafa St - Um Altarafa - Hay Al Gharb - Sharjah",
+   "phone": "052 564 7270",
+   "website": "https://blueoasisgifts.com/",
+   "checked_at": "2026-10-17T05:45:32Z"
+  },
+  {
+   "name": "Book Corner & Funzone.ae",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "G64&G65, Bay Avenue - G63 - Business Bay - Dubai",
+   "phone": "04 554 4816",
+   "website": "https://funzone.ae/",
+   "checked_at": "2026-10-17T05:44:05Z"
+  },
+  {
+   "name": "Book Corner & Funzone.ae",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Shop RB 57, First floor, Bawabat Al Sharq Mall - بني ياس - بني ياس شرق - أبو ظبي",
+   "phone": "02 681 7662",
+   "website": "https://funzone.ae/",
+   "checked_at": "2026-10-17T05:44:39Z"
+  },
+  {
+   "name": "Books Kinokuniya Dubai",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Fashion Parking - Dubai Mall - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai",
+   "phone": "04 434 0111",
+   "website": "https://uae.kinokuniya.com/",
+   "checked_at": "2026-10-17T05:43:55Z"
+  },
+  {
+   "name": "Butterfly Wishes",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Office # 1210, Clover Bay Tower - Marasi Dr - Business Bay - Dubai",
+   "phone": "055 518 2315",
+   "website": "https://www.butterflywishes.net/",
+   "checked_at": "2026-10-17T05:44:10Z"
+  },
+  {
+   "name": "Buy Any Flowers Dubai",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "B A F Gifts Trading LLC - Warehouse S - 4 26th St - Al Qouz Ind.fourth - Al Quoz - Dubai",
+   "phone": "050 742 7217",
+   "website": "https://www.buyanyflowers.com/?utm_source=Google_GMB&utm_medium=organic&utm_campaign=Business+Listing",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "CARDLINE ELECTRONICS",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Card Line Electronics LLC، AB Plaza 7 - 208 Al Ittihad St - Al Mamzar - Dubai",
+   "phone": "04 325 1610",
+   "website": "https://cardlineuae.com/",
+   "checked_at": "2026-10-17T05:45:59Z"
+  },
+  {
+   "name": "Cards Palace",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "شارع حزاء بن زايد الأول - Al Danah - E18 02 - Abu Dhabi",
+   "phone": "02 641 3535",
+   "website": "https://www.hugedomains.com/domain_profile.cfm?d=cardspalace.com",
+   "checked_at": "2026-10-17T05:45:10Z"
+  },
+  {
+   "name": "Creative Minds",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Ground Floor, AD One Tower - Al Karamah St - Al Rawdah - Capital Centre - Abu Dhabi",
+   "website": "https://creativemindsdubai.com/",
+   "checked_at": "2026-10-17T05:45:12Z"
+  },
+  {
+   "name": "Cubuzzle",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Zulekha Colonade-Office Entrance Al Qusais Industrial Area 4 1st Floor, Office 4 - Al Qusais Ind. Fourth - القصيص منطقة صناعية - دبي",
+   "phone": "052 378 2752",
+   "website": "https://cubuzzle.com/",
+   "checked_at": "2026-10-17T05:45:46Z"
+  },
+  {
+   "name": "Deccan General Trading",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Omeir Bin Youssef Building - 1st Floor, Office No. 142 - Hamdan Bin Mohammed St - opposite DU Telecom - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "054 592 0075",
+   "website": "https://deccangt.ae/",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Deep Shelves Bookshop",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Al Nasiriya, Grand Avenue Block C - الناصرية - الشارقة",
+   "phone": "050 258 2792",
+   "website": "https://deepshelves.com/",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Deglah and Alforat",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "7CX8+45J - Third Industrial St - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 542 2279",
+   "website": "https://www.albaydhani.net/?AspxAutoDetectCookieSupport=1",
+   "checked_at": "2026-10-17T05:44:28Z"
+  },
+  {
+   "name": "DELMA AL REDWAN TRADING CO. (L.L.C) - DUBAI BR.",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dr Fathy Omara Bldg - Al Mateena St - Al Muteena - Deira - Dubai",
+   "phone": "04 613 9178",
+   "website": "https://delmaalredwan.com/",
+   "checked_at": "2026-10-17T05:44:00Z"
+  },
+  {
+   "name": "DIGIPRINTZ (Riya Reprographic) - DIGITAL PRINTING",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "10, Al Qubaisi Building, Sh - Hamdan Bin Mohammed St - Al Danah - E10 - Abu Dhabi",
+   "phone": "02 677 9699",
+   "website": "https://www.riyaprinting.com/",
+   "checked_at": "2026-10-17T05:44:55Z"
+  },
+  {
+   "name": "Discount Plus Gifts ديسكاونت بلاس للهدايا",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "As Siqa St - Jarn Yafour - Mafraq Industrial Area - Abu Dhabi",
+   "phone": "02 555 5953",
+   "website": "https://discountplusgift.ae/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+   "checked_at": "2026-10-17T05:45:15Z"
+  },
+  {
+   "name": "Emirates Flags And Flag Poles Trading الإمارات لتجارة الأعلام وساريات الأعلام",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Musaffah - M26 - Abu Dhabi",
+   "phone": "055 818 8300",
+   "website": "https://emiratesflags.ae/",
+   "checked_at": "2026-10-17T05:45:17Z"
+  },
+  {
+   "name": "EpicTCGVault",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Capitol Tower - Al Thanyah First - Barsha Heights - Dubai",
+   "website": "https://www.epictcgvault.com/",
+   "checked_at": "2026-10-17T05:44:10Z"
+  },
+  {
+   "name": "Everyday Center",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Sheikh Saqr Bin Khalid Al Qasimi Street - Al Estiqlal Square - المناخ - حي القاسمية - الشارقة",
+   "phone": "050 440 8212",
+   "website": "https://everyday-center.com/",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "Famous Advertising",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "FAMOUS ADVERTISING - 8th St - Musaffah - M9 - Abu Dhabi",
+   "phone": "02 554 4850",
+   "website": "http://famousadvertising.ae/",
+   "checked_at": "2026-10-17T05:44:53Z"
+  },
+  {
+   "name": "Fandom - The Galleria, Al Maryah Island",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "111 شارع حمودة بن علي الظاهريLevel 2The Galleria - Island - Al Maryah Island - MI10 - Abu Dhabi",
+   "phone": "052 158 9468",
+   "website": "https://fandomretail.com/password",
+   "checked_at": "2026-10-17T05:45:08Z"
+  },
+  {
+   "name": "Florant Mobile Phones & Accessories Trading LLC - ملحقات الهواتف المحمولة وخدمات الهواتف المحمولة",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "inside lulu xpress - Jumeirah 1 - Jumeirah - Dubai",
+   "phone": "050 660 5809",
+   "website": "https://florantphones.com/",
+   "checked_at": "2026-10-17T05:44:16Z"
+  },
+  {
+   "name": "Funko Store - Reem Mall",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Reem Mall, 2nd Floor, Unit: L2B042 Al Reem Island Abu Dhabi, Unites Arab Emirates - جزيرة الريم - نجمة أبوظبي - أبو ظبي",
+   "phone": "052 612 4736",
+   "website": "https://mallfinder.ae/store/funko-store--Reem-shopping-mall-abu-dhabi",
+   "checked_at": "2026-10-17T05:45:24Z"
+  },
+  {
+   "name": "Fxglobal trading llc",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Clover Bay Tower - Marasi Dr - Business Bay - Dubai",
+   "phone": "055 904 1853",
+   "website": "https://www.fx-global.world/",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Game Store",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Khail Rd - Hadaeq Sheikh Mohammed Bin Rashid - Dubai",
+   "phone": "054 376 7035",
+   "website": "https://www.gamestore.gg/",
+   "checked_at": "2026-10-17T05:44:28Z"
+  },
+  {
+   "name": "Game Storm Computer Trading. .Best computer shop sharjah",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "2 University City Rd - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "056 195 2324",
+   "website": "https://gamestorm.ae/",
+   "checked_at": "2026-10-17T05:45:29Z"
+  },
+  {
+   "name": "GameForce Computer Shop",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "University City Rd - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "050 515 9726",
+   "website": "https://gameforce.ae/",
+   "checked_at": "2026-10-17T05:45:41Z"
+  },
+  {
+   "name": "GAMES LAND ELECTRONICS",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Zayed the First Street - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "050 262 6497",
+   "website": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://games-land-electronics.business.site/&ved=2ahUKEwjciveOjtaGAxUkQfEDHVGDAHgQFnoECCwQAQ&authuser=2&usg=AOvVaw2Fc7kOIWVUynIwPp-rNQR1",
+   "checked_at": "2026-10-17T05:45:19Z"
+  },
+  {
+   "name": "GIFT MART Trading - Sharjah Br",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Sharjah - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 551 1156",
+   "website": "https://giftmart.ae/",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
+   "name": "Golden Road Trading",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "F93G+HW5 SJ Tower - Al Manhal - W15 01 - Abu Dhabi",
+   "phone": "02 645 0410",
+   "website": "https://goldenroad.ae/",
+   "checked_at": "2026-10-17T05:44:49Z"
+  },
+  {
+   "name": "Goyals Books and Beyond - Sharjah",
+   "group": "unknown",
+   "city": "Rolla",
+   "region": "Sharjah",
+   "address": "Meena Road - Umm Tarafa St - behind Aster Pharmacy - Um Altarafa - Hay Al Gharb - Sharjah",
+   "phone": "056 522 5471",
+   "website": "http://www.goyalsonlinebooks.com/",
+   "checked_at": "2026-10-17T05:45:30Z"
+  },
+  {
+   "name": "Hilal al nahdah mobile trading llc sp",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Zymalik building shop no 5 - الند - حي القاسمية - إمارة الشارقةّ",
+   "phone": "052 862 2013",
+   "website": "https://hilalalnahdah.com/",
+   "checked_at": "2026-10-17T05:45:36Z"
+  },
+  {
+   "name": "Hongkong General Trading LLC",
+   "group": "unknown",
+   "city": "عجمان",
+   "region": "عجمان",
+   "address": "Showroom 16, Central Plaza 2 - Al Jurf 2 Askan Holding - Street 71 - الجرف 2 - عجمان",
+   "phone": "06 767 8800",
+   "website": "https://www.hkgt.ae/",
+   "checked_at": "2026-10-17T05:45:56Z"
+  },
+  {
+   "name": "Hyperx Technology L L C. Abu Dhabi.",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "E10 Abu Dhabi Electra Street - الدانة - شرق 10 - أبو ظبي",
+   "phone": "02 671 9999",
+   "website": "https://www.alershadonline.com/",
+   "checked_at": "2026-10-17T05:44:41Z"
+  },
+  {
+   "name": "INDEX DIGITAL PRINTING AND STATIONERY المكتبية - القرطاسية - طباعة",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Mohamed Bin Zayed City - ME11 - Abu Dhabi",
+   "phone": "050 868 0313",
+   "website": "https://www.indexbssgroup.com/",
+   "checked_at": "2026-10-17T05:45:12Z"
+  },
+  {
+   "name": "Intermex PRO General Trading",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "46QJ+R22 - Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "054 440 9496",
+   "website": "https://intermexuae.com/",
+   "checked_at": "2026-10-17T05:44:04Z"
+  },
+  {
+   "name": "Jackaroo Joker Electronic Trading",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Wrayq St - 17 Dhabi 20028 Rotana, Mall Building - 2nd floor - البطين - غرب 10 - أبو ظبي",
+   "phone": "050 168 2210",
+   "website": "https://jackaroojoker.com/",
+   "checked_at": "2026-10-17T05:44:38Z"
+  },
+  {
+   "name": "Kiddy Zone - Dalma Mall",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Delma Street - Abu Dhabi Industrial City - ICAD I - Abu Dhabi",
+   "phone": "02 667 0569",
+   "website": "https://www.kiddyzone.ae/",
+   "checked_at": "2026-10-17T05:44:45Z"
+  },
+  {
+   "name": "Kinokuniya Abu Dhabi",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Level 3F & 4F, The Galleria - Island - شارع الفلاح - جزيرة المارية - المارية 10 - أبو ظبي",
+   "phone": "02 643 6747",
+   "website": "https://uae.kinokuniya.com/",
+   "checked_at": "2026-10-17T05:45:23Z"
+  },
+  {
+   "name": "Legends Own The Game",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "056 786 2325",
+   "website": "https://legendsownthegame.com/",
+   "checked_at": "2026-10-17T05:43:49Z"
+  },
+  {
+   "name": "LEGO Certified Store - Dubai Mall LG Floor",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "The Dubai Mall - Lower Ground Floor, Star Atrium - برج خليفة - وسط مدينة دبي - دبي",
+   "phone": "04 258 3129",
+   "website": "https://www.lego.me/en-ae?utm_source=gmb&utm_medium=organic&utm_campaign=gmb",
+   "checked_at": "2026-10-17T05:44:29Z"
+  },
+  {
+   "name": "Lmerj Collects",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Damas 3 Building - 11 Omair Bin Al Hareth St - Al Nad - Hay Al Qasimiah - Sharjah",
+   "phone": "055 504 2121",
+   "website": "https://lmerjcollects.com/",
+   "checked_at": "2026-10-17T05:45:41Z"
+  },
+  {
+   "name": "M E C H GENERAL TRADING L.L.C",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Yes Business Tower - Office no. 707 - Al Barsha First - Al Barsha - Dubai",
+   "phone": "04 294 3392",
+   "website": "https://www.mechtrade.eu/",
+   "checked_at": "2026-10-17T05:44:10Z"
+  },
+  {
+   "name": "Magic Trading Company ( MTC ) Corporate Gifts | Promotional Gifts & Giveaways",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Magic Trading Co - Street 32 Al Wahda St - behind Furniture Complex - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 533 1353",
+   "website": "https://mtc.ae/",
+   "checked_at": "2026-10-17T05:45:27Z"
+  },
+  {
+   "name": "Magrudy's Bookshop Al Wahda Mall",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Al Wahda Mall Mosque - آل نهيان - Zone 1 - أبو ظبي",
+   "phone": "04 344 4193",
+   "website": "https://www.magrudy.com/",
+   "checked_at": "2026-10-17T05:44:58Z"
+  },
+  {
+   "name": "Mangaya",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "782v - shop 9 - 2g4 61B Street - القرهود - دبي",
+   "phone": "054 773 6766",
+   "website": "https://www.mangaya-uae.com/",
+   "checked_at": "2026-10-17T05:44:24Z"
+  },
+  {
+   "name": "Mange Tout Gifts Trading LLC",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Office 203 - Hamsa A-Block Building - شارع خالد بن الوليد - الكرامة - دبي",
+   "phone": "04 396 6433",
+   "website": "https://mangetout.ae/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+   "checked_at": "2026-10-17T05:44:12Z"
+  },
+  {
+   "name": "Masaya Gifts Trading",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "9 شارع المَيَّاني - Al Zahiyah - E14 - Abu Dhabi",
+   "phone": "050 124 2140",
+   "website": "https://www.eand.ae/en/smb/products/digital-products/online-marketing/estore.html",
+   "checked_at": "2026-10-17T05:45:06Z"
+  },
+  {
+   "name": "Master Team Electrical Appliances Trading L.L.C",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Office No. 5 King Khalifa Sultan Jaber Al-Mutaiwi - Bardab - Bur Dubai - طريق عود ميثاء - عود ميثاء - دبي",
+   "phone": "056 526 5475",
+   "website": "https://www.masterteamelectrical.com/",
+   "checked_at": "2026-10-17T05:44:01Z"
+  },
+  {
+   "name": "METRO CHITHARI TRADING LLC",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Sabkha Rd - Naif - Deira - Dubai",
+   "phone": "04 221 4723",
+   "website": "http://www.metrogroupuae.com/",
+   "checked_at": "2026-10-17T05:43:58Z"
+  },
+  {
+   "name": "Microless",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "4B St - behind Times Square Center - Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "04 262 3337",
+   "website": "https://uae.microless.com/",
+   "checked_at": "2026-10-17T05:44:30Z"
+  },
+  {
+   "name": "Mister8 TCG collectibles",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "4th street The Curve - building, Al goze 3 G19 - القوز الثالثة - القوز - دبي",
+   "phone": "058 919 5418",
+   "website": "https://mister-8.com/",
+   "checked_at": "2026-10-17T05:44:11Z"
+  },
+  {
+   "name": "Mohammad Ali Malalla Ismail General Trading",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "8 19D Street - Al Ras - Dubai",
+   "website": "http://www.amanzada.com/",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Mohammed Amin Computer Designing",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Umm al tarafa road - near KM Trading Rolla - أم الطرافة - حي الغرب - الشارقة",
+   "phone": "055 530 4072",
+   "website": "http://www.aminprinting.com/",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "My Cards Trading",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Opal Tower - 42 Burj Khalifa St - Business Bay - Dubai",
+   "phone": "055 977 4773",
+   "website": "https://alzabeele.com/",
+   "checked_at": "2026-10-17T05:43:54Z"
+  },
+  {
+   "name": "MZtoyz toys and games retail and whole sale trading LLC",
+   "group": "unknown",
+   "city": "Ajman",
+   "region": "Ajman",
+   "address": "MZtoyz and games trading LLC - Building Shop 2 - Al Ittihad Road - Al Seedawi - Ajman Industrial 2 - Ajman",
+   "phone": "056 150 3001",
+   "website": "https://www.mztoyz.com/",
+   "checked_at": "2026-10-17T05:46:02Z"
+  },
+  {
+   "name": "Omaroro house",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Jadaf - Dubai",
+   "phone": "058 938 9007",
+   "website": "https://www.youtube.com/watch?si=FDBFvQ5RuAYamHcc&v=Mqe-iWLDP9Q&feature=youtu.be",
+   "checked_at": "2026-10-17T05:43:54Z"
+  },
+  {
+   "name": "Oryx Heavy Equipment-Branch",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Caterpillar road Branch office - Industrial Areas - Industrial Area - Sharjah",
+   "phone": "06 544 0205",
+   "website": "https://oryxae.com/",
+   "checked_at": "2026-10-17T05:45:37Z"
+  },
+  {
+   "name": "Otaku ME",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "1st Floor - Times Square Center - Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "04 321 4171",
+   "website": "https://otakume.com/",
+   "checked_at": "2026-10-17T05:44:10Z"
+  },
+  {
+   "name": "Pens Corner",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Rolla Rd - Al Raffa - Dubai",
+   "phone": "04 355 0448",
+   "website": "https://www.penscorner.com/",
+   "checked_at": "2026-10-17T05:44:19Z"
+  },
+  {
+   "name": "PlayVault",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "RETAIL-RS-56A - SCHON BUSINESS PARK - مجمع دبي للاستثمار الأول - دبي",
+   "phone": "056 294 2055",
+   "website": "https://playvault.ae/",
+   "checked_at": "2026-10-17T05:43:49Z"
+  },
+  {
+   "name": "RetroForLess.com",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "29th St - Al Qouz Ind.fourth - Al Quoz - Dubai",
+   "phone": "056 296 6677",
+   "website": "https://www.retroforless.com/",
+   "checked_at": "2026-10-17T05:44:17Z"
+  },
+  {
+   "name": "RETROs",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "39th St - Al Karama - Dubai",
+   "phone": "050 208 3098",
+   "website": "https://www.retros.ae/",
+   "checked_at": "2026-10-17T05:44:13Z"
+  },
+  {
+   "name": "Roshan Stationery shop",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Baniyas Najda Street - Al Danah - E11 - Abu Dhabi",
+   "phone": "050 975 0116",
+   "website": "http://www.roshanstationery.com/",
+   "checked_at": "2026-10-17T05:45:23Z"
+  },
+  {
+   "name": "RUKN AL KHALEEJ ADVERTISING & GIFT TRADING",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Um Altarafa - Hay Al Gharb - Sharjah",
+   "phone": "056 981 6492",
+   "website": "https://ruknalkhaleejprinters.com/",
+   "checked_at": "2026-10-17T05:45:40Z"
+  },
+  {
+   "name": "Safari Hypermarket Sharjah",
+   "group": "unknown",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Sheikh Khalifa Bin Zayed Al Nahyan Rd - Muwaileh Commercial - Industrial Area - Sharjah",
+   "phone": "06 506 6888",
+   "website": "https://safarihypermarket.ae/en",
+   "checked_at": "2026-10-17T05:45:52Z"
+  },
+  {
+   "name": "Sallat Alteeb Foodstuff Trading LLC",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "T – Malik Dub Real Estate (L.L.C.) – Bur Dubai - Office No. 0150 - Al Jadaf - Dubai",
+   "phone": "054 136 9864",
+   "website": "https://www.sallatalteeb.com/",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "Seraj Al Bader General Trading LLC",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "9 - 5 1A St - Al Qusais - Dubai",
+   "phone": "054 762 5364",
+   "website": "https://www.sabgeneraltradingllc.com/",
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "Smart Click Office Equipment Trading",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "FRONT OF FATIMA, Alzarooni Mosque - M - 34 WHUEDA ROAD - Abu Hail - Deira - Dubai",
+   "phone": "050 275 4600",
+   "website": "https://smartclickuae.com/",
+   "checked_at": "2026-10-17T05:45:29Z"
+  },
+  {
+   "name": "Speed Gifts",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "World Trade Center - B2 Floor - Khalifa Bin Zayed The First St - Al Danah - E2 - Abu Dhabi",
+   "phone": "056 101 0387",
+   "website": "https://speedgifts.net/",
+   "checked_at": "2026-10-17T05:44:44Z"
+  },
+  {
+   "name": "Speedy Comics",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Times Square Center - 4B St - Al Quoz - Al Qouz Ind.first, Dubai, Dubai, 00000, United Arab Emirates",
+   "phone": "+0400971501268922",
+   "website": "https://www.speedycomicsme.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "STRIDES TRADING L.L.C.",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Faiz Gul Khan - Bardea - Office No. 1912-118 - Business Bay - Dubai",
+   "phone": "054 164 6707",
+   "website": "https://www.stridestrading.com/",
+   "checked_at": "2026-10-17T05:44:03Z"
+  },
+  {
+   "name": "The Bookshop Library Est - Abu Dhabi Branch",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "411 Sultan Bin Zayed The First St - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "02 666 6906",
+   "website": "https://souq.thebookshop.ae/",
+   "checked_at": "2026-10-17T05:45:17Z"
+  },
+  {
+   "name": "The Bootroom Collection - Dubai Mall",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Second level. Cinema Parking, The Dubai Mall - Financial Ctr St - Rd - Downtown Dubai - Dubai",
+   "phone": "04 512 5749",
+   "website": "https://thebootroomcollection.com/",
+   "checked_at": "2026-10-17T05:43:56Z"
+  },
+  {
+   "name": "The Card Co.",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Level B1 , The Gate Building Dubai International Financial Centre - Zaa'beel Second - DIFC - Dubai",
+   "phone": "04 386 9369",
+   "website": "https://www.thecardco.ae/",
+   "checked_at": "2026-10-17T05:44:11Z"
+  },
+  {
+   "name": "The Collect Room",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Al Khail Rd - Hadaeq Sheikh Mohammed Bin Rashid - Dubai",
+   "phone": "052 877 1426",
+   "website": "https://www.thecollectroom.com/",
+   "checked_at": "2026-10-17T05:44:06Z"
+  },
+  {
+   "name": "The Little Things - DIFC",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Gate Avenue - Zaa'beel Second - DIFC - Dubai",
+   "phone": "056 571 5088",
+   "website": "https://littlethingsme.com/",
+   "checked_at": "2026-10-17T05:44:22Z"
+  },
+  {
+   "name": "The Little Things - The Dubai Mall",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Unit SF - 186 - Unit L2 186 - 19 - 19 شارع المركز المالي - برج خليفة - وسط مدينة دبي - دبي",
+   "phone": "056 557 7365",
+   "website": "https://littlethingsme.com/",
+   "checked_at": "2026-10-17T05:43:51Z"
+  },
+  {
+   "name": "The Little Things - Yas Mall",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Yas Island - YS1 - Abu Dhabi",
+   "phone": "050 279 8110",
+   "website": "https://littlethingsme.com/",
+   "checked_at": "2026-10-17T05:45:17Z"
+  },
+  {
+   "name": "The Toys Home",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "Shop 9 Villanova Community Mall - وادي الصفا 5 - دبي",
+   "phone": "050 329 5660",
+   "website": "https://thetoyshome.com/",
+   "checked_at": "2026-10-17T05:44:33Z"
+  },
+  {
+   "name": "Topsafe Game",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "6th St - Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "056 777 7716",
+   "website": "https://topsafe.ae/",
+   "checked_at": "2026-10-17T05:43:56Z"
+  },
+  {
+   "name": "Toy Corner",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Reem Mall - 2nd Floor - 2nd Floor, Abu Dhabi, Abu Dhabi, 114409, United Arab Emirates",
+   "phone": "971521432086",
+   "website": "https://toycorner.ae/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:49Z"
+  },
+  {
+   "name": "Toys R Us",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "Al Zahya, Abu Dhabi Mall. Level 3, opposite to Funcity - الزاهية - شرق 16 1 - أبو ظبي",
+   "phone": "02 671 8585",
+   "website": "https://toysrusmena.com",
+   "checked_at": "2026-10-17T05:45:23Z"
+  },
+  {
+   "name": "Toys\"R\"Us",
+   "group": "unknown",
+   "city": "الشارقة",
+   "region": "إمارة الشارقةّ",
+   "address": "Sahara Center Mall, Ground Floor, city gate entrance - حي النهدة - النهدة - الشارقة",
+   "phone": "06 531 5915",
+   "website": "https://toysrusmena.com",
+   "checked_at": "2026-10-17T05:45:47Z"
+  },
+  {
+   "name": "Truepack General Trading",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "7 Al Sadh St - Hadbat Al Za`Faranah - E29 - Abu Dhabi",
+   "phone": "050 632 1644",
+   "website": "http://www.truepackuae.com/",
+   "checked_at": "2026-10-17T05:45:07Z"
+  },
+  {
+   "name": "Unicorn Cards",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "First Floor Silicon Central Mall Nadd Hessa - Dubai Silicon Oasis, Dubai, Dubai, 0000, United Arab Emirates",
+   "phone": "+971568132268",
+   "website": "https://unicorncards.ae/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Unwind Cafe LLC",
+   "group": "unknown",
+   "address": "Shop 3, Hessa Street, Barsha 3, Dubai, UAE Ground Floor, Tower B, Park Gate Residence, Dubai, Dubai, 122694, United Arab Emirates",
+   "phone": "+9710507580947",
+   "website": "https://unwinddubai.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:43:44Z"
+  },
+  {
+   "name": "Virgin Megastore",
+   "group": "unknown",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Dubai Mall - Doha St - Burj Khalifa - Downtown Dubai - Dubai",
+   "phone": "04 325 3330",
+   "website": "https://www.virginmegastore.ae/?y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+   "checked_at": "2026-10-17T05:44:17Z"
+  },
+  {
+   "name": "Virgin Megastore",
+   "group": "unknown",
+   "city": "دبي",
+   "region": "دبي",
+   "address": "2nd Floor - City Center - شارع الشيخ راشد - near Vox Cinemas - بور سعيد - ديرة - دبي",
+   "phone": "04 295 8599",
+   "website": "https://www.virginmegastore.ae/",
+   "checked_at": "2026-10-17T05:44:34Z"
+  },
+  {
+   "name": "Virgin Megastore",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Yas Mall - Store No. 424, Level 1 - Yas St - Yas Island - YS1 - Abu Dhabi",
+   "phone": "02 565 1319",
+   "website": "https://www.virginmegastore.ae/?y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+   "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "World Trade Center Abu Dhabi (WTC)",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Liwa Street - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "02 508 2400",
+   "website": "https://www.wtcad.ae/en/home",
+   "checked_at": "2026-10-17T05:44:51Z"
+  },
+  {
+   "name": "Zoom Promotional Gifts Preparing L.L.C",
+   "group": "unknown",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "Mall - Al Khalidiyah - W9 - Abu Dhabi",
+   "phone": "052 714 8334",
+   "website": "https://zoomgifts.ae/",
+   "checked_at": "2026-10-17T05:44:55Z"
+  },
+  {
+   "name": "Zoom Promotional Gifts Preparing LLC",
+   "group": "unknown",
+   "city": "أبو ظبي",
+   "region": "أبو ظبي",
+   "address": "first floor - Zoom promotional - mushrif mall - Airport Rd - آل نهيان - Zone 1 - أبو ظبي",
+   "phone": "055 412 0358",
+   "website": "https://zoomgifts.ae/",
+   "checked_at": "2026-10-17T05:45:16Z"
+  }
+ ]
+}
