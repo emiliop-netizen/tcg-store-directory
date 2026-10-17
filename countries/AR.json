@@ -1,0 +1,2081 @@
+{
+ "country": "AR",
+ "currency": "ARS",
+ "updated": "2026-10-16",
+ "store_count": 208,
+ "stores": [
+  {
+   "name": "Lair",
+   "group": "login_required",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. José María Moreno 875, Buenos Aires, CABA, 1424, Argentina",
+   "phone": "541123957118",
+   "website": "https://www.lair.com.ar/",
+   "buylist_url": "https://www.lair.com.ar/pages/hot-buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "TAG TEAM TCG",
+   "group": "login_required",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Melincué 3178, C1406ABC Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2251-9400",
+   "website": "https://www.tagteamtcg.ar/",
+   "buylist_url": "https://www.tagteamtcg.ar/compramos-tus-cartas",
+   "checked_at": "2026-10-17T01:12:07Z"
+  },
+  {
+   "name": "Magic Dealers",
+   "group": "quote_only",
+   "city": "CXC",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Zapiola 2041, C1428CXC CABA, Argentina, Ciudad Autonoma de Buenos Aires, B, C1428, Argentina",
+   "phone": "5491125177974",
+   "website": "https://www.magicdealersstore.com/",
+   "buylist_url": "https://www.magicdealersstore.com/buylist_md",
+   "mail_in": true,
+   "credit_bonus": "Up to 25% more when taking store credit instead of cash",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:48Z"
+  },
+  {
+   "name": "Anime Art",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Aráoz 2595, C1425 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2406-2983",
+   "website": "https://www.animeartlocal.com.ar/",
+   "checked_at": "2026-10-17T01:12:59Z"
+  },
+  {
+   "name": "AQUI HAY DRAGONES",
+   "group": "blocked",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Nicolás Avellaneda 34, X5000ASN Córdoba",
+   "phone": "0351 15-206-7703",
+   "website": "https://www.aquihaydragones.com.ar/",
+   "checked_at": "2026-10-17T01:13:16Z"
+  },
+  {
+   "name": "ArcanaXVII",
+   "group": "blocked",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Zeballos 1090, S2000 Rosario, Santa Fe",
+   "phone": "0341 616-0100",
+   "website": "https://arcanaxvii.ar/",
+   "checked_at": "2026-10-17T01:13:34Z"
+  },
+  {
+   "name": "CascoTCG",
+   "group": "blocked",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "9 de Julio 1050, S2000CJX Rosario, Santa Fe",
+   "phone": "0336 468-0066",
+   "website": "https://cascotcg.com/",
+   "checked_at": "2026-10-17T01:13:48Z"
+  },
+  {
+   "name": "Comic Club",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Marcelo Torcuato de Alvear 2002, C1113 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4966-1748",
+   "website": "https://www.clubdelcomic.com.ar/",
+   "checked_at": "2026-10-17T01:12:24Z"
+  },
+  {
+   "name": "Dados en Mano",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Billinghurst 818, 1426 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2396-3689",
+   "website": "https://www.dadosenmano.com.ar/",
+   "checked_at": "2026-10-17T01:13:09Z"
+  },
+  {
+   "name": "El Núcleo store",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Aráoz 190, C1414 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-7675-5571",
+   "website": "https://elnucleostore.com.ar/",
+   "checked_at": "2026-10-17T01:13:10Z"
+  },
+  {
+   "name": "Fans Choice Comics",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Rivadavia 5337 Loc 14, C1424 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4149-5526",
+   "website": "https://www.fanschoicecomics.com.ar/",
+   "checked_at": "2026-10-17T01:12:51Z"
+  },
+  {
+   "name": "FOTOCAJA - Tienda Geek",
+   "group": "blocked",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Galería Paseo del Sol, 9 de Julio 138, X5000 Córdoba",
+   "phone": "0351 292-1272",
+   "website": "https://www.fotocaja.com.ar/",
+   "checked_at": "2026-10-17T01:13:16Z"
+  },
+  {
+   "name": "Geek Out! Club",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Arévalo 2061, C1414 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2460-1608",
+   "website": "http://geekout.ar/",
+   "checked_at": "2026-10-17T01:12:30Z"
+  },
+  {
+   "name": "Hadouken! 2",
+   "group": "blocked",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "06 Avenida Maipú, Córdoba, CB, X5000, Argentina",
+   "phone": "543513083673",
+   "website": "https://www.hadouken.com.ar",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:55Z"
+  },
+  {
+   "name": "Invictvs Juegos, Mangas y Anime",
+   "group": "blocked",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Lorenzo 1167, S2000 Rosario, Santa Fe",
+   "phone": "0341 15-242-8943",
+   "website": "https://invictvs.com.ar/",
+   "checked_at": "2026-10-17T01:13:23Z"
+  },
+  {
+   "name": "J&T Hero Factory",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Guardia Vieja 4274, C1192AAT Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6627-4376",
+   "website": "https://herofactory.com.ar/inicio/",
+   "checked_at": "2026-10-17T01:12:49Z"
+  },
+  {
+   "name": "La Cueva Dragón",
+   "group": "blocked",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Galería Paseo del Sol, 9 de Julio 138/150 Loc 17, X5000 Córdoba",
+   "phone": "03547 58-8417",
+   "website": "https://lacuevadragon.com/",
+   "checked_at": "2026-10-17T01:13:10Z"
+  },
+  {
+   "name": "La Revisteria Comics",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 1388, C1043ABN Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3987-0661",
+   "website": "https://www.larevisteriacomics.com/",
+   "checked_at": "2026-10-17T01:12:30Z"
+  },
+  {
+   "name": "La Torre Comics y Figuras",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Roque Sáenz Peña 974 Ofi 9B, C1035 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-3234-0835",
+   "website": "https://latorrecomics.com/",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Libria Store",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Juan B. Ambrosetti 740, C1405BIL Cdad. Autónoma de Buenos Aires",
+   "phone": "3532-6192",
+   "website": "https://libria.com.ar/",
+   "checked_at": "2026-10-17T01:13:04Z"
+  },
+  {
+   "name": "Magic Palace TCG",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "466 Sánchez de Bustamante, CABA, Cdad. Autónoma de Buenos Aires, C1173, Argentina",
+   "phone": "541153296787",
+   "website": "https://www.magicpalacetcg.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Misato Comics + Games",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Salta 388, C1074 Cdad. Autónoma de Buenos Aires",
+   "website": "http://www.misatocomics.com.ar/",
+   "checked_at": "2026-10-17T01:12:05Z"
+  },
+  {
+   "name": "MTG Pirulo",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Álvarez Thomas 198 3ro M, C1427 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2339-6756",
+   "website": "https://mtgpirulo.com/",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Phoenix Reborn",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "5126 Cnel. Ramón Lista, Villa Devoto, Cdad. Autónoma de Buenos Aires, 1418, AR",
+   "phone": "541130019630",
+   "website": "https://www.phoenixreborn.com.ar",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:50Z"
+  },
+  {
+   "name": "Phoenix Reborn La Plata",
+   "group": "blocked",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "C. 55 531, B1904 La Plata, Provincia de Buenos Aires",
+   "phone": "0221 408-7374",
+   "website": "https://phoenixreborn.com.ar/",
+   "checked_at": "2026-10-17T01:14:05Z"
+  },
+  {
+   "name": "Pixel & Prints",
+   "group": "blocked",
+   "region": "Mendoza",
+   "address": "Patricias Mendocinas 1709 Loc 12, M5500 Mendoza",
+   "phone": "0261 624-9859",
+   "website": "https://www.pixelandprints.com.ar/",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Rey Esteban Comics",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Cullen 5116, C1431 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4417-0808",
+   "website": "https://www.reyesteban.com/",
+   "checked_at": "2026-10-17T01:13:04Z"
+  },
+  {
+   "name": "ROBOT NEGRO",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 1382, Local 36, C1043ABN, C1015 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-6010-0893",
+   "website": "http://www.robotnegro.com/",
+   "checked_at": "2026-10-17T01:12:40Z"
+  },
+  {
+   "name": "Rosario Shopping store",
+   "group": "blocked",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Local 2 Galeria la comedia ROSARIO, Mitre 960, S2000 Rosario, Santa Fe",
+   "phone": "0341 570-5258",
+   "website": "https://www.rosarioshoppingstore.com.ar/",
+   "checked_at": "2026-10-17T01:13:19Z"
+  },
+  {
+   "name": "Saturnalia Fan Store",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Tucumán 829 4° piso, C1049AAQ Cdad. Autónoma de Buenos Aires",
+   "website": "https://www.saturnalia.com.ar/",
+   "checked_at": "2026-10-17T01:12:31Z"
+  },
+  {
+   "name": "SOLOBOLOS",
+   "group": "blocked",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Luis 1477, S2000BBU Rosario, Santa Fe",
+   "phone": "0341 620-1477",
+   "website": "http://www.solobolos.com.ar/",
+   "checked_at": "2026-10-17T01:13:52Z"
+  },
+  {
+   "name": "ViduComics Comiquería",
+   "group": "blocked",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Sta. Fe 2653 Loc 6, C1425 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 7367-7111",
+   "website": "https://www.viducomics.com.ar/",
+   "checked_at": "2026-10-17T01:12:50Z"
+  },
+  {
+   "name": "ArgCollectibles",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Tte. Gral. Juan Domingo Perón 1111 Piso 10 Oficina 1001, C1038 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3925-7883",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Cartas Andres",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Carriego 1264, S2002SDJ Rosario, Santa Fe",
+   "checked_at": "2026-10-17T01:13:36Z"
+  },
+  {
+   "name": "Circunloquio",
+   "group": "in_store",
+   "city": "BPW",
+   "region": "Santa Fe",
+   "address": "Zeballos 1107, S2000 BPW, Santa Fe",
+   "phone": "0341 348-7351",
+   "checked_at": "2026-10-17T01:13:20Z"
+  },
+  {
+   "name": "Dominaria Comics",
+   "group": "in_store",
+   "city": "ABQ",
+   "region": "Provincia de Buenos Aires",
+   "address": "Vicente López Buenos Aires AR, Av. Maipú 1194, B1602 ABQ, Provincia de Buenos Aires",
+   "phone": "011 7361-3538",
+   "website": "https://www.facebook.com/pages/Dominaria-Comics/257634360947994",
+   "checked_at": "2026-10-17T01:12:52Z"
+  },
+  {
+   "name": "El Jardinero Numismatico",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Ruiz Huidobro 3923, C1430 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3905-9360",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "El Romano Coleccionables",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Av. Carlos Pellegrini 1164 Loc 28, S2000BTY Rosario, Santa Fe",
+   "phone": "0341 506-0454",
+   "website": "https://www.facebook.com/El-Romano-398006496997438/",
+   "checked_at": "2026-10-17T01:13:27Z"
+  },
+  {
+   "name": "ESTUDIO CARPE DIEM",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Galería Mercurio, Sarmiento 958 Loc 62, S2000CMP Rosario, Santa Fe",
+   "phone": "0341 312-3078",
+   "checked_at": "2026-10-17T01:13:31Z"
+  },
+  {
+   "name": "FAP - Federación Argentina de Pasiones",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Patricias Mendocinas 1429, M5500 Mendoza",
+   "phone": "0261 302-7581",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Ficciones TCG",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Maipú 992, C1006ACN Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Galeria Independencia",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Lavalle 35, M5500 Mendoza",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Galería Rosario",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Sarmiento 859, S2000CMM Rosario, Santa Fe",
+   "checked_at": "2026-10-17T01:13:36Z"
+  },
+  {
+   "name": "Galileo - Librería + Juguetería",
+   "group": "in_store",
+   "city": "FYA",
+   "region": "Santa Fe",
+   "address": "Corrientes 1717, S2000 FYA, Santa Fe",
+   "phone": "0341 213-3116",
+   "website": "https://instagram.com/galileo_libreria_jugueteria?igshid=13ukmzbs2woak",
+   "checked_at": "2026-10-17T01:13:56Z"
+  },
+  {
+   "name": "Giro Didáctico Rosario",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Rioja 1798, S2000AZB Rosario, Santa Fe",
+   "phone": "0341 306-7621",
+   "checked_at": "2026-10-17T01:13:42Z"
+  },
+  {
+   "name": "HOBBIES COLECCIONABLES",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Tucumán 417, C1049AAI Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4322-2477",
+   "checked_at": "2026-10-17T01:13:10Z"
+  },
+  {
+   "name": "Invasión Comics",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Mitre 737, S2000 Rosario, Santa Fe",
+   "phone": "0341 297-0465",
+   "website": "http://instagram.com/invasioncomics",
+   "checked_at": "2026-10-17T01:13:27Z"
+  },
+  {
+   "name": "JugEcos Mendoza, Argentina",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "5500, M5502 Mendoza",
+   "phone": "0261 244-2434",
+   "checked_at": "2026-10-17T01:14:04Z"
+  },
+  {
+   "name": "JUGUETERIA DROOPY",
+   "group": "in_store",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Tristán Malbrán 4109 Loc 1 y 2, X5009 Córdoba",
+   "phone": "0351 689-2647",
+   "website": "https://www.instagram.com/jugueteria.droopy/",
+   "checked_at": "2026-10-17T01:13:18Z"
+  },
+  {
+   "name": "JUGUETERIA NOAH'S ARK",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Lavalle 201, M5500 Mendoza",
+   "phone": "0261 425-9440",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Juguetería Marilú",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Lavalle 180, M5500 Mendoza",
+   "phone": "0261 425-0960",
+   "checked_at": "2026-10-17T01:14:00Z"
+  },
+  {
+   "name": "Kaboom Comiqueria",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "C. Bartolomé Mitre 2336, C1039AAL Cdad. Autónoma de Buenos Aires",
+   "phone": "011 7239-7468",
+   "checked_at": "2026-10-17T01:13:10Z"
+  },
+  {
+   "name": "Kame  House Posadas",
+   "group": "in_store",
+   "city": "Posadas",
+   "region": "Misiones",
+   "address": "Monteagudo 2150, N3301 Posadas, Misiones, Argentina, Posadas, Misiones, N3301",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:57Z"
+  },
+  {
+   "name": "La Batikueva",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+54-9-11-2252-8546",
+   "website": "https://www.facebook.com/labatikueva.magic/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:48Z"
+  },
+  {
+   "name": "La Puzzloteca",
+   "group": "in_store",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Mauricio Yadarola 1096, X5000 Córdoba",
+   "phone": "0351 550-9412",
+   "checked_at": "2026-10-17T01:13:18Z"
+  },
+  {
+   "name": "LA RABONA FUTBOL CARDS",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Plaza 3861, C1430 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4180-7000",
+   "checked_at": "2026-10-17T01:12:16Z"
+  },
+  {
+   "name": "La Revisteria Comics - Point Medrano",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 3968, C1043AAA Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:13:05Z"
+  },
+  {
+   "name": "Librería García Santos Libros",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Av. San Martín 921, M5500 Mendoza",
+   "phone": "0261 429-2287",
+   "checked_at": "2026-10-17T01:14:00Z"
+  },
+  {
+   "name": "Lo de Charly TCG",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Pje. el Maestro 27, C1424BQA Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5479-1582",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Lo de Max",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Azcuénaga 352, C1029AAH Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4951-1280",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Loalva",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Av. Emilio Civit 166, M5500 Mendoza",
+   "phone": "0261 590-7789",
+   "checked_at": "2026-10-17T01:14:04Z"
+  },
+  {
+   "name": "Lords.tcg",
+   "group": "in_store",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "C. 49 621, B1900 La Plata, Provincia de Buenos Aires",
+   "phone": "0221 554-3266",
+   "website": "https://www.instagram.com/lords.tcg/",
+   "checked_at": "2026-10-17T01:12:24Z"
+  },
+  {
+   "name": "LUTRIG",
+   "group": "in_store",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Arani 5684, X5017 Córdoba",
+   "phone": "0351 200-8439",
+   "checked_at": "2026-10-17T01:13:18Z"
+  },
+  {
+   "name": "Magic Games",
+   "group": "in_store",
+   "city": "DQS",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Bucarelli 2331, C1431 DQS, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4522-4862",
+   "checked_at": "2026-10-17T01:13:10Z"
+  },
+  {
+   "name": "Master Games",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Buenos Aires 96, M5500 Mendoza",
+   "phone": "0261 541-1532",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Megazord Cómics",
+   "group": "in_store",
+   "city": "San Rafael",
+   "region": "Mendoza",
+   "address": "Bernardo de Irigoyen 44, M5600 San Rafael, Mendoza",
+   "phone": "0260 15-468-3390",
+   "website": "http://www.facebook.com/megazordcomics",
+   "checked_at": "2026-10-17T01:14:04Z"
+  },
+  {
+   "name": "MENDOZA CENTER",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Mendoza 4881 Oeste, S2002PDG Rosario, Santa Fe",
+   "phone": "0341 430-3794",
+   "checked_at": "2026-10-17T01:13:46Z"
+  },
+  {
+   "name": "Milenario Comics",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "PCM, Mendoza 3861, S2000 Rosario, Santa Fe",
+   "phone": "0341 652-3249",
+   "checked_at": "2026-10-17T01:13:27Z"
+  },
+  {
+   "name": "MINIMARKET Black y Blue",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Av. Ovidio Lagos 1302, S2000QLT Rosario, Santa Fe",
+   "phone": "0341 329-1505",
+   "checked_at": "2026-10-17T01:13:36Z"
+  },
+  {
+   "name": "MTG Pirulo",
+   "group": "in_store",
+   "city": "Buenos Aires",
+   "region": "Buenos Aires",
+   "address": "Bulnes 292, C1176ABD CABA, Argentina, Buenos Aires, Buenos Aires, C1176",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:57Z"
+  },
+  {
+   "name": "Multiverse Geek Store",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Catamarca 1736, S2000AJP Rosario, Santa Fe",
+   "checked_at": "2026-10-17T01:13:56Z"
+  },
+  {
+   "name": "no hay nada",
+   "group": "in_store",
+   "city": "Villa Dominico",
+   "region": "Provincia de Buenos Aires",
+   "address": "Parque Rivadavia, Comod. Rivadavia, B1874 Villa Dominico, Provincia de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Orcshop",
+   "group": "in_store",
+   "city": "Buenos Aires",
+   "region": "Ciudad Autónoma de Buenos Aires",
+   "address": "3857 Calle Jorge Newbery, CABA, Cdad. Autónoma de Buenos Aires, C1426, Argentina",
+   "phone": "5491132934651",
+   "website": "http://instagram.com/orcshopgames",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:48Z"
+  },
+  {
+   "name": "Paseo de la Comedia Gallery",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Mitre 960, S2000 Rosario, Santa Fe",
+   "checked_at": "2026-10-17T01:13:36Z"
+  },
+  {
+   "name": "Play Game",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Av. Alberdi 1002 bis, S2000 Rosario, Santa Fe",
+   "phone": "0341 265-9477",
+   "checked_at": "2026-10-17T01:13:42Z"
+  },
+  {
+   "name": "Play Zone",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Isabel la Católica 153, C1268ACC Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:16Z"
+  },
+  {
+   "name": "POKESTOCK CABALLITO",
+   "group": "in_store",
+   "city": "C1424BQA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Pje. el Maestro 27, C1424BQA C1424BQA, Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:15Z"
+  },
+  {
+   "name": "Red Ribbon | CÓMICS / MANGAS",
+   "group": "in_store",
+   "region": "Mendoza",
+   "address": "Garibaldi 69, M5500 Mendoza",
+   "phone": "0261 15-699-1377",
+   "checked_at": "2026-10-17T01:13:58Z"
+  },
+  {
+   "name": "Septimo Portal",
+   "group": "in_store",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "Galería Central, Av. 7 809, Casco Urbano, B1900TFW, Local 20, B1900 La Plata, Provincia de Buenos Aires",
+   "phone": "0221 359-1314",
+   "checked_at": "2026-10-17T01:14:09Z"
+  },
+  {
+   "name": "Spy Games & Geeks",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Pueyrredón 1357 Loc 106, C1118AAQ Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6536-3380",
+   "checked_at": "2026-10-17T01:12:26Z"
+  },
+  {
+   "name": "TC Todo es Coleccionable",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Cuenca 2138, C1416 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4440-9307",
+   "checked_at": "2026-10-17T01:12:26Z"
+  },
+  {
+   "name": "TCG & coffee",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Chaco 21, C1212AAQ Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4058-9447",
+   "website": "https://instagram.com/lodecharlytcg",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Tienda de Comics",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Rivadavia 11428 1408, C1408ABO Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:59Z"
+  },
+  {
+   "name": "TIENDA ITZ",
+   "group": "in_store",
+   "city": "San Isidro",
+   "region": "Provincia de Buenos Aires",
+   "address": "Gral. Manuel Belgrano 66 Local 1 Y 9, B1642 San Isidro, Provincia de Buenos Aires",
+   "phone": "011 2308-3075",
+   "website": "https://www.instagram.com/tiendasitz",
+   "checked_at": "2026-10-17T01:12:15Z"
+  },
+  {
+   "name": "Turno Zero",
+   "group": "in_store",
+   "city": "Rada Tilly",
+   "region": "Chubut",
+   "address": "Lago Gral. Vinter, U9001 Rada Tilly, Chubut, Argentina, Rada Tilly, Chubut, U9001",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:57Z"
+  },
+  {
+   "name": "yumi TOY MARKET",
+   "group": "in_store",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Sta. Fe 1714 Loc 19, C1060ABQ Cdad. Autónoma de Buenos Aires",
+   "checked_at": "2026-10-17T01:12:04Z"
+  },
+  {
+   "name": "Zapatero Rosario Richard",
+   "group": "in_store",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Entre Ríos 1245, S2000 Rosario, Santa Fe",
+   "phone": "0341 694-7879",
+   "checked_at": "2026-10-17T01:13:39Z"
+  },
+  {
+   "name": "5 A La Cara",
+   "group": "unknown",
+   "city": "AAC",
+   "region": "Ciudad Autónoma de Buenos Aires",
+   "address": "121 Salta, CABA, Cdad. Autónoma de Buenos Aires, C1074, Argentina",
+   "phone": "541155699626",
+   "website": "https://www.5alacara.com.ar/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "5 a La Cara",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Salta 121, C1074 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5569-9626",
+   "website": "https://www.5alacara.com.ar/",
+   "checked_at": "2026-10-17T01:12:04Z"
+  },
+  {
+   "name": "A JUGAR!",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Blvd. Oroño 1388, S2000 Rosario, Santa Fe",
+   "phone": "0341 691-4194",
+   "website": "https://www.ajugarjugueteria.com.ar/",
+   "checked_at": "2026-10-17T01:13:49Z"
+  },
+  {
+   "name": "adidas Store Rosario, Peatonal Cordoba",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Córdoba 1200, S2000 Rosario, Santa Fe",
+   "website": "https://www.adidas.com?shortlink=11c0ab86&source_caller=ui&is_retargeting=true&af_channel=Partners&onelink_id=ihha&c=Google-Map-Business-Profile&af_dp=adidas%3A%2F%2Fontheradar&pid=GoogleMap",
+   "checked_at": "2026-10-17T01:13:39Z"
+  },
+  {
+   "name": "AFTER TCG",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Hipólito Yrigoyen 3386, C1208ABN Cdad. Autónoma de Buenos Aires",
+   "phone": "011 7828-9401",
+   "website": "https://aftertcg.com.ar/",
+   "checked_at": "2026-10-17T01:12:14Z"
+  },
+  {
+   "name": "Albattle TCG",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "2760 Cnel. Ramón L. Falcón, CABA, Cdad. Autónoma de Buenos Aires, C1406, Argentina",
+   "phone": "541122536232",
+   "website": "https://albattletcg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:48Z"
+  },
+  {
+   "name": "AnimeWorld",
+   "group": "unknown",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Hiper Libertad Rodríguez del Busto Stand 2480, 5000 Córdoba",
+   "phone": "0351 330-9656",
+   "website": "https://www.animeworld.com.ar/",
+   "checked_at": "2026-10-17T01:13:12Z"
+  },
+  {
+   "name": "Antonio Hobby - Local de hobbies y juguetes",
+   "group": "unknown",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "7 entre 50 y 51 Local 18, B1900 La Plata, Provincia de Buenos Aires",
+   "phone": "0221 575-8574",
+   "website": "https://antoniohobby.com",
+   "checked_at": "2026-10-17T01:14:07Z"
+  },
+  {
+   "name": "Aqui hay Dragones",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "Gutiérrez 323, M5500 Mendoza",
+   "phone": "0261 15-417-1627",
+   "website": "https://www.aquihaydragones.com.ar/",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "Battousalem Shop",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Cabildo 4447, C1430 Cdad. Autónoma de Buenos Aires",
+   "website": "https://battousalemshop.com.ar/",
+   "checked_at": "2026-10-17T01:12:38Z"
+  },
+  {
+   "name": "Bazaar of Baghdad",
+   "group": "unknown",
+   "address": "3 de Febrero 2729 Int. T1, Caseros, B, 1678, Argentina",
+   "phone": "54911-3610-3811",
+   "website": "https://bazaarmtg.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:50Z"
+  },
+  {
+   "name": "Beard's Games",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Pasteur 274, C1028AAF Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4952-3183",
+   "website": "https://barbagames.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:12:16Z"
+  },
+  {
+   "name": "BLAST 78",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Córdoba 1643, S2000AWY Rosario, Santa Fe",
+   "phone": "011 5218-8166",
+   "website": "https://blast.com.ar/",
+   "checked_at": "2026-10-17T01:13:36Z"
+  },
+  {
+   "name": "Blink Trashh Collectibles",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Olivera 266, C1407 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6631-3706",
+   "website": "https://www.blinktrashh.com.ar/",
+   "checked_at": "2026-10-17T01:12:52Z"
+  },
+  {
+   "name": "Capitán Barato Comiquería",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 5239 Local 03, C1414AJF Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-3695-1525",
+   "website": "https://www.capitanediciones.com/",
+   "checked_at": "2026-10-17T01:12:17Z"
+  },
+  {
+   "name": "Card Citadel",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "523 Solís, CABA, Cdad. Autónoma de Buenos Aires, C1078, AR",
+   "phone": "541140294500",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Carrefour Hipermercado",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Pueyrredón 747, S2000 Rosario, Santa Fe",
+   "phone": "0800-444-8484",
+   "website": "https://www.carrefour.com.ar/",
+   "buylist_url": "https://www.carrefour.com.ar/buylist",
+   "checked_at": "2026-10-17T01:13:39Z"
+  },
+  {
+   "name": "Charmarket - Pokemon TCG",
+   "group": "unknown",
+   "city": "Villa Martelli",
+   "region": "Provincia de Buenos Aires",
+   "address": "Adolfo Alsina 4327, B1603 Villa Martelli, Provincia de Buenos Aires",
+   "phone": "011 3082-2897",
+   "website": "https://linktr.ee/charmarket.ar",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T01:11:57Z"
+  },
+  {
+   "name": "Chibi Kokoro",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Luis 1665 Piso 5, oficina 12, S2000 Rosario, Santa Fe",
+   "phone": "0341 658-5509",
+   "website": "https://chibikokoro.com/",
+   "checked_at": "2026-10-17T01:13:28Z"
+  },
+  {
+   "name": "CINE 3D MANIA",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Cabildo 2136, C1428AAQ Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3047-6876",
+   "website": "https://cine3dmania.com.ar/",
+   "checked_at": "2026-10-17T01:13:05Z"
+  },
+  {
+   "name": "Coleccionables Mellon",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Warnes 1083, C1414 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6900-7210",
+   "website": "https://www.coleccionablesmellon.com/",
+   "checked_at": "2026-10-17T01:12:58Z"
+  },
+  {
+   "name": "COMIC CENTER",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Elcano 3447, C1426 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4554-7542",
+   "website": "https://comiccenterstore.com.ar/",
+   "checked_at": "2026-10-17T01:12:25Z"
+  },
+  {
+   "name": "Comic Club Montevideo",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Montevideo 255, C1037ABE Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4375-2323",
+   "website": "https://www.mercadolibre.com.ar/pagina/clubdelcomic",
+   "checked_at": "2026-10-17T01:12:36Z"
+  },
+  {
+   "name": "Comprar Cartas de Tarot Mazos Online Cursos Marsella Rider Argentina",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Sanabria 4691, C1419 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-6969-2307",
+   "website": "https://cartasdetarot.com.ar/",
+   "checked_at": "2026-10-17T01:12:18Z"
+  },
+  {
+   "name": "Cool collection Quilmes",
+   "group": "unknown",
+   "city": "Don Bosco",
+   "region": "Provincia de Buenos Aires",
+   "address": "Av. Caseros 1750, B1876 Don Bosco, Provincia de Buenos Aires",
+   "phone": "011 15-3584-8184",
+   "website": "https://coolcollectiontcg.com/",
+   "checked_at": "2026-10-17T01:12:10Z"
+  },
+  {
+   "name": "Cool Collection Tcg",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Juan de Garay 633, C1153 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-6629-0808",
+   "website": "https://www.coolcollectiontcg.com/",
+   "checked_at": "2026-10-17T01:11:59Z"
+  },
+  {
+   "name": "Creepshop",
+   "group": "unknown",
+   "address": "971 Avellaneda, Castelar, Provincia de Buenos Aires, B1712, Argentina",
+   "phone": "5491131210592",
+   "website": "https://creepshop.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:54Z"
+  },
+  {
+   "name": "Cromo games",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Emilio Mitre 1140, C1424 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5618-9735",
+   "website": "https://cromogames.com.ar/",
+   "checked_at": "2026-10-17T01:12:12Z"
+  },
+  {
+   "name": "Cromy Club - Distribuidora Mayorista de Figuritas",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Cdad. de la Paz 2532, C1428CPR Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3086-1021",
+   "website": "https://cromy-club.com.ar/",
+   "checked_at": "2026-10-17T01:12:25Z"
+  },
+  {
+   "name": "CrossOver Comics Store",
+   "group": "unknown",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Gral. Paz 174 Loc 05, X5000 Córdoba",
+   "phone": "0351 422-3500",
+   "website": "https://www.crossover-comics.com/",
+   "checked_at": "2026-10-17T01:13:11Z"
+  },
+  {
+   "name": "Cyndasaur TCG",
+   "group": "unknown",
+   "city": "Gerli",
+   "region": "Provincia de Buenos Aires",
+   "address": "Limay 1562, C1870 Gerli, Provincia de Buenos Aires",
+   "phone": "011 2399-4578",
+   "website": "https://cyndasaurtcg.empretienda.com.ar/",
+   "checked_at": "2026-10-17T01:12:12Z"
+  },
+  {
+   "name": "DGL GAMES & COMICS",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Lope de Vega 3074, C1417CPP Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6852-1389",
+   "website": "https://www.mercadolibre.com.ar/pagina/dglgames",
+   "checked_at": "2026-10-17T01:12:56Z"
+  },
+  {
+   "name": "Dima Game",
+   "group": "unknown",
+   "address": "Avellaneda 907, Buenos Aires, B, 1405, Argentina",
+   "phone": "+54 1159010734",
+   "website": "http://www.dimagame.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:48Z"
+  },
+  {
+   "name": "Dragonsnake Games",
+   "group": "unknown",
+   "address": "1489 Av. La Plata, CABA, Cdad. Autónoma de Buenos Aires, C1237, Argentina",
+   "phone": "5491162505006",
+   "website": "https://www.dragonsnakegames.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Dredd Store Rosario - Comics y Coleccionables",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Galeria del sol, Av. San Martín 843 Loc 14, S2000 Rosario, Santa Fe",
+   "phone": "0341 302-8848",
+   "website": "https://www.dreddstorerosario.com.ar/",
+   "checked_at": "2026-10-17T01:13:24Z"
+  },
+  {
+   "name": "El Abismo de Helm Wargames",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "5233 Av. Corrientes, CABA, Cdad. Autónoma de Buenos Aires, C1414, Argentina",
+   "phone": "5401140387404",
+   "website": "https://www.elabismodehelmwargames.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:46Z"
+  },
+  {
+   "name": "El Ateneo Grand Splendid",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Sta. Fe 1860, C1123 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4813-6052",
+   "website": "https://www.yenny-elateneo.com/sucursales/",
+   "checked_at": "2026-10-17T01:12:57Z"
+  },
+  {
+   "name": "El Mundo del Juguete",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Cerrito 798, C1005 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5263-8132 ext. 054",
+   "website": "https://www.elmundodeljuguete.com.ar/",
+   "buylist_url": "https://www.elmundodeljuguete.com.ar/buylist",
+   "checked_at": "2026-10-17T01:12:26Z"
+  },
+  {
+   "name": "El Mundo del Juguete",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "El Portal de Rosario, Nansen 323, S2013 Rosario, Santa Fe",
+   "phone": "0341 776-5679",
+   "website": "https://www.elmundodeljuguete.com.ar/",
+   "buylist_url": "https://www.elmundodeljuguete.com.ar/buylist",
+   "checked_at": "2026-10-17T01:13:46Z"
+  },
+  {
+   "name": "El Refugio Tcg Store",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Cabildo 2040, C1428AAP Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-2392-8759",
+   "website": "https://www.elrefugiosingles.com.ar/",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Elektra Comics",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Defensa 247, C1065AAC, C1065AAC Cdad. Autónoma de Buenos Aires",
+   "website": "https://www.elektracomics.com.ar/",
+   "checked_at": "2026-10-17T01:12:45Z"
+  },
+  {
+   "name": "Entelequia comicbookstore",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Uruguay 341, C1015ABG Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4372-7282",
+   "website": "http://www.entelequia.com.ar/",
+   "checked_at": "2026-10-17T01:12:32Z"
+  },
+  {
+   "name": "Eternia Store",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "galeria rosario, Av. San Martín 862 Primer Piso locales 111 - 112, S2000 Rosario, Santa Fe",
+   "phone": "0341 546-6046",
+   "website": "https://eterniastore.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:13:23Z"
+  },
+  {
+   "name": "Extraño Mundo",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Rivadavia 1928, C1033 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3967-6382",
+   "website": "https://www.mercadolibre.com.ar/gz/account-verification?go=https%3A%2F%2Flistado.mercadolibre.com.ar%2F_CustId_45167173%3Fitem_id%3DMLA2562009758%26category_id%3DMLA412445%26seller_id%3D45167173%26client%3Drecoview-selleritems%26recos_listing%3Dtrue&tid=10716797-7de0-4f0a-adbc-7746c127d896",
+   "checked_at": "2026-10-17T01:12:52Z"
+  },
+  {
+   "name": "Figus Corporation",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Plaza 3861 C. A, DIO, Plaza, C1430 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-4180-7000",
+   "website": "http://figuscorporation.blogspot.com/",
+   "checked_at": "2026-10-17T01:12:15Z"
+  },
+  {
+   "name": "Froggy Market",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Galeria Marga, Av. Cabildo 2350 Loc 51, C1428AAS Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-5753-8656",
+   "website": "https://froggymarket.com.ar/",
+   "checked_at": "2026-10-17T01:12:45Z"
+  },
+  {
+   "name": "Fábrica de Historietas",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Ayacucho 19, C1025 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4951-4670",
+   "website": "https://fabricadehistorietas.mitiendanube.com/",
+   "checked_at": "2026-10-17T01:12:49Z"
+  },
+  {
+   "name": "Gorilla Games",
+   "group": "unknown",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Félix Frías 1450, X5000 Córdoba",
+   "phone": "0351 227-6647",
+   "website": "https://gorilagames.com/",
+   "checked_at": "2026-10-17T01:13:14Z"
+  },
+  {
+   "name": "Hadriatica",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Fray Justo Santa María de Oro 2150, Showroom 707, C1425 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6049-0507",
+   "website": "https://www.hadriatica.com/",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Hiper Chango Más - Mendoza",
+   "group": "unknown",
+   "city": "Guaymallén",
+   "region": "Mendoza",
+   "address": "Moldes 1023, M5519 Guaymallén, Mendoza",
+   "phone": "0810-444-9256",
+   "website": "https://www.masonline.com.ar/",
+   "buylist_url": "https://www.masonline.com.ar/buylist",
+   "checked_at": "2026-10-17T01:14:00Z"
+  },
+  {
+   "name": "HOUSE ZANZI - JUEGOS.COM SRL",
+   "group": "unknown",
+   "city": "AAH",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Talcahuano 364, C1013 AAH, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5516-0872",
+   "website": "https://www.casazanzi.com/",
+   "checked_at": "2026-10-17T01:12:32Z"
+  },
+  {
+   "name": "Jawa tienda de coleccionismo",
+   "group": "unknown",
+   "city": "Godoy Cruz",
+   "region": "Mendoza",
+   "address": "H, O'Higgins 130, M5501 Godoy Cruz, Mendoza",
+   "phone": "0261 593-7928",
+   "website": "http://jawatiendadecoleccionismo.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:13:56Z"
+  },
+  {
+   "name": "JEIN Geek Culture",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Cabildo 2280, 1185 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5056-8510",
+   "website": "https://jein.com.ar/",
+   "checked_at": "2026-10-17T01:12:37Z"
+  },
+  {
+   "name": "JUGUETERIA IMPORTADORA ELECTRONICA DETODITO",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "Av. Las Heras 384, M5500 Mendoza",
+   "phone": "0261 613-3834",
+   "website": "https://detoditomendoza.mitiendanube.com/",
+   "checked_at": "2026-10-17T01:14:01Z"
+  },
+  {
+   "name": "JUGUETERIA Maná Tienda",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Córdoba 1060 Loc 11, S2000ARI Rosario, Santa Fe",
+   "phone": "0341 621-1441",
+   "website": "https://manatiendavirtual.empretienda.com.ar/",
+   "checked_at": "2026-10-17T01:13:53Z"
+  },
+  {
+   "name": "Jugueteria Mundo Hobby",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Paseo Libertad, Blvd. Oroño 6190, S2000 Rosario, Santa Fe",
+   "phone": "0341 349-6449",
+   "website": "https://www.mundo-hobby.com/",
+   "checked_at": "2026-10-17T01:13:29Z"
+  },
+  {
+   "name": "Jugueteria Ploppy - Parque Patricios - C.A.B.A",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Gral. Francisco Fernández de la Cruz 2938, C1437 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4943-3323",
+   "website": "https://tienda.jugueteriaploppy.com.ar",
+   "checked_at": "2026-10-17T01:12:29Z"
+  },
+  {
+   "name": "Knowhere Collectibles",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Honduras 5720, C1414 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5373-9527",
+   "website": "https://shop.knowhere.com.ar/cgi-sys/suspendedpage.cgi",
+   "checked_at": "2026-10-17T01:12:46Z"
+  },
+  {
+   "name": "La Batikueva Store",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Camacuá 371, C1406 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2252-8546",
+   "website": "https://www.labatikuevastore.com/",
+   "buylist_url": "https://www.labatikuevastore.com/pages/buylist",
+   "checked_at": "2026-10-17T01:12:01Z"
+  },
+  {
+   "name": "La Forja - Hurlingham",
+   "group": "unknown",
+   "address": "Tte. Gral. Julio Argentino Roca 981, Hurlingham, Buenos Aires, 1686, Argentina",
+   "phone": "5491133961035",
+   "website": "https://www.laforjatcg.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:53Z"
+  },
+  {
+   "name": "La Revisteria & Coffee",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Florida 719, C1005AAO Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5219-2446",
+   "website": "https://www.larevisteria.com/",
+   "checked_at": "2026-10-17T01:12:22Z"
+  },
+  {
+   "name": "LaWorkshopTCG",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Moldes 2168, C1428CRH Cdad. Autónoma de Buenos Aires",
+   "website": "https://laworkshoptcg.com/",
+   "buylist_url": "https://laworkshoptcg.com/retailer/buylist",
+   "checked_at": "2026-10-17T01:12:07Z"
+  },
+  {
+   "name": "LEONARDO HOBBIES",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Martín 860 GALERIA ROSARIO LOCAL 126, 127 y 128, Av. San Martín 855 Planta Alta, S2000CJK Rosario, Santa Fe",
+   "phone": "0341 370-3405",
+   "website": "https://www.leonardohobbies.com.ar/",
+   "checked_at": "2026-10-17T01:13:24Z"
+  },
+  {
+   "name": "Locura Magic",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "1136 Av. San Martín Local 24, Mendoza, Mendoza, M5500, Argentina",
+   "phone": "542616290056 ",
+   "website": "https://www.locuramagic.com/password/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:55Z"
+  },
+  {
+   "name": "Madtoyz",
+   "group": "unknown",
+   "address": "1285 Gurruchaga, CABA, Cdad. Autónoma de Buenos Aires, C1414, Argentina",
+   "phone": "541134647867",
+   "website": "https://madtoyzjugueteria.com",
+   "buylist_url": "https://madtoyzjugueteria.com/faq/compramos-tus-juguetes/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Magic Z",
+   "group": "unknown",
+   "city": "C1406GJZ",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Yerbal 2250 Loc 12, C1406GJZ C1406GJZ, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2652-8614",
+   "website": "https://magiczblog.blogspot.com/?m=1",
+   "checked_at": "2026-10-17T01:12:10Z"
+  },
+  {
+   "name": "Magic4Ever",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Boedo 556, C1218 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3122-0556",
+   "website": "https://www.magic4ever.com.ar/",
+   "checked_at": "2026-10-17T01:12:09Z"
+  },
+  {
+   "name": "Manga Couple Store",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Maipú 1230, S2000AYG Rosario, Santa Fe",
+   "phone": "0341 653-1522",
+   "website": "https://www.mangacouplestore.com.ar/",
+   "checked_at": "2026-10-17T01:13:24Z"
+  },
+  {
+   "name": "Masters TCG",
+   "group": "unknown",
+   "city": "Olivos",
+   "region": "Provincia de Buenos Aires",
+   "address": "Corrientes 1473, B1636 Olivos, Provincia de Buenos Aires",
+   "phone": "011 15-6404-9996",
+   "website": "https://masterstcg.com.ar/",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Mendoza Shopping",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "Av. de Acceso Este 3280, M5500 Mendoza",
+   "phone": "0800-222-2299",
+   "website": "https://www.mendozashopping.com/",
+   "checked_at": "2026-10-17T01:13:58Z"
+  },
+  {
+   "name": "Meridiana Comics",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Rivadavia 4963 Loc 18, C1424 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4902-4354",
+   "website": "https://www.meridianacomics.com/",
+   "checked_at": "2026-10-17T01:12:46Z"
+  },
+  {
+   "name": "Metajuegos local 6",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Pasteur 346, C1028AAH, C1028AAH Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6597-2558",
+   "website": "https://metajuego1.com/?fbclid=IwAR3XyIfx514agjS-uX1umgns8gCpCYsj8E4RT8KNfB-4plroznpspCLvqIk",
+   "checked_at": "2026-10-17T01:12:18Z"
+  },
+  {
+   "name": "Midgard Comics Tienda",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Corrientes 1372 Locales 18 y 19, C1043 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4838-3993",
+   "website": "https://midgardcomics.tiendanegocio.com/",
+   "checked_at": "2026-10-17T01:12:56Z"
+  },
+  {
+   "name": "Mono loco",
+   "group": "unknown",
+   "city": "AAF",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Azcuénaga 202, C1029 AAF, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4952-7357",
+   "website": "https://elmonoloco.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:12:19Z"
+  },
+  {
+   "name": "Mostly Games",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Potosí 4338, C1199ACN, C1199 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3510-5685",
+   "website": "https://mostlygames.com.ar/",
+   "checked_at": "2026-10-17T01:12:26Z"
+  },
+  {
+   "name": "Mr DM",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Arévalo 2061, C1425 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-2460-1608",
+   "website": "http://tienda.geekout.ar/",
+   "checked_at": "2026-10-17T01:12:06Z"
+  },
+  {
+   "name": "Multiverse GS",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Mitre 830 Loc 5, S2000 Rosario, Santa Fe",
+   "phone": "0341 262-5233",
+   "website": "https://multiverse.com.ar/",
+   "checked_at": "2026-10-17T01:13:20Z"
+  },
+  {
+   "name": "Mundo Figus",
+   "group": "unknown",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "Pl. Azcuénaga, B1900 La Plata, Provincia de Buenos Aires",
+   "phone": "0221 15-316-6839",
+   "website": "https://mundofigus.com/",
+   "checked_at": "2026-10-17T01:14:09Z"
+  },
+  {
+   "name": "Muy Lejano",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Elcano 2998, C1426 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4552-5000",
+   "website": "https://muylejano.com.ar/",
+   "checked_at": "2026-10-17T01:12:25Z"
+  },
+  {
+   "name": "My Magic Shop - Oficina",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Av. Carlos Pellegrini 1164 Loc 12, S2000 Rosario, Santa Fe",
+   "phone": "0341 339-6738",
+   "website": "https://mymagicshop.empretienda.com.ar/",
+   "checked_at": "2026-10-17T01:13:27Z"
+  },
+  {
+   "name": "Nextgames Argentina",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Lavalle 1625, C1048 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4372-0598",
+   "website": "https://nextgames.com.ar/",
+   "checked_at": "2026-10-17T01:12:40Z"
+  },
+  {
+   "name": "Nike Shop",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Galería Alto Rosario Shopping, Junín 501 Loc 83, S2013DJK Rosario, Santa Fe",
+   "phone": "0341 410-6555",
+   "website": "https://www.nike.com/ca/",
+   "checked_at": "2026-10-17T01:13:39Z"
+  },
+  {
+   "name": "Nortoys",
+   "group": "unknown",
+   "city": "C1043ABN",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 1382 Loc 25, C1043ABN C1043ABN, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 2635-9365",
+   "website": "https://nortoyskids.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:13:03Z"
+  },
+  {
+   "name": "Obsidiana Comics",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Uriarte 1105, C1414DAA Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6802-4217",
+   "website": "https://obsidianacomics.com.ar/",
+   "checked_at": "2026-10-17T01:12:56Z"
+  },
+  {
+   "name": "Otorii Anime Store",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Córdoba 3016 Piso 2 Departamento B, C1187 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 6432-7815",
+   "website": "https://otorii.com.ar/",
+   "checked_at": "2026-10-17T01:12:31Z"
+  },
+  {
+   "name": "PECOS BILL HOBBIES",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Galeria Rosario, Av. San Martín 862 Primer Piso Local 122 - Planta Baja Local 75, S2000 Rosario, Santa Fe",
+   "phone": "0341 411-1000",
+   "website": "https://pecosbillhobbies.com.ar/",
+   "checked_at": "2026-10-17T01:13:41Z"
+  },
+  {
+   "name": "Peni",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Luis 1425, S2000 Rosario, Santa Fe",
+   "phone": "0341 570-8355",
+   "website": "https://importacionespeni.com/",
+   "checked_at": "2026-10-17T01:13:46Z"
+  },
+  {
+   "name": "Plan-T Showroom",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Luis María Drago 350, C1414 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-2388-7618",
+   "website": "https://www.plan-tcomics.com.ar/",
+   "checked_at": "2026-10-17T01:13:04Z"
+  },
+  {
+   "name": "PLANETA COMICS",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "Centro Comercial Caracol, Av. San Martín 1233 Loc 99 y 100, M5500 Mendoza",
+   "phone": "0261 630-8244",
+   "website": "http://www.planetacomics.com.ar/",
+   "checked_at": "2026-10-17T01:13:56Z"
+  },
+  {
+   "name": "Play! More",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "México 1246, S2000 Rosario, Santa Fe",
+   "phone": "0341 201-9025",
+   "website": "https://playmore.netlify.app/",
+   "checked_at": "2026-10-17T01:13:24Z"
+  },
+  {
+   "name": "Player One",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "HYN, Av. Francia 3692, S2004 Rosario, Santa Fe",
+   "phone": "0341 357-9647",
+   "website": "http://playerone.alasknet.com/",
+   "checked_at": "2026-10-17T01:13:32Z"
+  },
+  {
+   "name": "Polybius",
+   "group": "unknown",
+   "address": "579 Chacabuco, Merlo, Provincia de Buenos Aires, B1722, Argentina",
+   "phone": "5491164673729",
+   "website": "https://www.polybiustore.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:54Z"
+  },
+  {
+   "name": "Portal Store",
+   "group": "unknown",
+   "city": "Mar del Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "Av. Colón 3574, B7600 Mar del Plata, Provincia de Buenos Aires",
+   "phone": "0223 557-8572",
+   "website": "https://portalstore.com.ar/",
+   "checked_at": "2026-10-17T01:14:09Z"
+  },
+  {
+   "name": "Puro Comic",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "3 de Febrero 1180, S2000BKX Rosario, Santa Fe",
+   "phone": "0341 298-8137",
+   "website": "https://purocomic.com.ar/",
+   "checked_at": "2026-10-17T01:13:18Z"
+  },
+  {
+   "name": "Rancho Store",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "1099 Cervantes, CABA, Cdad. Autónoma de Buenos Aires, C1407, Argentina",
+   "phone": "541149732414",
+   "website": "https://ranchostoretcg.com.ar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:49Z"
+  },
+  {
+   "name": "Rocketbooks Comics | Tienda Comics en Villa Crespo",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Lavalleja 14, C1414DTB Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3092-6523",
+   "website": "https://rocketbookscomics.com.ar/rkt/",
+   "checked_at": "2026-10-17T01:13:03Z"
+  },
+  {
+   "name": "Ronin Store",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Galeria Alfar, Mitre 868 Loc 9, S2000 Rosario, Santa Fe",
+   "phone": "0341 15-718-8522",
+   "website": "https://roninstore.tiendanegocio.com/",
+   "checked_at": "2026-10-17T01:13:24Z"
+  },
+  {
+   "name": "Sanchos Shop - Funkar Coleccionables",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Tte. Gral. Juan Domingo Perón 2809, C1028 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3092-2023",
+   "website": "http://www.sanchos.com.ar/",
+   "checked_at": "2026-10-17T01:12:22Z"
+  },
+  {
+   "name": "Sector 2814",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Maipú 519, C1006AAR Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-6950-1418",
+   "website": "https://sector2814.mercadoshops.com.ar/",
+   "checked_at": "2026-10-17T01:12:56Z"
+  },
+  {
+   "name": "SEGAL",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "Av. Godoy Cruz 175, M5500DQB Mendoza",
+   "website": "https://www.segalweb.com/password/",
+   "checked_at": "2026-10-17T01:14:04Z"
+  },
+  {
+   "name": "Sekai Games",
+   "group": "unknown",
+   "address": "662 Ayacucho, CABA, Cdad. Autónoma de Buenos Aires, C1026, Argentina",
+   "phone": "+54+54 11 5236 4097",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Shibuya Comic Store",
+   "group": "unknown",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "25 de Mayo 127, X5000ELC Córdoba",
+   "phone": "0351 756-2631",
+   "website": "https://www.shibuyacomicstore.com.ar/",
+   "checked_at": "2026-10-17T01:13:12Z"
+  },
+  {
+   "name": "SHIFT GEEK STORE",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Juramento 1659, C1428 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-5524-4322",
+   "website": "https://www.somosshift.com.ar/",
+   "checked_at": "2026-10-17T01:12:43Z"
+  },
+  {
+   "name": "Space Tienda Gamer",
+   "group": "unknown",
+   "city": "Córdoba",
+   "region": "Córdoba",
+   "address": "Tucumán 127, X5000 Córdoba",
+   "phone": "0351 771-9671",
+   "website": "https://spacegamer.com.ar/",
+   "checked_at": "2026-10-17T01:13:15Z"
+  },
+  {
+   "name": "SPORT 78",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Córdoba 1151, S2000AWO Rosario, Santa Fe",
+   "phone": "011 5218-8166",
+   "website": "https://www.digitalsport.com.ar/sport78/",
+   "checked_at": "2026-10-17T01:13:37Z"
+  },
+  {
+   "name": "Store - PROXY WORLD",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Corrientes 1382 Loc 14, C1043 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4189-4360",
+   "website": "https://proxyworld.com.ar/",
+   "checked_at": "2026-10-17T01:12:02Z"
+  },
+  {
+   "name": "Store La Plata",
+   "group": "unknown",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "19 1248 esquina, C. 58 1900, B1910EXB La Plata, Provincia de Buenos Aires",
+   "phone": "0221 319-3995",
+   "website": "https://storelaplata.com.ar/",
+   "checked_at": "2026-10-17T01:14:08Z"
+  },
+  {
+   "name": "SUNSUN MARKET",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Rueda 2061, S2000 Rosario, Santa Fe",
+   "phone": "0341 252-2934",
+   "website": "https://www.sunsunmarket.com.ar/",
+   "checked_at": "2026-10-17T01:13:43Z"
+  },
+  {
+   "name": "TCG CLUB",
+   "group": "unknown",
+   "city": "La Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "C. 45 845 PB, B1900 La Plata, Provincia de Buenos Aires",
+   "website": "https://tcgclub.mitiendanube.com/",
+   "checked_at": "2026-10-17T01:14:04Z"
+  },
+  {
+   "name": "The Best",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Blvd. Oroño 6000 Loc 4, S2011LZV Rosario, Santa Fe",
+   "phone": "0341 280-3559",
+   "website": "https://thebest.com.ar/",
+   "checked_at": "2026-10-17T01:13:30Z"
+  },
+  {
+   "name": "The Dungeon Comics & Games",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Av. Sta. Fe 3535 Loc 106, C1425 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 15-7364-8093",
+   "website": "https://linktr.ee/thedungeoncomics",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T01:12:54Z"
+  },
+  {
+   "name": "THE WORLD OF TOY",
+   "group": "unknown",
+   "city": "DJK",
+   "region": "Santa Fe",
+   "address": "Junín 501 Loc 18, S2013 DJK, Santa Fe",
+   "phone": "0341 410-6607",
+   "website": "https://www.elmundodeljuguete.com.ar/",
+   "buylist_url": "https://www.elmundodeljuguete.com.ar/buylist",
+   "checked_at": "2026-10-17T01:13:55Z"
+  },
+  {
+   "name": "Tienda - TOYSMAN",
+   "group": "unknown",
+   "city": "ABO",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Uruguay 743 Planta Baja Of. \"3, C1015 ABO, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 5021-5068",
+   "website": "https://www.toysman.com.ar/",
+   "checked_at": "2026-10-17T01:12:59Z"
+  },
+  {
+   "name": "Tienda Lúdica",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "Catamarca 3173, S2002JRS Rosario, Santa Fe",
+   "phone": "0341 628-8643",
+   "website": "https://tiendaludica.com.ar/",
+   "checked_at": "2026-10-17T01:13:42Z"
+  },
+  {
+   "name": "Todo Juego",
+   "group": "unknown",
+   "city": "Rosario",
+   "region": "Santa Fe",
+   "address": "San Juan 1216, S2000BDT Rosario, Santa Fe",
+   "phone": "0341 440-0682",
+   "website": "http://todojuegosrosario.com/",
+   "checked_at": "2026-10-17T01:13:31Z"
+  },
+  {
+   "name": "Tolaria",
+   "group": "unknown",
+   "city": "Mar del Plata",
+   "region": "Provincia de Buenos Aires",
+   "address": "Almte. Brown 2446, B7600FUJ Mar del Plata, Provincia de Buenos Aires",
+   "website": "https://www.tolariashop.com/",
+   "buylist_url": "https://www.tolariashop.com/buylist",
+   "checked_at": "2026-10-17T01:12:16Z"
+  },
+  {
+   "name": "ToysToing",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Billinghurst 480, C1194 Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3085-4111",
+   "website": "https://www.toystoing.com.ar/",
+   "checked_at": "2026-10-17T01:13:03Z"
+  },
+  {
+   "name": "Tricky kids",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "avenida cabildo 2370, puesto de revistas, galeria las vegas, Av. Cabildo 2492 local 61, C1428AAT Cdad. Autónoma de Buenos Aires",
+   "phone": "011 3329-9039",
+   "website": "https://www.trickykids.shop/",
+   "checked_at": "2026-10-17T01:13:05Z"
+  },
+  {
+   "name": "Valkyrya Productos",
+   "group": "unknown",
+   "city": "CABA",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "1289 Laprida, Ciudad de Buenos Aires, CF, C1425EKE, Argentina",
+   "phone": "541141736146",
+   "website": "https://www.valkyryaproductos.com.ar",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:41Z"
+  },
+  {
+   "name": "Yafanni Center (DD-2)",
+   "group": "unknown",
+   "region": "Mendoza",
+   "address": "9 de Julio 1500, M5502 Mendoza",
+   "phone": "011 6668-8083",
+   "website": "https://www.dd2.com.ar/",
+   "checked_at": "2026-10-17T01:14:03Z"
+  },
+  {
+   "name": "Zivals",
+   "group": "unknown",
+   "city": "AAD",
+   "region": "Cdad. Autónoma de Buenos Aires",
+   "address": "Esquina Corrientes, Av. Callao 395, C1022 AAD, Cdad. Autónoma de Buenos Aires",
+   "phone": "011 4371-6978",
+   "website": "https://www.zivals.com.ar/",
+   "buylist_url": "https://www.zivals.com.ar/retailer/buylist",
+   "checked_at": "2026-10-17T01:13:07Z"
+  }
+ ]
+}

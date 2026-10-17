@@ -1,0 +1,2020 @@
+{
+ "country": "NZ",
+ "currency": "NZD",
+ "updated": "2026-10-16",
+ "store_count": 175,
+ "stores": [
+  {
+   "name": "Calico Keep",
+   "group": "feed",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+64) 0212 5517",
+   "website": "https://www.calicokeep.co.nz/",
+   "buylist_url": "https://www.calicokeep.co.nz/pages/buylist-procedure",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.calicokeep.com",
+    "store_id": "MInamaYs3W",
+    "games": [
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "Lorcana",
+    "Magic: The Gathering",
+    "Pokemon",
+    "Riftbound",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-17T01:22:59Z"
+  },
+  {
+   "name": "Goblin Games NZ",
+   "group": "feed",
+   "city": "Wellington",
+   "region": "Wellington",
+   "address": "155 Karori Road, Wellington, Wellington, 6012, New Zealand",
+   "phone": "+6421933417",
+   "website": "https://goblingames.nz/",
+   "buylist_url": "https://goblingames.nz/blogs/news/buylist-pause-october-2026",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.goblingames.nz",
+    "store_id": "nF8IQAaVFy",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Digimon",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Digimon",
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "Lorcana",
+    "Magic: The Gathering",
+    "One Piece",
+    "Pokemon",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-17T01:22:59Z"
+  },
+  {
+   "name": "Iron Knight Gaming",
+   "group": "feed",
+   "city": "Rangiora",
+   "region": "Canterbury Region",
+   "address": "700 Lineside Rd, Rangiora, Canterbury, 7400, New Zealand",
+   "phone": "+64273068149",
+   "website": "https://ironknightgaming.co.nz/",
+   "buylist_url": "https://ironknightgaming.co.nz/pages/buylist-1",
+   "feed": {
+    "platform": "sortswift",
+    "store_key": "789e0895fbbb8433",
+    "games": [
+     "Flesh and Blood",
+     "Magic: The Gathering",
+     "Riftbound"
+    ],
+    "mail_in": true,
+    "drop_off": true
+   },
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:04Z"
+  },
+  {
+   "name": "TCG Collector NZ",
+   "group": "feed",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "59B Carlyle St, Sydenham, Christchurch, Canterbury, 8023, New Zealand",
+   "phone": "+64274295977",
+   "website": "https://tcgcollectornz.com/",
+   "feed": {
+    "platform": "storepass",
+    "host": "buylist.tcgcollectornz.com",
+    "store_id": "4KGL47aomL",
+    "games": [
+     "One Piece",
+     "Pokemon",
+     "Magic: The Gathering",
+     "Yu-Gi-Oh!",
+     "Lorcana",
+     "Dragon Ball Super Fusion World",
+     "Riftbound",
+     "Flesh and Blood",
+     "Star Wars Unlimited",
+     "Weiss Schwarz"
+    ]
+   },
+   "games_events": [
+    "Dragon Ball Super Fusion World",
+    "Flesh and Blood",
+    "Lorcana",
+    "Magic: The Gathering",
+    "One Piece",
+    "Pokemon",
+    "Riftbound",
+    "Star Wars Unlimited",
+    "Weiss Schwarz",
+    "Yu-Gi-Oh!"
+   ],
+   "checked_at": "2026-10-17T01:23:03Z"
+  },
+  {
+   "name": "Hobby Master Event Centre",
+   "group": "public_buylist",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "531 Great South Road, Penrose, Auckland, AUK, 1061, New Zealand",
+   "phone": "649 526 5068",
+   "website": "https://hobbymaster.co.nz/",
+   "buylist_url": "https://hobbymaster.co.nz/products/hot-buylist",
+   "credit_bonus": "Credit pays 25% more than cash",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "Bea DnD Games",
+   "group": "login_required",
+   "city": "Lower Hutt",
+   "region": "Wellington",
+   "address": "199 Jackson Street, Petone, Lower Hutt, WGN, 5012, New Zealand",
+   "phone": "64045956205",
+   "website": "https://www.beadndgames.co.nz/",
+   "buylist_url": "https://www.beadndgames.co.nz/pages/buylist-process",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:57Z"
+  },
+  {
+   "name": "Card Merchant",
+   "group": "login_required",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Shop S290, West City, Catherine Street, Henderson, Auckland 0612",
+   "phone": "022 434 9558",
+   "website": "https://cardmerchant.co.nz/",
+   "checked_at": "2026-10-17T01:23:21Z"
+  },
+  {
+   "name": "Card Merchant Christchurch",
+   "group": "login_required",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "300 Lincoln Rd, Christchurch, Canterbury, 8024, New Zealand",
+   "phone": "640 210 853 6879",
+   "website": "https://cardmerchantchristchurch.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:04Z"
+  },
+  {
+   "name": "Card Merchant Nelson",
+   "group": "login_required",
+   "city": "Nelson",
+   "region": "Nelson Region",
+   "address": "129 Hardy Street, Nelson 7010, New Zealand, Nelson, Nelson Region, 7010",
+   "phone": "03 548 4344",
+   "website": "https://cardmerchantnelson.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:15Z"
+  },
+  {
+   "name": "Card Merchant Ponsonby",
+   "group": "login_required",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "15 Rose Road, Grey Lynn, Auckland, AUK, 1021, New Zealand",
+   "phone": "+6493602900",
+   "website": "https://cardmerchantponsonby.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Card Merchant Takapuna",
+   "group": "login_required",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "15C Hurstmere road, Takapuna, AUK, 0629, New Zealand",
+   "phone": "64022 361 3604",
+   "website": "https://www.cardmerchanttakapuna.co.nz/",
+   "buylist_url": "https://www.cardmerchanttakapuna.co.nz/blogs/weekly-tcg-learn-to-play/store-credit-fixed-kind-of",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:46Z"
+  },
+  {
+   "name": "Card Merchant Whangarei",
+   "group": "login_required",
+   "city": "Whangārei",
+   "region": "Northland Region",
+   "address": "2/10 John Street, Whangārei 0110, New Zealand, Whangārei, Northland Region, 0110",
+   "phone": "021569269",
+   "website": "https://www.cardmerchantwhangarei.co.nz",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:09Z"
+  },
+  {
+   "name": "Gaming DNA",
+   "group": "login_required",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "Level 1, Hamilton, WKO, 3204, New Zealand",
+   "phone": "+646478389012",
+   "website": "https://gamingdna.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:06Z"
+  },
+  {
+   "name": "Nova Games",
+   "group": "login_required",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+6499481919",
+   "website": "https://novagames.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:53Z"
+  },
+  {
+   "name": "Otakumart",
+   "group": "login_required",
+   "city": "Pukekohe",
+   "region": "Auckland",
+   "address": "89b Manukau Rd, Pukekohe, Auckland, 2120, NZ",
+   "phone": "+6499631700",
+   "website": "https://otakumart.co.nz/",
+   "buylist_url": "https://otakumart.co.nz/pages/sell-your-cards",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:56Z"
+  },
+  {
+   "name": "Spellbound Games",
+   "group": "login_required",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Level 2, Unit 28, 29 Aviemore Drive",
+   "phone": "649 535 6189",
+   "website": "https://spellboundgames.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:52Z"
+  },
+  {
+   "name": "TCG Culture",
+   "group": "login_required",
+   "city": "Paraparaumu",
+   "region": "Wellington",
+   "address": "1 Kapiti Road, Paraparaumu 5032, New Zealand, Paraparaumu, Wellington, 5032",
+   "website": "https://tcgculture.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:13Z"
+  },
+  {
+   "name": "The Gamestore at Megazone",
+   "group": "login_required",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "170 Frederick Street, Central Dunedin, Dunedin 9016, New Zealand, Dunedin, Otago Region, 9016",
+   "phone": "034749179",
+   "website": "https://cardmerchantdunedin.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:11Z"
+  },
+  {
+   "name": "Bartercard Christchurch",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "PTL Studios 336 Cashel Street, Christchurch Central City, Christchurch 8011",
+   "phone": "03 341 5150",
+   "website": "https://bartercard.co.nz/bartercard-offices/christchurch/?utm_source=google&utm_medium=gbp&utm_campaign=organic",
+   "checked_at": "2026-10-17T01:24:10Z"
+  },
+  {
+   "name": "Baydragon",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "41a/277 Te Irirangi Drive, Flat Bush, Auckland 2019, New Zealand, Auckland, Auckland, 2019",
+   "phone": "09-279 9192",
+   "website": "https://www.baydragon.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:09Z"
+  },
+  {
+   "name": "Bunnings Warehouse Dunedin",
+   "group": "blocked",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "18 Strathallan Street, South Dunedin, Dunedin 9012",
+   "phone": "03 466 2000",
+   "website": "https://www.bunnings.co.nz/stores/southisland/dunedin?utm_source=google&utm_medium=places&utm_content=bunnings-dunedin&utm_campaign=googleplaces",
+   "checked_at": "2026-10-17T01:24:31Z"
+  },
+  {
+   "name": "Cerberus Games",
+   "group": "blocked",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "66 Dixon Street, Te Aro, Wellington 6011, New Zealand, Wellington, Wellington Region, 6011",
+   "phone": "04-384 8308",
+   "website": "https://www.cgstore.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:10Z"
+  },
+  {
+   "name": "Collectable Kiwi LynnMall",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "LynnMall, 3058 Great North Road, New Lynn, Auckland 0600",
+   "phone": "027 353 6737",
+   "website": "https://www.collectablekiwi.co.nz/",
+   "checked_at": "2026-10-17T01:23:26Z"
+  },
+  {
+   "name": "Collectable Kiwi South City",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "South City Shopping Centre 555 Colombo Street, Christchurch Central City, Christchurch 8011",
+   "website": "https://collectablekiwi.co.nz/",
+   "checked_at": "2026-10-17T01:24:00Z"
+  },
+  {
+   "name": "Gamers Revelation",
+   "group": "blocked",
+   "city": "Invercargill",
+   "region": "Southland",
+   "address": "153 Dee Street, Invercargill 9810, New Zealand, Invercargill, Southland, 9810",
+   "website": "https://gamersrevelationtcg.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:16Z"
+  },
+  {
+   "name": "Gateway Games Ltd, Tauranga",
+   "group": "blocked",
+   "city": "Tauranga",
+   "region": "Bay of Plenty Region",
+   "address": "19 Bethlehem Road, Bethlehem, Tauranga 3110, New Zealand, Tauranga, Bay of Plenty Region, 3110",
+   "phone": "07 5711112",
+   "website": "https://gateway-games-ltd.mybigcommerce.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:14Z"
+  },
+  {
+   "name": "Graphic",
+   "group": "blocked",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "105 Cuba Street, Te Aro, Wellington 6011",
+   "phone": "04 384 2691",
+   "website": "https://www.graphiccomics.co.nz/",
+   "checked_at": "2026-10-17T01:23:50Z"
+  },
+  {
+   "name": "Hobby Lords Christchurch",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "322 Riccarton Road, Upper Riccarton, Christchurch 8041",
+   "phone": "022 544 4409",
+   "website": "https://www.hobbylords.co.nz/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Hobby Lords Dunedin",
+   "group": "blocked",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "124 King Edward Street, South Dunedin, Dunedin 9012",
+   "phone": "03 926 6599",
+   "website": "https://www.hobbylords.co.nz/",
+   "checked_at": "2026-10-17T01:24:27Z"
+  },
+  {
+   "name": "Hobby Lords Newmarket",
+   "group": "blocked",
+   "city": "Lower Hutt",
+   "region": "Wellington Region",
+   "address": "368 Broadway, Auckland, AUK, 1023, New Zealand",
+   "phone": "640212833302",
+   "website": "https://www.hobbylords.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Hobby Lords Palmerston North",
+   "group": "blocked",
+   "city": "Palmerston North",
+   "region": "Manawatū-Whanganui Region",
+   "address": "235 Main Street, Palmerston North Central, Palmerston North 4410, New Zealand, Palmerston North, Manawatū-Whanganui Region, 4410",
+   "phone": "02102741848",
+   "website": "https://www.hobbylords.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:18Z"
+  },
+  {
+   "name": "Hobby Lords Takapuna",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "449 Lake Road, Takapuna, Auckland 0622, New Zealand, Auckland, Auckland, 0622",
+   "phone": "09 242 4668",
+   "website": "https://www.hobbylords.co.nz",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:18Z"
+  },
+  {
+   "name": "Kiki's TCG & Collectibles",
+   "group": "blocked",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "10D Jetty Street, Central Dunedin, Dunedin 9016",
+   "phone": "022 654 9930",
+   "website": "https://www.kikistcgandcollectibles.com/",
+   "checked_at": "2026-10-17T01:24:27Z"
+  },
+  {
+   "name": "Mighty Ape",
+   "group": "blocked",
+   "city": "Silverdale",
+   "region": "Auckland",
+   "address": "24-28 Highgate Parkway, Silverdale, AUK, 0932, New Zealand",
+   "phone": "+649 951 2173",
+   "website": "https://www.mightyape.co.nz",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:54Z"
+  },
+  {
+   "name": "Mitre 10 MEGA Dunedin",
+   "group": "blocked",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "350 Andersons Bay Road, South Dunedin, Dunedin 9012",
+   "phone": "03 455 3344",
+   "website": "https://www.mitre10.co.nz/mega-dunedin?utm_source=google&utm_medium=organic&utm_campaign=gbp-Mitre-10-MEGA-Dunedin&utm_content=listing-28&store=28",
+   "checked_at": "2026-10-17T01:24:32Z"
+  },
+  {
+   "name": "Real Groovy",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "19 Victoria Street West, Auckland CBD, Auckland 1010",
+   "phone": "09 302 3940",
+   "website": "https://realgroovy.co.nz/",
+   "checked_at": "2026-10-17T01:23:29Z"
+  },
+  {
+   "name": "Respawn Esports Centre",
+   "group": "blocked",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "9 Manners Street, Te Aro, Wellington 6011",
+   "phone": "04 555 0978",
+   "website": "http://respawn.co.nz/",
+   "checked_at": "2026-10-17T01:23:52Z"
+  },
+  {
+   "name": "Scorpio Books",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "120 Hereford Street, Christchurch Central City, Christchurch 8011",
+   "phone": "03 379 2882",
+   "website": "https://scorpiobooks.co.nz/",
+   "checked_at": "2026-10-17T01:24:01Z"
+  },
+  {
+   "name": "Trade Depot Christchurch",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "16 Watts Road, Sockburn, Christchurch 8042",
+   "phone": "03 595 1700",
+   "website": "https://tradedepot.co.nz/",
+   "checked_at": "2026-10-17T01:24:06Z"
+  },
+  {
+   "name": "Vagabond Auckland Central",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "The Chancery Shopping District, Auckland, AUK, 1010, New Zealand",
+   "phone": "+6493032750",
+   "website": "https://www.vagabond.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Warehouse Stationery Papanui",
+   "group": "blocked",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Cnr of Sissons Dr and, Sawyers Arms Road, Papanui, Christchurch 8053",
+   "phone": "03 352 3111",
+   "website": "https://www.warehousestationery.co.nz/stores/papanui.html?utm_source=google-my-business&utm_medium=organic&utm_campaign=store-location-papanui",
+   "checked_at": "2026-10-17T01:24:16Z"
+  },
+  {
+   "name": "Zen Games",
+   "group": "blocked",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "13B McEntee Road, Waitākere, Auckland 0816",
+   "website": "https://zengames.co.nz/",
+   "checked_at": "2026-10-17T01:23:47Z"
+  },
+  {
+   "name": "Card Merchant Blenheim",
+   "group": "in_store",
+   "city": "Blenheim",
+   "region": "Marlborough Region",
+   "address": "34 Scott St, Blenheim, Marlborough Region, 7201, NZ",
+   "phone": "6435775311",
+   "website": "https://cardmerchantblenheim.co.nz/",
+   "buylist_url": "https://cardmerchantblenheim.co.nz/",
+   "mail_in": false,
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:01Z"
+  },
+  {
+   "name": "Card Merchant New Plymouth",
+   "group": "in_store",
+   "city": "New Plymouth",
+   "region": "Taranaki Region",
+   "address": "19 Devon Street East, New Plymouth Central, New Plymouth 4310, New Zealand, New Plymouth, Taranaki Region, 4310",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:19Z"
+  },
+  {
+   "name": "Card Merchant Taupo",
+   "group": "in_store",
+   "city": "Taupō",
+   "region": "Waikato Region",
+   "address": "64 Ruapehu Street, Taupo, Taupō 3330, New Zealand, Taupō, Waikato Region, 3330",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Card Merchant West City",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "021 182 2153",
+   "website": "https://discord.gg/drzgAQ8",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "Card Shop",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "1 Queen Street, Auckland CBD, Auckland 1010, New Zealand, Auckland, Auckland, 1010",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Cerberus Games (Wellington)",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(04) 384 8308",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:58Z"
+  },
+  {
+   "name": "DNA  Rotorua (Digital Native Academy)",
+   "group": "in_store",
+   "city": "Rotorua",
+   "region": "Bay of Plenty Region",
+   "address": "1128 Hinemoa Street, Rotorua 3010, New Zealand, Rotorua, Bay of Plenty Region, 3010",
+   "phone": "0220436782",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:18Z"
+  },
+  {
+   "name": "Game Corner Christchurch",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "03 348 4042",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:04Z"
+  },
+  {
+   "name": "Gamers United",
+   "group": "in_store",
+   "city": "Invercargill",
+   "region": "Southland Region",
+   "address": "250 Elles Road, Strathern, Invercargill 9812, New Zealand, Invercargill, Southland Region, 9812",
+   "phone": "02102571606",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:16Z"
+  },
+  {
+   "name": "Gateway Games (Tauranga)",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+64) 7571 1112",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:08Z"
+  },
+  {
+   "name": "Hobby Lords Hamilton",
+   "group": "in_store",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "Unit 3/311 Barton Street, Hamilton Central, Hamilton 3204, New Zealand, Hamilton, Waikato Region, 3204",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Hobby Lords Invercargill",
+   "group": "in_store",
+   "city": "Invercargill",
+   "region": "Southland Region",
+   "address": "66 Esk Street, Invercargill 9810, New Zealand, Invercargill, Southland Region, 9810",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Hobby Lords New Lynn",
+   "group": "in_store",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "5 Totara Ave, Auckland, Auckland, 0600, NZ",
+   "phone": "6498250581",
+   "website": "https://www.facebook.com/share/1KA33iWoZv/?mibextid=wwXIfr",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "Hobby Lords Tauranga",
+   "group": "in_store",
+   "city": "Tauranga",
+   "region": "Bay of Plenty Region",
+   "address": "89 Grey Street, Tauranga 3110, New Zealand, Tauranga, Bay of Plenty Region, 3110",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Iron Age Comics NZ",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "1 Virginia Avenue East, Eden Terrace, Auckland 1021",
+   "phone": "021 430 216",
+   "checked_at": "2026-10-17T01:23:49Z"
+  },
+  {
+   "name": "Iron Knight Gaming - Events",
+   "group": "in_store",
+   "city": "Rangiora",
+   "region": "Canterbury Region",
+   "address": "29 High Street, Rangiora 7400, New Zealand, Rangiora, Canterbury Region, 7400",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:18Z"
+  },
+  {
+   "name": "Kids and More",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Shop S290, West City, Catherine Street, Henderson, Auckland 0640",
+   "phone": "021 182 2153",
+   "checked_at": "2026-10-17T01:23:29Z"
+  },
+  {
+   "name": "Kingdom New Zealand",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "4 Rendall Place, Eden Terrace, Auckland 1021",
+   "phone": "022 506 7822",
+   "checked_at": "2026-10-17T01:23:44Z"
+  },
+  {
+   "name": "Legend Story Studios",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "21A Himikera Avenue, Avondale, Auckland 1026, New Zealand, Auckland, Auckland, 1026",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:11Z"
+  },
+  {
+   "name": "Loot Legends",
+   "group": "in_store",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "459 Pages Road, Aranui, Christchurch 8061",
+   "checked_at": "2026-10-17T01:24:01Z"
+  },
+  {
+   "name": "New Zealand Games Limited",
+   "group": "in_store",
+   "address": "8 Dundonald St, Auckland, Auckland, 1021, NZ",
+   "phone": "+640212108123",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Roburai Collectibles",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "One Tree Hill, Auckland 1061",
+   "phone": "021 857 007",
+   "checked_at": "2026-10-17T01:23:27Z"
+  },
+  {
+   "name": "Simply Cards",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "10 Remuera Road, Newmarket, Auckland 1050",
+   "checked_at": "2026-10-17T01:23:38Z"
+  },
+  {
+   "name": "Sinky TCG",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "2 Dexter Avenue, Mount Eden, Auckland 1024",
+   "phone": "0210 246 1898",
+   "checked_at": "2026-10-17T01:23:31Z"
+  },
+  {
+   "name": "Smol Rhino Games",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "1b Konini Road, Ellerslie, Auckland 1061",
+   "phone": "0210 833 4292",
+   "checked_at": "2026-10-17T01:23:32Z"
+  },
+  {
+   "name": "SP.C Incorporated..",
+   "group": "in_store",
+   "city": "101Cc",
+   "region": "Auckland",
+   "address": "315 Queen street Auckland, The world, Auckland CBD, 101Cc 8051",
+   "checked_at": "2026-10-17T01:23:35Z"
+  },
+  {
+   "name": "The Wizard's Retreat",
+   "group": "in_store",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Unit 3&4/5 Washington Way, Christchurch Central City, Christchurch 8011",
+   "phone": "03 365 0287",
+   "website": "https://www.facebook.com/The-Wizards-Retreat-112284168801486/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Your Local Game Shop - Revolution (King of Cards Ltd)",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Canterbury Arcade Shop G7/170 Queen Street, Auckland CBD, Auckland 1010",
+   "phone": "09 309 4795",
+   "website": "https://www.facebook.com/yourlocalgameshop/",
+   "checked_at": "2026-10-17T01:23:22Z"
+  },
+  {
+   "name": "101RTP",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "28 Constellation Drive, Rosedale, Auckland 0632",
+   "website": "https://101rtp.net/",
+   "checked_at": "2026-10-17T01:23:47Z"
+  },
+  {
+   "name": "Anime House Mega Store",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "18 Cavendish Drive, Manukau City Centre, Auckland 2104",
+   "phone": "09 214 8850",
+   "website": "https://www.animehouse.co.nz/",
+   "buylist_url": "https://www.animehouse.co.nz/",
+   "checked_at": "2026-10-17T01:23:38Z"
+  },
+  {
+   "name": "Anime World",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "14 Montanez Drive, Flat Bush, Auckland 2019",
+   "phone": "022 032 7439",
+   "website": "https://www.animeworld.co.nz/",
+   "checked_at": "2026-10-17T01:23:38Z"
+  },
+  {
+   "name": "Appleby Games",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "224 Withells Road, 11/AVONHEAD MALL, Avonhead, Christchurch 8042",
+   "phone": "027 358 3877",
+   "website": "https://applebygames.co.nz/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Armageddon expo",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "217 Green Lane West, Epsom, Auckland 1051",
+   "phone": "03 322 6819",
+   "website": "https://www.armageddonexpo.com/",
+   "checked_at": "2026-10-17T01:23:37Z"
+  },
+  {
+   "name": "Artemis Games",
+   "group": "unknown",
+   "city": "Gisborne",
+   "region": "Gisborne",
+   "address": "23 Peel Street, Gisborne 4010, New Zealand, Gisborne, Gisborne, 4010",
+   "phone": "021 204 5538",
+   "website": "https://artemisgames.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:17Z"
+  },
+  {
+   "name": "Auckland Duty Free",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Ray Emery Drive, Auckland Airport, Auckland 2022",
+   "website": "https://www.aucklanddutyfree.co.nz/",
+   "checked_at": "2026-10-17T01:23:49Z"
+  },
+  {
+   "name": "Card Central",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "12 Barrhead Place, Avondale, Auckland 0600",
+   "phone": "09 972 1280",
+   "website": "https://www.cardcentral.co.nz/",
+   "checked_at": "2026-10-17T01:23:27Z"
+  },
+  {
+   "name": "Card Crazy",
+   "group": "unknown",
+   "city": "New Plymouth",
+   "region": "Taranaki Region",
+   "address": "44 Devon Street East, New Plymouth Central, New Plymouth 4310",
+   "website": "https://www.cardcrazy.co.nz/",
+   "checked_at": "2026-10-17T01:24:30Z"
+  },
+  {
+   "name": "Card Masters",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "20/6 Airborne road, Auckland, AUK, 0632, New Zealand",
+   "phone": "+64273528425",
+   "website": "https://cardmasters.co.nz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:48Z"
+  },
+  {
+   "name": "Card Merchant Clearance Outlet (Head Office)",
+   "group": "unknown",
+   "city": "Pukekohe",
+   "region": "Auckland",
+   "address": "7 Hall Street, Pukekohe 2120, New Zealand, Pukekohe, Auckland, 2120",
+   "phone": "027 511 8275",
+   "website": "https://cardmerchantoutlet.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:21Z"
+  },
+  {
+   "name": "Card Merchant Hamilton",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+642102632794",
+   "website": "https:// https://cardmerchanthamilton.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:08Z"
+  },
+  {
+   "name": "Card Merchant Rotorua",
+   "group": "unknown",
+   "city": "Rotorua",
+   "region": "Bay of Plenty Region",
+   "address": "1138 Hinemoa Street, Rotorua 3010, New Zealand, Rotorua, Bay of Plenty Region, 3010",
+   "phone": "07 777 2040",
+   "website": "https://www.cardmerchantrotorua.co.nz",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:20Z"
+  },
+  {
+   "name": "Card Merchant Silverdale",
+   "group": "unknown",
+   "city": "Silverdale",
+   "region": "Auckland",
+   "address": "Office 1, 5 Wainui Rd, Silverdale, Auckland, 0932, NZL",
+   "phone": "6494211232",
+   "website": "https://www.cardmerchantsilverdale.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:53Z"
+  },
+  {
+   "name": "Card Merchant Tauranga",
+   "group": "unknown",
+   "city": "Tauranga",
+   "region": "Bay of Plenty Region",
+   "address": "223 Fraser St, Tauranga, Bay of Plenty Region, 3112, NZ",
+   "phone": "64077770043",
+   "website": "https://cardmerchanttauranga.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:08Z"
+  },
+  {
+   "name": "Card Merchant Wellington",
+   "group": "unknown",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "49 Manners St, Wellington, Wellington Region, 6011, New Zealand",
+   "phone": "6402102824867",
+   "website": "https://cardmerchantwellington.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:58Z"
+  },
+  {
+   "name": "Card Piece",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "g04/23 Edwin Street, Mount Eden, Auckland 1024",
+   "phone": "022 642 4124",
+   "website": "https://cardpiece.com/",
+   "checked_at": "2026-10-17T01:23:23Z"
+  },
+  {
+   "name": "Cash Converters Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "166 King Edward Street, South Dunedin, Dunedin 9012",
+   "phone": "03 929 1212",
+   "website": "https://www.cashconverters.co.nz/stores/dunedin-south/?utm_source=google&utm_medium=gbp",
+   "buylist_url": "https://www.cashconverters.co.nz/sell/",
+   "checked_at": "2026-10-17T01:24:31Z"
+  },
+  {
+   "name": "Cash Converters Hamilton Central",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "Unit 4/311 Barton Street, Hamilton Central, Hamilton 3204",
+   "phone": "07 838 0114",
+   "website": "https://www.cashconverters.co.nz/stores/hamilton-central/?utm_source=google&utm_medium=gbp",
+   "buylist_url": "https://www.cashconverters.co.nz/sell/",
+   "checked_at": "2026-10-17T01:24:25Z"
+  },
+  {
+   "name": "Casino Kingdom New Zealand",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "17 Federal Street, Auckland CBD, Auckland 1010",
+   "phone": "0210 805 3479",
+   "website": "https://casino-kingdom.co.nz/",
+   "checked_at": "2026-10-17T01:23:44Z"
+  },
+  {
+   "name": "Centre Place",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "501 Victoria Street, Hamilton Central, Hamilton 3204",
+   "phone": "07 839 8563",
+   "website": "https://www.centreplace.co.nz/en/",
+   "checked_at": "2026-10-17T01:24:27Z"
+  },
+  {
+   "name": "Collectors Guild Mt Roskill",
+   "group": "unknown",
+   "city": "Waiuku",
+   "region": "Auckland",
+   "address": "45 Carr Rd, Auckland, Auckland, 1042, NZ",
+   "phone": "64223401508",
+   "website": "https://collectorsguild.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:46Z"
+  },
+  {
+   "name": "Collectors Guild Mt Roskill",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "45 Carr Road, Three Kings, Auckland 1042, New Zealand, Auckland, Auckland, 1042",
+   "phone": "022 340 1508",
+   "website": "https://collectorsguild.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:19Z"
+  },
+  {
+   "name": "Dead Video",
+   "group": "unknown",
+   "city": "Lyttelton",
+   "region": "Canterbury Region",
+   "address": "56 London Street, Lyttelton 8082",
+   "phone": "021 155 5452",
+   "website": "https://deadvideo.nz/",
+   "checked_at": "2026-10-17T01:24:20Z"
+  },
+  {
+   "name": "Deals Direct Christchurch",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "7 Stark Drive, Wigram, Christchurch 8042",
+   "phone": "03 421 4786",
+   "website": "https://dealsdirect.co.nz/",
+   "checked_at": "2026-10-17T01:24:04Z"
+  },
+  {
+   "name": "Dice Goblin",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Unit 56/691 Manukau Road, Royal Oak Mall, Auckland, AUK, 1023, New Zealand",
+   "phone": "+64021 159 6894",
+   "website": "https://www.dicegoblin.nz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Dime City Sports Cards",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "35/C Riccarton Road, Riccarton, Christchurch 8011",
+   "phone": "03 281 8045",
+   "website": "https://dimecitycards.co.nz/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Eastgate Shopping Centre",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "20 Buckleys Road, Linwood, Christchurch 8062",
+   "phone": "03 982 0800",
+   "website": "https://eastgate.co.nz/",
+   "checked_at": "2026-10-17T01:24:07Z"
+  },
+  {
+   "name": "Expressability Board Game",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "15F Prestwick Street, Maori Hill, Dunedin 9010",
+   "phone": "027 233 2901",
+   "website": "https://marcferguson.com/",
+   "checked_at": "2026-10-17T01:24:50Z"
+  },
+  {
+   "name": "Game Centre",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "11F Garden Place, Hamilton Central, Hamilton 3204",
+   "phone": "07 838 1141",
+   "website": "https://gamecentre.info/",
+   "checked_at": "2026-10-17T01:24:24Z"
+  },
+  {
+   "name": "Game Corner",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "9/388 Riccarton Road, Upper Riccarton, Christchurch 8041",
+   "phone": "03 348 4042",
+   "website": "https://gamecorner.co.nz/",
+   "checked_at": "2026-10-17T01:23:55Z"
+  },
+  {
+   "name": "Game Roost",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "33F Triton Drive, Rosedale, North Shore, AUK, 0632, New Zealand",
+   "phone": "64211858188",
+   "website": "https://www.gameroost.co.nz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "Games Lab",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "223B Green Lane West Epsom, Auckland, AUK, 1051, New Zealand",
+   "phone": "+64273883496",
+   "website": "https://www.gameslab.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Golden Centre",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "251 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 477 8544",
+   "website": "https://goldencentre.co.nz/",
+   "checked_at": "2026-10-17T01:24:50Z"
+  },
+  {
+   "name": "GoodTech",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "1a Elgin Street, Grey Lynn, Auckland 1021",
+   "phone": "09 972 9083",
+   "website": "https://www.goodtech.co.nz/",
+   "buylist_url": "https://www.goodtech.co.nz/pages/trade-ins",
+   "checked_at": "2026-10-17T01:23:33Z"
+  },
+  {
+   "name": "Gordon Harris Symonds Street",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "39 Symonds Street, Auckland CBD, Auckland 1010",
+   "phone": "09 377 9992",
+   "website": "https://www.gordonharris.co.nz/",
+   "checked_at": "2026-10-17T01:23:31Z"
+  },
+  {
+   "name": "Great Range Products",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "235 Waltham Road, Sydenham, Christchurch 8023",
+   "phone": "021 775 578",
+   "website": "https://greatrangeproducts.co.nz/",
+   "checked_at": "2026-10-17T01:24:15Z"
+  },
+  {
+   "name": "Harvey Norman Dunedin (Electrical Outlet)",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "95 Hillside Road, South Dunedin, Dunedin 9012",
+   "phone": "03 471 6538",
+   "website": "https://stores.harveynorman.co.nz/shop/harvey-norman-dunedin-electrical-outlet-dunedin?utm_source=google&utm_medium=organic&utm_campaign=gmb_page",
+   "buylist_url": "https://www.harveynorman.co.nz/trade-in.html",
+   "checked_at": "2026-10-17T01:24:41Z"
+  },
+  {
+   "name": "Heroes for Sale",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "205 Symonds Street, Eden Terrace, Auckland 1010",
+   "phone": "09 378 8414",
+   "website": "https://stores.comichub.com/heroes_for_sale_",
+   "checked_at": "2026-10-17T01:23:23Z"
+  },
+  {
+   "name": "HexVault",
+   "group": "unknown",
+   "city": "Kaiapoi",
+   "region": "Canterbury Region",
+   "address": "1/38 Silverstream Boulevard, Kaiapoi 7630",
+   "website": "https://hexvault.co.nz/",
+   "checked_at": "2026-10-17T01:23:59Z"
+  },
+  {
+   "name": "Hidden District",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Unit 1/13 Waikaukau Rd, Auckland, Auckland, 0602, NZ",
+   "phone": "64225689894",
+   "website": "https://hiddendistrict.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "HobbiXchange",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Shop 8/121 Brighton Mall, New Brighton, Christchurch 8061",
+   "website": "https://www.hobbixchange.co.nz/",
+   "checked_at": "2026-10-17T01:23:55Z"
+  },
+  {
+   "name": "Hobby Zone",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Unit 4/22 Polaris Place, East Tāmaki, Auckland 2013",
+   "website": "https://hobbyzone.co.nz/",
+   "checked_at": "2026-10-17T01:23:26Z"
+  },
+  {
+   "name": "Hype Pieces",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Inside Five Lanes, 693 Colombo Street, Christchurch Central City, Christchurch 8011",
+   "phone": "027 517 7116",
+   "website": "https://hypepieces.com/",
+   "checked_at": "2026-10-17T01:24:19Z"
+  },
+  {
+   "name": "IMP TCG",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "133 Meadowbank Rd, Auckland, Auckland, 1072, NZ",
+   "phone": "+64095210466",
+   "website": "https://imptcg.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "JB Hi-Fi - Auckland CBD",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "126 Queen Street, Auckland CBD, Auckland 1010",
+   "phone": "09 956 0100",
+   "website": "https://www.jbhifi.co.nz/pages/queen-st-auckland-cbd",
+   "checked_at": "2026-10-17T01:23:35Z"
+  },
+  {
+   "name": "JB Hi-Fi Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "Meridian Mall 267/287 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 742 6400",
+   "website": "https://www.jbhifi.co.nz/pages/dunedin/",
+   "checked_at": "2026-10-17T01:24:36Z"
+  },
+  {
+   "name": "Kidzstuffonline",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "16 Mokoia Road, Birkenhead, Auckland 0626",
+   "phone": "09 480 8192",
+   "website": "https://kidzstuffonline.co.nz/",
+   "checked_at": "2026-10-17T01:23:31Z"
+  },
+  {
+   "name": "King of Cards",
+   "group": "unknown",
+   "address": "Basement Shop, Queens Arcade, Auckland, AUK, 1010, New Zealand",
+   "phone": "+6493094795",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Kingdom App",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "10 Lillington Road, Remuera, Auckland 1050",
+   "phone": "0468 297 760",
+   "website": "https://www.brucethecat.co.nz/",
+   "checked_at": "2026-10-17T01:23:47Z"
+  },
+  {
+   "name": "Kiss Anime",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "G10/28 Totara Avenue, New Lynn, Auckland 0610",
+   "phone": "09 218 8931",
+   "website": "https://www.kissanime.co.nz/",
+   "checked_at": "2026-10-17T01:23:39Z"
+  },
+  {
+   "name": "Look Sharp Store Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "59 Great King Street, Otago, Dunedin 9016",
+   "phone": "03 929 1489",
+   "website": "https://www.looksharpstore.co.nz/",
+   "checked_at": "2026-10-17T01:24:49Z"
+  },
+  {
+   "name": "Mark One Comics & Games",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "551 Victoria Street, Hamilton Central, Hamilton 3204",
+   "phone": "07 839 3728",
+   "website": "https://mk1.co.nz/",
+   "checked_at": "2026-10-17T01:24:22Z"
+  },
+  {
+   "name": "McMurray Games",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Queenspark Drive, Parklands, Christchurch 8083",
+   "website": "https://www.mcmurraygames.co.nz/",
+   "checked_at": "2026-10-17T01:24:18Z"
+  },
+  {
+   "name": "Megazone Entertainment Center",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "170 Frederick Street, Central Dunedin, Dunedin 9017",
+   "phone": "03 474 9179",
+   "website": "https://megazonedunedin.co.nz/",
+   "checked_at": "2026-10-17T01:24:28Z"
+  },
+  {
+   "name": "Merivale Mall",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "189 Papanui Road, Merivale, Christchurch 8014",
+   "phone": "03 355 9692",
+   "website": "https://merivalemall.co.nz/",
+   "checked_at": "2026-10-17T01:24:10Z"
+  },
+  {
+   "name": "MetaLife",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "22 Exmouth Street, Eden Terrace, Auckland 1021",
+   "phone": "0210 548 561",
+   "website": "https://www.metalife.co.nz/",
+   "checked_at": "2026-10-17T01:23:26Z"
+  },
+  {
+   "name": "Mr Tofu Card Store",
+   "group": "unknown",
+   "address": "30/90A Hobsonville Rd, Auckland, Auckland, 0618, New Zealand",
+   "phone": "64221233472",
+   "website": "https://mrtofu.store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
+   "name": "OCARE NZ",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "3/39B Arrenway Drive, Rosedale, Auckland 0632",
+   "phone": "09 948 1920",
+   "website": "https://ocare.co.nz/",
+   "checked_at": "2026-10-17T01:23:42Z"
+  },
+  {
+   "name": "Pandora Retail - Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "G06 Meridian Mall 267 George Street, Central Dunedin, Dunedin 9058",
+   "phone": "03 470 1559",
+   "website": "https://stores.pandora.net/en-nz/nz-ota/dunedin/pandora-jewellery-nz5e3e47bb.html?utm_source=google&utm_medium=listing&utm_content=nz5e3e47bb&utm_campaign=NZ-OTA&utm_keyword=Dunedin",
+   "checked_at": "2026-10-17T01:24:36Z"
+  },
+  {
+   "name": "PB Tech Christchurch Central",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "126 Saint Asaph Street, Christchurch Central City, Christchurch 8011",
+   "phone": "03 940 4568",
+   "website": "https://www.pbtech.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=googlebp&utm_content=pb-chchcentral",
+   "checked_at": "2026-10-17T01:24:06Z"
+  },
+  {
+   "name": "PB Tech Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "127 Hillside Road, South Dunedin, Dunedin 9012",
+   "phone": "03 963 3326",
+   "website": "https://www.pbtech.co.nz/",
+   "checked_at": "2026-10-17T01:24:36Z"
+  },
+  {
+   "name": "Phoenix Greetings Cards",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "196 Wordsworth Street, Sydenham, Christchurch 8023",
+   "phone": "03 343 6258",
+   "website": "https://www.phoenixgreetingscards.nz/",
+   "checked_at": "2026-10-17T01:24:03Z"
+  },
+  {
+   "name": "Photo & Video International",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Level 1/195 Papanui Road, Merivale, Christchurch 8014",
+   "phone": "03 355 7534",
+   "website": "https://www.photo.co.nz/",
+   "buylist_url": "https://www.photo.co.nz/promotions/trade-in-and-save-with-sony",
+   "checked_at": "2026-10-17T01:24:05Z"
+  },
+  {
+   "name": "PLAYX",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Head Office 439 East Coast Road, Mairangi Bay, Auckland 0630",
+   "phone": "021 279 3338",
+   "website": "https://www.playx.co.nz/",
+   "checked_at": "2026-10-17T01:23:22Z"
+  },
+  {
+   "name": "POKEMON TCG",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "778 Manukau Road, Royal Oak, Auckland 1023",
+   "phone": "(213) 853-1492",
+   "website": "https://t.me/+bLQSJkluKew1ZWVk",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-17T01:23:24Z"
+  },
+  {
+   "name": "Pop Stop (Golden Centre - Dunedin)",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "Golden Centre Shop T02/251 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 425 9373",
+   "website": "https://popstop.co.nz/",
+   "checked_at": "2026-10-17T01:24:43Z"
+  },
+  {
+   "name": "Pop Stop (Queensgate)",
+   "group": "unknown",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "Pop Stop, Shop 145 Queensgate Shopping Centre, Cnr Queens Drive and, Bunny Street, Hutt Central, Wellington 5011",
+   "phone": "04 213 9773",
+   "website": "https://popstop.co.nz/",
+   "checked_at": "2026-10-17T01:23:50Z"
+  },
+  {
+   "name": "Pop Stop (Sylvia Park)",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "Shop No46, Sylvia Park, 286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+   "phone": "09 218 6511",
+   "website": "https://popstop.co.nz/",
+   "checked_at": "2026-10-17T01:23:40Z"
+  },
+  {
+   "name": "Pop Stop (The Base - Te Rapa)",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "The Base Parade, Northgate, Hamilton 3200",
+   "phone": "07 949 8993",
+   "website": "https://popstop.co.nz/",
+   "checked_at": "2026-10-17T01:24:25Z"
+  },
+  {
+   "name": "Pop Stop (Westfield Riccarton)",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "129 Riccarton Road, Riccarton, Christchurch 8041",
+   "phone": "03 420 3717",
+   "website": "https://popstop.co.nz/",
+   "checked_at": "2026-10-17T01:24:01Z"
+  },
+  {
+   "name": "Pop Weasel",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "9 Penbury Street, Waltham, Christchurch 8023",
+   "phone": "03 365 1001",
+   "website": "https://www.popweasel.co.nz/",
+   "checked_at": "2026-10-17T01:24:20Z"
+  },
+  {
+   "name": "Premier Card Grading",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "8A Target Court, Wairau Valley, Auckland 0627",
+   "phone": "022 108 9235",
+   "website": "https://premiercardgrading.co.nz/",
+   "checked_at": "2026-10-17T01:23:28Z"
+  },
+  {
+   "name": "Pulsar Max",
+   "group": "unknown",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "102 Manners St, Wellington, AUK, 6011, New Zealand",
+   "phone": "6412345678",
+   "website": "https://www.google.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:58Z"
+  },
+  {
+   "name": "rawr cards",
+   "group": "unknown",
+   "region": "Auckland",
+   "address": "28 Belgium St, Waiheke Island, Auckland, 1081, NZ",
+   "phone": "+640274235201",
+   "website": "https://www.rawr.cards/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:53Z"
+  },
+  {
+   "name": "Razor Leaf Ltd",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "5/3 Tironui station road west, Takanini, Auckland, 2112, NZ",
+   "phone": "+640224056492",
+   "website": "https://www.razorleaf.co.nz/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:53Z"
+  },
+  {
+   "name": "Retrospace",
+   "group": "unknown",
+   "city": "Hauraki",
+   "region": "Auckland",
+   "address": "22 Hurstmere Road, Takapuna, Hauraki 0622",
+   "phone": "09 486 0791",
+   "website": "https://www.retrospace.co.nz/",
+   "checked_at": "2026-10-17T01:23:39Z"
+  },
+  {
+   "name": "Ride On Super Sound",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "266 Saint Asaph Street, Christchurch Central City, Christchurch 8011",
+   "website": "https://rideonsupersound.com/",
+   "checked_at": "2026-10-17T01:24:22Z"
+  },
+  {
+   "name": "Shuffle 'n' Cut hobbies and games",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "12/240a Broadway, Newmarket, AUK, 1023, New Zealand",
+   "phone": "+64210 269 0070",
+   "website": "https://www.shuffleandcutgames.co.nz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:41Z"
+  },
+  {
+   "name": "Size Gift Shop",
+   "group": "unknown",
+   "city": "Midcity",
+   "region": "Auckland",
+   "address": "Shop 2K/239 Queen Street, Auckland CBD, Midcity 1010",
+   "website": "https://sizegift.co.nz/",
+   "checked_at": "2026-10-17T01:23:45Z"
+  },
+  {
+   "name": "Spark Store Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "220 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 477 3131",
+   "website": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=cedf4afe-6185-427c-bbe9-2ccbba7eaa5d&ssb=98491262596&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fonline%2Fshop%2Fstore-finder%2Fstore%2Fspark-dunedin%2F%3Futm_source%3Dgoogle-business-profile%26utm_medium%3Dorganic%26utm_campaign%3Dstore_finder&ssi=776680f9-cv5f-4505-a89e-970e4f9b3f26&ssk=botmanager_support@radware.com&ssm=69568657689446891102630228628355&ssn=39eee1462ad8eac9d0634d77058ed971f10d8e7df951-0b58-4a7a-953a1d&sso=f8fc1b86-3bb18ee178734f95d2bea66215c8b7a46705b935c912128f&ssp=09794613641792263960179224677711580&ssq=40768050027788623660800277798842796824816&ssr=MjQuODQuNS4zNQ==&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/130.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwOGU3ZGY5NTEtMGI1OC00YTdhLTliODYtM2JiMThlZTE3ODczMS0xNzkyMjAwMjc3MzY4MC0wMDVhZDdhYjQ3MjE1MmI3OWIyMTAiLCJ1em14IjoiN2ZjMDAwYTg2NjYxMjktYWYzMi00ZjFkLWExYjYtMGJkNzdkYjQ3NmNiMS0xNzkyMjAwMjc3MzY4MC0wMDk2NDI1N2RmNTk3NDE3MDFmMTAifQ==",
+   "checked_at": "2026-10-17T01:24:36Z"
+  },
+  {
+   "name": "Spotlight Christchurch",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "258A Moorhouse Avenue, Christchurch 8141",
+   "phone": "03 669 6300",
+   "website": "https://www.spotlightstores.com/en-nz/store/canterbury/christchurch/s071?utm_source=google&utm_medium=organic&utm_campaign=Google+My+Business&utm_content=Spotlight+Christchurch",
+   "checked_at": "2026-10-17T01:24:03Z"
+  },
+  {
+   "name": "Starbucks George St",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "Penrose's Building 2/207 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "0800 263 333",
+   "website": "https://www.starbucks.co.nz/",
+   "checked_at": "2026-10-17T01:24:43Z"
+  },
+  {
+   "name": "Steadfast Books",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "17 Wise Street, Addington, Christchurch 8024",
+   "phone": "03 381 0033",
+   "website": "https://www.steadfastbooks.co.nz/",
+   "checked_at": "2026-10-17T01:24:16Z"
+  },
+  {
+   "name": "Studio Art Supplies",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "35 Crummer Road, Grey Lynn, Auckland 1021",
+   "phone": "09 360 1238",
+   "website": "https://www.studioart.co.nz/",
+   "checked_at": "2026-10-17T01:23:33Z"
+  },
+  {
+   "name": "Supercheap Auto Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "118 Cumberland Street, Dunedin 9016",
+   "phone": "03 477 2590",
+   "website": "https://www.supercheapauto.co.nz/stores/details/sca-dunedin?utm_source=google&utm_medium=organic&utm_campaign=gbpm-dunedin",
+   "checked_at": "2026-10-17T01:24:43Z"
+  },
+  {
+   "name": "Tcg vending services",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "891 Mount Eden Road, Mount Eden, Auckland 1041",
+   "website": "http://www.tcgvending.co.nz/",
+   "checked_at": "2026-10-17T01:23:31Z"
+  },
+  {
+   "name": "The Base",
+   "group": "unknown",
+   "city": "Hamilton",
+   "region": "Waikato Region",
+   "address": "Te Rapa Road &, Wairere Drive, Northgate, Hamilton 3200",
+   "phone": "07 849 0770",
+   "website": "https://www.the-base.co.nz/en/",
+   "checked_at": "2026-10-17T01:24:26Z"
+  },
+  {
+   "name": "The Card Cartel",
+   "group": "unknown",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "69 Courtenay Pl, Wellington, Wellington, 6011, NZ",
+   "phone": "6421417672",
+   "website": "https://thecardcartel.co.nz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:58Z"
+  },
+  {
+   "name": "The Colombo",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "363 Colombo Street, Sydenham, Christchurch 8011",
+   "website": "https://www.thecolombo.co.nz/",
+   "checked_at": "2026-10-17T01:24:12Z"
+  },
+  {
+   "name": "The Woolston Emporium",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "200 Ensors Road, Woolston, Christchurch 8023",
+   "phone": "03 366 6867",
+   "website": "https://www.thewoolstonemporium.co.nz/",
+   "checked_at": "2026-10-17T01:24:21Z"
+  },
+  {
+   "name": "Tom's Emporium",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "6/484 Cranford Street, Redwood, Christchurch 8051",
+   "phone": "03 281 8069",
+   "website": "https://tomsemporium.co.nz/",
+   "checked_at": "2026-10-17T01:24:02Z"
+  },
+  {
+   "name": "Top Play Sports Cards",
+   "group": "unknown",
+   "city": "Lower Hutt",
+   "region": "Wellington Region",
+   "address": "228 High Street, Hutt Central, Lower Hutt 5010",
+   "website": "https://topplaysportscards.co.nz/",
+   "checked_at": "2026-10-17T01:23:49Z"
+  },
+  {
+   "name": "Toy Hero",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "112B Hobsonville Road, Hobsonville, Auckland 0618",
+   "website": "https://toyhero.co.nz/",
+   "checked_at": "2026-10-17T01:23:44Z"
+  },
+  {
+   "name": "ToyTime City",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "shop 9/363 Colombo Street, Sydenham, Christchurch 8011",
+   "phone": "021 184 5934",
+   "website": "https://toytime.co.nz/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Toyworld Albany",
+   "group": "unknown",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "6 Mercari Way, Albany, Auckland 0632",
+   "phone": "09 444 0981",
+   "website": "https://www.toyworld.co.nz/",
+   "checked_at": "2026-10-17T01:23:32Z"
+  },
+  {
+   "name": "Toyworld Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "Meridian Mall Upper Level/267 George Street, Dunedin 9016",
+   "phone": "03 242 3434",
+   "website": "https://www.toyworld.co.nz/",
+   "checked_at": "2026-10-17T01:24:43Z"
+  },
+  {
+   "name": "Toyworld Tower Junction",
+   "group": "unknown",
+   "city": "Christchurch",
+   "region": "Canterbury Region",
+   "address": "Mega Centre, 5/55 Clarence Street, Riccarton, Christchurch 8011",
+   "phone": "03 343 0330",
+   "website": "https://www.toyworld.co.nz/",
+   "checked_at": "2026-10-17T01:24:16Z"
+  },
+  {
+   "name": "Valkyrie Games",
+   "group": "unknown",
+   "city": "Palmerston North",
+   "region": "Manawatu-Wanganui",
+   "address": "134 King Street, Palmerston North Central, Palmerston North 4410, New Zealand, Palmerston North, Manawatu-Wanganui, 4410",
+   "phone": "06-355 1185",
+   "website": "https://valkyriegames.co.nz/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:23:10Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "326 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 477 5616",
+   "website": "https://www.warhammer.com/shop/Warhammer-Dunedin",
+   "checked_at": "2026-10-17T01:24:47Z"
+  },
+  {
+   "name": "Waypoint Comics",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "Level 2/57 Vogel Street, City, Dunedin 9016",
+   "website": "https://www.waypointcomics.co.nz/",
+   "checked_at": "2026-10-17T01:24:51Z"
+  },
+  {
+   "name": "Whitcoulls Dunedin",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "143 George Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 955 3132",
+   "website": "https://www.whitcoulls.co.nz/",
+   "checked_at": "2026-10-17T01:24:48Z"
+  },
+  {
+   "name": "Whitcoulls Lambton Quay",
+   "group": "unknown",
+   "city": "Wellington",
+   "region": "Wellington Region",
+   "address": "226 Lambton Quay, Wellington Central, Wellington 6011",
+   "phone": "04 471 1900",
+   "website": "https://www.whitcoulls.co.nz/",
+   "checked_at": "2026-10-17T01:23:54Z"
+  },
+  {
+   "name": "Wizards Retreat Game Centre",
+   "group": "unknown",
+   "address": "3/5 Washington Way, Christchurch, Canterbury Region, 8011, NZ",
+   "phone": "+64(+64) 21 164 4561",
+   "website": "https://wizardsretreat.online/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:02Z"
+  },
+  {
+   "name": "Woolworths Dunedin Central",
+   "group": "unknown",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "309 Cumberland Street, Central Dunedin, Dunedin 9016",
+   "phone": "03 477 7283",
+   "website": "https://www.woolworths.co.nz/store-finder/9190/dunedin/dunedin-central-woolworths?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=woolworths-dunedin-central",
+   "checked_at": "2026-10-17T01:24:41Z"
+  }
+ ]
+}
