@@ -1,0 +1,1086 @@
+{
+ "country": "MA",
+ "currency": "MAD",
+ "updated": "2026-10-18",
+ "store_count": 115,
+ "stores": [
+  {
+   "name": "Game Plus",
+   "group": "blocked",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue Zanzibar, Rabat 10000, Rabat 10040",
+   "phone": "05 30 32 85 55",
+   "website": "https://www.gameplus.ma/",
+   "checked_at": "2026-10-18T21:59:42Z"
+  },
+  {
+   "name": "Gaming Sekai",
+   "group": "blocked",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "50 Rue Oum Errabia, Rabat 10000",
+   "phone": "05 37 77 49 89",
+   "website": "http://www.gamingsekai.ma/",
+   "checked_at": "2026-10-18T21:59:34Z"
+  },
+  {
+   "name": "Librairie Papeterie Basta - Rabat / Agdal ( mylibrairie.ma )",
+   "group": "blocked",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Riyad agdal, 5 Pl. Othmane Ibn Affane, Rabat",
+   "phone": "05 37 67 27 80",
+   "website": "https://mylibrairie.ma/fr/",
+   "checked_at": "2026-10-18T21:59:42Z"
+  },
+  {
+   "name": "Setup Game Casablanca | 1ère Chaîne de Magasins Gaming au Maroc",
+   "group": "blocked",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "1 Rue Tarik Ibnou Ziad, Casablanca 20502",
+   "phone": "05 30 24 55 55",
+   "website": "https://www.setupgame.ma/",
+   "checked_at": "2026-10-18T21:59:09Z"
+  },
+  {
+   "name": "Sforgames",
+   "group": "blocked",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "55, angle rue nil, Bd Moulay Idriss I, Casablanca 20490",
+   "phone": "06 02 57 58 50",
+   "website": "http://www.sforgames.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "SpeedGamer.ma",
+   "group": "blocked",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "ساحة الدلالة, Casablanca 20250",
+   "phone": "06 12 15 75 95",
+   "website": "https://speedgamer.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Amis Games",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "n°17 Av. Al Maghrib Al Arabi, Rabat 10060",
+   "phone": "05 37 70 41 77",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Anime nba Maroc",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "1 rue salie, Rabat 10060",
+   "phone": "06 84 91 51 03",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Benzekri Distribution",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue Farhat Hachad، Av. Madagascar, Rabat 11000",
+   "phone": "06 69 94 29 66",
+   "website": "https://instagram.com/benzekri_distribution_maroc?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "Bookstore stationery Agdal",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "37 Av. de France, Rabat",
+   "phone": "05 37 77 42 42",
+   "checked_at": "2026-10-18T22:00:02Z"
+  },
+  {
+   "name": "Boutique Japon",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "91 Avenue des consuls, Rabat 10030",
+   "phone": "06 56 14 17 45",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "CarteCadeau.ma",
+   "group": "in_store",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "3 Rue de Ain Meski، Dar-el-Beida 20500",
+   "phone": "06 63 64 64 64",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Castle Game PS5",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "X495+GC, Rabat",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "city play",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "H9J6+WR9, Casablanca",
+   "phone": "05 20 40 58 09",
+   "website": "https://www.facebook.com/City-play-112201951471463",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Club4games",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Résidence Assabah îlot 10 CYM Rabat, Rabat 10120",
+   "phone": "06 01 41 74 71",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Collectibles Deal",
+   "group": "in_store",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "15 Rue Ibn Khaldoun، Dar-el-Beida 20490",
+   "phone": "06 60 90 55 80",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Commercial Market Al qurayaa",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca",
+   "phone": "06 95 90 64 67",
+   "checked_at": "2026-10-18T21:59:19Z"
+  },
+  {
+   "name": "Cyberplanet",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "89 Avenue la résistance N°21 Océan, Rabat 10000",
+   "phone": "06 16 37 65 43",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "DAKIR GIFT",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "7 Bd Moulay Youssef, Casablanca 20100",
+   "phone": "06 62 63 73 05",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "dar chtioui",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "38, Rabat 10000",
+   "phone": "06 29 19 61 76",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Derb Ghallaf",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Rue Raphaël, Casablanca 20250",
+   "phone": "06 68 74 00 07",
+   "checked_at": "2026-10-18T21:59:19Z"
+  },
+  {
+   "name": "Enjoy Planet",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue Zanzibar, Rabat 10000",
+   "phone": "06 80 80 20 28",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "FirstGame DIGITAL",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "25F6+54G, Rue Souk Semmara, Rabat",
+   "phone": "06 61 54 80 51",
+   "checked_at": "2026-10-18T21:59:40Z"
+  },
+  {
+   "name": "Fnack",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "HCF6+63W, Casablanca 20250",
+   "checked_at": "2026-10-18T21:59:20Z"
+  },
+  {
+   "name": "GAME MASTER",
+   "group": "in_store",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "39 Rue 102، Dar-el-Beida 20202",
+   "phone": "06 17 88 17 82",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Gamer",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "RABAT AMAL 6 MAG 4 HAY EL FATH, RABAT 10150, Maroc, Rabat",
+   "phone": "06 67 06 67 07",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Gamer zone it1ik",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "X4VJ+4PQ, Rabat",
+   "phone": "07 70 17 89 60",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "Gamers Store",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "134 bd ibnou tachfin, rue Adjudant Mohamed Elouakili, Casablanca 20050",
+   "phone": "06 00 01 47 99",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Games 89",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "1 Bd de Fes, Casablanca 20000",
+   "phone": "06 60 03 11 00",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Games square",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue Si Ben, 25F6+G59, Rue Souk Semmara, Rabat 10020",
+   "phone": "06 00 15 66 33",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Games world",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "essalam 2 tranche G, Casablanca 20400",
+   "phone": "06 98 84 89 74",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Gaming Shop",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "al azhari 1,rue 59,numero 42,oulfa al azhari 1,rue 59,numero 42, Casablanca 20550",
+   "phone": "06 60 41 97 09",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "GAMING STATION RABAT",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "N° 2 Immo 6, Av. Moulay Rachid, Rabat 10020",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Infinity games shop",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "HCF6+63W, Casablanca 20250",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Info Games",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue sidi benrazzouk, Rabat 11000",
+   "phone": "06 62 31 62 97",
+   "website": "https://web.facebook.com/heroazedine",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "Inter Game",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "140 Rue de Strasbourg, Casablanca 20250",
+   "phone": "06 77 42 48 74",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Jotaku",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "34 Rue Souk Semmara, Rabat",
+   "phone": "06 49 89 99 98",
+   "website": "https://www.facebook.com/Jotaku.ma/",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Jouets Casa",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca 20250",
+   "phone": "06 03 88 46 08",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Kalila and Dimna Library",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "344 Av. Mohammed V, Rabat",
+   "phone": "05 37 72 31 06",
+   "checked_at": "2026-10-18T22:00:02Z"
+  },
+  {
+   "name": "King Jouet",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "2534+F4G, Av. Inaouin, Rabat",
+   "phone": "05 37 77 20 21",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "LeagueWorld",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca 20000",
+   "phone": "06 90 12 03 31",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Librairie al atlas",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "974 Av. Al Massira, Rabat",
+   "phone": "05 37 79 82 60",
+   "checked_at": "2026-10-18T22:00:02Z"
+  },
+  {
+   "name": "Librairie Dar Al Amane",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "25C6+CC5, Rue Al Mamouniya, Rabat",
+   "phone": "05 37 72 32 76",
+   "checked_at": "2026-10-18T22:00:00Z"
+  },
+  {
+   "name": "LIBRAIRIE POPULAIRE",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "4 Rue Gaza, Rabat 10000",
+   "checked_at": "2026-10-18T22:00:00Z"
+  },
+  {
+   "name": "Librarie Bookstore Livre Book Service",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "46 Av. Allal Ben Abdellah, Rabat",
+   "phone": "05 37 72 44 95",
+   "checked_at": "2026-10-18T22:00:00Z"
+  },
+  {
+   "name": "made4games",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "IMM 2 APPT 9 cooperative al amal cym rabat, Rabat 10150",
+   "checked_at": "2026-10-18T21:59:46Z"
+  },
+  {
+   "name": "Magasin de jouets et périculture",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "43rue al adarissa، Rue Al Adarissa, Rabat 10000",
+   "phone": "06 68 18 62 01",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "Medina Market",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Av. des FAR, Casablanca 20250",
+   "phone": "06 73 72 02 25",
+   "checked_at": "2026-10-18T21:59:20Z"
+  },
+  {
+   "name": "mol zeri3a",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "G958+64Q, Casablanca",
+   "checked_at": "2026-10-18T21:59:29Z"
+  },
+  {
+   "name": "Nexus5 Gaming rabat",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Bouitate G69 n4 c, y.m, Rabat 10050",
+   "phone": "06 71 14 34 64",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "Otageeks Café - Shop - Club",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Lotissement Communal, N°71, Sidi Maâouf, Casablanca, 20280, Casablanca",
+   "phone": "05 22 97 25 00",
+   "checked_at": "2026-10-18T21:59:34Z"
+  },
+  {
+   "name": "Otaku Market Casablanca",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Thêatre Mohammed VI, Boulevard Mohamed V, Casablanca 20250",
+   "phone": "06 03 37 61 98",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Panorama Gaming",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Panorama, Bd Attadamone, Casablanca 20620",
+   "phone": "06 50 42 25 90",
+   "website": "https://instagram.com/panorama.gaming?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Papeterie Benzekri",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Mag 1 et 2 rue farhat hachad, Av. Madagascar, Rabat 10060",
+   "phone": "05 37 70 65 53",
+   "checked_at": "2026-10-18T22:00:02Z"
+  },
+  {
+   "name": "Pixel & Play",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "159 Rue Ibnou Faris, Casablanca 20330",
+   "phone": "06 12 91 96 13",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "PLACE OF GAMERS",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "61 Bd d'El Hank, Casablanca 20250",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Play Express",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "N 203, Casablanca 20102",
+   "phone": "07 75 09 41 58",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Playstation gaming",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "CYM elmassira, Amal 5, Rabat",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "SHLEHA GAMING",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Boulevard ahmed, bn ahmed elgarnaoui, Casablanca 20600",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Souvenir of morocco, Calligraphe arabe et anglais . souvenirs du Maroc",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "41 & 34 rue Souk Sebat ancienne, N 200, Avenue des consuls, Rabat 10030",
+   "phone": "06 67 63 83 40",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Store Gaming kouayri",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Rue 46, Casablanca 20250",
+   "phone": "06 61 24 25 49",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "The English Bookshop",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Rue EL Yamama, Rabat",
+   "phone": "06 70 01 27 97",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "THE MORROCAN TRADERS",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Unnamed Road, Casablanca, Casablanca 20250",
+   "phone": "05 22 71 02 02",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "TRÉSOR CACHÉ articles cadeaux",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "n 20، Méga mall، Rabat 10000",
+   "phone": "05 37 65 02 02",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "V Play",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "433 Av. des Forces Armées Royales, Rabat",
+   "phone": "05 37 28 04 70",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "vgm.ma",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "1er étage, Centre Commercial City Center, Av. Al Melia, Rabat 10100",
+   "phone": "06 60 74 31 85",
+   "checked_at": "2026-10-18T21:59:42Z"
+  },
+  {
+   "name": "Warriors Gaming",
+   "group": "in_store",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "20, 22 Rue Rahal Ben Ahmed، Dar-el-Beida 20250",
+   "phone": "06 61 31 57 16",
+   "checked_at": "2026-10-18T21:59:19Z"
+  },
+  {
+   "name": "Whitepsy",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "California Casablanca RES 4 N100, Casablanca 00000",
+   "phone": "06 59 82 88 36",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Zakaria",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "12 Avenue des consuls, Rabat",
+   "phone": "06 24 30 19 35",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Zone Games",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "X4JC+G36, Av. Al Inbiat, Rabat",
+   "phone": "06 62 68 12 92",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "مكتبة عالم الفكر",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Av. Allal Ben Abdellah, Rabat",
+   "phone": "05 37 72 55 99",
+   "checked_at": "2026-10-18T22:00:02Z"
+  },
+  {
+   "name": "منزل",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "U16, Casablanca 20000",
+   "phone": "06 51 64 62 99",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Boras jouets-متجر ألعاب بوراس",
+   "group": "not_buying_singles",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca 20250",
+   "phone": "06 73 03 82 18",
+   "website": "https://borasjouets.com/",
+   "buylist_url": "https://borasjouets.com/retailer/buylist",
+   "checked_at": "2026-10-18T21:59:30Z"
+  },
+  {
+   "name": "adidas Kids Store",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Morocco Mall 1st Floor Bd de l, ocean et, Bd la corniche, Casablanca 20000",
+   "phone": "05 22 79 79 71",
+   "website": "https://www.adidas.co.ma/fr?utm_campaign=MA108&utm_medium=organic&utm_source=GMB",
+   "checked_at": "2026-10-18T21:59:28Z"
+  },
+  {
+   "name": "Atlas Gaming - PC Gamer Maroc | PC Portable Casablanca",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "122 Bd Moulay Idriss I, Casablanca 20100",
+   "phone": "06 27 45 74 17",
+   "website": "http://www.atlasgaming.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Bentley Casablanca",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "JC5J+8QG, Casablanca 20250",
+   "phone": "05 22 34 88 17",
+   "website": "https://www.bentleymotors.com/en/apps/locate.bentley-casablanca.retailer-7631.html",
+   "checked_at": "2026-10-18T21:59:29Z"
+  },
+  {
+   "name": "Billets de Collection",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca 20460",
+   "phone": "06 25 11 98 57",
+   "website": "https://www.billetsdecollection.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=296688301568507275",
+   "checked_at": "2026-10-18T21:59:17Z"
+  },
+  {
+   "name": "Cote Sport & Lotterie",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Secteur J3 N°75, Rabat 10120",
+   "phone": "06 31 68 80 22",
+   "website": "https://www.mdjsjeux.ma/",
+   "checked_at": "2026-10-18T21:59:45Z"
+  },
+  {
+   "name": "GameCard.ma",
+   "group": "unknown",
+   "city": "Tetouan",
+   "region": "Tangier-Tétouan-Al Hoceima",
+   "address": "Avenue Thami Ouazzani, Numéro 8, Rue A, Tetouan 93000",
+   "phone": "06 60 37 86 16",
+   "website": "https://gamecard.ma/",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "Gamezone Store",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "35 Bd de Fes, Casablanca",
+   "phone": "06 53 34 88 61",
+   "website": "https://gamezone.ma/fr/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "GEEK Maroc Shop - Casablanca",
+   "group": "unknown",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "61 Rue Ighrem، Dar-el-Beida 20030",
+   "phone": "06 35 34 46 72",
+   "website": "https://geekmaroc.shop/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Geek Store",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "23 RUE AL MESSAOUDI, Casablanca 20000",
+   "phone": "06 63 27 04 75",
+   "website": "https://www.geekstore.co.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Hicham gaming store",
+   "group": "unknown",
+   "city": "Temara",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Hay el maghreb el arabi bloc1 secteur3 N65, Temara 12000",
+   "phone": "06 99 02 49 22",
+   "website": "http://zedmarket.ma/",
+   "checked_at": "2026-10-18T21:59:40Z"
+  },
+  {
+   "name": "House of Kids, Maarif.",
+   "group": "unknown",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "Angle rue Ibn Nafiss & Ahmed Mejjati، Dar-el-Beida 20330",
+   "phone": "05 22 99 25 47",
+   "website": "https://www.houseofkids.ma/",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "HUB-GIFTS MAROC",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Casablanca 20000",
+   "phone": "06 54 27 19 97",
+   "website": "https://hub-gifts.com/",
+   "checked_at": "2026-10-18T21:59:19Z"
+  },
+  {
+   "name": "King jouet Hay Riad",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Centre Commercial Marjane Hay Riad 9 Rocade de Rabat،, Rabat 10000",
+   "phone": "05 37 65 58 14",
+   "website": "https://king-jouet.ma/",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "King Jouet Maroc Gauthier",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "106 Rue Taha Hussein, Casablanca 20060",
+   "phone": "05 22 48 50 10",
+   "website": "https://king-jouet.ma/",
+   "checked_at": "2026-10-18T21:59:29Z"
+  },
+  {
+   "name": "Lawazim office",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Avenue Al kifah qamra, X4RM+P5G, Rabat",
+   "phone": "06 23 13 76 28",
+   "website": "https://lawazimoffice.ma/",
+   "checked_at": "2026-10-18T22:00:00Z"
+  },
+  {
+   "name": "Librairie Alfia مكتبة الألفية",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "285 Ave Mohammed V, Rabat",
+   "phone": "05 37 26 78 00",
+   "website": "https://librairiealfia.com",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "Librairie Livremoi",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "6 Rue Abderrahman Kaouakibi, Casablanca 20000",
+   "phone": "05 22 27 17 05",
+   "website": "https://www.livremoi.ma/",
+   "checked_at": "2026-10-18T21:59:34Z"
+  },
+  {
+   "name": "Livremoi - Bookstore in Rabat",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "3 Av. Al Atlas, Rabat 10000",
+   "phone": "05 37 77 72 17",
+   "website": "https://www.livremoi.ma/",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
+   "name": "Magic Toy Hay Riad",
+   "group": "unknown",
+   "city": "الرباط",
+   "region": "الرباط - سلا - القنيطرة",
+   "address": "Local n°51، Mahaj Ryad extension، الرباط 10100",
+   "phone": "05 37 57 15 06",
+   "website": "https://magicjouet.ma/fr/",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "Marjane Hypermarket California",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "CT 1029, COMMUNE DE California Mall, Casablanca",
+   "phone": "080-2022050",
+   "website": "https://www.marjane.ma/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+   "checked_at": "2026-10-18T21:59:25Z"
+  },
+  {
+   "name": "Marjane Hypermarket Hay Hassani",
+   "group": "unknown",
+   "city": "Dar-el-Beida",
+   "region": "Casablanca-Settat",
+   "address": "Angle Bd Bouregreg، &، Bd Oued Laou, Dar-el-Beida 20250",
+   "phone": "080-2022050",
+   "website": "https://www.marjane.ma/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+   "checked_at": "2026-10-18T21:59:26Z"
+  },
+  {
+   "name": "Mediacash Arribat Center",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Carrefour des Avenues Nations-Unies, Al Abtal, Inaouin et, Av. Omar Ibn Al Khattab, Rabat 10220",
+   "phone": "06 11 20 02 50",
+   "website": "https://mediacashpro.ma/",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "Midox SHOP",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "5 Rue du Marché, Bd Brahim Roudani, Casablanca 20000",
+   "phone": "06 21 31 98 82",
+   "website": "https://www.midoxshop.ma/",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Mon jouet",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "153 Bd Moulay Idriss I, Casablanca 20250",
+   "phone": "05 22 86 01 64",
+   "website": "https://monjouet.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "MTAM TRADING - Detecteur d'or et des metaux - اجهزة الكشف عن الذهب",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "27 Rue de Bapaume, Casablanca 20250",
+   "phone": "06 61 32 13 16",
+   "website": "https://mrdetecteur.com/",
+   "checked_at": "2026-10-18T21:59:19Z"
+  },
+  {
+   "name": "MyProGift",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Secteur 21، Avenue Annakhil، Bloc c، N: 3، Hay Riad، Rabat 10000",
+   "phone": "05 37 60 67 27",
+   "website": "http://www.myprogift.com/",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Mytoys",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "5 Rue Ahmed Amine, Casablanca 20250",
+   "phone": "06 88 14 06 14",
+   "website": "https://mytoys.co.ma/",
+   "checked_at": "2026-10-18T21:59:29Z"
+  },
+  {
+   "name": "new game zone",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "mag n 2, rue sidi bourzouk, Rabat",
+   "phone": "06 15 83 55 86",
+   "website": "http://newgamezone.ma/",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Next Level PC",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "21 Rue Jabal Bouiblane, Rabat 10080",
+   "phone": "05 37 77 77 05",
+   "website": "https://nextlevelpc.ma/",
+   "checked_at": "2026-10-18T21:59:46Z"
+  },
+  {
+   "name": "Osaka Gaming Rabat",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Galerie Grinson Magasin 90 (à côté d'hotel texuda, Av. de la Résistance, Rabat 10999",
+   "phone": "06 67 97 45 20",
+   "website": "https://osaka.ma/",
+   "checked_at": "2026-10-18T21:59:40Z"
+  },
+  {
+   "name": "Playmaroc",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Kamra 60، bloc a، Rabat 10160",
+   "phone": "06 74 96 41 80",
+   "website": "https://www.playmaroc.com/",
+   "checked_at": "2026-10-18T21:59:34Z"
+  },
+  {
+   "name": "Popcard - Leader des cartes de visite digitales au Maroc",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Technopark, Casablanca 20000",
+   "phone": "06 60 11 44 84",
+   "website": "https://www.getpopcard.com/",
+   "checked_at": "2026-10-18T21:59:20Z"
+  },
+  {
+   "name": "Rabat Gaming City",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Quartier, Rabat 10120",
+   "website": "https://rabatgamingcity.ma/",
+   "checked_at": "2026-10-18T21:59:56Z"
+  },
+  {
+   "name": "Rip Curl Surf Shop Rabat",
+   "group": "unknown",
+   "city": "Agdal Riyad",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "5, avenue Al Atlas, Agdal Riyad",
+   "phone": "05 37 77 78 63",
+   "website": "https://www.ripcurl.com/",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Spirit Gaming",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "97 Bd Oued Edaoura, Casablanca",
+   "phone": "05 22 90 02 72",
+   "website": "https://www.spiritgaming.ma/",
+   "checked_at": "2026-10-18T21:59:08Z"
+  },
+  {
+   "name": "Tiger Toys",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Route el jadida , Riad Sofia magasin, Casablanca",
+   "phone": "05 22 65 08 70",
+   "website": "http://tigertoys.ma/",
+   "checked_at": "2026-10-18T21:59:15Z"
+  },
+  {
+   "name": "TopTech Psn",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Rue 55, Casablanca 20610",
+   "phone": "06 39 08 78 39",
+   "website": "https://www.toptechpsn.com/",
+   "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "Topup.ma – Nº1 de la Carte Cadeau au Maroc",
+   "group": "unknown",
+   "city": "Meknes",
+   "region": "Fez-Meknès",
+   "address": "Ave Mohammed V, Meknes 50000",
+   "phone": "06 21 93 50 13",
+   "website": "https://topup.ma/",
+   "checked_at": "2026-10-18T21:59:20Z"
+  },
+  {
+   "name": "Virgin Megastore",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "Centre commercial KITEA GEANT، الرباط، Maroc 110, Rabat 10000",
+   "phone": "05 37 65 47 20",
+   "website": "https://virginmegastore.ma/",
+   "checked_at": "2026-10-18T21:59:46Z"
+  },
+  {
+   "name": "Virgin Megastore Sidi Maarouf",
+   "group": "unknown",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Av. Abou Bakr el Kadiri, Casablanca",
+   "website": "https://virginmegastore.ma/",
+   "checked_at": "2026-10-18T21:59:22Z"
+  },
+  {
+   "name": "Youpi",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "c.y.m, 697 Av. des Forces Armées Royales, Rabat 10150",
+   "phone": "05 37 79 55 10",
+   "website": "https://www.youpi.co.ma/",
+   "checked_at": "2026-10-18T21:59:57Z"
+  },
+  {
+   "name": "Youpi Mabella",
+   "group": "unknown",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "angle av tadla rue ouled bouziri, Mabella, Rabat",
+   "phone": "06 42 39 00 97",
+   "website": "https://youpiclub.odoo.com/",
+   "checked_at": "2026-10-18T21:59:50Z"
+  }
+ ]
+}

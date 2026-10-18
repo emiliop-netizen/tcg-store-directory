@@ -1,0 +1,410 @@
+{
+ "country": "GT",
+ "currency": "GTQ",
+ "updated": "2026-10-18",
+ "store_count": 41,
+ "stores": [
+  {
+   "name": "Magic Board Games Oakland Place",
+   "group": "blocked",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "C.C. Oakland Place Nivel 2, Frente a Cinnabon, Cdad. de Guatemala 01010",
+   "phone": "5923 3392",
+   "website": "https://magicboardgames.com.gt/",
+   "checked_at": "2026-10-18T21:47:16Z"
+  },
+  {
+   "name": "OTAKU STORE",
+   "group": "blocked",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "11 Av, Guatemala City, Guatemala, 001012, GT",
+   "phone": "+502-24768711",
+   "website": "http://otakustoreshop.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "SilverGames",
+   "group": "blocked",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Edificio El Uno, Avenida Las Americas, Cdad. de Guatemala",
+   "phone": "2317 5115",
+   "website": "http://www.silvergames.com.gt/",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Carros De Coleccion GT",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala Department",
+   "address": "JGG3+FW8, Guatemala City",
+   "phone": "5823 8714",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "DECKBOX STORE GT",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "6 Avenida A 10-51, Cdad. de Guatemala",
+   "phone": "3198 2103",
+   "website": "https://www.instagram.com/deckboxstore_?igsh=MWN0eGd1Zmo3bmttbw==",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Don Danilo Trading Cards",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Colonia La labor, 31 Avenida 23-48, Cdad. de Guatemala",
+   "checked_at": "2026-10-18T21:47:18Z"
+  },
+  {
+   "name": "El Rincon del Coleccionable Guatemala",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "tercera puerta, 12 Avenida 9-76, Cdad. de Guatemala 01001",
+   "phone": "4179 0370",
+   "checked_at": "2026-10-18T21:47:14Z"
+  },
+  {
+   "name": "Game Center Guatemala",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "01001 16 calle 5-55 zona 1 Guatemala, 16 Calle 5-55, Cdad. de Guatemala 01001",
+   "phone": "2293 5260",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Helepolis Comics & Collectibles",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "3 Calle A 8-22, Cdad. de Guatemala",
+   "phone": "3071 1119",
+   "checked_at": "2026-10-18T21:47:27Z"
+  },
+  {
+   "name": "kamikaze hobby shop",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "12 Calle, Cdad. de Guatemala",
+   "phone": "5394 8825",
+   "website": "https://m.facebook.com/kamikazehobbyshop/posts/?ref=page_internal&mt_nav=1",
+   "checked_at": "2026-10-18T21:47:24Z"
+  },
+  {
+   "name": "La Tiendita de Señor Watashi",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "14 Calle, Cdad. de Guatemala 01003",
+   "phone": "5902 3240",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Madhouse33 Eskala Roosevelt",
+   "group": "in_store",
+   "city": "Mixco",
+   "region": "Guatemala",
+   "address": "km 13.8, centro comercial Eskala Roosevelt, Calzada Roosevelt, Mixco",
+   "phone": "5839 3203",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Madhouse33 • La Pradera Zona 10",
+   "group": "in_store",
+   "region": "Guatemala",
+   "address": "20 calle 25-85 zona 10 Centro Comercial La Pradera Nivel 3 local 351, 01010",
+   "phone": "2366 3782",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "MadHouse33 • Tikal Futura",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Local 303 FC, Centro Comercial Tikal Futura, Calzada Roosevelt 22-43, Cdad. de Guatemala",
+   "phone": "2440 4229",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Master Games",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+502-2255-8916",
+   "website": "https://www.facebook.com/mastergamesguate/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Mercado Central",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "8 Calle, Cdad. de Guatemala",
+   "phone": "2230 1579",
+   "checked_at": "2026-10-18T21:47:21Z"
+  },
+  {
+   "name": "Mike TCG Pocket",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala Department",
+   "address": "Guatemala City 01010",
+   "phone": "5631 4537",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Psyquedelic",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Blvr. Centro Médico Militar, Cdad. de Guatemala",
+   "phone": "4642 9909",
+   "checked_at": "2026-10-18T21:47:19Z"
+  },
+  {
+   "name": "Random Vintage",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Ciudad de, Ruta 4 8-27, Cdad. de Guatemala 01004",
+   "phone": "3550 3615",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Stock 8 collectibles",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "31 avenida 7-22 zona 7, Cdad. de Guatemala 01007",
+   "phone": "3010 8082",
+   "checked_at": "2026-10-18T21:47:18Z"
+  },
+  {
+   "name": "Toy Store Collectibles",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "12 Calle B 29, Cdad. de Guatemala",
+   "phone": "5537 8122",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "World Games",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Al Pie De La Pasarela Una Cuadra Antes De Elektra del Trébol, Calzada Roosevelt 4-15, Cdad. de Guatemala",
+   "phone": "5784 0865",
+   "checked_at": "2026-10-18T21:47:21Z"
+  },
+  {
+   "name": "\"ZONA DE DIVERSIÓN TONY\"",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "16 Calle 6-31, Cdad. de Guatemala 01001",
+   "phone": "5578 2982",
+   "website": "https://www.tonygamez.com/",
+   "checked_at": "2026-10-18T21:47:25Z"
+  },
+  {
+   "name": "Boomerang",
+   "group": "unknown",
+   "address": "centro comercial plaza madero, calzada atanasio tzul local 13 zona 12, ciudad de guatemala, Guatemala, 010012, Guatemala",
+   "phone": "50254604815",
+   "website": "https://boomerangspot.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Gamershop z.10",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "z.10, interior, Carl's Jr, 10 Calle 2-68, Cdad. de Guatemala 01010",
+   "phone": "2234 6571",
+   "website": "https://www.gamershopgt.com/",
+   "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Gangas Videogames • Galerías Primma",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "centro comercial galerias primma guatemala, Cdad. de Guatemala 01007",
+   "phone": "3103 7213",
+   "website": "https://gangasvideogames.com/",
+   "checked_at": "2026-10-18T21:47:24Z"
+  },
+  {
+   "name": "Juguetón • Plaza Cemaco",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "C.C. Plaza CEMACO 2do Nivel, Blvd. los Proceres 4-96, Cdad. de Guatemala 01010",
+   "phone": "2499 9990",
+   "website": "https://jugueton.com/",
+   "checked_at": "2026-10-18T21:47:25Z"
+  },
+  {
+   "name": "Kasperle - Plaza Madero Próceres",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Local Semiancla 5, 01010 Plaza Madero Proceres, 18 Calle 27-74, Cdad. de Guatemala 01010",
+   "phone": "2213 6276",
+   "website": "https://www.kasperle.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=plaza-madero",
+   "checked_at": "2026-10-18T21:47:22Z"
+  },
+  {
+   "name": "Kawaii Oakland Place",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Diagonal 6 13-01 zona 10, Oakland Mall, al lado del boliche, nivel, Cdad. de Guatemala 01010",
+   "phone": "2253 7475",
+   "website": "https://kawaii.gt/",
+   "checked_at": "2026-10-18T21:47:21Z"
+  },
+  {
+   "name": "Kimochii Store",
+   "group": "unknown",
+   "city": "Guatemala",
+   "region": "Guatemala",
+   "address": "Manzana H, Pinula Sector comercial, Residenciales San Jose, Guatemala 01052",
+   "phone": "5127 0770",
+   "website": "https://kimochiistore.com/",
+   "checked_at": "2026-10-18T21:47:24Z"
+  },
+  {
+   "name": "Legends Game Store",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Local 68, C.C. Plaza Tecun, 0 Av 11-30, Cdad. de Guatemala 01009",
+   "phone": "5060 0200",
+   "website": "https://www.legendsgt.com/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Librería SOPHOS",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "4A Avenida 12-59, Cdad. de Guatemala 01010",
+   "phone": "2419 7070",
+   "website": "https://www.sophosenlinea.com/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Maggaare",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Torre de Parqueos 11 Calle 5-16 Zona 1 Local 1-05, Cdad. de Guatemala 01001",
+   "phone": "2230 5960",
+   "website": "https://maggaare.net/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Meow Meow Shop",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "4A Calle 510, Cdad. de Guatemala",
+   "phone": "5152 3584",
+   "website": "https://meowmeowguatemala.com/",
+   "checked_at": "2026-10-18T21:47:25Z"
+  },
+  {
+   "name": "Nitro Gamers and Hobby Shop",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Centro Comercial Peri Roosevelt, Calzada Roosevelt 25-50, Cdad. de Guatemala 01007",
+   "phone": "3566 8080",
+   "website": "https://nitro.gt/",
+   "checked_at": "2026-10-18T21:47:14Z"
+  },
+  {
+   "name": "Oh My Card",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "12 calle 2-25 edificio avia zona 10 torre 2, Cdad. de Guatemala 01010",
+   "phone": "2300 9999",
+   "website": "https://omcpayments.com/",
+   "checked_at": "2026-10-18T21:47:19Z"
+  },
+  {
+   "name": "Poke Monstruo",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "6A Avenida 14-21, Cdad. de Guatemala 01009",
+   "phone": "5511 5999",
+   "website": "https://pokemonstruo.com/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Questoris",
+   "group": "unknown",
+   "address": "Calzada San Juan 14-06, Local 39, 1er Piso",
+   "phone": "+50234950048",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Smiley Games Creations",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "6-92 Av. Simeón Cañas, Guate, Guatemala, 01002, Guatemala",
+   "phone": "50230147777",
+   "website": "https://smileygamesc.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "TOKEN",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "6 Avenida y 13 calle zona 1 paseo la sexta, Edificio Cápitol, local 108, Cdad. de Guatemala 01001",
+   "phone": "2230 0144",
+   "website": "https://www.token.com.gt/",
+   "checked_at": "2026-10-18T21:47:18Z"
+  },
+  {
+   "name": "Unbox Collectibles",
+   "group": "unknown",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "12 Calle 2-25, Cdad. de Guatemala 01010",
+   "website": "https://unbox-collectibles.com/",
+   "checked_at": "2026-10-18T21:47:13Z"
+  }
+ ]
+}

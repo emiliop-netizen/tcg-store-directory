@@ -1,0 +1,598 @@
+{
+ "country": "KE",
+ "currency": "KES",
+ "updated": "2026-10-18",
+ "store_count": 64,
+ "stores": [
+  {
+   "name": "Boards Games & Cards Kenya",
+   "group": "blocked",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Sonalux Building 7th floor shop 11, Nairobi",
+   "phone": "0755 676314",
+   "website": "https://boardsgamescards.com/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "DND Gifts",
+   "group": "blocked",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Queensway House, Kaunda St, Nairobi",
+   "phone": "0706 361393",
+   "website": "https://dndgifts.co.ke/",
+   "checked_at": "2026-10-18T22:00:39Z"
+  },
+  {
+   "name": "254 CP SHOP",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "phone": "0748 365147",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "2B Gamers Store",
+   "group": "in_store",
+   "city": "Starehe",
+   "region": "Nairobi County",
+   "address": "Shop G41, Beaver House, Tom Mboya St, Starehe",
+   "phone": "0716 419999",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Abc Place Nairobi",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Waiyaki Wy, Nairobi",
+   "phone": "0715 456222",
+   "checked_at": "2026-10-18T22:00:52Z"
+  },
+  {
+   "name": "Abduray",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "19th St, Nairobi",
+   "phone": "0112 466652",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Between The Lines",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "QRC3+GV5, Limuru Rd, Nairobi",
+   "phone": "0708 098188",
+   "website": "http://www.facebook.com/betweenthelinesvm/?eid=ARBsTBDIK_7nl1R2N65_AupMTluCOxBSFwLt82BBz9JhzqXZBDCmtieEgDWpIaM4UY4vov_XckBouhJT",
+   "checked_at": "2026-10-18T22:00:52Z"
+  },
+  {
+   "name": "Boardgames and cardgames kenya",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Royal palm mall wing A fourth floor AT4, Ronald Ngala St, Nairobi",
+   "phone": "0727 997511",
+   "website": "https://www.instagram.com/boardgames_cardgames?igsh=azFyZ2ZrazVxamZk",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Canadiansolar Energy Kenya Co., Ltd",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "MW22+QWC South Sioux Farm Cabanas, Nairobi",
+   "phone": "0700 179431",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Card Centre (Westlands) Ltd",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Reliance Centre, Woodvale Grv, Nairobi",
+   "phone": "020 4445648",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Card Centre Ltd",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Lonrho House, Kaunda St, Nairobi",
+   "phone": "020 2117744",
+   "checked_at": "2026-10-18T22:00:40Z"
+  },
+  {
+   "name": "CARD SHOP",
+   "group": "in_store",
+   "region": "Kiambu County",
+   "address": "Kenya",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Dynamic Mall",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "PR7H+886, Tom Mboya St, Nairobi",
+   "checked_at": "2026-10-18T22:00:34Z"
+  },
+  {
+   "name": "Everything Gift Card",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Diamond Plaza, Nairobi",
+   "phone": "0731 826255",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "First world gamers",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "PPP8+XP6, Mukiri Road, Nairobi",
+   "phone": "0705 467722",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Gadisa jemal",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "phone": "0721 770821",
+   "checked_at": "2026-10-18T22:00:45Z"
+  },
+  {
+   "name": "General electronic merchants (GAME STORE KE.)",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Tom Mboya St, Nairobi",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "GiftCardsK Products",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "PR7G+3XX, Tom Mboya St, Nairobi",
+   "phone": "0745 435732",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Gravity Merchants",
+   "group": "in_store",
+   "city": "Nairobi, Imenti Hse. Opposite Barclays Bank",
+   "region": "Nairobi County",
+   "address": "Moi Avenue, Nairobi, Imenti Hse. Opposite Barclays Bank",
+   "phone": "0713 704414",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Hand Crafted Cards",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Butxon Estate, JWH9+GR4, Mombasa Road, Nairobi",
+   "phone": "0725 997333",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Integrity Materials Kenya Ltd",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Kangundo Rd, Nairobi",
+   "phone": "0702 891312",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Jackom outline",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "phone": "0113 523684",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "K official",
+   "group": "in_store",
+   "city": "Ruiru",
+   "region": "Nairobi County",
+   "address": "PV76+44W, Ruiru",
+   "phone": "0706 216735",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "KM Market",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "KULOBA",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "197.237.188, Nairobi",
+   "phone": "0795 872071",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Love Wins Cards",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Kiambu County",
+   "address": "RW6M+5P3, Thika Rd, Nairobi",
+   "phone": "0746 028045",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "neemfx",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "phone": "0745 455426",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Nuria: The Home of Independent Authors",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "1st floor, A12, The Bazaar Plaza, Moi Ave, Nairobi",
+   "phone": "0794 233261",
+   "checked_at": "2026-10-18T22:00:45Z"
+  },
+  {
+   "name": "O.T.C Building - Ne 16",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Shop NE 16, 2nd Floor, Above Tuskys O.T.C Supermarket, O.T.C Building, Nairobi",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Online marketing",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "QW9F+CQP, Nairobi",
+   "phone": "0791 739831",
+   "checked_at": "2026-10-18T22:00:38Z"
+  },
+  {
+   "name": "OTC",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Nairobi",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Paris Group of Companies",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "exit 7, Thika Rd, Nairobi",
+   "phone": "0795 435753",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Passionate Hearts KE",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "FNF House, Tom Mboya street, at the junction with Latema Road, Opposite Odeon Cinema Building, 4th floor, Suit 2 B, Nairobi, Kenya, Nairobi",
+   "phone": "0790 815607",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Pocket options limited",
+   "group": "in_store",
+   "city": "Eldoret",
+   "region": "Uasin Gishu County",
+   "address": "Kenyatta Dr8, Nairobi,00100 NBO, Eldoret",
+   "phone": "0792 413702",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Rishi Jaiswal",
+   "group": "in_store",
+   "city": "Pridelands",
+   "region": "Machakos County",
+   "address": "Katani, Pridelands",
+   "checked_at": "2026-10-18T22:00:34Z"
+  },
+  {
+   "name": "Shams",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Ground Floor, Emperor Plaza, Opposite G. P. O, PR79+VM7, Kenyatta Ave, Nairobi",
+   "phone": "0725 855797",
+   "checked_at": "2026-10-18T22:00:34Z"
+  },
+  {
+   "name": "smartmindAi",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Ngong Rd, Nairobi",
+   "phone": "0721 664353",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Student Discount Services",
+   "group": "in_store",
+   "city": "Nairobi City",
+   "region": "Nairobi County",
+   "address": "Rattansi Educational Trust Building, 2nd Floor, Room No. D16, Opposite Kemu Hub, P.O.Box No. 295, Koinange St, Nairobi City",
+   "phone": "020 2218386",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Success Card Shop",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "KTDA Plaza, P.O Box 30213 Tom Mboya St, Nairobi",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Switch Games",
+   "group": "in_store",
+   "city": "North",
+   "region": "Nairobi County",
+   "address": "Ngong Rd, North",
+   "phone": "0722 671996",
+   "checked_at": "2026-10-18T22:00:45Z"
+  },
+  {
+   "name": "The toy box kenya",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Mondlane St, Nairobi",
+   "phone": "0758 265562",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Uchumi Super Stalls - No. 68",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Shop 68, Uchumi Super Stalls, Temple Ln, Nairobi",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "✅IMAX SOUNDS AND ELECTRONICS ✅",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Luthuli Ave, Nairobi",
+   "checked_at": "2026-10-18T22:00:49Z"
+  },
+  {
+   "name": "2B Gamers Store",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Luthuli Avenue Gaberone Plaza, First Floor Luthuli Ave, Nairobi",
+   "phone": "0702 898605",
+   "website": "https://2bgamersstore.co.ke/",
+   "checked_at": "2026-10-18T22:00:40Z"
+  },
+  {
+   "name": "Board Games Kenya",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Jainsala Rd, Nairobi",
+   "phone": "0700 745000",
+   "website": "https://boardgameskenya.co.ke/board-games-and-playing-cards/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Bonk",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Sarit Centre Westlands, Nairobi",
+   "phone": "0721 171000",
+   "website": "https://bonk.co.ke/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "China Square Karen",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "The waterfront Mall, Karen Rd, Nairobi",
+   "phone": "0793 666777",
+   "website": "https://chinamall.co.ke/",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Colorshade Graphics Limited",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Colorshade Graphics, Kirinyaga road, & Jainsala Rd, Nairobi",
+   "phone": "0712 432531",
+   "website": "https://colorshade.co.ke/",
+   "checked_at": "2026-10-18T22:00:45Z"
+  },
+  {
+   "name": "Educate Yourself Ltd - Westgate Mall",
+   "group": "unknown",
+   "city": "Nairobi City",
+   "region": "Nairobi County",
+   "address": "A 2, Nairobi City",
+   "phone": "0741 522108",
+   "website": "https://eys.co.ke/",
+   "checked_at": "2026-10-18T22:00:45Z"
+  },
+  {
+   "name": "Game Nights 254",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Digital Shopping Mall Shop F8, along Moi Avenue - 2nd Floor, Opposite Sasa Mall, Nairobi",
+   "phone": "0793 017347",
+   "website": "https://gamenights254.com/",
+   "checked_at": "2026-10-18T22:00:40Z"
+  },
+  {
+   "name": "games and consoles ltd",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "accra plaza, Nairobi",
+   "phone": "0723 113365",
+   "website": "https://gamesandconsoles.co.ke/",
+   "checked_at": "2026-10-18T22:00:50Z"
+  },
+  {
+   "name": "GameStop Kenya",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Unnamed Road, Nairobi",
+   "phone": "0717 402034",
+   "website": "https://www.gamestop.co.ke/",
+   "checked_at": "2026-10-18T22:00:51Z"
+  },
+  {
+   "name": "Kibangabooks: Kenyan And African Books",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Corner House 5th FL, Kimathi St, Nairobi",
+   "phone": "0704 893746",
+   "website": "https://kibangabooks.com/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Mc Trading",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Giant Mark mall, Moi Ave, Nairobi",
+   "phone": "0712 717717",
+   "website": "https://mctrading.co.ke/",
+   "checked_at": "2026-10-18T22:00:47Z"
+  },
+  {
+   "name": "Morart Games Kenya",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Kiambu County",
+   "address": "Kirawa Rd, Nairobi",
+   "phone": "0737 715131",
+   "website": "https://morartgameskenya.com/",
+   "checked_at": "2026-10-18T22:00:42Z"
+  },
+  {
+   "name": "Nairobi Games",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Simara Mall, 6th Floor shop no F28, Nairobi",
+   "phone": "0793 870456",
+   "website": "https://nairobigames.hustlesasa.shop/",
+   "checked_at": "2026-10-18T22:00:49Z"
+  },
+  {
+   "name": "Plysales Kenya Ltd",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Next To Auto Express, Enterprise Road, Nairobi",
+   "phone": "0727 048416",
+   "website": "https://plysaleskenya.com/",
+   "checked_at": "2026-10-18T22:00:46Z"
+  },
+  {
+   "name": "Sarit",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Stima lane, Lower Kabete Rd, Nairobi",
+   "phone": "0111 040600",
+   "website": "https://sarityourcity.com/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "The Card Guys",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Muhuri Rd, Off Waiyaki Wy, Nairobi",
+   "phone": "0748 812042",
+   "website": "https://www.thecardguys.co.ke/",
+   "checked_at": "2026-10-18T22:00:38Z"
+  },
+  {
+   "name": "Toyworld-Abc Place",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Abc Place Nairobi, Waiyaki Wy, Nairobi",
+   "phone": "0728 537020",
+   "website": "https://toyworldgroup.com/cgi-sys/suspendedpage.cgi?route=information/information&information_id=6",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Village Market",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Village Market, Limuru Rd, Nairobi",
+   "phone": "020 7122488",
+   "website": "http://www.villagemarket-kenya.com/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Vivid Gold",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "No.2, ABC Court, Opposite Splendor Oaks Mukuyu Road, Off Northern Bypass Rd, Nairobi",
+   "phone": "0724 925236",
+   "website": "https://vividgold.co.ke/",
+   "checked_at": "2026-10-18T22:00:40Z"
+  },
+  {
+   "name": "Yaya Centre",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Argwings Kodhek Rd, Nairobi",
+   "phone": "0709 439000",
+   "website": "https://www.yaya-centre.com/",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Zenex Kenya Cinema",
+   "group": "unknown",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Kenya Cinema Plaza, Moi Ave, Nairobi",
+   "phone": "0720 012374",
+   "website": "https://zenex.co.ke/",
+   "checked_at": "2026-10-18T22:00:34Z"
+  }
+ ]
+}

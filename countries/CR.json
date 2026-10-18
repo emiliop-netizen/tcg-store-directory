@@ -1,0 +1,802 @@
+{
+ "country": "CR",
+ "currency": "CRC",
+ "updated": "2026-10-18",
+ "store_count": 78,
+ "stores": [
+  {
+   "name": "Imperium Hobby Shop",
+   "group": "blocked",
+   "address": "200 norte y 25 este del Banco nacional de tejar, contiguo a ferreteria chisco, Cartago, Cartago, 30801, Costa Rica",
+   "phone": "50671-96-5348",
+   "website": "https://imperiumhobbyshop.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Pinky Singles - Guapiles",
+   "group": "blocked",
+   "address": "Centro Comercial Nuevo Guapiles Local 4, San José, Guapiles Limon, 70201, Costa Rica",
+   "phone": "50660775305",
+   "website": "https://pinkysingles.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:41Z"
+  },
+  {
+   "name": "PoekFX Hobby Store",
+   "group": "blocked",
+   "city": "Grecia",
+   "region": "Provincia de Alajuela",
+   "address": "Local Segundo Piso sobre tienda El Rayo, Provincia de Alajuela, Grecia, 20301",
+   "phone": "8313 8253",
+   "website": "https://www.pokefx-store.com/",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Todo Geek",
+   "group": "blocked",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "San Francisco la Emilia D10, Heredia",
+   "phone": "8888 0241",
+   "website": "http://www.todogeekcostarica.com/",
+   "checked_at": "2026-10-18T21:45:57Z"
+  },
+  {
+   "name": "Vértigo • Escazú",
+   "group": "blocked",
+   "city": "San Rafael",
+   "region": "San José",
+   "address": "C. Multiplaza, San José, San Rafael",
+   "phone": "4000 2301",
+   "website": "https://www.tiendavertigo.com/",
+   "checked_at": "2026-10-18T21:45:51Z"
+  },
+  {
+   "name": "\"Raven House\" Geek Shop",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "Heredia Province, Heredia, Oriente, 40403",
+   "phone": "6054 3063",
+   "website": "https://m.facebook.com/RavenHouse01/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Arzu TCG Alajuela",
+   "group": "in_store",
+   "city": "Alajuela",
+   "region": "Provincia de Alajuela",
+   "address": "2Q9Q+6HR, C. 5 La Paz, Provincia de Alajuela, Alajuela",
+   "phone": "8800 3973",
+   "checked_at": "2026-10-18T21:46:08Z"
+  },
+  {
+   "name": "Arzu TCG Heredia",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "2V2Q+M2G Heredia, Heredia, Corazon De Jesus",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Arzu Trading Card Store",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José Province",
+   "address": "WW6R+GX7, San José Province, San José",
+   "phone": "8412 3156",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Astro City",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "XVXM+5QR, Heredia Province, Heredia, Oriente",
+   "phone": "6484 7276",
+   "checked_at": "2026-10-18T21:46:00Z"
+  },
+  {
+   "name": "Avalon Game Arena",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José Province",
+   "address": "Building, C. 11, San José Province, San José, Soledad",
+   "phone": "8388 2666",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Burro Singles MT",
+   "group": "in_store",
+   "city": "Cartago",
+   "region": "Provincia de Cartago",
+   "address": "Paseo Metropoli Local 2140, Provincia de Cartago, Cartago, Costa Rica, Cartago, Provincia de Cartago",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Ciudad manga",
+   "group": "in_store",
+   "city": "Desamparados",
+   "region": "San José Province",
+   "address": "WW2J+462, San José Province, Desamparados",
+   "phone": "2250 2104",
+   "checked_at": "2026-10-18T21:45:51Z"
+  },
+  {
+   "name": "Ciudad Manga • Alajuela",
+   "group": "in_store",
+   "city": "Alajuela",
+   "region": "Alajuela Province",
+   "address": "2Q3Q+C86, Alajuela Province, Alajuela, Monserrat",
+   "phone": "4200 5737",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Club Coleccionistas Costa Rica",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "San Francisco, 35 metros norte del AMPM, frente a barbería, Heredia, Esmeralda, 40103",
+   "phone": "8892 2752",
+   "website": "https://www.facebook.com/clubcoleccionistascr2",
+   "checked_at": "2026-10-18T21:46:00Z"
+  },
+  {
+   "name": "Colecciones Panini y Más",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "San José",
+   "address": "XW56+V25, Av. 57, San José, Heredia, Cuatro Reinas",
+   "phone": "4000 9915",
+   "checked_at": "2026-10-18T21:46:03Z"
+  },
+  {
+   "name": "Collector’s Store Los Yoses",
+   "group": "in_store",
+   "city": "San Pedro",
+   "region": "San José",
+   "address": "WWJR+CCJ, C. 43, San José, San Pedro, Los Yoses",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "DC BANZAI",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "C. Los Jardines, Heredia",
+   "phone": "8909 2031",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Dice & Cards Hobby Shop",
+   "group": "in_store",
+   "city": "San Pedro",
+   "region": "San José Province",
+   "address": "San José Province, San Pedro, Costa Rica, San Pedro, San José Province",
+   "phone": "7146 5715",
+   "website": "https://www.facebook.com/Dice-Cards-106687647956303/?modal=followers&notif_id=1610645670911896&notif_t=page_follow&ref=notif",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "El Santuario TCG Store & Battle Zone",
+   "group": "in_store",
+   "city": "Grecia",
+   "region": "Provincia de Alajuela",
+   "address": "Terminal de Buses TUAN, segunda planta local 17, Provincia de Alajuela, Grecia, 20301",
+   "phone": "6023 7113",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Galería central",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José",
+   "address": "WWMF+FH7, Av. Central, San José, Catedral, 10103",
+   "phone": "8327 1251",
+   "website": "https://www.instagram.com/jezreeldelvalle__?igsh=cGV3c2I4MWw3eDU5&utm_source=qr",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Gamers Club",
+   "group": "in_store",
+   "city": "San Isidro",
+   "region": "Heredia",
+   "address": "2W7V+3RH, C. La Isidreña, Heredia, San Isidro, Sector Lourdes",
+   "phone": "8541 1477",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Hax Hobby Shop",
+   "group": "in_store",
+   "city": "de",
+   "region": "Heredia",
+   "address": "C. la Rusia, Heredia, de, 40803",
+   "phone": "7273 4371",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Justice for All Memorabilia",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "Cedro Real casa 36, Heredia, Mercedes Nte., 40102",
+   "phone": "6009 7171",
+   "checked_at": "2026-10-18T21:46:09Z"
+  },
+  {
+   "name": "Kame Collective TCG",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José",
+   "address": "10110, San José, Hatillo 4",
+   "phone": "8942 1392",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "Kira Shop -Trading Card Games",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José",
+   "address": "Уньон Эуропеа аллеясы, San José, Soledad",
+   "phone": "2201 9184",
+   "website": "http://www.facebook.com/thekirashop/",
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Krypton Hobby Store",
+   "group": "in_store",
+   "city": "San Isidro",
+   "region": "San José",
+   "address": "200 oeste, Municipalidad de Coronado, 75 sur, San José, San Isidro, 11101",
+   "phone": "2294 2294",
+   "website": "https://www.facebook.com/kryptoncr",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Librería Y Bazar La Central",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "50 M Sur Casino Fiesta, Heredia, Fatima, 40101",
+   "phone": "2101 2863",
+   "checked_at": "2026-10-18T21:46:09Z"
+  },
+  {
+   "name": "Mimikyu Cards",
+   "group": "in_store",
+   "city": "Patalillo",
+   "region": "San José",
+   "address": "11104, San José, Patalillo, 11104",
+   "phone": "8361 8707",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "MM gaming arena",
+   "group": "in_store",
+   "city": "San Roque",
+   "region": "Heredia Province",
+   "address": "Heredia Province, San Roque, Costa Rica, San Roque, Heredia Province",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Multiservicios Heredianos",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "Heredia Province, Heredia, Fatima, 40101",
+   "phone": "2262 2273",
+   "checked_at": "2026-10-18T21:46:08Z"
+  },
+  {
+   "name": "NYX Game Arena",
+   "group": "in_store",
+   "city": "Alajuela",
+   "region": "Alajuela Province",
+   "address": "Los Yoses, esquina de Av. 10 y C. 47 contiguo a la corte de los Derechos Humanos., San Pedro, San José, 11501, Costa Rica",
+   "phone": "5068317-4555",
+   "website": "https://www.facebook.com/Nyx-Game-Arena-225887706048375",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Nyx Game Arena",
+   "group": "in_store",
+   "city": "San Pedro",
+   "region": "San José Province",
+   "address": "San José Province, San Pedro, Los Yoses",
+   "phone": "7028 1346",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Olympus Garden",
+   "group": "in_store",
+   "city": "Guadalupe",
+   "region": "San José",
+   "address": "50 Metros Norte de la Farmacia del Hospital La Católica, San José, Goicoechea, 10803, Costa Rica",
+   "phone": "50687555475",
+   "website": "https://www.instagram.com/go2og.cr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "OMEGA Card Games Store",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "Heredia Province, Heredia, Costa Rica, Heredia, Heredia Province",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "ONE GEEK COSTA RICA",
+   "group": "in_store",
+   "city": "San Francisco",
+   "region": "Heredia",
+   "address": "de, Heredia, San Francisco, Los Lagos, 40103",
+   "phone": "5709 6364",
+   "website": "https://www.tiktok.com/@onegeekcostarica",
+   "checked_at": "2026-10-18T21:46:09Z"
+  },
+  {
+   "name": "Pinky Singles",
+   "group": "in_store",
+   "city": "Guadalupe",
+   "region": "San José",
+   "address": "de la Parroquia de Nuestra Señora de Guadalupe, 50 Oeste 100 Sur, San José, Guadalupe, Union Jardin, 10801",
+   "phone": "6077 5305",
+   "website": "https://www.facebook.com/profile.php?id=61559137526078",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "Racu Cards",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "Frente canchas la suiza, Heredia, Labrador, 40102",
+   "phone": "6018 3394",
+   "website": "https://www.instagram.com/racutcg?igsh=ZzI0bHk3N3o2YjQ4&utm_source=qr",
+   "checked_at": "2026-10-18T21:46:00Z"
+  },
+  {
+   "name": "Raven House",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+506 4033 5593",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Sandi Video",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "Av. 2, Heredia, Fatima, 40101",
+   "phone": "8535 0537",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Side Quest",
+   "group": "in_store",
+   "city": "Catedral",
+   "region": "San José",
+   "address": "Trans. 25A, San José, Catedral, Francisco Peralta, 10104",
+   "phone": "7097 8110",
+   "checked_at": "2026-10-18T21:45:51Z"
+  },
+  {
+   "name": "SnoreTCG",
+   "group": "in_store",
+   "city": "Central",
+   "region": "San José",
+   "address": "San Jose, San José, Central, Cascajal, 10110",
+   "phone": "7145 4366",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Super Manga World",
+   "group": "in_store",
+   "city": "San Francisco",
+   "region": "Heredia",
+   "address": "Mall Oxigeno Local 20213, Heredia, San Francisco, 40103",
+   "phone": "8821 7116",
+   "website": "http://www.facebook.com/smwstore",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Tienda KBOOM Heredia",
+   "group": "in_store",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "2R2W+WFV, Heredia Province, Heredia, La Bomba",
+   "phone": "8391 0992",
+   "checked_at": "2026-10-18T21:46:03Z"
+  },
+  {
+   "name": "Velvet Room Game Store",
+   "group": "in_store",
+   "city": "San Ramón",
+   "region": "Provincia de Alajuela",
+   "address": "Av. 5, Provincia de Alajuela, San Ramón",
+   "phone": "6200 9664",
+   "website": "https://www.facebook.com/VelvetRoomGameStore/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Vortex Game Center",
+   "group": "in_store",
+   "city": "San Vicente",
+   "region": "San José",
+   "address": "Plaza Los Colegios, Local 7, San José, San Vicente, Los Colegios",
+   "phone": "2248 1653",
+   "website": "https://www.facebook.com/VortexGamingCR",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "Y&G Vault",
+   "group": "in_store",
+   "city": "San José",
+   "region": "San José",
+   "address": "100m norte y 25m este del maxipali, San José, San Rafael Abajo, 10311",
+   "phone": "6192 9595",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Arzu Trading Cards Store",
+   "group": "unknown",
+   "address": "Costa Rica san José san francisco de dos rios frente a la escuela republica dominicana, San francisco de dos rios, San Jose, 10101, Costa Rica",
+   "phone": "50684123156",
+   "website": "https://arzu-9380c.web.app/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Boom Store CR",
+   "group": "unknown",
+   "city": "Santo Domingo",
+   "region": "Heredia Province",
+   "address": "Calle La Estacion 350 sur del Super Compro, contiguo al super Zurqui, Sta. Rosa de Santo Domingo, Heredia Province, Santo Domingo, 40306",
+   "phone": "8502 6761",
+   "website": "https://www.boomstorecr.com/",
+   "checked_at": "2026-10-18T21:46:03Z"
+  },
+  {
+   "name": "Burro Singles",
+   "group": "unknown",
+   "city": "San Antonio",
+   "region": "Heredia",
+   "address": "Plaza Lafayette local #6, La Ribera, Belén, H, 40702, Costa Rica",
+   "phone": "+506 84208842",
+   "website": "https://burrosingles.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Burro Singles - CQ",
+   "group": "unknown",
+   "city": "Ciudad Quesada",
+   "region": "Provincia de Alajuela",
+   "address": "Parque de Ciudad Quesada, Provincia de Alajuela, Cd Quesada, 21001, Costa Rica, Ciudad Quesada, Provincia de Alajuela, 21001",
+   "phone": "88465347",
+   "website": "https://burrosingles.com/home/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Casa Manga",
+   "group": "unknown",
+   "city": "San Pedro",
+   "region": "San José",
+   "address": "2, San José, San Pedro",
+   "phone": "2234 0034",
+   "website": "https://www.casamangacr.com/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Ciudad Manga",
+   "group": "unknown",
+   "city": "San Pedro",
+   "region": "San José",
+   "address": "Centro comercial Arte Plaza, A LA PAR DE LA PARRILLITA DE PEPE, San José, San Pedro, 11801",
+   "phone": "6211 1919",
+   "website": "https://ciudadmangacr.com/",
+   "checked_at": "2026-10-18T21:45:51Z"
+  },
+  {
+   "name": "Duelist Kingdom TCG & Hobby Center - Belén",
+   "group": "unknown",
+   "city": "San Antonio",
+   "region": "Heredia Province",
+   "address": "XRH6+GW, Heredia Province, San Antonio, 40701",
+   "phone": "4070 1996",
+   "website": "https://duelistkingdomcr.com/",
+   "checked_at": "2026-10-18T21:46:09Z"
+  },
+  {
+   "name": "Duelist Kingdom TCG & Hobby Center San Pedro",
+   "group": "unknown",
+   "city": "Alajuela",
+   "region": "Alajuela Province",
+   "address": "Edificio Lachner, 1er piso, San Pedro, San José, 11801, Costa Rica",
+   "phone": "50660412229",
+   "website": "https://duelistkingdomcr.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Fenix, Tienda de Entretenimiento",
+   "group": "unknown",
+   "city": "Guadalupe",
+   "region": "San José",
+   "address": "Contiguo a la pizza Hut de, San José, Guadalupe, Col Del Rio, 10801, Costa Rica, Guadalupe, San José, 10801",
+   "phone": "+506 8383 3649",
+   "website": "https://www.nidodelfenix.com/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Fukuro",
+   "group": "unknown",
+   "city": "Grecia",
+   "region": "Provincia de Alajuela",
+   "address": "frente a la plaza de calle blancos costado noroeste, San Jose, San Jose, 10801, Costa Rica",
+   "phone": "506 70558300",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Fénix Tienda de Entretenimiento",
+   "group": "unknown",
+   "city": "Heredia",
+   "region": "Heredia Province",
+   "address": "Contiguo a la pizza Hut de,  San José, Guadalupe, 10801, Costa Rica",
+   "phone": "5098383-3649",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Kiko TCG Store",
+   "group": "unknown",
+   "city": "San Antonio",
+   "region": "Heredia",
+   "address": "25mts este de la Casa de la Cultura, Heredia, San Antonio, 40701",
+   "phone": "7187 6742",
+   "website": "https://kikotcg.com/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Memories TCG store",
+   "group": "unknown",
+   "address": "100 metros al norte del jardín de niños de Esparza, Diagonal a la vidriera., Esparza, Puntarenas, 60201, Costa Rica",
+   "phone": "50686375959",
+   "website": "https://www.memoriestcg.store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:45Z"
+  },
+  {
+   "name": "Minipits collectors 86",
+   "group": "unknown",
+   "city": "Desamparados",
+   "region": "San José",
+   "address": "Del parque centenario, 300 metros al sur, C. San Martín, San José, Desamparados, 10301",
+   "phone": "7128 0541",
+   "website": "http://minipitscollectors86.com/",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "Movie Game temari",
+   "group": "unknown",
+   "city": "Santa Bárbara",
+   "region": "Heredia",
+   "address": "Frente estadio Carlos Alvarado Heredia, Heredia, Santa Bárbara, 40401",
+   "phone": "8649 1275",
+   "website": "https://movie-game-temari.webnode.cr/",
+   "checked_at": "2026-10-18T21:46:06Z"
+  },
+  {
+   "name": "OMEGA Card Game Store - Alajuela",
+   "group": "unknown",
+   "city": "Alajuela",
+   "region": "Alajuela Province",
+   "address": "3, Alajuela Province, Alajuela, Agonía",
+   "phone": "2442 6101",
+   "website": "https://www.omegaenlinea.com/",
+   "checked_at": "2026-10-18T21:46:00Z"
+  },
+  {
+   "name": "OMEGA Card Games Store - Alajuela",
+   "group": "unknown",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "Calle 7, Alajuela, A, 20101, Costa Rica",
+   "phone": "5062442 6101",
+   "website": "https://www.omegaenlinea.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "OMEGA Card Games Store - Cartago",
+   "group": "unknown",
+   "city": "Cartago",
+   "region": "Provincia de Cartago",
+   "address": "100 metros Noreste de los Tribunales justicia en Cartago Cartago Oriente, Provincia de Cartago, Cartago, 30101",
+   "phone": "2245 7182",
+   "website": "https://www.omegaenlinea.com/",
+   "checked_at": "2026-10-18T21:46:03Z"
+  },
+  {
+   "name": "Oxígeno Human Playground",
+   "group": "unknown",
+   "city": "San Francisco",
+   "region": "Heredia Province",
+   "address": "Heredia Province, San Francisco",
+   "phone": "800-694-4366",
+   "website": "https://oxigeno.com/",
+   "checked_at": "2026-10-18T21:46:07Z"
+  },
+  {
+   "name": "Paseo de las Flores",
+   "group": "unknown",
+   "city": "San Francisco",
+   "region": "Heredia Province",
+   "address": "Heredia Province, San Francisco, Guararí, 41101",
+   "phone": "2261 9898",
+   "website": "https://www.paseodelasflores.com/es",
+   "checked_at": "2026-10-18T21:46:04Z"
+  },
+  {
+   "name": "Perron Store",
+   "group": "unknown",
+   "address": "San José, san jose, zapote, plaza del castillo local 16 y 17, San José, San Jose, 10105, Costa Rica",
+   "phone": "50689125220",
+   "website": "http://perronstrore.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:45:40Z"
+  },
+  {
+   "name": "Perrón Store - Trading Card Games(TCG)",
+   "group": "unknown",
+   "city": "San Pedro",
+   "region": "San José",
+   "address": "215, San José, San Pedro, Zapote, 11801",
+   "phone": "8912 5220",
+   "website": "https://www.perronstore.com/",
+   "checked_at": "2026-10-18T21:45:46Z"
+  },
+  {
+   "name": "Poke Store Cr",
+   "group": "unknown",
+   "city": "San José",
+   "region": "San José",
+   "address": "Av. 6, San José, Soledad",
+   "phone": "7105 1121",
+   "website": "https://pokestoreonline.com/",
+   "checked_at": "2026-10-18T21:45:50Z"
+  },
+  {
+   "name": "Poke-Singles",
+   "group": "unknown",
+   "city": "San Juan",
+   "region": "San José",
+   "address": "11301, San José, San Juan, Versalles, 11301",
+   "phone": "6345 2039",
+   "website": "https://poke-singles.com/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  },
+  {
+   "name": "Pop House Costa Rica",
+   "group": "unknown",
+   "city": "Heredia",
+   "region": "Heredia",
+   "address": "Heredia Centro, Centro de Idiomas Intercultura, 50 m oeste, Edificio Kauri Tienda Pop House, Heredia, La Bomba, 40101",
+   "phone": "6178 4321",
+   "website": "https://pophouse-cr.com/",
+   "checked_at": "2026-10-18T21:46:02Z"
+  },
+  {
+   "name": "TCG GAMES STORE LIMON",
+   "group": "unknown",
+   "city": "Limon",
+   "region": "Limón Province",
+   "address": "Limón Province, Limon, 70101",
+   "phone": "6135 5305",
+   "website": "https://tcgstorecr.com/",
+   "checked_at": "2026-10-18T21:45:53Z"
+  },
+  {
+   "name": "Tienda de Juegos - Bluff game store",
+   "group": "unknown",
+   "city": "San José",
+   "region": "San José",
+   "address": "Las Arcadas, C. 1, San José, Catedral",
+   "phone": "6102 2603",
+   "website": "https://bluffgamestore.com/",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Tienda XD",
+   "group": "unknown",
+   "city": "San José",
+   "region": "San José",
+   "address": "Galería Central Primer piso, local 145, San José, Catedral",
+   "phone": "6016 2473",
+   "website": "https://tiendaxd.online/",
+   "checked_at": "2026-10-18T21:46:08Z"
+  },
+  {
+   "name": "Tora Card Games TCG",
+   "group": "unknown",
+   "city": "Alajuela",
+   "region": "Provincia de Alajuela",
+   "address": "Av. 5 Juan Santamaría, Provincia de Alajuela, Alajuela, 20101",
+   "phone": "8771 8650",
+   "website": "https://www.toracardgamescr.com/",
+   "checked_at": "2026-10-18T21:46:01Z"
+  },
+  {
+   "name": "Trading Otaku Card Game Store",
+   "group": "unknown",
+   "city": "San José",
+   "region": "San José",
+   "address": "WWMF+8G9, San José Province, San José, Catedral",
+   "website": "https://tradingcr.company.site/",
+   "checked_at": "2026-10-18T21:45:48Z"
+  },
+  {
+   "name": "Zeus Hobby Store",
+   "group": "unknown",
+   "city": "Cartago",
+   "region": "Provincia de Cartago",
+   "address": "Av. 1 del Comercio, Provincia de Cartago, Cartago",
+   "phone": "7221 5169",
+   "website": "https://zeusstore.sempai.space/",
+   "checked_at": "2026-10-18T21:45:56Z"
+  }
+ ]
+}

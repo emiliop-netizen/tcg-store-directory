@@ -1,0 +1,501 @@
+{
+ "country": "VE",
+ "currency": "USD",
+ "updated": "2026-10-18",
+ "store_count": 51,
+ "stores": [
+  {
+   "name": "CTJ STUDIOS C.A",
+   "group": "blocked",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "LOCAL B Y C, EDIF ROMA, PISO PB C. Pedro Maria Morantes, Caracas 1010, Distrito Capital",
+   "phone": "0412-9785948",
+   "website": "https://comprotusjuegos.com/",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "babidishop",
+   "group": "in_store",
+   "city": "Cabimas",
+   "region": "Zulia",
+   "address": "C. Ana Maria Campos, Cabimas 4013, Zulia",
+   "phone": "0412-6574108",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "Brutal Player",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Calle Unión y Calle Villaflor Boulevard de Sabana Grande, Centro Comercial City Market Nivel Feria Locales 310 y 326, Caracas 1050, Distrito Capital",
+   "phone": "0212-7618175",
+   "website": "https://www.facebook.com/brutalplayer",
+   "checked_at": "2026-10-18T21:55:02Z"
+  },
+  {
+   "name": "Centro Plaza",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "5608 Av. Francisco de Miranda, Caracas 1060, Miranda",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "City of Dis TCG",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Parroquia, Calle E, Caracas 1020, Distrito Capital",
+   "phone": "0424-8744437",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "colecciones27",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Av. Cristobal Rojas, Qta Marietta, F4G5+WX9, Caracas 1040, Distrito Capital",
+   "phone": "0424-2120624",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Comercial Súper Win, C.A",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "esquina la marron, Caracas 1012, G34Q+F95, Av. Este 0, Caracas 1012, Distrito Capital",
+   "phone": "0412-2200366",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "COMIC'S MANIA",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Av. Libertador y Francisco de Miranda en Av. Libertador, Caracas 1064, Distrito Capital",
+   "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "Cristal card",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "URB, Avenida 4, Caracas 1060, Distrito Capital",
+   "phone": "0426-1114047",
+   "checked_at": "2026-10-18T21:54:56Z"
+  },
+  {
+   "name": "Dr Games CA",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "1010 Caracas, Caracas 1010, Distrito Capital",
+   "phone": "0412-9896813",
+   "checked_at": "2026-10-18T21:54:57Z"
+  },
+  {
+   "name": "El Castillo Mágico de la Gitana",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "F5VG+2JM, Caracas 1071, Miranda",
+   "phone": "0212-2355050",
+   "checked_at": "2026-10-18T21:55:02Z"
+  },
+  {
+   "name": "FrikiStation+",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Manuelita Saenz, Centro Comercial Sabana Grande, PB local 0034 Chacaito, Caracas 1010, Distrito Capital",
+   "phone": "0424-2821133",
+   "checked_at": "2026-10-18T21:55:02Z"
+  },
+  {
+   "name": "Game Store Venezuela",
+   "group": "in_store",
+   "city": "Ciudad Guayana",
+   "region": "Bolívar",
+   "address": "carrera Barrancas Casa f85, Ciudad Guayana 8050, Bolívar",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "GameHalla",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "F3XR+4H3, Av. Este 12, Caracas 1014, Distrito Capital",
+   "phone": "0412-6129571",
+   "checked_at": "2026-10-18T21:54:57Z"
+  },
+  {
+   "name": "GEEKORIUM EMPORIO MAGICO C.A.",
+   "group": "in_store",
+   "city": "Caracas",
+   "region": "Distrito Capital",
+   "address": "F4RM+2G Torre Easo, Av. José Martí, Caracas 1060, Distrito Capital, Venezuela, Caracas, Distrito Capital, 1060",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Hobbie’s Place",
+   "group": "in_store",
+   "city": "Valencia",
+   "region": "Carabobo",
+   "address": "6X4R+CWC, Av. Bolivar Nte., Valencia 2001, Carabobo",
+   "phone": "0241-8256537",
+   "checked_at": "2026-10-18T21:54:56Z"
+  },
+  {
+   "name": "Hobby Stop",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Subida de Los Naranjos, Av. Raimundo Reinoso, Caracas 1083, Miranda",
+   "phone": "0424-2590154",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Kokusai Fan - Tienda de Mangas en Caracas - Venezuela",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Sábana Grande, Av Abraham Lincoln, Edif Benedetti, PB Galerias LaFayette, al lado del BDV, Caracas F4RG+QRW, Bulevar de, Caracas 1050, Caracas 1060, Distrito Capital",
+   "phone": "0424-2477994",
+   "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "Kyo Caracas - Tienda de Mangas Online en Caracas – Venezuela",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Santa Mónica, Avenida Teresa de la Parra, Calle Damaso Villalba, Caracas 1040, Distrito Capital",
+   "phone": "0424-2477994",
+   "checked_at": "2026-10-18T21:55:04Z"
+  },
+  {
+   "name": "Leyenda Gamer S.A",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "1000, Caracas 1000, Distrito Capital",
+   "checked_at": "2026-10-18T21:54:57Z"
+  },
+  {
+   "name": "Metal Player",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "F4MW+H7V, Caracas 1064, Miranda",
+   "phone": "0212-9596908",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "Miticas TCG",
+   "group": "in_store",
+   "city": "Caracas",
+   "region": "Miranda",
+   "address": "Av Francisco de Miranda, Piso 4, Oficina 401, Torre Bazar Bolivar, con Av. República Dominicana, Caracas 1071, Miranda, Venezuela, Caracas, Miranda, 1071",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Official Card Fifa",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "NA, Caracas 1070, Miranda",
+   "phone": "0412-9221774",
+   "checked_at": "2026-10-18T21:54:58Z"
+  },
+  {
+   "name": "Oracle Gaming",
+   "group": "in_store",
+   "city": "Maracaibo",
+   "region": "Zulia",
+   "address": "Avenida Circunvalación 2, Frente a URBE Local, al lado de Librería Aeropuerto, 52 Avenida 15P, Maracaibo 4005, Zulia",
+   "phone": "0414-6722749",
+   "website": "https://www.instagram.com/oracle.ga",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "Regalos Mf C.a",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "estacion metro chacaito local l06, Caracas 1060, Miranda",
+   "phone": "0212-9521885",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "Tcg Cave",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Caracas 1212, Miranda",
+   "phone": "0414-0275035",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "TCG Store C.A.",
+   "group": "in_store",
+   "city": "San Cristóbal",
+   "region": "Táchira",
+   "address": "entre carreras 23 y 24 C. 9, San Cristóbal 5001, Táchira",
+   "phone": "0276-3569745",
+   "website": "https://www.facebook.com/TCGplaystore/",
+   "checked_at": "2026-10-18T21:54:59Z"
+  },
+  {
+   "name": "Tu Zona Retro",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Avenida El Bosque Urbanización, Portón De láminas plateadas con marco negro, Caracas 1050, Distrito Capital",
+   "phone": "0412-8970707",
+   "website": "https://www.instagram.com/tuzonaretro",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Universal TCG",
+   "group": "in_store",
+   "city": "Maracaibo",
+   "region": "Zulia",
+   "address": "4001, Maracaibo 4005, Zulia",
+   "phone": "0414-6662603",
+   "website": "https://www.facebook.com/UniversalTCG",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "VOKcollections",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "1080, Caracas 1080, Distrito Capital",
+   "phone": "0412-3297227",
+   "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "War of players",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Centro de economía comunal manuelita saensz saens, C. Chacaíto, Caracas 1050, Distrito Capital",
+   "phone": "0424-1899977",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "Numislibros - Saberes y Legados.",
+   "group": "not_buying_singles",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Siempre previa cita. Consulte antes de venir, Centro Comercial Parque Caracas, Av. Sur 21, Caracas 1010, Distrito Capital",
+   "phone": "0414-2138162",
+   "website": "https://numislibros.wordpress.com/",
+   "buylist_url": "https://numislibros.wordpress.com/2024/01/30/numislibros-es-una-casa-numismatica-compramos-monedas-de-plata-y-oro-coloniales-conmemorativas-y-billetes-venezolanos-de-coleccion/",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Altos Gamers CCS",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "C.C City Market, Piso 4 Feria Mezzanina, Local 448, Caracas 1050, Distrito Capital",
+   "phone": "0412-9919271",
+   "website": "https://treinta.shop/altosgamers",
+   "checked_at": "2026-10-18T21:54:57Z"
+  },
+  {
+   "name": "Anarkia Players",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Tiendas anarkiaplayer, Caracas 1071, Miranda",
+   "phone": "0424-2065653",
+   "website": "https://linktr.ee/Anarkiaplayers",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-18T21:54:59Z"
+  },
+  {
+   "name": "Capital Boar Gaming",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Entre las esquinas Desamparados a Teñideros, Av. Nte. 11, Caracas 1011, Distrito Capital",
+   "phone": "0424-1541772",
+   "website": "http://www.wargarage.org/linktree-capital-boar-gaming/",
+   "buylist_url": "http://www.wargarage.org/retailer/buylist",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Capy Store",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Local M078, Centro comercial Casa Bera, Caracas 1010, Distrito Capital",
+   "phone": "0412-2128064",
+   "website": "https://www.capystore.net/",
+   "checked_at": "2026-10-18T21:55:02Z"
+  },
+  {
+   "name": "Comic Center Café",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Edificio Cosmos, Calle la Joya, Caracas 1060, Miranda",
+   "phone": "0212-2646794",
+   "website": "https://comiccentercafe.com/",
+   "checked_at": "2026-10-18T21:55:04Z"
+  },
+  {
+   "name": "DTODITOJUGUETES",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Esquinas horcones a valdes, edificio DON LUIS Punto de referencia, Restaurante valparaiso, Caracas 1011, Distrito Capital",
+   "phone": "0424-2825480",
+   "website": "https://dtoditojuguetes.myshopify.com/",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "Gaming Store ccs",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "F4RW+367, Caracas 1064, Miranda, Caracas 1064, Distrito Capital",
+   "phone": "0424-1634626",
+   "website": "https://wa.me/message/56XTJ5MVUWYRH1",
+   "buylist_url": "https://api.whatsapp.com/send/?text&username=buylist&type=username&app_absent=0",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Geekorium Emporio Magico",
+   "group": "unknown",
+   "address": "Avenida Francisco de Miranda, Caracas, Dto. Capital, 1060, Venezuela",
+   "phone": "58424-226-1796",
+   "website": "https://the.geekorium.au/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "GiftCardOferta",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Local n65, Mercado municipal de San Martín, Av. San Martín, Caracas 1020, Distrito Capital",
+   "phone": "0412-5556614",
+   "website": "https://giftcardoferta.com/es/",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "Hirai mangas y comics | Tienda de mangas y comics en Caracas",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Avenida Este 6, Caracas 1011, Distrito Capital",
+   "phone": "0424-2993098",
+   "website": "https://hiraimangasycomics.com/",
+   "checked_at": "2026-10-18T21:55:02Z"
+  },
+  {
+   "name": "La Ultima Frontera - Centro Plaza",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Centro Comercial Centro Plaza, Nivel C3, Local 62, Caracas, Chacao, 1040, Venezuela",
+   "phone": "58414-223-9428",
+   "website": "https://laultimafronteravzla.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Lion Store",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Centro comercial Casa Bera, Local M078, Caracas 1010, Distrito Capital",
+   "phone": "0412-2008486",
+   "website": "https://liontechstore.com/",
+   "checked_at": "2026-10-18T21:54:58Z"
+  },
+  {
+   "name": "Magicsur Barquisimeto",
+   "group": "unknown",
+   "city": "Barquisimeto",
+   "region": "Lara",
+   "address": "Centro Comercial El Paseo, Avenida Los Leones, Local 10PA, Barquisimeto 3001, Lara",
+   "phone": "0251-2551962",
+   "website": "https://magicsurvenezuela.com/",
+   "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "Miticas TCG",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Av Francisco de Miranda, Piso 4, Oficina 401, Torre Bazar Bolivar, con Av. República Dominicana, Caracas 1071, Miranda",
+   "phone": "0412-3055278",
+   "website": "https://www.miticastcg.com/",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Numisfila",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Local A, Edificio 22 de Mayo, PB Av. 2 Las Delicias, Caracas 1050, Distrito Capital",
+   "phone": "0212-7611952",
+   "website": "https://www.numisfila.com/",
+   "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Panini Venezuela",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "F59J+32H, Caracas 1071, Miranda",
+   "phone": "0424-1706341",
+   "website": "https://www.tubarajita.com/",
+   "checked_at": "2026-10-18T21:54:56Z"
+  },
+  {
+   "name": "Planix",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Centro Comercial Merpoeste., Caracas 1050, Distrito Capital",
+   "phone": "0412-2841071",
+   "website": "https://linkr.bio/Planix",
+   "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "Players Heaven",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "CCCT nivel C2, sector Yarey, oficina PB02d, Caracas 1060, Miranda",
+   "phone": "0424-2575297",
+   "website": "https://pleayers-heaven-ou9t.glide.page/",
+   "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "Venegift",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "piso 4, Edficio Grupo Médico Bucaral, Av. La Salle, Caracas 1010, Distrito Capital",
+   "phone": "0412-2002804",
+   "website": "https://venegift.com/",
+   "checked_at": "2026-10-18T21:55:01Z"
+  }
+ ]
+}

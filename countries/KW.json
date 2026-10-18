@@ -1,0 +1,350 @@
+{
+ "country": "KW",
+ "currency": "KWD",
+ "updated": "2026-10-18",
+ "store_count": 35,
+ "stores": [
+  {
+   "name": "Geek Nation - Al Kout Mall",
+   "group": "blocked",
+   "region": "Al Ahmadi Governorate",
+   "address": "Shop no. M-2-24, Fahaheel",
+   "phone": "6591 9230",
+   "website": "https://www.geekay.com/good-stuff",
+   "checked_at": "2026-10-18T21:58:07Z"
+  },
+  {
+   "name": "Geekay - The Avenues Mall (Phase 4)",
+   "group": "blocked",
+   "region": "Al Farwaniyah Governorate",
+   "address": "Shop no. N 0035, Ghazali Street",
+   "phone": "6584 3900",
+   "website": "https://kuwait.geekay.com/",
+   "checked_at": "2026-10-18T21:57:59Z"
+  },
+  {
+   "name": "PokeFlute Store",
+   "group": "blocked",
+   "city": "مدينة الكويت",
+   "region": "حولي",
+   "address": "Hawally, Mezzanine, Store 7, Sulaiman Complex, شارع بيروت، مدينة الكويت 30009",
+   "phone": "9406 5333",
+   "website": "https://www.pokeflutekwt.com/",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "The Gaming Hub",
+   "group": "blocked",
+   "city": "Hawally",
+   "region": "Hawalli Governorate",
+   "address": "149 St, Hawally 30012",
+   "phone": "411 11384",
+   "website": "https://www.thegaminghub.com/",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "/2D, Two Dimensional",
+   "group": "in_store",
+   "city": "Shuwaikh Industrial",
+   "region": "Al Asimah Governate",
+   "address": "8WQR+R5G, Shuwaikh Industrial",
+   "phone": "2225 6800",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "Alwan Computers",
+   "group": "in_store",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "No.9, commercial area, Al Kuwayt",
+   "phone": "9669 7222",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Azgardian Comics",
+   "group": "in_store",
+   "city": "Hawally",
+   "region": "Hawalli Governorate",
+   "address": "Mezzanine floor, store A10, Al-Rehab Complex, Tunisia St, Hawally 00965",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "Casablanka commercial trading Co WLL",
+   "group": "in_store",
+   "region": "Al Ahmadi Governorate",
+   "address": "26 Mekka St",
+   "phone": "9785 0775",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "Crazy Gift",
+   "group": "in_store",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "9XFF+557, Abdulla Al Salem St, Al Kuwayt",
+   "checked_at": "2026-10-18T21:58:07Z"
+  },
+  {
+   "name": "Geeks Hub Kuwait",
+   "group": "in_store",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "Al Hamra Tower, Al-Shuhada St, Al Kuwayt",
+   "phone": "2220 3555",
+   "checked_at": "2026-10-18T21:58:07Z"
+  },
+  {
+   "name": "granada EST",
+   "group": "in_store",
+   "city": "Kuwait City",
+   "region": "Al Asimah Governate",
+   "address": "9X68+MXR, Kuwait City",
+   "phone": "2240 5308",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Kuwait city",
+   "group": "in_store",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "15300 Abdulmunim Riyadh St, Al Kuwayt",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "Kuwait Legends gaming cafe",
+   "group": "in_store",
+   "city": "Kuwait City",
+   "region": "Al Farwaniyah Governorate",
+   "address": "Kuwait City",
+   "phone": "6906 1878",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "Legendary games",
+   "group": "in_store",
+   "city": "kuwait",
+   "region": "Al Jahra Governorate",
+   "address": "14, kuwait",
+   "phone": "6567 5975",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "Nanotechkw",
+   "group": "in_store",
+   "region": "Hawalli Governorate",
+   "address": "73WH+HQC",
+   "phone": "557 51700",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "Super Funko",
+   "group": "in_store",
+   "city": "Hawally",
+   "region": "Hawalli Governorate",
+   "address": "Office 24, Al-Rehab Complex, 1 Tunisia St, Hawally 30000",
+   "phone": "9962 0996",
+   "website": "https://instagram.com/super_funko?igshid=NzZlODBkYWE4Ng==",
+   "checked_at": "2026-10-18T21:58:07Z"
+  },
+  {
+   "name": "Level Up Gaming Store",
+   "group": "not_buying_singles",
+   "city": "Hawally",
+   "region": "Hawalli Governorate",
+   "address": "Shop Number 30, Al-Rehab Complex, Tunisia St, Hawally 30010",
+   "phone": "2207 0070",
+   "website": "https://level-up.gg/",
+   "checked_at": "2026-10-18T21:58:01Z"
+  },
+  {
+   "name": "Safari Gift House",
+   "group": "not_buying_singles",
+   "city": "Al Kuwayt",
+   "address": "Block 1 Kuwait, Al Kuwayt 13155",
+   "phone": "9491 9099",
+   "website": "https://www.safarigifthouse.com/",
+   "buylist_url": "https://www.safarigifthouse.com/retailer/buylist",
+   "checked_at": "2026-10-18T21:58:00Z"
+  },
+  {
+   "name": "Cardlogy",
+   "group": "unknown",
+   "city": "Salmiya",
+   "region": "Hawalli Governorate",
+   "address": "10 St, Salmiya",
+   "phone": "9603 1636",
+   "website": "https://www.cardlogy.com/",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "Dueling Area",
+   "group": "unknown",
+   "city": "Hawally",
+   "region": "Hawalli Governorate",
+   "address": "Tunisia St, Hawally, Hawally, 30000, Kuwait",
+   "phone": "+965 97265888",
+   "website": "https://www.duelingarea.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Fantasy World Toys Al Rai",
+   "group": "unknown",
+   "region": "Al Asimah Governate",
+   "address": "Ghazali St",
+   "phone": "1800 177",
+   "website": "https://fantasyworldtoys.com/",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Good Game",
+   "group": "unknown",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "Sanabil tower mezzanine 2 store 51, Sharq, Kuwait City, 20002, Kuwait",
+   "phone": "00965-22397548 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "IBAZAR WHOLESALE ACCESSORIES",
+   "group": "unknown",
+   "city": "Kuwait،",
+   "region": "Al Ahmadi Governorate",
+   "address": "Al Fahaheel, Yaal Mall & Tower, Al Dabous Street, Kuwait،",
+   "phone": "6962 0270",
+   "website": "https://nadeerabdulgafoor2.wixsite.com/website",
+   "checked_at": "2026-10-18T21:58:05Z"
+  },
+  {
+   "name": "Last Piece Games & Toys",
+   "group": "unknown",
+   "region": "Al Ahmadi Governorate",
+   "address": "Shop 07, Mezzanine, Suliman Complex Beirut St, , Hawally, Hawalli Governorate, 30009, Kuwait",
+   "phone": "+96541119963",
+   "website": "https://lastpiecekw.com/about",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "LIMITLESS",
+   "group": "unknown",
+   "city": "Salmiya",
+   "region": "Hawalli Governorate",
+   "address": "Al dimna 7th, Salmiya, Hawali, 20006, Kuwait",
+   "phone": "+96598796224",
+   "website": "https://kwt-limitless.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "MANGO HYPER - GIFT AND NOVELTIES",
+   "group": "unknown",
+   "city": "مدينة الكويت",
+   "region": "Al Farwaniyah Governorate",
+   "address": "Ali Fahad Al Dewailah St, مدينة الكويت",
+   "phone": "2474 2811",
+   "website": "https://mangohyper.com/",
+   "checked_at": "2026-10-18T21:58:04Z"
+  },
+  {
+   "name": "MultiCon",
+   "group": "unknown",
+   "city": "Al Kuwayt",
+   "region": "Hawalli Governorate",
+   "address": "Al-Rehab Complex, Tunisia St, Al Kuwayt",
+   "phone": "9967 3834",
+   "website": "http://www.multiconkw.com/",
+   "checked_at": "2026-10-18T21:58:01Z"
+  },
+  {
+   "name": "Octopus Gaming Store",
+   "group": "unknown",
+   "city": "Hawally",
+   "region": "Al Asimah Governate",
+   "address": "Plaza Complex 1st Floor, Al Mutasim St, Hawally",
+   "website": "https://www.octopus-gaming.com/",
+   "buylist_url": "https://www.octopus-gaming.com/buylist/",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Retro Games",
+   "group": "unknown",
+   "city": "السالمية",
+   "address": "Shop Number 17 The Walk Mall Complex Salmiya, السالمية 44985",
+   "phone": "510 55385",
+   "website": "https://retrogameskw.com/",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "Sellektes",
+   "group": "unknown",
+   "city": "Salmiya",
+   "region": "Hawalli Governorate",
+   "address": "Al Fanar Complex, Salem Al Mubarak St, Salmiya",
+   "phone": "6666 8722",
+   "website": "https://sellektes.com/en-KW",
+   "buylist_url": "https://sellektes.com/en-KW/retailer/buylist",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "Sharingan Store",
+   "group": "unknown",
+   "city": "Al Kuwayt",
+   "region": "Hawalli Governorate",
+   "address": "Al-Rehab Complex, Tunisia St, Al Kuwayt",
+   "phone": "9008 6142",
+   "website": "https://www.sharingan.store/",
+   "checked_at": "2026-10-18T21:57:52Z"
+  },
+  {
+   "name": "Tams Hobbies",
+   "group": "unknown",
+   "city": "مدينة الكويت",
+   "region": "العاصمة",
+   "address": "Sharq block 2 street 112 sami, tower floor s1, مدينة الكويت",
+   "phone": "9915 9777",
+   "website": "https://tamshobbies.zobaze.shop/",
+   "checked_at": "2026-10-18T21:57:58Z"
+  },
+  {
+   "name": "WIBI - (Want IT. Buy IT.)",
+   "group": "unknown",
+   "city": "حولي",
+   "region": "حولي",
+   "address": "Ground Floor, شارع ابن خلدون، حولي 30000",
+   "phone": "1800 053",
+   "website": "https://wibi.com.kw/",
+   "checked_at": "2026-10-18T21:58:03Z"
+  },
+  {
+   "name": "توي لاند - Toy Land",
+   "group": "unknown",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "خالد بن الوليد, Al Kuwayt",
+   "phone": "9915 2617",
+   "website": "https://toylandkw.com/ar",
+   "checked_at": "2026-10-18T21:58:09Z"
+  },
+  {
+   "name": "مركز الشناكل لألعاب الأطفال",
+   "group": "unknown",
+   "city": "Al Kuwayt",
+   "region": "Al Asimah Governate",
+   "address": "Khalid Bin Al-Waleed Street، Al Kuwayt 44000",
+   "phone": "2240 9139",
+   "website": "https://www.shanakel.com/home",
+   "checked_at": "2026-10-18T21:58:07Z"
+  }
+ ]
+}

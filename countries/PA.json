@@ -1,0 +1,441 @@
+{
+ "country": "PA",
+ "currency": "USD",
+ "updated": "2026-10-18",
+ "store_count": 43,
+ "stores": [
+  {
+   "name": "Collectors Club TCG",
+   "group": "quote_only",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "local 11A, C. 63 Oeste, Panamá, Provincia de Panamá",
+   "phone": "6890-8472",
+   "website": "https://collectorsclubpa.com/",
+   "buylist_url": "https://collectorsclubpa.com/",
+   "mail_in": false,
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "El Mundo de Eli",
+   "group": "blocked",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "calle C 64 oeste, Panamá, Provincia de Panamá",
+   "phone": "6391-1319",
+   "website": "https://www.mundoeli.com/",
+   "checked_at": "2026-10-18T21:46:41Z"
+  },
+  {
+   "name": "Plisplis",
+   "group": "blocked",
+   "city": "Floor",
+   "region": "Provincia de Panamá",
+   "address": "Andrés Bello Street, El Cangrejo Urabá, Building, Ground, Floor, Provincia de Panamá",
+   "phone": "264-3370",
+   "website": "https://www.plisplis.com/",
+   "checked_at": "2026-10-18T21:46:31Z"
+  },
+  {
+   "name": "Retrogamerlab",
+   "group": "blocked",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Xfp9+8M Edificio fina, C. Enrique Geenizier, Panamá, Provincia de Panamá",
+   "phone": "6464-2180",
+   "website": "https://gamerlab.kyte.site/",
+   "checked_at": "2026-10-18T21:46:43Z"
+  },
+  {
+   "name": "Almacen Comics Chanis",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Frente al Rey de Chanis, Panama City, Plaza Agora, Panamá, Provincia de Panamá",
+   "phone": "393-3788",
+   "checked_at": "2026-10-18T21:46:37Z"
+  },
+  {
+   "name": "Anime World | Albrook Mall",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "XCFX+C3M, Panama City, Panamá Province",
+   "phone": "6288-3835",
+   "checked_at": "2026-10-18T21:46:46Z"
+  },
+  {
+   "name": "Cyberfrog Hobbies Store",
+   "group": "in_store",
+   "city": "Chitre",
+   "region": "Herrera Province",
+   "address": "Chitre, Panama, Chitre, Herrera Province",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "DoubleC PTY",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Local #12, Plaza Albrook View, Panamá, Provincia de Panamá",
+   "phone": "6410-6977",
+   "checked_at": "2026-10-18T21:46:29Z"
+  },
+  {
+   "name": "Game Stage Panamá",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "Vía España, Metro Hub Cowork, Jardines del Hotel El Panamá, Panama City, Panamá Province",
+   "phone": "6312-0567",
+   "website": "https://www.instagram.com/gamestagepa/",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "GameTech Panamá",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Piso 3, oficina, RALI Business Center, Av. Vasco Nuñez de Balboa 309, Panamá, Provincia de Panamá",
+   "phone": "6883-6025",
+   "checked_at": "2026-10-18T21:46:43Z"
+  },
+  {
+   "name": "Geekcoll | Coleccionistas Panama",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "C. Eusebio A. Morales, Panamá, Provincia de Panamá",
+   "phone": "6511-1202",
+   "checked_at": "2026-10-18T21:46:37Z"
+  },
+  {
+   "name": "Good Day",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "Panama City, Panamá Province",
+   "phone": "6159-9978",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "La tienda de Greg",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "507, Panamá, Provincia de Panamá",
+   "phone": "6911-6463",
+   "checked_at": "2026-10-18T21:46:43Z"
+  },
+  {
+   "name": "Pop",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "Century Tower Mezzanine Local 73, Vía Ricardo J. Alfaro, Panama City, Panamá Province",
+   "phone": "6255-7158",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "Pro Player Card Panamá",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "C. 79 Oeste, Panamá, Provincia de Panamá",
+   "phone": "6839-4213",
+   "checked_at": "2026-10-18T21:46:37Z"
+  },
+  {
+   "name": "PULLSPTY TRADING",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "Panama City, Panamá Province",
+   "phone": "6526-0572",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Quest Hobby Store",
+   "group": "in_store",
+   "city": "David",
+   "region": "Chiriquí Province",
+   "address": "David, Panama, David, Chiriquí Province",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "TCG Addict Gradings",
+   "group": "in_store",
+   "city": "Panama",
+   "region": "Provincia de Panamá",
+   "address": "07141, Panama, Provincia de Panamá",
+   "phone": "6316-9785",
+   "checked_at": "2026-10-18T21:46:34Z"
+  },
+  {
+   "name": "TCG Panama",
+   "group": "in_store",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+507 283 9815",
+   "website": "https://www.facebook.com/panamatcg/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "The Collector 507",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Centro comercial Los Pueblos Plaza Tech Market, Panamá, Provincia de Panamá",
+   "phone": "6169-9842",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "The Collector 507 - Albrook Mall",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Albrook Mall Pasillo del Delfin, plata baja local J15, Panama City, Panamá Province, 00000, Panama",
+   "phone": "50766752484",
+   "website": "https://www.instagram.com/thecollector.507/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Tiempo Pixel Shop",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "507, Panamá, Provincia de Panamá",
+   "checked_at": "2026-10-18T21:46:46Z"
+  },
+  {
+   "name": "8bitto",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "C. 64 Oeste, Panamá, Provincia de Panamá",
+   "phone": "6709-3491",
+   "website": "https://8bitto.com/",
+   "checked_at": "2026-10-18T21:46:34Z"
+  },
+  {
+   "name": "ArticoliPTY",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "san francisco calle Calle 4c sur Al lado de ferretería Martín, casa blanca verjas turquesa, Panamá, Provincia de Panamá",
+   "phone": "6157-7711",
+   "website": "https://articolipty.com/",
+   "checked_at": "2026-10-18T21:46:40Z"
+  },
+  {
+   "name": "ARVIGAME",
+   "group": "unknown",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "Panama City, Panamá Province",
+   "phone": "6122-3297",
+   "website": "http://www.arvigame.com/",
+   "checked_at": "2026-10-18T21:46:44Z"
+  },
+  {
+   "name": "Creative Solutions Panamá",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Principal de vía argentina, ph75, planta baja, Local #2, entrando por la estación de servicio Puma, los primeros locales a mano derecha, Panamá, Provincia de Panamá",
+   "phone": "209-8626",
+   "website": "https://panageek.com/",
+   "checked_at": "2026-10-18T21:46:42Z"
+  },
+  {
+   "name": "Geek Nation | Centennial",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Edif. Decolumen, Planta Alta, PH Setton Place 32, C. Alberto Navarro 32, Panamá, Provincia de Panamá",
+   "phone": "6752-1219",
+   "website": "https://nacion-geek.interfuerza.shop/url/shop",
+   "buylist_url": "https://nacion-geek.interfuerza.shop/retailer/buylist",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Gunpla Panamá",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Plaza Psari, Panamá, Provincia de Panamá",
+   "phone": "6818-3415",
+   "website": "https://gunplapanama.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Istmo Games",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Calle 68 Este esquina con Calle Matilde de Obarrio de Malex, Panama City, 8, 0809, Panamá",
+   "phone": "1+507 388-5944",
+   "website": "https://www.istmogames.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "JOC Cards",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "PH Plaza Real, Av Marina del Nte 402, Panamá, Provincia de Panamá",
+   "phone": "306-2288",
+   "website": "https://instagames.pa/",
+   "checked_at": "2026-10-18T21:46:37Z"
+  },
+  {
+   "name": "Kinggdom",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "PH CENTURY PLAZA, Vía Porras, Panamá, Provincia de Panamá",
+   "phone": "6753-2925",
+   "website": "https://www.kinggdompanama.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Korasama",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Local M4, Edificio Orion, Vía España, Panamá, Provincia de Panamá",
+   "phone": "399-1485",
+   "website": "https://www.korasama.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Monsters Showroom",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "C. 4a Oeste, Panamá, Provincia de Panamá",
+   "phone": "6519-3304",
+   "website": "https://monsterspty.com/",
+   "checked_at": "2026-10-18T21:46:31Z"
+  },
+  {
+   "name": "Play N Trade",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Multiplaza Pacifica Mall, Panamá, Provincia de Panamá",
+   "phone": "6699-0367",
+   "website": "https://pntpanama.com/",
+   "checked_at": "2026-10-18T21:46:29Z"
+  },
+  {
+   "name": "PLAY N TRADE TOWN CENTER",
+   "group": "unknown",
+   "city": "Panama City",
+   "region": "Panamá Province",
+   "address": "2G7P+84F, Panama City, Panamá Province",
+   "phone": "200-9299",
+   "website": "https://pntpanama.com/",
+   "checked_at": "2026-10-18T21:46:37Z"
+  },
+  {
+   "name": "Poke BH Games",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "PB Local D1, Oceania Business Plaza, Panamá, Provincia de Panamá",
+   "phone": "6885-4944",
+   "website": "https://pokebhshop.com/",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "Prixe Games",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "ph colores de, Panamá, Provincia de Panamá",
+   "phone": "6220-2729",
+   "website": "https://prixegames.com/",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "Repetto Colecciones",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Calle George Westerman y Vía España, Plaza 2 mundos, Panamá, Provincia de Panamá",
+   "phone": "6769-7725",
+   "website": "https://www.repetto-colecciones.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11910032033194252937",
+   "checked_at": "2026-10-18T21:46:31Z"
+  },
+  {
+   "name": "Tap & Go",
+   "group": "unknown",
+   "address": "Condado del Rey, Plaza mi Condado Local 13, Panama, Panama, 507, Panama",
+   "phone": "50762279094",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "TCG Kings",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Edificio TCG, C. 58 Oeste, Panamá, Provincia de Panamá",
+   "phone": "6250-8188",
+   "website": "https://tcg-kings.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "UV STORE",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Atrio mall, Panamá, Provincia de Panamá",
+   "phone": "6619-1227",
+   "website": "https://uvstore-pa.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "Videojuegos Panamá #1",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Metroplaza, Panamá, Provincia de Panamá",
+   "phone": "6662-3300",
+   "website": "https://videojuegospanama1.com/",
+   "checked_at": "2026-10-18T21:46:43Z"
+  },
+  {
+   "name": "𝗕𝗶𝗿𝗿𝗶𝗮𝗚𝗮𝗺𝗲𝗿𝘀",
+   "group": "unknown",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Vía Ricardo J. Alfaro, Panamá, Provincia de Panamá",
+   "phone": "6299-7465",
+   "website": "https://birriagamers.com/",
+   "checked_at": "2026-10-18T21:46:36Z"
+  }
+ ]
+}

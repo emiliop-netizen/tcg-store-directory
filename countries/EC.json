@@ -1,0 +1,1176 @@
+{
+ "country": "EC",
+ "currency": "USD",
+ "updated": "2026-10-18",
+ "store_count": 122,
+ "stores": [
+  {
+   "name": "Boy Games Store",
+   "group": "blocked",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial Caracol - Local 84 Av. Amazonas, y y Av. Naciones Unidas, 170507 Quito",
+   "phone": "098 336 7283",
+   "website": "https://boygamestore.com/",
+   "checked_at": "2026-10-18T21:49:39Z"
+  },
+  {
+   "name": "Etsu Store",
+   "group": "blocked",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Gil Navarrete, OE 5 y Serapio Japerabi 72 y, 170601 Quito",
+   "phone": "099 518 6979",
+   "website": "http://etsustore.com/",
+   "checked_at": "2026-10-18T21:50:00Z"
+  },
+  {
+   "name": "Libri Mundi",
+   "group": "blocked",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "CC Quicentro, Planta baja, Av. Naciones Unidas &, Av. de los Shyris 170102, 170135 Quito",
+   "phone": "098 931 7815",
+   "website": "https://www.librimundi.com/",
+   "checked_at": "2026-10-18T21:50:07Z"
+  },
+  {
+   "name": "Peiperscrap",
+   "group": "blocked",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Norte de Quito, Marcelina Nolivos Oe1-118 y, 170120 Quito",
+   "phone": "099 807 3661",
+   "website": "https://beacons.ai/peiperscrap",
+   "checked_at": "2026-10-18T21:50:18Z"
+  },
+  {
+   "name": "@MangaEcuador",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial River Mall, Local 8, Planta Baja, 171103 Quito",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "AIKA store",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "123455 Guayaquil",
+   "phone": "098 561 7575",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "AllAboutGames",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "EC090150, 090101 Guayaquil",
+   "phone": "098 609 2124",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "ANIME-HELL",
+   "group": "in_store",
+   "city": "Sangolquí",
+   "region": "Pichincha",
+   "address": "Sucre 184, 171103 Sangolquí",
+   "phone": "097 919 3759",
+   "checked_at": "2026-10-18T21:50:01Z"
+  },
+  {
+   "name": "Bala Store TCG Ecuador",
+   "group": "in_store",
+   "city": "Babahoyo",
+   "region": "Los Ríos",
+   "address": "Av. Jorge Villegas 0543, 120101 Babahoyo",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Battle Tower",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "V3Jt+9P3, 090509 Guayaquil",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Bazar y Papeleria The Game",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "C. B y Atahualpa E9-322 y, 170207 Quito",
+   "phone": "098 730 2983",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "CAMELOT Games & Food by Action Planet",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Ciudadela Miraflores Av Principal y Carlos Julio Arosemena Edificio Miraflores Planta Baja Edificio Miraflores , Guayaquil, Guayas, 090613, Ecuador",
+   "phone": "593959976918",
+   "website": "https://www.facebook.com/camelotgamesandcoffee/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Collectors planet",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "170303 y Mariano Pozo, 170303 Quito",
+   "phone": "099 862 6315",
+   "checked_at": "2026-10-18T21:49:54Z"
+  },
+  {
+   "name": "Cooprogreso",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Q3PX+W9X, M. Chavez Franco, 090305 Guayaquil",
+   "checked_at": "2026-10-18T21:50:30Z"
+  },
+  {
+   "name": "Critical Hit",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "12do Pasaje 20A NE, 090508 Guayaquil",
+   "checked_at": "2026-10-18T21:50:22Z"
+  },
+  {
+   "name": "CYBER GAMES",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Francisco Segura 22 Y, 090408 Guayaquil",
+   "phone": "097 864 1658",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "CYBER4",
+   "group": "in_store",
+   "city": "Machachi",
+   "region": "Pichincha",
+   "address": "171110, Nueva España S3-140, 171110 Machachi",
+   "phone": "098 404 0893",
+   "website": "https://www.facebook.com/cyber4ec/",
+   "checked_at": "2026-10-18T21:49:39Z"
+  },
+  {
+   "name": "De Colección",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Av. 9 S-E - Chile y José Vélez Villamar 122 y, 090313 Guayaquil",
+   "phone": "099 486 3079",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "Dimensión X",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Miguel Oviedo, Ibarra, Imbabura, 100105, Ecuador",
+   "phone": "5930994548117",
+   "website": "https://www.instagram.com/dimensionxecu",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "DRG Coleccionables",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090504, Guayaquil",
+   "phone": "099 295 2296",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "Duelist Kingdom",
+   "group": "in_store",
+   "city": "Cuenca",
+   "region": "Azuay",
+   "address": "Jaime Roldos y Av. Huayna Cápac, 010106 Cuenca",
+   "phone": "098 717 6758",
+   "website": "https://es-la.facebook.com/EC-Duelist-Kingdom-de-Cuenca-382347275542730/",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "El Calabozo del Coleccionista",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Ignacio Asín, y y Vicente Heredia, 170528 Quito",
+   "phone": "099 276 8480",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "Emporio Cell Ec",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Centro de Guayaquil visítanos en: *** Manabí entre Chimborazo y Coronel, En el, 090150 Guayaquil",
+   "phone": "098 784 8904",
+   "checked_at": "2026-10-18T21:50:30Z"
+  },
+  {
+   "name": "Epic Battle Store",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Edificio Euro, Av. Guillermo Pareja Rolando y V. 3 Mz. 1, Local 1, 090513 Guayaquil",
+   "phone": "098 070 2816",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Express play",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Cedros 432y, 090511 Guayaquil",
+   "checked_at": "2026-10-18T21:50:20Z"
+  },
+  {
+   "name": "Final Turn",
+   "group": "in_store",
+   "city": "Durán",
+   "region": "Guayas",
+   "address": "Duran Combatientes del 41 mz3, 092401 Durán",
+   "checked_at": "2026-10-18T21:50:23Z"
+  },
+  {
+   "name": "FUN HOUSE TCG",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Pedro Vicente Maldonado Sería Av Maldonado Centro Comercial El Recreo, Frente al kfc, Acceso 5 pasillo y H, 170111 Quito",
+   "phone": "098 480 7226",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Game Over",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "170301 Quito",
+   "phone": "099 218 9951",
+   "checked_at": "2026-10-18T21:49:44Z"
+  },
+  {
+   "name": "Gamerteka Gaming Center",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Jerónimo Carrión y Juan León Mera, 170801 Quito",
+   "phone": "099 999 9999",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Games and Games",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial El Condado, Piso: 2, Isla: 21, Av. de la Prensa s/n, 170301 Quito",
+   "phone": "098 351 8763",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "GJE Comics Store",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Pasaje 2 y, Av. Moran Valverde, 170702 Quito",
+   "phone": "099 571 3217",
+   "checked_at": "2026-10-18T21:50:01Z"
+  },
+  {
+   "name": "GM7 Colecciones",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Jose de Soto, y y Av. de la Prensa, 170301 Quito",
+   "phone": "099 987 1929",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "Hand Bags Bylisa",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Samanes 6 Mz 985, 090112 Guayaquil",
+   "phone": "098 166 9849",
+   "checked_at": "2026-10-18T21:50:28Z"
+  },
+  {
+   "name": "HERO TOY SHOP",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Inglaterra 1278, 170515 Quito",
+   "phone": "099 755 4607",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "Hobby Store",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "La Garzota, Mz. 32, Solar 31, 090513 Guayaquil",
+   "phone": "096 739 1111",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "Hot Collect",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "CC Caracol, LC 70, Av. Río Amazonas N36-227, 170104 Quito",
+   "phone": "(02) 243-0202",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Illine Prodart - Tienda de Regalos",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "CC y Francisco de Orellana Local 5, 090607 Guayaquil",
+   "phone": "098 668 4070",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "Joystick Ecuador (TCG Store)",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Babahoyo y Capitan Najera, 090302 Guayaquil",
+   "phone": "098 070 2816",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Ken's Club",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "arriba de Tia Go, tocando el timbre derecho color negro y a 1 cuadra de la cancha municipal, Cld. Simón Bolivar Mz. 21 Sl. 15, piso 1, oficina 4, 090513 Guayaquil",
+   "phone": "098 533 6425",
+   "website": "https://www.facebook.com/Kensclub.ec",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Kuwabara Store",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090902 Guayaquil",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "La Guarida",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090507 Av. Benjamín Carrión Mora 13, Guayaquil 090501, 090507 Guayaquil",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "La hueca de los Cromos Oficial. Un lugar para sonreír soñar y jugar",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av.10 de Agosto S/N y José Riofrío esq. Sector Santa Prisca Junto al edificio Benalcazar, Mil locales 1_14_15, 170402 Quito",
+   "phone": "099 997 1739",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "LULUMISHOP",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "La Joya, C y C.PLAZA VIENNA Local 15, 090601 Guayaquil",
+   "phone": "099 739 5018",
+   "checked_at": "2026-10-18T21:50:53Z"
+  },
+  {
+   "name": "Magic land 🥳 🎈 🎉",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "AV San juan de Dios 15 Av, Betania y Av. Gral. Rumiñahui 111, Quito",
+   "phone": "096 900 0739",
+   "checked_at": "2026-10-18T21:50:01Z"
+  },
+  {
+   "name": "Mega Magic Store Ec",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Pedro Carbo 818 Entre 10 de agosto, y y Clemente Ballén, 090313 Guayaquil",
+   "phone": "098 368 2767",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Moviegames",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. de la Prensa 6215, 170103 Quito",
+   "checked_at": "2026-10-18T21:49:59Z"
+  },
+  {
+   "name": "ON TOYS-Old and New TOYS",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "R3HX+3X6, 090512 Guayaquil",
+   "phone": "098 015 5815",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "Panini Ecuador",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Edificio Trade Building, Joaquín José Orrantia González, 090513 Guayaquil",
+   "phone": "098 579 5813",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Presi's Corp",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial Iñaquito-CCI, subsuelo, Local:A-064, frente a Happy Time, Av. Río Amazonas 36-152, 170506 Quito",
+   "phone": "095 876 7827",
+   "website": "https://web.facebook.com/PresisCorp",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "S D Collectors",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Cap. Hugo Reyes 147, 170103 Quito",
+   "phone": "096 372 1166",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "SAGA COLLECTIONS",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Eloy Alfaro, 170516 Quito",
+   "phone": "099 771 3460",
+   "checked_at": "2026-10-18T21:49:44Z"
+  },
+  {
+   "name": "Samurai Store",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090507 Guayaquil",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Sky Kingdom TCG & Coleccionables",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Edmundo Carvajal, 170303 Quito",
+   "phone": "098 799 1415",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Spicy Pollen Games",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090507 Guayaquil",
+   "phone": "099 922 0844",
+   "checked_at": "2026-10-18T21:50:53Z"
+  },
+  {
+   "name": "SSJ FIGURAS DE COLECCION",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "PFGC+V24, Enrique Garcés, 170148 Quito",
+   "phone": "096 777 0513",
+   "checked_at": "2026-10-18T21:49:55Z"
+  },
+  {
+   "name": "Star Box",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Plaza Alegría, Av. de la Prensa N62, 170301 Quito",
+   "phone": "099 568 2209",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Star Land Games",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Jorge Washington y Av. Río Amazonas n20-80 y, 170143 Quito",
+   "phone": "096 396 3116",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "TAMA Shop",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "San Bartolo, Calle Palenque, entre Catarama, del Conjunto Villa Real. Sur de Quito, y y Tocachi Local #13, 170605 Quito",
+   "phone": "098 333 3078",
+   "checked_at": "2026-10-18T21:50:01Z"
+  },
+  {
+   "name": "Tanuki Shop",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Pedro Freile, 170301 Quito",
+   "phone": "096 905 8975",
+   "checked_at": "2026-10-18T21:49:54Z"
+  },
+  {
+   "name": "TCG Center",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Guayaquil",
+   "phone": "099 152 4839",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "TCG Express",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. de la Prensa 58-305 Y, 170104 Quito",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "THE FAMILY STORE GAMES",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial Caracol, Local PC18, Av. Río Amazonas N36-227, 170507 Quito",
+   "phone": "098 483 4698",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "The Game Cards & Toys",
+   "group": "in_store",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "090509 Guayaquil",
+   "phone": "096 770 0364",
+   "website": "https://www.instagram.com/thegamecardsandtoys/",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Tienda Games and Geeks",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "6 de diciembre y louvre Esquina, mutifamiliares el batan bloque 1 dept 101i, 170051 Quito",
+   "phone": "098 400 6860",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Toku Imagi",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Universitaria, 170184 Quito",
+   "phone": "098 321 4044",
+   "checked_at": "2026-10-18T21:49:46Z"
+  },
+  {
+   "name": "Video-Juego \"KNGURO\"",
+   "group": "in_store",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Carlos Freile y Manuel Cherrez S30-130 y, 170708 Quito",
+   "phone": "096 969 5087",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Librería Mr.Books (Mall del Sol)",
+   "group": "not_buying_singles",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "4º Pasaje 1 NE, Guayaquil 090513, Centro Comercial Mall Del Sol. Planta alta. Zona 2 Sukasa, 090202 Guayaquil",
+   "phone": "(04) 208-2578",
+   "website": "https://www.mrbooks.com/",
+   "buylist_url": "https://www.mrbooks.com/retailer/buylist",
+   "checked_at": "2026-10-18T21:50:51Z"
+  },
+  {
+   "name": "Librería Mr.Books Mall El Jardín",
+   "group": "not_buying_singles",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av.Amazonas y Av. República Centro comercial Mall El Jardin. Piso 3. Local 321, 170135 Quito",
+   "phone": "(02) 298-0281",
+   "website": "https://www.mrbooks.com/",
+   "buylist_url": "https://www.mrbooks.com/retailer/buylist",
+   "checked_at": "2026-10-18T21:50:10Z"
+  },
+  {
+   "name": "Numismática y Filatelia, Librería Nacional",
+   "group": "not_buying_singles",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "García Moreno N6-84 y Olmedo, 170401 Quito",
+   "phone": "099 994 6469",
+   "website": "https://librerianacionalnumismatica.com/",
+   "checked_at": "2026-10-18T21:50:11Z"
+  },
+  {
+   "name": "Real wheels Coleccionables",
+   "group": "not_buying_singles",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Apuela s415, 170131 Quito",
+   "phone": "099 108 6826",
+   "website": "https://linktr.ee/realwheelsEC",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "SmartBuy CityMall - Guayaquil",
+   "group": "not_buying_singles",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Av. Benjamín Carrión Mora, 090501 Guayaquil",
+   "phone": "096 302 8019",
+   "website": "https://smartbuyecuador.com/tiendas/guayaquil/citymall",
+   "buylist_url": "https://smartbuyecuador.com/trade-in",
+   "checked_at": "2026-10-18T21:50:22Z"
+  },
+  {
+   "name": "Acrilmax Insumos Publicitarios",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Rumichaca 307 y, 090306 Guayaquil",
+   "phone": "098 788 1058",
+   "website": "https://acrilmaxec.com/",
+   "checked_at": "2026-10-18T21:50:28Z"
+  },
+  {
+   "name": "AD Importaciones",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "El Comercio y Av. de los Shyris 546, 170505 Quito",
+   "phone": "098 615 8763",
+   "website": "https://www.adimportaciones.com/",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Albán Borja Mall",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Librería Studium, Av. Pdte. Carlos Julio Arosemena Tola, 090615 Guayaquil",
+   "phone": "(04) 220-4418",
+   "website": "http://www.ccalbanborja.com/",
+   "checked_at": "2026-10-18T21:50:35Z"
+  },
+  {
+   "name": "ALLSTOCK - MALL DEL RÍO",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Mall del río, Av. Francisco de Orellana local 201, 090502 Guayaquil",
+   "phone": "099 676 1313",
+   "website": "https://allstock.ec/",
+   "checked_at": "2026-10-18T21:50:20Z"
+  },
+  {
+   "name": "Alta Gama Store",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. De los Shyris y Av Portugal, Edificio Cosmopolitan Parc Oficina 306 Entrada por la calle, Luxemburgo, 170505 Quito",
+   "phone": "099 943 8132",
+   "website": "https://altagamastore.ec/",
+   "checked_at": "2026-10-18T21:49:42Z"
+  },
+  {
+   "name": "Analoga games",
+   "group": "unknown",
+   "city": "Samborondón",
+   "region": "Guayas",
+   "address": "Av. Samborondon, CC Rio Plaza, y y Río Tintos, 092301 Samborondón",
+   "website": "https://www.analogagames.com/",
+   "checked_at": "2026-10-18T21:50:46Z"
+  },
+  {
+   "name": "Books and Bits",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Av Francisco Orellana y Justino Cornejo Edificio World Trade Center Millennium Gallery, Local 11, 090615 Guayaquil",
+   "website": "https://booksandbits.ec/",
+   "checked_at": "2026-10-18T21:50:25Z"
+  },
+  {
+   "name": "Cabri's Corner",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "E1-136 Av. Atahualpa, Quito, Pichincha, 170135, Ecuador",
+   "phone": "59397 902 1804",
+   "website": "https://cabriscorner.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Collection Market",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Mall del río, Av. Francisco de Orellana, local 15, 090502 Guayaquil",
+   "phone": "096 331 0254",
+   "website": "https://www.yugioh-market.com/",
+   "checked_at": "2026-10-18T21:49:44Z"
+  },
+  {
+   "name": "Condado Shopping",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Mariscal Sucre y Av. John F. Kennedy, Quito",
+   "phone": "(02) 380-2400",
+   "website": "https://www.condadoshopping.com/",
+   "checked_at": "2026-10-18T21:49:44Z"
+  },
+  {
+   "name": "Dan's Collector Store",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial, El Bosque, 170404 Quito",
+   "website": "http://www.danscollector.com/",
+   "checked_at": "2026-10-18T21:49:46Z"
+  },
+  {
+   "name": "Dia-D Juegos",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Athelier Local 6, Av. 6 de Diciembre 34, 154 Edificio, 170504 Quito",
+   "phone": "099 453 2308",
+   "website": "https://diadejuegos.ec/",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Dungeons and Toys",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Avenida Guano, segunda y peatonal, 090606 Guayaquil",
+   "phone": "096 337 2412",
+   "website": "https://dungeonsandtoys.com/",
+   "checked_at": "2026-10-18T21:50:41Z"
+  },
+  {
+   "name": "ECUACOLLECTIONS",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Av. Fco. de Orellana, y y Av. Rodolfo Baquerizo Nazur, 090605 Guayaquil",
+   "phone": "099 727 6205",
+   "website": "https://ecuacollections.com/",
+   "checked_at": "2026-10-18T21:50:30Z"
+  },
+  {
+   "name": "El Baul del Enano",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Isla Pinzon N 43-31 y Tomas de Berlanga, Quito, P, EC170501, Ecuador",
+   "phone": "+593 224 38 239",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "EL Recreo",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Pedro Vicente Maldonado S11-122, 170111 Quito",
+   "phone": "(02) 266-6500",
+   "website": "https://ccelrecreo.com/",
+   "checked_at": "2026-10-18T21:49:38Z"
+  },
+  {
+   "name": "Electronic Games",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial Plaza Doral, Av. General Enriquez, Loc 141, 170503 Quito",
+   "phone": "096 967 8365",
+   "website": "https://www.electronicgames.store/",
+   "checked_at": "2026-10-18T21:49:56Z"
+  },
+  {
+   "name": "FIGURASDECOLECCION.COM",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Isaac Albeniz e1-129 y beethoven. TORRE LIBERADORES CODIGO POSTAL, El Labrador, N74A, 170502 Quito",
+   "phone": "099 274 0930",
+   "website": "http://www.figurasdecoleccion.com/",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "Futbol Cards",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Blue Towers, Av. Francisco de Orellana 234, 090512 Guayaquil",
+   "phone": "098 761 3769",
+   "website": "https://futbol-card.com/",
+   "checked_at": "2026-10-18T21:50:19Z"
+  },
+  {
+   "name": "Game In Pack",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Eustorgio Salgado y Santa Rosa N19-356 y, 170526 Quito",
+   "phone": "099 605 3163",
+   "website": "http://game-in-pack.negocio.site/",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "GG Toys Ecuador",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Local esquinero #77 por el patio de comidas, Av. Carlos Luis Plaza Dañin 300, 090512 Guayaquil",
+   "phone": "099 104 9039",
+   "website": "https://ggtoysec.com/",
+   "checked_at": "2026-10-18T21:50:39Z"
+  },
+  {
+   "name": "Guayaquil Land Terminal",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Calle 15E NE, 090513 Guayaquil",
+   "phone": "(04) 213-0166",
+   "website": "http://ttg.ec/",
+   "checked_at": "2026-10-18T21:50:22Z"
+  },
+  {
+   "name": "Habemus Juegos",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Checoslovaquia 609, 170135 Quito",
+   "phone": "097 950 3050",
+   "website": "https://www.habemusjuegos.com/",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Importadora Tecnotrade",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Matríz Urdesa Dirección:, Victor Emilio Estrada y Av. Pdte. Juan de Dios Martínez Mera 610 y, 090511 Guayaquil",
+   "phone": "095 885 9069",
+   "website": "https://www.tecnotrade.com.ec/",
+   "checked_at": "2026-10-18T21:50:22Z"
+  },
+  {
+   "name": "Juan Marcet • CCI",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "C. C. Iñaquito, Amazonas y Naciones Unidas, planta alta local #72, 170135 Quito",
+   "phone": "(02) 401-6171",
+   "website": "http://juanmarcet.com/",
+   "checked_at": "2026-10-18T21:49:40Z"
+  },
+  {
+   "name": "Juegos Ecuador",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Mariana de Jesús 4-41 e, Italia Esquina, 170515 Quito",
+   "phone": "097 929 6908",
+   "website": "https://api.whatsapp.com/send/?phone=593979296908&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-18T21:49:49Z"
+  },
+  {
+   "name": "Juguetería Cajas y Regalos",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Quisquis y Av. del Ejército 1017 y, 090514 Guayaquil",
+   "phone": "098 197 4411",
+   "website": "https://www.cajasyregalosec.com/",
+   "checked_at": "2026-10-18T21:50:45Z"
+  },
+  {
+   "name": "Jugueton Mall del Sol",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "2°09'19. 79°53'37., Isidro Ayora Cueva 5\"S, 090513 Guayaquil",
+   "phone": "(04) 208-2389",
+   "website": "http://www.jugueton.com.ec/",
+   "checked_at": "2026-10-18T21:50:45Z"
+  },
+  {
+   "name": "Kādo Gallery",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Abdon Calderon y, Ponce y Av. Camilo Ponce Enríquez Lote 31, 170801 Quito",
+   "phone": "098 297 6973",
+   "website": "https://www.kado-gallery.com/coming-soon",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "La Madriguera",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Av. Dr. Jorge Perez Concha 632 y, 090605 Guayaquil",
+   "phone": "096 018 6336",
+   "website": "http://www.lamadrigueraec.com/",
+   "checked_at": "2026-10-18T21:50:49Z"
+  },
+  {
+   "name": "La Naranja Store",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Gonzalo Baca, y y Av. de los Granados, 170124 Quito",
+   "phone": "098 381 4414",
+   "website": "https://juegosdemesaecu.com/",
+   "checked_at": "2026-10-18T21:49:57Z"
+  },
+  {
+   "name": "Le Chevalier Obscur",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Andres de Artieda, 170129 Quito",
+   "website": "https://lechevalierobscur.wixsite.com/lechevalierobscur",
+   "checked_at": "2026-10-18T21:50:12Z"
+  },
+  {
+   "name": "Liralcás",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. 6 de diciembre y Pasaje el Jardín esq Frente al Megamaxi, junto al, Supercines, 170505 Quito",
+   "phone": "099 552 6941",
+   "website": "https://liralcas.com/",
+   "checked_at": "2026-10-18T21:49:59Z"
+  },
+  {
+   "name": "Lobolunar",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro comercial el bosque Av del parque Centro Comercial El Bosque Planta Baja L55 Ingresa por Puerta 8, 170528 Quito",
+   "phone": "097 906 7690",
+   "website": "https://www.lobolunar.com/",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Magic Gift Ecuador",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. 6 de Diciembre &, 170138 Quito",
+   "phone": "098 468 3119",
+   "website": "https://www.regalomagico.ec/",
+   "checked_at": "2026-10-18T21:49:50Z"
+  },
+  {
+   "name": "Mall Riocentro Los Ceibos",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "R3F4+JHG, Av. del Bombero, 090904 Guayaquil",
+   "phone": "(04) 235-9703",
+   "website": "https://www.riocentroshopping.com/",
+   "checked_at": "2026-10-18T21:50:25Z"
+  },
+  {
+   "name": "Meraki Gameshop",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Río Amazonas, 170101 Quito",
+   "phone": "099 578 2147",
+   "website": "https://merakigameshop.wordpress.com/",
+   "checked_at": "2026-10-18T21:49:55Z"
+  },
+  {
+   "name": "Metaverse Games",
+   "group": "unknown",
+   "city": "Manta",
+   "region": "Manabí",
+   "address": "Calle 12, 130213 Manta",
+   "phone": "096 748 6679",
+   "website": "https://metaversegamestcg.com/",
+   "checked_at": "2026-10-18T21:50:40Z"
+  },
+  {
+   "name": "MHT Outlet",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Centro Comercial Plaza Cumbayá Av Interoceánica, y y Av. Oswaldo Guayasamín, 170901 Quito",
+   "phone": "099 519 2947",
+   "website": "https://mht-ec.com/tienda/",
+   "checked_at": "2026-10-18T21:49:56Z"
+  },
+  {
+   "name": "Mi Juguetería Kennedy",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "R4R2+HC3, Av. Francisco de Orellana, 090512 Guayaquil",
+   "phone": "268-1573",
+   "website": "http://mijugueteria.com.ec/",
+   "checked_at": "2026-10-18T21:50:38Z"
+  },
+  {
+   "name": "Otaku Place",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "SOLO EN San Carlos, Pedro de Alvarado y Ángel Ludeña esq, 170507 Quito",
+   "phone": "098 767 0949",
+   "website": "https://tiendaotakuplace.com/",
+   "checked_at": "2026-10-18T21:50:01Z"
+  },
+  {
+   "name": "Panda Mangas Ecuador",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. Oswaldo Guayasamín, 170902 Quito",
+   "phone": "099 971 9583",
+   "website": "https://pandamangasecuador.com/",
+   "checked_at": "2026-10-18T21:49:55Z"
+  },
+  {
+   "name": "Poker Store EC",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "De los Anturios y C. E15E lote 118 y, 170514 Quito",
+   "phone": "098 419 3679",
+   "website": "https://www.pokerstore.ec/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4247445814187347324",
+   "checked_at": "2026-10-18T21:49:43Z"
+  },
+  {
+   "name": "Tarjetas Didácticas Quito",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Pedro de Alfaro Oe1-94, 170102 Quito",
+   "phone": "098 783 8529",
+   "website": "https://limpiezaaso.wixsite.com/3333",
+   "checked_at": "2026-10-18T21:49:54Z"
+  },
+  {
+   "name": "TheBigboytoystore",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Av. del parque y alfonso Torres C.C. Comercial, El Bosque Local 1-10, 170206 Quito",
+   "phone": "099 509 6684",
+   "website": "https://thebigboytoystore.com/",
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "Tiempo de Juegos",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "RH27+G5W NIVEL CERO POR PHARMACYS, Pa. San Francisco, 170157 Quito",
+   "phone": "098 890 6459",
+   "website": "http://www.tiempodejuegos.com/",
+   "checked_at": "2026-10-18T21:50:18Z"
+  },
+  {
+   "name": "Tiempo de Juegos",
+   "group": "unknown",
+   "city": "Samborondón",
+   "region": "Guayas",
+   "address": "Centro Comercial Open Plaza, 092301 Samborondón",
+   "phone": "096 285 5828",
+   "website": "http://www.tiempodejuegos.com/",
+   "checked_at": "2026-10-18T21:50:41Z"
+  },
+  {
+   "name": "Tienda de Regalos Cinco-HT",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "Mall del Norte, 090112 Guayaquil",
+   "phone": "099 919 8883",
+   "website": "https://cincoht.com.ec/",
+   "checked_at": "2026-10-18T21:50:38Z"
+  },
+  {
+   "name": "Tienda Friky",
+   "group": "unknown",
+   "city": "Quito",
+   "region": "Pichincha",
+   "address": "Alado del patio de comidas, Versalles &, Loc 223, 170129 Quito",
+   "phone": "099 590 2969",
+   "website": "https://tiendafriki.net/",
+   "checked_at": "2026-10-18T21:50:05Z"
+  },
+  {
+   "name": "Woof Games Arena",
+   "group": "unknown",
+   "address": "Av. Francisco de Orellana Edificio Cofin PB Local 003, Guayaquil, Guayas, 090101, Ecuador",
+   "phone": "593991735951",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:49:31Z"
+  },
+  {
+   "name": "World of Wonders W-O-W International S.A.S.",
+   "group": "unknown",
+   "city": "Guayaquil",
+   "region": "Guayas",
+   "address": "PARQUE EMPRESARIAL COLÓN, EDIFICIO CORPORATIVO 3, PISO 4, 090101 Guayaquil",
+   "phone": "098 768 1212",
+   "website": "https://www.somoswow.international/",
+   "checked_at": "2026-10-18T21:50:23Z"
+  }
+ ]
+}

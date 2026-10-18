@@ -1,0 +1,924 @@
+{
+ "country": "QA",
+ "currency": "QAR",
+ "updated": "2026-10-18",
+ "store_count": 97,
+ "stores": [
+  {
+   "name": "Art of Cardz (AOC)",
+   "group": "quote_only",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "The Gate Mall, 1st Floor, Doha, Doha, 860, Qatar",
+   "phone": "+97439969595",
+   "website": "https://artofcardz.com/",
+   "buylist_url": "https://artofcardz.com/sell-your-cards/",
+   "mail_in": false,
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Court of Cards - The Gate Mall Branch",
+   "group": "blocked",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Maysaloun st, Street 905، الدوحة",
+   "phone": "7039 6127",
+   "website": "https://courtofcards.com/",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Geekay - Doha Festival City",
+   "group": "blocked",
+   "region": "Al Daayen Municipality",
+   "address": "Shop no. GE-260A, Ground Floor",
+   "phone": "5543 8779",
+   "website": "https://www.geekay.com/qatar_en",
+   "checked_at": "2026-10-18T21:56:56Z"
+  },
+  {
+   "name": "Geekay - Landmark Mall",
+   "group": "blocked",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Shop no. S151, Ground Floor, Doha",
+   "phone": "3321 9177",
+   "website": "https://www.geekay.com/",
+   "checked_at": "2026-10-18T21:56:55Z"
+  },
+  {
+   "name": "Geekay - Mall of Qatar",
+   "group": "blocked",
+   "city": "الريان",
+   "region": "بلدية الريان",
+   "address": "Shop No FF-113, 1st Floor, الريان",
+   "phone": "5045 0631",
+   "website": "https://qatar.geekay.com/",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Geekay - Place Vendome Mall",
+   "group": "blocked",
+   "city": "Lusail",
+   "region": "Al Daayen Municipality",
+   "address": "Palace Vendome Mall, Lusail",
+   "phone": "6603 0169",
+   "website": "https://qatar.geekay.com/",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Yallatoys - No.1 Online Toy Store in Qatar",
+   "group": "blocked",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "22744 Conference Centre, Doha",
+   "phone": "4462 2118",
+   "website": "https://www.yallatoys.com/",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "سدرة جاليري للتجارة sidra gallery trading",
+   "group": "blocked",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Doha",
+   "phone": "5171 9494",
+   "website": "http://sidragallery.com/",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "AK AFRIDI TRADING & CONTRACTING WLL",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "DAR UL QUTAB, BUILDING# 25, STREET 960, الدوحة",
+   "phone": "3080 7711",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "AL FARAJ TRADING",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Near Gold Souq, Doha",
+   "phone": "5535 8496",
+   "checked_at": "2026-10-18T21:56:55Z"
+  },
+  {
+   "name": "Al Mukhtar Charcoal",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "5584 0955",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Al Sha Trading",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Al Tabari Street, Doha",
+   "phone": "3119 8117",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "BDESHI TRADING & SERVICES WLL",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Abdullah Bin Jassim St, Doha",
+   "phone": "4498 7318",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Bendis trading",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7GC5+P46, Doha",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "BlinQa Gamig store",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "WB INTERNATIONAL TECHNOLOGIES TRADING. Misr Insurance Building, Office number 2CA , Building 226 , STREET 230 , ZONE 25, Najma Gulf Signal, الدوحة",
+   "phone": "3340 4689",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "BM Trading & Contracting W. L. L",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "6FJP+9FX, Wholesale Market St, Doha",
+   "phone": "4468 8614",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Color Zone Trading",
+   "group": "in_store",
+   "city": "Al Wakrah",
+   "region": "Al Wakra Municipality",
+   "address": "Al Wakrah",
+   "phone": "5079 8798",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "dohanewsolution",
+   "group": "in_store",
+   "city": "الوكرة",
+   "region": "بلدية الوكرة",
+   "address": "720, الوكرة",
+   "phone": "5566 6169",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Global Alco Trading",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "5065 5928",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Global Food Trading Co",
+   "group": "in_store",
+   "city": "Ar Rayyan",
+   "region": "Doha Municipality",
+   "address": "5FQ4+R55, Street 36, Ar Rayyan",
+   "phone": "7061 7209",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Gulf Vision",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Gulkaga trading and service",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Street 911, Doha",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Hayya toys trading",
+   "group": "in_store",
+   "city": "Aziziya",
+   "region": "بلدية الريان",
+   "address": "280, Aziziya",
+   "phone": "3043 3533",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "Hydrovest technology",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7GC5+V55, Salwa Road, Doha",
+   "checked_at": "2026-10-18T21:56:55Z"
+  },
+  {
+   "name": "HyperX Computers WLL - Gaming Shop In Doha Qatar (AL Sadd)",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Royal Plaza Mall، 232 2nd Floor، Doha",
+   "phone": "6611 5529",
+   "checked_at": "2026-10-18T21:57:08Z"
+  },
+  {
+   "name": "JASPER TRADING & CONTRACTING WLL جاسبر ترايدنغ اند كونتراكتنغ",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7GCP+J6C, Al Bara Bin Malik St, Doha",
+   "phone": "7770 5868",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "KD Trading",
+   "group": "in_store",
+   "city": "Al Wukair",
+   "region": "Al Wakra Municipality",
+   "address": "Building 58, Street 720, Al Wukair",
+   "phone": "6645 6150",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "Kiddy Zone Hayat Plaza",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Hyatt Plaza Mall, Hyatt Plaza Rd, Doha",
+   "phone": "4469 0507",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "Laditan Trading",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7GJ6+4X2, Doha",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Lasiya Trading WLL",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "flat 7, Building 11, Street 320, Doha",
+   "phone": "3122 4999",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Lisha Enterprises W.L.L",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "AL ASMAKH, 860 Ibn Al Abbas St, Doha",
+   "phone": "5537 4715",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Loom star",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "3114 7467",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "luminar trading and contracing",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Zone 35, street 920,building number 43, Doha",
+   "phone": "4421 8445",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "maamoun",
+   "group": "in_store",
+   "city": "Al Wakrah",
+   "region": "Al Wakra Municipality",
+   "address": "alwkra ezdin, Al Wakrah",
+   "phone": "7070 5047",
+   "checked_at": "2026-10-18T21:57:23Z"
+  },
+  {
+   "name": "Markaz al hadiya",
+   "group": "in_store",
+   "city": "Al-Rayyan",
+   "region": "Al Rayyan Municipality",
+   "address": "Al-Rayyan",
+   "phone": "7765 2021",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "MBA Holding",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "7740 7274",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Modern Game Centre",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "8FG8+P3M, Doha",
+   "phone": "4486 1227",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "My Game Station | ماي قيم ستيشن",
+   "group": "in_store",
+   "city": "Al Wakrah",
+   "region": "Al Wakra Municipality",
+   "address": "Mesaieed Rd, Al Wakrah",
+   "phone": "6000 5776",
+   "website": "https://www.instagram.com/mygamestation.qa/",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "MYSTICAL",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "1008, الدوحة",
+   "phone": "5516 3222",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Ocean Pearl Trading Company",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "2nd floor, Al-Ahbabi, 3 Sare Tizari Road, الدوحة",
+   "phone": "7074 5770",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Pentool for Trading & Services",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Building 81, 9th Floor, Office, Pentool for Trading, 92 Al Safliya St, Doha",
+   "phone": "5535 1025",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Plus Places",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7GC9+P3R, Doha",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Premio Trading Company Qatar",
+   "group": "in_store",
+   "city": "الريان",
+   "region": "بلدية الريان",
+   "address": "Muaither Um Doom Street doha, Qatar, 7C26+J9M، الريان",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Qadaa Trade",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "8 Hiteen St Al Muntazah Street 830 Building No.12 office 6 , floor No.1, الدوحة",
+   "phone": "5023 3085",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Qatar Game Center",
+   "group": "in_store",
+   "city": "Umm Salal Muhammed",
+   "region": "Umm Slal Municipality",
+   "address": "9CVH+J4M, Umm Salal Muhammed",
+   "phone": "4479 5658",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "RULES EXECUTION DEPARTMENT",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "الريان،شارع القلعة،دوار الفروسيه،مقابل، سوق المعاضيد،، Street number 956، Doha",
+   "phone": "3314 3536",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Seaway Trading and Contracting WLL",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Ali Bin Abi Talib، Doha",
+   "phone": "7074 1235",
+   "checked_at": "2026-10-18T21:56:50Z"
+  },
+  {
+   "name": "Slowpoke TCG",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Nega um Garn, Doha",
+   "phone": "7770 0877",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Smart Card Trading",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Salwa Rd, Doha",
+   "phone": "3322 2305",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Starset",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "the pearl, Doha",
+   "phone": "3305 0820",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Step fuji elevator ستب ديزاين",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "STREET - 995, Doha",
+   "phone": "3317 2353",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "The Toy Store",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "8FM6+2WQ, Doha Expy, Doha",
+   "phone": "4479 2246",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "Tools corner trading llc",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Street number 5, main AL athiya street, room no 4 Doha, الدوحة",
+   "phone": "7063 8661",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Toppykids the toys hub",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Mohamed Bin Muslama St, Doha",
+   "phone": "7000 5325",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "Trust trading contracting & cleaning",
+   "group": "in_store",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "940, الدوحة",
+   "phone": "5050 5613",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Twenty Nine Plus",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Doha",
+   "phone": "3320 6097",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "tybo.international",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "310 Umm Ghuwailina St, Doha",
+   "phone": "7061 0806",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Whiteline Trading and Contracting WLL",
+   "group": "in_store",
+   "region": "Al Wakra Municipality",
+   "address": "Outside BLDG 16",
+   "phone": "5175 1780",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "Zero Brand",
+   "group": "in_store",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Ibn Omair, Doha",
+   "phone": "6636 3686",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "آهن فروشی",
+   "group": "in_store",
+   "city": "Ar Rayyan",
+   "region": "Doha Municipality",
+   "address": "6C4J+87J, Street 12, Ar Rayyan",
+   "checked_at": "2026-10-18T21:57:08Z"
+  },
+  {
+   "name": "Digital Zone Qatar",
+   "group": "not_buying_singles",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Building No. 147, Zone. 40, Street 340, Mid Mac roundabout, طريق سلوى، الدوحة",
+   "phone": "4482 5000",
+   "website": "https://digitalzone.qa/",
+   "buylist_url": "https://digitalzone.qa/pages/trade-in-services-qatar",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Jarir Bookstore‎",
+   "group": "not_buying_singles",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Al Sheikh Salman bin Khalid Al، Thani Center Al Rayyan Al Jadeed St, Doha",
+   "phone": "4019 8333",
+   "website": "https://www.jarir.com/qa-ar/",
+   "buylist_url": "https://www.jarir.com/trade-in",
+   "checked_at": "2026-10-18T21:57:23Z"
+  },
+  {
+   "name": "Qatar Duty Free",
+   "group": "not_buying_singles",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Hamad International Airport, Doha",
+   "phone": "4010 4167",
+   "website": "https://www.qatardutyfree.com/?AspxAutoDetectCookieSupport=1",
+   "buylist_url": "https://www.qatardutyfree.com/retailer/buylist",
+   "checked_at": "2026-10-18T21:57:12Z"
+  },
+  {
+   "name": "Al Aham Trading Company",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الريان",
+   "address": "Salwa Road, 6FP2+35C, Teeba, الدوحة",
+   "phone": "4444 6644",
+   "website": "http://www.alahamtrading.com/",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Alif Stores | Al Dafna",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Al Dafna, Halaet Umm Al Zabed, street No 950 Street, الدوحة",
+   "phone": "4408 9222",
+   "website": "https://www.alifstores.com/",
+   "checked_at": "2026-10-18T21:56:50Z"
+  },
+  {
+   "name": "Alif Stores | Place Vendome",
+   "group": "unknown",
+   "city": "Lusail",
+   "region": "Al Daayen Municipality",
+   "address": "Place Vendôme Mall, Wadi Al Gaeya, Lusail",
+   "phone": "4408 9222",
+   "website": "https://www.alifstores.com/",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "Atlantic Printing Company WLL - Qatar",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Old Al Ghanim B Ring Road, Building 4, Unit 9, Street 220, الدوحة",
+   "phone": "5081 7870",
+   "website": "https://atlanticqatar.com/",
+   "checked_at": "2026-10-18T21:57:14Z"
+  },
+  {
+   "name": "Blink gaming & gadgets - Qatar",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Shop No 14, T.V signal -Bin Towar Center, Bldg No 217, Doha",
+   "phone": "7100 0334",
+   "website": "https://www.blinkmena.qa/",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Cardiff International Trading",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الريان",
+   "address": "P.O Box: 203150, شارع أم الدوم، الدوحة",
+   "phone": "4029 2741",
+   "website": "https://cardifftrading.com/",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Fnac - Doha Festival City",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الظعاين",
+   "address": "Doha Festival City First Floor, الدوحة",
+   "phone": "4436 2222",
+   "website": "https://fnac.qa/",
+   "checked_at": "2026-10-18T21:57:10Z"
+  },
+  {
+   "name": "Fnac - Lagoona Mall",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Lagoona Mall, Ground Floor، Doha",
+   "phone": "4436 2222",
+   "website": "https://fnac.qa/",
+   "checked_at": "2026-10-18T21:57:06Z"
+  },
+  {
+   "name": "GAME STATION",
+   "group": "unknown",
+   "city": "Al-Rayyan",
+   "region": "Al Rayyan Municipality",
+   "address": "Al-Rayyan",
+   "phone": "3110 0663",
+   "website": "https://snoonu.com/electronics/game-station-trading?source=global%20search",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Gamer Zone - Mall of Qatar Branch",
+   "group": "unknown",
+   "region": "بلدية الريان",
+   "address": "Mall of Qatar",
+   "phone": "5058 7070",
+   "website": "https://www.gamerzoneme.com/",
+   "checked_at": "2026-10-18T21:57:15Z"
+  },
+  {
+   "name": "Gamerzone Al Nasr Branch",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Al Amir St, Doha",
+   "phone": "5058 4040",
+   "website": "https://www.gamerzoneme.com/",
+   "checked_at": "2026-10-18T21:56:59Z"
+  },
+  {
+   "name": "Gift Palace Trading",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "1 Ibn Dirhem, Doha",
+   "phone": "7763 2924",
+   "website": "https://giftpalacetrading.com/",
+   "checked_at": "2026-10-18T21:57:01Z"
+  },
+  {
+   "name": "IBDA TOYS TRADING",
+   "group": "unknown",
+   "city": "الريان",
+   "region": "بلدية الريان",
+   "address": "Building No: 17,Zone: 55, New Al Murrah, 1st floor, Street No: 692, الريان",
+   "phone": "7773 0262",
+   "website": "https://ibdatoys.com/",
+   "checked_at": "2026-10-18T21:56:56Z"
+  },
+  {
+   "name": "Kiddy Zone at Porto Arabia",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Kiddy Zone at, Doha",
+   "phone": "4435 6068",
+   "website": "https://www.kiddyzone.com/",
+   "checked_at": "2026-10-18T21:57:05Z"
+  },
+  {
+   "name": "Mad for Life Trading",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Shop 14, building 785 Zone, 53 Street 350, Doha, Doha, 36383, Qatar",
+   "phone": "+97451119173",
+   "website": "https://mad4life.co/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Nysa trading company store",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "5CGC+56W, Doha",
+   "website": "https://nysaqatar.com/",
+   "checked_at": "2026-10-18T21:56:55Z"
+  },
+  {
+   "name": "Olive Doha Trading",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Shop No: 509, All dawoodia city, building 13, Near Street 1303, Doha",
+   "phone": "3329 2220",
+   "website": "https://olivestores.qa/",
+   "checked_at": "2026-10-18T21:57:08Z"
+  },
+  {
+   "name": "Planet Trading",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "3030 6996",
+   "website": "https://api.whatsapp.com/send?phone=97430306996&text=HI%2C%20Tell%20me%20more%20about%20your%20services",
+   "checked_at": "2026-10-18T21:56:51Z"
+  },
+  {
+   "name": "QZONE GAMING",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الريان",
+   "address": "995 building 241 zone 56, الدوحة",
+   "phone": "7773 9639",
+   "website": "https://qzonegaming.com/",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "Raifa Center Trading and Advertising LLC",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "7H36+MQ8, Al Matar Al Qadeem St, Doha",
+   "phone": "7030 0051",
+   "website": "https://www.raifacentre.com/",
+   "checked_at": "2026-10-18T21:57:01Z"
+  },
+  {
+   "name": "RAIFA CENTRE W.L.L, Office Stationery and Printing",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الوكرة",
+   "address": "Raifa CentreW.L.L, Office Stationery and Printing, Barwa Village, Building No: 11, Office No: 36, الدوحة",
+   "phone": "4455 1082",
+   "website": "https://www.raifacentre.com/",
+   "checked_at": "2026-10-18T21:57:06Z"
+  },
+  {
+   "name": "Sapir - Store1-2",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "New Salata، Street 916، Doha",
+   "phone": "5520 9258",
+   "website": "https://www.sapirqatar.com/",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Sport Cards Gallery",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "7F2C+P2, Doha",
+   "website": "https://www.sportcardsgallery.com/",
+   "checked_at": "2026-10-18T21:56:43Z"
+  },
+  {
+   "name": "Stationery Supplier Qatar",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Bahr Al Arab St Zone 55 Street 489 Building 24, الدوحة",
+   "phone": "5992 4279",
+   "website": "https://www.stationerysupplierqatar.com/",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "Store974 - Place Vendôme Mall",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الظعاين",
+   "address": "2nd Floor, Place Vendôme Mall, الدوحة",
+   "phone": "7706 9974",
+   "website": "https://store974.com/",
+   "checked_at": "2026-10-18T21:56:48Z"
+  },
+  {
+   "name": "Tech Deals Qatar",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الدوحه",
+   "address": "Doha Beauty Center Building, Floor 2, 840 الروابي، الدوحة",
+   "phone": "3076 3888",
+   "website": "https://techdeals.qa/",
+   "checked_at": "2026-10-18T21:56:53Z"
+  },
+  {
+   "name": "Technical Care Center - Dar Al-Salam Mall",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Gate No 1, 1st Floor, Near، Dollar Plus & Sand and Sun Dar، Al Salam Mall، Doha",
+   "phone": "4443 0110",
+   "website": "https://www.tccq.com/",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "The Little Things - Doha Festival City",
+   "group": "unknown",
+   "city": "الدوحة",
+   "region": "بلدية الظعاين",
+   "address": "9CPR+2RJ Alnuaimi Area, الدوحة",
+   "phone": "5126 2710",
+   "website": "https://littlethingsme.com/",
+   "checked_at": "2026-10-18T21:57:23Z"
+  },
+  {
+   "name": "Toys R Us",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "Doha",
+   "phone": "4443 5904",
+   "website": "https://toysrusmena.com/",
+   "checked_at": "2026-10-18T21:57:16Z"
+  },
+  {
+   "name": "Toys R Us",
+   "group": "unknown",
+   "region": "Al Daayen Municipality",
+   "address": "Doha Festival City, Building 80",
+   "phone": "4467 0037",
+   "website": "https://toysrusmena.com/",
+   "checked_at": "2026-10-18T21:57:20Z"
+  },
+  {
+   "name": "Toys4me - Villaggio Mall",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "Al Waab St, Doha",
+   "phone": "4414 4937",
+   "website": "https://toys4me.com/",
+   "checked_at": "2026-10-18T21:57:22Z"
+  },
+  {
+   "name": "TRIOS Stationery",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Wakra Municipality",
+   "address": "Shop Number 41,43,45 Building No 8, Barwa Village, Doha",
+   "phone": "4001 1004",
+   "website": "https://triosqatar.com/",
+   "checked_at": "2026-10-18T21:57:08Z"
+  },
+  {
+   "name": "Virgin Megastore",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Al Rayyan Municipality",
+   "address": "7C5R+4GF, Doha",
+   "phone": "4495 9060",
+   "website": "https://www.virginmegastore.qa/",
+   "checked_at": "2026-10-18T21:57:00Z"
+  },
+  {
+   "name": "شركة ديب للتجارة والدعاية والإعلان Deeb advertising and Trading",
+   "group": "unknown",
+   "city": "Doha",
+   "region": "Doha Municipality",
+   "address": "8FJC+47, Doha",
+   "phone": "5565 0988",
+   "website": "https://www.deebtrading.com/",
+   "checked_at": "2026-10-18T21:57:09Z"
+  }
+ ]
+}

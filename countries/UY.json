@@ -1,0 +1,448 @@
+{
+ "country": "UY",
+ "currency": "UYU",
+ "updated": "2026-10-18",
+ "store_count": 42,
+ "stores": [
+  {
+   "name": "Book Store - Lecturas Comics",
+   "group": "blocked",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Colonia 892 - 102, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "099 295 803",
+   "website": "http://lecturascomics.com.uy/",
+   "checked_at": "2026-10-18T21:53:12Z"
+  },
+  {
+   "name": "Center_Games Videojuegos",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Humberto I 4048, 11400 Montevideo, Departamento de Montevideo",
+   "phone": "099 505 088",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "Coleccionables Uruguay",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Sta Fe 1229bis, 11800 Montevideo, Departamento de Montevideo",
+   "phone": "099 226 739",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "COLLECTIBLES",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Vazquez 1418, Av. 18 de Julio esq, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "2402 6010",
+   "checked_at": "2026-10-18T21:52:47Z"
+  },
+  {
+   "name": "Hard and Play",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Pres. Ing. José Serrato 2709, 12000 Montevideo, Departamento de Montevideo",
+   "phone": "098 356 668",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "JYC ActionFigures",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Vázquez 1418, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "2402 6010",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "Mates y Magic",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "3151 José Mazzini, Montevideo, Departamento de Montevideo, 11600, Uruguay",
+   "phone": "59893741750",
+   "website": "https://www.instagram.com/mates.y.magic/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Treasures Collector",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Juan Ortiz 3156, 11600 Montevideo, Departamento de Montevideo",
+   "phone": "096 600 700",
+   "checked_at": "2026-10-18T21:53:00Z"
+  },
+  {
+   "name": "Valhalla Cómics",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Gabriel Pereyra 2772, esq. Soca y, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "099 579 353",
+   "checked_at": "2026-10-18T21:52:56Z"
+  },
+  {
+   "name": "Wirewood City",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Pocitos, Montevideo, MO, 11300, Uruguay",
+   "phone": " +5989914-7079",
+   "website": "https://www.facebook.com/Wirewood.Store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Cartoons - Sucursal Arenal Grande",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Arenal Grande 2554, 11800 Montevideo, Departamento de Montevideo",
+   "phone": "2508 1830",
+   "website": "https://www.cartoons.com.uy/",
+   "checked_at": "2026-10-18T21:52:53Z"
+  },
+  {
+   "name": "Club Filatélico",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Gaboto 1215, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "2413 1093",
+   "website": "http://www.clubfilatelicodeluruguay.com/",
+   "checked_at": "2026-10-18T21:52:47Z"
+  },
+  {
+   "name": "DarkSide Bros Coleccionables",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Soriano 1062, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "2900 0220",
+   "website": "https://darksidebros.com.uy/",
+   "checked_at": "2026-10-18T21:52:46Z"
+  },
+  {
+   "name": "Dungeon TCG & Games",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "1526 Yaguarón, Montevideo, Departamento de Montevideo, 11100, Uruguay",
+   "phone": "+5989895-5895",
+   "website": "https://dungeontcg.uy/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Enigma Games - Juegos de Mesa",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Dr. Pablo de María 1301, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "099 089 892",
+   "website": "https://enigmagames.uy/catalogo",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "Frikantec",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Andes 1477, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "099 502 235",
+   "website": "https://frikantec.com.uy/",
+   "checked_at": "2026-10-18T21:52:46Z"
+  },
+  {
+   "name": "Guarida Corp.",
+   "group": "unknown",
+   "city": "Maldonado",
+   "region": "Departamento de Maldonado",
+   "address": "Luxemburgo y, 20000 Maldonado, Departamento de Maldonado",
+   "website": "https://guaridacorp.com/",
+   "checked_at": "2026-10-18T21:53:13Z"
+  },
+  {
+   "name": "Habichuelas Juegos Didácticos",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "20 de Setiembre 1453, 11600 Montevideo, Departamento de Montevideo",
+   "phone": "2707 3667",
+   "website": "http://habichuelas.com.uy/",
+   "checked_at": "2026-10-18T21:53:13Z"
+  },
+  {
+   "name": "Hobbies' Corner",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Loc 19, de la Galería Diri, Río Negro 1337, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "095 235 839",
+   "website": "https://hcnumis.com/",
+   "checked_at": "2026-10-18T21:52:59Z"
+  },
+  {
+   "name": "J-Store Uruguay",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Hocquart 1703, 11800 Montevideo, Departamento de Montevideo",
+   "phone": "094 473 849",
+   "website": "https://www.jstore.uy/",
+   "checked_at": "2026-10-18T21:52:47Z"
+  },
+  {
+   "name": "Kingdom TCG Store",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "25 de Mayo 626, 11000 Montevideo, Departamento de Montevideo",
+   "phone": "095 009 056",
+   "website": "https://kingdomtcgstore.com/",
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Lannister Comics & Libros",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 892, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "2903 0359",
+   "website": "https://librerialannister.com/",
+   "checked_at": "2026-10-18T21:53:12Z"
+  },
+  {
+   "name": "Martin Games",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 1314, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "091 041 000",
+   "website": "https://martingames.com.uy/",
+   "checked_at": "2026-10-18T21:52:56Z"
+  },
+  {
+   "name": "MicroHobby Uruguay",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "María Stagnero de Munar 2385, 11400 Montevideo, Departamento de Montevideo",
+   "phone": "095 595 891",
+   "website": "https://www.mercadolibre.com.uy/gz/account-verification?go=https%3A%2F%2Flistado.mercadolibre.com.uy%2F_CustId_138787194&tid=dd3c4637-deed-49a9-8080-306758e4afed",
+   "checked_at": "2026-10-18T21:53:06Z"
+  },
+  {
+   "name": "Montevideo Gaming House",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "2235 Colonia, Montevideo, Departamento de Montevideo, 11200, Uruguay",
+   "phone": "598098981797",
+   "website": "https://montevideogaminghouse.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Montevideo Shopping Center",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. Luis Alberto de Herrera 1290, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "2622 1005",
+   "website": "https://montevideoshopping.com.uy/",
+   "checked_at": "2026-10-18T21:52:51Z"
+  },
+  {
+   "name": "Mornar Store",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "1053 Juan Manuel Blanes, Montevideo, Departamento de Montevideo, 11200, UY",
+   "phone": "598 99 471 820",
+   "website": "https://www.mornarstore.com",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Mulligan Center TCG",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "1621 Eduardo Acevedo, Montevideo, Departamento de Montevideo, 11200, Uruguay",
+   "phone": "598096362943",
+   "website": "https://mulligancentertcg.com/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Next Level Collectibles",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "1513 Blandengues, Montevideo, Departamento de Montevideo, 11800, Uruguay",
+   "phone": "5989166-8686",
+   "website": "https://nextleveluy.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Nudo Escudo",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "1246 Juan D. Jackson, Montevideo, Departamento de Montevideo, 11200, Uruguay",
+   "phone": "598091096757",
+   "website": "https://www.nudoescudo.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Panini",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "S. José 1192, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "093 991 873",
+   "website": "https://tiendapanini.uy/",
+   "checked_at": "2026-10-18T21:52:58Z"
+  },
+  {
+   "name": "Papacito",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 1409, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "2908 7250",
+   "website": "https://libreriapapacito.com.uy/",
+   "checked_at": "2026-10-18T21:52:52Z"
+  },
+  {
+   "name": "Pitibum",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Dr. Joaquín Requena 2033, 11800 Montevideo, Departamento de Montevideo",
+   "phone": "092 852 650",
+   "website": "https://www.pitibum.com/",
+   "checked_at": "2026-10-18T21:53:18Z"
+  },
+  {
+   "name": "POGU.UY",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. Gral. Eugenio Garzón 485, 12900 Montevideo, Departamento de Montevideo",
+   "phone": "098 974 500",
+   "website": "https://linktr.ee/pogu.uy",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-18T21:53:04Z"
+  },
+  {
+   "name": "Quedate Jugando",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. Gral. San Martín 2640, 11800 Montevideo, Departamento de Montevideo",
+   "phone": "096 896 399",
+   "website": "https://www.quedatejugando.com.uy/",
+   "checked_at": "2026-10-18T21:53:20Z"
+  },
+  {
+   "name": "Raúl Games",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Pres. Ing. José Serrato, 12000 Montevideo, Departamento de Montevideo",
+   "phone": "2506 9878",
+   "website": "https://raulgames.com.uy/",
+   "checked_at": "2026-10-18T21:53:09Z"
+  },
+  {
+   "name": "Sparta Board Games",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Gaboto 1217, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "098 504 966",
+   "website": "https://spartaboardgames.com/",
+   "checked_at": "2026-10-18T21:52:48Z"
+  },
+  {
+   "name": "Tienda de Videojuegos - Game Store",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. Gral. San Martín 3699, 12300 Montevideo, Departamento de Montevideo",
+   "phone": "2216 5609",
+   "website": "https://gamestore.com.uy/store/",
+   "checked_at": "2026-10-18T21:53:00Z"
+  },
+  {
+   "name": "Tienda Gamers UY",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. Uruguay 1395, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "098 691 563",
+   "website": "https://tiendagamersuy.com/",
+   "checked_at": "2026-10-18T21:53:00Z"
+  },
+  {
+   "name": "Valhalla Games",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "21 de Setiembre 3036, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "2713 3007",
+   "website": "https://valhallagames.com.uy/",
+   "checked_at": "2026-10-18T21:52:58Z"
+  },
+  {
+   "name": "Vieja Bohemia",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 976, 11200 Montevideo, Departamento de Montevideo",
+   "phone": "093 391 506",
+   "website": "https://viejabohemia.com/",
+   "checked_at": "2026-10-18T21:52:55Z"
+  },
+  {
+   "name": "XUruguay",
+   "group": "unknown",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 907, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "2903 6468",
+   "website": "https://www.xuruguay.com.uy/",
+   "checked_at": "2026-10-18T21:52:41Z"
+  }
+ ]
+}
