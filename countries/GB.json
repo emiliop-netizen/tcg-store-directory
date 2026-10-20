@@ -2,7 +2,7 @@
  "country": "GB",
  "currency": "GBP",
  "updated": "2026-10-20",
- "store_count": 1265,
+ "store_count": 1745,
  "stores": [
   {
    "name": "Axion Now",
@@ -879,6 +879,24 @@
    "checked_at": "2026-10-16T02:17:26Z"
   },
   {
+   "name": "Activate at The O2",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Peninsula Square, London SE10 0DX",
+   "website": "https://playactivate.co.uk/activate-at-the-o2",
+   "checked_at": "2026-10-20T21:06:34Z"
+  },
+  {
+   "name": "Activate Watford",
+   "group": "blocked",
+   "city": "Watford",
+   "region": "England",
+   "address": "Unit 1, Lower Mall Harlequin, Watford WD17 2UB",
+   "website": "https://playactivate.co.uk/",
+   "checked_at": "2026-10-20T21:08:02Z"
+  },
+  {
    "name": "Ambertail Games",
    "group": "blocked",
    "city": "Belfast",
@@ -886,6 +904,35 @@
    "address": "2A Malone Rd, Belfast BT9 5BN",
    "website": "https://www.ambertailgames.com/",
    "checked_at": "2026-10-16T02:27:57Z"
+  },
+  {
+   "name": "ARTBOX",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "44-46 Shelton St, London WC2H 9HZ",
+   "phone": "020 7240 0097",
+   "website": "https://www.artbox.co.uk/",
+   "checked_at": "2026-10-20T21:03:31Z"
+  },
+  {
+   "name": "Atlantis Art Materials",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 6, Industrial Centre, Bayford St, London E8 3SE",
+   "phone": "020 7377 8855",
+   "website": "https://www.atlantisart.co.uk/",
+   "checked_at": "2026-10-20T21:03:32Z"
+  },
+  {
+   "name": "BFI IMAX Café & Bar",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "1 Charlie Chaplin Walk, London SE1 8XR",
+   "website": "https://whatson.bfi.org.uk/imax/Online/default.asp",
+   "checked_at": "2026-10-20T21:04:11Z"
   },
   {
    "name": "Blackwell Games Edinburgh",
@@ -930,6 +977,16 @@
    "checked_at": "2026-10-16T02:18:42Z"
   },
   {
+   "name": "Box.co.uk",
+   "group": "blocked",
+   "city": "Woodford Green",
+   "region": "England",
+   "address": "Woodford, Unit 10, Woodford, Woodford Green IG8 8HF",
+   "phone": "020 3337 8950",
+   "website": "https://box.co.uk/",
+   "checked_at": "2026-10-20T21:07:14Z"
+  },
+  {
    "name": "Bristol Adventurers Guild",
    "group": "blocked",
    "city": "Bristol",
@@ -938,6 +995,25 @@
    "phone": "07725 849480",
    "website": "https://www.bristoladventurersguild.co.uk/",
    "checked_at": "2026-10-16T02:25:59Z"
+  },
+  {
+   "name": "Buy Pokemon Cards",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "22 Bishopsgate, London EC2N 4BQ",
+   "website": "http://tcghubpulls.com/",
+   "checked_at": "2026-10-20T21:04:33Z"
+  },
+  {
+   "name": "Camden Passage, Islington",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "1 Camden Passage, London N1 8EA",
+   "phone": "07463 557899",
+   "website": "https://www.camdenpassageislington.co.uk/",
+   "checked_at": "2026-10-20T21:03:51Z"
   },
   {
    "name": "CardFish",
@@ -982,12 +1058,70 @@
    "checked_at": "2026-10-16T02:27:50Z"
   },
   {
+   "name": "Crosswear Trading Ltd",
+   "group": "blocked",
+   "city": "Enfield",
+   "region": "England",
+   "address": "1128-1142 Mollison Ave, Enfield EN3 7NJ",
+   "phone": "020 8443 0340",
+   "website": "https://www.crosswear.co.uk/",
+   "checked_at": "2026-10-20T21:07:24Z"
+  },
+  {
+   "name": "Currys",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit A, Retail Park, 51-57 Effra Rd, London SW2 1BZ",
+   "phone": "0344 561 0000",
+   "website": "https://www.currys.co.uk/store-finder/brixton-2274.html?cmpid=Yext~GMB~2274",
+   "checked_at": "2026-10-20T21:08:29Z"
+  },
+  {
+   "name": "Dalston Mill Fabrics",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "69-73 Ridley Rd, London E8 2NP",
+   "phone": "020 7249 4129",
+   "website": "https://www.dalstonmillfabrics.co.uk/",
+   "checked_at": "2026-10-20T21:04:58Z"
+  },
+  {
    "name": "Decathlon",
    "group": "blocked",
    "city": "Southampton",
    "region": "England",
    "address": "24 Harbour Parade, Southampton SO15 1BA",
    "phone": "023 8017 4770",
+   "website": "https://www.decathlon.co.uk/store-view/sport-shop-southampton-0070071800718?utm_campaign=southampton&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-16T02:28:13Z"
+  },
+  {
+   "name": "Decathlon",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Ealing Broadway Shopping Centre, London W5 5JY",
+   "phone": "020 8076 2130",
+   "website": "https://www.decathlon.co.uk/store-view/sport-shop-southampton-0070071800718?utm_campaign=southampton&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-16T02:28:13Z"
+  },
+  {
+   "name": "Decathlon Croydon",
+   "group": "blocked",
+   "city": "Croydon",
+   "region": "England",
+   "address": "Valley Retail Park, Croydon CR0 4UZ",
+   "website": "https://www.decathlon.co.uk/store-view/sport-shop-southampton-0070071800718?utm_campaign=southampton&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-16T02:28:13Z"
+  },
+  {
+   "name": "Decathlon Surrey Quays",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "9 Maritime St, London SE16 7FU",
    "website": "https://www.decathlon.co.uk/store-view/sport-shop-southampton-0070071800718?utm_campaign=southampton&utm_medium=organic&utm_source=google",
    "checked_at": "2026-10-16T02:28:13Z"
   },
@@ -1160,6 +1294,16 @@
    "checked_at": "2026-10-16T02:23:21Z"
   },
   {
+   "name": "Hearts & Daggers Militaria",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "14 Pierrepont Row, London N1 8EF",
+   "phone": "020 7704 9482",
+   "website": "https://heartsanddaggers.co.uk/",
+   "checked_at": "2026-10-20T21:03:52Z"
+  },
+  {
    "name": "Heffers Bookshop",
    "group": "blocked",
    "city": "Cambridge",
@@ -1293,6 +1437,26 @@
    "checked_at": "2026-10-16T02:24:20Z"
   },
   {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 2058-2058A & 3053-3056, Westfield, London W12 7GE",
+   "phone": "0843 221 0357",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "hmv",
+   "group": "blocked",
+   "city": "Watford",
+   "region": "England",
+   "address": "Units 2 & 3, Lower Mall Atria, Shopping Centre, Watford WD17 2TB",
+   "phone": "0843 221 0355",
+   "website": "https://hmv.com/store-finder?utm_source=organic-search&utm_medium=google",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
    "name": "Hobbycraft",
    "group": "blocked",
    "city": "Wallsend",
@@ -1309,6 +1473,16 @@
    "region": "England",
    "address": "Unit B, Meadowside, RETAIL PARK, Lamarsh Rd., Oxford OX2 0HF",
    "phone": "0330 026 1088",
+   "website": "https://www.hobbycraft.co.uk/stores/edinburgh?utm_source=googlemybusiness&utm_medium=organicgmb&utm_campaign=localseo",
+   "checked_at": "2026-10-16T02:25:28Z"
+  },
+  {
+   "name": "Hobbycraft Croydon",
+   "group": "blocked",
+   "city": "Croydon",
+   "region": "England",
+   "address": "The purley way, Unit 3A Drury Cres, Croydon CR0 4XU",
+   "phone": "0330 026 1070",
    "website": "https://www.hobbycraft.co.uk/stores/edinburgh?utm_source=googlemybusiness&utm_medium=organicgmb&utm_campaign=localseo",
    "checked_at": "2026-10-16T02:25:28Z"
   },
@@ -1357,6 +1531,36 @@
    "checked_at": "2026-10-16T02:13:15Z"
   },
   {
+   "name": "Leyland SDM Clapham High Street | Decorating & DIY",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "24-28 Clapham High St, London SW4 7UR",
+   "phone": "020 7819 9387",
+   "website": "https://leylandsdm.co.uk/amlocator/clapham-high-street/?utm_source=google&utm_medium=organic&utm_campaign=LPM_google_Clapham",
+   "checked_at": "2026-10-20T21:08:59Z"
+  },
+  {
+   "name": "London Graphic Centre",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "16-18 Shelton St, London WC2H 9JL",
+   "phone": "020 7759 4500",
+   "website": "https://www.londongraphics.co.uk/",
+   "checked_at": "2026-10-20T21:03:34Z"
+  },
+  {
+   "name": "Majestic Wine Clapham",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "12 Balham Hill, London SW12 9EA",
+   "phone": "020 8675 6929",
+   "website": "https://www.majestic.co.uk/stores/clapham",
+   "checked_at": "2026-10-20T21:09:00Z"
+  },
+  {
    "name": "Manor Cards",
    "group": "blocked",
    "city": "London",
@@ -1382,6 +1586,16 @@
    "region": "England",
    "address": "Unit LG18, Westgate Centre, Queen St, Oxford OX1 1NZ",
    "phone": "020 4639 9998",
+   "website": "https://www.menkind.co.uk/",
+   "checked_at": "2026-10-16T02:28:14Z"
+  },
+  {
+   "name": "Menkind",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1153, Shopping Centre, 4006 Ariel Way, London W12 7GF",
+   "phone": "020 8740 4785",
    "website": "https://www.menkind.co.uk/",
    "checked_at": "2026-10-16T02:28:14Z"
   },
@@ -1417,6 +1631,25 @@
    "checked_at": "2026-10-16T02:27:55Z"
   },
   {
+   "name": "Occasion Cards",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "238 Walworth Rd, London SE17 1JE",
+   "phone": "07404 417813",
+   "website": "https://occasioncards.uk/",
+   "checked_at": "2026-10-20T21:04:03Z"
+  },
+  {
+   "name": "Origin Gaming",
+   "group": "blocked",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Market, Market Chambers, Enfield EN2 6LN",
+   "website": "https://origin-gaming.com/",
+   "checked_at": "2026-10-20T21:03:33Z"
+  },
+  {
    "name": "Paramount Books",
    "group": "blocked",
    "city": "Manchester",
@@ -1436,6 +1669,16 @@
    "checked_at": "2026-10-16T02:26:05Z"
   },
   {
+   "name": "Pound Worth Trading Ltd",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "135 S Lambeth Rd, London SW8 1XB",
+   "phone": "020 3091 4547",
+   "website": "https://www.atom.com/name/Poundworth",
+   "checked_at": "2026-10-20T21:04:21Z"
+  },
+  {
    "name": "RETRO BRISTOL",
    "group": "blocked",
    "city": "Bristol",
@@ -1446,12 +1689,32 @@
    "checked_at": "2026-10-16T02:25:52Z"
   },
   {
+   "name": "Robert Dyas Ealing Broadway",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "9, 8 High St, London W5 5JY",
+   "phone": "020 3375 6973",
+   "website": "https://www.robertdyas.co.uk/storefinder/robertdyas-ealing-broadway?utm_source=google&utm_medium=organic&utm_campaign=LPM_google_ealing-broadway",
+   "checked_at": "2026-10-20T21:06:17Z"
+  },
+  {
    "name": "Rough Trade Bristol",
    "group": "blocked",
    "city": "Bristol",
    "region": "England",
    "address": "3, New Bridewell, Nelson St, Bristol BS1 2QD",
    "phone": "0117 427 0463",
+   "website": "https://www.roughtrade.com/",
+   "checked_at": "2026-10-16T02:25:55Z"
+  },
+  {
+   "name": "Rough Trade East",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Old Truman Brewery, 91 Brick Ln, London E1 6QL",
+   "phone": "020 7392 7788",
    "website": "https://www.roughtrade.com/",
    "checked_at": "2026-10-16T02:25:55Z"
   },
@@ -1526,6 +1789,26 @@
    "checked_at": "2026-10-16T02:24:04Z"
   },
   {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "1 Eden St, Kingston upon Thames KT1 1BJ",
+   "phone": "020 3375 6577",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
+   "name": "Ryman Stationery",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "336 North End Rd, London SW6 1NB",
+   "phone": "020 3907 2580",
+   "website": "https://www.ryman.co.uk/storefinder/ryman-birmingham-temple-street/?utm_source=gmb&utm_medium=organic&utm_campaign=LPM_Google_1154",
+   "checked_at": "2026-10-16T02:24:04Z"
+  },
+  {
    "name": "SCOTT'S COLLECTABLES",
    "group": "blocked",
    "city": "London",
@@ -1558,6 +1841,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:56Z"
+  },
+  {
+   "name": "Southbank Centre",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+   "phone": "020 3879 9555",
+   "website": "https://www.southbankcentre.co.uk/",
+   "checked_at": "2026-10-20T21:04:06Z"
   },
   {
    "name": "Super Retro Video Games",
@@ -1620,6 +1913,16 @@
    "checked_at": "2026-10-16T02:28:17Z"
   },
   {
+   "name": "Teeny Wishes",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "39 Tooting Bec Gardens, London SW16 1RE",
+   "phone": "07709 536151",
+   "website": "https://www.teenywishes.com/",
+   "checked_at": "2026-10-20T21:08:57Z"
+  },
+  {
    "name": "TG Jones",
    "group": "blocked",
    "city": "Edinburgh",
@@ -1650,6 +1953,46 @@
    "checked_at": "2026-10-16T02:25:24Z"
   },
   {
+   "name": "TGJones",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit SU37, 40, Ground Floor, The Arcade, Westfield stratford city, London E20 1EJ",
+   "phone": "020 4636 7391",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "TGJones",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "21 23, London W5 2NH",
+   "phone": "020 4635 2418",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "TGJones",
+   "group": "blocked",
+   "city": "Ilford",
+   "region": "England",
+   "address": "50 High Rd, Ilford IG1 1DQ",
+   "phone": "020 8553 3344",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "TGJones",
+   "group": "blocked",
+   "city": "Watford",
+   "region": "England",
+   "address": "Water Ln The Harlequin 54, Watford WD17 2TF",
+   "phone": "01923 211388",
+   "website": "https://www.tgjonesonline.co.uk/storelocator",
+   "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
    "name": "The Complete Card Shop",
    "group": "blocked",
    "city": "Hampshire",
@@ -1663,9 +2006,20 @@
    "checked_at": "2026-10-16T02:17:19Z"
   },
   {
+   "name": "The Game Xchange Ltd / Abbey Cards / Party Wholesalers",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 5, Abercorn Commercial Centre Manor Farm Road Wembley, London HA0 1AN",
+   "phone": "020 8573 1768",
+   "website": "http://www.partywholesalers.net/",
+   "checked_at": "2026-10-20T21:05:26Z"
+  },
+  {
    "name": "The Gamers Guild",
    "group": "blocked",
    "city": "Redhill",
+   "region": "England",
    "address": "12 Linkfield Corner, Redhill, England, RH1 1BB, United Kingdom",
    "phone": "+44(0) 1737 789123",
    "website": "https://www.shop.thegamersguild.co.uk/",
@@ -1698,6 +2052,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:42Z"
+  },
+  {
+   "name": "The Who Shop - Upton Park",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "39-41 Barking Rd, London E6 1PY",
+   "phone": "020 8471 2356",
+   "website": "https://www.thewhoshop.com/",
+   "checked_at": "2026-10-20T21:06:46Z"
   },
   {
    "name": "Tony's Trading Cards",
@@ -1750,6 +2114,16 @@
    "checked_at": "2026-10-16T02:13:41Z"
   },
   {
+   "name": "VPZ",
+   "group": "blocked",
+   "city": "London",
+   "region": "England",
+   "address": "56 The Broadway, London SW19 1RQ",
+   "phone": "020 3747 9043",
+   "website": "https://www.vpz.co.uk/",
+   "checked_at": "2026-10-20T21:08:42Z"
+  },
+  {
    "name": "Wayland Games Centre",
    "group": "blocked",
    "city": "West Horndon",
@@ -1762,6 +2136,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:43Z"
+  },
+  {
+   "name": "We Love Collectibles Ltd",
+   "group": "blocked",
+   "city": "Margate",
+   "region": "England",
+   "address": "Unit 101, Westwood Business Park, Strasbourg St, Westwood, Margate CT9 4JJ",
+   "phone": "01843 627079",
+   "website": "https://welovecollectibles.co.uk/",
+   "checked_at": "2026-10-20T21:06:55Z"
   },
   {
    "name": "webuyanycard",
@@ -1802,6 +2186,23 @@
    "address": "Inside Red Brick Market, 2 Clough Rd, Highfield, Sheffield S1 4TE",
    "website": "https://www.facebook.com/people/3-Box-Comics-Sheffield/61560283342176/",
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "999Cheats",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "999 Finchley Rd, London NW11 7HB",
+   "phone": "07488 890956",
+   "checked_at": "2026-10-20T21:05:33Z"
+  },
+  {
+   "name": "Aaa Games World",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "313 Romford Rd, London E7 9HA",
+   "checked_at": "2026-10-20T21:07:18Z"
   },
   {
    "name": "Aberdare trading cards LTD",
@@ -1865,6 +2266,15 @@
    "checked_at": "2026-10-16T02:26:07Z"
   },
   {
+   "name": "andar bahar london",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "19 Camden Rd, London NW1 9DP",
+   "phone": "07380 481117",
+   "checked_at": "2026-10-20T21:03:31Z"
+  },
+  {
    "name": "Anime Gallery",
    "group": "in_store",
    "city": "Glasgow",
@@ -1873,6 +2283,14 @@
    "phone": "0141 221 6888",
    "website": "https://www.facebook.com/AnimeGalleryGlasgow/",
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Anime House London",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "The Stables Market, 10A Chalk Farm Rd, London NW1 8AH",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "ArchiesTCG",
@@ -1894,6 +2312,25 @@
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Area51 Comics Ltd",
+   "group": "in_store",
+   "city": "Isleworth",
+   "region": "England",
+   "address": "1 Whitton Manor Rd, Isleworth TW7 7NL",
+   "phone": "07388 477270",
+   "checked_at": "2026-10-20T21:06:21Z"
+  },
+  {
+   "name": "Atomic Comics",
+   "group": "in_store",
+   "city": "Romford",
+   "region": "England",
+   "address": "1112 High Rd, Romford RM6 4AH",
+   "phone": "020 8597 8547",
+   "website": "https://www.facebook.com/AtomicComicsRomford",
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
@@ -1986,6 +2423,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "BaseO Lewisham",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Lewisham Shopping Centre, 18 Molesworth St, London SE13 7EP",
+   "phone": "020 8852 4404",
+   "checked_at": "2026-10-20T21:06:49Z"
+  },
+  {
    "name": "Battle Bunker Ltd",
    "group": "in_store",
    "city": "Sunderland",
@@ -2038,6 +2484,15 @@
    "checked_at": "2026-10-16T02:21:53Z"
   },
   {
+   "name": "BlackGloveCards",
+   "group": "in_store",
+   "city": "Hounslow",
+   "region": "England",
+   "address": "10 Shenley Rd, Hounslow TW5 0AD",
+   "phone": "07901 698785",
+   "checked_at": "2026-10-20T21:05:35Z"
+  },
+  {
    "name": "Blessed Be Alternative Emporium",
    "group": "in_store",
    "city": "Monmouthshire",
@@ -2060,6 +2515,49 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Borough Market (Gourmet Food Hall)",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Borough Market, Borough High St, London SE1 9AH",
+   "checked_at": "2026-10-20T21:04:07Z"
+  },
+  {
+   "name": "British food and wine store",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "148 Boston Rd, London W7 2HJ",
+   "phone": "020 8579 8730",
+   "checked_at": "2026-10-20T21:06:22Z"
+  },
+  {
+   "name": "Brixton Market",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Electric Ave, London SW9 8JX",
+   "checked_at": "2026-10-20T21:08:21Z"
+  },
+  {
+   "name": "Brixton Station Road Market",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Brixton Station Rd, London SW9 8PD",
+   "phone": "07944 787336",
+   "checked_at": "2026-10-20T21:08:25Z"
+  },
+  {
+   "name": "Brothers food & wine",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "11 Clapham High St, London SW4 7TS",
+   "phone": "020 7622 5440",
+   "checked_at": "2026-10-20T21:08:57Z"
   },
   {
    "name": "Bubble Pop-Bond Street Brighton",
@@ -2119,6 +2617,14 @@
    "checked_at": "2026-10-16T02:20:36Z"
   },
   {
+   "name": "Camden Retro Signs",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "8A, The Stables Market, Paddock Ln, Chalk Farm Rd, London NW1 8AH",
+   "checked_at": "2026-10-20T21:03:32Z"
+  },
+  {
    "name": "Canary Comics & Collectables",
    "group": "in_store",
    "city": "Norwich",
@@ -2127,6 +2633,15 @@
    "phone": "07842 125997",
    "website": "http://www.facebook.com/CanaryComicsNorwich",
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Card Plus",
+   "group": "in_store",
+   "city": "Bromley",
+   "region": "England",
+   "address": "489 Bromley Rd, Bromley BR1 4PQ",
+   "phone": "020 8697 0818",
+   "checked_at": "2026-10-20T21:06:59Z"
   },
   {
    "name": "Card Sharks",
@@ -2245,6 +2760,25 @@
    "checked_at": "2026-10-16T02:28:17Z"
   },
   {
+   "name": "Chain Reaction",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "208 Chalk Farm Rd, London NW1 8AB",
+   "phone": "020 7284 2866",
+   "website": "https://facebook.com/thisiswheretoshop/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Chalkboard",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "60 Northcote Rd, London SW11 1PA",
+   "phone": "020 7924 7066",
+   "checked_at": "2026-10-20T21:08:56Z"
+  },
+  {
    "name": "Change The Game",
    "group": "in_store",
    "city": "East Sussex",
@@ -2286,6 +2820,14 @@
    "checked_at": "2026-10-16T02:21:53Z"
   },
   {
+   "name": "Clapham Junction Station",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Clapham Junction, London SW11 2QP",
+   "checked_at": "2026-10-20T21:09:01Z"
+  },
+  {
    "name": "Clinton Cards",
    "group": "in_store",
    "city": "Leeds",
@@ -2312,6 +2854,43 @@
    "checked_at": "2026-10-16T02:26:42Z"
   },
   {
+   "name": "Collections",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "70 Lee High Rd, London SE13 5PT",
+   "phone": "07990 252545",
+   "checked_at": "2026-10-20T21:06:54Z"
+  },
+  {
+   "name": "Collectors Card Cave",
+   "group": "in_store",
+   "city": "Shefford",
+   "region": "England",
+   "address": "23 Clifton Rd, Shefford SG17 5AF",
+   "phone": "07984 456527",
+   "website": "https://www.facebook.com/collectorscardcave/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Comics & Cult Collectables",
+   "group": "in_store",
+   "city": "Bromley",
+   "region": "England",
+   "address": "Bromley BR1 1PQ, UK",
+   "checked_at": "2026-10-20T21:06:46Z"
+  },
+  {
+   "name": "Comics & Fantasy",
+   "group": "in_store",
+   "city": "Hornchurch",
+   "region": "England",
+   "address": "319 Hornchurch Rd, Hornchurch RM12 4TQ",
+   "phone": "01708 455770",
+   "website": "https://www.facebook.com/ComicsandFantasy",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Common Ground Games",
    "group": "in_store",
    "city": "Stirling",
@@ -2326,6 +2905,24 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Cosmic Comics Sutton",
+   "group": "in_store",
+   "city": "Sutton",
+   "region": "England",
+   "address": "St Nicholas Shopping Centre, St Nicholas Way, Sutton SM1 1AW",
+   "website": "https://www.facebook.com/CosmicComicsUK1/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Cranbrook's Food Co",
+   "group": "in_store",
+   "city": "Ilford",
+   "region": "England",
+   "address": "5 Cranbrook Rd, Ilford IG1 4DU",
+   "phone": "020 8553 9616",
+   "checked_at": "2026-10-20T21:07:18Z"
+  },
+  {
    "name": "Crazy Collectables",
    "group": "in_store",
    "city": "Wiltshire",
@@ -2337,6 +2934,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Crime Time Games",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Ste 240, 1 Limes Ave, London SE20 8OR",
+   "phone": "07961 743819",
+   "checked_at": "2026-10-20T21:06:00Z"
   },
   {
    "name": "CRIT!",
@@ -2368,6 +2974,33 @@
    "address": "1221 Gallowgate, Inshops, Glasgow G31 4EB",
    "phone": "07312 253557",
    "checked_at": "2026-10-16T02:25:07Z"
+  },
+  {
+   "name": "Crown Roleplay",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Riverside, London SE1 7PB",
+   "website": "https://discord.gg/TxStz3StB9",
+   "checked_at": "2026-10-16T02:12:58Z"
+  },
+  {
+   "name": "Daily Essentials East London Ltd",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "297 Bethnal Grn Rd, London E2 6AH",
+   "phone": "020 7749 0772",
+   "checked_at": "2026-10-20T21:03:36Z"
+  },
+  {
+   "name": "Dalston stationers & Hardware",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "102-104 Kingsland High St, London E8 2NS",
+   "phone": "020 7249 1144",
+   "checked_at": "2026-10-20T21:03:32Z"
   },
   {
    "name": "Dead Universe Comics",
@@ -2440,6 +3073,15 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "Diplock's",
+   "group": "in_store",
+   "city": "Bromley",
+   "region": "England",
+   "address": "47-49 Chatterton Rd, Bromley BR2 9QQ",
+   "phone": "020 8464 1809",
+   "checked_at": "2026-10-20T21:06:59Z"
+  },
+  {
    "name": "DISCOUNT CARDS",
    "group": "in_store",
    "city": "Belfast",
@@ -2492,6 +3134,33 @@
    "checked_at": "2026-10-16T02:20:41Z"
   },
   {
+   "name": "Ealing Farmers Market",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "The Avenue, London W13 8PH",
+   "phone": "020 7833 0338",
+   "checked_at": "2026-10-20T21:06:20Z"
+  },
+  {
+   "name": "Eclectica (Clapham)",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "803 Wandsworth Rd, London SW8 3JH",
+   "phone": "07940 555674",
+   "checked_at": "2026-10-20T21:04:33Z"
+  },
+  {
+   "name": "Eclipxed Cards",
+   "group": "in_store",
+   "city": "Watford",
+   "region": "England",
+   "address": "70 Liverpool Rd, Watford WD18 0DN",
+   "phone": "07789 772176",
+   "checked_at": "2026-10-20T21:05:33Z"
+  },
+  {
    "name": "Elite ArenaCards",
    "group": "in_store",
    "city": "Manchester",
@@ -2513,6 +3182,14 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Endeavour House",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Shaftesbury Ave, WC2 WC2H 8JR",
+   "checked_at": "2026-10-20T21:03:57Z"
+  },
+  {
    "name": "Entoyment: The Card Room",
    "group": "in_store",
    "city": "Poole",
@@ -2531,6 +3208,14 @@
    "region": "England",
    "address": "59 Annesley Rd, Hucknall, Nottingham NG15 7AD",
    "checked_at": "2026-10-16T02:27:13Z"
+  },
+  {
+   "name": "Euros",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "96 S Ealing Rd, London W5 4QJ",
+   "checked_at": "2026-10-20T21:06:21Z"
   },
   {
    "name": "Evolution Games",
@@ -2578,6 +3263,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:49Z"
+  },
+  {
+   "name": "FinchleyTrading",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "78 Oakleigh Road North, London N20 9EZ, UK, Oakleigh Road North N20 9EZ",
+   "phone": "020 8445 9899",
+   "checked_at": "2026-10-20T21:05:33Z"
   },
   {
    "name": "Firestorm Games - Bridgend",
@@ -2652,9 +3346,46 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "game and fun with A&Z",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "31, RUTHERFORD HOUSE, London E1 5PS",
+   "phone": "07305 169154",
+   "checked_at": "2026-10-20T21:04:49Z"
+  },
+  {
+   "name": "game centr",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "9 Bedford Ct, London WC2E 9LU",
+   "checked_at": "2026-10-20T21:04:03Z"
+  },
+  {
+   "name": "Game Galaxy",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "244 Streatham High Rd, London SW16 1BB",
+   "phone": "020 8677 7007",
+   "checked_at": "2026-10-20T21:04:33Z"
+  },
+  {
+   "name": "Game Gallery",
+   "group": "in_store",
+   "city": "Harrow",
+   "region": "England",
+   "address": "276 Station Rd, Harrow HA1 2EA",
+   "phone": "020 8426 0070",
+   "website": "http://www.facebook.com/GameGalleryHarrow",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Game On",
    "group": "in_store",
    "city": "Stockton-On-Tees",
+   "region": "England",
    "address": "99 High St, Stockton-On-Tees, NE, TS18 1BD, United Kingdom",
    "phone": "+44(0)1642 808 156",
    "website": "https://www.facebook.com/gameonretro/",
@@ -2691,6 +3422,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:09Z"
+  },
+  {
+   "name": "Games 4 U",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "370 Mare St, London E8 1HR",
+   "phone": "020 8985 6444",
+   "checked_at": "2026-10-20T21:03:32Z"
   },
   {
    "name": "Games Hub Edinburgh",
@@ -2749,6 +3489,15 @@
    "checked_at": "2026-10-16T02:20:43Z"
   },
   {
+   "name": "Gametoy",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "49 Oldhill St, London N16 6LU",
+   "phone": "020 8802 3389",
+   "checked_at": "2026-10-20T21:03:51Z"
+  },
+  {
    "name": "GameVOr",
    "group": "in_store",
    "city": "Birmingham",
@@ -2804,6 +3553,14 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:49Z"
+  },
+  {
+   "name": "Geek Bureau",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "674 High Rd. Leyton, London E10 6JP",
+   "checked_at": "2026-10-20T21:04:44Z"
   },
   {
    "name": "Geek Retreat - Addlestone",
@@ -2956,6 +3713,15 @@
    "checked_at": "2026-10-16T02:15:19Z"
   },
   {
+   "name": "Geeky Exchange",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "243 Walworth Rd, London SE17 1RL",
+   "phone": "020 7703 3983",
+   "checked_at": "2026-10-20T21:04:27Z"
+  },
+  {
    "name": "Gemini Games",
    "group": "in_store",
    "city": "Huddersfield",
@@ -2968,6 +3734,22 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Ghost Corp.",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "4, Southern Row, London W10 5AE",
+   "checked_at": "2026-10-20T21:04:00Z"
+  },
+  {
+   "name": "Gifts ‘n’ Glitter Romford",
+   "group": "in_store",
+   "city": "Romford",
+   "region": "England",
+   "address": "7 Quadrant Arcade, Romford RM1 3ED",
+   "checked_at": "2026-10-20T21:07:10Z"
   },
   {
    "name": "gold bobo",
@@ -3000,6 +3782,25 @@
    "checked_at": "2026-10-16T02:21:09Z"
   },
   {
+   "name": "Graded cards ltd",
+   "group": "in_store",
+   "city": "Weir",
+   "region": "England",
+   "address": "43 London Rd, Weir, South Benfleet, Benfleet SS7 2QL",
+   "phone": "020 3432 2206",
+   "checked_at": "2026-10-20T21:05:38Z"
+  },
+  {
+   "name": "Greenwich Book Time",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "277 Greenwich High Rd, London SE10 8NB",
+   "phone": "020 8293 0096",
+   "website": "https://www.facebook.com/greenwichbookt/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Griffin Gaming",
    "group": "in_store",
    "city": "St Albans",
@@ -3011,6 +3812,14 @@
    "checked_at": "2026-10-16T02:20:43Z"
   },
   {
+   "name": "Harrow Town Centre",
+   "group": "in_store",
+   "city": "Harrow",
+   "region": "England",
+   "address": "St George’s Shopping Centre, St. Anns Rd, BID, Harrow HA1 1HS",
+   "checked_at": "2026-10-20T21:07:49Z"
+  },
+  {
    "name": "Harvey's Cards Souvenirs & Gifts",
    "group": "in_store",
    "city": "Norwich",
@@ -3018,6 +3827,15 @@
    "address": "142, 143 Market Pl, Gentleman's Walk, Norwich NR2 1ND",
    "phone": "07880 541146",
    "checked_at": "2026-10-16T02:29:00Z"
+  },
+  {
+   "name": "Haven News",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "47 Haven Grn, London W5 2NX",
+   "phone": "020 8810 8700",
+   "checked_at": "2026-10-20T21:06:22Z"
   },
   {
    "name": "Heritage Playing Card Company",
@@ -3070,6 +3888,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Hunters News-n21",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "HUNTERS, 2 The Grn, London N21 1AY",
+   "phone": "020 8886 0549",
+   "checked_at": "2026-10-20T21:07:24Z"
+  },
+  {
    "name": "Huz Gaming",
    "group": "in_store",
    "city": "Leicestershire",
@@ -3082,6 +3909,14 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Iceman",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Samson Travel, 31 Lower Clapton Rd, Greater, Lower Clapton, London E5 0NS",
+   "checked_at": "2026-10-20T21:03:33Z"
   },
   {
    "name": "Ignite Record store",
@@ -3103,6 +3938,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:07Z"
+  },
+  {
+   "name": "Inky Blinders - Collectables & Tattoos",
+   "group": "in_store",
+   "city": "Kenley",
+   "region": "England",
+   "address": "12 Godstone Rd, Kenley CR8 5JE",
+   "phone": "020 8668 2741",
+   "checked_at": "2026-10-20T21:05:51Z"
   },
   {
    "name": "IronForged Games",
@@ -3127,6 +3971,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Jackpot Raider London",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "27A Danbury St, London N1 8LE",
+   "phone": "07365 909150",
+   "checked_at": "2026-10-20T21:03:57Z"
   },
   {
    "name": "JCN",
@@ -3189,6 +4042,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Lace-Central Ltd",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "71-75 Shelton St, London WC2H 9JQ",
+   "phone": "07359 765016",
+   "checked_at": "2026-10-20T21:04:02Z"
+  },
+  {
    "name": "Lads n Dads TCG",
    "group": "in_store",
    "city": "Pudsey",
@@ -3237,6 +4099,24 @@
    "address": "16 The Royal Arcade, Norwich NR2 1NQ",
    "phone": "01603 621959",
    "checked_at": "2026-10-16T02:29:11Z"
+  },
+  {
+   "name": "LAST WAR",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "22 Bishopsgate, London EC2N 4BQ",
+   "phone": "07436 475495",
+   "checked_at": "2026-10-20T21:04:44Z"
+  },
+  {
+   "name": "Latestchoice.com Ltd",
+   "group": "in_store",
+   "city": "Ilford",
+   "region": "England",
+   "address": "16 Woodford Ave, Redbridge, Ilford IG2 6UF",
+   "phone": "020 8551 9877",
+   "checked_at": "2026-10-20T21:07:18Z"
   },
   {
    "name": "Lazy Dragon Gaming",
@@ -3316,6 +4196,15 @@
    "checked_at": "2026-10-16T02:24:26Z"
   },
   {
+   "name": "Lewisham Open Market",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Lewisham High St, London SE3",
+   "phone": "020 8314 2050",
+   "checked_at": "2026-10-20T21:06:51Z"
+  },
+  {
    "name": "Leyline Cafe",
    "group": "in_store",
    "city": "Dundee",
@@ -3352,6 +4241,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "London Traders",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "67 Watney St, London E1 2PJ",
+   "phone": "020 7791 5841",
+   "checked_at": "2026-10-20T21:04:38Z"
   },
   {
    "name": "Loot Drop",
@@ -3402,6 +4300,14 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Mad-4-Toys",
+   "group": "in_store",
+   "city": "Wembley",
+   "region": "England",
+   "address": "265 Abbeydale Rd, Wembley HA0 1TW",
+   "checked_at": "2026-10-20T21:05:33Z"
+  },
+  {
    "name": "Magikard",
    "group": "in_store",
    "city": "Walsall",
@@ -3428,6 +4334,15 @@
    "region": "England",
    "address": "1252 Sir Matt Busby Way, Old Trafford, Stretford, Manchester M16 0RA",
    "checked_at": "2026-10-16T02:24:43Z"
+  },
+  {
+   "name": "Manga Maze and Metal Music",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "The Stables Market, UNIT 58 SADDLE ROW, Chalk Farm Rd, Chalk Farm, London NW1 8AH",
+   "phone": "07905 672692",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "Marquee Models",
@@ -3465,6 +4380,25 @@
    "region": "England",
    "address": "51 Westerleigh Rd, Bristol BS16 6UU",
    "website": "https://instagram.com/mh94cards",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Midnight Gaming Club",
+   "group": "in_store",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Brown’s Garden Village, Theobalds Park Rd, Crews Hill, Enfield EN2 9DG",
+   "phone": "07964 041958",
+   "checked_at": "2026-10-20T21:07:24Z"
+  },
+  {
+   "name": "Mighty Meeples",
+   "group": "in_store",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit 6a Waterloo Rd, Romford RM1 1AU",
+   "phone": "07496 585625",
+   "website": "https://www.instagram.com/mightymeeples/",
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
@@ -3583,6 +4517,16 @@
    "checked_at": "2026-10-16T02:20:00Z"
   },
   {
+   "name": "Newsstand Comics",
+   "group": "in_store",
+   "city": "Dartford",
+   "region": "England",
+   "address": "Unit 44 Priory Centre, Dartford DA1 2HS",
+   "phone": "07969 124363",
+   "website": "http://facebook.com/newsstandcomics",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "NK Collectibles",
    "group": "in_store",
    "city": "Edinburgh",
@@ -3605,6 +4549,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:09Z"
+  },
+  {
+   "name": "nxps gaming",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Grange Park, London W5 3PR",
+   "phone": "07440 567763",
+   "checked_at": "2026-10-20T21:06:22Z"
   },
   {
    "name": "OCIO",
@@ -3668,6 +4621,15 @@
    "checked_at": "2026-10-16T02:21:53Z"
   },
   {
+   "name": "Paper Art",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "173 Finchley Rd, South Hampstead, London NW3 6LB",
+   "phone": "020 7328 3993",
+   "checked_at": "2026-10-20T21:05:35Z"
+  },
+  {
    "name": "Parallel Universe",
    "group": "in_store",
    "city": "Nottingham",
@@ -3689,6 +4651,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Path2Greatness",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Montfichet Rd, London E20 1EJ",
+   "phone": "07311 273323",
+   "checked_at": "2026-10-20T21:04:44Z"
+  },
+  {
    "name": "Penistone Tabletop Gaming",
    "group": "in_store",
    "city": "South Yorkshire",
@@ -3701,6 +4672,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Peron’s Elite Poke Collectibles",
+   "group": "in_store",
+   "city": "Thornton Heath",
+   "region": "England",
+   "address": "001 Leander Rd, Thornton Heath CR7 6JE",
+   "website": "https://discord.gg/7KvxSpQcJ",
+   "checked_at": "2026-10-16T02:12:58Z"
+  },
+  {
    "name": "Pillar Box Cards",
    "group": "in_store",
    "city": "Allerton",
@@ -3708,6 +4688,25 @@
    "address": "Post Office, 95 Allerton Rd, Allerton Dr, Mossley Hill, Allerton, Liverpool L18 2DE",
    "phone": "0151 280 1461",
    "checked_at": "2026-10-16T02:25:37Z"
+  },
+  {
+   "name": "Piranha Comics",
+   "group": "in_store",
+   "city": "Bromley",
+   "region": "England",
+   "address": "246 High St, Bromley BR1 1PQ",
+   "phone": "020 8460 8486",
+   "checked_at": "2026-10-20T21:05:56Z"
+  },
+  {
+   "name": "Piranha Comics",
+   "group": "in_store",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "12-13 Apple Market, Kingston upon Thames KT1 1JE",
+   "phone": "020 3659 0889",
+   "website": "https://www.facebook.com/piranha.comic.shop?locale=en_GB",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Piranha Comics - Kingston",
@@ -3725,6 +4724,7 @@
    "name": "Playnation Games",
    "group": "in_store",
    "city": "Croydon",
+   "region": "England",
    "address": "The Mall, 2-28 North End, Croydon, CR, CR0 1UB, United Kingdom",
    "phone": "+44(0) 2087 600 749",
    "website": "https://www.facebook.com/playnationgames/",
@@ -3732,6 +4732,23 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Playtra Games",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Suite 304, China Works, 100 Black Prince Rd, London SE1 7SJ",
+   "checked_at": "2026-10-20T21:04:02Z"
+  },
+  {
+   "name": "PlayTronix",
+   "group": "in_store",
+   "city": "Romford",
+   "region": "England",
+   "address": "18a, 18b quadrant arcade, Romford RM1 3ED",
+   "phone": "0800 240 4702",
+   "checked_at": "2026-10-20T21:07:10Z"
   },
   {
    "name": "Pocket Trainers and Troopers",
@@ -3759,6 +4776,14 @@
    "phone": "07719 539979",
    "website": "https://instagram.com/hellopokecards",
    "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Pokedinx",
+   "group": "in_store",
+   "city": "Carshalton",
+   "region": "England",
+   "address": "13 Woburn Rd, Carshalton SM5 1RT",
+   "checked_at": "2026-10-20T21:05:52Z"
   },
   {
    "name": "Pokemon center",
@@ -3805,6 +4830,15 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "PREET GIFTS & TOYS CENTRE",
+   "group": "in_store",
+   "city": "Ilford",
+   "region": "England",
+   "address": "819 High Rd, Ilford IG3 8TD",
+   "phone": "020 8306 9349",
+   "checked_at": "2026-10-20T21:07:13Z"
+  },
+  {
    "name": "Press 2 Play",
    "group": "in_store",
    "city": "Sleaford",
@@ -3832,6 +4866,14 @@
    "region": "England",
    "address": "29-31 Regent St., London SW1Y 4NQ",
    "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "Rabbit Comic LTD",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "128 City Rd, London EC1V 2NX",
+   "checked_at": "2026-10-20T21:04:49Z"
   },
   {
    "name": "Rare Find Cards and Games",
@@ -3972,6 +5014,15 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "Ridshi TCG",
+   "group": "in_store",
+   "city": "Sutton",
+   "region": "England",
+   "address": "28 Upland Rd, Sutton SM2 5JE",
+   "phone": "07377 538130",
+   "checked_at": "2026-10-20T21:05:51Z"
+  },
+  {
    "name": "Rippin Pax",
    "group": "in_store",
    "city": "Clydebank",
@@ -4022,6 +5073,16 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Rock 'n' Roll Soldiers",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Unit D34 Horse Tunnel Market Stables Market, London NW1 8AH",
+   "phone": "07757 313754",
+   "website": "http://www.facebook.com/RocknRoll-Soldiers-1412496372344396/?ref=settings",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Roll It",
    "group": "in_store",
    "city": "Scarborough",
@@ -4054,6 +5115,42 @@
    "address": "1 London Wall, Barbican, London EC2Y 5BL",
    "phone": "07949 482204",
    "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "RustRecoilMacros",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Victoria St, London SW1A 1AA",
+   "phone": "07858 140451",
+   "checked_at": "2026-10-20T21:03:57Z"
+  },
+  {
+   "name": "S.A.S.B Events",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Matlock Rd, London E10 6BX",
+   "phone": "07940 939214",
+   "website": "https://www.facebook.com/supportsmallevents/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Saariyas Be The Man",
+   "group": "in_store",
+   "city": "Wembley",
+   "region": "England",
+   "address": "20 First Way, Wembley HA9 0PE",
+   "phone": "07393 705973",
+   "checked_at": "2026-10-20T21:05:33Z"
+  },
+  {
+   "name": "Sale of board games.",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "100 Mitcham Rd, London SW17 9NG",
+   "checked_at": "2026-10-20T21:04:27Z"
   },
   {
    "name": "Sankyu 39",
@@ -4106,6 +5203,15 @@
    "address": "Flat 2, 23 Rathen Rd, Manchester M20 4QJ",
    "phone": "0161 718 4567",
    "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Service Store",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Service Store, 284 Brixton Hill, London SW2 1HT",
+   "phone": "020 8671 3626",
+   "checked_at": "2026-10-20T21:08:29Z"
   },
   {
    "name": "Set",
@@ -4210,6 +5316,15 @@
    "checked_at": "2026-10-16T02:17:26Z"
   },
   {
+   "name": "Spellbound Emporium",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "102 Southampton Row, London WC1B 4BL",
+   "phone": "020 3565 8574",
+   "checked_at": "2026-10-20T21:04:35Z"
+  },
+  {
    "name": "Spike's Hideout",
    "group": "in_store",
    "city": "Scarborough",
@@ -4220,6 +5335,23 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Spino Gambino Global",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "134 S Lambeth Rd, London SW8 1RB",
+   "phone": "07412 307459",
+   "checked_at": "2026-10-20T21:04:35Z"
+  },
+  {
+   "name": "SportFormula",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "139 Hertford Rd, London N1 4LR",
+   "checked_at": "2026-10-20T21:03:50Z"
   },
   {
    "name": "Stacked 'N' Packed - Trading Cards & Collectables",
@@ -4280,6 +5412,15 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "Superchoice News",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "56 Fulham Palace Rd, London W6 9PH",
+   "phone": "020 8748 6380",
+   "checked_at": "2026-10-20T21:06:30Z"
+  },
+  {
    "name": "Surprise Encounter Ltd",
    "group": "in_store",
    "city": "Coventry",
@@ -4333,6 +5474,14 @@
    "checked_at": "2026-10-16T02:26:05Z"
   },
   {
+   "name": "TCG Hamster",
+   "group": "in_store",
+   "city": "Coulsdon",
+   "region": "England",
+   "address": "Twinners Rd, Coulsdon CR5 3LS",
+   "checked_at": "2026-10-20T21:05:51Z"
+  },
+  {
    "name": "Tcg Pokémon",
    "group": "in_store",
    "city": "Leicester",
@@ -4349,6 +5498,14 @@
    "region": "England",
    "address": "Lisson Grove, Hale, Altrincham WA15 9AE",
    "checked_at": "2026-10-16T02:24:45Z"
+  },
+  {
+   "name": "TCG State",
+   "group": "in_store",
+   "city": "Ilford",
+   "region": "England",
+   "address": "Flat 49, Hale Point, 45 Ilford Hill, Ilford IG1 2ZL",
+   "checked_at": "2026-10-20T21:07:11Z"
   },
   {
    "name": "TCG STORE",
@@ -4489,6 +5646,16 @@
    "address": "111 Salhouse Rd, Norwich NR7 9AN",
    "phone": "01603 531803",
    "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "The Card Stall Chapel Market",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Outside, 46 Chapel Market, London N1 9EW",
+   "phone": "07832 327324",
+   "website": "https://www.instagram.com/thecardstallchapelmarket",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "The Collectibles Hangar",
@@ -4686,6 +5853,14 @@
    "checked_at": "2026-10-16T02:25:10Z"
   },
   {
+   "name": "The Quadrant",
+   "group": "in_store",
+   "city": "Romford",
+   "region": "England",
+   "address": "Quadrant Arcade, Romford RM1 1NJ",
+   "checked_at": "2026-10-20T21:07:05Z"
+  },
+  {
    "name": "The red dragon",
    "group": "in_store",
    "city": "Liverpool",
@@ -4752,6 +5927,15 @@
    "checked_at": "2026-10-16T02:15:24Z"
   },
   {
+   "name": "TheCollectorCorner",
+   "group": "in_store",
+   "city": "Ilford",
+   "region": "England",
+   "address": "51 Meads Ln, Ilford IG3 8QL",
+   "phone": "07903 503976",
+   "checked_at": "2026-10-20T21:06:20Z"
+  },
+  {
    "name": "Tigeroo Toys",
    "group": "in_store",
    "city": "Belfast City",
@@ -4765,6 +5949,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Tokens and Treats",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "unit A1, Wood Street Indoor Market, 98 Wood St, London E17 3HX",
+   "phone": "07951 103425",
+   "checked_at": "2026-10-20T21:08:13Z"
+  },
+  {
    "name": "Toxel Tcg",
    "group": "in_store",
    "city": "Wallasey",
@@ -4773,6 +5966,15 @@
    "phone": "07450 938944",
    "website": "https://www.instagram.com/toxel_tcg?igsh=MWNxbGFnc2dpMTg=",
    "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Toys Gifts",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "45 Lambert Walk, London, Wembley HA9 7TR",
+   "phone": "07590 413397",
+   "checked_at": "2026-10-20T21:05:33Z"
   },
   {
    "name": "Trade & Play Wirral",
@@ -4822,6 +6024,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Trading Cards UK",
+   "group": "in_store",
+   "city": "Stevenage",
+   "region": "England",
+   "address": "Flat 49, Mulberry House, Stevenage SG1 1BF",
+   "phone": "07415 774111",
+   "checked_at": "2026-10-20T21:05:25Z"
+  },
+  {
    "name": "Tridentcards Limited",
    "group": "in_store",
    "city": "Bulwell",
@@ -4853,6 +6064,16 @@
    "address": "12 Town Square, Syston, Leicester LE7 1GZ",
    "phone": "07908 601996",
    "checked_at": "2026-10-16T02:27:17Z"
+  },
+  {
+   "name": "ukarmygood",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Gleneagle Rd, London SW16 6AY",
+   "phone": "07377 703903",
+   "website": "https://www.facebook.com/gaming/snowrunner",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Unit 7",
@@ -4929,6 +6150,15 @@
    "checked_at": "2026-10-16T02:20:41Z"
   },
   {
+   "name": "WAAA",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "Katherine Rd, London E6 1PB",
+   "phone": "07551 493053",
+   "checked_at": "2026-10-20T21:03:26Z"
+  },
+  {
    "name": "Walsh Collectables",
    "group": "in_store",
    "city": "Cardiff",
@@ -4961,6 +6191,15 @@
    "checked_at": "2026-10-16T02:21:53Z"
   },
   {
+   "name": "Wishes Galore",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "92 East St, London SE17 2DQ",
+   "phone": "020 7018 4384",
+   "checked_at": "2026-10-20T21:04:05Z"
+  },
+  {
    "name": "WNW Wargaming",
    "group": "in_store",
    "city": "Dudley",
@@ -4971,6 +6210,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:19:47Z"
+  },
+  {
+   "name": "WONKEY DICE LIMITED",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "10 Boyd St, London E1 1LY",
+   "phone": "07459 703163",
+   "checked_at": "2026-10-20T21:04:44Z"
   },
   {
    "name": "Worcester War Games",
@@ -4985,6 +6233,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Ya En (Jolin) Lee",
+   "group": "in_store",
+   "city": "London",
+   "region": "England",
+   "address": "2nd Floor, Tea Auction House, Hay’s Galleria, Tooley St, London SE1 2HA",
+   "phone": "07393 115013",
+   "checked_at": "2026-10-20T21:04:38Z"
+  },
+  {
    "name": "Yellow Coloured Cafe",
    "group": "in_store",
    "city": "Fife",
@@ -4997,6 +6254,17 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "BaseO Stratford",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "82, Service Route No 2, London E15 1XQ",
+   "phone": "020 8534 4120",
+   "website": "https://baseo.co.uk/",
+   "buylist_url": "https://baseo.co.uk/sell",
+   "checked_at": "2026-10-20T21:05:22Z"
+  },
+  {
    "name": "Be More Geek",
    "group": "not_buying_singles",
    "city": "Metrocentre",
@@ -5006,6 +6274,16 @@
    "website": "https://www.bemoregeek.co.uk/",
    "mail_in": true,
    "checked_at": "2026-10-16T02:26:19Z"
+  },
+  {
+   "name": "Billingsgate Market",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "Trafalgar Wy., London E14 5ST",
+   "phone": "020 7987 1118",
+   "website": "https://www.cityoflondon.gov.uk/supporting-businesses/wholesale-markets/billingsgate-market",
+   "checked_at": "2026-10-20T21:04:42Z"
   },
   {
    "name": "Cambridgeshire Coins",
@@ -5023,6 +6301,17 @@
    "city": "London",
    "region": "England",
    "address": "175 Wardour St, London W1F 8WU",
+   "phone": "020 7247 0739",
+   "website": "https://www.cardsgalore.co.uk/",
+   "checked_at": "2026-10-16T02:23:27Z"
+  },
+  {
+   "name": "Cards Galore",
+   "group": "not_buying_singles",
+   "city": "Richmond",
+   "region": "England",
+   "address": "Adjacent to Station, Kew Rd, Richmond TW9 2NA",
+   "phone": "020 8948 1384",
    "website": "https://www.cardsgalore.co.uk/",
    "checked_at": "2026-10-16T02:23:27Z"
   },
@@ -5036,6 +6325,38 @@
    "website": "https://cashgenerator.co.uk/pages/edinburgh",
    "buylist_url": "https://cashgenerator.co.uk/pages/sell",
    "checked_at": "2026-10-16T02:25:25Z"
+  },
+  {
+   "name": "Creature Company UK",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "54 The Broadway, London SW19 1RQ",
+   "phone": "020 8296 0600",
+   "website": "https://creaturecompany.company.site/Home",
+   "checked_at": "2026-10-20T21:08:46Z"
+  },
+  {
+   "name": "Gadcet Romford (Gadget Store)",
+   "group": "not_buying_singles",
+   "city": "Romford",
+   "region": "England",
+   "address": "61-63 South St, Romford RM1 1NL",
+   "phone": "01708 922786",
+   "website": "https://www.gadcet.com/",
+   "buylist_url": "https://www.gadcet.com/pages/sell_to_us",
+   "checked_at": "2026-10-20T21:07:01Z"
+  },
+  {
+   "name": "Gadcet Stratford (Gadget Store)",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 78 The Mall, Stratford Shopping Centre, London E15 1XQ",
+   "phone": "020 8555 2258",
+   "website": "https://www.gadcet.com/",
+   "buylist_url": "https://www.gadcet.com/pages/sell_to_us",
+   "checked_at": "2026-10-20T21:05:21Z"
   },
   {
    "name": "Game Smart",
@@ -5081,6 +6402,49 @@
    "checked_at": "2026-10-16T02:29:05Z"
   },
   {
+   "name": "International Magic Shop",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "89 Clerkenwell Rd, London EC1R 5BX",
+   "phone": "020 7405 7324",
+   "website": "https://www.internationalmagic.com/",
+   "buylist_url": "https://www.internationalmagic.com/users/login",
+   "checked_at": "2026-10-20T21:04:27Z"
+  },
+  {
+   "name": "Krypton Comics & Books",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "94 Blackhorse La, London E17 6AA",
+   "phone": "020 8527 7558",
+   "website": "https://www.kryptoncomicsonline.com/",
+   "buylist_url": "https://www.kryptoncomicsonline.com/krypton_buy.php",
+   "checked_at": "2026-10-20T21:03:50Z"
+  },
+  {
+   "name": "Lake Card Store",
+   "group": "not_buying_singles",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Lake Card Store The, Wenta Business Centre, Enfield EN3 7XU",
+   "website": "https://www.lakecardstore.com/",
+   "mail_in": true,
+   "checked_at": "2026-10-20T21:03:55Z"
+  },
+  {
+   "name": "Levi's® London Wembley Outlet",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "unit 76 Wembley Park Blvd, London HA9 0QL",
+   "phone": "020 8903 8884",
+   "website": "https://locations.levi.com/en-gb/gb-lnd/london/denim_london_gb-lnd_4463.html",
+   "buylist_url": "https://locations.levi.com/en-us/",
+   "checked_at": "2026-10-20T21:05:38Z"
+  },
+  {
    "name": "Loaded Dice",
    "group": "not_buying_singles",
    "city": "Barry",
@@ -5117,6 +6481,16 @@
    "checked_at": "2026-10-16T02:18:47Z"
   },
   {
+   "name": "Minko's Macs Lewisham",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "8 Manor Park, Lee High Rd, London SE13 5PB",
+   "phone": "020 8852 1961",
+   "website": "https://minkosmacs.com/lewisham?utm_source=google&utm_medium=organic&utm_campaign=gbp_lewisham",
+   "checked_at": "2026-10-20T21:06:51Z"
+  },
+  {
    "name": "Mintro Manchester | Buy, Sell & Buyback Store",
    "group": "not_buying_singles",
    "city": "Manchester",
@@ -5148,6 +6522,17 @@
    "website": "http://mfeshops.com/",
    "buylist_url": "http://mfeshops.com/sell_to_us.html",
    "checked_at": "2026-10-16T02:23:47Z"
+  },
+  {
+   "name": "Old Spitalfields Market",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "16 Horner Square, London E1 6EW",
+   "phone": "020 7375 2963",
+   "website": "https://oldspitalfieldsmarket.com/",
+   "buylist_url": "https://oldspitalfieldsmarket.com/retailer/buylist",
+   "checked_at": "2026-10-20T21:04:50Z"
   },
   {
    "name": "One World Shop",
@@ -5190,6 +6575,17 @@
    "phone": "0114 255 1436",
    "website": "https://railsofsheffield.com/",
    "checked_at": "2026-10-16T02:26:09Z"
+  },
+  {
+   "name": "Rare Books and Curios",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "8 Greenwich Market, London SE10 9HZ",
+   "phone": "020 3632 7326",
+   "website": "https://www.rarebooksandcurios.co.uk/",
+   "buylist_url": "https://www.rarebooksandcurios.co.uk/page/sell-to-us",
+   "checked_at": "2026-10-20T21:04:49Z"
   },
   {
    "name": "Raygun",
@@ -5235,6 +6631,28 @@
    "checked_at": "2026-10-16T02:25:37Z"
   },
   {
+   "name": "Smart Cellular UK",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "1 Dock Rd., London E16 1AG",
+   "phone": "020 3935 8546",
+   "website": "https://www.smartcellular.co.uk/",
+   "buylist_url": "https://www.smartcellular.co.uk/catalogsearch/result/?q=retailer+buylist&amnoroute",
+   "checked_at": "2026-10-20T21:04:38Z"
+  },
+  {
+   "name": "The Collector store Delivery",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "148 James's Rd, London SE1 5BW",
+   "phone": "07882 771959",
+   "website": "https://t.me/+cmAltjvh9nM2NzQx",
+   "buylist_url": "https://t.me/retailer/buylist",
+   "checked_at": "2026-10-16T02:23:05Z"
+  },
+  {
    "name": "The Game Room",
    "group": "not_buying_singles",
    "city": "West Sussex",
@@ -5268,6 +6686,16 @@
    "checked_at": "2026-10-16T02:27:39Z"
   },
   {
+   "name": "TheirPerfectGift",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "39 Ludgate Hill, London EC4M 7JN",
+   "phone": "0330 332 0579",
+   "website": "http://theirperfectgift.co.uk/",
+   "checked_at": "2026-10-20T21:04:28Z"
+  },
+  {
    "name": "Thirsty Meeples",
    "group": "not_buying_singles",
    "city": "Oxford",
@@ -5288,6 +6716,26 @@
    "buylist_url": "https://titancards.co.uk/pages/sell-pokemon-cards-uk",
    "mail_in": true,
    "checked_at": "2026-10-16T02:23:56Z"
+  },
+  {
+   "name": "Trade-In Bromley",
+   "group": "not_buying_singles",
+   "city": "Bromley",
+   "region": "England",
+   "address": "642A Downham Way, Bromley BR1 5HN",
+   "phone": "020 8851 8619",
+   "website": "https://www.tradeinbromley.com/",
+   "checked_at": "2026-10-20T21:05:54Z"
+  },
+  {
+   "name": "Vodafone",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 4, Wimbledon, Booking Hall, Wimbledon Bridge, London SW19 7NL",
+   "phone": "020 8947 4879",
+   "website": "https://www.cardsgalore.co.uk/",
+   "checked_at": "2026-10-16T02:23:27Z"
   },
   {
    "name": "Waroffice Game Supplies",
@@ -5315,6 +6763,17 @@
    "checked_at": "2026-10-16T02:24:54Z"
   },
   {
+   "name": "Wex Photo Video London Putney",
+   "group": "not_buying_singles",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 2, 131-133 Upper Richmond Rd, London SW15 2TR",
+   "phone": "020 7582 9050",
+   "website": "https://www.wexphotovideo.com/about-us/store-finder/nottingham/",
+   "buylist_url": "https://www.wexphotovideo.com/trade-in/in-store/",
+   "checked_at": "2026-10-16T02:27:11Z"
+  },
+  {
    "name": "Wex Photo Video Nottingham",
    "group": "not_buying_singles",
    "city": "Nottingham",
@@ -5324,6 +6783,16 @@
    "website": "https://www.wexphotovideo.com/about-us/store-finder/nottingham/",
    "buylist_url": "https://www.wexphotovideo.com/trade-in/in-store/",
    "checked_at": "2026-10-16T02:27:11Z"
+  },
+  {
+   "name": "17&Central",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "42 Selborne Rd, London E17 7JR",
+   "phone": "020 8509 0018",
+   "website": "https://www.17andcentral.co.uk/",
+   "checked_at": "2026-10-20T21:08:13Z"
   },
   {
    "name": "4th Planet Games",
@@ -5372,6 +6841,15 @@
    "phone": "01942 897999",
    "website": "https://9realms.co.uk/",
    "checked_at": "2026-10-16T02:24:45Z"
+  },
+  {
+   "name": "98 Types Studio Camden",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Market Hall, Camden Lock Pl, Chalk Farm Rd, London NW1 8AL",
+   "website": "https://98types.co.uk/",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "A Place in Space",
@@ -5464,6 +6942,16 @@
    "checked_at": "2026-10-16T02:16:04Z"
   },
   {
+   "name": "AFC Wimbledon Club Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Plough Lane Stadium, Plough Ln, London SW17 0NR",
+   "phone": "020 8974 5713",
+   "website": "https://shopping.afcwimbledon.co.uk/",
+   "checked_at": "2026-10-20T21:08:41Z"
+  },
+  {
    "name": "Afflecks",
    "group": "unknown",
    "city": "Manchester",
@@ -5486,6 +6974,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:31Z"
+  },
+  {
+   "name": "After Noah",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "121-122 Upper St, London N1 1QP",
+   "phone": "020 7359 4281",
+   "website": "http://afternoah.com/",
+   "checked_at": "2026-10-20T21:03:55Z"
   },
   {
    "name": "AJ Toys & Books",
@@ -5555,6 +7053,16 @@
    "checked_at": "2026-10-16T02:17:58Z"
   },
   {
+   "name": "Amazing Matchbox",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "88 Thorpewood Ave, London SE26 4BY",
+   "phone": "07950 700728",
+   "website": "https://www.ebay.co.uk/str/amazingmatchbox",
+   "checked_at": "2026-10-20T21:06:49Z"
+  },
+  {
    "name": "Ancient Robot Games",
    "group": "unknown",
    "city": "Midlothian",
@@ -5620,6 +7128,16 @@
    "address": "10 Roman Forum, Metrocentre, Gateshead NE11 9XR",
    "website": "https://www.aquatcg.co.uk/",
    "checked_at": "2026-10-16T02:26:18Z"
+  },
+  {
+   "name": "Aquatic Design Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "26 Zennor Rd, London SW12 0PS",
+   "phone": "020 7580 6764",
+   "website": "https://www.aquaticdesign.co.uk/",
+   "checked_at": "2026-10-20T21:08:56Z"
   },
   {
    "name": "Archeron Books and Games",
@@ -5718,6 +7236,16 @@
    "checked_at": "2026-10-16T02:16:21Z"
   },
   {
+   "name": "Aylward's Of Crews Hill Ltd",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Culver Nurseries, Cattlegate Rd, Enfield EN2 9DS",
+   "phone": "020 8367 2794",
+   "website": "https://www.aylwardsofcrewshill.co.uk/",
+   "checked_at": "2026-10-20T21:07:32Z"
+  },
+  {
    "name": "Azgard Collectibles",
    "group": "unknown",
    "city": "Cheetham Hill",
@@ -5729,6 +7257,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:24Z"
+  },
+  {
+   "name": "Back Online",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "16 Wells Terrace, Finsbury Park, London N4 3JU",
+   "phone": "07766 617777",
+   "website": "https://backonline.co.uk/",
+   "checked_at": "2026-10-20T21:09:03Z"
   },
   {
    "name": "Bad Moon Cafe",
@@ -5773,6 +7311,7 @@
    "name": "Badger Badger - Deptford",
    "group": "unknown",
    "city": "London",
+   "region": "England",
    "address": "139 Deptford High St, London, England, SE8 3PQ, United Kingdom",
    "phone": "4402086915642",
    "website": "https://www.badgerbadger.org/",
@@ -5780,6 +7319,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:24Z"
+  },
+  {
+   "name": "Bamalama Music & Movie Poster shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "55 Leather Ln, London EC1N 7TJ",
+   "phone": "07930 451210",
+   "website": "https://bamalamaposters.co.uk/",
+   "checked_at": "2026-10-20T21:04:32Z"
   },
   {
    "name": "Bandai Namco Cross Store Birmingham",
@@ -5822,6 +7371,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:13Z"
+  },
+  {
+   "name": "Barkman Computers (customer collection point)",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "30 High St, Kingston upon Thames KT1 1HL",
+   "phone": "020 8546 5941",
+   "website": "https://www.barkman.co.uk/",
+   "checked_at": "2026-10-20T21:06:00Z"
   },
   {
    "name": "Batcave",
@@ -5963,6 +7522,25 @@
    "checked_at": "2026-10-16T02:27:52Z"
   },
   {
+   "name": "BESTWAY HACKNEY",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "260 Cambridge Heath Rd, London E2 9DA",
+   "phone": "020 8983 7849",
+   "website": "https://stores.bestwaywholesale.co.uk/en-gb/greater-london/hackney/260-cambridge-heath-road-hackney-london?y_source=1_MTIwNTcxMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "checked_at": "2026-10-20T21:03:44Z"
+  },
+  {
+   "name": "BetConnect",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "109 Borough High St, London SE1 1NL",
+   "website": "http://www.betconnect.com/",
+   "checked_at": "2026-10-20T21:04:19Z"
+  },
+  {
    "name": "Beyond TCG",
    "group": "unknown",
    "city": "Birmingham",
@@ -5970,6 +7548,26 @@
    "address": "22 Plymouth Rd, Stirchley, Birmingham B30 2PD",
    "website": "http://wwe.beyondtcg.co.uk/",
    "checked_at": "2026-10-16T02:24:00Z"
+  },
+  {
+   "name": "BFI IMAX",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 Charlie Chaplin Walk, London SE1 8XR",
+   "phone": "020 7960 2102",
+   "website": "https://www.bfi.org.uk/bfi-imax",
+   "checked_at": "2026-10-20T21:04:10Z"
+  },
+  {
+   "name": "Big Bass UK",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "18 Rex Pl, London W1K 2HB",
+   "phone": "07379 793185",
+   "website": "https://www.buckhotel.co.uk/",
+   "checked_at": "2026-10-20T21:04:02Z"
   },
   {
    "name": "Big Dog Books",
@@ -6037,6 +7635,15 @@
    "checked_at": "2026-10-16T02:28:29Z"
   },
   {
+   "name": "Black Culture Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Lambeth Town Hall, 1 Brixton Hill, London SW2 1RW",
+   "website": "https://www.blackculturemarket.co.uk/",
+   "checked_at": "2026-10-20T21:08:22Z"
+  },
+  {
    "name": "Black Dragon Games - Melton Mowbray",
    "group": "unknown",
    "city": "Leicestershire",
@@ -6089,6 +7696,15 @@
    "phone": "07748 764275",
    "website": "https://blindboxempire.com/",
    "checked_at": "2026-10-16T02:26:58Z"
+  },
+  {
+   "name": "Blockbuster retro",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "201 Lower Addiscombe Rd, Croydon CR0 6RA",
+   "website": "https://blockbusterretro.com/",
+   "checked_at": "2026-10-20T21:05:48Z"
   },
   {
    "name": "Blue Sheep Books",
@@ -6248,6 +7864,36 @@
    "checked_at": "2026-10-16T02:23:57Z"
   },
   {
+   "name": "Booker Wimbledon",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Endeavour Way, Durnsford Rd, London SW19 8LG",
+   "phone": "020 8946 0701",
+   "website": "https://www.booker.co.uk/?utm_source=Listings&utm_medium=Local&utm_campaign=Yext",
+   "checked_at": "2026-10-20T21:08:45Z"
+  },
+  {
+   "name": "Boom Battle Bar Oxford Street",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "70-88 Oxford St, London W1D 1BP",
+   "phone": "020 7286 0404",
+   "website": "https://boombattlebar.com/uk/london-oxford-street/?utm_source=GMB&utm_medium=search&utm_campaign=GMB",
+   "checked_at": "2026-10-20T21:03:59Z"
+  },
+  {
+   "name": "Borough Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "London SE1 9AH",
+   "phone": "020 7407 1002",
+   "website": "https://boroughmarket.org.uk/",
+   "checked_at": "2026-10-20T21:04:07Z"
+  },
+  {
    "name": "Bourne Toys",
    "group": "unknown",
    "city": "Bourne",
@@ -6258,6 +7904,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:56Z"
+  },
+  {
+   "name": "BOXPARK Wembley",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Olympic Way, Wembley Park, Wembley HA9 0JT",
+   "phone": "020 7186 8800",
+   "website": "https://www.boxpark.co.uk/venues/wembley?utm_medium=organic&utm_source=gbp&utm_campaign=homepage",
+   "checked_at": "2026-10-20T21:05:30Z"
   },
   {
    "name": "Bridge Troll Boardgame Café",
@@ -6288,6 +7944,26 @@
    "checked_at": "2026-10-16T02:16:05Z"
   },
   {
+   "name": "British Heart Foundation - Home Store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "209-211 Lewisham High St, London SE13 6LY",
+   "phone": "020 8181 1155",
+   "website": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/lewisham-furniture-electrical-store?sc_camp=5FEE9C0CDE1140D7B761443BD34262F7",
+   "checked_at": "2026-10-20T21:06:54Z"
+  },
+  {
+   "name": "Broadway Shopping Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Hammersmith, London W6 9YE",
+   "phone": "020 8563 0131",
+   "website": "https://www.hammersmithbroadway.co.uk/",
+   "checked_at": "2026-10-20T21:06:24Z"
+  },
+  {
    "name": "Brown Bear Games",
    "group": "unknown",
    "city": "Newport",
@@ -6301,6 +7977,15 @@
    "checked_at": "2026-10-16T02:16:13Z"
   },
   {
+   "name": "Bubble Planet London",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "22 Fulton Rd, Wembley HA9 0TF",
+   "website": "https://bubble-planet.com/london/?utm_source=google&utm_medium=localcards&utm_campaign=134835_lon",
+   "checked_at": "2026-10-20T21:05:35Z"
+  },
+  {
    "name": "Bubble Pop-Cambridge",
    "group": "unknown",
    "city": "Cambridge",
@@ -6310,6 +7995,16 @@
    "website": "https://bubble-pop.co.uk/",
    "buylist_url": "https://bubble-pop.co.uk/retailer/buylist",
    "checked_at": "2026-10-16T02:28:29Z"
+  },
+  {
+   "name": "Budgens",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "343 Old St, London EC1V 9LE",
+   "phone": "020 7033 2975",
+   "website": "https://www.budgens.co.uk/",
+   "checked_at": "2026-10-20T21:04:53Z"
   },
   {
    "name": "Bulwark Games",
@@ -6351,6 +8046,7 @@
    "name": "Calamity Comics - Hatfield",
    "group": "unknown",
    "city": "Hatfield",
+   "region": "England",
    "address": "44 White Lion Square, Hatfield, England, AL10 0JJ, United Kingdom",
    "phone": "+44(0) 1707 709530",
    "website": "http://www.calamitycomics.co.uk/",
@@ -6370,6 +8066,25 @@
    "checked_at": "2026-10-16T02:28:33Z"
   },
   {
+   "name": "Camden Anime",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Arch 9 Water Ln., London NW1 8JY",
+   "website": "https://camdenanime.co.uk/",
+   "checked_at": "2026-10-20T21:03:26Z"
+  },
+  {
+   "name": "Camden Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "54-56 Camden Lock Pl, London NW1 8AF",
+   "phone": "020 3763 9900",
+   "website": "https://camdenmarket.com/?utm_source=google_my_business&utm_medium=direct&utm_campaign=camden-market",
+   "checked_at": "2026-10-20T21:03:26Z"
+  },
+  {
    "name": "Candlekeep",
    "group": "unknown",
    "city": "Ramsey",
@@ -6381,6 +8096,26 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:19:37Z"
+  },
+  {
+   "name": "Capital on Tap",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Hylo Building, 103-105 Bunhill Row, Floors, 6-8, London EC1Y 8LZ",
+   "phone": "020 8962 7401",
+   "website": "https://www.capitalontap.com/en",
+   "checked_at": "2026-10-20T21:05:03Z"
+  },
+  {
+   "name": "Card Bureau",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "80 Holland Park Ave, London W11 3RB",
+   "phone": "020 7229 6321",
+   "website": "https://www.cardbureaulondon.co.uk/",
+   "checked_at": "2026-10-20T21:06:24Z"
   },
   {
    "name": "Card Catcher Shop",
@@ -6712,6 +8447,146 @@
    "checked_at": "2026-10-16T02:24:40Z"
   },
   {
+   "name": "Cardfactory",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "383-385 Mare St, London E8 1HY",
+   "phone": "020 8985 3596",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit G, LEYTON MILLS, Retail Park, Marshall Rd, London E10 5NH",
+   "phone": "020 8539 0624",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "144 Streatham High Rd, London SW16 1BJ",
+   "phone": "020 8769 4685",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Dagenham",
+   "region": "England",
+   "address": "High St N, London E6 1HS",
+   "phone": "020 8586 6508",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "502 High St, Wembley HA9 7BH",
+   "phone": "020 8903 6300",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Greenford",
+   "region": "England",
+   "address": "Unit 2, Westway Cross, RP, 1000 Greenford Rd, Greenford UB6 0UW",
+   "phone": "020 8575 6932",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "New Addington",
+   "region": "England",
+   "address": "23 Central Parade, New Addington, Croydon CR0 0JB",
+   "phone": "01689 809641",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "Eden Walk Shopping Centre, Kingston upon Thames KT1 1BP",
+   "phone": "020 8541 1653",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Orpington",
+   "region": "England",
+   "address": "81 Queensway, Petts Wood, Orpington BR5 1DQ",
+   "phone": "01689 830447",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit GL1A, 1 Western Rd, Romford RM1 3RL",
+   "phone": "01708 733381",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Palace Gardens Shopping Centre, Enfield EN2 6SN",
+   "phone": "020 8367 8687",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "Pinner",
+   "region": "England",
+   "address": "47 Bridge St, Pinner HA5 3HR",
+   "phone": "020 8868 1870",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "cardfactory",
+   "group": "unknown",
+   "city": "North",
+   "region": "England",
+   "address": "Shopping Centre, Unit 37 The Harlequin, Watford WD17 2TE",
+   "phone": "01923 249275",
+   "website": "https://www.cardfactory.co.uk/storefinder/?utm_source=google&utm_medium=organic&utm_campaign=gmbp-347",
+   "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "CardHolics TCG",
+   "group": "unknown",
+   "city": "Beaconsfield",
+   "region": "England",
+   "address": "1, The Arcade, Maxwell Rd, Beaconsfield HP9 1QT",
+   "phone": "07833 431645",
+   "website": "https://deliveroo.co.uk/menu/london/st-marks/cardholics?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+   "checked_at": "2026-10-20T21:07:59Z"
+  },
+  {
    "name": "Cardiff Indoor Flea Market",
    "group": "unknown",
    "city": "Cardiff",
@@ -6752,6 +8627,46 @@
    "checked_at": "2026-10-16T02:27:24Z"
   },
   {
+   "name": "Cards Direct",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 58, Lewisham Centre, London SE13 7EP",
+   "phone": "020 8062 0479",
+   "website": "https://www.cardsdirect.co.uk/",
+   "checked_at": "2026-10-16T02:27:24Z"
+  },
+  {
+   "name": "Cards Direct",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "17, The Mercury Shopping Centre, Mercury Gardens, Romford RM1 3EE",
+   "phone": "01708 609981",
+   "website": "https://www.cardsdirect.co.uk/",
+   "checked_at": "2026-10-16T02:27:24Z"
+  },
+  {
+   "name": "Cards Direct",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "15, Hatton Walk, Enfield EN2 6BP",
+   "phone": "020 7998 8320",
+   "website": "https://www.cardsdirect.co.uk/",
+   "checked_at": "2026-10-16T02:27:24Z"
+  },
+  {
+   "name": "Cards Direct",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "15, St Georges Centre, St. Anns Rd, Harrow HA1 1HS",
+   "phone": "020 8861 3934",
+   "website": "https://www.cardsdirect.co.uk/",
+   "checked_at": "2026-10-16T02:27:24Z"
+  },
+  {
    "name": "Cards For All Occasions",
    "group": "unknown",
    "city": "Hythe",
@@ -6760,6 +8675,16 @@
    "phone": "023 8084 5508",
    "website": "https://cardsforalloccasions.shop/",
    "checked_at": "2026-10-16T02:28:06Z"
+  },
+  {
+   "name": "CardZilla",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "637aa, Romford Rd, London E12 5AD",
+   "phone": "07393 939009",
+   "website": "https://thecardzilla.com/",
+   "checked_at": "2026-10-20T21:04:44Z"
   },
   {
    "name": "Carousel Toys",
@@ -6782,6 +8707,16 @@
    "phone": "029 2039 8891",
    "website": "http://www.autographloft.co.uk/",
    "checked_at": "2026-10-16T02:27:33Z"
+  },
+  {
+   "name": "Casbah Records",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "320-322 Creek Rd, London SE10 9SW",
+   "phone": "020 8858 1964",
+   "website": "https://casbahrecords.co.uk/",
+   "checked_at": "2026-10-20T21:06:44Z"
   },
   {
    "name": "Cash Converters",
@@ -6850,6 +8785,94 @@
    "checked_at": "2026-10-16T02:24:55Z"
   },
   {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "297 Mare St, London E8 1EJ",
+   "phone": "020 8985 8510",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "21a George St, Croydon CR0 1LA",
+   "phone": "020 8680 9997",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "37 Broadway, London W13 9DA",
+   "phone": "020 3370 7139",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "32, 34 Hare St, London SE18 6LZ",
+   "phone": "020 8316 0989",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "7 Western Rd, Romford RM1 3LD",
+   "phone": "01708 732233",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "151-153 Station Rd, London, Edgware HA8 7JS",
+   "phone": "020 3004 7240",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "51 Market St, Watford WD18 0PR",
+   "phone": "01923 601068",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
+   "name": "Cash Converters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "109 High St, London E17 7DB",
+   "phone": "020 8509 7472",
+   "website": "https://www.cashconverters.co.uk/stores/leeds-kirkgate",
+   "buylist_url": "https://www.cashconverters.co.uk/sell",
+   "checked_at": "2026-10-16T02:24:55Z"
+  },
+  {
    "name": "Cash Generator Nottingham | The Buy and Sell Store",
    "group": "unknown",
    "city": "Nottingham",
@@ -6902,6 +8925,46 @@
    "phone": "01603 766430",
    "website": "https://castlequarternorwich.co.uk/",
    "checked_at": "2026-10-16T02:29:10Z"
+  },
+  {
+   "name": "Cataclysm Games UK",
+   "group": "unknown",
+   "city": "Gillingham",
+   "region": "England",
+   "address": "45 Canterbury St, Gillingham ME7 5TR",
+   "phone": "01634 852303",
+   "website": "https://www.cataclysmgames.co.uk/",
+   "checked_at": "2026-10-20T21:05:56Z"
+  },
+  {
+   "name": "Cath Tate Cards",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1, Ground Floor, Cobalt Tower, Deptford Foundry, Moulding Ln, London SE14 6BF",
+   "phone": "020 8671 2166",
+   "website": "https://www.cathtatecards.com/",
+   "checked_at": "2026-10-20T21:06:37Z"
+  },
+  {
+   "name": "CellsClinicLtd/Gamesworkshop - Warhammer",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "CellsClinic Ltd/ GamesworkShop, Warhammer, London SE1 4TL",
+   "phone": "07774 506292",
+   "website": "https://www.cellsclinicltd.co.uk/",
+   "checked_at": "2026-10-20T21:04:37Z"
+  },
+  {
+   "name": "Centrale Shopping Centre",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "21 N End, Croydon CR0 1TY",
+   "phone": "020 8681 5841",
+   "website": "https://centraleandwhitgift.co.uk/",
+   "checked_at": "2026-10-20T21:05:51Z"
   },
   {
    "name": "Certified Collectibles Group — International UK Limited (NGC, PMG, CGC Comics & Cards)",
@@ -7145,6 +9208,127 @@
    "checked_at": "2026-10-16T02:24:03Z"
   },
   {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "156 Camden High St, London NW1 0NE",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Wembley High Road Unit 19, Wembley, Central, London HA9 7AF",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "33 George St, Croydon CR0 1LB",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "169 Clarence St, Kingston upon Thames KT1 1QT",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "England",
+   "address": "Unit 1, Quadrant House, The Quadrant, Richmond TW9 1DJ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "104 Powis St, London SE18 6LQ",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Orpington",
+   "region": "England",
+   "address": "203 High St., Orpington BR6 0PF",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit 14, The Mall, Romford RM1 3EE",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "36 Church St, Enfield EN2 6BA",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "140 High St, Watford WD17 2EN",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
+   "name": "CeX",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "36 Selborne Rd, The Mall, Walthamstow E17 7JR",
+   "phone": "0330 123 5986",
+   "website": "https://uk.webuy.com/site/storeDetail/?branchId=11",
+   "buylist_url": "https://uk.webuy.com/sell/",
+   "checked_at": "2026-10-16T02:24:03Z"
+  },
+  {
    "name": "Chance & Counters Leeds",
    "group": "unknown",
    "city": "Leeds",
@@ -7156,6 +9340,36 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:09Z"
+  },
+  {
+   "name": "Chaos City Comics",
+   "group": "unknown",
+   "city": "St Albans",
+   "region": "England",
+   "address": "20, Heritage Close, St Albans AL3 4EB",
+   "phone": "01727 838719",
+   "website": "https://www.chaoscitycomics.com/",
+   "checked_at": "2026-10-20T21:08:06Z"
+  },
+  {
+   "name": "Charing Cross Collectors Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 Villiers St, London WC2N 6NN",
+   "phone": "07540 144433",
+   "website": "https://charingcrossmarket.com/",
+   "checked_at": "2026-10-20T21:04:21Z"
+  },
+  {
+   "name": "Cheshunt Trading Cards",
+   "group": "unknown",
+   "city": "Cheshunt",
+   "region": "England",
+   "address": "29c College Rd, Cheshunt, Waltham Cross EN8 9LS",
+   "phone": "07376 947412",
+   "website": "https://www.cheshunttradingcards.com/",
+   "checked_at": "2026-10-20T21:07:19Z"
   },
   {
    "name": "Chester Le Geek",
@@ -7172,6 +9386,16 @@
    "checked_at": "2026-10-16T02:16:37Z"
   },
   {
+   "name": "ChickenRoad London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "201 Upper Tulse Hill, London SW2 2NP",
+   "phone": "07577 808347",
+   "website": "https://camranorthherts.org.uk/",
+   "checked_at": "2026-10-20T21:04:35Z"
+  },
+  {
    "name": "Children's Scrapstore",
    "group": "unknown",
    "city": "Bristol",
@@ -7180,6 +9404,26 @@
    "phone": "0117 908 5644",
    "website": "https://www.childrensscrapstore.co.uk/",
    "checked_at": "2026-10-16T02:25:50Z"
+  },
+  {
+   "name": "Choosing Keeping",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "21 Tower St, London WC2H 9NS",
+   "phone": "020 7613 3842",
+   "website": "https://choosingkeeping.com/",
+   "checked_at": "2026-10-20T21:03:26Z"
+  },
+  {
+   "name": "Circus Brixton Limited",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "79, Market, Brixton Village, Atlantic Rd, London SW9 8PS",
+   "phone": "07989 974236",
+   "website": "https://www.circusbrixton.com/",
+   "checked_at": "2026-10-20T21:08:19Z"
   },
   {
    "name": "City Centre Comics",
@@ -7204,6 +9448,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:30Z"
+  },
+  {
+   "name": "Clarendon Games Ltd",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "126, Kenilworth Court, London SW15 1HB",
+   "phone": "020 8947 3743",
+   "website": "https://www.clarendongames.com/",
+   "checked_at": "2026-10-20T21:03:57Z"
   },
   {
    "name": "Clerc's Trading Cards & Collectables LTD",
@@ -7245,6 +9499,16 @@
    "region": "England",
    "address": "3, Eldon Way, Eldon Square, Newcastle upon Tyne NE1 7XW",
    "phone": "0191 232 7837",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clinton Cards",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "46, 48 Palace Gdns, Enfield EN2 6SS",
+   "phone": "020 8342 0417",
    "website": "https://www.clintonscards.co.uk/",
    "checked_at": "2026-10-16T21:46:22Z"
   },
@@ -7318,6 +9582,56 @@
    "checked_at": "2026-10-16T21:46:22Z"
   },
   {
+   "name": "Clintons",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "35, 37 Station Rd, London E4 7BJ",
+   "phone": "020 8524 7594",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "3 Eden St, Kingston upon Thames KT1 1BP",
+   "phone": "020 8549 8962",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "city": "Bromley, Kent",
+   "region": "England",
+   "address": "Unit 46/47, The Glades Shopping Centre, Bromley, Kent, Bromley BR1 1DD",
+   "phone": "020 8464 3993",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "105 Eltham High St, London SE9 1TD",
+   "phone": "020 8859 6715",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
+   "name": "Clintons",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Units F2 / F3, 15-17 Western Rd, Romford RM1 3RL",
+   "phone": "01708 754896",
+   "website": "https://www.clintonscards.co.uk/",
+   "checked_at": "2026-10-16T21:46:22Z"
+  },
+  {
    "name": "Clintons - Belfast Castle Lane",
    "group": "unknown",
    "city": "Belfast",
@@ -7351,6 +9665,15 @@
    "checked_at": "2026-10-16T02:27:53Z"
   },
   {
+   "name": "Cold Coffee Games",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "124 City Rd, London EC1V 2NX",
+   "website": "http://cold-coffee-games.com/",
+   "checked_at": "2026-10-20T21:04:49Z"
+  },
+  {
    "name": "Coliseum Cards",
    "group": "unknown",
    "city": "B",
@@ -7362,6 +9685,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:18Z"
+  },
+  {
+   "name": "Collect 4 Cards",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "25 Cambridge Rd, Kingston upon Thames KT1 3NG",
+   "phone": "07309 993913",
+   "website": "https://collect4cards.co.uk/",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "Collecteebles",
@@ -7420,6 +9753,16 @@
    "checked_at": "2026-10-16T02:19:59Z"
   },
   {
+   "name": "Colormax Printers Ealing",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "12 Broadway, London W13 0SR",
+   "phone": "020 8566 1155",
+   "website": "https://colormaxuk.com/",
+   "checked_at": "2026-10-20T21:06:14Z"
+  },
+  {
    "name": "Colours May Vary",
    "group": "unknown",
    "city": "Leeds",
@@ -7428,6 +9771,15 @@
    "phone": "0113 244 2704",
    "website": "https://coloursmayvary.com/",
    "checked_at": "2026-10-16T02:24:51Z"
+  },
+  {
+   "name": "Columbia Road Flower Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Columbia Rd, London E2 7RG",
+   "website": "https://columbiaroad.info/",
+   "checked_at": "2026-10-20T21:03:40Z"
   },
   {
    "name": "Comicrazy",
@@ -7524,6 +9876,16 @@
    "checked_at": "2026-10-16T02:27:59Z"
   },
   {
+   "name": "Coral",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "179 Lewisham High St, London SE13 6AA",
+   "phone": "0800 169 0299",
+   "website": "https://www.coral.co.uk/en/sports",
+   "checked_at": "2026-10-20T21:06:51Z"
+  },
+  {
    "name": "Cornerstone Gaming",
    "group": "unknown",
    "city": "Newry",
@@ -7559,6 +9921,46 @@
    "phone": "01603 853044",
    "website": "http://cosmicjos.co.uk/",
    "checked_at": "2026-10-16T02:28:49Z"
+  },
+  {
+   "name": "Costco Wembley",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "30 Second Way, Wembley HA9 0YJ",
+   "phone": "020 3862 1805",
+   "website": "https://www.costco.co.uk/store-finder/Wembley",
+   "checked_at": "2026-10-20T21:05:38Z"
+  },
+  {
+   "name": "CovenCards",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "First Floor Flat, 18 Duncan Terrace, London N1 8BZ",
+   "phone": "07770 958309",
+   "website": "https://www.covencards.com/",
+   "checked_at": "2026-10-20T21:03:50Z"
+  },
+  {
+   "name": "Craft Buyer",
+   "group": "unknown",
+   "city": "Ilford",
+   "region": "England",
+   "address": "Farnham Rd, Ilford IG3 8QD",
+   "phone": "020 8586 1000",
+   "website": "https://www.craftbuyer.com/",
+   "checked_at": "2026-10-20T21:07:17Z"
+  },
+  {
+   "name": "Crafters Oasis",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "2 railway arcade, London SW9 8JB",
+   "phone": "020 3621 0618",
+   "website": "https://www.craftersoasis.co.uk/",
+   "checked_at": "2026-10-20T21:08:21Z"
   },
   {
    "name": "CrashBangCards",
@@ -7602,6 +10004,7 @@
    "name": "d20 Board Game Cafe",
    "group": "unknown",
    "city": "Watford",
+   "region": "England",
    "address": "87 Queen's Rd, Watford , WD, WD17 2QN, United Kingdom",
    "phone": "+441923800420",
    "website": "https://www.d20cafe.co.uk/",
@@ -7685,6 +10088,16 @@
    "checked_at": "2026-10-16T02:12:40Z"
   },
   {
+   "name": "Daunt Books Marylebone",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "84 Marylebone High St, London W1U 4QW",
+   "phone": "020 7224 2295",
+   "website": "https://dauntbooks.co.uk/",
+   "checked_at": "2026-10-20T21:04:14Z"
+  },
+  {
    "name": "Dave's Comics",
    "group": "unknown",
    "city": "Brighton and Hove",
@@ -7736,6 +10149,16 @@
    "address": "48 Warwick St, London W1B 5AW",
    "website": "https://www.definiteplay.co.uk/",
    "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "Delta Cards (Miwk)",
+   "group": "unknown",
+   "city": "Reigate",
+   "region": "England",
+   "address": "45A Bell St, Reigate RH2 7AQ",
+   "phone": "01737 243271",
+   "website": "https://deltacards.co.uk/",
+   "checked_at": "2026-10-20T21:05:48Z"
   },
   {
    "name": "Deltys Collectables",
@@ -7843,6 +10266,16 @@
    "checked_at": "2026-10-16T02:17:22Z"
   },
   {
+   "name": "Dicing With Life",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Level 3, The Mercury Mall, Mercury Gardens, Romford RM1 3EE",
+   "phone": "07949 476181",
+   "website": "https://dicingwithlife.com/",
+   "checked_at": "2026-10-20T21:07:11Z"
+  },
+  {
    "name": "diedododa",
    "group": "unknown",
    "city": "Edinburgh",
@@ -7862,6 +10295,26 @@
    "checked_at": "2026-10-16T02:27:16Z"
   },
   {
+   "name": "Disney Store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "350-352 Oxford St, London W1C 1JH",
+   "phone": "020 7491 9136",
+   "website": "https://stores.disneystore.co.uk/",
+   "checked_at": "2026-10-20T21:04:00Z"
+  },
+  {
+   "name": "Display Armour",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Office 7412, 321-323 High Rd, Romford RM6 6AX",
+   "phone": "07359 064769",
+   "website": "https://displayarmour.co.uk/",
+   "checked_at": "2026-10-20T21:07:10Z"
+  },
+  {
    "name": "Diss Games",
    "group": "unknown",
    "city": "Norfolk",
@@ -7872,6 +10325,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:58Z"
+  },
+  {
+   "name": "Diverse",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "390 Coldharbour Ln, London SW9 8LF",
+   "phone": "020 7733 1488",
+   "website": "https://www.diversegifts.co.uk/",
+   "checked_at": "2026-10-20T21:08:16Z"
   },
   {
    "name": "Dkcollectibles",
@@ -7908,6 +10371,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:56Z"
+  },
+  {
+   "name": "Dover Street Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "18-22 Haymarket, London SW1Y 4DG",
+   "phone": "020 7518 0680",
+   "website": "https://london.doverstreetmarket.com/",
+   "checked_at": "2026-10-20T21:03:39Z"
+  },
+  {
+   "name": "Downstairs at The Department Store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "248 Ferndale Rd, London SW9 8FR",
+   "phone": "020 3598 6971",
+   "website": "https://www.downstairsbrixton.com/",
+   "checked_at": "2026-10-20T21:08:29Z"
   },
   {
    "name": "Dragon Cavern",
@@ -7972,6 +10455,16 @@
    "checked_at": "2026-10-16T02:22:27Z"
   },
   {
+   "name": "Duc Tien Cash and Carry",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 2 and 3, Lombard Trading Estate, 51 Anchor and Hope Ln, London SE7 7SN",
+   "phone": "020 8853 2464",
+   "website": "http://www.ductien.co.uk/home/index.php",
+   "checked_at": "2026-10-20T21:06:36Z"
+  },
+  {
    "name": "Duke's Gaming",
    "group": "unknown",
    "city": "Pontypool",
@@ -7994,6 +10487,46 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:10Z"
+  },
+  {
+   "name": "Duospin App",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "47 Fords Park Rd, London E16 1NP",
+   "phone": "07468 940066",
+   "website": "https://duo-spin.net/",
+   "checked_at": "2026-10-20T21:04:49Z"
+  },
+  {
+   "name": "Ealing Broadway",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "The Broadway, London W5 5JY",
+   "phone": "020 8567 3453",
+   "website": "https://www.ealingbroadwayshopping.co.uk/",
+   "checked_at": "2026-10-20T21:06:12Z"
+  },
+  {
+   "name": "Ealing Common",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 Leopold Rd, London W5 3PB",
+   "phone": "020 8825 5000",
+   "website": "https://www.ealing.gov.uk/info/201136/parks_in_the_borough/662/ealing_parks/5",
+   "checked_at": "2026-10-20T21:06:17Z"
+  },
+  {
+   "name": "Earlybird Cards & Gifts",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "3 Stoke Newington Church St, London N16 0NX",
+   "phone": "020 7923 3504",
+   "website": "https://www.earlybirdcardsandgifts.co.uk/",
+   "checked_at": "2026-10-20T21:03:50Z"
   },
   {
    "name": "Eclectic Games",
@@ -8092,6 +10625,27 @@
    "checked_at": "2026-10-16T02:14:27Z"
   },
   {
+   "name": "Elemental Cards",
+   "group": "unknown",
+   "city": "Wokingham",
+   "region": "England",
+   "address": "Holme Grange Craft Village, Unit 4 Heathlands Rd, Wokingham RG40 3AW",
+   "phone": "07908 441130",
+   "website": "https://elemental.cards/",
+   "checked_at": "2026-10-20T21:06:06Z"
+  },
+  {
+   "name": "Elite 4 Collectables",
+   "group": "unknown",
+   "city": "Royston",
+   "region": "England",
+   "address": "13 Angel Pavement, Royston SG8 9AS",
+   "phone": "07765 613191",
+   "website": "https://elite4collectables.com/",
+   "buylist_url": "https://elite4collectables.com/sell-trade/",
+   "checked_at": "2026-10-20T21:07:20Z"
+  },
+  {
    "name": "Elite 4 Trading & Grading",
    "group": "unknown",
    "city": "Belfast",
@@ -8124,6 +10678,16 @@
    "phone": "0161 236 4445",
    "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/empirexchange/&followup=https://sites.google.com/site/empirexchange/&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1647509785:1792117481656714",
    "checked_at": "2026-10-16T02:24:40Z"
+  },
+  {
+   "name": "Enfield Market",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Church St, Enfield EN2 6LN",
+   "phone": "020 8367 8941",
+   "website": "https://enfieldmarket.co.uk/",
+   "checked_at": "2026-10-20T21:07:24Z"
   },
   {
    "name": "Entoyment Wargaming and Hobby Centre",
@@ -8211,6 +10775,46 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:04Z"
+  },
+  {
+   "name": "Exchange Ilford",
+   "group": "unknown",
+   "city": "Ilford",
+   "region": "England",
+   "address": "High Rd, Ilford IG1 1RS",
+   "phone": "020 8553 3000",
+   "website": "https://www.exchangeilford.com/",
+   "checked_at": "2026-10-20T21:07:13Z"
+  },
+  {
+   "name": "Ezen Designs",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "23 Camden Passage, London N1 8EA",
+   "phone": "020 7354 5000",
+   "website": "https://ezendesigns.com/",
+   "checked_at": "2026-10-20T21:03:50Z"
+  },
+  {
+   "name": "F1® Arcade London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 New Change, London EC4M 9AF",
+   "phone": "020 3834 3540",
+   "website": "https://f1arcade.com/uk/london?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_term=london",
+   "checked_at": "2026-10-20T21:03:38Z"
+  },
+  {
+   "name": "Fairgame",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "25 Fishermans Walk, Canary Wharf Estate, London E14 4DH",
+   "phone": "020 4599 3666",
+   "website": "https://www.wearefairgame.com/",
+   "checked_at": "2026-10-20T21:04:38Z"
   },
   {
    "name": "Fan Boy Three",
@@ -8312,6 +10916,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:43Z"
+  },
+  {
+   "name": "Fixfactor - Wimbledon | Tech Repair Service",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "136 Kingston Rd, London SW19 1LY",
+   "phone": "020 8543 7088",
+   "website": "https://fixfactor.co.uk/",
+   "checked_at": "2026-10-20T21:08:44Z"
   },
   {
    "name": "Flux",
@@ -8417,6 +11031,16 @@
    "website": "https://forbiddenplanet.co.uk/",
    "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
    "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Forbidden Planet Croydon",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "43 Church St, Croydon CR0 1RH",
+   "phone": "020 8688 7190",
+   "website": "https://www.forbiddenplanet.com",
+   "checked_at": "2026-10-16T02:12:17Z"
   },
   {
    "name": "Forbidden Planet Edinburgh",
@@ -8877,6 +11501,96 @@
    "checked_at": "2026-10-16T02:23:36Z"
   },
   {
+   "name": "Game",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "213 Streatham High Rd, London SW16 6EN",
+   "phone": "0344 332 5365",
+   "website": "https://www.game.co.uk/london-streatham-store-0365",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit D, Lyton Mills Retail Park, Marshall Rd, London E10 5NH",
+   "phone": "0344 332 5356",
+   "website": "https://www.game.co.uk/london---leyton-store-0356",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "10-13 Market Pl, Kingston upon Thames KT1 1PH",
+   "phone": "0343 909 3444",
+   "website": "https://www.game.co.uk/ldn-kingston-sd-store-3444",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "21-23 The Broadway, London W5 2NH",
+   "phone": "0343 909 2163",
+   "website": "https://storefinder.game.co.uk/game/stores/2281/Ealing",
+   "checked_at": "2026-10-20T21:06:10Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "30 - 36 Market Pl, Romford RM1 3ER",
+   "phone": "0343 777 1658",
+   "website": "https://www.game.co.uk/romford-market-store-1658",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Unit 4, Enfield Retail Park, Crown Rd, Enfield EN1 1TH",
+   "phone": "0344 332 5175",
+   "website": "https://www.game.co.uk/london---enfield-store-0175",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Store 1, St Georges Shopping Centre, 12 Kempthorne St, London HA1 1HS",
+   "phone": "0344 332 5440",
+   "website": "https://www.game.co.uk/gravesend-store-0440",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "GAME",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "83, 87 High St, Watford WD17 2DQ",
+   "phone": "0343 777 1661",
+   "website": "https://www.game.co.uk/watford-high-street-store-1661",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
+   "name": "Game Box Protector",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Hall St, London EC1V 7PR",
+   "phone": "07934 630977",
+   "website": "https://www.gameboxprotector.com/",
+   "checked_at": "2026-10-20T21:04:44Z"
+  },
+  {
    "name": "Game Corner",
    "group": "unknown",
    "city": "Bristol",
@@ -8959,6 +11673,16 @@
    "checked_at": "2026-10-16T02:20:00Z"
   },
   {
+   "name": "Game store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "51 High St N, London E6 1HZ",
+   "phone": "07436 189888",
+   "website": "https://www.game.co.uk/",
+   "checked_at": "2026-10-16T02:23:36Z"
+  },
+  {
    "name": "GAME XP",
    "group": "unknown",
    "city": "AIRDRIE",
@@ -9021,6 +11745,16 @@
    "checked_at": "2026-10-16T02:20:08Z"
   },
   {
+   "name": "Games Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "403 North End Rd, London SW6 1NS",
+   "phone": "020 7385 5600",
+   "website": "https://gamescentrefulham.co.uk/",
+   "checked_at": "2026-10-20T21:06:30Z"
+  },
+  {
    "name": "Games Crusade Toy And Board Game Shop",
    "group": "unknown",
    "city": "Harrogate",
@@ -9081,6 +11815,16 @@
    "checked_at": "2026-10-16T02:14:12Z"
   },
   {
+   "name": "Gamez Gadget",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "472 Holloway Rd, London N7 6HT",
+   "phone": "020 7272 0010",
+   "website": "https://gamezgadgets.com/",
+   "checked_at": "2026-10-20T21:09:01Z"
+  },
+  {
    "name": "Gaming Needs Grips",
    "group": "unknown",
    "city": "Southampton",
@@ -9133,6 +11877,15 @@
    "phone": "07938 742442",
    "website": "https://geckogaminggateshead.co.uk/",
    "checked_at": "2026-10-16T02:26:31Z"
+  },
+  {
+   "name": "GEEK GARAGE UK",
+   "group": "unknown",
+   "city": "Wickford",
+   "region": "England",
+   "address": "73 High St, Wickford SS12 9AQ",
+   "website": "https://geekgarage.co.uk/",
+   "checked_at": "2026-10-20T21:07:18Z"
   },
   {
    "name": "Geek Retreat - Cardiff",
@@ -9355,6 +12108,16 @@
    "checked_at": "2026-10-16T02:28:32Z"
   },
   {
+   "name": "Gizmo Exchange (Electronics Retailer)",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "56 High St, London, Ilford IG6 2DQ",
+   "phone": "020 8550 1110",
+   "website": "http://www.gizmoexchange.co.uk/",
+   "checked_at": "2026-10-20T21:07:11Z"
+  },
+  {
    "name": "Global Collectables",
    "group": "unknown",
    "city": "Bristol",
@@ -9410,6 +12173,15 @@
    "checked_at": "2026-10-16T02:24:27Z"
   },
   {
+   "name": "Goodhood",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "15 Hanbury St, London E1 6QR",
+   "website": "https://goodhoodstore.com/",
+   "checked_at": "2026-10-20T21:04:50Z"
+  },
+  {
    "name": "Grainger Market",
    "group": "unknown",
    "city": "Newcastle upon Tyne",
@@ -9418,6 +12190,26 @@
    "phone": "0191 211 5541",
    "website": "https://ourgraingermarket.co.uk/",
    "checked_at": "2026-10-16T02:26:36Z"
+  },
+  {
+   "name": "Gravity MAX Wandsworth",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Wandsworth High St, London SW18 4TF",
+   "phone": "0330 159 5815",
+   "website": "https://gravity-global.com/max/wandsworth?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+   "checked_at": "2026-10-20T21:08:32Z"
+  },
+  {
+   "name": "Gravity MAX Westfield Stratford City",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1-7, Chestnut Plaza, Westfield Ave, Montfichet Rd, London E20 1GL",
+   "phone": "0330 159 5815",
+   "website": "https://gravity-global.com/max/stratford-city?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+   "checked_at": "2026-10-20T21:05:20Z"
   },
   {
    "name": "Great Escape Games",
@@ -9450,6 +12242,44 @@
    "checked_at": "2026-10-16T02:24:02Z"
   },
   {
+   "name": "Green's Art Stationers, Toyshop & Gallery",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "31 Dulwich Village, London SE21 7BN",
+   "phone": "020 8693 5938",
+   "website": "https://www.greensdulwichvillage.com/",
+   "checked_at": "2026-10-20T21:06:36Z"
+  },
+  {
+   "name": "greenka",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "8 Oak Rd, London W5 3SS",
+   "phone": "07375 596624",
+   "website": "https://greenka.uk/",
+   "checked_at": "2026-10-20T21:06:12Z"
+  },
+  {
+   "name": "Greenwich Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "5B Greenwich Market, London SE10 9HZ",
+   "website": "https://greenwichmarket.london/",
+   "checked_at": "2026-10-20T21:06:32Z"
+  },
+  {
+   "name": "Greenwich Shopping Park",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Bugsby's Wy, London SE7 7ST",
+   "website": "http://www.greenwichshoppingpark.com/",
+   "checked_at": "2026-10-20T21:06:34Z"
+  },
+  {
    "name": "Grim Dice Tabletop Gaming",
    "group": "unknown",
    "city": "Grimsby",
@@ -9477,6 +12307,45 @@
    "checked_at": "2026-10-16T02:15:16Z"
   },
   {
+   "name": "Gum Gum Games - scheduled pick up point (not a store)",
+   "group": "unknown",
+   "city": "Rainham",
+   "region": "England",
+   "address": "Renaissance apartments, Rainham RM13 8QQ",
+   "phone": "07446 937342",
+   "website": "https://www.gumgumgames.co.uk/",
+   "checked_at": "2026-10-20T21:06:49Z"
+  },
+  {
+   "name": "GUNPLALDN at Barkman Computers",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "30 High St, Kingston upon Thames KT1 1HL",
+   "phone": "020 8546 5941",
+   "website": "https://www.gunplaldn.com/",
+   "checked_at": "2026-10-20T21:06:00Z"
+  },
+  {
+   "name": "Hackney Flea Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "73A Stoke Newington Church St, London N16 0AS",
+   "website": "https://hackneyfleamarket.com/",
+   "checked_at": "2026-10-20T21:03:33Z"
+  },
+  {
+   "name": "Hand & Racquet",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "25-27 Wimbledon Hill Rd, London SW19 7NE",
+   "phone": "020 8947 9391",
+   "website": "https://www.greeneking.co.uk/pubs/greater-london/hand-and-racquet?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
+   "checked_at": "2026-10-20T21:08:47Z"
+  },
+  {
    "name": "Happy Piranha",
    "group": "unknown",
    "city": "Truro",
@@ -9487,6 +12356,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:37Z"
+  },
+  {
+   "name": "Harlequin Watford",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "201, The Harlequin, Watford WD17 2UB",
+   "phone": "01923 250292",
+   "website": "https://harlequinwatford.com/",
+   "checked_at": "2026-10-20T21:07:58Z"
   },
   {
    "name": "Harlequins - Preston",
@@ -9514,6 +12393,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:48Z"
+  },
+  {
+   "name": "Herne Hill Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Railton Rd, London SE24 0JN",
+   "phone": "020 8293 6436",
+   "website": "https://www.weareccfm.com/our-markets/herne-hill/",
+   "checked_at": "2026-10-20T21:08:33Z"
   },
   {
    "name": "Hex Labs Games",
@@ -9593,6 +12482,16 @@
    "checked_at": "2026-10-16T02:24:00Z"
   },
   {
+   "name": "House Of Cards London - best Balloons, Gifts & Greeting cards shop in London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "507 Norwood Rd, Norwood, London SE27 9DL",
+   "phone": "020 7998 3726",
+   "website": "http://www.houseofcardslondon.com/",
+   "checked_at": "2026-10-20T21:04:16Z"
+  },
+  {
    "name": "House of Spells Liverpool",
    "group": "unknown",
    "city": "Liverpool",
@@ -9601,6 +12500,16 @@
    "phone": "020 4619 2610",
    "website": "https://houseofspells.co.uk/pages/house-of-spells-liverpool-store-shop-fandom-gifts",
    "checked_at": "2026-10-16T02:25:32Z"
+  },
+  {
+   "name": "Houses of Parliament Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "12 Bridge St, London SW1A 2JX",
+   "phone": "020 7219 3890",
+   "website": "https://www.shop.parliament.uk/",
+   "checked_at": "2026-10-20T21:03:57Z"
   },
   {
    "name": "Hoyle's of Oxford",
@@ -9635,6 +12544,16 @@
    "phone": "0131 557 4099",
    "website": "https://theenchantedgalaxy.com/",
    "checked_at": "2026-10-16T02:25:23Z"
+  },
+  {
+   "name": "Ideal Gifts & Parties",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "314 Northolt Rd, South Harrow, Harrow HA2 8EE",
+   "phone": "020 8423 6383",
+   "website": "https://www.idealgiftsandparties.com/",
+   "checked_at": "2026-10-20T21:07:39Z"
   },
   {
    "name": "Imps Gaming",
@@ -9717,6 +12636,16 @@
    "checked_at": "2026-10-16T02:28:42Z"
   },
   {
+   "name": "Jackson's Art Dalston",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 Farleigh Pl, London N16 7SX",
+   "phone": "020 7254 0077",
+   "website": "https://www.jacksonsart.com/",
+   "checked_at": "2026-10-20T21:03:35Z"
+  },
+  {
    "name": "Jackson's CRS",
    "group": "unknown",
    "city": "Sheffield",
@@ -9775,6 +12704,15 @@
    "city": "Liverpool",
    "region": "England",
    "address": "5 Barnhill Rd, Liverpool L15 5BE",
+   "website": "https://japans2uk.com/",
+   "checked_at": "2026-10-16T02:24:36Z"
+  },
+  {
+   "name": "Japan2uk",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "6 Darwin St, London SE17 1HB",
    "website": "https://japans2uk.com/",
    "checked_at": "2026-10-16T02:24:36Z"
   },
@@ -9857,6 +12795,16 @@
    "checked_at": "2026-10-16T02:26:56Z"
   },
   {
+   "name": "Jo's House",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "299 Railton Rd, London SE24 0JN",
+   "phone": "020 7733 8080",
+   "website": "https://joshouse.co.uk/",
+   "checked_at": "2026-10-20T21:08:30Z"
+  },
+  {
    "name": "Joanesee's House Of Cards",
    "group": "unknown",
    "city": "Hull",
@@ -9877,6 +12825,26 @@
    "checked_at": "2026-10-16T02:27:11Z"
   },
   {
+   "name": "Just Williams",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "106 Grove Vale, London SE22 8DR",
+   "phone": "020 8299 3444",
+   "website": "https://www.justwilliamstoys.com/",
+   "checked_at": "2026-10-20T21:04:25Z"
+  },
+  {
+   "name": "Just Williams Toys",
+   "group": "unknown",
+   "city": "Beckenham",
+   "region": "England",
+   "address": "226 High St, Beckenham BR3 1EN",
+   "phone": "020 8663 6334",
+   "website": "https://www.justwilliamstoys.com/",
+   "checked_at": "2026-10-20T21:06:55Z"
+  },
+  {
    "name": "JustPlay",
    "group": "unknown",
    "city": "Liverpool",
@@ -9889,6 +12857,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:55Z"
+  },
+  {
+   "name": "Kall Kwik Islington",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "32 Duncan St, London N1 8BW",
+   "phone": "020 8079 0721",
+   "website": "https://kallkwik.co.uk/islington/?utm_source=google&utm_medium=gbp&utm_campaign=islington",
+   "checked_at": "2026-10-20T21:03:55Z"
   },
   {
    "name": "Kaos Kreations Glasgow",
@@ -9924,6 +12902,17 @@
    "checked_at": "2026-10-16T02:18:14Z"
   },
   {
+   "name": "Kent Comics",
+   "group": "unknown",
+   "city": "Orpington",
+   "region": "England",
+   "address": "59A High St., Orpington BR6 0JF",
+   "phone": "01689 824489",
+   "website": "https://www.kentcomics.co.uk/",
+   "buylist_url": "https://www.kentcomics.co.uk/retailer/buylist",
+   "checked_at": "2026-10-20T21:06:49Z"
+  },
+  {
    "name": "Kerrison Toys",
    "group": "unknown",
    "city": "Norwich",
@@ -9932,6 +12921,16 @@
    "phone": "01603 494008",
    "website": "https://www.kerrisontoys.co.uk/",
    "checked_at": "2026-10-16T02:29:00Z"
+  },
+  {
+   "name": "Kids Stuff",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 7-7A, The Exchange, Putney High St, London SW15 1TW",
+   "phone": "020 8785 9955",
+   "website": "http://www.kidsstufftoys.co.uk/",
+   "checked_at": "2026-10-20T21:08:39Z"
   },
   {
    "name": "Kingdom Gaming",
@@ -9948,6 +12947,16 @@
    "checked_at": "2026-10-16T02:14:15Z"
   },
   {
+   "name": "Kingsland Shopping Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Kingsland High St, London E8 2LX",
+   "phone": "020 7241 5455",
+   "website": "https://www.kingslandshopping.com/",
+   "checked_at": "2026-10-20T21:03:36Z"
+  },
+  {
    "name": "Kirton Games",
    "group": "unknown",
    "city": "Crediton",
@@ -9960,6 +12969,25 @@
    "checked_at": "2026-10-16T02:18:34Z"
   },
   {
+   "name": "KittiCatGames",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "5 Brayford Sq, Stepney Green, London E1 0SG",
+   "website": "https://kitticatgames.com/shop/",
+   "checked_at": "2026-10-20T21:03:32Z"
+  },
+  {
+   "name": "L. Cornelissen & Son",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "105 Great Russell St, London WC1B 3RY",
+   "phone": "020 7636 1045",
+   "website": "https://www.cornelissen.com/",
+   "checked_at": "2026-10-20T21:06:39Z"
+  },
+  {
    "name": "La Belle Adventure",
    "group": "unknown",
    "city": "Edinburgh",
@@ -9967,6 +12995,16 @@
    "address": "225 Leith Walk, Edinburgh EH6 8NX",
    "website": "https://labelleadventure.com/",
    "checked_at": "2026-10-16T02:25:28Z"
+  },
+  {
+   "name": "Labour and Wait Workroom",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "30 The Oval, Bethnal Green, London E2 9DT",
+   "phone": "020 7729 6253",
+   "website": "https://labourandwait.co.uk/",
+   "checked_at": "2026-10-20T21:04:52Z"
   },
   {
    "name": "Labyrinthe at Chislehurst Caves",
@@ -9990,6 +13028,16 @@
    "phone": "0333 123 0101",
    "website": "https://www.lagomdesign.co.uk/",
    "checked_at": "2026-10-16T02:28:23Z"
+  },
+  {
+   "name": "Lagoon Group Trading Company Ltd",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "England",
+   "address": "Greyfriars Studios, 26 The Quadrant, Richmond TW9 1DL",
+   "phone": "020 8563 6520",
+   "website": "https://www.thelagoongroup.com/",
+   "checked_at": "2026-10-20T21:06:08Z"
   },
   {
    "name": "Lancaster Board and Sword",
@@ -10020,6 +13068,16 @@
    "checked_at": "2026-10-16T02:18:05Z"
   },
   {
+   "name": "Lark Clapham",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "127 Clapham High St, London SW4 7SS",
+   "phone": "020 7627 0482",
+   "website": "https://www.larklondon.com/",
+   "checked_at": "2026-10-20T21:08:53Z"
+  },
+  {
    "name": "Last Pack Collectables",
    "group": "unknown",
    "city": "North Walsham",
@@ -10040,6 +13098,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:26Z"
+  },
+  {
+   "name": "Leadenhall Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Gracechurch St, London EC3V 1LT",
+   "phone": "020 7606 3030",
+   "website": "https://leadenhallmarket.co.uk/",
+   "checked_at": "2026-10-20T21:04:40Z"
   },
   {
    "name": "Leaky Teacup",
@@ -10133,6 +13201,17 @@
    "checked_at": "2026-10-16T02:15:07Z"
   },
   {
+   "name": "Lewisham Shopping Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Molesworth St, London SE13 7HB",
+   "phone": "020 8852 0094",
+   "website": "https://www.lewishamshopping.co.uk/en",
+   "buylist_url": "https://www.lewishamshopping.co.uk/retailer/buylist",
+   "checked_at": "2026-10-20T21:06:43Z"
+  },
+  {
    "name": "Lich Games",
    "group": "unknown",
    "city": "Wymondham",
@@ -10196,6 +13275,36 @@
    "checked_at": "2026-10-16T02:12:23Z"
   },
   {
+   "name": "Lockit Local Shepherd's Bush",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "West 12 Shopping Centre, 2 Charecroft Way, London W12 8PP",
+   "phone": "020 3977 7408",
+   "website": "https://www.lockitlocal.com/facilities/shepherdsbush",
+   "checked_at": "2026-10-20T21:06:30Z"
+  },
+  {
+   "name": "London Beatles Store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "231-233 Baker St, London NW1 6XE",
+   "phone": "020 3340 3197",
+   "website": "http://beatlesstorelondon.co.uk/",
+   "checked_at": "2026-10-20T21:05:14Z"
+  },
+  {
+   "name": "LONDON CARD DELIVERY LTD",
+   "group": "unknown",
+   "city": "Ilford",
+   "region": "England",
+   "address": "390-392 High Rd, Ilford IG1 1BF",
+   "phone": "07458 148199",
+   "website": "http://londoncarddelivery.co.uk/",
+   "checked_at": "2026-10-20T21:07:12Z"
+  },
+  {
    "name": "London Card Show",
    "group": "unknown",
    "city": "Esher",
@@ -10203,6 +13312,36 @@
    "address": "Sandown Racecourse, Portsmouth Rd, Esher KT10 9AJ",
    "website": "https://londoncardshow.co.uk/",
    "checked_at": "2026-10-16T02:23:16Z"
+  },
+  {
+   "name": "London Designer Outlet",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Wembley Park Blvd, Wembley Park, Wembley HA9 0FD",
+   "phone": "020 3744 4470",
+   "website": "https://www.londondesigneroutlet.com/?utm_source=googe_business&utm_medium=organic",
+   "checked_at": "2026-10-20T21:05:26Z"
+  },
+  {
+   "name": "London Toy Shop",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Browns Garden Centre, Theobalds Park Rd, Enfield EN2 9DG, Crews Hill, Enfield EN2 8AY",
+   "phone": "07957 585095",
+   "website": "https://london-toy-shop.com/",
+   "checked_at": "2026-10-20T21:07:18Z"
+  },
+  {
+   "name": "London Transport Museum Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "39 Wellington St, London WC2E 7BB",
+   "phone": "0343 222 5000",
+   "website": "https://shop.ltmuseum.co.uk/",
+   "checked_at": "2026-10-20T21:08:33Z"
   },
   {
    "name": "London Tree House",
@@ -10243,6 +13382,34 @@
    "checked_at": "2026-10-16T02:12:51Z"
   },
   {
+   "name": "LOWER MARSH MARKET",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Lower Marsh, London SE1 7RJ",
+   "phone": "07563 389014",
+   "website": "https://www.lowermarshmarket.com/",
+   "checked_at": "2026-10-20T21:04:23Z"
+  },
+  {
+   "name": "Ludos Affiliates",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "133 Creek Rd, London SE8 3BU",
+   "website": "http://www.ludosaffiliates.com/",
+   "checked_at": "2026-10-20T21:06:43Z"
+  },
+  {
+   "name": "Ludos Digital",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "36 Gordon Rd, London W5 2AF",
+   "website": "https://ludos.org.uk/",
+   "checked_at": "2026-10-20T21:06:11Z"
+  },
+  {
    "name": "M n M Gaming Club",
    "group": "unknown",
    "city": "Derbyshire",
@@ -10253,6 +13420,35 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:33Z"
+  },
+  {
+   "name": "M&S Foodhall",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "156-164, 156-158 Clapham High St, London SW4 7UG",
+   "phone": "020 7870 5932",
+   "website": "https://www.marksandspencer.com/stores/clapham-common-7631",
+   "checked_at": "2026-10-20T21:09:01Z"
+  },
+  {
+   "name": "M&S Outlet",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Wembley Park Boulevard Unit 27-35 London Designer Outlet C Foregate Street 22, Wembley Park, Wembley HA9 0TG",
+   "phone": "020 8795 1386",
+   "website": "https://www.marksandspencer.com/stores/wembley-outlet-5279?extid=local",
+   "checked_at": "2026-10-20T21:05:42Z"
+  },
+  {
+   "name": "Machance",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Montfichet Rd, London E20 1EJ",
+   "website": "https://play.machancejeu.com/fr/?comLogin=1&registration=1#registration",
+   "checked_at": "2026-10-20T21:04:46Z"
   },
   {
    "name": "MadComps UK",
@@ -10287,6 +13483,16 @@
    "phone": "0121 559 7788",
    "website": "https://magicmomentsonline.co.uk/",
    "checked_at": "2026-10-16T02:24:00Z"
+  },
+  {
+   "name": "Makro Enfield",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "57 Stockingswater Ln, Enfield EN3 7XA",
+   "phone": "020 8443 6221",
+   "website": "https://www.booker.co.uk/?utm_source=Listings&utm_medium=Local&utm_campaign=Yext",
+   "checked_at": "2026-10-20T21:07:27Z"
   },
   {
    "name": "Malarkey",
@@ -10341,6 +13547,26 @@
    "checked_at": "2026-10-16T02:28:53Z"
   },
   {
+   "name": "Mary's Living & Giving Shop for Save the Children - Wimbledon",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "38 High Street Wimbledon, London SW19 5BY",
+   "phone": "020 8947 8946",
+   "website": "https://www.savethechildren.org.uk/shop/marys-living-and-giving-shops",
+   "checked_at": "2026-10-20T21:08:50Z"
+  },
+  {
+   "name": "MAX + BETTY",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1 - The Pavilion Courage Yard Piazza, Shad Thames, London SE1 2PN",
+   "phone": "07939 012023",
+   "website": "https://www.maxandbetty.com/",
+   "checked_at": "2026-10-20T21:04:25Z"
+  },
+  {
    "name": "Meeple Market",
    "group": "unknown",
    "city": "Birmingham",
@@ -10364,6 +13590,16 @@
    "checked_at": "2026-10-16T02:14:10Z"
   },
   {
+   "name": "Melaman X",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Flat 4, Ramsey House, London SW19 2JU",
+   "phone": "07349 461023",
+   "website": "https://melamanx.com/",
+   "checked_at": "2026-10-20T21:08:53Z"
+  },
+  {
    "name": "Meltdown London",
    "group": "unknown",
    "city": "Islington",
@@ -10384,6 +13620,15 @@
    "phone": "0131 550 3799",
    "website": "https://www.mempackcompany.com/",
    "checked_at": "2026-10-16T02:25:24Z"
+  },
+  {
+   "name": "Mercato Metropolitano",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "42 Newington Causeway, London SE1 6DR",
+   "website": "https://mercatometropolitano.com/",
+   "checked_at": "2026-10-20T21:04:05Z"
   },
   {
    "name": "MercuryTCG",
@@ -10427,6 +13672,16 @@
    "checked_at": "2026-10-16T02:15:50Z"
   },
   {
+   "name": "Million Years Crystal",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "231 Havering Rd, Romford RM1 4TB",
+   "phone": "07856 447072",
+   "website": "https://millionyearscrystal.com/",
+   "checked_at": "2026-10-20T21:07:10Z"
+  },
+  {
    "name": "Milo's Plaza",
    "group": "unknown",
    "city": "Jarrow",
@@ -10459,6 +13714,15 @@
    "checked_at": "2026-10-16T02:26:48Z"
   },
   {
+   "name": "MINISO Watford",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "Hertfordshire, Atria, Shopping Centre, Watford WD17 2UB",
+   "website": "https://minisoshop.co.uk/",
+   "checked_at": "2026-10-16T02:26:48Z"
+  },
+  {
    "name": "Misfit Hobbies Coleraine",
    "group": "unknown",
    "city": "County Londonderry",
@@ -10485,6 +13749,26 @@
    "checked_at": "2026-10-16T02:18:39Z"
   },
   {
+   "name": "Monologue Warehouse - Trade & Contract HQ",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Studio 1, The Button Factory, 1 Darnley Rd, London E9 6QH",
+   "phone": "020 7729 0400",
+   "website": "https://www.monologuelondon.com/",
+   "checked_at": "2026-10-20T21:03:38Z"
+  },
+  {
+   "name": "Monopoly Lifesized",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Monopoly Lifesized, 213-215 Tottenham Ct Rd, London W1T 7PS",
+   "phone": "020 8164 6469",
+   "website": "https://monopolylifesized.com/",
+   "checked_at": "2026-10-20T21:05:01Z"
+  },
+  {
    "name": "Monstrous Light Games",
    "group": "unknown",
    "city": "Ashton-Under-Lyne",
@@ -10505,6 +13789,16 @@
    "phone": "07473 527315",
    "website": "https://moro-spin.net/",
    "checked_at": "2026-10-16T02:26:56Z"
+  },
+  {
+   "name": "Mr Frinky",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 8, Camden Lock Market, London NW1 8AL",
+   "phone": "07474 149353",
+   "website": "https://frinky.shop/",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "Mutant Dice Games",
@@ -10536,6 +13830,16 @@
    "address": "2nd Floor, My Cat Likes Cheese, Afflecks, 52 Church St, Manchester M4 1PW",
    "website": "https://mycatlikescheese.co.uk/",
    "checked_at": "2026-10-16T02:24:25Z"
+  },
+  {
+   "name": "My Gorgeous Cards & Gifts",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "64 Hollingbourne Rd, London SE24 9ND",
+   "phone": "07956 861998",
+   "website": "https://mygorgeouscards.com/",
+   "checked_at": "2026-10-20T21:04:19Z"
   },
   {
    "name": "Mystery Ninja",
@@ -10684,6 +13988,16 @@
    "checked_at": "2026-10-16T02:15:53Z"
   },
   {
+   "name": "NETANGELA Top Games",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "60, Romford RM6 4UG",
+   "phone": "07762 245977",
+   "website": "http://netangela.com/",
+   "checked_at": "2026-10-20T21:07:10Z"
+  },
+  {
    "name": "New Realities Gaming",
    "group": "unknown",
    "city": "Salisbury",
@@ -10720,6 +14034,26 @@
    "checked_at": "2026-10-16T02:16:13Z"
   },
   {
+   "name": "Nike Factory Store Wembley",
+   "group": "unknown",
+   "city": "LONDON",
+   "region": "England",
+   "address": "42-45, 42-45 Wembley Park Blvd, LONDON HA9 0TG",
+   "phone": "020 8903 1696",
+   "website": "https://www.nike.com/gb/retail/s/wembley-nike-factory-store?cp=61872410739_seo_%3Fcp%3D61872410739_seo_&y_source=1_Mjc2Mjg3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+   "checked_at": "2026-10-20T21:05:40Z"
+  },
+  {
+   "name": "Ninja Cards",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit 4, South Mall The Liberty Shopping Centre, 11 Western Rd, Romford RM1 3RL",
+   "phone": "01708 755469",
+   "website": "https://ninjacards.co.uk/",
+   "checked_at": "2026-10-20T21:03:26Z"
+  },
+  {
    "name": "No Alibis",
    "group": "unknown",
    "city": "Belfast",
@@ -10728,6 +14062,15 @@
    "phone": "028 9031 9601",
    "website": "https://noalibis.com/",
    "checked_at": "2026-10-16T02:27:52Z"
+  },
+  {
+   "name": "No ID No Sale",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "7 Prescott Pl, London SW4 6BS",
+   "website": "https://noidnosale.com/",
+   "checked_at": "2026-10-20T21:08:59Z"
   },
   {
    "name": "Northern Alliance Games",
@@ -10771,9 +14114,20 @@
    "checked_at": "2026-10-16T02:16:31Z"
   },
   {
+   "name": "Nostalgia TCG",
+   "group": "unknown",
+   "city": "Chelmsford",
+   "region": "England",
+   "address": "23-27 Broomfield Rd, Chelmsford CM1 1SY",
+   "phone": "01245 611867",
+   "website": "https://nostalgiatcg.com/",
+   "checked_at": "2026-10-16T02:12:55Z"
+  },
+  {
    "name": "Nostalgia TCG Limited",
    "group": "unknown",
    "city": "Essex",
+   "region": "England",
    "address": "23-27 Broomfield Road, Chelmsford, Essex, CM11SY, United Kingdom",
    "phone": "4407496744901",
    "website": "https://nostalgiatcg.com/",
@@ -10805,6 +14159,43 @@
    "checked_at": "2026-10-16T02:18:09Z"
   },
   {
+   "name": "NPJ TRADING LIMITED",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Ealing House, 33 Hanger Ln, London W5 3HJ",
+   "website": "http://npjtrading.co.uk/",
+   "checked_at": "2026-10-20T21:06:20Z"
+  },
+  {
+   "name": "Nutty Orange",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "124 City Rd, London EC1V 2NX",
+   "website": "https://nuttyorange.com/",
+   "checked_at": "2026-10-20T21:09:03Z"
+  },
+  {
+   "name": "NxtGenTrading LTD",
+   "group": "unknown",
+   "city": "Torquay",
+   "region": "England",
+   "address": "13 Tor Church Rd, Torquay TQ2 5UP",
+   "website": "https://www.nxtgentrading.co.uk",
+   "checked_at": "2026-10-20T21:07:33Z"
+  },
+  {
+   "name": "O2 Academy Brixton",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "211 Stockwell Rd, London SW9 9SL",
+   "phone": "020 7771 3000",
+   "website": "https://www.academymusicgroup.com/o2academybrixton",
+   "checked_at": "2026-10-20T21:08:29Z"
+  },
+  {
    "name": "Odyssey Games",
    "group": "unknown",
    "city": "Cambridgeshire",
@@ -10829,6 +14220,15 @@
    "checked_at": "2026-10-16T02:15:29Z"
   },
   {
+   "name": "Oh Squirrel",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "48 Hoe St, London E17 4PG",
+   "website": "https://ohsquirrel.co.uk/",
+   "checked_at": "2026-10-20T21:08:13Z"
+  },
+  {
    "name": "OK Comics",
    "group": "unknown",
    "city": "Leeds",
@@ -10837,6 +14237,16 @@
    "phone": "0113 246 9366",
    "website": "https://okcomics.co.uk/",
    "checked_at": "2026-10-16T02:25:03Z"
+  },
+  {
+   "name": "Olympia",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Hammersmith Rd, London W14 8UX",
+   "phone": "020 7385 1200",
+   "website": "https://www.olympia.co.uk/",
+   "checked_at": "2026-10-20T21:06:25Z"
   },
   {
    "name": "Omiyage Cards",
@@ -10905,6 +14315,16 @@
    "checked_at": "2026-10-16T02:22:33Z"
   },
   {
+   "name": "Oree Mart",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "Unit B, 12 Surrey St, Croydon CR0 1RG",
+   "phone": "020 3659 8028",
+   "website": "https://oreemart.com/",
+   "checked_at": "2026-10-20T21:05:55Z"
+  },
+  {
    "name": "oshoppu Kawaii",
    "group": "unknown",
    "city": "Norwich",
@@ -10926,6 +14346,36 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:59Z"
+  },
+  {
+   "name": "OVO Arena Wembley",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Arena Square, Engineers Way, Wembley Park, Wembley HA9 0AA",
+   "phone": "020 8782 5566",
+   "website": "https://www.ovoarena.co.uk/",
+   "checked_at": "2026-10-20T21:05:33Z"
+  },
+  {
+   "name": "Oxfam Books & Music Islington",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "48 Upper St, London N1 0PN",
+   "phone": "020 7359 6020",
+   "website": "https://www.oxfam.org.uk/shops/oxfam-books-music-islington/",
+   "checked_at": "2026-10-20T21:03:57Z"
+  },
+  {
+   "name": "Oxfam Music & Audio",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "23 The Grn, London W5 5DA",
+   "phone": "020 8810 1932",
+   "website": "https://www.oxfam.org.uk/",
+   "checked_at": "2026-10-20T21:06:21Z"
   },
   {
    "name": "Oxshed Cafe",
@@ -10975,6 +14425,16 @@
    "checked_at": "2026-10-16T02:27:01Z"
   },
   {
+   "name": "Palace Gardens Shopping Centre",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "14 Palace Gardens Shopping Centre, Enfield EN2 6SN",
+   "phone": "020 8367 1210",
+   "website": "https://palaceshopping.co.uk/",
+   "checked_at": "2026-10-20T21:07:26Z"
+  },
+  {
    "name": "Pandora's Playing Card Co.",
    "group": "unknown",
    "city": "Stretford",
@@ -11018,6 +14478,26 @@
    "phone": "0131 228 2790",
    "website": "https://www.papertiger.co.uk/",
    "checked_at": "2026-10-16T02:25:21Z"
+  },
+  {
+   "name": "Paper wonderland",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "5B Greenwich Market, London SE10 9HZ",
+   "phone": "07860 582875",
+   "website": "https://paperwonderland.co.uk/",
+   "checked_at": "2026-10-20T21:04:38Z"
+  },
+  {
+   "name": "Paperflow Ltd",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1, Access Self Storage, 20 Bugsby's Wy, London SE7 7SF",
+   "phone": "020 8331 2000",
+   "website": "https://shop.paperflowgroup.com",
+   "checked_at": "2026-10-20T21:06:40Z"
   },
   {
    "name": "Patriot Games",
@@ -11117,6 +14597,16 @@
    "checked_at": "2026-10-16T02:25:08Z"
   },
   {
+   "name": "Petticoat Lane Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "119-121 Middlesex St, London E1 7JF",
+   "phone": "020 7364 1717",
+   "website": "https://www.towerhamlets.gov.uk/lgnl/business/markets/markets_in_tower_hamlets.aspx",
+   "checked_at": "2026-10-20T21:04:43Z"
+  },
+  {
    "name": "Phantom Cards UK",
    "group": "unknown",
    "city": "Beeston",
@@ -11142,6 +14632,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:29Z"
+  },
+  {
+   "name": "Phonica Records",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "51 Poland St, London W1F 7ND",
+   "phone": "020 7025 6075",
+   "website": "http://www.phonicarecords.com/",
+   "checked_at": "2026-10-20T21:05:15Z"
+  },
+  {
+   "name": "Photomart",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Ellerman House, Woodall Rd, Enfield EN3 4LQ",
+   "phone": "020 8527 6006",
+   "website": "http://shop.photomart.co.uk/",
+   "checked_at": "2026-10-20T21:07:32Z"
   },
   {
    "name": "Pixel and Block Ltd",
@@ -11187,6 +14697,26 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:22Z"
+  },
+  {
+   "name": "PlaySites London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "33 Albert Square, London SW8 1BZ",
+   "phone": "07466 514569",
+   "website": "https://whitebook.co.uk/",
+   "checked_at": "2026-10-20T21:04:34Z"
+  },
+  {
+   "name": "Plinko-review App",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "89 Ivanhoe Dr, Harrow HA3 8QH",
+   "phone": "07867 000196",
+   "website": "https://plinko-reviews.co.uk/",
+   "checked_at": "2026-10-20T21:07:58Z"
   },
   {
    "name": "Pokemon Game Card",
@@ -11255,6 +14785,16 @@
    "checked_at": "2026-10-16T02:23:08Z"
   },
   {
+   "name": "Police Lifestyle Outlet Wembley",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Wembley Park Blvd, Wembley Park, Wembley HA9 0WS",
+   "phone": "020 8903 2872",
+   "website": "https://www.883police.com/?utm_source=gmb&utm_medium=profile&utm_campaign=wembley",
+   "checked_at": "2026-10-20T21:05:36Z"
+  },
+  {
    "name": "Pop & Pup Toy Shop",
    "group": "unknown",
    "city": "Stroud",
@@ -11266,6 +14806,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:18Z"
+  },
+  {
+   "name": "Pop Brixton",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "49 Brixton Station Rd, London SW9 8PQ",
+   "phone": "020 3879 8410",
+   "website": "https://www.popbrixton.org/",
+   "checked_at": "2026-10-20T21:08:25Z"
+  },
+  {
+   "name": "POP MART Camden High Street Store",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "259 Camden High St, London NW1 8QR",
+   "phone": "020 4547 6959",
+   "website": "https://www.popmart.com/gb",
+   "checked_at": "2026-10-20T21:03:26Z"
   },
   {
    "name": "POP MART Cardiff",
@@ -11301,6 +14861,86 @@
    "checked_at": "2026-10-16T02:23:25Z"
   },
   {
+   "name": "Postmark",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "123 Balham High Rd, London SW12 9AR",
+   "phone": "020 8675 7272",
+   "website": "https://postmarkonline.co.uk/",
+   "checked_at": "2026-10-16T02:23:25Z"
+  },
+  {
+   "name": "Postmark",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "England",
+   "address": "11 Sheen Rd, Richmond TW9 1AD",
+   "phone": "020 8948 8886",
+   "website": "https://postmarkonline.co.uk/",
+   "checked_at": "2026-10-16T02:23:25Z"
+  },
+  {
+   "name": "Poundland - High Road",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "435/441 High Rd, Wembley HA9 7AE",
+   "phone": "020 8902 1356",
+   "website": "https://www.poundland.co.uk/pages/store-finder",
+   "checked_at": "2026-10-20T21:05:42Z"
+  },
+  {
+   "name": "Poundland - Palace Parade",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "3-5 Palace Mews, London E17 7BU",
+   "phone": "020 8520 8193",
+   "website": "https://www.poundland.co.uk/pages/store-finder",
+   "checked_at": "2026-10-20T21:08:13Z"
+  },
+  {
+   "name": "Poundland - The Stratford Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "stratford centre, 43-44 Broadway, The E15 1XE",
+   "phone": "020 8555 8977",
+   "website": "https://www.poundland.co.uk/pages/store-finder",
+   "checked_at": "2026-10-20T21:05:25Z"
+  },
+  {
+   "name": "Poundstretcher",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "1-9 St John's Rd, Wembley HA9 7JX",
+   "phone": "020 8900 1534",
+   "website": "https://poundstretcher.co.uk/pages/wembley-156",
+   "checked_at": "2026-10-20T21:05:45Z"
+  },
+  {
+   "name": "Present & Correct",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "12 Bury Pl, London WC1A 2JL",
+   "phone": "020 7242 1421",
+   "website": "https://www.presentandcorrect.com/",
+   "checked_at": "2026-10-20T21:04:30Z"
+  },
+  {
+   "name": "Presents",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "22 Barnes High St, London SW13 9LW",
+   "phone": "020 8878 4899",
+   "website": "https://presentslondon.com/",
+   "checked_at": "2026-10-20T21:08:56Z"
+  },
+  {
    "name": "Prestige Wargaming",
    "group": "unknown",
    "city": "Barnsley",
@@ -11324,6 +14964,16 @@
    "checked_at": "2026-10-16T02:25:32Z"
   },
   {
+   "name": "Print Shop - Dotnpix Stratford | Instant Passport Photos | Gifts | Business Cards | Stickers| Flyers | Banners | Posters",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "4 Leytonstone Rd, London E15 1SE",
+   "phone": "020 8555 7786",
+   "website": "https://dotnpix.com/",
+   "checked_at": "2026-10-20T21:05:23Z"
+  },
+  {
    "name": "Pro Tech Games Limited",
    "group": "unknown",
    "city": "County Durham",
@@ -11336,6 +14986,24 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:53Z"
+  },
+  {
+   "name": "ProCollectibles Ltd.",
+   "group": "unknown",
+   "city": "Colchester",
+   "region": "England",
+   "address": "1A Eld Ln, Colchester CO1 1LS",
+   "website": "https://www.procollectibles.co.uk/",
+   "checked_at": "2026-10-20T21:07:06Z"
+  },
+  {
+   "name": "Protect and Collect",
+   "group": "unknown",
+   "city": "Gravesend",
+   "region": "England",
+   "address": "61 Pelham Rd S, Gravesend DA11 8QS",
+   "website": "https://www.protectandcollect.co.uk/",
+   "checked_at": "2026-10-20T21:06:34Z"
   },
   {
    "name": "Proud Lion Comics and Games",
@@ -11388,6 +15056,25 @@
    "checked_at": "2026-10-16T02:27:41Z"
   },
   {
+   "name": "Rachel & Malika's",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Granville Arcade, Coldharbour Ln, London SW9 8PR",
+   "phone": "07988 318125",
+   "website": "http://www.rachelandmalikas.com/",
+   "checked_at": "2026-10-20T21:08:25Z"
+  },
+  {
+   "name": "Ragtable Games",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "76 Meadow Rd, Watford WD25 0JA",
+   "website": "https://ragtablegames.com/",
+   "checked_at": "2026-10-20T21:08:04Z"
+  },
+  {
    "name": "Rajani Superstore Ltd",
    "group": "unknown",
    "city": "Bristol",
@@ -11398,6 +15085,16 @@
    "checked_at": "2026-10-16T02:25:58Z"
   },
   {
+   "name": "Rapid Photo Ltd",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "7 Brixton Station Rd, London SW9 8PA",
+   "phone": "020 7733 7325",
+   "website": "https://www.rapidphoto.co.uk/",
+   "checked_at": "2026-10-20T21:08:26Z"
+  },
+  {
    "name": "RareTCG",
    "group": "unknown",
    "city": "Liverpool",
@@ -11406,6 +15103,16 @@
    "phone": "07474 808322",
    "website": "https://raretcg.co.uk/",
    "checked_at": "2026-10-16T02:25:29Z"
+  },
+  {
+   "name": "Ravenspire Games",
+   "group": "unknown",
+   "city": "Manston",
+   "region": "England",
+   "address": "5, Spratling Court Office Suites, Manston, Ramsgate CT12 5AN",
+   "phone": "07802 485025",
+   "website": "https://ravenspiregames.co.uk/",
+   "checked_at": "2026-10-20T21:06:59Z"
   },
   {
    "name": "Reboot",
@@ -11420,6 +15127,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:08Z"
+  },
+  {
+   "name": "Records",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "70 Lee High Rd, London SE13 5PT",
+   "phone": "07990 252545",
+   "website": "https://recordcollectormag.com/dirs",
+   "checked_at": "2026-10-20T21:06:51Z"
   },
   {
    "name": "Red Brick Market Liverpool",
@@ -11471,6 +15188,15 @@
    "checked_at": "2026-10-16T02:18:14Z"
   },
   {
+   "name": "Reliance Arcade",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "455 Brixton Rd, London SW9 8JP",
+   "website": "https://reliancearcade.com/about/",
+   "checked_at": "2026-10-20T21:08:15Z"
+  },
+  {
    "name": "Replay",
    "group": "unknown",
    "city": "Bangor",
@@ -11510,6 +15236,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:45Z"
+  },
+  {
+   "name": "Retro Giant",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "18a to 18b, The Quadrant Arcade, South St, Romford RM1 3ED",
+   "phone": "0800 240 4702",
+   "website": "https://retrogiant.co.uk/",
+   "checked_at": "2026-10-20T21:07:00Z"
   },
   {
    "name": "Retrocards",
@@ -11630,6 +15366,26 @@
    "checked_at": "2026-10-16T02:18:47Z"
   },
   {
+   "name": "Romford Market",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "98 Market Pl, Romford RM1 3ER",
+   "phone": "01708 433324",
+   "website": "http://www.romford-market.co.uk/",
+   "checked_at": "2026-10-20T21:07:10Z"
+  },
+  {
+   "name": "Romford Shopping Hall",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "43 Market Pl, Romford RM1 3AB",
+   "phone": "01708 740492",
+   "website": "http://www.romfordshoppinghall.com/",
+   "checked_at": "2026-10-20T21:07:05Z"
+  },
+  {
    "name": "Royal Exchange Arcade",
    "group": "unknown",
    "city": "Manchester",
@@ -11638,6 +15394,16 @@
    "phone": "0161 711 0168",
    "website": "https://www.theroyalexchangemanchester.com/",
    "checked_at": "2026-10-16T02:24:32Z"
+  },
+  {
+   "name": "Royal Observatory Greenwich",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Blackheath Ave, London SE10 8XJ",
+   "phone": "020 8312 6608",
+   "website": "https://www.rmg.co.uk/royal-observatory",
+   "checked_at": "2026-10-20T21:06:36Z"
   },
   {
    "name": "RPG Taverns",
@@ -11650,6 +15416,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:17Z"
+  },
+  {
+   "name": "Rucan Games",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Flat 2, 2 Cardinal Way, London HA3 5TE",
+   "phone": "07428 479250",
+   "website": "https://rucangames.co.uk/",
+   "checked_at": "2026-10-20T21:03:35Z"
   },
   {
    "name": "Rules of Play",
@@ -11722,6 +15498,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:34Z"
+  },
+  {
+   "name": "Scale Factory",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "26 Southwark St, London SE1 1TU",
+   "phone": "020 3095 7609",
+   "website": "https://scalefactory.com/",
+   "checked_at": "2026-10-20T21:04:10Z"
   },
   {
    "name": "Science Museum Shop",
@@ -11844,6 +15630,26 @@
    "checked_at": "2026-10-16T02:24:26Z"
   },
   {
+   "name": "Scribbler",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "26 Upper St, London N1 0PQ",
+   "phone": "020 7359 4847",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
+   "name": "Scribbler",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "12 Church St, Kingston upon Thames KT1 1RJ",
+   "phone": "020 8974 9784",
+   "website": "https://www.scribbler.com/pages/store-locator?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=manchester",
+   "checked_at": "2026-10-16T02:24:26Z"
+  },
+  {
    "name": "Second Chance Games Limited",
    "group": "unknown",
    "city": "Birkenhead",
@@ -11854,6 +15660,16 @@
    "checked_at": "2026-10-16T02:25:36Z"
   },
   {
+   "name": "Selectric",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "15 Lee Rd, Blackheath Village, Blackheath, London SE3 9RQ",
+   "phone": "020 8852 0119",
+   "website": "https://www.selectric.co.uk/",
+   "checked_at": "2026-10-20T21:06:40Z"
+  },
+  {
    "name": "Senku Club",
    "group": "unknown",
    "city": "Solihull",
@@ -11861,6 +15677,16 @@
    "address": "57 Warwick Rd, Olton, Solihull B92 7HS",
    "website": "https://senkuclub.com/",
    "checked_at": "2026-10-16T02:23:57Z"
+  },
+  {
+   "name": "Set To Collect",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "36 Crouch Hill, Finsbury Park, London N4 4AU",
+   "phone": "07545 574801",
+   "website": "https://www.settocollect.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=823338992195334862",
+   "checked_at": "2026-10-20T21:09:04Z"
   },
   {
    "name": "Settlers",
@@ -11874,6 +15700,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:44Z"
+  },
+  {
+   "name": "Seven Dials Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Earlham St, London WC2H 9LX",
+   "website": "https://www.sevendialsmarket.com/",
+   "checked_at": "2026-10-20T21:04:58Z"
   },
   {
    "name": "Shadeglass Games",
@@ -11919,6 +15754,16 @@
    "phone": "023 8044 0556",
    "website": "https://svvs.shop/",
    "checked_at": "2026-10-16T02:28:10Z"
+  },
+  {
+   "name": "Shopstop @ Clapham Junction",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1, 20 St John's Hl, London SW11 1RU",
+   "phone": "020 7924 3451",
+   "website": "http://www.shopstopclaphamjunction.com/",
+   "checked_at": "2026-10-20T21:08:54Z"
   },
   {
    "name": "Side Quest",
@@ -12032,11 +15877,38 @@
    "checked_at": "2026-10-16T02:24:58Z"
   },
   {
+   "name": "Smyths Toys Superstores Colliers Wood",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 5b, tandem centre, London SW19 2TY",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
    "name": "Smyths Toys Superstores Edinburgh",
    "group": "unknown",
    "city": "Edinburgh",
    "region": "Scotland",
    "address": "27B, Fleming House, Fort Kinnaird Retail Park, Newcraighall Rd, Edinburgh EH15 3RD",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Enfield",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "UNIT 5, Enfield Retail Park, Great Cambridge Rd, Enfield EN1 3RW",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Greenford",
+   "group": "unknown",
+   "city": "Greenford",
+   "region": "England",
+   "address": "Unit 8b, Westway Cross Shopping Park, 1000 Greenford Rd, Greenford UB6 0UW",
    "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
    "checked_at": "2026-10-16T02:24:58Z"
   },
@@ -12122,6 +15994,24 @@
    "checked_at": "2026-10-16T02:24:58Z"
   },
   {
+   "name": "Smyths Toys Superstores Old Kent Road",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Unit 1a, Southernwood Retail Park, Old Kent Rd, London SE1 5JJ",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
+   "name": "Smyths Toys Superstores Romford",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit 6 The Brewery Walk, Romford RM1 1AU",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
    "name": "Smyths Toys Superstores Sheffield",
    "group": "unknown",
    "city": "Waterthorpe",
@@ -12158,6 +16048,15 @@
    "checked_at": "2026-10-16T02:24:58Z"
   },
   {
+   "name": "Smyths Toys Superstores Watford",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "Unit F, Waterfield Shopping Park, New Rd, Watford WD17 2EU",
+   "website": "https://www.smythstoys.com/uk/en-gb/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-G038-Leeds-Crown-Point",
+   "checked_at": "2026-10-16T02:24:58Z"
+  },
+  {
    "name": "Snacks and Ladders Board Game Cafe",
    "group": "unknown",
    "city": "Isle of Wight",
@@ -12168,6 +16067,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:23Z"
+  },
+  {
+   "name": "Snappy Snaps",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "44 High St, Croydon CR0 1YB",
+   "phone": "020 8667 0644",
+   "website": "https://www.snappysnaps.co.uk/croydon/",
+   "checked_at": "2026-10-20T21:05:51Z"
   },
   {
    "name": "Snaps Games",
@@ -12212,6 +16121,65 @@
    "checked_at": "2026-10-16T02:28:08Z"
   },
   {
+   "name": "Spitalfields Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "65 Brushfield St, London E1 6AA",
+   "phone": "020 7377 1496",
+   "website": "https://www.spitalfields.co.uk/",
+   "checked_at": "2026-10-20T21:04:49Z"
+  },
+  {
+   "name": "Splendid Trading",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "151-153 Shoreditch High St, London E1 6HU",
+   "phone": "020 7684 0000",
+   "website": "https://www.splendidtrading.co.uk/",
+   "checked_at": "2026-10-20T21:04:54Z"
+  },
+  {
+   "name": "Sports Cards Direct",
+   "group": "unknown",
+   "city": "Plymouth",
+   "region": "England",
+   "address": "315, Faraday Mill, Cattedown, Plymouth PL4 0ST",
+   "website": "https://www.sportscardsdirect.co.uk/",
+   "checked_at": "2026-10-20T21:07:49Z"
+  },
+  {
+   "name": "Sports Direct",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "213 Streatham High Rd, London SW16 6EG",
+   "phone": "0344 332 5365",
+   "website": "https://www.sportsdirect.com/LondonStreatham-store-0365",
+   "checked_at": "2026-10-20T21:04:22Z"
+  },
+  {
+   "name": "Sports Direct",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "21-23 The Broadway, London W5 2NH",
+   "phone": "0343 909 2163",
+   "website": "https://www.sportsdirect.com/ealing-store-2163",
+   "checked_at": "2026-10-20T21:06:13Z"
+  },
+  {
+   "name": "Sports Direct",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "Unit 12, St Anns Shopping Centre, St. Anns Rd, Harrow HA1 1LG",
+   "phone": "0343 909 2985",
+   "website": "https://www.sportsdirect.com/LDNHarrowSD-store-2982",
+   "checked_at": "2026-10-20T21:07:53Z"
+  },
+  {
    "name": "Sports Trading Cards UK Ltd",
    "group": "unknown",
    "city": "Edenbridge",
@@ -12230,6 +16198,16 @@
    "phone": "07445 835941",
    "website": "https://ssintgrading.com/",
    "checked_at": "2026-10-16T02:22:55Z"
+  },
+  {
+   "name": "St Ann's Shopping Centre",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "St. Anns Rd, Harrow HA1 1AT",
+   "phone": "020 8861 2282",
+   "website": "https://stannsshopping.co.uk/",
+   "checked_at": "2026-10-20T21:07:38Z"
   },
   {
    "name": "St David’s Dewi Sant",
@@ -12254,6 +16232,16 @@
    "checked_at": "2026-10-16T02:23:08Z"
   },
   {
+   "name": "St. George's, Harrow",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "St. Anns Rd, Harrow HA1 1HS",
+   "phone": "020 8424 2828",
+   "website": "http://www.stgeorgesshopping.co.uk/",
+   "checked_at": "2026-10-20T21:07:38Z"
+  },
+  {
    "name": "Stanley Gibbons",
    "group": "unknown",
    "city": "London",
@@ -12276,6 +16264,16 @@
    "checked_at": "2026-10-16T02:18:39Z"
   },
   {
+   "name": "Starling",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "5th Floor, Fruit & Wool Exchange, Duval Square, London E1 6PW",
+   "phone": "020 7930 4450",
+   "website": "https://www.starlingbank.com/",
+   "checked_at": "2026-10-20T21:05:17Z"
+  },
+  {
    "name": "Static Games",
    "group": "unknown",
    "city": "Glasgow",
@@ -12286,6 +16284,26 @@
    "checked_at": "2026-10-16T02:25:03Z"
   },
   {
+   "name": "Stepping Stones Greenwich",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "97 Trafalgar Rd, London SE10 9TS",
+   "phone": "07554 535415",
+   "website": "https://steppingstonesgreenwich.com/",
+   "checked_at": "2026-10-20T21:06:30Z"
+  },
+  {
+   "name": "Stratford Shopping Centre",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "54a Broadway, London E15 1NG",
+   "phone": "020 8536 5350",
+   "website": "https://stratfordshopping.co.uk/",
+   "checked_at": "2026-10-20T21:03:41Z"
+  },
+  {
    "name": "Stylecreep",
    "group": "unknown",
    "city": "Isleworth",
@@ -12294,6 +16312,15 @@
    "phone": "020 8560 9598",
    "website": "https://www.stylecreep.com/",
    "checked_at": "2026-10-16T02:23:31Z"
+  },
+  {
+   "name": "SwapMasters",
+   "group": "unknown",
+   "city": "Bexley",
+   "region": "England",
+   "address": "23 Beechway, Bexley DA5 3DQ",
+   "website": "https://swapmasters.co.uk/",
+   "checked_at": "2026-10-20T21:06:42Z"
   },
   {
    "name": "TableTaps",
@@ -12393,6 +16420,46 @@
    "checked_at": "2026-10-16T02:24:23Z"
   },
   {
+   "name": "TCG Globe Ltd",
+   "group": "unknown",
+   "city": "Belvedere",
+   "region": "England",
+   "address": "47 North Rd, Belvedere DA17 6JX",
+   "website": "https://www.tcgglobe.com/",
+   "buylist_url": "https://www.tcgglobe.com/sell_to_us",
+   "checked_at": "2026-10-20T21:08:19Z"
+  },
+  {
+   "name": "TCG Online Sales",
+   "group": "unknown",
+   "city": "Harlow",
+   "region": "England",
+   "address": "15 Brooklane Fld, Harlow CM18 7AS",
+   "phone": "07488 388538",
+   "website": "https://tcgonlinesales.co.uk/",
+   "checked_at": "2026-10-20T21:07:15Z"
+  },
+  {
+   "name": "TCG Zone",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "1 Ruislip Rd, London UB6 9QD",
+   "phone": "07412 849653",
+   "website": "https://tcgzones.com/",
+   "checked_at": "2026-10-20T21:07:35Z"
+  },
+  {
+   "name": "Tennis Gallery Wimbledon",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "112 Arthur Rd, London SW19 8AA",
+   "phone": "020 8715 8866",
+   "website": "https://tennisgallerywimbledon.com/",
+   "checked_at": "2026-10-20T21:08:36Z"
+  },
+  {
    "name": "TerrorBull Games",
    "group": "unknown",
    "city": "Cambridge",
@@ -12479,6 +16546,16 @@
    "address": "110 Bruntsfield Pl, Edinburgh EH10 4ES",
    "website": "https://thebaytreecompany.com/password",
    "checked_at": "2026-10-16T02:25:16Z"
+  },
+  {
+   "name": "The Best OnlineMemo London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "20 Tredegar Rd, Bow, London E3 2EL",
+   "phone": "351 025 0197",
+   "website": "https://www.hitachi-medical-systems.co.uk/",
+   "checked_at": "2026-10-20T21:04:44Z"
   },
   {
    "name": "The Big and The Small Games at The Core Caldicot",
@@ -12638,15 +16715,14 @@
    "checked_at": "2026-10-16T02:18:27Z"
   },
   {
-   "name": "The Collector store Delivery",
+   "name": "The Comic Art Website",
    "group": "unknown",
    "city": "London",
    "region": "England",
-   "address": "148 James's Rd, London SE1 5BW",
-   "phone": "07882 771959",
-   "website": "https://t.me/+cmAltjvh9nM2NzQx",
-   "buylist_url": "https://t.me/retailer/buylist",
-   "checked_at": "2026-10-16T02:23:05Z"
+   "address": "100 Midhurst Rd, London W13 9TP",
+   "phone": "07980 844906",
+   "website": "https://thecomicartwebsite.com/",
+   "checked_at": "2026-10-20T21:06:22Z"
   },
   {
    "name": "The Comic Shop LTD",
@@ -12831,6 +16907,66 @@
    "checked_at": "2026-10-16T02:24:20Z"
   },
   {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "SU0060 Montfichet Rd, London E20 1EH",
+   "phone": "020 8519 6608",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Ariel Way, London W12 7SL",
+   "phone": "020 8746 7815",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "Unit L10 - 11, Wood St, Kingston upon Thames KT1 1TR",
+   "phone": "020 8541 4630",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Bromley",
+   "region": "England",
+   "address": "Unit 203-204, Glades Shopping Centre, High St, Bromley BR1 1DN",
+   "phone": "020 8460 2289",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "Unit 13/14, The Brewery, Waterloo Rd, Romford RM1 1BG",
+   "phone": "01708 720440",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
+   "name": "The Entertainer",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "Harlequin Shopping Centre, Unit B, 83-87 High St, Watford WD17 2UB",
+   "phone": "01923 804709",
+   "website": "https://www.thetoyshop.com/store/Birmingham/?utm_source=google&utm_medium=local",
+   "checked_at": "2026-10-16T02:24:20Z"
+  },
+  {
    "name": "The Game Shop",
    "group": "unknown",
    "city": "Crystal Peaks",
@@ -12900,6 +17036,16 @@
    "checked_at": "2026-10-16T02:24:08Z"
   },
   {
+   "name": "The Glades, Bromley",
+   "group": "unknown",
+   "city": "Bromley",
+   "region": "England",
+   "address": "64 High St, Bromley BR1 1DN",
+   "phone": "020 8313 9292",
+   "website": "https://www.theglades.co.uk/",
+   "checked_at": "2026-10-20T21:06:54Z"
+  },
+  {
    "name": "The Goblins Nook",
    "group": "unknown",
    "city": "Southampton",
@@ -12952,6 +17098,35 @@
    "checked_at": "2026-10-16T02:24:56Z"
   },
   {
+   "name": "The Greenwich Vintage Market",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "2 Greenwich Church St, London SE10 9BQ",
+   "phone": "07775 246473",
+   "website": "https://www.greenwichvintagemarket.co.uk/",
+   "checked_at": "2026-10-20T21:06:46Z"
+  },
+  {
+   "name": "The Heart of Gaming",
+   "group": "unknown",
+   "city": "Road",
+   "region": "England",
+   "address": "44-46 N End, Road, London, Croydon CR0 1UG",
+   "phone": "07707 929453",
+   "website": "https://www.heartofgaming.co.uk/",
+   "checked_at": "2026-10-20T21:05:49Z"
+  },
+  {
+   "name": "The Heroes Guild",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "112f High St, London E17 7JY",
+   "website": "https://www.theheroesguild.co.uk/",
+   "checked_at": "2026-10-20T21:08:08Z"
+  },
+  {
    "name": "The Hive Gaming",
    "group": "unknown",
    "city": "Oxon",
@@ -13001,6 +17176,25 @@
    "checked_at": "2026-10-16T02:17:40Z"
   },
   {
+   "name": "The Junk Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "9 Greenwich S St, London SE10 8NW",
+   "phone": "020 8305 1666",
+   "website": "https://www.junkshoplondon.co.uk/",
+   "checked_at": "2026-10-20T21:06:46Z"
+  },
+  {
+   "name": "The Knave of Clubs",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "25 Bethnal Grn Rd, London E1 6HT",
+   "website": "https://www.theknaveofclubs.co.uk/",
+   "checked_at": "2026-10-20T21:04:59Z"
+  },
+  {
    "name": "The Last Outpost",
    "group": "unknown",
    "city": "Airdrie",
@@ -13047,6 +17241,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:49Z"
+  },
+  {
+   "name": "The London Archives",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "40 Northampton Rd, London EC1R 0HB",
+   "phone": "020 7332 3820",
+   "website": "https://www.thelondonarchives.org/",
+   "checked_at": "2026-10-20T21:05:13Z"
   },
   {
    "name": "The Ludoquist",
@@ -13123,6 +17327,16 @@
    "checked_at": "2026-10-16T02:12:44Z"
   },
   {
+   "name": "The Nerd Hut",
+   "group": "unknown",
+   "city": "Ipswich",
+   "region": "England",
+   "address": "23, 23a Buttermarket, Ipswich IP1 1BQ",
+   "phone": "01473 922192",
+   "website": "https://thenerdhut.co.uk/",
+   "checked_at": "2026-10-20T21:07:27Z"
+  },
+  {
    "name": "The Noble Collection",
    "group": "unknown",
    "city": "London",
@@ -13133,9 +17347,30 @@
    "checked_at": "2026-10-16T02:23:45Z"
   },
   {
+   "name": "The O2",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Peninsula Square, London SE10 0DX",
+   "phone": "020 8463 2000",
+   "website": "https://www.theo2.co.uk/",
+   "checked_at": "2026-10-20T21:06:37Z"
+  },
+  {
+   "name": "The Old Oak Playing Cards",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "1 Old School Pl, Croydon CR0 4GA",
+   "phone": "07790 007794",
+   "website": "https://theoldoak-playingcards.com/",
+   "checked_at": "2026-10-20T21:05:52Z"
+  },
+  {
    "name": "The other games",
    "group": "unknown",
    "city": "Essex",
+   "region": "England",
    "address": "room 11 and 12, 128 Newland Street, Witham, Essex, CM8 1BA, United Kingdom",
    "phone": "+4407375877805",
    "website": "https://www.theothergames.co.uk/",
@@ -13169,6 +17404,26 @@
    "checked_at": "2026-10-16T02:25:20Z"
   },
   {
+   "name": "The Perfume Shop",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Unit 1, Central Square, Wembley HA9 7AJ",
+   "phone": "020 8795 1631",
+   "website": "https://www.theperfumeshop.com/store/wembley-the-perfume-shop-central/?utm_source=google&utm_medium=organic&utm_campaign=306",
+   "checked_at": "2026-10-20T21:05:45Z"
+  },
+  {
+   "name": "The Perfume Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "c, Superdrug, o, 452-456 Brixton Rd, London SW9 8EA",
+   "phone": "020 7274 0706",
+   "website": "https://www.theperfumeshop.com/store/london-the-perfume-shop-brixton-superdrug/?utm_source=google&utm_medium=organic&utm_campaign=554",
+   "checked_at": "2026-10-20T21:08:35Z"
+  },
+  {
    "name": "The Pit Gaming Shop & Hobby Centre",
    "group": "unknown",
    "city": "Borehamwood",
@@ -13179,6 +17434,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:36Z"
+  },
+  {
+   "name": "The Pitshanger Bookshop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "141 Pitshanger Ln, London W5 1RH",
+   "phone": "020 8991 8131",
+   "website": "https://www.pitshangerbooks.co.uk/",
+   "checked_at": "2026-10-20T21:06:22Z"
   },
   {
    "name": "The PokiPlug",
@@ -13260,6 +17525,26 @@
    "address": "Units E & F, Cityside Leisure and Retail Complex, 100-150 York St, Belfast BT15 1WA",
    "website": "https://www.retroroombelfast.com/",
    "checked_at": "2026-10-16T02:27:54Z"
+  },
+  {
+   "name": "The Rift",
+   "group": "unknown",
+   "city": "Peterborough",
+   "region": "England",
+   "address": "Rivergate Arcade, Viersen Platz, Peterborough PE1 1EL",
+   "phone": "01733 341007",
+   "website": "https://www.therift.biz/",
+   "checked_at": "2026-10-20T21:06:55Z"
+  },
+  {
+   "name": "The Saleroom",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "The Harlequin Building, 65 Southwark St, London SE1 0HR",
+   "phone": "020 3725 5555",
+   "website": "https://www.the-saleroom.com/",
+   "checked_at": "2026-10-20T21:04:20Z"
   },
   {
    "name": "The Scotland Card Show",
@@ -13344,6 +17629,26 @@
    "checked_at": "2026-10-16T21:46:22Z"
   },
   {
+   "name": "The Toy Station",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "England",
+   "address": "6 Eton St, Richmond TW9 1EE",
+   "phone": "020 8940 4896",
+   "website": "https://thetoysstation.com/pages/contact-us",
+   "checked_at": "2026-10-20T21:06:06Z"
+  },
+  {
+   "name": "The Trading Post",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "1-3 Beresford Ave, Wembley HA0 1NU",
+   "phone": "020 8903 3727",
+   "website": "https://www.tradingposthire.co.uk/",
+   "checked_at": "2026-10-20T21:05:30Z"
+  },
+  {
    "name": "The Venue Plymouth",
    "group": "unknown",
    "city": "Plymouth",
@@ -13356,6 +17661,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:24Z"
+  },
+  {
+   "name": "The Village Card Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "29 Streatham Vale, London SW16 5SE",
+   "phone": "020 8679 1845",
+   "website": "https://www.villagecardshop.co.uk/",
+   "checked_at": "2026-10-20T21:04:24Z"
   },
   {
    "name": "The Warp",
@@ -13373,6 +17688,16 @@
    "checked_at": "2026-10-16T02:17:29Z"
   },
   {
+   "name": "The Wimbledon Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "The All England Lawn Tennis Club, Church Rd, London SW19 5AE",
+   "phone": "020 8879 5255",
+   "website": "https://shop.wimbledon.com/",
+   "checked_at": "2026-10-20T21:08:39Z"
+  },
+  {
    "name": "The Woking Wargames Store",
    "group": "unknown",
    "city": "Woking",
@@ -13384,6 +17709,86 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:17Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "45-46 Broadway, London E15 1XE",
+   "phone": "020 8519 9174",
+   "website": "https://www.theworks.co.uk/Store?storeId=0772",
+   "checked_at": "2026-10-20T21:03:44Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "29 St. Anns Rd, Harrow HA1 1JU",
+   "phone": "020 8427 2046",
+   "website": "https://www.theworks.co.uk/Store?storeId=0701",
+   "checked_at": "2026-10-20T21:05:44Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Croydon",
+   "region": "England",
+   "address": "1105 Whitgift Centre, Croydon CR0 1UY",
+   "phone": "020 8760 9244",
+   "website": "https://www.theworks.co.uk/Store?storeId=0309",
+   "checked_at": "2026-10-20T21:05:52Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Richmond",
+   "region": "England",
+   "address": "47 George St, Richmond TW9 1HJ",
+   "phone": "020 8948 3595",
+   "website": "https://www.theworks.co.uk/Store?storeId=1223",
+   "checked_at": "2026-10-20T21:06:06Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Ilford",
+   "region": "England",
+   "address": "108-110 High Rd, Ilford IG1 1DS",
+   "phone": "020 8478 7487",
+   "website": "https://www.theworks.co.uk/Store?storeId=0847",
+   "checked_at": "2026-10-20T21:07:16Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "Palace Gardens Shopping Centre, Enfield EN2 6SN",
+   "phone": "020 8363 0075",
+   "website": "https://www.theworks.co.uk/Store?storeId=0761",
+   "checked_at": "2026-10-20T21:07:24Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "Unit 129, Intu, Watford WD17 2TJ",
+   "phone": "01923 225955",
+   "website": "https://www.theworks.co.uk/Store?storeId=1228&storeDistance=Less%20than%201%20mile%20away&prevNextIndex=0&prevNextList=[{%22id%22:%221228%22,%22dis%22:%22Less%20than%201%20mile%22},{%22id%22:%220701%22,%22dis%22:%225.7%C2%A0miles%22},{%22id%22:%220838%22,%22dis%22:%225.8%C2%A0miles%22},{%22id%22:%220855%22,%22dis%22:%227.2%C2%A0miles%22},{%22id%22:%220192%22,%22dis%22:%227.3%C2%A0miles%22},{%22id%22:%220653%22,%22dis%22:%228.2%C2%A0miles%22},{%22id%22:%220655%22,%22dis%22:%228.4%C2%A0miles%22},{%22id%22:%220265%22,%22dis%22:%229.9%C2%A0miles%22},{%22id%22:%221168%22,%22dis%22:%2210.6%C2%A0miles%22},{%22id%22:%221166%22,%22dis%22:%2212.1%C2%A0miles%22}]",
+   "checked_at": "2026-10-20T21:08:06Z"
+  },
+  {
+   "name": "The Works",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "105-107 High Rd, London N22 6BB",
+   "phone": "020 8881 7164",
+   "website": "https://www.theworks.co.uk/Store?storeId=1041",
+   "checked_at": "2026-10-20T21:08:14Z"
   },
   {
    "name": "The Wyrd Shop",
@@ -13428,6 +17833,25 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:57Z"
+  },
+  {
+   "name": "Thomas FARTHING",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "40 Museum St, London WC1A 1LU",
+   "phone": "020 7831 1600",
+   "website": "https://thomasfarthing.co.uk/",
+   "checked_at": "2026-10-20T21:05:19Z"
+  },
+  {
+   "name": "Thunderbolt Cards",
+   "group": "unknown",
+   "city": "New Malden",
+   "region": "England",
+   "address": "19 Coombe Rd, New Malden KT3 4QG",
+   "website": "https://thunderboltcards.com/",
+   "checked_at": "2026-10-20T21:04:16Z"
   },
   {
    "name": "Tian's Gifts",
@@ -13531,6 +17955,16 @@
    "checked_at": "2026-10-16T02:15:39Z"
   },
   {
+   "name": "TokyoToys",
+   "group": "unknown",
+   "city": "Sidcup",
+   "region": "England",
+   "address": "6 Marechal Niel Parade, Main Rd, Sidcup DA14 6QF",
+   "phone": "020 3645 5050",
+   "website": "https://tokyotoys.com/",
+   "checked_at": "2026-10-16T02:15:39Z"
+  },
+  {
    "name": "TokyoToys Anime, Manga Store + Video Game Merchandise.",
    "group": "unknown",
    "city": "Glasgow",
@@ -13551,6 +17985,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:13:30Z"
+  },
+  {
+   "name": "Top+ LTD (SELLMOBILES.ONLINE) Sell Trade Your Old Mobiles & Devices for instant payments",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "183 Merton Rd, London SW19 1EE",
+   "phone": "07772 000445",
+   "website": "https://sellmobiles.online/",
+   "checked_at": "2026-10-20T21:08:47Z"
   },
   {
    "name": "TopDog TCG",
@@ -13588,6 +18032,16 @@
    "checked_at": "2026-10-16T02:15:29Z"
   },
   {
+   "name": "Tottenham Experience - Spurs Shop",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "782 High Rd, London N17 0BX",
+   "phone": "0344 499 5000",
+   "website": "https://shop.tottenhamhotspur.com/",
+   "checked_at": "2026-10-20T21:07:32Z"
+  },
+  {
    "name": "Touché",
    "group": "unknown",
    "city": "Dorset",
@@ -13610,6 +18064,16 @@
    "checked_at": "2026-10-16T02:29:00Z"
   },
   {
+   "name": "Toys Games 4U",
+   "group": "unknown",
+   "city": "Ilford",
+   "region": "England",
+   "address": "16 Saunders Cl, Ilford IG1 4DF",
+   "phone": "020 8478 2228",
+   "website": "https://toygames4u.co.uk/",
+   "checked_at": "2026-10-20T21:07:15Z"
+  },
+  {
    "name": "Toys4you",
    "group": "unknown",
    "city": "Birmingham",
@@ -13628,6 +18092,16 @@
    "phone": "0117 985 3515",
    "website": "https://toyvilleshop.co.uk/",
    "checked_at": "2026-10-16T02:25:43Z"
+  },
+  {
+   "name": "Trade Warehouse",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Access Business Centre, Manor Rd, London W13 0AS",
+   "phone": "020 8037 6020",
+   "website": "https://tradewarehouse.co.uk/",
+   "checked_at": "2026-10-20T21:06:15Z"
   },
   {
    "name": "Tradewii Cards",
@@ -13657,6 +18131,16 @@
    "address": "16 Cleveland Terrace, North Shields NE29 0NN",
    "website": "https://tradingcardheaven.com/",
    "checked_at": "2026-10-16T02:26:21Z"
+  },
+  {
+   "name": "Traid Hammersmith",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "119 King St, London W6 9JG",
+   "phone": "020 8748 5946",
+   "website": "https://traid.org.uk/",
+   "checked_at": "2026-10-20T21:06:27Z"
   },
   {
    "name": "Trainers Mile LTD",
@@ -13831,6 +18315,16 @@
    "checked_at": "2026-10-16T02:26:58Z"
   },
   {
+   "name": "United Kingdom",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "10 St George St, Greater, London W1S 2FE",
+   "phone": "07379 415347",
+   "website": "https://saints-alive.co.uk/",
+   "checked_at": "2026-10-20T21:04:01Z"
+  },
+  {
    "name": "Vale Packaging Supplies",
    "group": "unknown",
    "city": "Llandough",
@@ -13978,6 +18472,16 @@
    "checked_at": "2026-10-16T02:18:19Z"
   },
   {
+   "name": "Walthamstow Queen's Road",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "London E17 7QB, UK",
+   "phone": "0343 222 1234",
+   "website": "https://tfl.gov.uk/overground/stop/910GWLTHQRD/walthamstow-queens-road-rail-station/?Input=Walthamstow+Queens+Road+Rail+Station",
+   "checked_at": "2026-10-20T21:08:14Z"
+  },
+  {
    "name": "Wargames Workshop - Milton Keynes",
    "group": "unknown",
    "city": "n/a",
@@ -14026,6 +18530,36 @@
    "region": "England",
    "address": "1A, Bush House, New Inn Hall St, Oxford OX1 2DH",
    "phone": "01865 242182",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "33 Fife Rd, Kingston upon Thames KT1 1SF",
+   "phone": "020 8549 5224",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Bromley",
+   "region": "England",
+   "address": "Unit 24 The Mall, Bromley BR1 1TS",
+   "phone": "020 8466 0678",
+   "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
+   "checked_at": "2026-10-16T02:26:54Z"
+  },
+  {
+   "name": "Warhammer",
+   "group": "unknown",
+   "city": "Watford",
+   "region": "England",
+   "address": "1, Unit Q, Harlequin Centre, Queen's Rd, Watford WD17 2LH",
+   "phone": "01923 245388",
    "website": "https://www.warhammer.com/en-GB/home?utm_source=Google&utm_medium=Yext",
    "checked_at": "2026-10-16T02:26:54Z"
   },
@@ -14092,6 +18626,46 @@
    "checked_at": "2026-10-16T02:16:12Z"
   },
   {
+   "name": "Waterstones",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Cardinal Place, 88 Victoria St, London SW1E 5JL",
+   "phone": "020 3409 2481",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "city": "Kingston upon Thames",
+   "region": "England",
+   "address": "Unit S9, Wood St, Kingston upon Thames KT1 1TR",
+   "phone": "020 8974 6811",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "city": "Bromley",
+   "region": "England",
+   "address": "The Glades Shopping Centre, 100 High St, Bromley BR1 1DJ",
+   "phone": "020 8460 6037",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Waterstones",
+   "group": "unknown",
+   "city": "Enfield",
+   "region": "England",
+   "address": "26 Church St, Enfield EN2 6BE",
+   "phone": "020 8363 6060",
+   "website": "https://www.waterstones.com/bookshops/newport-gwent",
+   "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
    "name": "Waterstones - Newport",
    "group": "unknown",
    "city": "Newport",
@@ -14103,6 +18677,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:12Z"
+  },
+  {
+   "name": "Wayland Games Centre - Brentwood",
+   "group": "unknown",
+   "city": "West Horndon",
+   "region": "England",
+   "address": "3 Tilbury Rd, West Horndon, Brentwood CM13 3LR",
+   "phone": "0330 380 0333",
+   "website": "https://centres.waylandgames.co.uk/",
+   "checked_at": "2026-10-20T21:07:02Z"
   },
   {
    "name": "Wayland's Forge",
@@ -14131,6 +18715,26 @@
    "checked_at": "2026-10-16T02:24:07Z"
   },
   {
+   "name": "Weald News",
+   "group": "unknown",
+   "city": "Harrow",
+   "region": "England",
+   "address": "55 High St, Harrow HA3 5DQ",
+   "phone": "020 8427 1457",
+   "website": "https://wealdnews.com/",
+   "checked_at": "2026-10-20T21:07:55Z"
+  },
+  {
+   "name": "Wembley Stadium Store",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "Stadium, Wembley HA9 0WS",
+   "phone": "0330 138 5077",
+   "website": "https://www.englandstore.com/en/",
+   "checked_at": "2026-10-20T21:05:27Z"
+  },
+  {
    "name": "West End Games Ltd.",
    "group": "unknown",
    "city": "Glasgow",
@@ -14142,6 +18746,26 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:42Z"
+  },
+  {
+   "name": "Westfield London",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Ariel Way, London W12 7GF",
+   "phone": "020 3371 2300",
+   "website": "https://www.westfield.com/en/united-kingdom/london?utm_source=google&utm_medium=GMB",
+   "checked_at": "2026-10-20T21:05:04Z"
+  },
+  {
+   "name": "Westfield Stratford City",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "Montfichet Rd, London E20 1EJ",
+   "phone": "020 8221 7300",
+   "website": "https://www.westfield.com/en/united-kingdom/stratfordcity?utm_source=google&utm_medium=GMB",
+   "checked_at": "2026-10-20T21:03:37Z"
   },
   {
    "name": "Westgate Oxford",
@@ -14199,6 +18823,26 @@
    "checked_at": "2026-10-16T02:18:13Z"
   },
   {
+   "name": "Wimbledon Books",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "40 High Street Wimbledon, London SW19 5AU",
+   "phone": "020 8879 3101",
+   "website": "https://www.wimbledonbooks.co.uk/",
+   "checked_at": "2026-10-20T21:08:48Z"
+  },
+  {
+   "name": "Wireless Terminal Solutions",
+   "group": "unknown",
+   "city": "Wallington",
+   "region": "England",
+   "address": "14 Danbury Mews, Wallington SM6 0BW",
+   "phone": "0345 459 9984",
+   "website": "https://wirelessterminalsolutions.co.uk/",
+   "checked_at": "2026-10-20T21:05:49Z"
+  },
+  {
    "name": "Wishlist Collectables",
    "group": "unknown",
    "city": "London",
@@ -14225,6 +18869,16 @@
    "checked_at": "2026-10-16T02:18:55Z"
   },
   {
+   "name": "Woody's of Wembley",
+   "group": "unknown",
+   "city": "Wembley",
+   "region": "England",
+   "address": "565 High Rd, Wembley HA0 2DW",
+   "phone": "020 8902 7217",
+   "website": "https://woodysofwembley.com/",
+   "checked_at": "2026-10-20T21:05:30Z"
+  },
+  {
    "name": "World Of Superheroes",
    "group": "unknown",
    "city": "Sheffield",
@@ -14243,6 +18897,16 @@
    "website": "https://forbiddenplanet.co.uk/",
    "buylist_url": "https://shop.forbiddenplanet.co.uk/pages/buylist",
    "checked_at": "2026-10-16T02:13:59Z"
+  },
+  {
+   "name": "Worldwide Signings",
+   "group": "unknown",
+   "city": "Romford",
+   "region": "England",
+   "address": "43 Market Pl, Romford RM1 3AB",
+   "phone": "07908 505071",
+   "website": "https://www.worldwidesigningsevents.co.uk/",
+   "checked_at": "2026-10-20T21:07:02Z"
   },
   {
    "name": "Wright Cards",
@@ -14275,6 +18939,25 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:02Z"
+  },
+  {
+   "name": "Your Creative Space",
+   "group": "unknown",
+   "city": "London",
+   "region": "England",
+   "address": "345 Garratt Ln, London SW18 4DX",
+   "phone": "020 8037 8286",
+   "website": "https://www.yourcreativespace.org/",
+   "checked_at": "2026-10-20T21:08:47Z"
+  },
+  {
+   "name": "Zard Cardz LTD",
+   "group": "unknown",
+   "city": "Harpenden",
+   "region": "England",
+   "address": "10 Piggottshill Ln, Harpenden AL5 1LH",
+   "website": "https://www.zardcardz.co.uk/",
+   "checked_at": "2026-10-20T21:08:03Z"
   },
   {
    "name": "Zatu Games",
