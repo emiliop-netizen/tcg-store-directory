@@ -1,8 +1,8 @@
 {
  "country": "RO",
  "currency": "RON",
- "updated": "2026-10-16",
- "store_count": 128,
+ "updated": "2026-10-20",
+ "store_count": 131,
  "stores": [
   {
    "name": "Antic ExLibris",
@@ -32,7 +32,7 @@
    "address": "Calea Mănăștur 2, 400394 Cluj-Napoca",
    "phone": "0732 550 960",
    "website": "https://carturesti.ro/",
-   "checked_at": "2026-10-17T05:17:18Z"
+   "checked_at": "2026-10-17T05:17:47Z"
   },
   {
    "name": "Cărturești",
@@ -42,7 +42,7 @@
    "address": "Strada Avram Iancu 492-500, 407280 Florești",
    "phone": "0732 003 054",
    "website": "https://carturesti.ro/",
-   "checked_at": "2026-10-17T05:17:33Z"
+   "checked_at": "2026-10-17T05:17:47Z"
   },
   {
    "name": "Cărturești Carusel",
@@ -52,7 +52,7 @@
    "address": "Strada Lipscani 55, 030033 București",
    "phone": "0728 828 922",
    "website": "https://carturesti.ro/",
-   "checked_at": "2026-10-17T05:16:50Z"
+   "checked_at": "2026-10-17T05:17:47Z"
   },
   {
    "name": "Decathlon",
@@ -82,7 +82,7 @@
    "address": "Drumul Dealul Bisericii 67-109, 042157 București",
    "phone": "021 406 5200",
    "website": "https://corporate.e-jumbo.gr/ro/",
-   "checked_at": "2026-10-17T05:17:01Z"
+   "checked_at": "2026-10-17T05:17:59Z"
   },
   {
    "name": "KRIT Brasov",
@@ -109,7 +109,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:16:22Z"
+   "checked_at": "2026-10-17T05:16:33Z"
   },
   {
    "name": "Librărie Bookcity Timișoara",
@@ -236,6 +236,16 @@
    "checked_at": "2026-10-17T05:17:29Z"
   },
   {
+   "name": "Dr Antiques",
+   "group": "in_store",
+   "city": "Cluj-Napoca",
+   "region": "CJ",
+   "address": "in curte / in the courtyard, Piața Unirii 11 / 4, 400015 Cluj-Napoca",
+   "phone": "0742 994 058",
+   "website": "http://www.facebook.com/DrAntiquesCluj/",
+   "checked_at": "2026-10-17T05:17:17Z"
+  },
+  {
    "name": "Frames&Tapet",
    "group": "in_store",
    "city": "Timișoara",
@@ -320,6 +330,26 @@
    "region": "CJ",
    "address": "DN1F 77, 400394 Cluj-Napoca",
    "checked_at": "2026-10-17T05:17:29Z"
+  },
+  {
+   "name": "Magazin Creativ Hobby",
+   "group": "in_store",
+   "city": "Cluj-Napoca",
+   "region": "CJ",
+   "address": "Strada Andrei Șaguna 22, 400394 Cluj-Napoca",
+   "phone": "0769 789 835",
+   "website": "https://www.facebook.com/profile.php?id=100057310666165",
+   "checked_at": "2026-10-17T05:17:17Z"
+  },
+  {
+   "name": "Magazin Jucarii pentru copii",
+   "group": "in_store",
+   "city": "Cluj-Napoca",
+   "region": "CJ",
+   "address": "Calea Mănăștur, 400000 Cluj-Napoca",
+   "phone": "0760 616 156",
+   "website": "https://www.facebook.com/Juc%C4%83rii-Copii-111024230389999/",
+   "checked_at": "2026-10-17T05:17:17Z"
   },
   {
    "name": "Magazin mixt",
@@ -941,8 +971,8 @@
    "region": "CJ",
    "address": "Bulevardul Eroilor Nr 15, 400129 Cluj-Napoca",
    "phone": "0747 012 979",
-   "website": "https://www.librariumgrup.ro/bookcorner",
-   "checked_at": "2026-10-17T05:17:31Z"
+   "website": "https://www.librariumgrup.ro/carteadenisip",
+   "checked_at": "2026-10-17T05:17:56Z"
   },
   {
    "name": "Librăria Cartea de Nisip",
@@ -1246,7 +1276,7 @@
    "address": "Strada Aurel Vlaicu 4, 400690 Cluj-Napoca",
    "phone": "0748 873 377",
    "website": "https://www.usedproducts.ro/",
-   "checked_at": "2026-10-17T05:17:18Z"
+   "checked_at": "2026-10-17T05:17:43Z"
   },
   {
    "name": "Used Products Timisoara - Centru",

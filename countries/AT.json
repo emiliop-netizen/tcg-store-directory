@@ -1,8 +1,8 @@
 {
  "country": "AT",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 206,
+ "updated": "2026-10-20",
+ "store_count": 204,
  "stores": [
   {
    "name": "Rare Hunter Shop",
@@ -189,17 +189,6 @@
    "checked_at": "2026-10-16T03:36:26Z"
   },
   {
-   "name": "Krakencards.eu",
-   "group": "blocked",
-   "address": "34/27 Hlavná, Rovinka, Senec, 900 41, Slovakia",
-   "phone": "+421911426520",
-   "website": "https://krakencards.eu/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:29Z"
-  },
-  {
    "name": "Thalia",
    "group": "blocked",
    "city": "Graz",
@@ -317,6 +306,15 @@
    "checked_at": "2026-10-16T03:34:03Z"
   },
   {
+   "name": "EOW",
+   "group": "in_store",
+   "city": "Graz",
+   "region": "Steiermark",
+   "address": "Alte Poststraße 470, 8055 Graz",
+   "website": "https://www.facebook.com/EOW-292776197559297/?fref=ts",
+   "checked_at": "2026-10-16T03:33:16Z"
+  },
+  {
    "name": "Erika Papier Inh Brigitte Kreuziger",
    "group": "in_store",
    "city": "Wien",
@@ -332,6 +330,20 @@
    "region": "Wien",
    "address": "Stadlauer Str. 64, 1220 Wien",
    "checked_at": "2026-10-16T03:34:19Z"
+  },
+  {
+   "name": "Game and Dine",
+   "group": "in_store",
+   "city": "Linz",
+   "region": "Oberösterreich",
+   "address": "9 Blumauerstraße, Linz, Oberösterreich, 4020, Austria",
+   "phone": "+436641365679",
+   "website": "https://www.facebook.com/GameDine/?locale=de_DE",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:33:16Z"
   },
   {
    "name": "GameBook",
@@ -385,6 +397,17 @@
    "checked_at": "2026-10-16T03:34:02Z"
   },
   {
+   "name": "Inncardia",
+   "group": "in_store",
+   "address": "16 Friedrich-Thurner-Straße, Ried im Innkreis, Oberösterreich, 4910, Austria",
+   "phone": "+4365044322452",
+   "website": "https://www.instagram.com/inncardia",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:33:36Z"
+  },
+  {
    "name": "JOKER",
    "group": "in_store",
    "city": "Wien",
@@ -412,8 +435,13 @@
    "group": "in_store",
    "city": "Kufstein",
    "region": "Tirol",
-   "address": "Feldgasse 1 Kufstein Galerien, 1.OG, 6330 Kufstein",
-   "checked_at": "2026-10-16T21:50:06Z"
+   "address": "1 Feldgasse, Kufstein, Tirol, 6330, Austria",
+   "phone": "+436765465191",
+   "website": "https://www.instagram.com/lootboxkufstein/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:33:36Z"
   },
   {
    "name": "Möldner GmbH",
@@ -446,25 +474,22 @@
    "checked_at": "2026-10-16T03:34:15Z"
   },
   {
-   "name": "Rune Traders",
-   "group": "in_store",
-   "city": "Wien",
-   "region": "Wien",
-   "address": "5 Ulica Vita Kraigherja, Maribor, Maribor, 2000, Slovenia",
-   "phone": "+386030744779",
-   "website": "https://www.instagram.com/runetraders/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:36Z"
-  },
-  {
    "name": "Sammelkarten - Trafik am Hasnerplatz",
    "group": "in_store",
    "city": "Graz",
    "region": "Steiermark",
    "address": "Theodor-Körner-Straße 39, 8010 Graz",
    "checked_at": "2026-10-16T03:35:07Z"
+  },
+  {
+   "name": "Spielzeugschachtel Wien – Kinderbücher & Spielwaren",
+   "group": "in_store",
+   "city": "Wien",
+   "region": "Wien",
+   "address": "Rauhensteingasse 5, 1010 Wien",
+   "phone": "01 5124494",
+   "website": "http://instagram.com/spielzeugschachtel/",
+   "checked_at": "2026-10-16T03:33:36Z"
   },
   {
    "name": "Squirtle Squad",
@@ -496,9 +521,12 @@
    "group": "in_store",
    "city": "Graz",
    "region": "Steiermark",
-   "address": "Münzgrabenstraße 10, 8010 Graz",
-   "phone": "0676 4163232",
-   "website": "https://www.facebook.com/share/15YNe6gD96/",
+   "address": "10 Münzgrabenstraße, Graz, Steiermark, 8010, Austria",
+   "phone": "+436764163232",
+   "website": "https://www.facebook.com/tradingcardsunited/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T03:33:16Z"
   },
   {
@@ -546,13 +574,10 @@
   {
    "name": "W&T Collectible GmbH",
    "group": "in_store",
-   "city": "Linz",
-   "region": "Oberösterreich",
    "address": "Zehnergasse 20A, Wiener Neustadt, 3, 2700, Austria",
    "phone": "43677-6352-1126",
    "website": "https://www.facebook.com/WTCollectible/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:16Z"
@@ -680,17 +705,6 @@
    "checked_at": "2026-10-16T03:33:01Z"
   },
   {
-   "name": "Card Empire",
-   "group": "unknown",
-   "address": "102 Slovnaftská, Bratislava, Bratislavský kraj, 821 07, Slovakia",
-   "phone": "+421903161779",
-   "website": "https://www.cardempire.sk/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:28Z"
-  },
-  {
    "name": "Card Hive e.U.",
    "group": "unknown",
    "city": "Wien",
@@ -713,6 +727,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:50Z"
+  },
+  {
+   "name": "Cardhome",
+   "group": "unknown",
+   "city": "Wien",
+   "region": "Wien",
+   "address": "14 Siebenbürgerstraße, Wien, Wien, 1220, Austria",
+   "phone": "+4369917074296",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "Cardomat",
@@ -840,17 +867,6 @@
    "checked_at": "2026-10-16T03:33:55Z"
   },
   {
-   "name": "Dazzle Colletibles",
-   "group": "unknown",
-   "address": "3228/9 Saratovská, Bratislava, Slovakia, 841 01, Slovakia",
-   "phone": "+4210903719873",
-   "website": "https://www.dazzle.sk/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:18Z"
-  },
-  {
    "name": "DC-Trading",
    "group": "unknown",
    "city": "Wien",
@@ -921,17 +937,6 @@
    "checked_at": "2026-10-16T03:34:45Z"
   },
   {
-   "name": "Filke",
-   "group": "unknown",
-   "address": "Kocljeva ulica 9, Murska Sobota, Slovenia, 9000, Slovenia",
-   "phone": "+38640155085",
-   "website": "https://www.tcgroyal.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:38Z"
-  },
-  {
    "name": "FUNTASTIC",
    "group": "unknown",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -941,6 +946,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:21Z"
+  },
+  {
+   "name": "Game Store",
+   "group": "unknown",
+   "address": "Friedrichstraße 2, Linz, 1, 4040, Austria",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "Gamers Academy",
@@ -987,6 +1004,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:34:02Z"
+  },
+  {
+   "name": "Gameware",
+   "group": "unknown",
+   "address": "85 Andechsstraße, Innsbruck, Tirol, 6020, Austria",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "GENDURON",
@@ -1093,28 +1122,6 @@
    "checked_at": "2026-10-16T03:35:40Z"
   },
   {
-   "name": "House of Cards - Bernolakovo",
-   "group": "unknown",
-   "address": "Dukelska 26, Bernolakovo, Bratislava region, 90027, Slovakia",
-   "phone": "+421905325095",
-   "website": "https://www.houseofcards.sk",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:30Z"
-  },
-  {
-   "name": "iHRYsko, Bory",
-   "group": "unknown",
-   "address": "Lamač 6780, Bratislava, Slovakia, 841 03, Slovakia",
-   "phone": "421902362305",
-   "website": "https://www.ihrysko.sk",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:16Z"
-  },
-  {
    "name": "Intersport",
    "group": "unknown",
    "city": "Graz",
@@ -1134,17 +1141,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:32:54Z"
-  },
-  {
-   "name": "Joker City - Maribor",
-   "group": "unknown",
-   "address": "1 Regentova ulica, Maribor, Upravna enota Maribor, 2000, Slovenia",
-   "phone": "+38651421134",
-   "website": "https://jokercity.si",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:36Z"
   },
   {
    "name": "JuPet Brettspiele",
@@ -1273,12 +1269,12 @@
    "checked_at": "2026-10-16T21:50:06Z"
   },
   {
-   "name": "Magic Corner",
+   "name": "Magic & Games Shop Wels",
    "group": "unknown",
    "city": "Wels",
    "region": "Oberösterreich",
-   "address": "Newaldgasse 3/1, Wien, ., 1090, Austria",
-   "phone": "+431 276 56 32.",
+   "address": "8 Rainerstraße, Wels, Oberösterreich, 4600, Austria",
+   "phone": "004369910457665",
    "website": "https://x.com/",
    "buylist_url": "https://x.com/buylist",
    "games_events": [
@@ -1292,14 +1288,15 @@
    "group": "unknown",
    "city": "Wien",
    "region": "Wien",
-   "address": "Newaldgasse 3/1, 1090 Wien, Austria, Wien, Wien, 1090",
-   "phone": "+43 1 2765632",
-   "website": "https://www.magiccorner.at/",
-   "buylist_url": "https://www.magiccorner.at/retailer/buylist",
+   "address": "Newaldgasse 3/1, Wien, ., 1090, Austria",
+   "phone": "+431 276 56 32.",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:50:06Z"
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "Magnum-Cards",
@@ -1311,17 +1308,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:43Z"
-  },
-  {
-   "name": "Mana Oaza",
-   "group": "unknown",
-   "address": "Strossmayerjeva ulica 3, Maribor, Podravska, 2000, Slovenia",
-   "phone": "+38631804736",
-   "website": "https://www.mana-oaza.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:35Z"
   },
   {
    "name": "Manga-Mafia Store",
@@ -1504,17 +1490,6 @@
    "checked_at": "2026-10-16T03:35:39Z"
   },
   {
-   "name": "OFFTRENDCLUB",
-   "group": "unknown",
-   "address": "Čulenova 9, Bratislava, Bratislava, 81109, Slovakia",
-   "phone": "+421911040888",
-   "website": "https://www.offtrendclub.com/collections/collectibles",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:23Z"
-  },
-  {
    "name": "Otaku Heaven",
    "group": "unknown",
    "city": "Wien",
@@ -1534,18 +1509,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:33:16Z"
-  },
-  {
-   "name": "OTK Cards",
-   "group": "unknown",
-   "address": "Tržaška cesta 14, Maribor, Podravska, 2000, Slovenia",
-   "phone": "+386070583090",
-   "website": "https://otkcards.com/",
-   "buylist_url": "https://otkcards.com/retailer/buylist",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:37Z"
   },
   {
    "name": "P3 Comix „play your game“",
@@ -1609,17 +1572,6 @@
    "phone": "0676 9300789",
    "website": "https://www.pictopia.at/",
    "checked_at": "2026-10-16T03:34:59Z"
-  },
-  {
-   "name": "Pikazard.eu",
-   "group": "unknown",
-   "address": "2616/14 Gessayova, Bratislava, Bratislava, 851 03, Slovakia",
-   "phone": "+421948639222",
-   "website": "https://www.pikazard.eu",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T03:33:22Z"
   },
   {
    "name": "Pikdame",
@@ -1760,6 +1712,17 @@
    "phone": "0662 843605",
    "website": "https://www.redbullshop.com/en-int/redbullworld/",
    "checked_at": "2026-10-16T03:35:44Z"
+  },
+  {
+   "name": "Ronfler TCG&Snacks",
+   "group": "unknown",
+   "address": "Mahrweg 1/1b, Wien, Wien, 1220, Austria",
+   "phone": "+436642141379",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "Runch! Comics + Toys",
@@ -1911,6 +1874,30 @@
    "phone": "0316 711927",
    "website": "http://www.spielewerk.at/",
    "checked_at": "2026-10-16T03:35:03Z"
+  },
+  {
+   "name": "Spielzeugwelt Rieger-Graz",
+   "group": "unknown",
+   "address": "5 Gleisdorfer G., Graz, Steiermark, 8010, Austria",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
+  },
+  {
+   "name": "Spielzeugwelt Rieger-Weiz",
+   "group": "unknown",
+   "address": "Rathausgasse 10, Weiz, ., 8160, Austria",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:32:54Z"
   },
   {
    "name": "SpinMAMA Wien",

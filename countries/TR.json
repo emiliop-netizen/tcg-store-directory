@@ -1,8 +1,8 @@
 {
  "country": "TR",
  "currency": "TRY",
- "updated": "2026-10-16",
- "store_count": 236,
+ "updated": "2026-10-20",
+ "store_count": 243,
  "stores": [
   {
    "name": "anne Her Yaşa Akıl Oyunları",
@@ -28,8 +28,8 @@
    "region": "İzmir",
    "address": "Akçay Cad. No:101, Beyazevler, Ege Serbest Bölgesi Karşısı, 35410 Gaziemir/İzmir",
    "phone": "0850 201 9134",
-   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-izmir-optimum&utm_medium=organic&utm_source=google",
-   "checked_at": "2026-10-17T05:49:08Z"
+   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-hilltown-karsiyaka-izmir&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-17T05:49:12Z"
   },
   {
    "name": "Decathlon",
@@ -37,8 +37,8 @@
    "region": "İzmir",
    "address": "Yeşilova, 4174. Sk A Blok, No: 84, İç kapı No: 101, 35080 Bornova/İzmir",
    "phone": "0850 202 2302",
-   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-point-bornova-izmir&utm_medium=organic&utm_source=google",
-   "checked_at": "2026-10-17T05:49:09Z"
+   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-hilltown-karsiyaka-izmir&utm_medium=organic&utm_source=google",
+   "checked_at": "2026-10-17T05:49:12Z"
   },
   {
    "name": "Decathlon",
@@ -46,7 +46,7 @@
    "region": "İzmir",
    "address": "Bahçelerarası, Mithatpaşa Cd. No:44 Kat: 1, 35330 Balçova/İzmir",
    "phone": "0850 201 3801",
-   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-ege-park-izmir&utm_medium=organic&utm_source=google",
+   "website": "https://www.decathlon.com.tr/?utm_campaign=gmb-hilltown-karsiyaka-izmir&utm_medium=organic&utm_source=google",
    "checked_at": "2026-10-17T05:49:12Z"
   },
   {
@@ -278,6 +278,15 @@
    "checked_at": "2026-10-17T05:49:32Z"
   },
   {
+   "name": "Baykuş Espor İnternet Kafe",
+   "group": "in_store",
+   "region": "İzmir",
+   "address": "Adatepe, 4. Sk. no:25/A, 35400 Buca/İzmir",
+   "phone": "0532 304 72 63",
+   "website": "https://www.instagram.com/baykusespor/",
+   "checked_at": "2026-10-17T05:49:01Z"
+  },
+  {
    "name": "Beyoğlu Sahaflar Çarşısı",
    "group": "in_store",
    "region": "İstanbul",
@@ -354,6 +363,15 @@
    "checked_at": "2026-10-17T05:49:26Z"
   },
   {
+   "name": "Deniz Net Game Arena",
+   "group": "in_store",
+   "region": "İzmir",
+   "address": "Birlik, 4187. Sk. no:9/a, 35080 Bornova/İzmir",
+   "phone": "0532 355 47 46",
+   "website": "http://www.instagram.com/denizgamearena",
+   "checked_at": "2026-10-17T05:49:01Z"
+  },
+  {
    "name": "Digital Ekrem and zero electronic trading of Second Hand",
    "group": "in_store",
    "region": "Ankara",
@@ -368,6 +386,14 @@
    "address": "36/3A, Suadiye, Kaptan Arif Sok., 34740 suadiye/İstanbul",
    "phone": "(0216) 373 87 39",
    "checked_at": "2026-10-17T05:47:36Z"
+  },
+  {
+   "name": "Eskiyeni Vintage Art & Prints",
+   "group": "in_store",
+   "region": "İstanbul",
+   "address": "Tomtom, Yeni Çarşı Cd. No: 50-A, 34431 Beyoğlu/İstanbul",
+   "website": "https://instagram.com/eskiyeni.istanbul",
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Fahrenheit 451 Recycling Store",
@@ -422,7 +448,7 @@
    "address": "Arcadium AVM Koru Mahallesi, Çayyolu, Doğan Taşdelen Blv. No:192 D:133, 06810 Çankaya/Ankara",
    "phone": "0506 793 45 55",
    "website": "https://www.instagram.com/geekzone.tr/",
-   "checked_at": "2026-10-17T05:48:20Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "GIFTBOTIC",
@@ -431,6 +457,15 @@
    "address": "Teşvikiye, Teşvikiye Cd. No:10, 34365 Şişli/İstanbul",
    "phone": "0552 339 22 90",
    "checked_at": "2026-10-17T05:47:30Z"
+  },
+  {
+   "name": "GİFT STATİON",
+   "group": "in_store",
+   "region": "İstanbul",
+   "address": "Tomtom, Kumbaracı Yokuşu Sok. No:48/A, 34420 Beyoğlu/İstanbul",
+   "phone": "0531 282 68 26",
+   "website": "https://www.instagram.com/giftstations?r=nametag",
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Go Game İnternet",
@@ -463,7 +498,7 @@
    "address": "Cumhuriyet, Selanik Cd çıngıllı apartmanı no:18/18, 06420 Çankaya/Ankara",
    "phone": "0532 376 91 63",
    "website": "https://www.instagram.com/happylandkizilay",
-   "checked_at": "2026-10-17T05:48:14Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Harrods gift istanbul",
@@ -534,7 +569,7 @@
    "address": "Konak, 874. Sk. 17 H, 35250 Konak/İzmir",
    "phone": "0505 385 53 29",
    "website": "https://instagram.com/kemeraltiantikacilarcarsisi?igshid=12y9bwt1v69df",
-   "checked_at": "2026-10-17T05:48:56Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Koleksiyon Garaj - Diecast",
@@ -543,7 +578,7 @@
    "address": "Güneşevler, Şht. Pilot Fatih Korçam Cd No:12/B, 06100 Altındağ/Ankara",
    "phone": "0530 478 05 37",
    "website": "https://www.instagram.com/koleksiyon.garaj?igsh=dGdiZGU2dXVqd2Jq",
-   "checked_at": "2026-10-17T05:48:21Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Konsol Oyun",
@@ -568,7 +603,7 @@
    "address": "Kuloğlu Mahallesi. İstiklal Caddesi, Atlas Pasajı, Kuloğlu, İstanbul Sinema Müzesi No:131/14, 34433 Beyoğlu/İstanbul",
    "phone": "0534 465 47 55",
    "website": "https://instagram.com/kuzgun.tr?utm_medium=copy_link",
-   "checked_at": "2026-10-17T05:46:51Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Kuzgun Çizgi roman evi",
@@ -577,7 +612,7 @@
    "address": "Rasimpaşa Mahallesi Uzun Hafız Sokak, Rasimpaşa, Yeldeğirmeni Sk. 63 A, 34716 Kadıköy/İstanbul",
    "phone": "(0216) 337 91 01",
    "website": "https://www.facebook.com/kuzgun.cizgiromanevi",
-   "checked_at": "2026-10-17T05:47:44Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Kızılay Limon Baskı Serem Hediyelik Serkan Usta Tişört-Kupa Baskısı",
@@ -597,7 +632,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:46:25Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Magic Space İstinyePark Avm",
@@ -640,12 +675,29 @@
    "checked_at": "2026-10-17T05:47:53Z"
   },
   {
+   "name": "Meram Game Center & İnternet Cafe & PlayStation",
+   "group": "in_store",
+   "region": "Ankara",
+   "address": "Cumhuriyet, Mithatpaşa Cd. No:30/A, 06430 Çankaya/Ankara",
+   "phone": "0534 917 66 14",
+   "website": "https://www.instagram.com/meramgamecenter/",
+   "checked_at": "2026-10-17T05:49:01Z"
+  },
+  {
    "name": "Milyoncu 2",
    "group": "in_store",
    "region": "İzmir",
    "address": "Birlik, Kemalpaşa Cd. No. 255/A, 35080 Bornova/İzmir",
    "phone": "0553 523 58 32",
    "checked_at": "2026-10-17T05:49:21Z"
+  },
+  {
+   "name": "Mortal Kombat Türkiye",
+   "group": "in_store",
+   "region": "İstanbul",
+   "address": "Kocatepe, Cumhuriyet Cd. No:31/A, 34437 Beyoğlu/İstanbul",
+   "website": "https://instagram.com/mortalkombatturkiye",
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Mystick Card Store",
@@ -717,7 +769,7 @@
    "address": "İkitelli OSB, Süleyman Demirel Blv No:7, 34490, Mall of İstanbul AVM İçinde Giriş Kat Migros Karşısında Stand [Queen Anime, Ziya Gökalp, 34480 Başakşehir/İstanbul",
    "phone": "0537 224 40 59",
    "website": "https://www.instagram.com/queenanime2024?igsh=dnZoemgzb2Y3Ynk4",
-   "checked_at": "2026-10-17T05:46:51Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "RETRO PAZARI PLAYSTATION OYUN KONSOL ALIM SATIM YEDEK PARÇA",
@@ -750,6 +802,15 @@
    "address": "Osmangazi, 593. Sk. No:4/A, 35535 Bayraklı/İzmir",
    "phone": "0539 930 50 66",
    "checked_at": "2026-10-17T05:49:32Z"
+  },
+  {
+   "name": "Stone Game Center & İnternet Cafe & PlayStation",
+   "group": "in_store",
+   "region": "Ankara",
+   "address": "Meşrutiyet mah, Kızılay, Karanfil Sk. NO:24/3, 06000 Çankaya/Ankara",
+   "phone": "0538 426 24 94",
+   "website": "https://instagram.com/stonegamecenter",
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Sultan Gift Shop",
@@ -861,8 +922,8 @@
    "region": "Ankara",
    "address": "Yozgat Bulvarı 99 Ovacık Mevkii Etlik Ovacık Mevkii Etlik, Ovacık, 06110 Keçiören/Ankara",
    "phone": "0850 222 1500",
-   "website": "https://www.mediamarkt.com.tr/tr/store/ankara-forum-avm-361",
-   "checked_at": "2026-10-17T05:48:35Z"
+   "website": "https://www.mediamarkt.com.tr/mcs/marketinfo/_Media-Markt-Istanbul-Ata%25C5%259Fehir-Metropol-AVM,208552,-14.html",
+   "checked_at": "2026-10-17T05:49:22Z"
   },
   {
    "name": "Misthios",
@@ -1044,11 +1105,11 @@
    "region": "İstanbul",
    "address": "Nisbetiye Mahallesi, Fecri Ebcioğlu Sk.,, İstanbul, Beşiktaş, 34340, Turkey",
    "phone": "+905309480608",
-   "website": "https://cardhouse.com.tr",
+   "website": "https://cardhouse.com.tr/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:46:25Z"
+   "checked_at": "2026-10-17T05:46:58Z"
   },
   {
    "name": "Card House Ankara",
@@ -1057,7 +1118,7 @@
    "address": "100. Yıl, Nenehatun Cd 43/A, 06700 Çankaya/Ankara",
    "phone": "0530 948 06 08",
    "website": "https://cardhouse.com.tr/",
-   "checked_at": "2026-10-17T05:46:51Z"
+   "checked_at": "2026-10-17T05:46:58Z"
   },
   {
    "name": "Card House Göktürk",
@@ -1075,7 +1136,7 @@
    "address": "Suadiye, Emin Ali Paşa Cd. No: 61A, 34740 Kadıköy/İstanbul",
    "phone": "0530 948 06 08",
    "website": "https://cardhouse.com.tr/",
-   "checked_at": "2026-10-17T05:46:35Z"
+   "checked_at": "2026-10-17T05:46:58Z"
   },
   {
    "name": "Carddünyası",
@@ -1150,7 +1211,7 @@
    "address": "Levazım Mah. Koru Sok, Levazım, AVM No:2, 34340 Beşiktaş/İstanbul",
    "phone": "0850 266 3737",
    "website": "https://www.dr.com.tr/",
-   "checked_at": "2026-10-17T05:47:58Z"
+   "checked_at": "2026-10-17T05:49:13Z"
   },
   {
    "name": "D&R",
@@ -1159,7 +1220,7 @@
    "address": "Çankaya Mah. Çankaya Cad, Çankaya, Atakule AVM No:1, 06690 Çankaya/Ankara",
    "phone": "0850 266 3737",
    "website": "https://www.dr.com.tr/",
-   "checked_at": "2026-10-17T05:48:34Z"
+   "checked_at": "2026-10-17T05:49:13Z"
   },
   {
    "name": "D&R",
@@ -1168,7 +1229,7 @@
    "address": "Metromall, Eryaman, Dumlupınar 30 Ağustos Cd. No:2/A, 06824 Etimesgut/Ankara",
    "phone": "0850 266 3737",
    "website": "https://www.dr.com.tr/",
-   "checked_at": "2026-10-17T05:48:35Z"
+   "checked_at": "2026-10-17T05:49:13Z"
   },
   {
    "name": "D&R",
@@ -1307,7 +1368,7 @@
    "address": "Caferağa, Moda Cd. No:33/A, 34710 Kadıköy/İstanbul",
    "phone": "0539 682 97 78",
    "website": "https://www.gerekliseyler.com.tr/",
-   "checked_at": "2026-10-17T05:47:39Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Gerekli Şeyler",
@@ -1316,7 +1377,7 @@
    "address": "Barış Mah. Akdeniz Cd. Albayrak Piramit Konutları A-2 Blok No: 7 Dükkan 1, Barış, 34520 Beylikdüzü/İstanbul",
    "phone": "0535 974 74 45",
    "website": "https://www.gerekliseyler.com.tr/",
-   "checked_at": "2026-10-17T05:47:41Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Gerekli Şeyler",
@@ -1325,7 +1386,7 @@
    "address": "Kocatepe, Hatay Sk. No: 17/B, 06420 Çankaya/Ankara",
    "phone": "0531 396 88 79",
    "website": "https://www.gerekliseyler.com.tr/",
-   "checked_at": "2026-10-17T05:48:14Z"
+   "checked_at": "2026-10-17T05:49:01Z"
   },
   {
    "name": "Gerekli Şeyler",
@@ -1472,7 +1533,7 @@
    "address": "Erenköy, Gülçin Sk., 34738 Kadıköy/İstanbul",
    "phone": "0532 137 68 76",
    "website": "https://kartolog.com/",
-   "checked_at": "2026-10-17T05:46:45Z"
+   "checked_at": "2026-10-17T05:48:09Z"
   },
   {
    "name": "Kartolog Ankara",
@@ -1608,8 +1669,8 @@
    "region": "Ankara",
    "address": "Atatürk Blv, Kızılay, AVM No:96, 06442 Çankaya/Ankara",
    "phone": "0850 222 1500",
-   "website": "https://www.mediamarkt.com.tr/mcs/marketinfo/_Media-Markt-Ankara-K%25C4%25B1z%25C4%25B1lay,161452,-14.html",
-   "checked_at": "2026-10-17T05:48:40Z"
+   "website": "https://www.mediamarkt.com.tr/mcs/marketinfo/_Media-Markt-Istanbul-Ata%25C5%259Fehir-Metropol-AVM,208552,-14.html",
+   "checked_at": "2026-10-17T05:49:22Z"
   },
   {
    "name": "Mega Collectable",
@@ -1621,7 +1682,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:46:25Z"
+   "checked_at": "2026-10-17T05:46:38Z"
   },
   {
    "name": "Mega Collectable Suadiye",
@@ -1701,11 +1762,11 @@
    "region": "İstanbul",
    "address": "Buyukdere Cad. No: 185 Kat: -2 No: 16 Levent, Istanbul, Istanbul, 34330, Turkey",
    "phone": "+905327614361",
-   "website": "https://www.overgameweb.com",
+   "website": "https://www.overgameweb.com/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:46:25Z"
+   "checked_at": "2026-10-17T05:46:46Z"
   },
   {
    "name": "OverGame",
@@ -1762,7 +1823,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:46:25Z"
+   "checked_at": "2026-10-17T05:48:20Z"
   },
   {
    "name": "Pegasus Toys",
@@ -1952,7 +2013,7 @@
    "address": "Binbaşı Reşatbey, Akçay Cd. No:101 Mağaza 1k-022, 35410 Gaziemir/İzmir",
    "phone": "(0232) 273 82 42",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:49:14Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Toyzz Shop 365 Ankara",
@@ -1961,7 +2022,7 @@
    "address": "365 AVM Birlik Mh. 428 Cad, Birlik, Zirvekent No: 41 D:115, 06440 Çankaya/Ankara",
    "phone": "(0312) 450 00 47",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:48:26Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Toyzz Shop ANKAmall",
@@ -1970,7 +2031,7 @@
    "address": "ANKAmall AVM, Gazi, Mevlana Blv. No:2, 06330 Yenimahalle/Ankara",
    "phone": "(0312) 541 21 78",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:48:49Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Toyzz Shop Forum Bornova",
@@ -1979,7 +2040,7 @@
    "address": "Forum Bornova AVM Kazım Dirik Mahallesi 372.Sokak. E-Blok Mağaza Shop 24/F D:No : 9, Kazımdirik, 35040 Bornova/İzmir",
    "phone": "(0232) 342 63 64",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:49:16Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Toyzz Shop Forum İstanbul",
@@ -1988,7 +2049,7 @@
    "address": "Forum İstanbul Alışveriş Merkezi Paşa Caddesi No:3 D:B1 22 - 24, Kocatepe, Paşa Cd No:3 B1 22 - 24, 34045 Bayrampaşa/İstanbul",
    "phone": "(0212) 640 96 52",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:47:08Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Toyzz Shop İzmir Park",
@@ -2006,7 +2067,7 @@
    "address": "Mecidiyeköy Yolu Cad. No.12 Mağaza No 59, Kuştepe, 34400 Şişli/İstanbul",
    "phone": "(0212) 216 10 38",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:47:29Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "TOYZZSHOP",
@@ -2015,7 +2076,7 @@
    "address": "Acıbadem, Tepe Nautilus Avm No:1, 34718 Kadıköy/İstanbul",
    "phone": "(0216) 339 79 73",
    "website": "https://www.toyzzshop.com/",
-   "checked_at": "2026-10-17T05:47:09Z"
+   "checked_at": "2026-10-17T05:49:17Z"
   },
   {
    "name": "Tuna Kartpostal",

@@ -1,8 +1,8 @@
 {
  "country": "GB",
  "currency": "GBP",
- "updated": "2026-10-16",
- "store_count": 1140,
+ "updated": "2026-10-20",
+ "store_count": 1265,
  "stores": [
   {
    "name": "Axion Now",
@@ -49,7 +49,6 @@
      "lorcana",
      "starwars",
      "pokemon",
-     "gundam",
      "onepiece",
      "riftbound"
     ],
@@ -58,7 +57,6 @@
      "Disney Lorcana",
      "Star Wars: Unlimited",
      "Pokemon",
-     "Gundam Card Game",
      "One Piece",
      "Riftbound"
     ]
@@ -1688,6 +1686,36 @@
    "checked_at": "2026-10-16T02:28:24Z"
   },
   {
+   "name": "3 Box Comics Sheffield",
+   "group": "in_store",
+   "region": "England",
+   "address": "Inside Red Brick Market, 2 Clough Rd, Highfield, Sheffield S1 4TE",
+   "website": "https://www.facebook.com/people/3-Box-Comics-Sheffield/61560283342176/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Aberdare trading cards LTD",
+   "group": "in_store",
+   "address": "28 canon street, Aberdare, rhondda cynon taf, CF44 7AT, United Kingdom",
+   "phone": "+447731496685",
+   "website": "https://www.instagram.com/aberdaretradingcards/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Ace Comics Colchester",
+   "group": "in_store",
+   "address": "63a High Street, Colchester, UK, CO1 1DN, United Kingdom",
+   "phone": "+44(0) 1206 561 912",
+   "website": "https://www.facebook.com/acecomics/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Ace Of Cards",
    "group": "in_store",
    "region": "England",
@@ -1722,12 +1750,33 @@
    "checked_at": "2026-10-16T02:26:07Z"
   },
   {
+   "name": "Anime Gallery",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "Flexible Learning, St. Enoch Shopping Centre, 55 St Enoch Sq, Glasgow G1 4BW",
+   "phone": "0141 221 6888",
+   "website": "https://www.facebook.com/AnimeGalleryGlasgow/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "ArchiesTCG",
    "group": "in_store",
    "region": "England",
    "address": "48 Cockshott Ln, Leeds LS12 2RQ",
    "phone": "07516 765947",
    "checked_at": "2026-10-16T02:24:48Z"
+  },
+  {
+   "name": "Area51",
+   "group": "in_store",
+   "region": "England",
+   "address": "230 Gloucester Road, Bristol, BS, BS7 8BA, United Kingdom",
+   "phone": "+441179 244 655",
+   "website": "https://www.facebook.com/groups/133202623367933/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Atomic Comics & Games",
@@ -1769,7 +1818,6 @@
    "city": "Brighton and Hove",
    "region": "England",
    "address": "20 Marshalls Row, Brighton and Hove, Brighton BN1 4JU",
-   "phone": "01273 699322",
    "website": "http://www.facebook.com/bakanekobrighton",
    "checked_at": "2026-10-16T02:12:31Z"
   },
@@ -1798,6 +1846,18 @@
    "address": "Red Brick Market, Stanhope St, Liverpool L8 5RF",
    "website": "https://www.baltictcg.co.uk/",
    "checked_at": "2026-10-16T02:25:29Z"
+  },
+  {
+   "name": "Barnsley Models and Games",
+   "group": "in_store",
+   "region": "England",
+   "address": "37 The Arcade, Barnsley, S, S70 2QP, United Kingdom",
+   "phone": "+44(0) 1226 207220",
+   "website": "https://www.facebook.com/BarnsleyModelsandGames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Battle Bunker Ltd",
@@ -1830,6 +1890,15 @@
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
+   "name": "Black Lion Games",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "90 Buccleuch St, Edinburgh EH8 9NH",
+   "phone": "0131 667 2128",
+   "website": "https://www.facebook.com/blacklionedinburgh",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Black Raven Games Limited",
    "group": "in_store",
    "city": "Whiteley",
@@ -1839,6 +1908,28 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:53Z"
+  },
+  {
+   "name": "Blessed Be Alternative Emporium",
+   "group": "in_store",
+   "address": "14-16 Church St, Monmouth, Monmouthshire, NP25 3BU, United Kingdom",
+   "phone": "+4407456945527",
+   "website": "https://www.facebook.com/profile.php?id=100068368690140",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Books and Banter",
+   "group": "in_store",
+   "address": "42 main street stapenhill, burton upon trent, England, de15 9ar, United Kingdom",
+   "phone": "441283480530",
+   "website": "https://www.facebook.com/BooksBanterGames",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Bubble Pop-Bond Street Brighton",
@@ -1874,6 +1965,14 @@
    "checked_at": "2026-10-16T02:23:36Z"
   },
   {
+   "name": "Buy Play Trade - Pokémon Store - Southampton",
+   "group": "in_store",
+   "region": "England",
+   "address": "Hampshire, 441 Bitterne Rd, Bitterne Village, Southampton SO18 5EE",
+   "website": "https://www.facebook.com/people/Pok%C3%A9Store-Southampton/61557084173380/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Buzzard Comics",
    "group": "in_store",
    "region": "Northern Ireland",
@@ -1883,6 +1982,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:36Z"
+  },
+  {
+   "name": "Canary Comics & Collectables",
+   "group": "in_store",
+   "region": "England",
+   "address": "159 Reepham Rd, Norwich NR6 5PA",
+   "phone": "07842 125997",
+   "website": "http://www.facebook.com/CanaryComicsNorwich",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Card Sharks",
@@ -1930,8 +2038,12 @@
    "group": "in_store",
    "city": "Polbeth",
    "region": "Scotland",
-   "address": "Unit C, The, Daks Bldg, Polbeth Industrial Estate, Polbeth, West Calder EH55 8TJ",
+   "address": "The Daks Building, Polbeth, Scotland, EH55 8TJ, United Kingdom",
+   "phone": "+44(0)7702768667",
    "website": "https://www.facebook.com/CardsDen",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:12:31Z"
   },
   {
@@ -1960,7 +2072,6 @@
   {
    "name": "Cataclysm Games",
    "group": "in_store",
-   "region": "England",
    "address": "45 Canterbury Street, Gillingham, England, ME7 5TR, United Kingdom",
    "phone": "+44 1634-852303",
    "website": "https://discord.gg/rtP2g7G",
@@ -1970,6 +2081,17 @@
    "checked_at": "2026-10-16T02:12:58Z"
   },
   {
+   "name": "Catch ‘n’ Collect",
+   "group": "in_store",
+   "address": "48 Gaol Lane, Sudbury, Suffolk, CO10 1JL, United Kingdom",
+   "phone": "+",
+   "website": "https://www.instagram.com/catch_n_collect?igsh=dTR1OXhraTl4cnlp&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Cerulean Lane",
    "group": "in_store",
    "city": "Brighton and Hove",
@@ -1977,6 +2099,17 @@
    "address": "12 St George's Rd, Kemptown, Brighton and Hove, Brighton BN2 1EB",
    "phone": "07308 679601",
    "checked_at": "2026-10-16T02:28:17Z"
+  },
+  {
+   "name": "Change The Game",
+   "group": "in_store",
+   "address": "102 seaside road, Eastbourne, East Sussex, Bn21 3PF, United Kingdom",
+   "phone": "+4407544809925",
+   "website": "https://www.instagram.com/changethegame.uk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Chaos Games",
@@ -2029,6 +2162,31 @@
    "checked_at": "2026-10-16T02:26:42Z"
   },
   {
+   "name": "Common Ground Games",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "40 Cowane St, Stirling, Scotland, FK8 1JR, United Kingdom",
+   "phone": "+441786357414",
+   "website": "https://www.facebook.com/CommonGroundGames",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Crazy Collectables",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 79 BSS House Cheney Manor Industrial Estate, Swindon, Wiltshire, SN2 2PJ, United Kingdom",
+   "phone": "+4407375065568",
+   "website": "https://www.facebook.com/share/1DXcBUVikB/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "CRIT!",
    "group": "in_store",
    "region": "England",
@@ -2041,12 +2199,42 @@
    "checked_at": "2026-10-16T02:26:06Z"
   },
   {
+   "name": "Critical Hit - Nottingham",
+   "group": "in_store",
+   "region": "England",
+   "address": "19-21 Lister Gate, Nottingham NG1 7DE",
+   "website": "https://www.facebook.com/share/17CXmf2LTG/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Critical Loot",
    "group": "in_store",
    "region": "Scotland",
    "address": "1221 Gallowgate, Inshops, Glasgow G31 4EB",
    "phone": "07312 253557",
    "checked_at": "2026-10-16T02:25:07Z"
+  },
+  {
+   "name": "Dead Universe Comics",
+   "group": "in_store",
+   "address": "5 Bourbon Street, Aylesbury, HP, HP20 2PZ, United Kingdom",
+   "phone": "44(0) 1296 706 500",
+   "website": "https://www.facebook.com/DeadUniverse/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Decked out Collectibles",
+   "group": "in_store",
+   "address": "33 High Street, Brecon, Powys, LD3 7AN, United Kingdom",
+   "phone": "+4407811209185",
+   "website": "https://www.facebook.com/people/Decked-Out-Collectibles/61562185446111/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Decked Out TCG",
@@ -2056,11 +2244,57 @@
    "checked_at": "2026-10-16T02:26:32Z"
   },
   {
+   "name": "Dice and a Slice Ilfracombe",
+   "group": "in_store",
+   "address": "6 Belgrave promenade, Wilder Road , Ilfracombe, Devon, EX349AS, United Kingdom",
+   "phone": "+4407825442296",
+   "website": "https://www.facebook.com/people/Dice-and-a-Slice-Ilfracombe/100063995623471/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Dice And Dumplings",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 1B, 150 Above Bar Street, Southampton, Hampshire, SO14 7DU, United Kingdom",
+   "phone": "+447513371343",
+   "website": "https://www.facebook.com/DiceAndDuplings",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Dicing With Life CIC",
+   "group": "in_store",
+   "address": "Unit 29, Level 2, The Mercury Mall, Mercury Gardens, Romford, Essex, RM1 3EE, United Kingdom",
+   "phone": "+4407949476181",
+   "website": "https://www.instagram.com/dicingwithlife?igsh=ZWZzcWw0dXhoZWo=",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "DISCOUNT CARDS",
    "group": "in_store",
    "region": "Northern Ireland",
    "address": "1fq, 227 Shankill Rd, Belfast BT13 1FQ",
    "checked_at": "2026-10-16T02:27:51Z"
+  },
+  {
+   "name": "Distinct Gaming",
+   "group": "in_store",
+   "address": "8a King St, Belper, England, DE56 1PS, United Kingdom",
+   "phone": "+447552050130",
+   "website": "https://www.facebook.com/distinctgamingshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Donuts & Dragons",
@@ -2092,12 +2326,64 @@
    "checked_at": "2026-10-16T02:20:41Z"
   },
   {
+   "name": "Elite ArenaCards",
+   "group": "in_store",
+   "region": "England",
+   "address": "51 Portland St, Manchester M1 3LD",
+   "website": "https://discord.gg/33uGdJKzY",
+   "checked_at": "2026-10-16T02:12:58Z"
+  },
+  {
+   "name": "Elite Gaming Lounge",
+   "group": "in_store",
+   "address": "30 High St, Coalville, England, LE67 3ED, United Kingdom",
+   "phone": "07791289991",
+   "website": "https://www.facebook.com/share/197hbbkH9A/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Entoyment: The Card Room",
+   "group": "in_store",
+   "address": "Unit 2 Fleetsbridge Business Centre, Poole, BH, BH17 7AF, United Kingdom",
+   "phone": "+44 (0) 1202 736 650",
+   "website": "https://www.facebook.com/groups/272378150131216/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Eternal Nexus",
    "group": "in_store",
    "city": "Hucknall",
    "region": "England",
    "address": "59 Annesley Rd, Hucknall, Nottingham NG15 7AD",
    "checked_at": "2026-10-16T02:27:13Z"
+  },
+  {
+   "name": "Evolution Games",
+   "group": "in_store",
+   "address": "9 King Edward Street, Halifax, West Yorkshire, HX1 1BW, United Kingdom",
+   "phone": "+4401422250053",
+   "website": "https://www.instagram.com/evolutiongamestcgs?igsh=MWIyYW14ajVwaXZ5eA%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Excalibur Gaming LTD",
+   "group": "in_store",
+   "address": "33 Bridge Street, Taunton, UK, TA11TQ, United Kingdom",
+   "phone": "441823426959",
+   "website": "https://www.facebook.com/Excaliburgaminguk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Fazpack Tabletop Gaming",
@@ -2121,6 +2407,28 @@
    "checked_at": "2026-10-16T02:20:49Z"
   },
   {
+   "name": "Firestorm Games - Bridgend",
+   "group": "in_store",
+   "address": "6 Caroline Street, Bridgend, Wales, CF31 1DQ, United Kingdom",
+   "phone": "+44(0)1656333100",
+   "website": "https://www.facebook.com/profile.php?id=61556933858651",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Firestorm Games - Merthyr",
+   "group": "in_store",
+   "address": "129 High St, Merthyr Tydfil, Wales, CF47 8DN, United Kingdom",
+   "phone": "+441865700096",
+   "website": "https://www.facebook.com/profile.php?id",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "FLQH",
    "group": "in_store",
    "region": "England",
@@ -2136,12 +2444,43 @@
    "checked_at": "2026-10-16T02:27:53Z"
   },
   {
+   "name": "G ZONE",
+   "group": "in_store",
+   "address": "34 South St, worthing, England, BN11 3AA, United Kingdom",
+   "phone": "+447452811791",
+   "website": "https://www.facebook.com/TheGZoneWorthing/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Gadget swap",
    "group": "in_store",
    "region": "England",
    "address": "Unit 5, City Arcade, Union St, Birmingham B2 4TX",
    "phone": "0121 633 3799",
    "checked_at": "2026-10-16T02:24:07Z"
+  },
+  {
+   "name": "Galactic Attic",
+   "group": "in_store",
+   "region": "Wales",
+   "address": "22 Royal Arcade, Cardiff CF10 1AE",
+   "phone": "07746 851331",
+   "website": "https://www.facebook.com/GalacticAtticUK/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Game On",
+   "group": "in_store",
+   "address": "99 High St, Stockton-On-Tees, NE, TS18 1BD, United Kingdom",
+   "phone": "+44(0)1642 808 156",
+   "website": "https://www.facebook.com/gameonretro/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Gamebox",
@@ -2170,6 +2509,48 @@
    "checked_at": "2026-10-16T02:21:09Z"
   },
   {
+   "name": "Games Hub Edinburgh",
+   "group": "in_store",
+   "address": "101 Lauriston Place, Edinburgh, Midlothian, EH3 9JB, United Kingdom",
+   "phone": "+447881928682",
+   "website": "https://discord.gg/2KPgxgYFMC",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:58Z"
+  },
+  {
+   "name": "Games Network",
+   "group": "in_store",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "100 Blatchington Rd, Brighton and Hove, England, BN3 3YF, United Kingdom",
+   "phone": "07584356246",
+   "website": "https://www.facebook.com/profile.php?id=100089661886217",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Games Temple",
+   "group": "in_store",
+   "region": "England",
+   "address": "4 Church Ln, Leeds LS15 8BD",
+   "phone": "0113 247 2052",
+   "website": "https://www.facebook.com/share/1Bfxrqv4qj/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Gamescene",
+   "group": "in_store",
+   "region": "England",
+   "address": "68 Regent St, Kingswood, Bristol BS15 8JA",
+   "phone": "0117 960 0999",
+   "website": "http://www.facebook.com/gamesceneuk",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Gamesdaybuddies",
    "group": "in_store",
    "region": "Scotland",
@@ -2187,6 +2568,41 @@
    "checked_at": "2026-10-16T02:24:21Z"
   },
   {
+   "name": "Gaming Knights Ltd",
+   "group": "in_store",
+   "address": "11 Sidmouth St, Devizes, England, SN10 1LD, United Kingdom",
+   "phone": "+447889194831",
+   "website": "https://www.facebook.com/profile.php?id=61561854001130",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Gates of Cerberus",
+   "group": "in_store",
+   "address": "47 Wilson St, Middlesbrough, England, TS1 1SA, United Kingdom",
+   "phone": "+447917762513",
+   "website": "https://www.facebook.com/gatesofcerberuscafe#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Gathering Point Games",
+   "group": "in_store",
+   "region": "England",
+   "address": "Morton Park Way, Darlington, UK, DL1 4PQ, United Kingdom",
+   "phone": "+44(0)7432 183944",
+   "website": "https://www.facebook.com/gatheringpointgames/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Gear Head Games Wakefield",
    "group": "in_store",
    "region": "England",
@@ -2195,6 +2611,107 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:49Z"
+  },
+  {
+   "name": "Geek Retreat - Addlestone",
+   "group": "in_store",
+   "address": "Ave One, Addlestone, England, Kt152Gd, United Kingdom",
+   "phone": "+44 07806621520",
+   "website": "https://www.facebook.com/GeekRetreatAddlestone",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Birmingham",
+   "group": "in_store",
+   "region": "England",
+   "address": "38 The Priory Queensway, Birmingham, England, B4 7LA, United Kingdom",
+   "phone": "44 (0) 121 238 4334",
+   "website": "https://facebook.com/geekretreatbirmingham",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Blackburn",
+   "group": "in_store",
+   "city": "Rishton",
+   "region": "England",
+   "address": "50-54 Church Street, Blackburn, England, BB1 5AL, United Kingdom",
+   "phone": "+447943 622350",
+   "website": "https://www.facebook.com/GeekRetreatBlackburn",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Chester",
+   "group": "in_store",
+   "region": "England",
+   "address": "Chester Retail Park, 5B Old Seals Way, Chester, Cheshire, CH1 4RY, United Kingdom",
+   "phone": "+4403300261046",
+   "website": "http://www.facebook.com/GeekRetreatChester",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Gryfen Games",
+   "group": "in_store",
+   "address": "169 High Street, Burton Upon Trent, West Midlands, de14 1je, United Kingdom",
+   "phone": "+4407964882454",
+   "website": "https://www.facebook.com/GeekRetreatBurtonUponTrent/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Hartlepool",
+   "group": "in_store",
+   "region": "England",
+   "address": "105 York Rd, Hartlepool, England, TS26 9DH, United Kingdom",
+   "phone": "+4407780479928",
+   "website": "https://www.facebook.com/GeekRetreatHartlepool/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Truro",
+   "group": "in_store",
+   "region": "England",
+   "address": "The Leats, Truro, England, TR1 2SJ, United Kingdom",
+   "phone": "+447554 011375",
+   "website": "https://www.facebook.com/people/Troll-Trader-Truro/61570799038670/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Geek Retreat - Warrington",
+   "group": "in_store",
+   "region": "England",
+   "address": "4 crown street warrington, Warrington, England, wa12ae, United Kingdom",
+   "phone": "+44(0) 1925.650.184",
+   "website": "https://www.facebook.com/GeekRetreatWarrington/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Geek Retreat Liverpool",
@@ -2235,6 +2752,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:19Z"
+  },
+  {
+   "name": "Gemini Games",
+   "group": "in_store",
+   "region": "England",
+   "address": "16 High Street, Huddersfield, England, HD1 2LE, United Kingdom",
+   "phone": "+44 (0)1484 365190",
+   "website": "https://www.facebook.com/GeminiGamesHudds",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "gold bobo",
@@ -2290,6 +2820,17 @@
    "checked_at": "2026-10-16T02:27:11Z"
   },
   {
+   "name": "Hidden Gem",
+   "group": "in_store",
+   "address": "Unit 7, Birch Copse, Technology Rd,  Poole , Bornemouth, BH17 7FH, United Kingdom",
+   "phone": "+441202138002",
+   "website": "https://www.instagram.com/ukhiddengems/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "HitmonTam's TCG Collectables",
    "group": "in_store",
    "region": "England",
@@ -2305,6 +2846,30 @@
    "address": "Bengal Tandoori, 65 Laughton Rd, Dinnington, Sheffield S25 2PN",
    "phone": "01909 563168",
    "checked_at": "2026-10-16T02:26:06Z"
+  },
+  {
+   "name": "Howling Wolf Gaming (Wolverhampton) Ltd",
+   "group": "in_store",
+   "address": "Uni 1  29/30 Cleveland Street, Wolverhampton, West Midlands, WV1 3HT, United Kingdom",
+   "phone": "+4407593942482",
+   "website": "https://www.facebook.com/share/17mKAhYmjN/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Huz Gaming",
+   "group": "in_store",
+   "region": "England",
+   "address": "32 Cank Street, Leicester, Leicestershire, LE1 5GW, United Kingdom",
+   "phone": "+4407950180428",
+   "website": "https://www.instagram.com/huz.gaming/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Ignite Record store",
@@ -2336,12 +2901,33 @@
    "checked_at": "2026-10-16T02:21:41Z"
   },
   {
+   "name": "It's All Geek to Me",
+   "group": "in_store",
+   "region": "England",
+   "address": "135 Godwin St, Bradford, England, BD1 3PP, United Kingdom",
+   "phone": "4407851959442",
+   "website": "https://www.facebook.com/itsallgeek",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "JCN",
    "group": "in_store",
    "region": "England",
    "address": "60 Tottenham Ct Rd, London W1T 2EW",
    "phone": "07345 848337",
    "checked_at": "2026-10-16T02:23:13Z"
+  },
+  {
+   "name": "JoypadJoy & Toys",
+   "group": "in_store",
+   "region": "England",
+   "address": "35 Halesowen Rd, Netherton, Dudley DY2 9QD",
+   "phone": "07809 890923",
+   "website": "https://www.facebook.com/Joypadjoyandtoys",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Kaboom Cards UK (Kaboom Sports Trading Cards Ltd)",
@@ -2353,6 +2939,15 @@
    "checked_at": "2026-10-16T02:22:39Z"
   },
   {
+   "name": "Kerd & Cosplay",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "23 Duke St, Glasgow G4 0UL",
+   "phone": "07916 324426",
+   "website": "http://www.facebook.com/kerdandcosplay",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "KiX",
    "group": "in_store",
    "region": "England",
@@ -2361,12 +2956,45 @@
    "checked_at": "2026-10-16T02:28:43Z"
   },
   {
+   "name": "Kushti Comics",
+   "group": "in_store",
+   "address": "Festival Place Mall, Basingstoke, Hants, RG21 7LN, United Kingdom",
+   "phone": "+4407949021604",
+   "website": "https://www.facebook.com/kushticomics",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Lads n Dads TCG",
    "group": "in_store",
    "region": "England",
    "address": "19 Lowtown, Pudsey LS28 7BQ",
    "phone": "0113 255 9966",
    "checked_at": "2026-10-16T02:24:48Z"
+  },
+  {
+   "name": "Lads n Dads Trading Card Games",
+   "group": "in_store",
+   "address": "19 Lowtown, Leeds, West Yorkshire, LS28 7BQ, United Kingdom",
+   "phone": "+4401132559966",
+   "website": "https://www.facebook.com/ladsndadstcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Lads n Dads Trading Card Games - Shipley",
+   "group": "in_store",
+   "address": "7 Market Square, Leeds, West Yorkshire, BD18 3QB, United Kingdom",
+   "phone": "+4401274057998",
+   "website": "https://www.facebook.com/ladsndadstcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Lallyo10",
@@ -2382,6 +3010,39 @@
    "address": "16 The Royal Arcade, Norwich NR2 1NQ",
    "phone": "01603 621959",
    "checked_at": "2026-10-16T02:29:11Z"
+  },
+  {
+   "name": "Lazy Dragon Gaming",
+   "group": "in_store",
+   "region": "England",
+   "address": "Vicarage Ln, Blackpool FY4, UK, England, FY4",
+   "phone": "01253 760430",
+   "website": "https://www.facebook.com/LazyDragonGaming",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Lazy Panda Collectibles",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 16, Walford Walk, Redditch, WM, B97 4HJ, United Kingdom",
+   "phone": "+447801 591675",
+   "website": "https://www.facebook.com/p/Lazy-Panda-Collectibles-100083066539928/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "LB Toy Zone",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "152 Market St, Aberdeen AB11 5PP",
+   "website": "https://www.facebook.com/share/1BcfGEYMLT/",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Leaky Teacup ltd",
@@ -2403,6 +3064,17 @@
    "checked_at": "2026-10-16T02:25:39Z"
   },
   {
+   "name": "Level 1 Games Cafe",
+   "group": "in_store",
+   "address": "123 Exeter Road, Exmouth , EX, EX8 1QE, United Kingdom",
+   "phone": "+441395 264848",
+   "website": "https://www.facebook.com/level1gamescafe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Levenshulme Trading Estate",
    "group": "in_store",
    "region": "England",
@@ -2421,6 +3093,53 @@
    "checked_at": "2026-10-16T02:21:29Z"
   },
   {
+   "name": "Limited Edition: The Tabletop Tavern",
+   "group": "in_store",
+   "address": "Spinners Mill, Park Lane Floor 3, Room 7, Leigh, Greater Manchester, WN7 2LB, United Kingdom",
+   "phone": "+4407718222191",
+   "website": "https://www.facebook.com/profile.php?id=100091795689570",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Living Realms",
+   "group": "in_store",
+   "region": "England",
+   "address": "13-15 Sagar Street, Castleford, UK, WF10 1AG, United Kingdom",
+   "phone": "+4401977734857 ",
+   "website": "https://www.facebook.com/livingrealms.uk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Loot Drop",
+   "group": "in_store",
+   "region": "England",
+   "address": "28A High St, Haverhill, England, CB9 8AR, United Kingdom",
+   "phone": "01440761244",
+   "website": "https://www.facebook.com/lootdrophaverhill",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Louie's TableTop Games",
+   "group": "in_store",
+   "address": "18 Guildhall Street, Thetford, Norfolk, IP24 2DT, United Kingdom",
+   "phone": "+4407809108760",
+   "website": "https://www.facebook.com/Louiesttg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "LR Events",
    "group": "in_store",
    "region": "England",
@@ -2431,11 +3150,33 @@
    "checked_at": "2026-10-16T02:21:09Z"
   },
   {
+   "name": "Mad for Miniatures",
+   "group": "in_store",
+   "address": "Unit 17 The Market House Market Hill, St Austell, Cornwall, PL255QB, United Kingdom",
+   "phone": "+44(0)172672259",
+   "website": "https://www.facebook.com/fbmadforminiatures",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Magikard",
    "group": "in_store",
    "region": "England",
    "address": "Walsall WS4 1HF",
    "checked_at": "2026-10-16T02:24:12Z"
+  },
+  {
+   "name": "Manaflux",
+   "group": "in_store",
+   "address": "Unit 19A The Roebuck Center, Newcastle-under-Lyme, ST, ST5 1SW, United Kingdom",
+   "phone": "+44(0) 1782 461 516",
+   "website": "https://www.facebook.com/manaflux/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Manchester United Megastore",
@@ -2444,6 +3185,17 @@
    "region": "England",
    "address": "1252 Sir Matt Busby Way, Old Trafford, Stretford, Manchester M16 0RA",
    "checked_at": "2026-10-16T02:24:43Z"
+  },
+  {
+   "name": "Marquee Models",
+   "group": "in_store",
+   "address": "Unit 71 The Harvey Centre, Harlow, UK, CM20 1XS, United Kingdom",
+   "phone": "+44(0) 1279 423 334",
+   "website": "https://www.facebook.com/Marquee-Models-102624373121998/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "MAS collectables",
@@ -2493,6 +3245,14 @@
    "checked_at": "2026-10-16T02:25:37Z"
   },
   {
+   "name": "Monster Collectibles",
+   "group": "in_store",
+   "region": "England",
+   "address": "1 Victoria Rd, Woolston, Southampton SO19 9DY",
+   "website": "http://www.facebook.com/MonsterCollectiblesUK/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "MTG Card Sales",
    "group": "in_store",
    "region": "England",
@@ -2506,6 +3266,15 @@
    "address": "131 Fairfax Rd, Birmingham B31 3SH",
    "phone": "07361 241221",
    "checked_at": "2026-10-16T02:24:21Z"
+  },
+  {
+   "name": "My Anime Dream",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 7 Marlands Shopping Center, Civic Centre Rd, Southampton SO14 7SJ",
+   "phone": "07887 790258",
+   "website": "https://www.facebook.com/MyAnimeDream.shop/",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "My Old Toy Box",
@@ -2534,6 +3303,17 @@
    "checked_at": "2026-10-16T02:27:51Z"
   },
   {
+   "name": "Nerdvana Comics and Collectables",
+   "group": "in_store",
+   "address": "16 Church St, Hereford, England, HR1 2LR, United Kingdom",
+   "phone": "+447472353253",
+   "website": "https://www.instagram.com/nerdvanacomicsandcollectables/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Neutral Ground",
    "group": "in_store",
    "region": "England",
@@ -2549,7 +3329,6 @@
    "group": "in_store",
    "region": "Scotland",
    "address": "84 S Clerk St, Edinburgh EH8 9PT",
-   "phone": "07719 539979",
    "website": "https://www.instagram.com/nkcardsncollectibles?igsh=Y2Zwa2Z0am5yNnk1&utm_source=qr",
    "checked_at": "2026-10-16T02:12:33Z"
   },
@@ -2574,6 +3353,30 @@
    "address": "120 North Rd, Carrickfergus BT38 7RA",
    "phone": "07507 629011",
    "checked_at": "2026-10-16T02:27:53Z"
+  },
+  {
+   "name": "Offworld Outpost",
+   "group": "in_store",
+   "region": "England",
+   "address": "Studio 6, Barleylands Craft Village,, Billericay, Essex, CM11 2UD, United Kingdom",
+   "phone": "+44(0) 7483 043834",
+   "website": "https://www.instagram.com/offworld_outpost/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "On Target Games",
+   "group": "in_store",
+   "address": "Unit 8 Prideaux Close Tamar View Industrial Estate, Saltash, Cornwall, PL126LD, United Kingdom",
+   "phone": "+4401579673034",
+   "website": "https://www.facebook.com/profile.php?id=61580538697774",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "P9 Card Game Bow London",
@@ -2608,6 +3411,28 @@
    "checked_at": "2026-10-16T02:26:58Z"
   },
   {
+   "name": "Parsons Popculture LTD",
+   "group": "in_store",
+   "address": "15 High St, Ventnor, Isle of Wight, PO38 3HZ, United Kingdom",
+   "phone": "+4407709005829",
+   "website": "https://www.facebook.com/p/Parsons-Popculture-61551556566762/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Penistone Tabletop Gaming",
+   "group": "in_store",
+   "address": "2 Market street, Sheffield, South Yorkshire, S36 6NA, United Kingdom",
+   "phone": "+4407359439728",
+   "website": "https://www.facebook.com/share/1AA7q95xaZ/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Pillar Box Cards",
    "group": "in_store",
    "city": "Allerton",
@@ -2619,12 +3444,10 @@
   {
    "name": "Piranha Comics - Kingston",
    "group": "in_store",
-   "region": "England",
    "address": "Union St, Kingston upon Thames, UK, KT1 1RP, United Kingdom",
    "phone": "02036590889",
    "website": "https://www.instagram.com/piranhacomics/?hl=en",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:33Z"
@@ -2632,13 +3455,10 @@
   {
    "name": "Playnation Games",
    "group": "in_store",
-   "city": "Rishton",
-   "region": "England",
    "address": "The Mall, 2-28 North End, Croydon, CR, CR0 1UB, United Kingdom",
    "phone": "+44(0) 2087 600 749",
    "website": "https://www.facebook.com/playnationgames/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:12:31Z"
@@ -2656,6 +3476,15 @@
    "region": "Scotland",
    "address": "5 Raeburn Pl, Edinburgh EH4 1HU",
    "website": "https://www.instagram.com/hellopokecards",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Pokecards",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "43 William St, Edinburgh EH3 7LW",
+   "phone": "07719 539979",
+   "website": "https://instagram.com/hellopokecards",
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
@@ -2700,6 +3529,17 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "Press 2 Play",
+   "group": "in_store",
+   "address": "S Gate, Sleaford, England, NG34 7PD, United Kingdom",
+   "phone": "+44(0)152 996 80 08",
+   "website": "https://www.facebook.com/profile.php?id=100057352905583",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Print 'n' Pull TCG",
    "group": "in_store",
    "region": "England",
@@ -2722,6 +3562,26 @@
    "checked_at": "2026-10-16T02:24:30Z"
   },
   {
+   "name": "Ravens Hall Games",
+   "group": "in_store",
+   "address": "17 Hallgate, Wigan, England, WN1 1LR, United Kingdom",
+   "phone": "+447391238657",
+   "website": "https://www.facebook.com/profile.php?id=61557843863760",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Rawlab",
+   "group": "in_store",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "73 Trafalgar St, Brighton and Hove, Brighton BN1 4EB",
+   "website": "https://instagram.com/rawlabuk?igshid=MzRlODBiNWFlZA==",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Reboot Cafe",
    "group": "in_store",
    "region": "Northern Ireland",
@@ -2730,6 +3590,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:09Z"
+  },
+  {
+   "name": "Recent Relics",
+   "group": "in_store",
+   "region": "England",
+   "address": "72, Grainger Market, Nelson St, Newcastle upon Tyne NE1 5AW",
+   "phone": "07931 405383",
+   "website": "https://m.facebook.com/recentrelics/",
+   "checked_at": "2026-10-16T02:17:26Z"
   },
   {
    "name": "RECOLLECT",
@@ -2744,6 +3613,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:02Z"
+  },
+  {
+   "name": "Red Dragon's Vault",
+   "group": "in_store",
+   "region": "Wales",
+   "address": "7 Queen St, Wrexham, Wales, LL11 1AP, United Kingdom",
+   "phone": "+447725982253",
+   "website": "https://www.facebook.com/share/u3rqdY7mK2psqR7F",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Replay Games",
@@ -2768,12 +3650,38 @@
    "group": "in_store",
    "city": "Market Lavington",
    "region": "England",
-   "address": "2 Woodlands Yard, Market Lavington, Devizes SN10 4AG, UK, Market Lavington, England, SN10 4AG",
-   "phone": "+44 7525 395276",
+   "address": "2 Woodlands Yard, Devizes, England, SN10 4AG, United Kingdom",
+   "phone": "+441380818979",
+   "website": "https://www.facebook.com/retrorelicscafe/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "RetroBlast Coffee",
+   "group": "in_store",
+   "address": "16 East Street, Newquay, England, TR71BH, United Kingdom",
+   "phone": "441637621449",
+   "website": "https://www.facebook.com/RetroBlastCoffee",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Retrocave",
+   "group": "in_store",
+   "region": "England",
+   "address": "498 Ashley Rd, Poole, England, BH14 0AD, United Kingdom",
+   "phone": "+4407891090776",
+   "website": "https://www.instagram.com/retrocaveuk/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Rippin Pax",
@@ -2783,6 +3691,66 @@
    "phone": "07554 449397",
    "website": "https://www.rippinpax.com/",
    "checked_at": "2026-10-16T02:25:03Z"
+  },
+  {
+   "name": "Rising Phoenix Games",
+   "group": "in_store",
+   "region": "England",
+   "address": "39-41 Borough Road, Middlesborough, TS, TS1 4AF, United Kingdom",
+   "phone": "+441642 961903",
+   "website": "https://www.facebook.com/FireandDiceGaming/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "RNG Games",
+   "group": "in_store",
+   "address": "45 Old Sneddon Street, Paisley, Scotland, PA3 2AN, United Kingdom",
+   "phone": "+44(0)1412372550",
+   "website": "https://www.facebook.com/comicrazyshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Robins Hobby Cafe",
+   "group": "in_store",
+   "region": "Northern Ireland",
+   "address": "9 Queens Road, Belfast, Antrim, BT3 9DT, United Kingdom",
+   "phone": "+4407968416644",
+   "website": "https://www.facebook.com/RobinsHobbyCafe/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Roll It",
+   "group": "in_store",
+   "address": "2 Victoria Rd, Scarborough, England, YO11 1SD, United Kingdom",
+   "phone": "+447808018126",
+   "website": "https://www.facebook.com/rollitscarborough",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Rollplay",
+   "group": "in_store",
+   "region": "England",
+   "address": "41 High St, March, England, PE15 9JJ, United Kingdom",
+   "phone": "+44(0) 7792441740",
+   "website": "https://www.facebook.com/rollplayshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Rookie & Rare Sports Trading Cards & Collectibles",
@@ -2856,11 +3824,53 @@
    "checked_at": "2026-10-16T02:27:57Z"
   },
   {
+   "name": "ShrunkenTERRA",
+   "group": "in_store",
+   "address": "Unit 24, Burgess Hill, England, RH15 9NN, United Kingdom",
+   "phone": "+441444 243536",
+   "website": "https://www.facebook.com/shrunken.terra/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Side Quest Games",
+   "group": "in_store",
+   "address": "35 Forest Hill, Yeovil, Somerset, BA20 2PH, United Kingdom",
+   "phone": "+4401935713080",
+   "website": "https://www.facebook.com/sidequestgamesltd/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "SillyCat Games",
+   "group": "in_store",
+   "address": "31 Briggate, Bradford, West Yorkshire, BD17 7BP, United Kingdom",
+   "phone": "+4407944157812",
+   "website": "https://www.instagram.com/p/DZxmWmHtsyg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Sirplus Trading",
    "group": "in_store",
    "region": "England",
    "address": "22 Magdalen St, Norwich NR3 1HU",
    "checked_at": "2026-10-16T02:28:55Z"
+  },
+  {
+   "name": "So Retro",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit F9, Marlands shopping centre, Civic Centre Rd, Southampton SO14 7SJ",
+   "phone": "07986 641009",
+   "website": "https://www.facebook.com/VideoGamesRetail/",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Socialitz Ltd",
@@ -2883,7 +3893,6 @@
   {
    "name": "Southsea Models and Games",
    "group": "in_store",
-   "region": "England",
    "address": "69 Albert Road, Portsmouth, England, PO5 2SG, United Kingdom",
    "phone": "+44(0) 23 9273 3208",
    "website": "https://m.facebook.com/SouthseaModelsandGames/",
@@ -2893,6 +3902,26 @@
    "checked_at": "2026-10-16T02:17:26Z"
   },
   {
+   "name": "Spike's Hideout",
+   "group": "in_store",
+   "address": "10 Victoria Rd, Scarborough, England, YO11 1SD, United Kingdom",
+   "phone": "+447821156516",
+   "website": "https://www.facebook.com/profile.php?id=61565935384768",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Stacked 'N' Packed - Trading Cards & Collectables",
+   "group": "in_store",
+   "region": "England",
+   "address": "Stacked 'N' Packed, Unit 1, Business Village, 3 Elms Ct, Gillingham ME7 3JQ",
+   "phone": "01634 931978",
+   "website": "http://www.facebook.com/stackednpackeduk",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Step Back in Time",
    "group": "in_store",
    "city": "Brighton and Hove",
@@ -2900,6 +3929,41 @@
    "address": "36 Queens Rd, Brighton and Hove, Brighton BN1 3XB",
    "phone": "01273 253110",
    "checked_at": "2026-10-16T02:28:17Z"
+  },
+  {
+   "name": "Stronghold Games",
+   "group": "in_store",
+   "address": "190 Hessle Road, Hull, England, Hu3 3BE, United Kingdom",
+   "phone": "44 (0) 1482 222425",
+   "website": "https://www.facebook.com/strongholdgamesLTD/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Super Game Shack",
+   "group": "in_store",
+   "region": "England",
+   "address": "9-11 the silver arcade, Silver St, Leicester LE1 5FA",
+   "website": "http://facebook.com/supergameshack",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Super Game Shack “Level 2”",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 13 Silver Arcade, Leicester LE1 5FA",
+   "website": "http://facebook.com/supergameshack",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Super Tomato",
+   "group": "in_store",
+   "region": "Wales",
+   "address": "17 Salisbury Rd, Cardiff CF24 4AA",
+   "website": "https://www.instagram.com/hausofsega/",
+   "checked_at": "2026-10-16T02:12:33Z"
   },
   {
    "name": "Surprise Encounter Ltd",
@@ -2920,6 +3984,19 @@
    "checked_at": "2026-10-16T02:25:03Z"
   },
   {
+   "name": "Sword & Sorcery",
+   "group": "in_store",
+   "city": "Kirkintilloch",
+   "region": "Scotland",
+   "address": "76 Townhead, Kirkintilloch, Scotland, G66 1NZ, United Kingdom",
+   "phone": "+441412862840",
+   "website": "https://www.facebook.com/profile.php?id=61561567725850",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Table Flip",
    "group": "in_store",
    "region": "England",
@@ -2936,6 +4013,15 @@
    "region": "England",
    "address": "10 Burnell Rd, Sheffield S6 2AX",
    "checked_at": "2026-10-16T02:26:05Z"
+  },
+  {
+   "name": "Tcg Pokémon",
+   "group": "in_store",
+   "region": "England",
+   "address": "London Rd, Leicester LE2 0QS",
+   "phone": "(320) 232-9936",
+   "website": "https://www.facebook.com/share/g/1C9ztgDrXU/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "TCG Pokémonmainstore",
@@ -2965,6 +4051,25 @@
    "region": "England",
    "address": "Metquarter, 35 Whitechapel, Liverpool L1 6DA",
    "checked_at": "2026-10-16T02:25:32Z"
+  },
+  {
+   "name": "That Retro Game Shop",
+   "group": "in_store",
+   "region": "England",
+   "address": "Unit 145, Grainger Market, Nelson St, Newcastle upon Tyne NE1 5QW",
+   "phone": "07990 792210",
+   "website": "https://www.facebook.com/thatretrogameshop",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Brighton Requirement",
+   "group": "in_store",
+   "city": "Brighton and Hove",
+   "region": "England",
+   "address": "23 Kensington Gardens, Brighton and Hove, Brighton BN1 4AL",
+   "phone": "01273 699322",
+   "website": "http://www.facebook.com/brightonrequirement",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "The Card Abides",
@@ -3019,6 +4124,14 @@
    "checked_at": "2026-10-16T02:12:33Z"
   },
   {
+   "name": "The Card Loft",
+   "group": "in_store",
+   "region": "England",
+   "address": "Victorian Arcade, Walsall WS1 1RE",
+   "website": "https://www.instagram.com/thecardloft_tcgstore/",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "The Card Market",
    "group": "in_store",
    "region": "England",
@@ -3035,7 +4148,7 @@
    "region": "England",
    "address": "403 Sheffield Rd, Whittington Moor, Chesterfield S41 8LS",
    "phone": "01246 452278",
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "The Card Shop",
@@ -3083,6 +4196,61 @@
    "checked_at": "2026-10-16T02:27:48Z"
   },
   {
+   "name": "The Dog House Pub",
+   "group": "in_store",
+   "address": "Martin Street, Stafford, Staffordshire, ST16 2LB, United Kingdom",
+   "phone": "+4407944487638",
+   "website": "https://www.facebook.com/share/16QnETg3bU/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Fort",
+   "group": "in_store",
+   "address": "6 Milton Rd E, Lowestoft, England, NR32 1NT, United Kingdom",
+   "phone": "+44(0)1502539810",
+   "website": "https://facebook.com/thefortlowestoft",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Games Pit",
+   "group": "in_store",
+   "region": "England",
+   "address": "6 Zetland Street, Wakefield, England, WF1 1QG, United Kingdom",
+   "phone": "+441924 368794",
+   "website": "https://www.facebook.com/TheGamesPit/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Games Room",
+   "group": "in_store",
+   "region": "England",
+   "address": "29A Elm Hill, Norwich NR3 1HG",
+   "phone": "01603 628140",
+   "website": "https://www.facebook.com/TheGamesRoom/",
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Games Shop",
+   "group": "in_store",
+   "address": "6 Wellington Street, Aldershot, GU, GU11 1DZ, United Kingdom",
+   "phone": "+441252 311443",
+   "website": "https://www.facebook.com/groups/The.Games.Shop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "The Grand Strategium",
    "group": "in_store",
    "region": "England",
@@ -3115,6 +4283,17 @@
    "checked_at": "2026-10-16T02:28:29Z"
   },
   {
+   "name": "The Kobold's Kettle",
+   "group": "in_store",
+   "address": "8 Market Square, Lytham, England, FY8 5LW, United Kingdom",
+   "phone": "+441253370201",
+   "website": "https://www.facebook.com/profile.php?id=61561955950416",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "The Long Rest",
    "group": "in_store",
    "region": "England",
@@ -3123,6 +4302,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:43Z"
+  },
+  {
+   "name": "The Missing Geek",
+   "group": "in_store",
+   "address": "11 Clarence Street, Staines, TW, TW18 4SU, United Kingdom",
+   "phone": "+44(0) 1784 557 007",
+   "website": "https://www.facebook.com/MissingGeek",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "The Mythic Outpost",
@@ -3164,6 +4354,39 @@
    "checked_at": "2026-10-16T02:28:44Z"
   },
   {
+   "name": "The Tape Trove",
+   "group": "in_store",
+   "region": "England",
+   "address": "Red Brick Market, 70 Stanhope St, Liverpool L8 5RF",
+   "phone": "07895 224973",
+   "website": "https://www.instagram.com/thetapetrove/",
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "The Toy Moon",
+   "group": "in_store",
+   "address": "5b New Road, Chippenham, Wiltshire, SN15 1EL, United Kingdom",
+   "phone": "447534189266",
+   "website": "https://www.facebook.com/TheToyMoon/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "The Vault",
+   "group": "in_store",
+   "region": "England",
+   "address": "14 King St, Great Yarmouth, England, NR30 2NZ, United Kingdom",
+   "phone": "+44+4407990670617",
+   "website": "https://www.facebook.com/profile.php?id=61551497067508&notif_id=1698782592864557&notif_t=profile_plus_admin_invite&ref=notif",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "The Vault TCC",
    "group": "in_store",
    "address": "6-8 Slip Inn Lane, Lancaster, Lancashire, La11jt, United Kingdom",
@@ -3176,6 +4399,18 @@
    "checked_at": "2026-10-16T02:15:24Z"
   },
   {
+   "name": "Tigeroo Toys",
+   "group": "in_store",
+   "region": "Northern Ireland",
+   "address": "11 College Street, Belfast, Belfast City, BT1 6ET, United Kingdom",
+   "phone": "+4402895430600",
+   "website": "https://www.facebook.com/tigerootoys/?locale=en_GB",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Toxel Tcg",
    "group": "in_store",
    "region": "England",
@@ -3183,6 +4418,15 @@
    "phone": "07450 938944",
    "website": "https://www.instagram.com/toxel_tcg?igsh=MWNxbGFnc2dpMTg=",
    "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
+   "name": "Trade & Play Wirral",
+   "group": "in_store",
+   "region": "England",
+   "address": "19 Borough Pavement, Grange Precinct, Birkenhead CH41 2XX",
+   "phone": "0151 245 4350",
+   "website": "https://www.facebook.com/jctrades/",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Trade Off TCG",
@@ -3207,6 +4451,17 @@
    "checked_at": "2026-10-16T02:25:21Z"
   },
   {
+   "name": "Trading Cards Gainsborough",
+   "group": "in_store",
+   "address": "Unit 2, 25 Lord Street, Gainsborough, Lincolnshire, DN21 2DD, United Kingdom",
+   "phone": "+4407518139921",
+   "website": "https://www.facebook.com/share/197y1PcK9o/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "Tridentcards Limited",
    "group": "in_store",
    "region": "England",
@@ -3218,6 +4473,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:14:16Z"
+  },
+  {
+   "name": "Trinity Card Capiral LTD",
+   "group": "in_store",
+   "region": "England",
+   "address": "5 Pink Ln, Newcastle upon Tyne NE1 5DW",
+   "phone": "07891 494419",
+   "website": "https://www.facebook.com/trinityccltd",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Triple C",
@@ -3238,12 +4502,44 @@
    "checked_at": "2026-10-16T02:24:35Z"
   },
   {
+   "name": "Up-Keep Cards and Collectables",
+   "group": "in_store",
+   "address": "3A Barrow Street, St Helens, Merseyside, WA10 1RX, United Kingdom",
+   "phone": "+4407351332081",
+   "website": "https://www.instagram.com/upkeeptcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:33Z"
+  },
+  {
    "name": "Uplay cash and trade",
    "group": "in_store",
    "region": "England",
    "address": "184 Cowley Rd, Oxford OX4 1UE",
    "phone": "01865 725222",
    "checked_at": "2026-10-16T02:28:42Z"
+  },
+  {
+   "name": "Vault 14",
+   "group": "in_store",
+   "region": "England",
+   "address": "32/34 Kingsgate, Doncaster, M, DN1 3JU, United Kingdom",
+   "phone": "44130273655",
+   "website": "https://www.facebook.com/vault14/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Video Games Aberdeen",
+   "group": "in_store",
+   "region": "Scotland",
+   "address": "55 Netherkirkgate, Aberdeen AB10 1AU",
+   "website": "https://www.facebook.com/share/1DSqYVWwGD/",
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Vintage toys and collectables aberdeen",
@@ -3273,6 +4569,17 @@
    "checked_at": "2026-10-16T02:27:29Z"
   },
   {
+   "name": "Waystone Gaming Ltd.",
+   "group": "in_store",
+   "address": "8 Broad Street, Builth Wells, Powys, LD2 3DT, United Kingdom",
+   "phone": "+4407494074263",
+   "website": "https://www.facebook.com/share/14kZzRZL9nn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
    "name": "West End Games",
    "group": "in_store",
    "region": "Scotland",
@@ -3292,6 +4599,28 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:19:47Z"
+  },
+  {
+   "name": "Worcester War Games",
+   "group": "in_store",
+   "address": "3, Trinity Street, Worcester, WR, WR1 2PW, United Kingdom",
+   "phone": "441905 863535",
+   "website": "https://www.facebook.com/worcesterwargamesshop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
+  },
+  {
+   "name": "Yellow Coloured Cafe",
+   "group": "in_store",
+   "address": "10 Unwin Avenue Rosyth, Dunfermline, Fife, KY11 2ZQ, United Kingdom",
+   "phone": "+447496015895",
+   "website": "https://www.facebook.com/yellowcolouredcafe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:12:31Z"
   },
   {
    "name": "Be More Geek",
@@ -3648,6 +4977,17 @@
    "phone": "020 8686 2400",
    "website": "https://shop.aplaceinspace.co.uk/",
    "checked_at": "2026-10-16T02:23:48Z"
+  },
+  {
+   "name": "A-Z Trading Cards",
+   "group": "unknown",
+   "address": "28a Sherwood Street, Mansfield, Nottinghamshire, NG20 0JW, United Kingdom",
+   "phone": "+4407496874164",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:14:26Z"
   },
   {
    "name": "Aardvarks and Dragons",
@@ -5356,7 +6696,7 @@
    "address": "3, Eldon Way, Eldon Square, Newcastle upon Tyne NE1 7XW",
    "phone": "0191 232 7837",
    "website": "https://www.clintonscards.co.uk/",
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "Clintons",
@@ -5383,7 +6723,7 @@
    "address": "Meadowhall Shopping Centre, High St, Meadowhall, Sheffield S9 1BY",
    "phone": "0114 256 9131",
    "website": "https://www.clintonscards.co.uk/",
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "Clintons",
@@ -5392,7 +6732,7 @@
    "address": "Unit 024, Nottingham NG1 3QB",
    "phone": "0115 950 8151",
    "website": "https://www.clintonscards.co.uk/",
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "Clintons",
@@ -5401,7 +6741,7 @@
    "address": "Units 16, & 17, Highcross St, Leicester LE1 4FR",
    "phone": "0116 251 9122",
    "website": "https://www.clintonscards.co.uk/",
-   "checked_at": "2026-10-16T21:46:16Z"
+   "checked_at": "2026-10-16T21:46:22Z"
   },
   {
    "name": "Clintons",
@@ -7032,17 +8372,6 @@
    "checked_at": "2026-10-16T02:25:14Z"
   },
   {
-   "name": "Games Network",
-   "group": "unknown",
-   "city": "Brighton and Hove",
-   "region": "England",
-   "address": "100 Blatchington Rd, Brighton and Hove, Hove BN3 3YF",
-   "phone": "01273 786752",
-   "website": "https://www.games-network.co.uk/",
-   "buylist_url": "https://www.games-network.co.uk/trade-in",
-   "checked_at": "2026-10-16T21:46:21Z"
-  },
-  {
    "name": "GamesHaven Retail Limited",
    "group": "unknown",
    "region": "England",
@@ -7561,14 +8890,6 @@
    "checked_at": "2026-10-16T02:15:32Z"
   },
   {
-   "name": "HUZ Gaming",
-   "group": "unknown",
-   "region": "England",
-   "address": "32 Cank St, Leicester LE1 5GW",
-   "website": "https://www.huzgaming.com/",
-   "checked_at": "2026-10-16T21:46:16Z"
-  },
-  {
    "name": "I Love Scotland",
    "group": "unknown",
    "region": "Scotland",
@@ -7941,6 +9262,17 @@
    "phone": "07508 450581",
    "website": "https://www.lastpackcollectables.co.uk",
    "checked_at": "2026-10-16T02:29:04Z"
+  },
+  {
+   "name": "Last Stand Games",
+   "group": "unknown",
+   "address": "47 Marketplace, South Cave, East Riding of Yorkshire, HU152BS, United Kingdom",
+   "phone": "+4407444299283",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:14:26Z"
   },
   {
    "name": "Leaky Teacup",
@@ -8470,6 +9802,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:41Z"
+  },
+  {
+   "name": "Nebula Trading Cards Ltd",
+   "group": "unknown",
+   "region": "Scotland",
+   "address": "244 Gallowgate Barras, Market, Glasgow G4 0TT",
+   "website": "https://linktr.ee/pokemonduelcards",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:23:08Z"
   },
   {
    "name": "Nendozone Anime Shop",
@@ -10012,17 +11353,6 @@
    "checked_at": "2026-10-16T02:23:31Z"
   },
   {
-   "name": "Sword & Sorcery",
-   "group": "unknown",
-   "city": "Kirkintilloch",
-   "region": "Scotland",
-   "address": "76 Townhead, Kirkintilloch, Glasgow G66 1NZ",
-   "phone": "07376 450367",
-   "website": "https://linktr.ee/pokemonduelcards",
-   "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-16T02:23:08Z"
-  },
-  {
    "name": "TableTaps",
    "group": "unknown",
    "address": "28 Lord St, Wrexam, Wales, LL11 1LR, United Kingdom",
@@ -10306,6 +11636,17 @@
    "phone": "0117 974 4348",
    "website": "http://www.cliftonarcade.com/",
    "checked_at": "2026-10-16T02:25:51Z"
+  },
+  {
+   "name": "The Coffee Gallery",
+   "group": "unknown",
+   "address": "No.7 high street, Shanklin, Isle of wight, PO37 6JZ, United Kingdom",
+   "phone": "+4407368320368",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:14:26Z"
   },
   {
    "name": "The Collectabuzz",
@@ -11329,6 +12670,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:14Z"
+  },
+  {
+   "name": "Triple M Games",
+   "group": "unknown",
+   "address": "3 market street, Highbridge, Somerset, TA9 4RG, United Kingdom",
+   "phone": "+4407454672027",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:14:26Z"
   },
   {
    "name": "Troll Cave",

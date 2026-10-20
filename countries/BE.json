@@ -1,8 +1,8 @@
 {
  "country": "BE",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 301,
+ "updated": "2026-10-20",
+ "store_count": 313,
  "stores": [
   {
    "name": "Blazing Tail Bruxelles",
@@ -437,6 +437,17 @@
    "checked_at": "2026-10-16T03:26:19Z"
   },
   {
+   "name": "2K Company TCG",
+   "group": "in_store",
+   "address": "54 Rue des Capucins, Mons, Hainaut, 7000, Belgium",
+   "phone": "+32471446284",
+   "website": "https://www.facebook.com/profile.php?id=61559841023407",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
    "name": "Albion",
    "group": "in_store",
    "address": "Doorniksestraat 52, Kortrijk, West Flanders, 8500, Belgium",
@@ -468,13 +479,10 @@
   {
    "name": "Amalgames",
    "group": "in_store",
-   "city": "Liège",
-   "region": "Région wallonne",
    "address": "Rue Neuves 28, Charleroi, Hainaut, 6000, Belgium",
    "phone": "+32071703666",
    "website": "https://www.facebook.com/share/18xHPj9wF1/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:23:34Z"
@@ -487,18 +495,6 @@
    "address": "Rue Noire Fontaine 66, 4624 Fléron",
    "phone": "0495 55 79 02",
    "checked_at": "2026-10-16T03:28:51Z"
-  },
-  {
-   "name": "Au Bazar de Yiruld",
-   "group": "in_store",
-   "city": "Charleroi",
-   "region": "Région Wallonne",
-   "address": "Av. de l'Europe 14, 6000 Charleroi, Belgium, Charleroi, Région Wallonne, 6000",
-   "phone": "+32 493 37 18 71",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:49:15Z"
   },
   {
    "name": "Blackfire OP",
@@ -546,6 +542,17 @@
    "address": "Rue des Bouchers 70, 1000 Bruxelles",
    "phone": "0475 49 91 08",
    "checked_at": "2026-10-16T03:26:31Z"
+  },
+  {
+   "name": "CODE GEEK",
+   "group": "in_store",
+   "address": "Rue gallait 9, Tournai, Hainaut, 7500, Belgium",
+   "phone": "+320472619684",
+   "website": "https://www.facebook.com/profile.php?id=100063804250528",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Diamond TCG",
@@ -627,6 +634,17 @@
    "checked_at": "2026-10-16T03:24:05Z"
   },
   {
+   "name": "Het spelcafé",
+   "group": "in_store",
+   "address": "14 Leuvensestraat, Tienen, Vlaams Gewest, 3300, Belgium",
+   "phone": "+320499192053",
+   "website": "https://www.facebook.com/profile.php?id=61557421228631",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
    "name": "hmv",
    "group": "in_store",
    "city": "Wijnegem",
@@ -696,6 +714,20 @@
    "checked_at": "2026-10-16T03:29:18Z"
   },
   {
+   "name": "L'Autre Monde",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue Hors Chateau 20, Luik, BL, 4000, Belgium",
+   "phone": "+32 (0) 42214110 ",
+   "website": "https://www.facebook.com/Magasin.L.Autre.Monde/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
    "name": "L'Imaginarium",
    "group": "in_store",
    "city": "Namur",
@@ -724,6 +756,29 @@
    "region": "Région wallonne",
    "address": "Rue de Magnée 39, 4620 Fléron",
    "checked_at": "2026-10-16T03:28:30Z"
+  },
+  {
+   "name": "Librairie 'Accolade'",
+   "group": "in_store",
+   "city": "Liège",
+   "region": "Région wallonne",
+   "address": "Rue St Léonard 185, 4000 Liège",
+   "phone": "04 380 00 91",
+   "website": "https://www.facebook.com/Librairie-Accolade-1471074499858537/",
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "Ludotrotter",
+   "group": "in_store",
+   "city": "Woluwe-St.-Lambert",
+   "region": "Bruxelles",
+   "address": "6 Rue Emile Tumelaire, Charleroi, Région Wallonne, 6000, Belgium",
+   "phone": "+32471188178",
+   "website": "https://www.facebook.com/LudotrotterCharleroi",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Ludotrotter namur",
@@ -768,6 +823,16 @@
    "checked_at": "2026-10-16T03:26:49Z"
   },
   {
+   "name": "Multiverse Concept Store",
+   "group": "in_store",
+   "city": "Ans",
+   "region": "Région wallonne",
+   "address": "Rue de la Station 68, 4430 Ans",
+   "phone": "0494 41 42 56",
+   "website": "https://www.facebook.com/p/Multiverse-Concept-Store-61586973661287/",
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
    "name": "Neo Tcg",
    "group": "in_store",
    "city": "Evere",
@@ -789,11 +854,14 @@
    "group": "in_store",
    "city": "Mons",
    "region": "Région wallonne",
-   "address": "Rue d'Havré 72, 7000 Mons, Belgium, Mons, Région wallonne, 7000",
+   "address": "72 Rue d'Havré, Mons, Région Wallonne, 7000, Belgium",
+   "phone": "+32471582763",
+   "website": "https://www.facebook.com/Njoygamestaverne",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:49:15Z"
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Oro Trading Snc",
@@ -830,12 +898,14 @@
    "group": "in_store",
    "city": "Ieper",
    "region": "Vlaanderen",
-   "address": "Diksmuidestraat 8, 8900 Ieper, Belgium, Ieper, Vlaanderen, 8900",
+   "address": "8 Diksmuidestraat, Ieper, Vlaams Gewest, 8900, Belgium",
    "phone": "+32474257361",
+   "website": "https://www.facebook.com/profile.php?id=61567094489575&locale=nl_NL",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:49:15Z"
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Pierret Michel",
@@ -864,13 +934,36 @@
    "checked_at": "2026-10-16T03:28:55Z"
   },
   {
-   "name": "Station 11",
+   "name": "Sod Games Bois-de-Villers",
    "group": "in_store",
-   "city": "Ans",
-   "region": "Région wallonne",
-   "address": "Rue de la Station 11, 4430 Ans",
-   "phone": "04 368 87 63",
-   "website": "https://www.facebook.com/profile.php?id=100083006328739",
+   "address": "Rue Raymond Noël 54/3, Bois-de-villers, Namur, 5170, Belgium",
+   "phone": "+320487375239",
+   "website": "https://www.Facebook.com/SodGamesBoisDeVillers",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "SOD GAMES Ciney",
+   "group": "in_store",
+   "address": "Rue du Centre, 6, Ciney, Namur, 5590, Belgium",
+   "phone": "+3283633611",
+   "website": "https://www.facebook.com/people/SOD-GAMES-Ciney/61576497466586/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
+  },
+  {
+   "name": "Spellcasters",
+   "group": "in_store",
+   "address": "36 Bakkersstraat, Blankenberge, Vlaams Gewest, 8370, Belgium",
+   "phone": "+32479836112",
+   "website": "https://www.facebook.com/profile.php?id=61575106495114",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T03:23:34Z"
   },
   {
@@ -1074,13 +1167,14 @@
    "group": "unknown",
    "city": "Roeselare",
    "region": "Vlaanderen",
-   "address": "Noordstraat 41, 8800 Roeselare, Belgium, Roeselare, Vlaanderen, 8800",
-   "phone": "051 20 43 88",
-   "website": "https://www.tspelgeweld.be/nl",
+   "address": "Noordstraat 41, Roeselare, VWV, 8800, Belgium",
+   "phone": "3251-20-43-88",
+   "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:49:15Z"
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "A fond d'Bulles",
@@ -1121,6 +1215,20 @@
    "phone": "011 30 13 39",
    "website": "https://www.archonia.com/en-us/",
    "checked_at": "2026-10-16T03:27:57Z"
+  },
+  {
+   "name": "Au Bazar de Yiruld",
+   "group": "unknown",
+   "city": "Charleroi",
+   "region": "Région Wallonne",
+   "address": "Avenue de l'Europe, 14, Charleroi, WHT, 6000, Belgium",
+   "phone": "32492631606",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Azao Games, Jeux de société",
@@ -1337,6 +1445,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:26:12Z"
+  },
+  {
+   "name": "Case Départ",
+   "group": "unknown",
+   "address": "31 Rue des Wallons, Ottignies-Louvain-la-Neuve, Région Wallonne, 1348, Belgium",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
   },
   {
    "name": "Chuo",
@@ -1618,6 +1738,18 @@
    "checked_at": "2026-10-16T03:23:32Z"
   },
   {
+   "name": "Demo-Spel",
+   "group": "unknown",
+   "address": "3 Sint-Hubertusstraat, Leuven, Vlaams Gewest, 3000, Belgium",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:26Z"
+  },
+  {
    "name": "Demo-Spel bv",
    "group": "unknown",
    "city": "Leuven",
@@ -1886,6 +2018,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:25:06Z"
+  },
+  {
+   "name": "Hasard Ludique Tournai",
+   "group": "unknown",
+   "address": "Rue de l'Yser, 19 , Tournai, Hainaut, 7500, Belgium",
+   "phone": "+3269773806",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:56Z"
   },
   {
    "name": "Hermelijn",
@@ -2199,16 +2342,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:23:41Z"
-  },
-  {
-   "name": "Ludotrotter",
-   "group": "unknown",
-   "city": "Woluwe-St.-Lambert",
-   "region": "Bruxelles",
-   "address": "Av. Georges Henri 466, 1200 Woluwe-Saint-Lambert",
-   "phone": "02 734 22 55",
-   "website": "https://bruxelles.ludotrotter.be",
-   "checked_at": "2026-10-16T03:23:26Z"
   },
   {
    "name": "Ludotrotter Bruxelles",
@@ -2820,6 +2953,19 @@
    "phone": "050 37 35 23",
    "website": "https://stacks.be/",
    "checked_at": "2026-10-16T03:29:15Z"
+  },
+  {
+   "name": "Station 11",
+   "group": "unknown",
+   "city": "Ans",
+   "region": "Région wallonne",
+   "address": "Rue de la station 11, Ans, WLG, 4300, Belgium",
+   "phone": "+324/368.87.63",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:23:34Z"
   },
   {
    "name": "Stripwinkel Alex🦸",

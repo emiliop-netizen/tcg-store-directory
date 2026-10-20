@@ -1,8 +1,8 @@
 {
  "country": "MT",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 51,
+ "updated": "2026-10-20",
+ "store_count": 53,
  "stores": [
   {
    "name": "Briscoe Cards",
@@ -62,7 +62,7 @@
    "address": "Pjazza Navona, Triq Ta l-Ibrag Ibrag SWQ, Is-Swieqi 2031",
    "phone": "2149 9101",
    "website": "https://www.modelshop.com.mt/",
-   "checked_at": "2026-10-17T05:34:55Z"
+   "checked_at": "2026-10-17T05:34:56Z"
   },
   {
    "name": "The Model Shop",
@@ -113,7 +113,7 @@
    "address": "35 Melita St, Valletta VLT 1125",
    "phone": "2122 6596",
    "website": "https://www.facebook.com/pages/category/Shopping---Retail/Clamus-170489969660849/",
-   "checked_at": "2026-10-17T05:34:35Z"
+   "checked_at": "2026-10-17T05:34:49Z"
   },
   {
    "name": "De Niro Pacino Figures and Collectibles",
@@ -171,6 +171,16 @@
    "checked_at": "2026-10-17T05:34:39Z"
   },
   {
+   "name": "Meli's Bookshop (and Modelcars)",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "185 Old Bakery St, Valletta",
+   "phone": "2123 7266",
+   "website": "https://www.facebook.com/Meli-Book-Shop-1502284266653728/",
+   "checked_at": "2026-10-17T05:34:49Z"
+  },
+  {
    "name": "Mercury's One Stop Shop",
    "group": "in_store",
    "city": "Sliema",
@@ -178,6 +188,16 @@
    "address": "WF7W+4QF, Sliema",
    "phone": "2131 3651",
    "checked_at": "2026-10-17T05:34:58Z"
+  },
+  {
+   "name": "Mohans Gift Shop",
+   "group": "in_store",
+   "city": "Valletta",
+   "region": "Port Region",
+   "address": "VGW6+M2H, Republic St, Valletta",
+   "phone": "2123 8137",
+   "website": "https://www.facebook.com/profile.php?id=100063791671799",
+   "checked_at": "2026-10-17T05:34:49Z"
   },
   {
    "name": "Pandamonium",
@@ -189,7 +209,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T05:34:22Z"
+   "checked_at": "2026-10-17T05:34:49Z"
   },
   {
    "name": "Print Vault",
@@ -343,7 +363,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:34:22Z"
+   "checked_at": "2026-10-17T05:34:34Z"
   },
   {
    "name": "GamesPlus",
@@ -353,7 +373,7 @@
    "address": "91 Triq Id-Dejma, Ħal Tarxien TXN 9034",
    "phone": "2143 4844",
    "website": "https://gamesplusmalta.com/",
-   "checked_at": "2026-10-17T05:34:27Z"
+   "checked_at": "2026-10-17T05:34:34Z"
   },
   {
    "name": "GamesPlus",
@@ -383,7 +403,7 @@
    "address": "Zone 3, Central Business District, Triq L-Imprendituri, Birkirkara CBD 3090",
    "phone": "2326 2000",
    "website": "https://www.homemate.com.mt/",
-   "checked_at": "2026-10-17T05:35:03Z"
+   "checked_at": "2026-10-17T05:35:09Z"
   },
   {
    "name": "Homemate Co. Ltd.",
@@ -403,7 +423,7 @@
    "address": "Triq Il -Klin, Iklin IKL 1061",
    "phone": "2331 4301",
    "website": "https://jbstoresonline.com/",
-   "checked_at": "2026-10-17T05:35:03Z"
+   "checked_at": "2026-10-17T05:35:06Z"
   },
   {
    "name": "JB Stores Sliema",

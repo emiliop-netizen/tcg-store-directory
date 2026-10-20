@@ -1,8 +1,8 @@
 {
  "country": "ES",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 734,
+ "updated": "2026-10-20",
+ "store_count": 806,
  "stores": [
   {
    "name": "El Nucli",
@@ -173,16 +173,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:44:16Z"
-  },
-  {
-   "name": "City of Cards",
-   "group": "blocked",
-   "city": "Murcia",
-   "region": "MC",
-   "address": "C. del Pintor Sanchez Picazo, 1, 30009 Murcia",
-   "phone": "655 80 07 45",
-   "website": "http://www.cityof.cards/",
-   "checked_at": "2026-10-16T21:48:03Z"
   },
   {
    "name": "Coleccionismo Don Cecilio",
@@ -880,6 +870,17 @@
    "checked_at": "2026-10-16T02:42:42Z"
   },
   {
+   "name": "Arratek",
+   "group": "in_store",
+   "address": "Elexalde Kalea 2, Igorre, BI, 48140, Spain",
+   "phone": "34946 01 17 72",
+   "website": "https://www.facebook.com/arratekigorre",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
    "name": "Asteria Cómics",
    "group": "in_store",
    "city": "València",
@@ -895,6 +896,19 @@
    "region": "CT",
    "address": "Carrer del Pi, 5, galeria maldà 2a, Ciutat Vella, 08002 Barcelona",
    "checked_at": "2026-10-16T02:49:37Z"
+  },
+  {
+   "name": "Bcnretroclass",
+   "group": "in_store",
+   "city": "Esparreguera",
+   "region": "CT",
+   "address": "44 Carrer de Baix, Esparreguera, CT, 08292, Spain",
+   "phone": "+34695344905",
+   "website": "https://www.facebook.com/bcnretroclass/?locale=ms_MY&_rdr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Canadian Games",
@@ -958,6 +972,19 @@
    "address": "C. de la Gloria, 3, 30003 Murcia",
    "phone": "601 25 96 05",
    "website": "https://www.facebook.com/cazatesorosMurcia/",
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "City of Cards",
+   "group": "in_store",
+   "city": "Murcia",
+   "region": "MC",
+   "address": "C. del Pintor Sanchez Picazo, Murcia, MC, 30009, Spain",
+   "phone": "34618403845",
+   "website": "https://www.facebook.com/Cityofcards/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:42:42Z"
   },
   {
@@ -1036,6 +1063,17 @@
    "checked_at": "2026-10-16T02:50:39Z"
   },
   {
+   "name": "Crc DeLorean",
+   "group": "in_store",
+   "address": "Avenida de Alcudia 224, Inca, Baleares, 07300, Spain",
+   "phone": "+34674248803",
+   "website": "https://www.instagram.com/crc_delorean?igsh=MTRodjBoenFxbXh1cg==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Cromet A Cromet",
    "group": "in_store",
    "city": "València",
@@ -1043,6 +1081,17 @@
    "address": "C/ d'Utiel, 16, Benimaclet, 46020 València, Valencia",
    "phone": "617 17 64 65",
    "checked_at": "2026-10-16T02:51:27Z"
+  },
+  {
+   "name": "D20 Jocs",
+   "group": "in_store",
+   "address": "103 Carrer Miquel Biada, Mataró, CT, 08302, Spain",
+   "phone": "34691621863",
+   "website": "https://www.instagram.com/d20jocs/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Dark Ritual TCG",
@@ -1074,13 +1123,39 @@
    "checked_at": "2026-10-16T02:53:03Z"
   },
   {
+   "name": "DecksDen",
+   "group": "in_store",
+   "address": "Paseo Valldaura 166 LOCAL B, Barelona, Barcelona, 08042, Spain",
+   "phone": "+34663929612",
+   "website": "https://www.instagram.com/decksden?igsh=MWlra3hicW83ODZ2eg==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "DeckTCG",
    "group": "in_store",
    "city": "Sant Boi de Llobregat",
    "region": "CT",
-   "address": "Carrer Mallorca, 31, Local, 08830 Sant Boi de Llobregat, Barcelona",
-   "phone": "607 24 42 36",
-   "checked_at": "2026-10-16T21:47:59Z"
+   "address": "31 Carrer Mallorca, Sant Boi de Llobregat, Barcelona, 08830, Spain",
+   "phone": "+34629156699",
+   "website": "https://www.instagram.com/decktcg/?__d=11",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Dicewars",
+   "group": "in_store",
+   "address": "C/ Don Manuel Segarra Ribes, nº1 , Castellon, CS, 12003 , Spain",
+   "phone": "+34 635 58 68 11",
+   "website": "https://www.facebook.com/Dicewars.sl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "DISFRÚTALO",
@@ -1093,6 +1168,28 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:46:47Z"
+  },
+  {
+   "name": "Doctor Game",
+   "group": "in_store",
+   "address": "23 Carrer d'Angel Vidal, Sitges, CT, 08870, Spain",
+   "phone": "+34 931 28 92 20",
+   "website": "https://www.instagram.com/explore/locations/354226627/doctor-game/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Doki Doki Daus",
+   "group": "in_store",
+   "address": "plaça fiveller 24 baix, Mataró, Barcelona, 08301, Spain",
+   "phone": "+34689098980",
+   "website": "https://www.instagram.com/dokidokidaus/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Draconomicó",
@@ -1127,13 +1224,83 @@
    "checked_at": "2026-10-16T02:47:23Z"
   },
   {
-   "name": "El Nexo SF",
+   "name": "EGO LUDO",
+   "group": "in_store",
+   "address": "Av. Canillejas a Vicalvaro nº 113, Madrid, Madrid, 28022, Spain",
+   "phone": "+34912 77 10 57",
+   "website": "https://www.instagram.com/egoludo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "El Draconomicó S.C.P",
+   "group": "in_store",
+   "address": "20 C. Gral. Pastor, La Eliana, VC, 46183, Spain",
+   "phone": "34603612666",
+   "website": "https://www.instagram.com/draconomico/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "El Lirón",
+   "group": "in_store",
+   "address": "C. Venecia, 6, Local 3, Dos Hermanas, Sevilla, 41089, Spain",
+   "phone": "+34614060947",
+   "website": "https://www.instagram.com/el_liron/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "El NexoSF",
    "group": "in_store",
    "city": "Sant Feliu de Llobregat",
    "region": "CT",
-   "address": "Carrer de Josep Ricart, 41, 08980 Sant Feliu de Llobregat, Barcelona",
-   "phone": "936 27 94 41",
-   "checked_at": "2026-10-16T21:47:59Z"
+   "address": "C/Josep Ricart n41, Sant Feliu de LLobregat, Barcelona, 08980, Spain",
+   "phone": "+34936279440",
+   "website": "https://www.instagram.com/elnexosf/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "El Rincón Del Papel",
+   "group": "in_store",
+   "address": "Calle Arrandi 22, Barakaldo, Bizkaia, 48901, Spain",
+   "phone": "+34679003787",
+   "website": "https://www.instagram.com/elrinconpapel/?hl=es",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "El Taller de Anowk",
+   "group": "in_store",
+   "address": "Calle Rda., 42, RINCÓN DE LA VICTORIA, Málaga, 29730, Spain",
+   "phone": "+34664309440",
+   "website": "https://www.instagram.com/eltallerdeanowk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "elrincón",
+   "group": "in_store",
+   "address": "Calle tartaneros n6 local B, Sanlúcar de Barrameda, Cádiz, 11540, Spain",
+   "phone": "+34640510517",
+   "website": "https://www.instagram.com/elrinconfrikitcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Empire Of Prizes",
@@ -1149,12 +1316,14 @@
    "group": "in_store",
    "city": "Gandia",
    "region": "Comunidad Valenciana",
-   "address": "Carrer Sant Pere, 50, 46702 Gandia, Valencia, Spain, Gandia, Comunidad Valenciana, 46702",
-   "phone": "+34 640 14 85 19",
+   "address": "50 Carrer Sant Pere, Gandia, VC, 46702, Spain",
+   "phone": "+34640148519",
+   "website": "https://instagram.com/encanteris.gandia?igshid=MmJiY2I4NDBkZg==",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:59Z"
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Espacio Joker",
@@ -1189,6 +1358,17 @@
    "checked_at": "2026-10-16T02:47:15Z"
   },
   {
+   "name": "Friki TournamenT",
+   "group": "in_store",
+   "address": "1B Carrer del Metge Lluís Alcanyís, Xàtiva, VC, 46800, Spain",
+   "phone": "669933218",
+   "website": "https://www.instagram.com/frikitournament/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Frikily Tienda Especialista Funko Pop",
    "group": "in_store",
    "city": "Cieza",
@@ -1209,6 +1389,16 @@
    "checked_at": "2026-10-16T02:42:05Z"
   },
   {
+   "name": "GalaxySaurio",
+   "group": "in_store",
+   "city": "Madrid",
+   "region": "MD",
+   "address": "Calle de Arganzuela, 14C, Centro, 28005 Madrid",
+   "phone": "619 90 17 75",
+   "website": "http://www.instagram.com/galaxysaurio",
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Gamelot",
    "group": "in_store",
    "city": "Zaragoza",
@@ -1216,6 +1406,38 @@
    "address": "Av. de Sta. Isabel, 117, Santa Isabel, 50016 Zaragoza",
    "phone": "629 93 74 27",
    "checked_at": "2026-10-16T02:52:05Z"
+  },
+  {
+   "name": "Games Freak",
+   "group": "in_store",
+   "city": "Barcelona",
+   "region": "CT",
+   "address": "Carrer de la Sèquia Comtal, 5 bis, Sant Martí, 08018 Barcelona",
+   "phone": "931 82 18 55",
+   "website": "https://www.facebook.com/seminousbarcelona/",
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "Gamestcg",
+   "group": "in_store",
+   "address": "Av. Bassa Perico, 2, Petrer, Alicante, 03610, Spain",
+   "phone": "+34627509858",
+   "website": "https://www.instagram.com/gamestcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Gaming & Tea",
+   "group": "in_store",
+   "address": "C/ Quintín Esquembre nº 1, Villena, A, 03400, Spain",
+   "phone": "+34626 056 174",
+   "website": "https://www.facebook.com/gamingtea/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Garaizar Pren S.L.",
@@ -1238,13 +1460,10 @@
   {
    "name": "Generacion X - Goya",
    "group": "in_store",
-   "city": "Móstoles",
-   "region": "Comunidad de Madrid",
    "address": "Calle de las Mártires Concepcionistas 5, Madrid, M, 28006, Spain",
    "phone": "+34+34 637 16 42 28",
    "website": "https://www.instagram.com/genxtiendas/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:41:40Z"
@@ -1271,6 +1490,40 @@
    "checked_at": "2026-10-16T02:42:42Z"
   },
   {
+   "name": "Gobelet",
+   "group": "in_store",
+   "city": "Alcoi",
+   "region": "Comunidad Valenciana",
+   "address": "Calle Ibi nº16, Alcoy, A, 03800, Spain",
+   "phone": "34 617 81 94 23",
+   "website": "https://www.facebook.com/gobeletalcoi/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "Goblin Trader - Madrid Sur",
+   "group": "in_store",
+   "address": "16 C. de Enrique Fuentes, Madrid, MD, 28026, Spain",
+   "phone": "+34910810870",
+   "website": "https://www.instagram.com/gtsmadridsur/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Grapecat Boosters",
+   "group": "in_store",
+   "city": "Madrid",
+   "region": "MD",
+   "address": "Intercambiador principe pio, Moncloa - Aravaca, 28008 Madrid",
+   "website": "https://www.instagram.com/grapecatboosters?igsh=NDFqbmd0Ym8ycGE1&utm_source=qr",
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Hamelin Games",
    "group": "in_store",
    "address": "Riera Figuera Major, 41-43 Local, Mataró, Barcelona, 08304, Spain",
@@ -1281,13 +1534,15 @@
    "checked_at": "2026-10-16T02:44:00Z"
   },
   {
-   "name": "Hobbie’s Place",
+   "name": "Heretica Store",
    "group": "in_store",
-   "city": "Valencia",
-   "region": "Carabobo",
-   "address": "6X4R+CWC, Av. Bolivar Nte., Valencia 2001, Carabobo, Venezuela",
-   "phone": "0241-8256537",
-   "checked_at": "2026-10-16T02:50:38Z"
+   "address": "Av. de Judimendi, 16, bajo, VITORIA-GASTEIZ, Alava, 01003, Spain",
+   "phone": "+34611562406",
+   "website": "https://www.instagram.com/hereticastore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Hobby Converters",
@@ -1301,15 +1556,29 @@
    "checked_at": "2026-10-16T02:48:05Z"
   },
   {
+   "name": "Hotei Games",
+   "group": "in_store",
+   "address": "Plaza de Andalucía, 8, Trebujena, Cádiz, 11560, Spain",
+   "phone": "+34606776269",
+   "website": "https://www.instagram.com/hotei.games/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Infernal Forge",
    "group": "in_store",
    "city": "Barcelona",
    "region": "Catalunya",
-   "address": "Carrer de Vèlia, 83, Nou Barris, 08016 Barcelona, Spain, Barcelona, Catalunya, 08016",
+   "address": "Calle Velia 83, bajos, Barcelona, Barcelona, 08016, Spain",
+   "phone": "+34930137439",
+   "website": "https://www.instagram.com/infernal_forge/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:59Z"
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Innistrad",
@@ -1327,10 +1596,13 @@
    "group": "in_store",
    "city": "Barcelona",
    "region": "CT",
-   "address": "Carrer Manuel Sancho, 6, Loc, Nou Barris, 08016 Barcelona",
-   "phone": "937 60 53 82",
-   "website": "https://discord.gg/fVHkvPX7ar",
-   "checked_at": "2026-10-16T21:47:59Z"
+   "address": "C/Manuel Sancho nº6, Barcelona, B, 08016, Spain",
+   "phone": "+34647 768 887",
+   "website": "https://www.facebook.com/jocandrolbcn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Juguetes Lasanta",
@@ -1340,6 +1612,30 @@
    "address": "C. de Manacor, 12, Llevant, 07006 Palma, Illes Balears",
    "phone": "971 46 89 58",
    "checked_at": "2026-10-16T02:54:10Z"
+  },
+  {
+   "name": "Júpiter Juegos - Guadalajara",
+   "group": "in_store",
+   "address": "Bajo Izquierda, Guadalajara, GU, 19002, Spain",
+   "phone": "+34949 40 92 40",
+   "website": "https://www.facebook.com/groups/jupiterguadalajara/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "Keiken",
+   "group": "in_store",
+   "city": "Martorell",
+   "region": "CT",
+   "address": "C/Abrera 5-7 Local 3B, Martorell, CT, 08760, Spain",
+   "phone": "34611612567",
+   "website": "https://www.instagram.com/keiken_world/?hl=es",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Kiosco",
@@ -1356,6 +1652,17 @@
    "region": "AR",
    "address": "Pl. de España, 1, Casco Antiguo, 50004 Zaragoza",
    "checked_at": "2026-10-16T02:52:18Z"
+  },
+  {
+   "name": "Kizuna Hub",
+   "group": "in_store",
+   "address": "Kale Barria 1, Getxo, Bizkaia, 48930, Spain",
+   "phone": "+34623825854",
+   "website": "https://www.instagram.com/kizuna.hub",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "KURAI",
@@ -1380,15 +1687,6 @@
    "checked_at": "2026-10-16T02:47:23Z"
   },
   {
-   "name": "La cartiña",
-   "group": "in_store",
-   "city": "Sevilla",
-   "region": "AN",
-   "address": "Av. de las Ciencias, 40, Edificio Giralda Este Local 6, 41020 Sevilla",
-   "phone": "641 44 80 14",
-   "checked_at": "2026-10-16T21:47:59Z"
-  },
-  {
    "name": "La Caverna de Geppetto",
    "group": "in_store",
    "address": "CALLE TURIA 55 BAJO, València, VC, 46008, Spain",
@@ -1405,10 +1703,22 @@
    "region": "Andalucía",
    "address": "C. Leopoldo Alas \"Clarín\", 3, Local 1, 29002 Málaga, Spain, Málaga, Andalucía, 29002",
    "phone": "+34 641716713",
+   "website": "https://www.instagram.com/lacienagahobby",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T02:47:00Z"
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "La Competència",
+   "group": "in_store",
+   "address": "47 Carrer dels Marquesos de Barberà, Barberà del Vallès, Barcelona, 08210, Spain",
+   "phone": "+34687616149",
+   "website": "https://www.instagram.com/lacompetenciajcc/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "La dama somiadora",
@@ -1427,33 +1737,73 @@
    "group": "in_store",
    "city": "Málaga",
    "region": "Andalucía",
-   "address": "C. Carlos Amel, 5, local 1, Carretera de Cádiz, 29006 Málaga, Spain, Málaga, Andalucía, 29006",
-   "phone": "+34 952 12 32 57",
+   "address": "Calle Carlos Amel 5, Málaga, Andalucía, 29006, Spain",
+   "phone": "+34699793002",
+   "website": "https://www.instagram.com/lafroja_tgc?igsh=MWV0d2RtdG51ODF1cw%3D%3D&utm_source=qr",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:59Z"
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "LA GUARIDA",
+   "group": "in_store",
+   "address": "9 C. de Rufino Blanco, Guadalajara, Guadalajara, 19003, Spain",
+   "phone": "+34 611246258",
+   "website": "https://www.instagram.com/laguarida.tcg?igsh=MXN1d3VneW80NTVqNw%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "La Guarida Juegos",
    "group": "in_store",
    "city": "Madrid",
    "region": "Comunidad de Madrid",
-   "address": "Calle de las Peñuelas, 14, Local 1, Arganzuela, 28005 Madrid, Spain, Madrid, Comunidad de Madrid, 28005",
-   "phone": "911825459",
+   "address": "C \\ Peñuelas 14, Madrid, M, 28005, Spain",
+   "phone": "+34 911 825 459",
+   "website": "https://www.instagram.com/la.guarida.juegos",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:59Z"
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "La llama de Chandra",
+   "group": "in_store",
+   "address": "Calle Miguel Hernandez 60, ALHAMA DE MURCIA, Murcia, 30840, Spain",
+   "phone": "+34646984446",
+   "website": "https://www.instagram.com/lallamadechandra/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "LA ORDEN DEL FRIKI",
+   "group": "in_store",
+   "address": "Avenida primero de mayo 15 local 6, La Llagosta, Barcelona, 08120, Spain",
+   "phone": "654907009",
+   "website": "https://www.instagram.com/laordendelfriki/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "La Plaza Bilbao",
    "group": "in_store",
    "city": "Bilbao",
    "region": "PV",
-   "address": "C. Grupo Reverendo Vicente Garmendi, 5, Ibaiondo, 48006 Bilbao, Vizcaya",
-   "phone": "686 70 89 69",
-   "website": "https://www.instagram.com/laplazabilbao?igsh=cHowY3hjYWU5emVq",
+   "address": "grupo reverendo Garamendi numero 5  Santutxu, Bilbao, Bizkaia, 48006, Spain",
+   "phone": "+34673505378",
+   "website": "https://www.instagram.com/laplazabilbao?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:41:40Z"
   },
   {
@@ -1467,6 +1817,28 @@
    "checked_at": "2026-10-16T02:45:56Z"
   },
   {
+   "name": "Laboratoritcg",
+   "group": "in_store",
+   "address": "C/ Vereda de Chapatales, nº 3, local 8, San Jose de La Rinconada, Sevilla, 41300, Spain",
+   "phone": "+34633261410",
+   "website": "https://www.instagram.com/laboratoriotcg/?hl=es",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Laluna",
+   "group": "in_store",
+   "address": "60 Carrer de Mossèn Jacint Verdaguer, Premià de Mar, CT, 08330, Spain",
+   "phone": "+34637325727",
+   "website": "https://www.instagram.com/laluna.premia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Level Up Game Shop",
    "group": "in_store",
    "region": "Canarias",
@@ -1478,6 +1850,31 @@
    "checked_at": "2026-10-16T02:47:00Z"
   },
   {
+   "name": "Libertalia Juegos",
+   "group": "in_store",
+   "city": "Móstoles",
+   "region": "Comunidad de Madrid",
+   "address": "Calle Badajoz, 32, Móstoles, M, 28931, Spain",
+   "phone": "34622-802-471",
+   "website": "https://www.instagram.com/libertaliajuegos/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Libreria Retuerto",
+   "group": "in_store",
+   "address": "Grupo Loitzaga 1 (Lonja), Barakaldo, Bk, 48900, Spain",
+   "phone": "+34 635 75 00 85",
+   "website": "https://m.facebook.com/pages/category/Comic-Bookstore/El-barbas-que-lo-sepas-801910943271907/?locale2=es_LA",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:05Z"
+  },
+  {
    "name": "Lizard Comics",
    "group": "in_store",
    "city": "Sevilla",
@@ -1487,6 +1884,30 @@
    "checked_at": "2026-10-16T02:51:35Z"
   },
   {
+   "name": "Lorcanos",
+   "group": "in_store",
+   "city": "Badalona",
+   "region": "CT",
+   "address": "10 Carrer d'Ignasi Iglesias, Badalona, CT, 08912, Spain",
+   "phone": "34651835027",
+   "website": "https://www.instagram.com/lorcanostcg/?hl=fr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Ludokai",
+   "group": "in_store",
+   "address": "15 Ctra. Nova, La Garriga, Barcelona, 08530, Spain",
+   "phone": "+34623766921",
+   "website": "https://www.instagram.com/ludokai_lagarriga/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Magic Cube Barcelona",
    "group": "in_store",
    "city": "Barcelona",
@@ -1494,6 +1915,17 @@
    "address": "Ciutat Vella, 08002 Barcelona",
    "phone": "635 14 07 07",
    "checked_at": "2026-10-16T02:50:19Z"
+  },
+  {
+   "name": "Magic ´All Goal",
+   "group": "in_store",
+   "address": "C/ Fermín Lasuen, 7 B, VITORIA-GASTEIZ, VI, 01013, Spain",
+   "phone": "34687 90 09 11",
+   "website": "https://www.facebook.com/magicallgoal.yugioh.vitoria/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Mallorca Sports Cards",
@@ -1514,6 +1946,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:47:25Z"
+  },
+  {
+   "name": "MANSION MARKOV",
+   "group": "in_store",
+   "address": "Carrer Arxiduc Lluís Salvador 55 (local derecha), Palma de Mallorca, Illes Balears, 07004, Spain",
+   "phone": "+34623784597",
+   "website": "https://www.instagram.com/mansionmarkov/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Mansión Markov",
@@ -1545,13 +1988,10 @@
   {
    "name": "Medusa Cómics",
    "group": "in_store",
-   "city": "Alcoi",
-   "region": "Comunidad Valenciana",
    "address": "Ronda de la Pescadería, 21, Alcalá de Henares, Madrid, 28801, Spain",
    "phone": "+34684298709",
    "website": "https://www.facebook.com/comicsmedusa/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:42:42Z"
@@ -1645,6 +2085,15 @@
    "checked_at": "2026-10-16T02:52:18Z"
   },
   {
+   "name": "Máquina Expendedora Pokémon - Pokémix",
+   "group": "in_store",
+   "city": "Palma",
+   "region": "IB",
+   "address": "Gremi des Fusters, 46, Nord, 07009 Palma, Illes Balears",
+   "website": "https://www.instagram.com/pokemixtcgpalma?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Neko Neko",
    "group": "in_store",
    "city": "Palma",
@@ -1661,6 +2110,20 @@
    "address": "Passatge Particular Joan XXIII, 4, Centre, 07002 Palma, Illes Balears",
    "phone": "634 53 45 64",
    "checked_at": "2026-10-16T02:54:10Z"
+  },
+  {
+   "name": "Nexus Sueca",
+   "group": "in_store",
+   "city": "Sueca",
+   "region": "Comunidad Valenciana",
+   "address": "C/ Vicenta Carraquer, nº 61, bajo, Sueca, V, 46410, Spain",
+   "phone": "+34643 552 138",
+   "website": "https://www.facebook.com/nexussueca/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Novedades Casino",
@@ -1691,6 +2154,27 @@
    "checked_at": "2026-10-16T02:49:30Z"
   },
   {
+   "name": "Otamashi Merchandising",
+   "group": "in_store",
+   "city": "Barcelona",
+   "region": "CT",
+   "address": "Pg. de St. Joan, 5, Eixample, 08010 Barcelona",
+   "phone": "930 07 64 10",
+   "website": "https://www.facebook.com/otamashi",
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "Paladin Store and Events",
+   "group": "in_store",
+   "address": "C/ Cinca 51 Local, Barcelona, Barcelona, 08030, Spain",
+   "phone": "+34640538630",
+   "website": "https://www.instagram.com/paladinstore.es/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Papelería Ferrer",
    "group": "in_store",
    "city": "Sevilla",
@@ -1700,6 +2184,17 @@
    "checked_at": "2026-10-16T02:51:42Z"
   },
   {
+   "name": "Play With Mina",
+   "group": "in_store",
+   "address": "C/ Sant Magí, 16, El Vendrell, T, 43700, Spain",
+   "phone": "34977 53 34 85",
+   "website": "https://www.facebook.com/people/Play-With-Mina/100063594672091/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
    "name": "Playshop",
    "group": "in_store",
    "city": "Málaga",
@@ -1707,6 +2202,17 @@
    "address": "C. Gaucín, 10, Carretera de Cádiz, 29003 Málaga",
    "phone": "951 57 73 83",
    "checked_at": "2026-10-16T02:52:42Z"
+  },
+  {
+   "name": "Pocketpiecetcg",
+   "group": "in_store",
+   "address": "C/ 25 d'Abril, 3, l'Alcúdia, Valencia , 46250, Spain",
+   "phone": "+34635829153",
+   "website": "https://www.instagram.com/pocketpiecetcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "POKEKAI",
@@ -1778,13 +2284,16 @@
    "checked_at": "2026-10-16T02:52:31Z"
   },
   {
-   "name": "Rapture TCG",
+   "name": "RaptureTCG",
    "group": "in_store",
    "city": "Málaga",
    "region": "AN",
-   "address": "C. de Alonso de Aguilar, 50, Loc 2, Cruz de Humilladero, 29010 Málaga",
-   "phone": "614 72 81 46",
-   "website": "https://www.instagram.com/rapturetcg",
+   "address": "C/Alonso de Aguilar, 50, Local 2, Málaga, Málaga, 29010, Spain",
+   "phone": "+34614728146",
+   "website": "https://www.instagram.com/rapturetcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:41:40Z"
   },
   {
@@ -1812,6 +2321,28 @@
    "region": "AR",
    "address": "C. de Miguel de Cervantes, 14, 50006 Zaragoza",
    "checked_at": "2026-10-16T02:52:14Z"
+  },
+  {
+   "name": "RiftNexus",
+   "group": "in_store",
+   "address": "Angel sanchez 22, Dolores de pacheco, Murcia, 30739, Spain",
+   "phone": "+34634403744",
+   "website": "https://www.instagram.com/riftnexus?igsh=YnIyajJ0NW43cGJ3&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Rincon del Friki",
+   "group": "in_store",
+   "address": "Av. Onze de Setembre, 62, Sabadell, 2, 08208, Spain",
+   "phone": "+34937167132",
+   "website": "https://www.instagram.com/rincondelfriki/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Rocketlab",
@@ -1850,6 +2381,30 @@
    "checked_at": "2026-10-16T02:50:08Z"
   },
   {
+   "name": "Shark Games Vault",
+   "group": "in_store",
+   "address": "Calle Jerónimo Bobadilla, nº3, Local, Málaga, Málaga, 29003, Spain",
+   "phone": "+34951738627",
+   "website": "https://www.instagram.com/sharkgamesvault?igsh=aXRtYjl3OXVldzM2&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "SIMONV TCG",
+   "group": "in_store",
+   "city": "Leganés",
+   "region": "MD",
+   "address": "C/ Madrid 18, Local 3, Leganés, Madrid, 28912, Spain",
+   "phone": "+34685892336",
+   "website": "https://www.instagram.com/simonvtcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "STAR SHOP",
    "group": "in_store",
    "city": "Palma",
@@ -1865,6 +2420,17 @@
    "region": "VC",
    "address": "Avinguda de la Costa Blanca, 135, 03540 Alacant, Alicante",
    "checked_at": "2026-10-16T02:53:32Z"
+  },
+  {
+   "name": "SubTerra",
+   "group": "in_store",
+   "address": "Avenida de la Vega 27, B, Orihuela, Alicante, 03300, Spain",
+   "phone": "+34623467658",
+   "website": "https://www.instagram.com/subterra_oficial/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "SUGOI SPACE",
@@ -1897,13 +2463,28 @@
    "checked_at": "2026-10-16T02:53:37Z"
   },
   {
+   "name": "TCG Academy Calpe",
+   "group": "in_store",
+   "address": "C/Goleta nº2 BJ 3, Calp, Alicante, 03710, Spain",
+   "phone": "+34648635723",
+   "website": "https://www.instagram.com/tcgacademycalpe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "TCG Academy Madrid",
    "group": "in_store",
    "city": "Torrejón de Ardoz",
    "region": "MD",
-   "address": "C.C El Círculo, Av. de la Constitución, 90, local 44, 28850 Torrejón de Ardoz, Madrid",
-   "phone": "614 28 59 11",
-   "checked_at": "2026-10-16T21:47:59Z"
+   "address": "Av/ De la Constitución 90 C.C El Círculo local 22, Torrejón de Ardoz, Madrid, 28850, Spain",
+   "phone": "+34614285911",
+   "website": "https://www.instagram.com/tcgacademy.madrid/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "TCG coleccionables vending shop",
@@ -1935,16 +2516,40 @@
    "checked_at": "2026-10-16T02:47:25Z"
   },
   {
+   "name": "Te Juego Mucho",
+   "group": "in_store",
+   "address": "1 C. Antonio Muñoz Molina, Rivas-Vaciamadrid, MD, 28521, Spain",
+   "phone": "+34614202093",
+   "website": "https://www.instagram.com/tejuegomucho/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "TecnolandGames",
+   "group": "in_store",
+   "address": "Calle Sol 7 Bajo, Hellín, Albacete, 02400, Spain",
+   "phone": "+34689915382",
+   "website": "https://www.instagram.com/tecnoland_tcg_hellin/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Teseracto",
    "group": "in_store",
    "city": "Vilafranca del Penedès",
    "region": "Catalunya",
-   "address": "Carrer de la Paloma, 15, 08720 Vilafranca del Penedès, Barcelona, Spain, Vilafranca del Penedès, Catalunya, 08720",
-   "phone": "+34 640650731",
+   "address": "15 Carrer de la Paloma, Vilafranca del Penedès, CT, 08720, Spain",
+   "phone": "+34640650731",
+   "website": "https://www.instagram.com/teseractovilafranca/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:59Z"
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "The BILBAO store - souvenirs, plata y complementos",
@@ -1968,11 +2573,12 @@
    "group": "in_store",
    "city": "Palma",
    "region": "Illes Balears",
-   "address": "Carrer d'Antoni Maria Alcover, 2, Ponent, 07011 Palma, Illes Balears, Spain, Palma, Illes Balears, 07011",
-   "phone": "633 73 56 66",
-   "website": "https://www.instagram.com/thegatheringmallorca/",
+   "address": "2 Carrer d'Antoni Maria Alcover, Palma, Islas Baleares, 07011, Spain",
+   "phone": "+34633735666",
+   "website": "https://www.instagram.com/thegatheringmallorca?igsh=NGoxOWozNHg0b254",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:41:40Z"
   },
@@ -2008,6 +2614,63 @@
    "checked_at": "2026-10-16T02:42:42Z"
   },
   {
+   "name": "Tokio Cantillana",
+   "group": "in_store",
+   "address": "1 C. Sánchez Cotán, Cantillana, AN, 41320, Spain",
+   "phone": "+34618-793-435",
+   "website": "https://www.facebook.com/laguarida.deldragon.10",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "TopDeck Store",
+   "group": "in_store",
+   "address": "Rambla de Joaquim Ruyra 103, Bajos 1 (LOCAL), BLANES, Girona, 17300, Spain",
+   "phone": "+34640905426",
+   "website": "https://www.instagram.com/topdeck_store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Toreka Games",
+   "group": "in_store",
+   "address": "c/Francesc Macià I Llussà, 93, Local, Granollers, Barcelona, 08402, Spain",
+   "phone": "+34672497696",
+   "website": "https://www.instagram.com/torekagames",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Torredragón",
+   "group": "in_store",
+   "city": "Torremolinos",
+   "region": "AN",
+   "address": "15 Av. Joan Miró, Torremolinos, AN, 29620, Spain",
+   "phone": "34951724020",
+   "website": "https://www.instagram.com/torredragon.tienda/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Torrejugones",
+   "group": "in_store",
+   "address": "C/ Circunvalación, 9, Torrejón de Ardoz, Madrid, 28850, Spain",
+   "phone": "+34669715379",
+   "website": "https://www.instagram.com/torrejugones/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Toy Club Express",
    "group": "in_store",
    "city": "Zaragoza",
@@ -2028,9 +2691,24 @@
    "group": "in_store",
    "city": "Gavà",
    "region": "CT",
-   "address": "Carretera de Santa Creu de Calafell, 42, bajos izquierda, 08850 Gavà, Barcelona",
-   "phone": "640 19 70 51",
-   "checked_at": "2026-10-16T21:47:59Z"
+   "address": "Carretera de Santa Creu de Calafell 42 Local Izquierda, Gava, Barcelona, 08850, Spain",
+   "phone": "+34640197051",
+   "website": "https://www.instagram.com/trading.souls_/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Trastos Frikis",
+   "group": "in_store",
+   "address": "C/ Gas 16 Local, Vilanova i la Getru, Spain, 08800, Spain",
+   "phone": "+34 938 53 18 36",
+   "website": "https://www.instagram.com/ainnistrad",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Tristant Shop",
@@ -2052,6 +2730,17 @@
    "checked_at": "2026-10-16T02:51:56Z"
   },
   {
+   "name": "UNDEDIEZ",
+   "group": "in_store",
+   "address": "C/ Carme N°111 Local 7, Malgrat de Mar, B, 08380, Spain",
+   "phone": "+34634803527",
+   "website": "https://instagram.com/undediez",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
    "name": "Valencia Card Shop",
    "group": "in_store",
    "city": "Silla",
@@ -2059,6 +2748,41 @@
    "address": "Rambla de la Independència, 115, 46460 Silla, Valencia",
    "phone": "602 56 31 18",
    "checked_at": "2026-10-16T02:50:39Z"
+  },
+  {
+   "name": "Vault 37",
+   "group": "in_store",
+   "address": "Avenida Alicante 35 Bajo, Denia, Alicante, 03700, Spain",
+   "phone": "+34667838680",
+   "website": "https://www.instagram.com/vault37denia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Velkarion",
+   "group": "in_store",
+   "city": "Alcorcón",
+   "region": "MD",
+   "address": "Calle las vegas 18, alcorcon, Madrid, 28921, Spain",
+   "phone": "+34654166132",
+   "website": "https://www.instagram.com/velkariontcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
+  },
+  {
+   "name": "Vertice Comics",
+   "group": "in_store",
+   "address": "Calabria 195, Barcelona, B, 08029, Spain",
+   "phone": "34615 77 58 41",
+   "website": "https://www.facebook.com/p/Vertice-Comics-100063633007605/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:42Z"
   },
   {
    "name": "Video Games Star Games",
@@ -2069,6 +2793,17 @@
    "phone": "976 21 96 87",
    "website": "https://www.facebook.com/Star-Games-122107981229001/",
    "checked_at": "2026-10-16T02:42:42Z"
+  },
+  {
+   "name": "Wild Mana",
+   "group": "in_store",
+   "address": "Carrer de Borràs, 4, LOCAL, Sabadell, Barcelona, 08208, Spain",
+   "phone": "+34614885892",
+   "website": "https://www.instagram.com/wildmanaes/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:41:40Z"
   },
   {
    "name": "Woopa Cards",
@@ -2106,6 +2841,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:44:01Z"
+  },
+  {
+   "name": "2d6 Store S.L.U",
+   "group": "unknown",
+   "address": "CM. San rafael 115, Málaga, Málaga, 29006, Spain",
+   "phone": "+34619247111",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "2TGAMECAFE",
@@ -2188,6 +2934,17 @@
    "phone": "965 91 21 40",
    "website": "https://www.adidas.com?af_dp=adidas%3A%2F%2Fontheradar&onelink_id=ihha&af_channel=Partners&pid=GoogleMap&source_caller=ui&shortlink=11c0ab86&c=Google-Map-Business-Profile&is_retargeting=true",
    "checked_at": "2026-10-16T02:53:38Z"
+  },
+  {
+   "name": "Aether Alicante",
+   "group": "unknown",
+   "address": "Calle Virgen del Socorro 54, local 5, Alicante, Alicante, 03002, Spain",
+   "phone": "+34625513174",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "Afede Deusto",
@@ -2542,16 +3299,6 @@
    "phone": "968 25 27 23",
    "website": "http://bazardeltebeo.com/es/",
    "checked_at": "2026-10-16T02:53:53Z"
-  },
-  {
-   "name": "BcnRetroClass",
-   "group": "unknown",
-   "city": "Esparreguera",
-   "region": "CT",
-   "address": "Carrer de Baix, 44, 08292 Esparreguera, Barcelona",
-   "phone": "603 79 50 75",
-   "website": "https://www.bcnretroclass.com/",
-   "checked_at": "2026-10-16T21:47:59Z"
   },
   {
    "name": "BELLAS ARTES GOYA LA BOUTIQUE",
@@ -3076,6 +3823,17 @@
    "checked_at": "2026-10-16T02:46:52Z"
   },
   {
+   "name": "Dark Ritual TCG S.L.",
+   "group": "unknown",
+   "address": "Calle de la Cañada Real de Toledo Nº16, Pinto, Madrid, 28320, Spain",
+   "phone": "+34653036876",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
    "name": "Daruma Games",
    "group": "unknown",
    "city": "Alicante",
@@ -3258,13 +4016,10 @@
   {
    "name": "Dracarys Juegos",
    "group": "unknown",
-   "city": "Badalona",
-   "region": "Catalunya",
    "address": "13 C. de la Imaginación, Alcobendas, MD, 28100, Spain",
    "phone": "34608863675",
    "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:42:20Z"
@@ -3362,6 +4117,17 @@
    "phone": "931 73 21 91",
    "website": "https://dungeonmarvels.com/",
    "checked_at": "2026-10-16T02:50:00Z"
+  },
+  {
+   "name": "Durama",
+   "group": "unknown",
+   "address": "Carrer Virrei Poveda, Petrer, Alicante, 03610, Spain",
+   "phone": "+34.614264787",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "Edición Limitada",
@@ -3549,6 +4315,28 @@
    "checked_at": "2026-10-16T02:53:01Z"
   },
   {
+   "name": "El Santuario del Cartón",
+   "group": "unknown",
+   "address": "Calle Doctor Guerau, 12. , Alcoy, Alicante, 03801, Spain",
+   "phone": "+34616030856",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
+   "name": "EL TEMPLO",
+   "group": "unknown",
+   "address": "Calle Figuera Major 37, Mataró, Barcelona, 08304, Spain",
+   "phone": "+34633564758",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
    "name": "El Tesoro del Dragon Blanco",
    "group": "unknown",
    "city": "L'Hospitalet de Llobregat",
@@ -3590,6 +4378,31 @@
    "checked_at": "2026-10-16T02:45:30Z"
   },
   {
+   "name": "EL TURNO EXTRA",
+   "group": "unknown",
+   "address": "166 C. del Capitán Angosto Gómez Castrillón, Aranjuez, Madrid, 28300, Spain",
+   "phone": "+34620152748",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
+   "name": "El Viajero",
+   "group": "unknown",
+   "city": "Badalona",
+   "region": "Catalunya",
+   "address": "107 C/ de Guifré, Badalona, CT, 08912, Spain",
+   "phone": "34657901293",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
    "name": "Elite4cards",
    "group": "unknown",
    "city": "Barcelona",
@@ -3622,6 +4435,20 @@
    "phone": "944 24 02 28",
    "website": "http://www.elkar.eus/",
    "checked_at": "2026-10-16T02:53:04Z"
+  },
+  {
+   "name": "Empire Games",
+   "group": "unknown",
+   "city": "Sevilla",
+   "region": "Andalucía",
+   "address": "C/. Chaves Nogales local 20, Sevilla, SE, 41018, Spain",
+   "phone": "+34 954 094 998",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:15Z"
   },
   {
    "name": "En Portada Cómics",
@@ -4335,6 +5162,17 @@
    "checked_at": "2026-10-16T02:41:50Z"
   },
   {
+   "name": "Goblintrader Barcelona",
+   "group": "unknown",
+   "address": "17 Pg. de Sant Joan, Barcelona, CT, 08010, Spain",
+   "phone": "34640932703",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
    "name": "Goblintrader Madrid Norte",
    "group": "unknown",
    "city": "Madrid",
@@ -4492,6 +5330,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:44:39Z"
+  },
+  {
+   "name": "Hobby",
+   "group": "unknown",
+   "address": "La purisima 6, Almoradi, Alicante, 03160, Spain",
+   "phone": "+34744635459",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "HOBBY MODELS",
@@ -4906,13 +5755,10 @@
   {
    "name": "Júpiter Madrid Norte",
    "group": "unknown",
-   "city": "Sevilla",
-   "region": "Andalucía",
    "address": "Calle Marques de la Valdavia 95, Local 2, Alcobendas, C, 28100, Spain",
    "phone": "34(0) 910.254.043",
    "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:42:15Z"
@@ -5029,16 +5875,6 @@
    "checked_at": "2026-10-16T02:43:00Z"
   },
   {
-   "name": "Keiken",
-   "group": "unknown",
-   "city": "Martorell",
-   "region": "CT",
-   "address": "Carrer Abrera, 5, local 2, 08760 Martorell, Barcelona",
-   "phone": "611 61 25 67",
-   "website": "https://keikenworld.es/",
-   "checked_at": "2026-10-16T21:47:59Z"
-  },
-  {
    "name": "KHANBARRILETE",
    "group": "unknown",
    "city": "Mislata",
@@ -5141,6 +5977,19 @@
    "checked_at": "2026-10-16T02:44:00Z"
   },
   {
+   "name": "La cartiña",
+   "group": "unknown",
+   "city": "Sevilla",
+   "region": "AN",
+   "address": "Avenida de las ciencias 40, local 6, SEVILLA, Sevilla, 41020, Spain",
+   "phone": "+34646695806",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
+  },
+  {
    "name": "La casa del GTAHUB",
    "group": "unknown",
    "city": "Málaga",
@@ -5218,6 +6067,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:44:57Z"
+  },
+  {
+   "name": "La Cueva TCG's",
+   "group": "unknown",
+   "address": "55 Avinguda del Doctor Pasteur, Igualada, Barcelona, 08700, Spain",
+   "phone": "+34653899969",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "La Escotilla",
@@ -5600,16 +6460,6 @@
    "phone": "934 43 32 68",
    "website": "https://www.universal-comics.com/",
    "checked_at": "2026-10-16T02:50:19Z"
-  },
-  {
-   "name": "Lorcanos",
-   "group": "unknown",
-   "city": "Badalona",
-   "region": "CT",
-   "address": "Carrer d'Ignasi Iglesias, 10, 08912 Badalona, Barcelona",
-   "phone": "675 06 00 68",
-   "website": "https://lorcanostcg.com/",
-   "checked_at": "2026-10-16T21:47:59Z"
   },
   {
    "name": "Los Moscas",
@@ -6199,6 +7049,17 @@
    "checked_at": "2026-10-16T02:47:20Z"
   },
   {
+   "name": "Mundo Craft",
+   "group": "unknown",
+   "address": "AVENIDA DOCTOR GARCÍA ROJEL Nº 20 BAJO, Orihuela, A, 03300, Spain",
+   "phone": "+34966 840 265",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:15Z"
+  },
+  {
    "name": "Mundo Fantasía",
    "group": "unknown",
    "city": "Madrid",
@@ -6304,6 +7165,17 @@
    "checked_at": "2026-10-16T02:50:44Z"
   },
   {
+   "name": "Nemesis",
+   "group": "unknown",
+   "address": "18, Santander, S, 39001, Spain",
+   "phone": "+34942 372 608",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:15Z"
+  },
+  {
    "name": "NeoLab TCG",
    "group": "unknown",
    "city": "Barcelona",
@@ -6333,19 +7205,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:42:42Z"
-  },
-  {
-   "name": "Nexus Sueca",
-   "group": "unknown",
-   "city": "Sueca",
-   "region": "Comunidad Valenciana",
-   "address": "Carrer de Vicenta Carrasquer, 61, 46410 Sueca, Valencia, Spain, Sueca, Comunidad Valenciana, 46410",
-   "phone": "+34 643 55 21 38",
-   "website": "https://nexussueca.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:59Z"
   },
   {
    "name": "Nikochan Arena",
@@ -6400,6 +7259,17 @@
    "phone": "954 21 76 29",
    "website": "https://www.nostromocomics.com/",
    "checked_at": "2026-10-16T02:51:35Z"
+  },
+  {
+   "name": "Nueva Partida Plus",
+   "group": "unknown",
+   "address": "C/ Av. de valencia numero 35,, requena, valencia, 46340, Spain",
+   "phone": "+34602098013",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:20Z"
   },
   {
    "name": "Numismática V. Craven - Bartle",
@@ -6648,6 +7518,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:42:38Z"
+  },
+  {
+   "name": "PokeVault Spain",
+   "group": "unknown",
+   "city": "Madrid",
+   "region": "MD",
+   "address": "C. de la Luna, 11, Centro, 28004 Madrid",
+   "website": "https://api.whatsapp.com/send/?phone=14583432370&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:47:55Z"
   },
   {
    "name": "PokéElite TCG - Máquina Expendedora de TCG - OnePiece, Pokemon y muchas más cosas",
@@ -6914,14 +7793,17 @@
    "checked_at": "2026-10-16T02:54:10Z"
   },
   {
-   "name": "Santa Ana Friki",
+   "name": "SANTA ANA FRIKI",
    "group": "unknown",
    "city": "Cartagena",
    "region": "MC",
-   "address": "C. Alcalde Amancio Muñoz, 50, 30203 Cartagena, Murcia",
-   "phone": "618 73 97 95",
-   "website": "https://santaanafriki.es/",
-   "checked_at": "2026-10-16T21:48:04Z"
+   "address": "Avda.Venecia nº18 (Junto a Bar el Capi) , Cartagena, MU, 30319 , Spain",
+   "phone": "34618 739 795",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:42:15Z"
   },
   {
    "name": "Santuario Arcano",
@@ -7030,16 +7912,6 @@
    "address": "Intercambiador de, Av. de América, Planta -3, Chamartín, 28002 Madrid",
    "website": "https://shinyhit.com/",
    "checked_at": "2026-10-16T02:47:38Z"
-  },
-  {
-   "name": "SimonV TCG",
-   "group": "unknown",
-   "city": "Leganés",
-   "region": "MD",
-   "address": "C. de Madrid, 18, 28912 Leganés, Madrid",
-   "phone": "614 07 99 89",
-   "website": "https://simonvtcg.es/",
-   "checked_at": "2026-10-16T21:47:59Z"
   },
   {
    "name": "Singleton TCG",
@@ -7500,16 +8372,6 @@
    "checked_at": "2026-10-16T02:49:27Z"
   },
   {
-   "name": "Torredragón",
-   "group": "unknown",
-   "city": "Torremolinos",
-   "region": "AN",
-   "address": "Av. Joan Miró, 15, Loc 9, 29620 Torremolinos, Málaga",
-   "phone": "951 72 40 20",
-   "website": "https://torredragon.com/",
-   "checked_at": "2026-10-16T21:47:59Z"
-  },
-  {
    "name": "Totcomic",
    "group": "unknown",
    "city": "Barcelona",
@@ -7680,16 +8542,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:46:38Z"
-  },
-  {
-   "name": "Velkarion",
-   "group": "unknown",
-   "city": "Alcorcón",
-   "region": "MD",
-   "address": "Calle las Vegas, 18, 28921 Alcorcón, Madrid",
-   "phone": "654 16 61 32",
-   "website": "https://velkarion.com/",
-   "checked_at": "2026-10-16T21:47:59Z"
   },
   {
    "name": "Vendelo Amazing",

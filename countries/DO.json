@@ -1,9 +1,27 @@
 {
  "country": "DO",
  "currency": "DOP",
- "updated": "2026-10-18",
- "store_count": 57,
+ "updated": "2026-10-20",
+ "store_count": 65,
  "stores": [
+  {
+   "name": "Anime Galaxy",
+   "group": "in_store",
+   "city": "Santo Domingo Este",
+   "region": "Santo Domingo",
+   "address": "AUT. SAN ISIDRO, PLAZA CORAL MALL, Santo Domingo Este 11805",
+   "website": "https://www.instagram.com/animegalaxyrd/",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
+  {
+   "name": "Anime Galaxy RD - Plaza Central",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Distrito Nacional",
+   "address": "Plaza Central, Santo Domingo 10148",
+   "website": "http://www.instagram.com/anime2galaxyrd",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
   {
    "name": "Anime Island",
    "group": "in_store",
@@ -12,6 +30,16 @@
    "address": "C. El Conde 359, Santo Domingo 10210",
    "phone": "(809) 688-9814",
    "website": "https://www.facebook.com/AnimeIslandRD/",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
+  {
+   "name": "Baez video gaming",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Distrito Nacional",
+   "address": "3er nivel, al lado de jade teriyaki, Plaza Joanna, nuñez de caceres 753, Santo Domingo",
+   "phone": "(809) 438-0033",
+   "website": "https://instagram.com/baezvideogaming?igshid=9mhna4f5ze58",
    "checked_at": "2026-10-18T21:47:43Z"
   },
   {
@@ -60,6 +88,16 @@
    "checked_at": "2026-10-18T21:47:47Z"
   },
   {
+   "name": "DJ VIDEO GAME",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Distrito Nacional",
+   "address": "F22Q+XC6, C. Teodoro Chasseriau 11, Santo Domingo 10114",
+   "phone": "(829) 687-9415",
+   "website": "http://facebook.com/djvideojuegos",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
+  {
    "name": "Freddy Gift Shop",
    "group": "in_store",
    "city": "Santo Domingo",
@@ -76,6 +114,26 @@
    "address": "C. Arzobispo Nouel 2, Santo Domingo 10210",
    "phone": "(809) 689-3972",
    "checked_at": "2026-10-18T21:47:49Z"
+  },
+  {
+   "name": "Full Collection RD",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Santo Domingo",
+   "address": "C. María Marcelino 31, Santo Domingo",
+   "phone": "(829) 646-6229",
+   "website": "https://instagram.com/fullcollectionrd?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
+  {
+   "name": "FULL GAME STORE",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Santo Domingo",
+   "address": "frente al dealer de carros que está en la entrada de buena vista 2da, Av. Hermanas Mirabal, Santo Domingo 11201",
+   "phone": "(809) 709-4022",
+   "website": "https://www.instagram.com/fullgamesk4?igsh=c21obndva3RjdHh3",
+   "checked_at": "2026-10-18T21:47:43Z"
   },
   {
    "name": "Galaxy Tech Gazcue",
@@ -116,8 +174,8 @@
   {
    "name": "Heart of the Games",
    "group": "in_store",
-   "city": "Santo Domingo Este",
-   "region": "Santo Domingo",
+   "city": "Stgo",
+   "region": "Santiago",
    "address": "Av. Salvador Estrella Sadhalá, Santiago, Santiago, 51000, Dominican Republic",
    "phone": "809896-2957",
    "website": "https://www.instagram.com/heartofthegamesrd/",
@@ -206,6 +264,16 @@
    "checked_at": "2026-10-18T21:47:47Z"
   },
   {
+   "name": "Rainbow Toy RD",
+   "group": "in_store",
+   "city": "Santo Domingo",
+   "region": "Distrito Nacional",
+   "address": "Corner of, P.º de los Aviadores, Santo Domingo 10413",
+   "phone": "(829) 747-2714",
+   "website": "https://instagram.com/rainbowtoy.rd",
+   "checked_at": "2026-10-18T21:47:43Z"
+  },
+  {
    "name": "Raro Collector",
    "group": "in_store",
    "city": "Santo Domingo",
@@ -266,6 +334,15 @@
    "address": "Calle Hermanas Mirabal, 11205",
    "phone": "(809) 401-6768",
    "checked_at": "2026-10-18T21:47:49Z"
+  },
+  {
+   "name": "The last Game stores",
+   "group": "in_store",
+   "region": "Santo Domingo",
+   "address": "10014",
+   "phone": "(829) 981-0814",
+   "website": "https://instagram.com/thelastgamestore_?igshid=OGQ5ZDc2ODk2ZA==&utm_source=qr",
+   "checked_at": "2026-10-18T21:47:43Z"
   },
   {
    "name": "Tienda de Regalos F.C. SRL",
@@ -356,8 +433,8 @@
   {
    "name": "Comando Gaming Cave",
    "group": "unknown",
-   "city": "Stgo",
-   "region": "Santiago",
+   "city": "Santo Domingo",
+   "region": "Distrito Nacional",
    "address": "Av. Los proceres No.20, Plaza Rivas Sotano, Santo Domingo, Distrito Nacional, 31039, Dominican Republic",
    "phone": "18098495116",
    "website": "https://linktr.ee/ComandoGamingCave?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnsf6cKMYkh7JwmO1sgfB8E9rer8MnuDiJFaFAPcsEzBYhvtfdkVFoV_uhylg_aem_KsjC_tXj2WZUJhavlOYXRw",

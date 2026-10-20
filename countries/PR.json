@@ -1,8 +1,8 @@
 {
  "country": "PR",
  "currency": "USD",
- "updated": "2026-10-18",
- "store_count": 66,
+ "updated": "2026-10-20",
+ "store_count": 80,
  "stores": [
   {
    "name": "Gufy Games",
@@ -39,7 +39,7 @@
    "region": "Ponce",
    "address": "1485 Ave Boulevard Miguel Pou, Ponce, 00717",
    "phone": "(787) 284-2030",
-   "checked_at": "2026-10-18T21:48:29Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Big Bang Comics",
@@ -48,6 +48,16 @@
    "region": "Bayamón",
    "address": "Avenida Nogal, S 51 Cll Amapola, Bayamón, 00956",
    "checked_at": "2026-10-18T21:48:29Z"
+  },
+  {
+   "name": "Collections",
+   "group": "in_store",
+   "city": "San Juan",
+   "region": "San Juan",
+   "address": "Pl. Las Américas, San Juan, 00918",
+   "phone": "(939) 633-9567",
+   "website": "https://www.facebook.com/collectpr",
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "CoquimonTCG",
@@ -106,9 +116,13 @@
    "group": "in_store",
    "city": "Juana Díaz",
    "region": "Juana Díaz",
-   "address": "31 Calle Tomas Carrion Maduro, Juana Díaz, 00795",
-   "phone": "(787) 429-4364",
-   "checked_at": "2026-10-18T21:48:23Z"
+   "address": "Urb Santa Rita III 1533 C Santa Clara, Coto Laurel, Puerto Rico, 00780, Puerto Rico",
+   "phone": "17874004291",
+   "website": "https://www.facebook.com/houseoftcgpr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "ISD Gaming",
@@ -171,7 +185,7 @@
    "address": "88 Carazo St, Guaynabo, 00969",
    "phone": "(787) 972-4678",
    "website": "http://www.facebook.com/museodevideojuegos",
-   "checked_at": "2026-10-18T21:48:24Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Mythicdeals",
@@ -197,9 +211,8 @@
    "city": "Ponce",
    "region": "Ponce",
    "address": "Plaza del Caribe, Ponce, 00730",
-   "phone": "(939) 460-2125",
    "website": "https://facebook.com/NerdTopiaOfficial/",
-   "checked_at": "2026-10-18T21:48:29Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "PokePlazaPR",
@@ -228,26 +241,37 @@
    "checked_at": "2026-10-18T21:48:23Z"
   },
   {
-   "name": "Stacked Hobby Shop",
+   "name": "Senpais Shop",
    "group": "in_store",
    "city": "San Juan",
    "region": "San Juan",
+   "address": "Calle Parana, Esq. 22 Av. Winston Churchill, San Juan, 00926",
+   "phone": "(787) 923-3639",
+   "website": "https://www.instagram.com/senpais_shop_pr?igsh=cDY0NmVxazF1a3B5&utm_source=qr",
+   "checked_at": "2026-10-18T21:48:29Z"
+  },
+  {
+   "name": "Stacked Hobby Shop",
+   "group": "in_store",
    "address": "1733 Avenida Jesus T Piñero, San Juan, PR, 00920, Puerto Rico",
    "phone": "1787-667-4220",
    "website": "https://www.instagram.com/stackedhobbyshop",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:48:11Z"
+   "checked_at": "2026-10-18T21:48:29Z"
   },
   {
    "name": "StarGames",
    "group": "in_store",
    "city": "Moca",
    "region": "Moca",
-   "address": "216 Calle Jose C Barbosa, Moca, 00676",
-   "phone": "(787) 589-7660",
+   "address": "Calle Don Chemary, Moca, PR, 00676, Puerto Rico",
+   "phone": "17875897660",
    "website": "https://www.facebook.com/stargamesMoca",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-18T21:48:30Z"
   },
   {
@@ -275,27 +299,51 @@
    "checked_at": "2026-10-18T21:48:29Z"
   },
   {
+   "name": "TIME 4 FUN",
+   "group": "in_store",
+   "city": "Ponce",
+   "region": "Ponce",
+   "address": "esquina sol, 96 C. Unión, Ponce, 00730",
+   "phone": "(939) 460-2125",
+   "website": "https://www.facebook.com/share/18Vy24PJKp/",
+   "checked_at": "2026-10-18T21:48:30Z"
+  },
+  {
+   "name": "Titan Games - Caguas",
+   "group": "in_store",
+   "address": "13 Calle Muñoz Rivera, Caguas, Caguas, 00725, Puerto Rico",
+   "phone": "1787-665-6726",
+   "website": "https://www.facebook.com/titangamespr/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:30Z"
+  },
+  {
    "name": "TOP LEVEL GAMES",
    "group": "in_store",
-   "city": "San Juan",
-   "region": "San Juan",
+   "city": "Bayamón",
+   "region": "Bayamón",
    "address": "1236 Av. Main, Bayamón, Bayamón, 00959, Puerto Rico",
    "phone": "1939-338-6786",
    "website": "https://www.facebook.com/profile.php?id=61553775496947&mibextid=ZbWKwL",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:48:11Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Tower Games",
    "group": "in_store",
    "city": "Bayamón",
    "region": "Bayamón",
-   "address": "urb, 31-47 Av. Main, Bayamón, 00959",
-   "phone": "(787) 469-3383",
-   "website": "https://www.facebook.com/towergamespr/",
-   "checked_at": "2026-10-18T21:48:17Z"
+   "address": "Ave Main 1 31-47 Urb Santa Rosa, Bayamón, Bayamón, 00959, Puerto Rico",
+   "phone": "17874693365",
+   "website": "http://www.facebook.com/towergamespr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Tower Games Inc.",
@@ -310,16 +358,27 @@
    "checked_at": "2026-10-18T21:48:16Z"
   },
   {
+   "name": "University Multiservices",
+   "group": "in_store",
+   "city": "San Juan",
+   "region": "San Juan",
+   "address": "Av. Universidad #103-2, San Juan, 00925",
+   "phone": "(787) 222-2218",
+   "website": "https://www.facebook.com/share/1595m19E61/?mibextid=wwXIfr",
+   "checked_at": "2026-10-18T21:48:30Z"
+  },
+  {
    "name": "Wargamer's Alley",
    "group": "in_store",
    "city": "San Juan",
    "region": "San Juan",
    "address": "351 Av. Juan Ponce de León, San Juan, 00918, Puerto Rico, San Juan, San Juan, 00918",
    "phone": "+1 787-396-2829",
+   "website": "https://www.facebook.com/wargamersalley",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-18T21:48:16Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Weeb Box Games & Collectibles",
@@ -329,7 +388,7 @@
    "address": "Ave paseo de los gigantes ab-13 #2, Carolina, 00983",
    "phone": "(787) 980-2783",
    "website": "https://www.facebook.com/profile.php?id=61553614420638&mibextid=ZbWKwL",
-   "checked_at": "2026-10-18T21:48:17Z"
+   "checked_at": "2026-10-18T21:48:30Z"
   },
   {
    "name": "Yahtzyyy TCG",
@@ -376,8 +435,6 @@
   {
    "name": "Anime Locker",
    "group": "unknown",
-   "city": "Mayagüez",
-   "region": "Mayagüez",
    "address": "Avenida Santa Teresa Jornet, Mayagüez, PR, 00682, Puerto Rico",
    "phone": "1787-452-2919",
    "website": "https://magic.wizards.com/en",
@@ -408,6 +465,30 @@
    "checked_at": "2026-10-18T21:48:21Z"
   },
   {
+   "name": "Cafe Casa Barista",
+   "group": "unknown",
+   "address": "Calle Paz # 252, Aguada, Puerto Rico, 00602, Puerto Rico",
+   "phone": "1787-598-3897 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
+   "name": "Cano's Gaming",
+   "group": "unknown",
+   "city": "Ponce",
+   "region": "Ponce",
+   "address": "Urb.Villa Grillasca Ave.Munoz Rivera 1241, Ponce, Puerto Rico, 00717, Puerto Rico",
+   "phone": "1939-286-3516",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
    "name": "Centro Del Sur Mall",
    "group": "unknown",
    "city": "Ponce",
@@ -416,6 +497,17 @@
    "phone": "(787) 622-9600",
    "website": "https://www.centrodelsurmall.com/",
    "checked_at": "2026-10-18T21:48:30Z"
+  },
+  {
+   "name": "Comics & Gaming Experience",
+   "group": "unknown",
+   "address": "Carr 417 Km 3.3, Luyando, Aguada, 00602, Puerto Rico",
+   "phone": "1939-278-9560",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
   },
   {
    "name": "DMK Esports",
@@ -438,7 +530,7 @@
    "address": "Vega Alta, 00692",
    "phone": "(787) 883-6219",
    "website": "https://dreamteampr.net/",
-   "checked_at": "2026-10-18T21:48:18Z"
+   "checked_at": "2026-10-18T21:48:28Z"
   },
   {
    "name": "Dream Team Collectibles Outlets Plaza Río Hondo",
@@ -481,10 +573,19 @@
    "checked_at": "2026-10-18T21:48:22Z"
   },
   {
+   "name": "Hero's Haven",
+   "group": "unknown",
+   "address": "6 C. Celís Aguilera, Fajardo, Fajardo, 00738, Puerto Rico",
+   "phone": "19393904840",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
    "name": "Hobby Corner",
    "group": "unknown",
-   "city": "Ponce",
-   "region": "Ponce",
    "address": "241 Ave Jesus M Fragoso, Carolina, Carolina, 00985, Puerto Rico",
    "phone": "1787-690-7259",
    "website": "https://wpn.wizards.com/en",
@@ -539,6 +640,28 @@
    "checked_at": "2026-10-18T21:48:23Z"
   },
   {
+   "name": "JD Hobbies",
+   "group": "unknown",
+   "address": "187 Avenida los Atleticos de San German, San Germán, PR, 00683, Puerto Rico",
+   "phone": "1787-675-4935",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
+   "name": "Jonny T's Corner",
+   "group": "unknown",
+   "address": "3081 Ave Militar, Isabela, Isabela, 00662, Puerto Rico",
+   "phone": "1787-560-4416",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
    "name": "Karu's Collectibles",
    "group": "unknown",
    "city": "Coto Laurel",
@@ -548,6 +671,17 @@
    "website": "https://linktr.ee/Karus_Collectibles?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUEfaNwZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-6_9wcgDAx6GnEZSt0FGvgSwXA0Fux3tihZ78SvMowLYnMe5ZQWOaHda2a1_aem_PfE_iG6W4HYbivx9izZZ_w",
    "buylist_url": "https://linktr.ee/buylist",
    "checked_at": "2026-10-18T21:48:29Z"
+  },
+  {
+   "name": "Keopi House PR",
+   "group": "unknown",
+   "address": "Urb Brasilia Calle 2 c29, Vega Baja, PR, 00693, Puerto Rico",
+   "phone": "1787-228-1812",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
   },
   {
    "name": "Laziva @ Collections",
@@ -570,6 +704,17 @@
    "checked_at": "2026-10-18T21:48:29Z"
   },
   {
+   "name": "Misty Mountains Bazaar",
+   "group": "unknown",
+   "address": "109 Calle Luis Munoz Rivera St5, Guayanilla, Guayanilla, 00656, Puerto Rico",
+   "phone": "1787-466-0216",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
+  },
+  {
    "name": "Otaku's Shop",
    "group": "unknown",
    "city": "Carolina",
@@ -577,7 +722,7 @@
    "address": "92VF+2RF, Plaza Carolina, Av. Jesús M. Fragoso Loc 161, Carolina, 00983",
    "phone": "(787) 710-9858",
    "website": "https://otakusshop.com/",
-   "checked_at": "2026-10-18T21:48:24Z"
+   "checked_at": "2026-10-18T21:48:25Z"
   },
   {
    "name": "Otaku's Shop",
@@ -606,9 +751,9 @@
    "region": "Carolina",
    "address": "BA 20, Av. P.º de los Gigantes, Carolina, 00983",
    "phone": "(787) 346-9875",
-   "website": "https://linktr.ee/powerupgames",
+   "website": "https://linktr.ee/Karus_Collectibles?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUEfaNwZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-6_9wcgDAx6GnEZSt0FGvgSwXA0Fux3tihZ78SvMowLYnMe5ZQWOaHda2a1_aem_PfE_iG6W4HYbivx9izZZ_w",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-18T21:48:24Z"
+   "checked_at": "2026-10-18T21:48:29Z"
   },
   {
    "name": "Ravens Lair Games LLC",
@@ -644,7 +789,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:48:11Z"
+   "checked_at": "2026-10-18T21:48:16Z"
   },
   {
    "name": "Titan Games Rio Piedras",
@@ -668,6 +813,19 @@
    "phone": "(787) 217-5967",
    "website": "https://ultracardspr.com/",
    "checked_at": "2026-10-18T21:48:17Z"
+  },
+  {
+   "name": "Yahtzyyy",
+   "group": "unknown",
+   "city": "Mayagüez",
+   "region": "Mayagüez",
+   "address": "2770 Ave. Hostos, SVS Plaza 1 Ste. 201-A, Mayaguez, PR, 00682, Puerto Rico",
+   "phone": "1787-831-5017",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:48:11Z"
   }
  ]
 }

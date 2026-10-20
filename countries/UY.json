@@ -1,8 +1,8 @@
 {
  "country": "UY",
  "currency": "UYU",
- "updated": "2026-10-18",
- "store_count": 42,
+ "updated": "2026-10-20",
+ "store_count": 45,
  "stores": [
   {
    "name": "Book Store - Lecturas Comics",
@@ -42,6 +42,16 @@
    "checked_at": "2026-10-18T21:52:47Z"
   },
   {
+   "name": "Freakland",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Av. 18 de Julio 921, 11100 Montevideo, Departamento de Montevideo",
+   "phone": "093 982 929",
+   "website": "https://www.facebook.com/MundoFreakland/",
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
    "name": "Hard and Play",
    "group": "in_store",
    "city": "Montevideo",
@@ -73,6 +83,16 @@
    "checked_at": "2026-10-18T21:52:41Z"
   },
   {
+   "name": "Tienda de Juegos - GAME DOCTOR",
+   "group": "in_store",
+   "city": "Montevideo",
+   "region": "Departamento de Montevideo",
+   "address": "Juan José Castro 2381, 11400 Montevideo, Departamento de Montevideo",
+   "phone": "096 593 154",
+   "website": "https://www.facebook.com/gamedoctor2004",
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
    "name": "Treasures Collector",
    "group": "in_store",
    "city": "Montevideo",
@@ -91,10 +111,18 @@
    "checked_at": "2026-10-18T21:52:56Z"
   },
   {
-   "name": "Wirewood City",
+   "name": "WireWood",
    "group": "in_store",
    "city": "Montevideo",
    "region": "Departamento de Montevideo",
+   "address": "Bv. España 2697, 11300 Montevideo, Departamento de Montevideo",
+   "phone": "099 147 079",
+   "website": "https://www.instagram.com/wirewood.store/",
+   "checked_at": "2026-10-18T21:52:41Z"
+  },
+  {
+   "name": "Wirewood City",
+   "group": "in_store",
    "address": "Pocitos, Montevideo, MO, 11300, Uruguay",
    "phone": " +5989914-7079",
    "website": "https://www.facebook.com/Wirewood.Store/",

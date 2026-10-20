@@ -1,8 +1,8 @@
 {
  "country": "ID",
  "currency": "IDR",
- "updated": "2026-10-16",
- "store_count": 325,
+ "updated": "2026-10-20",
+ "store_count": 392,
  "stores": [
   {
    "name": "Ogre Neverland",
@@ -97,6 +97,15 @@
    "checked_at": "2026-10-17T00:45:20Z"
   },
   {
+   "name": "Aethernity G3.",
+   "group": "in_store",
+   "region": "Jakarta",
+   "address": "Jl. Mandala Raya No.33, NO. 33B, Jl. Mandala Raya No.33, Tomang, Grogol petamburan, Kota Jakarta Barat, DKI, Jakarta 1140, RT.1/RW.4, Tomang, Grogol petamburan, DKI Jakarta, Jakarta 11440",
+   "phone": "0812-8797-0302",
+   "website": "https://www.facebook.com/goodguygame/",
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Alldreamkpop",
    "group": "in_store",
    "region": "Bali",
@@ -155,11 +164,49 @@
    "checked_at": "2026-10-17T00:44:48Z"
   },
   {
+   "name": "Arkhive Domain",
+   "group": "in_store",
+   "address": "Jl. Kacer Blok X No.5, RT.4/RW.3, Pd., Jakarta Timur, DKI Jakarta, 13430, ID",
+   "phone": "+628121950671",
+   "website": "https://www.facebook.com/people/Arkhive-Domain/61573251466770/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "ARNANDO TCG - POKEMON CARDS SHOP",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Seberang Clandy's Grosir, Jl. Buluh Indah No.120, Pemecutan Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80118",
+   "phone": "0812-8719-1999",
+   "website": "https://www.instagram.com/arnando_garage?igsh=MWJ4MWVxMHBzcGZkcw==",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "ASIA TCG",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
    "address": "Jl. Pulau Panjang VI No.34 Blok M7, RT.13/RW.9, Kembangan Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
    "checked_at": "2026-10-17T00:45:31Z"
+  },
+  {
+   "name": "Bali Art Supplies Canggu",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Pantai Berawa No.8, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
+   "phone": "0822-6649-9229",
+   "website": "https://instagram.com/baliartsupplies_?utm_medium=copy_link",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Bali Art Supplies Denpasar",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Imam Bonjol No.434, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",
+   "phone": "0813-2605-1296",
+   "website": "https://instagram.com/baliartsupplies_",
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Bali Art Supplies Jimbaran",
@@ -169,6 +216,28 @@
    "phone": "0877-3870-0964",
    "website": "https://instagram.com/baliartsupplies_?utm_medium=copy_link",
    "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Bali Artemedia",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Danau Buyan No.26A, Sanur, Denpasar Selatan, Kota Denpasar, Bali 80227",
+   "phone": "0859-4692-5260",
+   "website": "https://instagram.com/baliartemedia?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Bali Awakening Zone",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Serma Kawi no. 5.B., Denpasar, Bali, BA, 80114, Indonesia",
+   "phone": "+62(+62) 3614744671",
+   "website": "https://www.facebook.com/BaliAwakeningZone/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Bali Game Station",
@@ -259,6 +328,15 @@
    "region": "Sumatera Utara",
    "address": "Jl. Pukat V Gg. Pisang No.38FF, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223",
    "checked_at": "2026-10-17T00:46:27Z"
+  },
+  {
+   "name": "Board Game Academy Surabaya",
+   "group": "in_store",
+   "region": "Jawa Timur",
+   "address": "Jl. Raya Panjang Jiwo Permai, Panjang Jiwo, Kec. Tenggilis Mejoyo, Surabaya, Jawa Timur 60299",
+   "phone": "0831-1103-2072",
+   "website": "https://instagram.com/bgacademy.id?igshid=h7909ym4shvi",
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Board Game First",
@@ -353,6 +431,18 @@
    "checked_at": "2026-10-17T00:46:02Z"
   },
   {
+   "name": "Catnie Hobbies & Games",
+   "group": "in_store",
+   "region": "Banten",
+   "address": "Jalan Surya Kencana Blok A, No.1, Pamulang, Kota, Tangerang Selatan, Banten, 15417, Indonesia",
+   "phone": "+6285210598949",
+   "website": "https://www.instagram.com/catnieshop?igsh=MXM5Y29vM3c1ZzEwOQ==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Central Games Shop",
    "group": "in_store",
    "region": "Jawa Barat",
@@ -395,6 +485,15 @@
    "address": "Jl. Batununggal Indah II No.49, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40267",
    "phone": "0812-2015-517",
    "checked_at": "2026-10-17T00:46:02Z"
+  },
+  {
+   "name": "COBUSGAME",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Graha Wisata No.2, Sidakarya, Denpasar Selatan, Kota Denpasar, Bali 80224",
+   "phone": "0897-0110-717",
+   "website": "https://www.facebook.com/cobusgame/",
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "COJ CELL BOJONGSOANG",
@@ -448,6 +547,17 @@
    "checked_at": "2026-10-17T00:46:05Z"
   },
   {
+   "name": "D'TWENTY",
+   "group": "in_store",
+   "address": "Jl. Holis Regency No.50, Babakan, Kec. Babakan Ciparay, Bandung, West Java, 40222, Indonesia",
+   "phone": "+6285295283029",
+   "website": "https://www.facebook.com/profile.php?id=61564256999952",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "De PLaYBoX GaMEs SToRe",
    "group": "in_store",
    "region": "Sumatera Utara",
@@ -473,11 +583,35 @@
    "checked_at": "2026-10-17T00:46:25Z"
   },
   {
+   "name": "Draagoons Hobby Shop",
+   "group": "in_store",
+   "region": "Banten",
+   "address": "Alam Sutra - Serpong - Tangerang Selatan, Alam sutra, Serpong, AC, 15325, Indonesia",
+   "phone": "+6285899987769",
+   "website": "https://www.facebook.com/DraagoonsHS",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "DuckinTelys Game",
    "group": "in_store",
    "region": "Bali",
    "address": "76R3+8C4, Pemogan, Denpasar Selatan, Denpasar City, Bali 80221",
    "checked_at": "2026-10-17T00:47:16Z"
+  },
+  {
+   "name": "Duelist Battle Zone",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "JL. Dr. Muwardi II No. 1D, Rt/RW 002/003 Grogol, Jakarta Barat, DKI Jakarta, 11450, Indonesia",
+   "phone": "+62811910169",
+   "website": "https://www.facebook.com/profile.php?id=100063906281905",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Dunia Game",
@@ -494,6 +628,19 @@
    "address": "Ruko Pertokoan Diponegoro Indah.14, Jl. Diponegoro No.135, Dauh Puri Klod, Denpasar Barat, Denpasar City, Bali 80234",
    "phone": "0819-3610-4781",
    "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "Eden Gaming's Sanctuary",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jalan L Komplek 62 No. 62W, Teluk Gong, Jakarta, Jakarta Utara, 14450, Indonesia",
+   "phone": "+6281315005060",
+   "website": "https://www.instagram.com/egsanctuary/p/DHIYQTix5u1/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "elPrince Store",
@@ -539,6 +686,17 @@
    "checked_at": "2026-10-17T00:44:48Z"
   },
   {
+   "name": "Foundry Boardgame & TCG",
+   "group": "in_store",
+   "address": "Arjuna 46,, Bandung, Jawa Barat, 40174, Indonesia",
+   "phone": "+6208975993888",
+   "website": "https://www.instagram.com/foundry.game/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "GambaCardStore",
    "group": "in_store",
    "region": "Banten",
@@ -555,6 +713,25 @@
    "address": "Jl. Imam Bonjol No.296, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",
    "phone": "0823-3767-8833",
    "checked_at": "2026-10-17T00:47:15Z"
+  },
+  {
+   "name": "Gameopoly",
+   "group": "in_store",
+   "address": "Ruko Melody 2, Jl. Melody II MLDD, 32 & 33, Banten, Jawa barat, 15810, Indonesia",
+   "phone": "+6289502000524",
+   "website": "https://www.instagram.com/gameopolytcg?igsh=ejFkcGZoa2x2N2xn",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "gamepcbali",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Belega, Blahbatuh, Gianyar Regency, Bali, Indonesia",
+   "website": "https://instagram.com/gamepcbali?utm_medium=copy_link",
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Gattchaa Hobby Store",
@@ -585,6 +762,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:44:48Z"
+  },
+  {
+   "name": "Good Guy Games",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Kav.28 Jalan Letjen S. Parman, Podomoro City akarta, Daerah Khusus Ibukota Jakarta, 11470, ID",
+   "phone": "+62(+62) 81287970302",
+   "website": "https://www.facebook.com/goodguygame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Gramedia Mall Bali Galeria",
@@ -618,6 +807,17 @@
    "address": "Grand City Mall Lantai 3 unit no. 17, Ketabang, Kec. Genteng, Surabaya, Jawa Timur 60272",
    "phone": "0813-3355-5055",
    "checked_at": "2026-10-17T00:45:47Z"
+  },
+  {
+   "name": "Grand Colosseum Grand City Mall",
+   "group": "in_store",
+   "address": "Grand City Mall L.03 - 17 Jl. Walikota Mustajab 1, Surabaya, East Java, 60272, ID",
+   "phone": "+62081333555055",
+   "website": "https://www.facebook.com/Grand.Coliseum/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Growingfun.id",
@@ -682,12 +882,61 @@
    "checked_at": "2026-10-17T00:45:08Z"
   },
   {
+   "name": "Headquarter Hobbies & Card Games (by Mola)",
+   "group": "in_store",
+   "address": "Jalan Gedung Hijau 1 nomor 1d, RT.1/RW.13, Pd., Pinang, Kec. Kby. Lama, Jakarta Selatan, JK, 12310, Indonesia",
+   "phone": "+6285219220217",
+   "website": "https://www.facebook.com/HeadquarterHobbiesJakarta/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Hello TCG",
    "group": "in_store",
    "region": "Sumatera Utara",
    "address": "Jalan B, Jl. Brigjend Katamso Dalam K No.90, Sukaraja, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20213",
    "phone": "0822-7336-2052",
    "checked_at": "2026-10-17T00:46:28Z"
+  },
+  {
+   "name": "HOBBY HEADQUARTER INDONESIA",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jl. Casa Jardin Ruko SOHO Blok I No 23., Cengkaren, Daerah Khusus Ibukota Jakarta, 11710, ID",
+   "phone": "6282230023008",
+   "website": "https://www.instagram.com/hobbyheadquarterindonesia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "HOBBYSTATION Headquarter Hobbies and Card Games Shop",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jl. Gedung Hijau I No.1d, RT.1/RW.13, Pd. Pinang, Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310",
+   "website": "https://www.facebook.com/HeadquarterHobbiesJakarta/about",
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "HobbyStation Mola",
+   "group": "in_store",
+   "region": "Jakarta",
+   "address": "Ruko Graha Parkview Blok ZD/6 Lantai 3, Jl. Boulevard Timur No.RT.12, RT.12/RW.10, Pegangsaan Dua, Kelapa Gading, North Jakarta City, Jakarta 14250",
+   "phone": "0813-8379-8905",
+   "website": "https://web.facebook.com/molacards",
+   "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "HOP Hobbies and Games",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "101+ Juice, Jl. Pluit Karang Selatan No.120 1, RT.1/RW.15, Pluit, Kecamatan Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",
+   "phone": "0813-8117-0017",
+   "website": "https://www.facebook.com/HOPhobbiesngames/",
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Iki Ori",
@@ -728,6 +977,15 @@
    "address": "Istana BEC Bandung, Jl. Purnawarman No.13-15 L2 – B07, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
    "phone": "0838-2199-9881",
    "checked_at": "2026-10-17T00:46:07Z"
+  },
+  {
+   "name": "Invaders Board Game Station",
+   "group": "in_store",
+   "region": "Banten",
+   "address": "Ruko Maggiore Square, Jl. Springs Boulevard No.31 LB, Cihuni, Kec. Pagedangan, Kabupaten Tangerang, Banten 15332",
+   "phone": "0896-3816-3140",
+   "website": "http://www.facebook.com/invadersgs",
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Irama Indah",
@@ -831,6 +1089,39 @@
    "checked_at": "2026-10-17T00:45:36Z"
   },
   {
+   "name": "kuma kuma kado ya",
+   "group": "in_store",
+   "region": "Banten",
+   "address": "Jl. Kelapa Dua, Ruko Blitz Block C no. 23, Tangerang, Banten, 15810, Indonesia",
+   "phone": "+6287822011996",
+   "website": "https://www.facebook.com/profile.php?id=100084568234706",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "Lira's Cardsmith",
+   "group": "in_store",
+   "region": "Jawa Barat",
+   "address": "Jl. A. Yani No.312, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",
+   "phone": "0852-1061-6423",
+   "website": "https://www.facebook.com/LirasCardsmith/",
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "Lira's Cardsmith Bandung",
+   "group": "in_store",
+   "address": "Jendral Ahmad Yani No. 312, Bandung, West Java, 40271, Indonesia",
+   "phone": "+6285210616423",
+   "website": "https://www.facebook.com/LirasCardsmith",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Littleroot Town Pokémon Gym",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
@@ -864,6 +1155,15 @@
    "checked_at": "2026-10-17T00:47:19Z"
   },
   {
+   "name": "Malia Book Shop (Money Exchange)",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "8776+RQ9, Jl. Danau Tamblingan No.28A, Sanur, Denpasar Selatan, Kota Denpasar, Bali 80228",
+   "phone": "0831-1961-8922",
+   "website": "http://instagram.com/maliabook",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Markas TCG & Hobbies",
    "group": "in_store",
    "region": "Jawa Timur",
@@ -890,18 +1190,39 @@
    "checked_at": "2026-10-17T00:44:47Z"
   },
   {
+   "name": "Momotaro Hobby Shop",
+   "group": "in_store",
+   "region": "Jawa Barat",
+   "address": "Jl. San Francisco Blok 04 No.57, Ciangsana, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16968, Indonesia, Jawa Barat, 16968",
+   "phone": "+6282299401993",
+   "website": "https://www.facebook.com/momotarohobby/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Monopolis Board Game Store",
    "group": "in_store",
-   "city": "Surabaya",
-   "region": "East Java",
    "address": "Jalan Pluit Indah Raya. Mall Pluit Village Lantai 2 No 5., Jakarta, JK, 14450, Indonesia",
    "phone": "+62812-9410-9633",
    "website": "https://www.facebook.com/MonopolisBoardGameStore",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "Multi Toys",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jl. Boulevard Raya No.30-31 Blok LB 1, RT.12/RW.18, Klp. Gading Tim, Jakarta, DKI Jakarta, 14240, Indonesia",
+   "phone": "+622145845792",
+   "website": "https://www.instagram.com/multitoys/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Multi Toys",
@@ -910,6 +1231,15 @@
    "address": "Jl. Kebon Jati No.169, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",
    "phone": "(022) 6030305",
    "checked_at": "2026-10-17T00:46:07Z"
+  },
+  {
+   "name": "Multi Toys Games & Hobbies",
+   "group": "in_store",
+   "region": "Jawa Timur",
+   "address": "Galaxy Mall, Jl. Dharmahusada Indah Timur Lt 2, Mulyorejo, Kec. Mulyorejo, Surabaya, Jawa Timur 60115",
+   "phone": "0818-521-780",
+   "website": "https://www.instagram.com/multitoys_sby/",
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Nawra Beanbag & BookShop",
@@ -927,6 +1257,26 @@
    "checked_at": "2026-10-17T00:45:22Z"
   },
   {
+   "name": "Next Game PTC Surabaya",
+   "group": "in_store",
+   "region": "Jawa Timur",
+   "address": "Pakuwon Trade Centre Blok E9 35, Jalan Mayjen Yono Suwoyo No.2, Babatan, Kec. Wiyung, Surabaya, Jawa Timur 60227",
+   "phone": "0838-5736-3359",
+   "website": "http://www.instagram.com/nextgamesurabaya/",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Nexus Geofresh",
+   "group": "in_store",
+   "address": "Dharma Husada Indah Barat I no 3H Mojo Gubeng, Surabaya, Jawa Timur, 61258, Indonesia",
+   "phone": "+6281703434468",
+   "website": "https://www.instagram.com/nexustabletop/?locale=pt_BR&hl=am-et",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Nexus Tabletop - Dharma Husada Branch",
    "group": "in_store",
    "region": "Jawa Timur",
@@ -935,6 +1285,20 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:44:48Z"
+  },
+  {
+   "name": "Nexus Tabletop Games Cafe",
+   "group": "in_store",
+   "city": "Surabaya",
+   "region": "East Java",
+   "address": "41 Ngagel Jaya Utara, Surabaya, Jawa Timur, 60283, Indonesia",
+   "phone": "+6281703434468",
+   "website": "https://www.facebook.com/nexuscard/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Nexus Tabletop Games Cafe Ngagel",
@@ -960,6 +1324,31 @@
    "checked_at": "2026-10-17T00:45:20Z"
   },
   {
+   "name": "Ogre - Depok",
+   "group": "in_store",
+   "region": "Jawa Barat",
+   "address": "Golden Sport Center unit C.204 - Jl. Akses UI No.26, Depok, JB, 16451, Indonesia",
+   "phone": "+628561962111",
+   "website": "https://www.instagram.com/ogre.depok/?hl=en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Ogre - Kelapa Gading",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Ruko Inkopal Blok F no 30 ( Lantai 2 ) , Jakarta, JK, 14250, Indonesia",
+   "phone": "+6282117614077",
+   "website": "https://www.facebook.com/OgreGading/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Ogre Gadinf",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
@@ -981,10 +1370,12 @@
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
    "address": "Ruko taman Palem Lestari, Jl. Taman Palem Lestari, RT.3/RW.13, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730, Indonesia, Daerah Khusus Ibukota Jakarta, 11730",
+   "phone": "0877-9050-7269",
+   "website": "https://www.facebook.com/ogrelairpalem",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:44:48Z"
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "OGRE Lair Puri Indah",
@@ -1021,6 +1412,15 @@
    "checked_at": "2026-10-17T00:44:48Z"
   },
   {
+   "name": "OGRE Satelit Surabaya",
+   "group": "in_store",
+   "region": "Jawa Timur",
+   "address": "Ruko Plaza Segi 8 A860, Sonokwijenan, Kec. Sukomanunggal, Surabaya, Jawa Timur 60291",
+   "phone": "0811-3000-207",
+   "website": "https://www.instagram.com/ogresatelitsurabaya/",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "ole777",
    "group": "in_store",
    "region": "Jawa Barat",
@@ -1046,12 +1446,17 @@
    "checked_at": "2026-10-17T00:45:06Z"
   },
   {
-   "name": "ONIC TCG Viridian Vault",
+   "name": "ONIC TCG - Viridian Vault",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
-   "address": "Kota Jl. Kembang Kencana No.7 116 7, RT.7/RW.2, Meruya Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11620",
-   "phone": "0851-2392-5199",
-   "checked_at": "2026-10-17T00:44:54Z"
+   "address": "Jl. Kembang Kencana No.116 7, RT.7/RW.2, Meruya Utara, Jakarta Barat, DKI Jakarta, 11620, Indonesia",
+   "phone": "+628068166438",
+   "website": "https://www.instagram.com/onictcg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Oracle Games Indonesia",
@@ -1099,23 +1504,21 @@
   {
    "name": "Play A Thons",
    "group": "in_store",
-   "region": "Jakarta",
    "address": "Jl. Panjang No. 9A RT5/RW11, Kedoya Utara, Kebon Jeruk, West Jakarta, DKI Jakarta, 11520, Indonesia",
    "phone": "+628978975777",
    "website": "https://web.facebook.com/profile.php?id=100092616848722",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:44:36Z"
+   "checked_at": "2026-10-17T00:46:41Z"
   },
   {
    "name": "Pocapop - Mall Taman Anggrek",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
    "address": "Taman Anggrek, L3 Mal, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
-   "phone": "0851-6278-6662",
    "website": "http://instagram.com/pocapop.official",
-   "checked_at": "2026-10-17T00:45:08Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Pocketin TCG - 23 Paskal",
@@ -1133,6 +1536,15 @@
    "checked_at": "2026-10-17T00:46:02Z"
   },
   {
+   "name": "POKE BALI GRADING POKEMON",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Jl. Veteran No.17, Buduk, Kec. Mengwi, Kabupaten Badung, Bali 80351",
+   "phone": "0851-1317-8300",
+   "website": "https://www.instagram.com/poke.bali",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Pokecoin",
    "group": "in_store",
    "region": "Daerah Khusus Ibukota Jakarta",
@@ -1147,7 +1559,7 @@
    "address": "Komplek Tivoli, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20118",
    "phone": "0813-8883-811",
    "website": "https://www.instagram.com/pokedewa.tcg/",
-   "checked_at": "2026-10-17T00:46:41Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "POKEJAE",
@@ -1243,7 +1655,7 @@
    "address": "Jl. Karang Layung No.24, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
    "phone": "0851-7745-5434",
    "website": "https://instagram.com/pressnplay.bdg",
-   "checked_at": "2026-10-17T00:46:02Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Pt volcano international trading",
@@ -1275,6 +1687,18 @@
    "address": "Pakuwon Trade Center Lantai LG (Dekat Samsat Jalan Puncak Permai I No.2, Babatan, Wiyung, Surabaya, East Java 60128",
    "phone": "0812-5999-9688",
    "checked_at": "2026-10-17T00:45:53Z"
+  },
+  {
+   "name": "Raku Hobby Shop",
+   "group": "in_store",
+   "region": "Jawa Timur",
+   "address": "Raya Tandes lor no 188, Surabaya, East Java, 60186, Indonesia",
+   "phone": "+6281266800800",
+   "website": "https://www.facebook.com/p/Raku-Hobby-Shop-100048592717975/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Roemah Bahagia",
@@ -1309,15 +1733,13 @@
   {
    "name": "S.M.A.R.T. Hobby Shop",
    "group": "in_store",
-   "region": "Jawa Barat",
    "address": "Jl. Ir. H. Juanda 1 No.11A, RT.8/RW.6, Ps. Baru, Kecamatan Sawah Besar, Kota , Jakarta Pusat, DKI Jakarta, 10710, ID",
    "phone": "+62062811585555",
    "website": "https://www.instagram.com/smarthobbystorejkt?igsh=bjM4cm1qcDR1c3I5&utm_source=qr",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:44:36Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "Sama Sama Store - Seseh",
@@ -1326,7 +1748,7 @@
    "address": "Jl. Pantai Seseh No.4 , Secercah, Kec. Mengwi, Kabupaten Tabanan, Cemagi, Kec. Mengwi, Kabupaten Badung, Bali 80351",
    "phone": "0821-3140-323",
    "website": "https://www.instagram.com/samasamastore.bali/",
-   "checked_at": "2026-10-17T00:47:12Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "SBS",
@@ -1354,6 +1776,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:44:48Z"
+  },
+  {
+   "name": "Shumitako",
+   "group": "in_store",
+   "address": "Daikanyama at Zora BSD, Unit A12-15, Kabupaten Tangerang, Banten, 15339, ID",
+   "phone": "6289654552888",
+   "website": "https://www.facebook.com/shumitako/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "SIM CARD Lerika cell",
@@ -1391,6 +1824,26 @@
    "checked_at": "2026-10-17T00:46:03Z"
   },
   {
+   "name": "Space Corner",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jl. H. Syahrin No.19, RT.9/RW.10, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",
+   "phone": "0851-6278-6662",
+   "website": "https://www.instagram.com/spacecorner.jkt?igsh=ZDFvM20ydXo0dXJ2",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Spoils Of War",
+   "group": "in_store",
+   "address": "Jln. Tukad Unda 24, Denpasar, Bali, 80225, Indonesia",
+   "phone": "+6281803849893",
+   "website": "https://www.instagram.com/spoilsofwar.id/?igsh=NHMxNGRpdW44b21h#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Starlatte Studio",
    "group": "in_store",
    "region": "Jawa Barat",
@@ -1405,6 +1858,17 @@
    "address": "Jl. Sunset Road No.1i, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361",
    "phone": "0821-2222-0011",
    "checked_at": "2026-10-17T00:47:10Z"
+  },
+  {
+   "name": "Stax Tabletop Games Store",
+   "group": "in_store",
+   "address": "Golf Island, Rukan Beach Theme Park, Jl. Pantai Indah Kapuk Blok E no.107, Jakarta, Jakarta, 14460, Indonesia",
+   "phone": "+6281584801272",
+   "website": "https://www.instagram.com/stories/staxtabletopgames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "STOCK OPTION",
@@ -1436,7 +1900,7 @@
    "address": "Jl. Mertasari No.888, Sidakarya, Denpasar Selatan, Kota Denpasar, Bali 80224",
    "phone": "0877-9100-8818",
    "website": "https://www.instagram.com/tcgcollectorclub/",
-   "checked_at": "2026-10-17T00:46:41Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "TERUS JAYA TOYS",
@@ -1463,12 +1927,60 @@
    "checked_at": "2026-10-17T00:47:24Z"
   },
   {
+   "name": "The Maple Boardgame Cafe",
+   "group": "in_store",
+   "address": "Kopo Mas Regency A-3, Bandung, JB, 40225, Indonesia",
+   "phone": "+6282219901138",
+   "website": "https://www.instagram.com/maplebgcafe/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "The Outpost",
    "group": "in_store",
    "region": "Jawa Timur",
-   "address": "Jl. Dharmawangsa No.134, Airlangga, Kec. Gubeng, Surabaya, Jawa Timur 60286",
-   "phone": "0858-5090-4002",
-   "checked_at": "2026-10-17T00:45:44Z"
+   "address": "Jl. dharmawangsa 134, Surabaya, Indonesia, AC, 60286, Indonesia",
+   "phone": "+62(+62) 85850904002",
+   "website": "https://www.instagram.com/theoutpostsurabaya/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "The Vault Boardgame Cafe",
+   "group": "in_store",
+   "address": "Jl. Tanjung Duren Barat IV No.25, RT.10/RW.6, Tj. Duren Utara, Kec. Grogol petamburan, Jakarta Barat, DKI Jakarta, 11510, Indonesia",
+   "phone": "+6287838882858",
+   "website": "https://www.instagram.com/vaultboardgame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Third Space Hobby",
+   "group": "in_store",
+   "address": "Margorejo Indah, Perumahan Floraya no. A935,, Surabaya, Jawa Timur, 60238, ID",
+   "phone": "+62087853111162",
+   "website": "https://www.instagram.com/third_space_ja/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Timewalk",
+   "group": "in_store",
+   "address": "Jalan Klampis Jaya 37F, Surabaya, NULL, 60117, Indonesia",
+   "phone": "+6281931528788",
+   "website": "https://www.facebook.com/timewalkers/?profile_tab_item_selected=about&_rdr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Toko Buku Jagad Ilmu 2006 (Malik)",
@@ -1533,6 +2045,15 @@
    "checked_at": "2026-10-17T00:46:41Z"
   },
   {
+   "name": "Toys Card Game and Figure Seminyak Village",
+   "group": "in_store",
+   "region": "Bali",
+   "address": "Seminyak village, Jl. Kayu Jati No.8 1st floor, Seminyak, Kec. Kuta, Kabupaten Badung, Bali 80361",
+   "phone": "0811-8849-241",
+   "website": "https://www.instagram.com/toyscardgameandfigure?igsh=MWVwMHp5bDU5NXczbg==",
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "TOYS CARD GAME AND FIGURE TSM BALI",
    "group": "in_store",
    "region": "Bali",
@@ -1578,6 +2099,17 @@
    "address": "Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113",
    "phone": "0822-0825-5110",
    "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "TWO STOMPAS",
+   "group": "in_store",
+   "address": "NUCIRA building Jl.MT Haryono Kav 27, DKI Jakarta, NULL, 12220, Indonesia",
+   "phone": "+6281806392169",
+   "website": "https://www.instagram.com/explore/locations/462812317165108/two-stompas/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "UD. Mapan",
@@ -1640,6 +2172,17 @@
    "checked_at": "2026-10-17T00:46:05Z"
   },
   {
+   "name": "Vega Toys",
+   "group": "in_store",
+   "address": "Jl. Banda No. 33, Citarum, Kec., Bandung Wetan,, Kota Bandung, Jawa Barat, , 40115, ID",
+   "phone": "+6281380071872",
+   "website": "https://www.instagram.com/vegatoys?igsh=cTN6NXZmaGpidHpo",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
    "name": "Vega Toys & Hobbies",
    "group": "in_store",
    "region": "Jawa Barat",
@@ -1648,11 +2191,72 @@
    "checked_at": "2026-10-17T00:46:02Z"
   },
   {
+   "name": "Velocity Hobby Centre",
+   "group": "in_store",
+   "region": "Sumatera Utara",
+   "address": "Jl. Terong No.9A, Petisah Hulu, Kec. Medan Baru, Medan, Sumatera Utara, 20152, Indonesia",
+   "phone": "+6281318284532",
+   "website": "https://www.facebook.com/velocityhobby",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "Veneta Indonesia Surabaya",
    "group": "in_store",
    "region": "East Java",
    "address": "Dukuh, Komp.Surya Permata Inti, Jl. Raya By pass Juanda block B25 - B26, Dukuh, Sedati Agung, Sidoarjo, Sidoarjo Regency, East Java 61253",
    "checked_at": "2026-10-17T00:45:36Z"
+  },
+  {
+   "name": "Victory Card Shop",
+   "group": "in_store",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Ruko Palm Avenue, Palm Paradise, Jl. Taman Surya 5, Jakarta Barat, DKI Jakarta, 11830, Indonesia",
+   "phone": "+6281317366998",
+   "website": "https://www.instagram.com/victory_cardshop/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Viversa",
+   "group": "in_store",
+   "region": "Banten",
+   "address": "Ruko Pasar Modern Timur BSD Blok B No. 15 ( Di atas Puyo Lantai 2&3 ), Rw. Mekar, Tangerang Selatan, Banten, 15310, ID",
+   "phone": "+6281215670123",
+   "website": "https://www.instagram.com/viversagames/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Warga Hobbies",
+   "group": "in_store",
+   "region": "Jawa Barat",
+   "address": "Jl. Cihampelas No.132, Tamansari, Kec. Bandung Wetan, Bandung, West Java, 40116, Indonesia",
+   "phone": "+6281910010209",
+   "website": "https://www.instagram.com/wargahobbies/?locale=fr",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:47:19Z"
+  },
+  {
+   "name": "Warkop the Gathering",
+   "group": "in_store",
+   "address": "Grand Galaxy City Jl. Rose Garden 1 No.35 (RRG 1 /35), Bekasi, Jawa Barat, 17148, Indonesia",
+   "phone": "+6281383834292",
+   "website": "https://www.facebook.com/profile.php?id=61574316567663",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Wasik galeri",
@@ -1667,9 +2271,8 @@
    "group": "in_store",
    "region": "Jawa Timur",
    "address": "Galaxy mall 2, Jl. Dharmahusada Indah Timur No.35-37 Lantai Dasar No G-2018, Mulyorejo, Kec. Mulyorejo, Surabaya, Jawa Timur 60115",
-   "phone": "0811-3000-207",
    "website": "https://www.instagram.com/x11.global?igsh=MWNiMzltNXE4NXR0cA==",
-   "checked_at": "2026-10-17T00:45:36Z"
+   "checked_at": "2026-10-17T00:47:19Z"
   },
   {
    "name": "XG Collectibles",
@@ -1678,6 +2281,15 @@
    "address": "Centre Point Mall, Jl. Jawa No.8 Lt 3, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236",
    "phone": "0878-1312-5257",
    "checked_at": "2026-10-17T00:46:35Z"
+  },
+  {
+   "name": "Zerotoys",
+   "group": "in_store",
+   "region": "Jawa Barat",
+   "address": "Jl. Sunda No.39a, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",
+   "phone": "0811-221-667",
+   "website": "https://www.facebook.com/zerotoys",
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Zoe Library",
@@ -1704,7 +2316,7 @@
    "phone": "0852-8004-9722",
    "website": "https://www.gsshop.id/home",
    "buylist_url": "https://www.gsshop.id//trade-in-tukar-tambah-games",
-   "checked_at": "2026-10-17T00:45:22Z"
+   "checked_at": "2026-10-17T00:45:44Z"
   },
   {
    "name": "GS SHOP Mall of Indonesia",
@@ -1714,7 +2326,7 @@
    "phone": "0822-4636-1954",
    "website": "https://www.gsshop.id/home",
    "buylist_url": "https://www.gsshop.id//trade-in-tukar-tambah-games",
-   "checked_at": "2026-10-17T00:45:27Z"
+   "checked_at": "2026-10-17T00:45:44Z"
   },
   {
    "name": "GS SHOP Senayan City [Lt.4]",
@@ -1756,6 +2368,25 @@
    "checked_at": "2026-10-17T00:45:22Z"
   },
   {
+   "name": "Alex hobby shop",
+   "group": "unknown",
+   "region": "Banten",
+   "address": "Jl ruko cordoba blok E no 36, lantai 3, RT.007/RW.009, Petir, Kec. Cipondoh, Kota Tangerang, Banten 15147",
+   "phone": "0878-8558-8824",
+   "website": "http://www.tokopedia.com/alexhobbyshop",
+   "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "Appendix.TCG",
+   "group": "unknown",
+   "region": "Daerah Khusus Ibukota Jakarta",
+   "address": "Jl. Delman Kencana I No.19, RT.1/RW.11, Tanah Kusir, Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240",
+   "phone": "0812-1172-2090",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
+  },
+  {
    "name": "Arcanum Hobbies Taman Puring",
    "group": "unknown",
    "region": "Daerah Khusus Ibukota Jakarta",
@@ -1785,8 +2416,8 @@
    "region": "Jawa Barat",
    "address": "Jl. Raya Bojongsoang No.190, Lengkong, Kec. Bojongsoang, Kabupaten Bandung, Jawa Barat 40288",
    "phone": "0858-6470-1410",
-   "website": "https://shopee.co.id/artpediashop",
-   "checked_at": "2026-10-17T00:46:02Z"
+   "website": "https://shopee.co.id/benk_games",
+   "checked_at": "2026-10-17T00:46:32Z"
   },
   {
    "name": "AZKO Deli Park Medan",
@@ -1817,7 +2448,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:44:36Z"
+   "checked_at": "2026-10-17T00:46:41Z"
   },
   {
    "name": "Bali Art Supplies Pererenan",
@@ -1871,7 +2502,7 @@
    "address": "HMRJ+Q8P, Jl. Jawa No.8 Lantai LG - 22 & 22A, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231",
    "phone": "0815-1337-7849",
    "website": "https://www.blibli.com/merchant/blibli-store-flagship-store/BLS-70244?pickupPointCode=ALL_LOCATIONS",
-   "checked_at": "2026-10-17T00:46:25Z"
+   "checked_at": "2026-10-17T00:47:02Z"
   },
   {
    "name": "Blibli Store - Discovery Mall Bali",
@@ -1890,15 +2521,6 @@
    "phone": "0813-2267-316",
    "website": "https://candyvault.id/",
    "checked_at": "2026-10-17T00:44:57Z"
-  },
-  {
-   "name": "Catnie Hobbies & Games",
-   "group": "unknown",
-   "region": "Banten",
-   "address": "Jl. Suryakencana Blk. A No.1, Pamulang Bar., Kec. Pamulang, Kota Tangerang Selatan, Banten 15417",
-   "phone": "0878-8558-8824",
-   "website": "https://tokopedia.com/catnie",
-   "checked_at": "2026-10-17T00:45:01Z"
   },
   {
    "name": "Centre Point Mall (Medan)",
@@ -2004,7 +2626,6 @@
   {
    "name": "Goblin Hut Board Game Ground",
    "group": "unknown",
-   "region": "Jawa Barat",
    "address": "Puri Indah Jalan Kembang Indah 2 Blok G3 no 63, Jakarta, Jakarta Barat, 11610, Indonesia",
    "phone": "+6281311208247",
    "website": "https://wpn.wizards.com/en",
@@ -2028,9 +2649,18 @@
    "region": "Jawa Timur",
    "address": "Jl. Basuki Rahmat No.8-12, Kedungdoro, Kec. Tegalsari, Surabaya, Jawa Timur 60261",
    "phone": "0822-4405-0797",
-   "website": "https://linktr.ee/gramedia_tp",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:45:57Z"
+   "checked_at": "2026-10-17T00:46:22Z"
+  },
+  {
+   "name": "Gramedia",
+   "group": "unknown",
+   "region": "Sumatera Utara",
+   "address": "Jl. Gajah Mada No.23, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152",
+   "phone": "(061) 4568171",
+   "website": "https://api.whatsapp.com/send/?phone=628116407772&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T00:46:19Z"
   },
   {
    "name": "Gramedia - Manyar Kertoarjo",
@@ -2038,8 +2668,18 @@
    "region": "Jawa Timur",
    "address": "Gramedia Book Store, Jl. Manyar Kertoarjo No.16, Manyar Sabrangan, Kec. Mulyorejo, Surabaya, Jawa Timur 60116",
    "phone": "0822-1515-1940",
-   "website": "https://www.gramedia.com/store/gramedia-surabaya-manyar",
-   "checked_at": "2026-10-17T00:45:59Z"
+   "website": "https://www.gramedia.com/store/gramedia-bandung-merdeka",
+   "checked_at": "2026-10-17T00:46:13Z"
+  },
+  {
+   "name": "Gramedia Bookstore",
+   "group": "unknown",
+   "region": "Jawa Timur",
+   "address": "Jl. Basuki Rahmat No.93-95, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271",
+   "phone": "0817-0337-5614",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Gramedia Medan Manhattan",
@@ -2060,14 +2700,24 @@
    "checked_at": "2026-10-17T00:46:13Z"
   },
   {
+   "name": "Gramedia Surabaya Pakuwon Mall",
+   "group": "unknown",
+   "region": "Jawa Timur",
+   "address": "Pakuwon Mall, Jl. Mayjend. Jonosewojo No.2, Babatan, Kec. Wiyung, Surabaya, Jawa Timur 60227",
+   "phone": "0812-3000-3221",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
+  },
+  {
    "name": "GS SHOP BEC BANDUNG",
    "group": "unknown",
    "region": "Jawa Barat",
    "address": "Bandung Elektronik Center Lantai 2 Blok F08 - F09, Jl. Purnawarman Lantai 2 Blok F08-F09, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40116",
    "phone": "0812-8191-7283",
-   "website": "https://linktr.ee/KangDenGaming41",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:46:05Z"
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Hallmark Cards Indonesia",
@@ -2085,7 +2735,28 @@
    "address": "Jl. Raya Jemursari No.69, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237",
    "phone": "0856-4854-7786",
    "website": "http://www.tokopedia.com/happyhobbieshq",
-   "checked_at": "2026-10-17T00:45:32Z"
+   "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "Hobbies Hub",
+   "group": "unknown",
+   "address": "Jl Terusan Pasir Koja no 12A, Bandung, Jawa Barat, 40242, Indonesia",
+   "phone": "+6281809555329",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
+   "name": "Hobby Mokit",
+   "group": "unknown",
+   "region": "Jawa Barat",
+   "address": "Jl. Pasir Kaliki No.92, Pasir Kaliki, Kec. Cicendo, Kota Bandung, Jawa Barat 40171",
+   "phone": "0813-1447-1811",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "HobbyStation DigiNeko",
@@ -2093,9 +2764,9 @@
    "region": "Daerah Khusus Ibukota Jakarta",
    "address": "Rukan Citra Niaga 2, Jl. Utan Jati, RT.7/RW.12, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11830",
    "phone": "0812-8400-7629",
-   "website": "https://chat.whatsapp.com/DzWX78zLAIRIkiAbKFpLr2?mode=ems_copy_h_c",
+   "website": "https://chat.whatsapp.com/KI83G7mVsRs8V6t1Y2JTNJ",
    "buylist_url": "https://chat.whatsapp.com/buylist",
-   "checked_at": "2026-10-17T00:45:05Z"
+   "checked_at": "2026-10-17T00:46:28Z"
   },
   {
    "name": "Hobi Board Game",
@@ -2176,7 +2847,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:44:48Z"
+   "checked_at": "2026-10-17T00:45:36Z"
   },
   {
    "name": "JUAL KARTU BCA FLAZZ, KARTU ETOLL SURABAYA",
@@ -2262,7 +2933,7 @@
    "address": "Sentra Niaga, SN5-9 Kota Harapan Indah No.39 5 Blok, RT.10/RW.8, Pusaka Rakyat, Kec. Tarumajaya, Kabupaten Bekasi, Jawa Barat 17214",
    "phone": "(021) 88898362",
    "website": "https://kyou.id/",
-   "checked_at": "2026-10-17T00:45:22Z"
+   "checked_at": "2026-10-17T00:46:10Z"
   },
   {
    "name": "Kyou Hobby Shop - Beta Store",
@@ -2271,7 +2942,7 @@
    "address": "Jl. Lingkar Barat No.52 Ruko Victoria Lane, RT.003/RW.004, Panunggangan, Kec. Pinang, Kota Tangerang, Banten 15143",
    "phone": "(021) 30488716",
    "website": "https://kyou.id/",
-   "checked_at": "2026-10-17T00:45:23Z"
+   "checked_at": "2026-10-17T00:46:10Z"
   },
   {
    "name": "Kyou Hobby Shop - Delta Store",
@@ -2289,7 +2960,7 @@
    "address": "Galaxy Mall 1, Samping Time Zone GM 1 / Seberang XXI, Jl. Dr. Ir. H. Soekarno No.35-39 Lt 3, Mulyorejo, Kec. Mulyorejo, Surabaya, Jawa Timur 60115",
    "phone": "0853-3669-7005",
    "website": "https://kyou.id/",
-   "checked_at": "2026-10-17T00:45:53Z"
+   "checked_at": "2026-10-17T00:46:10Z"
   },
   {
    "name": "Landi Cellular",
@@ -2319,12 +2990,22 @@
    "checked_at": "2026-10-17T00:46:27Z"
   },
   {
+   "name": "LumixJr Hobby Shop",
+   "group": "unknown",
+   "region": "Sumatera Utara",
+   "address": "Jl. Letda Sujono Baru No.25, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222",
+   "phone": "0878-6878-5111",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
+  },
+  {
    "name": "Mafia Kaset Surabaya",
    "group": "unknown",
    "region": "Jawa Timur",
    "address": "Jl. Ketintang Tim. PTT III No.7, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
-   "website": "https://api.whatsapp.com/send/?phone=6281331883797&text&type=phone_number&app_absent=0",
-   "checked_at": "2026-10-17T00:45:53Z"
+   "website": "https://api.whatsapp.com/send/?phone=628116407772&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T00:46:19Z"
   },
   {
    "name": "Mall Ciputra World Surabaya",
@@ -2376,7 +3057,18 @@
    "address": "Jl. Danau Lindu No.148, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117",
    "phone": "0811-6551-812",
    "website": "http://www.tokopedia.com/markas-cardshop",
-   "checked_at": "2026-10-17T00:46:19Z"
+   "checked_at": "2026-10-17T00:46:41Z"
+  },
+  {
+   "name": "Mishraworkshop",
+   "group": "unknown",
+   "address": "Setrasari III No. 2B, Bandung, JB, 40152, Indonesia",
+   "phone": "+62818251515",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
   },
   {
    "name": "Momovio Kawaii & Anime Store",
@@ -2398,15 +3090,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:44:36Z"
-  },
-  {
-   "name": "Multi Toys",
-   "group": "unknown",
-   "region": "Daerah Khusus Ibukota Jakarta",
-   "address": "RVXR+VMF, Jl. Boulevard Bar. Raya, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
-   "phone": "(021) 45868072",
-   "website": "https://multitoys.id/",
-   "checked_at": "2026-10-17T00:45:15Z"
   },
   {
    "name": "Multi Toys & Cafe Ciputra World",
@@ -2433,7 +3116,7 @@
    "address": "Mall Artha Gading Lantai 2 Blok A3 / 6, Jl. Artha Gading Sel. No.1, RT.18/RW.8, West Kelapa Gading, Kelapa Gading, Jakarta, 14240",
    "phone": "0811-903-208",
    "website": "https://nimitzcards.com/",
-   "checked_at": "2026-10-17T00:44:58Z"
+   "checked_at": "2026-10-17T00:45:06Z"
   },
   {
    "name": "Ogre Card Shop Depok",
@@ -2441,9 +3124,9 @@
    "region": "Jawa Barat",
    "address": "Golden Sport Center, Jl. Akses UI No.26 Unit C.204, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
    "phone": "0856-1962-111",
-   "website": "https://linktr.ee/ogredepok",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:44:56Z"
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Omega Premium Store",
@@ -2451,9 +3134,9 @@
    "region": "Sumatera Utara",
    "address": "Jl. Sutomo Ujung No.33C, Gaharu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20235",
    "phone": "0811-6235-335",
-   "website": "https://linktr.ee/Omegapremiumstore",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:46:20Z"
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Otaku Kingdom",
@@ -2481,9 +3164,9 @@
    "region": "Jawa Barat",
    "address": "Jl. Pulau Matagatik No.D10 no.1, RT.004/RW.010, Jatimakmur, Kec. Pd. Gede, Kota Bks, Jawa Barat 17413",
    "phone": "0812-8515-9530",
-   "website": "https://linktr.ee/papa.roger?fbclid=PAT01DUAQf69NleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeTxGP3X8g9VmgcE7d6MIxXXpS-e00kieDia8ujBD84dW5SF7tlceENMiOxYA_aem_jezyUGlMWUPLAAuGS-m0XA",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:45:00Z"
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Paperclip - Pakuwon City Mall 3 Surabaya",
@@ -2510,7 +3193,7 @@
    "address": "Jl. Dr. Setiabudi No.42 & 46, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40131",
    "phone": "0877-8286-6060",
    "website": "https://www.periplus.com/",
-   "checked_at": "2026-10-17T00:46:13Z"
+   "checked_at": "2026-10-17T00:47:18Z"
   },
   {
    "name": "Pesankomik",
@@ -2518,8 +3201,8 @@
    "region": "Jawa Timur",
    "address": "Dian Regency, Jl. Sukolilo Makmur IV Perum No.1, Keputih, Kec. Sukolilo, Surabaya, Jawa Timur 60111",
    "phone": "0856-0473-7128",
-   "website": "https://shopee.co.id/tokotanpopo",
-   "checked_at": "2026-10-17T00:45:58Z"
+   "website": "https://shopee.co.id/benk_games",
+   "checked_at": "2026-10-17T00:46:32Z"
   },
   {
    "name": "Pitimoss Fun Library",
@@ -2550,12 +3233,24 @@
    "checked_at": "2026-10-17T00:45:40Z"
   },
   {
+   "name": "Play Inside",
+   "group": "unknown",
+   "region": "Jawa Barat",
+   "address": "Jalan Saad 11A , Bandung, JB, 40112, Indonesia",
+   "phone": "+628122018377",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:36Z"
+  },
+  {
    "name": "PNP",
    "group": "unknown",
    "region": "Jawa Barat",
    "address": "Jl. Ciumbuleuit No.163 R-7, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",
    "website": "https://www.tokopedia.com/pnpbandung",
-   "checked_at": "2026-10-17T00:46:05Z"
+   "checked_at": "2026-10-17T00:46:41Z"
   },
   {
    "name": "Pokemon Mezastar - Galaxy Mall 3",
@@ -2677,7 +3372,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:44:48Z"
+   "checked_at": "2026-10-17T00:46:41Z"
   },
   {
    "name": "Sun Plaza",
@@ -2740,8 +3435,8 @@
    "region": "Sumatera Utara",
    "address": "Jl. Setia Budi No.240, Tj. Sari, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20132",
    "phone": "0812-6288-4948",
-   "website": "https://shopee.co.id/magicounter",
-   "checked_at": "2026-10-17T00:46:20Z"
+   "website": "https://shopee.co.id/benk_games",
+   "checked_at": "2026-10-17T00:46:32Z"
   },
   {
    "name": "tokobukumurahonline.com Merr",
@@ -2769,7 +3464,7 @@
    "address": "Lantai 2 (Second Floor) Segye Mart, Jl. Klp. Gading Sel. No.5 Blok BH10, Pakulonan Barat, Kecamatan Kelapa Dua, Kabupaten Tangerang, Banten 15810",
    "phone": "0851-8323-9620",
    "website": "https://www.tokopedia.com/topdeck-games-center",
-   "checked_at": "2026-10-17T00:45:31Z"
+   "checked_at": "2026-10-17T00:46:41Z"
   },
   {
    "name": "Toys City",
@@ -2796,7 +3491,7 @@
    "address": "Tunjungan Plaza, Jl. Basuki Rahmat No.8-12 I, unit 1, UG Floor, Kedungdoro, Kec. Tegalsari, Surabaya, Jawa Timur 60261",
    "phone": "0812-1642-2407",
    "website": "https://www.toyskingdom.co.id/",
-   "checked_at": "2026-10-17T00:45:47Z"
+   "checked_at": "2026-10-17T00:46:07Z"
   },
   {
    "name": "Trans Studio Mall Bali",
@@ -2813,8 +3508,8 @@
    "region": "Daerah Khusus Ibukota Jakarta",
    "address": "Jl Trikora V RT 005/005 No 07, RT.5/RW.5, Duri Utara, Kec. Tambora, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11270",
    "phone": "0812-8204-9088",
-   "website": "https://shopee.co.id/truthordare.jakarta?smtt=0.0.9",
-   "checked_at": "2026-10-17T00:45:07Z"
+   "website": "https://shopee.co.id/benk_games",
+   "checked_at": "2026-10-17T00:46:32Z"
   },
   {
    "name": "Tunjungan Plaza",
@@ -2826,14 +3521,24 @@
    "checked_at": "2026-10-17T00:46:00Z"
   },
   {
+   "name": "VAN MARVEL TOYS STORE",
+   "group": "unknown",
+   "region": "Jawa Barat",
+   "address": "Istana Pasteur Regency, CRA 46, Sukaraja, Kec. Cicendo, Kota Bandung, Jawa Barat 40175",
+   "phone": "0899-3519-155",
+   "website": "https://linktr.ee/vibegadget",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:46:22Z"
+  },
+  {
    "name": "VE Stall (Pokemon Cards, Numismatic & Collectors Hobby)",
    "group": "unknown",
    "region": "Banten",
    "address": "Blok P1 No. 12A, Jl. Wastu Kencana, Ciater, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",
    "phone": "0812-9116-2050",
-   "website": "https://linktr.ee/vestall",
+   "website": "https://linktr.ee/vibegadget",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:44:50Z"
+   "checked_at": "2026-10-17T00:46:22Z"
   },
   {
    "name": "Vibe Gadget Medan",
@@ -2852,6 +3557,15 @@
    "phone": "0813-2060-7341",
    "website": "http://warung-idcard.blogspot.com/",
    "checked_at": "2026-10-17T00:46:04Z"
+  },
+  {
+   "name": "Wirasatya Games - Service & Jual Beli PlayStation Medan",
+   "group": "unknown",
+   "region": "Sumatera Utara",
+   "address": "Jl. Pelita No.10b, Pulo Brayan Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20116",
+   "phone": "0812-6019-3768",
+   "website": "https://api.whatsapp.com/send/?phone=628116407772&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T00:46:19Z"
   },
   {
    "name": "YIP's Bandung",

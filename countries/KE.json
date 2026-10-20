@@ -1,8 +1,8 @@
 {
  "country": "KE",
  "currency": "KES",
- "updated": "2026-10-18",
- "store_count": 64,
+ "updated": "2026-10-20",
+ "store_count": 65,
  "stores": [
   {
    "name": "Boards Games & Cards Kenya",
@@ -164,6 +164,16 @@
    "region": "Nairobi County",
    "address": "PR7G+3XX, Tom Mboya St, Nairobi",
    "phone": "0745 435732",
+   "checked_at": "2026-10-18T22:00:33Z"
+  },
+  {
+   "name": "Gifting Kenya",
+   "group": "in_store",
+   "city": "Nairobi",
+   "region": "Nairobi County",
+   "address": "Sports Rd, Nairobi",
+   "phone": "0715 666721",
+   "website": "https://www.instagram.com/gifting.kenya/",
    "checked_at": "2026-10-18T22:00:33Z"
   },
   {

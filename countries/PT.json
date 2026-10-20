@@ -1,8 +1,8 @@
 {
  "country": "PT",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 243,
+ "updated": "2026-10-20",
+ "store_count": 263,
  "stores": [
   {
    "name": "Kingpin Books",
@@ -244,19 +244,6 @@
    "checked_at": "2026-10-16T03:30:01Z"
   },
   {
-   "name": "Zenith Game Store",
-   "group": "blocked",
-   "city": "Leiria",
-   "region": "Leiria",
-   "address": "Av. Marquês de Pombal 7 420, LT, 2410-152 Leiria, Portugal, Leiria, Leiria, 2410-152",
-   "phone": "918 494 013",
-   "website": "https://www.zenithgamestore.pt/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:49:59Z"
-  },
-  {
    "name": "4 Games And Toys",
    "group": "in_store",
    "city": "Braga",
@@ -354,11 +341,14 @@
    "group": "in_store",
    "city": "Covilhã",
    "region": "Castelo Branco",
-   "address": "R. Conselheiro António Pedroso dos Santos 13, 6200-344 Covilhã, Portugal, Covilhã, Castelo Branco, 6200-344",
+   "address": "13 R. Conselheiro António Pedroso dos Santos, Covilhã, Castelo Branco, 6200-344, Portugal",
+   "phone": "+351964795944",
+   "website": "https://www.instagram.com/cafe_beira?igsh=a2x5MmVtd3dzbmxn",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:49:59Z"
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Casa da Sorte",
@@ -388,6 +378,27 @@
    "checked_at": "2026-10-16T03:31:42Z"
   },
   {
+   "name": "Clube MtG Olhão",
+   "group": "in_store",
+   "city": "Olhão",
+   "region": "Faro",
+   "address": "N125 225A, 8700-173 Olhão",
+   "phone": "912 992 699",
+   "website": "https://www.facebook.com/clubemtgolhao",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Clube Top Deck",
+   "group": "in_store",
+   "address": "Rua Antero de Quental 263, C.C. Avenida, piso 6, lj 605, Coimbra, Coimbra, 3004-544, Portugal",
+   "phone": "912811146",
+   "website": "https://www.facebook.com/tabernatopdeck",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Colecciona TCG",
    "group": "in_store",
    "city": "Faro",
@@ -400,8 +411,26 @@
    "group": "in_store",
    "city": "Carnaxide",
    "region": "Lisboa",
-   "address": "R. Manuel Teixeira Gomes 25B, 2790-102 Carnaxide",
-   "website": "https://www.instagram.com/counterspell.pt?igsh=MWt2aDNiMWNpdWwxdQ==",
+   "address": "Rua Manuel Teixeira Gomes NR 25 B, Carnaxide, Oeiras, 2790-102, Portugal",
+   "phone": "+351913344747",
+   "website": "https://www.instagram.com/counterspell.pt/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Critical Hit Gamecenter",
+   "group": "in_store",
+   "city": "Rio de Mouro",
+   "region": "Lisboa",
+   "address": "R. Casal da Serra 11-A, Rio de Mouro, Lisboa, 2635-278, Portugal",
+   "phone": "+351215908595",
+   "website": "https://www.instagram.com/criticalhit_gamecenter/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T03:29:50Z"
   },
   {
@@ -430,6 +459,28 @@
    "address": "Edf.Oceano Azul, Av. Tomás Cabreira Loja 4, Praia da Rocha, 8500-808 Portimão",
    "phone": "920 538 956",
    "checked_at": "2026-10-16T03:32:31Z"
+  },
+  {
+   "name": "Dinastia Galardoada Lda.",
+   "group": "in_store",
+   "address": "Rua da República 202 , Foz Center , piso 1 loja 44, Figueira da Foz, Figueira da Foz, 3080-036, Portugal",
+   "phone": "+351919916314",
+   "website": "https://www.instagram.com/tcgtradeworld/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Drawstep Games&Drinks",
+   "group": "in_store",
+   "address": "R. da Fundação Calouste Gulbenkian n91,, Braga, 01, 4710-394, Portugal",
+   "phone": "+351(0) 963.058.947",
+   "website": "https://www.facebook.com/Drawstep/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Elo4",
@@ -461,6 +512,17 @@
    "checked_at": "2026-10-16T03:30:54Z"
   },
   {
+   "name": "Friend Zone Lounge",
+   "group": "in_store",
+   "address": "Rua da Anadia nº 69, Aveiro, 01, 3810-208, Portugal",
+   "phone": "351911 012 097",
+   "website": "https://www.facebook.com/friendzonelounge/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "GaleriaBT - Game Center",
    "group": "in_store",
    "city": "Sines",
@@ -476,13 +538,10 @@
   {
    "name": "Gargula Templo de Jogos",
    "group": "in_store",
-   "city": "Estoril",
-   "region": "Lisboa",
    "address": "Rua José Galhardo, 5 A, Lisboa, 11, 1750-131 , Portugal",
    "phone": "351932 610 242",
    "website": "https://www.facebook.com/GargulaGaming/?locale=pt_BR",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:29:50Z"
@@ -508,8 +567,8 @@
   {
    "name": "Guild Pact",
    "group": "in_store",
-   "city": "Rio de Mouro",
-   "region": "Lisboa",
+   "city": "Almada",
+   "region": "Setúbal",
    "address": "11 R. Galileu Saúde Correia, Almada, Setúbal, 2805-691, Portugal",
    "phone": "+351+351937063323",
    "website": "https://www.instagram.com/guildpact?igsh=MWs0ZDFqZjZlMHV5eQ==",
@@ -518,17 +577,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:29:50Z"
-  },
-  {
-   "name": "Guildpact",
-   "group": "in_store",
-   "city": "Almada",
-   "region": "Setúbal",
-   "address": "R. Manuel da Fonseca 12, 2800-573 Almada, Portugal, Almada, Setúbal, 2800-573",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:49:59Z"
   },
   {
    "name": "Gárgula Gaming",
@@ -540,6 +588,20 @@
    "checked_at": "2026-10-16T03:30:43Z"
   },
   {
+   "name": "Hobbit's Land",
+   "group": "in_store",
+   "city": "Estoril",
+   "region": "Lisboa",
+   "address": "Edf. Checala - Pr.a Bartolomeu Dias, LT CC, Alapraia - Estoril, 11, 2765-179, Portugal",
+   "phone": "+351 21 825 2178",
+   "website": "https://www.facebook.com/Hobbits.Land/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Idman",
    "group": "in_store",
    "city": "Lisboa",
@@ -549,12 +611,34 @@
    "checked_at": "2026-10-16T03:30:53Z"
   },
   {
+   "name": "Jogos & Companhia",
+   "group": "in_store",
+   "address": "Rua 18 de Junho, nº40, Olhão, 08, 8700, Portugal",
+   "phone": "35196 885043",
+   "website": "https://www.facebook.com/people/Jogos-Companhia/100063474507171/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Jogos Santa Casa",
    "group": "in_store",
    "city": "Porto",
    "region": "Porto",
    "address": "Praça Pedra Verde 4, 4100-385 Porto",
    "checked_at": "2026-10-16T03:31:35Z"
+  },
+  {
+   "name": "Kairos Gaming Venue",
+   "group": "in_store",
+   "address": "Avenida da Força Aéria Portuguesa 99 RC DTO, AVEIRO, Aveiro, 3800-355, Portugal",
+   "phone": "+351962560703",
+   "website": "https://www.instagram.com/kairosgamingvenue/?__pwa=1#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Kanto Geek",
@@ -591,6 +675,16 @@
    "address": "4050-213, Rua da Conceição 27, Porto",
    "phone": "22 201 1083",
    "website": "https://www.facebook.com/pages/Livraria-Timtimportimtim/129318483809523?fref=ts",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Loja de Jogos - Hobbit's Land",
+   "group": "in_store",
+   "city": "Estoril",
+   "region": "Lisboa",
+   "address": "Praceta Bartolomeu Dias 30, 2765-179 Estoril",
+   "phone": "21 825 2178",
+   "website": "https://www.facebook.com/Hobbits.Land/",
    "checked_at": "2026-10-16T03:29:50Z"
   },
   {
@@ -656,6 +750,17 @@
    "checked_at": "2026-10-16T03:30:37Z"
   },
   {
+   "name": "Mardu TCG",
+   "group": "in_store",
+   "address": "Rua 5 de outubro, 58, Alhos Vedros, Setúbal, 2860-037, Portugal",
+   "phone": "+351911037406",
+   "website": "https://www.instagram.com/mardutcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Mercadia",
    "group": "in_store",
    "city": "Lisboa",
@@ -679,6 +784,17 @@
    "checked_at": "2026-10-16T03:30:37Z"
   },
   {
+   "name": "Mercadia Games",
+   "group": "in_store",
+   "address": "Rua dos Arneiros, 129a, Benfica, Benfica, 11, 1500-056, Portugal",
+   "phone": "+351967805279",
+   "website": "https://www.facebook.com/mercadiagames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "Mercadia Sul",
    "group": "in_store",
    "city": "Almada",
@@ -696,6 +812,52 @@
    "address": "Largo da Sé Velha 1, 3000-383 Coimbra",
    "phone": "938 000 777",
    "checked_at": "2026-10-16T03:32:18Z"
+  },
+  {
+   "name": "Mirai Cards Portugal",
+   "group": "in_store",
+   "city": "Mafra",
+   "region": "Lisboa",
+   "address": "Largo Cel. Brito Gorjão 8, Mafra, Lisboa, 2640-465, Portugal",
+   "phone": "+351261106944",
+   "website": "https://www.instagram.com/miraicardspt",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Mulligan Games",
+   "group": "in_store",
+   "address": "8 R. Manuel Pontes da Horta, Quarteira, Faro, 8125-622, Portugal",
+   "phone": "+351 912184994",
+   "website": "https://www.instagram.com/mulligan.games/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "Mulligan Games Portimão",
+   "group": "in_store",
+   "address": "Rua José Guerreiro de Matos lote 33 , Portimao, Algarve, Portimao, 8125-483, Portugal",
+   "phone": "+34912184994",
+   "website": "https://www.instagram.com/mulligan.games",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "NEXUSPOINT",
+   "group": "in_store",
+   "address": "Rua da paz 6, Loja A, Agualva-Cacém, Sintra, 2735-480, Portugal",
+   "phone": "+351928268931",
+   "website": "https://www.instagram.com/nexus.point.pt?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "Paraíso da Sorte",
@@ -733,6 +895,17 @@
    "address": "R. Eng. Aboim Sande de Lemos 8 A, 8000-544 Faro",
    "phone": "964 033 659",
    "website": "https://www.instagram.com/playhubfaro/",
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "PlayHub Faro",
+   "group": "in_store",
+   "address": "Rua Engenheiro Aboim de Sande Lemos LOJA 8A, Faro, Algarve, 8000-544, Portugal",
+   "phone": "+351964033659",
+   "website": "https://www.instagram.com/playhubfaro/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T03:29:50Z"
   },
   {
@@ -854,6 +1027,28 @@
    "checked_at": "2026-10-16T03:30:35Z"
   },
   {
+   "name": "Templar Games",
+   "group": "in_store",
+   "address": "R. Centro Republicano nº151, Tomar, Santarém, 2300-359, Portugal",
+   "phone": "+351922011714",
+   "website": "https://www.instagram.com/templar_games/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
+   "name": "The Stack",
+   "group": "in_store",
+   "address": "Rua de São Paulo, Bloco 8, R/C Direito, Loja 1, Loule, Faro, 8100-689, Portugal",
+   "phone": "+351938285454",
+   "website": "https://www.instagram.com/thestackpt?stkn=MTU3Mzc1MXhvZHlrMg==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "unedone",
    "group": "in_store",
    "city": "Lisboa",
@@ -892,6 +1087,17 @@
    "checked_at": "2026-10-16T03:32:26Z"
   },
   {
+   "name": "VoidSummon",
+   "group": "in_store",
+   "address": "Rua Manuel Espregueira 204/206 Loja A, Viana do Castelo, Viana do Castelo, 4900-318, Portugal",
+   "phone": "+351933794643",
+   "website": "https://www.instagram.com/voidsummon/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
+  },
+  {
    "name": "X GIFT SHOP",
    "group": "in_store",
    "city": "Lisboa",
@@ -908,6 +1114,20 @@
    "address": "Centro Comercial Lafayette, Av. Central 87, 4710-228 Braga",
    "phone": "912 007 044",
    "checked_at": "2026-10-16T03:31:47Z"
+  },
+  {
+   "name": "Zenith Game Store",
+   "group": "in_store",
+   "city": "Leiria",
+   "region": "Leiria",
+   "address": "Avenida Marquês De Pombal Galerias São José 1º Andar, Loja 25, Leiria, Leiria, 2410-152, Portugal",
+   "phone": "+351918494013",
+   "website": "https://www.facebook.com/ZenithGameStoreLeiria",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:29:50Z"
   },
   {
    "name": "100° Página Book store",
@@ -1592,8 +1812,6 @@
   {
    "name": "Gecko Game Store & Café",
    "group": "unknown",
-   "city": "Pampilhosa do Botão",
-   "region": "Aveiro",
    "address": "Rua Dom António Valente da Fonseca, loja 62. , Vila Real, Vila Real, 5000-539, Portugal",
    "phone": "+351913839623",
    "website": "https://wpn.wizards.com/en",
@@ -1858,6 +2076,19 @@
    "checked_at": "2026-10-16T03:30:07Z"
   },
   {
+   "name": "Ludik Hobby",
+   "group": "unknown",
+   "city": "Pampilhosa do Botão",
+   "region": "Aveiro",
+   "address": "2 Tv. R. da República, Pampilhosa do Botão, Aveiro, 3050, Portugal",
+   "phone": "351914016460",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:30:25Z"
+  },
+  {
    "name": "Mercadia Oeste",
    "group": "unknown",
    "city": "Lisboa",
@@ -1889,16 +2120,6 @@
    "phone": "928 249 292",
    "website": "https://miniversos.pt/",
    "checked_at": "2026-10-16T03:31:19Z"
-  },
-  {
-   "name": "Mirai Cards Portugal",
-   "group": "unknown",
-   "city": "Mafra",
-   "region": "Lisboa",
-   "address": "Largo Cel. Brito Gorjão 8, 2640-465 Mafra",
-   "phone": "261 106 944",
-   "website": "https://www.miraicards.pt/",
-   "checked_at": "2026-10-16T21:49:59Z"
   },
   {
    "name": "Mocho Roxo - Loja esotérica e Cartomancia",
@@ -1963,6 +2184,17 @@
    "phone": "22 609 1460",
    "website": "https://www.mundofantasma.com/",
    "checked_at": "2026-10-16T03:31:26Z"
+  },
+  {
+   "name": "Máis que xogos",
+   "group": "unknown",
+   "address": "Rúa Damas Apostólicas, Nigrán, GA, 36370, ESP",
+   "phone": "+34629196376",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:30:25Z"
   },
   {
    "name": "Note! Barcelos",

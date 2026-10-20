@@ -1,8 +1,8 @@
 {
  "country": "FR",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 1001,
+ "updated": "2026-10-20",
+ "store_count": 1090,
  "stores": [
   {
    "name": "Magic Corporation",
@@ -278,19 +278,6 @@
    "phone": "04 67 02 03 55",
    "website": "http://www.max2cash.fr/montpellier",
    "checked_at": "2026-10-16T02:25:54Z"
-  },
-  {
-   "name": "Card'Era",
-   "group": "blocked",
-   "city": "Lyon",
-   "region": "Auvergne-Rhône-Alpes",
-   "address": "8 Rue de Fleurieu, 69002 Lyon, France, Lyon, Auvergne-Rhône-Alpes, 69002",
-   "phone": "06 13 56 64 56",
-   "website": "https://www.cardmarket.com/fr/Magic/Users/MagicoSphere",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T02:16:57Z"
   },
   {
    "name": "Centre Commercial Carrefour Rennes-Cesson",
@@ -1020,19 +1007,6 @@
    "checked_at": "2026-10-16T02:21:57Z"
   },
   {
-   "name": "MEiSiA",
-   "group": "blocked",
-   "city": "Paris",
-   "region": "Île-de-France",
-   "address": "84 Rue René Boulanger, 75010 Paris, France, Paris, Île-de-France, 75010",
-   "phone": "01 40 18 48 52",
-   "website": "https://cafemeisia.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:04Z"
-  },
-  {
    "name": "Monsieur Dé",
    "group": "blocked",
    "city": "Vitré",
@@ -1241,6 +1215,30 @@
    "checked_at": "2026-10-16T02:21:05Z"
   },
   {
+   "name": "Album Bordeaux",
+   "group": "in_store",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "162 Rue Sainte-Catherine, 33000 Bordeaux",
+   "phone": "05 56 98 89 04",
+   "website": "https://www.facebook.com/AlbumBordeaux33/",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "ALL4PLAY",
+   "group": "in_store",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "203 Av. de Grande Bretagne, Toulouse, Occitanie, 31300, France",
+   "phone": "+33687116028",
+   "website": "https://www.instagram.com/all4_play/?hl=it",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Antre du Blup",
    "group": "in_store",
    "city": "Chartres",
@@ -1328,12 +1326,14 @@
    "group": "in_store",
    "city": "Béziers",
    "region": "Occitanie",
-   "address": "6 Av. 22 Août 1944, 34500 Béziers, France, Béziers, Occitanie, 34500",
-   "phone": "09 75 76 83 40",
+   "address": "6 Av. 22 Août 1944, Béziers, Occitanie, 34500, France",
+   "phone": "+33(0)9 75 76 83 40.",
+   "website": "https://www.instagram.com/astranova.beziers/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "ATOUT JEU",
@@ -1343,6 +1343,17 @@
    "address": "Centre commercial Atout Sud, 1 Rue Ordronneau, 44400 Rezé",
    "phone": "02 51 70 70 63",
    "checked_at": "2026-10-16T02:25:19Z"
+  },
+  {
+   "name": "AU DE VIN",
+   "group": "in_store",
+   "address": "182 rue de la mairie, Douai, NORD, 59500, France",
+   "phone": "+330627022675",
+   "website": "https://www.instagram.com/au_de_vin_douai/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Au Dragon D'Argent",
@@ -1360,12 +1371,14 @@
    "group": "in_store",
    "city": "Aix-en-Provence",
    "region": "Provence-Alpes-Côte d'Azur",
-   "address": "5 Av. de Grassi, 13100 Aix-en-Provence, France, Aix-en-Provence, Provence-Alpes-Côte d'Azur, 13100",
-   "phone": "06 65 01 34 35",
+   "address": "5 Av. de Grassi, Aix-en-Provence, Provence-Alpes-Côte d'Azur, 13100, France",
+   "phone": "330665013435",
+   "website": "https://www.facebook.com/AudechanceuxAixenpce?locale=fr_FR",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:05Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Au Grand Gnome - Remiremont",
@@ -1384,11 +1397,14 @@
    "group": "in_store",
    "city": "Dreux",
    "region": "Centre-Val de Loire",
-   "address": "28 Rue Saint-Martin, 28100 Dreux, France, Dreux, Centre-Val de Loire, 28100",
+   "address": "28 Rue Saint-Martin, Dreux, Centre-Val de Loire, 28100, France",
+   "phone": "+33(0)635243410",
+   "website": "https://www.facebook.com/profile.php?id=100087810556403",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Aux Jeux de l’Hibours",
@@ -1418,6 +1434,17 @@
    "checked_at": "2026-10-16T02:27:12Z"
   },
   {
+   "name": "Baraka Jeux",
+   "group": "in_store",
+   "address": "6 Rue Ricard, Beauvais, Hauts-de-France, 60000, France",
+   "phone": "330660112562",
+   "website": "https://www.facebook.com/Barakajeuxbeauvais",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Baraka Jeux Shop Clermont-Ferrand",
    "group": "in_store",
    "city": "Clermont-Ferrand",
@@ -1437,6 +1464,17 @@
    "address": "26 Bd Voltaire, 75011 Paris",
    "phone": "01 42 23 00 99",
    "checked_at": "2026-10-16T02:21:15Z"
+  },
+  {
+   "name": "Bartopia, Café Ludique",
+   "group": "in_store",
+   "address": "2 Place Roger Salengro, Arques, Haut de France, 62510, France",
+   "phone": "0686087882",
+   "website": "https://www.facebook.com/Bartopia62",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Batailles Chymèriques",
@@ -1483,11 +1521,46 @@
    "group": "in_store",
    "city": "Chambéry",
    "region": "Auvergne-Rhône-Alpes",
-   "address": "Zone des Landiers Nord, 715 Rue de Belle Eau, 73000 Chambéry, France, Chambéry, Auvergne-Rhône-Alpes, 73000",
+   "address": "715 Rue de Belle Eau, Chambéry, ARA, 73000, France",
+   "phone": "+330623739408",
+   "website": "https://www.instagram.com/breakoutchambery/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:07Z"
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "BRIMINTIS",
+   "group": "in_store",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "14 Pl. Occitane, 31000 Toulouse",
+   "phone": "07 60 71 08 85",
+   "website": "https://www.instagram.com/_brimintis_/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "BULLE DE JEUX - COURBEVOIE",
+   "group": "in_store",
+   "address": "CENTRE COMMERCIAL CHARRAS 12 RUE BAUDIN, COURBEVOIE, HAUT DE SEINE, 92400, France",
+   "phone": "+330140990192",
+   "website": "https://www.facebook.com/p/Bulle-de-Jeux-Courbevoie-61579987375922/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Bulle de Jeux Chessy",
+   "group": "in_store",
+   "address": "24 Place d'Ariane, Chessy, Ile-de-France, 77700, France",
+   "phone": "+330164170418",
+   "website": "https://www.instagram.com/bulledejeuxchessy/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Ca joue!",
@@ -1512,6 +1585,20 @@
    "checked_at": "2026-10-16T02:21:14Z"
   },
   {
+   "name": "Card'Era",
+   "group": "in_store",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "8 Rue de Fleurieu, Lyon, Rhône, 69002, France",
+   "phone": "+330613566456",
+   "website": "https://www.instagram.com/cardera.lyon",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "CARDQUEST TCG",
    "group": "in_store",
    "city": "Gardanne",
@@ -1528,6 +1615,17 @@
    "address": "22 Bd Maréchal Leclerc, 38000 Grenoble",
    "phone": "06 31 24 91 28",
    "checked_at": "2026-10-16T02:28:03Z"
+  },
+  {
+   "name": "CARDS & PLAY",
+   "group": "in_store",
+   "address": "18 Rue des Platanettes, Nîmes, OCCITANIE, 30000, France",
+   "phone": "+330607952119",
+   "website": "https://www.instagram.com/cardsandplaytcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Cards and Games",
@@ -1646,6 +1744,16 @@
    "checked_at": "2026-10-16T02:24:13Z"
   },
   {
+   "name": "CD Mania",
+   "group": "in_store",
+   "city": "Nantes",
+   "region": "Pays de la Loire",
+   "address": "2 Rue Jean Jacques Rousseau, 44000 Nantes",
+   "phone": "02 40 35 39 08",
+   "website": "https://www.facebook.com/CD-mania-1207610799330357/?ref=bookmarks",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Coeur de Chineur brocante friperie vintage",
    "group": "in_store",
    "city": "Marseille",
@@ -1735,6 +1843,17 @@
    "checked_at": "2026-10-16T02:25:19Z"
   },
   {
+   "name": "D'entrée de Jeu",
+   "group": "in_store",
+   "address": "241 rue Pierre Brossolette, Coutras, Gironde, 33230, France",
+   "phone": "+330621983993",
+   "website": "https://www.facebook.com/profile.php?id=61588863129699",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "D20",
    "group": "in_store",
    "city": "Fontenay-le-Comte",
@@ -1780,7 +1899,6 @@
    "city": "Toulouse",
    "region": "Occitanie",
    "address": "36-54 Rte de Bayonne, 31300 Toulouse",
-   "phone": "07 60 71 08 85",
    "website": "https://www.instagram.com/zin_distri/",
    "checked_at": "2026-10-16T02:15:53Z"
   },
@@ -1837,6 +1955,17 @@
    "checked_at": "2026-10-16T02:23:54Z"
   },
   {
+   "name": "DUCKS&DOCKS",
+   "group": "in_store",
+   "address": "34 cours des Lavandières, Saint-Ouen-sur-Seine, Ile de France, 93400, France",
+   "phone": "+330186042591",
+   "website": "https://www.instagram.com/ducksanddocks_bd/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "DY_TCG",
    "group": "in_store",
    "city": "Marseille",
@@ -1870,12 +1999,22 @@
    "checked_at": "2026-10-16T02:20:44Z"
   },
   {
+   "name": "Espace Culturel Leclerc Paridis",
+   "group": "in_store",
+   "address": "Espace Culturel Paridis 14 route de Paris, NANTES, Loire atlantique, 44300, France",
+   "phone": "+330240186552",
+   "website": "https://www.facebook.com/EspaceCulturelNantesParidis/?locale=fr_FR",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Espace Jeux",
    "group": "in_store",
    "city": "Nantes",
    "region": "Pays de la Loire",
    "address": "14 Rte de Paris, 44300 Nantes, France, Nantes, Pays de la Loire, 44300",
-   "phone": "02 40 35 39 08",
    "website": "https://www.facebook.com/ELeclercParidis",
    "games_events": [
     "Flesh and Blood"
@@ -1992,12 +2131,14 @@
    "group": "in_store",
    "city": "Istres",
    "region": "Provence-Alpes-Côte d'Azur",
-   "address": "22 Bd Frédéric Mistral, 13800 Istres, France, Istres, Provence-Alpes-Côte d'Azur, 13800",
-   "phone": "09 78 80 15 72",
+   "address": "4 Av. Hélène Boucher, Istres, Provence-Alpes-Côte d'Azur, 13800, France",
+   "phone": "33749117004",
+   "website": "https://www.facebook.com/profile.php?id=100087430377457",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Games Descartes Lyon",
@@ -2034,6 +2175,17 @@
    "checked_at": "2026-10-16T02:20:34Z"
   },
   {
+   "name": "Geek Factory Montevrain",
+   "group": "in_store",
+   "address": "39 Av. de la Société des Nations, Montévrain, IDF, 77144, France",
+   "phone": "33160976023",
+   "website": "https://www.facebook.com/geekfactory.montevrain/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Geek factory Nogent",
    "group": "in_store",
    "city": "Nogent-sur-Marne",
@@ -2058,6 +2210,16 @@
    "checked_at": "2026-10-16T02:20:50Z"
   },
   {
+   "name": "Geek Story",
+   "group": "in_store",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "7 Bd Voltaire, 75011 Paris",
+   "phone": "01 47 00 08 86",
+   "website": "https://m.facebook.com/Geek-Story-Paris-716568638711014/",
+   "checked_at": "2026-10-16T02:17:38Z"
+  },
+  {
    "name": "Geekko",
    "group": "in_store",
    "city": "Strasbourg",
@@ -2079,16 +2241,18 @@
    "checked_at": "2026-10-16T02:20:04Z"
   },
   {
-   "name": "GG COLLECTOR'S GAMES",
+   "name": "GG Collectors Games",
    "group": "in_store",
    "city": "Les Pennes-Mirabeau",
    "region": "Provence-Alpes-Côte d'Azur",
-   "address": "1 Rue Guy de Maupassant, 13170 Les Pennes-Mirabeau, France, Les Pennes-Mirabeau, Provence-Alpes-Côte d'Azur, 13170",
+   "address": "ZI L'Agavon - Avenue Guy de Maupassant, Les Pennes Mirabeau, PACA, 13170, France",
    "phone": "07 43 53 94 53",
+   "website": "https://www.facebook.com/profile.php?id=61576783718269",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:07Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Gibert Bandes dessinées",
@@ -2153,6 +2317,17 @@
    "checked_at": "2026-10-16T02:20:59Z"
   },
   {
+   "name": "Guyajeux Gers",
+   "group": "in_store",
+   "address": "8 Rue du Pouy, Auch, Occitanie, 32000, France",
+   "phone": "+33634614937",
+   "website": "https://www.facebook.com/profile.php?id=61565438966837&locale=fr_FR",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Guyajeux Gers (FRERES&CIE)",
    "group": "in_store",
    "city": "Auch",
@@ -2162,6 +2337,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:55Z"
+  },
+  {
+   "name": "Guyajeux Marmande",
+   "group": "in_store",
+   "address": "15 Rue Charles de Gaulle, Marmande, Nouvelle-Aquitaine, 47200, France",
+   "phone": "+330603516465",
+   "website": "https://www.facebook.com/profile.php?id=61584114702080",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "GUYAJEUX Marseille",
@@ -2275,6 +2461,16 @@
    "checked_at": "2026-10-16T02:20:53Z"
   },
   {
+   "name": "Instants Magiques",
+   "group": "in_store",
+   "city": "Grenoble",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "2 Rue des Clercs, 38000 Grenoble",
+   "phone": "04 76 44 36 77",
+   "website": "https://www.facebook.com/Instants-Magiques-300360250003749/",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "JacobTCG",
    "group": "in_store",
    "city": "Toulouse",
@@ -2311,6 +2507,20 @@
    "checked_at": "2026-10-16T02:27:03Z"
   },
   {
+   "name": "Kado Shop",
+   "group": "in_store",
+   "city": "La Mézière",
+   "region": "Bretagne",
+   "address": "28 RUE DE MONTGERVAL (Route du meuble), La Meziere, Bretagne, 35520, France",
+   "phone": "330223223957",
+   "website": "https://instagram.com/kadoshop35",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Kado Shop Rennes",
    "group": "in_store",
    "city": "La Mézière",
@@ -2319,17 +2529,6 @@
    "phone": "02 23 22 39 57",
    "website": "https://instagram.com/kadoshop35",
    "checked_at": "2026-10-16T02:15:53Z"
-  },
-  {
-   "name": "KadoShop",
-   "group": "in_store",
-   "city": "La Mézière",
-   "region": "Bretagne",
-   "address": "28 Rte de Montgerval, 35520 La Mézière, France, La Mézière, Bretagne, 35520",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:07Z"
   },
   {
    "name": "Kapla Galery",
@@ -2393,11 +2592,12 @@
    "group": "in_store",
    "city": "Laval",
    "region": "Pays de la Loire",
-   "address": "3 Rue du Lieutenant, 53000 Laval, France, Laval, Pays de la Loire, 53000",
-   "phone": "0983976367",
+   "address": "3 rue du lieutenant, Laval, 53, 53000, France",
+   "phone": "330983976367",
    "website": "https://www.facebook.com/profile.php?id=100073546729573",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:54Z"
   },
@@ -2413,15 +2613,18 @@
    "checked_at": "2026-10-16T02:20:44Z"
   },
   {
-   "name": "L'Antre du TCG",
+   "name": "L'antre du tcg",
    "group": "in_store",
    "city": "Montpellier",
    "region": "Occitanie",
-   "address": "58 Av. Georges Clemenceau, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "address": "58 Av. Georges Clemenceau, Montpellier, Occitanie, 34000, France",
+   "phone": "+33764829702",
+   "website": "https://www.instagram.com/lantre_du_tcg/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "L'ARENA TCG",
@@ -2458,6 +2661,28 @@
    "checked_at": "2026-10-16T02:20:17Z"
   },
   {
+   "name": "L'instant Ludique",
+   "group": "in_store",
+   "address": "38 Avenue Jean-Jaurès, Bethune, 62, 62400, France",
+   "phone": "+33(0) 321628760",
+   "website": "https://www.facebook.com/LinstantLudique/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "L'Occitroll",
+   "group": "in_store",
+   "address": "3 rue porte du moustier, Montauban, SUD, 82000, France",
+   "phone": "+335 81 98 30 02",
+   "website": "https://www.facebook.com/p/LOccitroll-100057535206388/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "La Blague à Tabac Presse Cigares CBD/FDJ",
    "group": "in_store",
    "city": "Toulouse",
@@ -2476,6 +2701,28 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:05Z"
+  },
+  {
+   "name": "La Boutik Ludik",
+   "group": "in_store",
+   "address": "2 rue du maréchal Foch, Haubourdin, Nord, 59320, France",
+   "phone": "+330659934328",
+   "website": "https://www.facebook.com/laboutikludik/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "La Boutique JCL",
+   "group": "in_store",
+   "address": "21 RUE GIMELLI, TOULON, PACA, 83000, France",
+   "phone": "+330670474163",
+   "website": "https://www.instagram.com/jclpoketcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "La Boîte-Monde",
@@ -2544,6 +2791,17 @@
    "address": "37 Trav. du Roi de Pique, 13012 Marseille",
    "phone": "04 83 33 19 19",
    "checked_at": "2026-10-16T02:23:48Z"
+  },
+  {
+   "name": "LA DERNIERE CARTE",
+   "group": "in_store",
+   "address": "27-29 Rue de Paris, Nemours, Ile de France, 77140, France",
+   "phone": "+330986134505",
+   "website": "https://www.facebook.com/profile.php?id=61552082932000",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "La grosse boite La Rochelle",
@@ -2634,6 +2892,17 @@
    "checked_at": "2026-10-16T02:20:38Z"
   },
   {
+   "name": "La Perle R@re",
+   "group": "in_store",
+   "address": "2 rue des bernardines, Aix en Provence, SUD, 13100, France",
+   "phone": "+334 42 12 48 33",
+   "website": "https://www.facebook.com/laperlerare13/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "La Pipe",
    "group": "in_store",
    "city": "Toulouse",
@@ -2650,6 +2919,17 @@
    "address": "26 Av. Georges Clemenceau, 34690 Fabrègues",
    "phone": "04 67 08 39 97",
    "checked_at": "2026-10-16T02:26:14Z"
+  },
+  {
+   "name": "La Règle du Jeu",
+   "group": "in_store",
+   "address": "29 Rue de l'Éperon, Vienne, Auvergne-Rhône-Alpes, 38200, France",
+   "phone": "+33671285933",
+   "website": "https://www.facebook.com/p/La-R%C3%A8gle-Du-Jeu-61561192825225/?_rdr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "la règle du jeu sainte maure de touraine",
@@ -2672,6 +2952,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:53Z"
+  },
+  {
+   "name": "La Taniere du Joueur",
+   "group": "in_store",
+   "address": "73 Rue des Ferronniers, Douai, Hauts-de-France, 59500, France",
+   "phone": "+33(0)327981796",
+   "website": "https://www.facebook.com/latanieredujoueur/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "La Tanière D'Ulf",
@@ -2715,6 +3006,17 @@
    "checked_at": "2026-10-16T02:23:41Z"
   },
   {
+   "name": "Le Castor Marmiteux",
+   "group": "in_store",
+   "address": "4 Rue du Collège, Bergues, Hauts-de-France, 59380, France",
+   "phone": "+33328622682",
+   "website": "https://www.facebook.com/profile.php?id=100095348882450",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Le Caudéran",
    "group": "in_store",
    "city": "Bordeaux",
@@ -2755,12 +3057,37 @@
    "checked_at": "2026-10-16T02:20:24Z"
   },
   {
+   "name": "Le Coin-Coin Ludique",
+   "group": "in_store",
+   "city": "Saint-Maximin",
+   "region": "Hauts-de-France",
+   "address": "Rue Albert Einstein, Saint-Maximin, Hauts-de-France, 60740, France",
+   "phone": "+330611964514",
+   "website": "https://www.facebook.com/lecoincoinludique",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Le Comptoir du TCG",
    "group": "in_store",
    "city": "Bordeaux",
    "region": "Nouvelle-Aquitaine",
    "address": "14 Rue Bouffard, 33000 Bordeaux",
    "checked_at": "2026-10-16T02:26:37Z"
+  },
+  {
+   "name": "Le Deck",
+   "group": "in_store",
+   "address": "13 Rue Archangé, Orsay, IDF, 91400, France",
+   "phone": "+33649323465",
+   "website": "https://Instagram.com/ledeckbarludique",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Le Domaine des Jeux",
@@ -2775,16 +3102,15 @@
    "checked_at": "2026-10-16T02:20:46Z"
   },
   {
-   "name": "Le délire",
+   "name": "Le Décompte",
    "group": "in_store",
-   "city": "Compiègne",
-   "region": "Hauts-de-France",
-   "address": "84 Rue de Paris, 60200 Compiègne, France, Compiègne, Hauts-de-France, 60200",
-   "phone": "03 60 45 53 50",
+   "address": "30 Rue Carnot, Gap, Provence-Alpes-Côte d'Azur, 05000, France",
+   "phone": "+33 0698891257",
+   "website": "https://instagram.com/le_de_compte?igshid=OGQ5ZDc2ODk2ZA==",
    "games_events": [
-    "Flesh and Blood"
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Le Farfa'Dés",
@@ -2807,6 +3133,44 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:54Z"
+  },
+  {
+   "name": "Le Gobelin",
+   "group": "in_store",
+   "city": "Brive-la-Gaillarde",
+   "region": "Nouvelle-Aquitaine",
+   "address": "13 Rue Charles Teyssier, 19100 Brive-la-Gaillarde, France, Brive-la-Gaillarde, Nouvelle-Aquitaine, 19100",
+   "phone": "+33 1 39 68 23 44",
+   "website": "https://www.facebook.com/legobelingaillard.fr/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Le Graal Ludik'",
+   "group": "in_store",
+   "city": "Guérande",
+   "region": "Pays de la Loire",
+   "address": "4 Fbg Sainte-Anne, Guérande, Pays de la Loire, 44350, France",
+   "phone": "330240625662",
+   "website": "https://www.instagram.com/legraalludik/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Le Hazard",
+   "group": "in_store",
+   "address": "31 Rue du Maréchal Leclerc, Hazebrouck, Hauts-de-France, 59190, France",
+   "phone": "+330622142368",
+   "website": "https://www.facebook.com/lehazardhaz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Le Maitre du Jeu",
@@ -2846,6 +3210,17 @@
    "address": "38 Rue Michel Servet, 69100 Villeurbanne",
    "phone": "04 72 31 84 91",
    "website": "https://www.facebook.com/le.monde.en.jeux",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Le P'tit Bar à Jeux",
+   "group": "in_store",
+   "address": "3 Rue du Collège, Saint-Jean-de-Maurienne, Auvergne-Rhône-Alpes, 73300, France",
+   "phone": "+33422914049",
+   "website": "https://www.facebook.com/profile.php?id=61559240967771&mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:15:54Z"
   },
   {
@@ -2889,6 +3264,39 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:50Z"
+  },
+  {
+   "name": "Le Roi de Coeur",
+   "group": "in_store",
+   "address": "174 Rue Ludovic Boutleux, Béthune, Pas-de-Calais, 62400, France",
+   "phone": "+330617257405",
+   "website": "https://www.facebook.com/profile.php?id=61579451864352",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Le Temple des Cartes",
+   "group": "in_store",
+   "address": "21 Rue Saint-Aubert, Arras, Pas-de-Calais, 62000, France",
+   "phone": "+330781410244",
+   "website": "https://www.facebook.com/letempledescartesarras",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "Leclerc Jouet Carvin",
+   "group": "in_store",
+   "address": "ZAC De La Porte De Carembault, Carvin, Carvin, 62220 , France",
+   "phone": "+33032185578",
+   "website": "https://www.facebook.com/ELeclercCarvin/?locale=fr_FR",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Legend Story Studios - France Events",
@@ -2955,6 +3363,16 @@
    "checked_at": "2026-10-16T02:20:20Z"
   },
   {
+   "name": "Les Puces de Saint Michel",
+   "group": "in_store",
+   "city": "Bordeaux",
+   "region": "Nouvelle-Aquitaine",
+   "address": "17 Rue des Faures, 33800 Bordeaux",
+   "phone": "06 14 32 33 41",
+   "website": "https://www.facebook.com/lespucesdestmichel/?ref=page_internal",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Les Tuiles",
    "group": "in_store",
    "city": "Soustons",
@@ -2977,6 +3395,16 @@
    "checked_at": "2026-10-16T02:20:55Z"
   },
   {
+   "name": "Librairie Azimuts",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "13 Rue Saint-Guilhem, 34000 Montpellier",
+   "phone": "04 67 66 35 81",
+   "website": "https://www.facebook.com/LibrairieAzimutsMontpellier",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Librairie Bildergarte",
    "group": "in_store",
    "city": "Strasbourg",
@@ -2984,6 +3412,17 @@
    "address": "27 Rue des Serruriers, 67000 Strasbourg",
    "phone": "03 88 32 19 58",
    "checked_at": "2026-10-16T02:25:51Z"
+  },
+  {
+   "name": "Librairie Combo",
+   "group": "in_store",
+   "address": "44 Av. Jean Lebas, Roubaix, Hauts-de-France, 59100, France",
+   "phone": "33320038116",
+   "website": "https://www.instagram.com/librairiecombo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Librairie Gangloff",
@@ -2995,6 +3434,16 @@
    "checked_at": "2026-10-16T02:25:37Z"
   },
   {
+   "name": "Librairie Vignettes",
+   "group": "in_store",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "49 Av. Jean Jaurès, 75019 Paris",
+   "phone": "01 42 60 63 84",
+   "website": "https://m.facebook.com/Librairie.Vignettes75019/",
+   "checked_at": "2026-10-16T02:17:38Z"
+  },
+  {
    "name": "LITTLE TOKYO STRASBOURG TOYS N GAMES",
    "group": "in_store",
    "city": "Strasbourg",
@@ -3004,16 +3453,28 @@
    "checked_at": "2026-10-16T02:25:27Z"
   },
   {
+   "name": "Lud'm",
+   "group": "in_store",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "5 Rue de l'Ancien Courrier, (à l'angle avec la rue du Bras de Fer), 34000 Montpellier",
+   "phone": "04 67 55 04 60",
+   "website": "https://www.instagram.com/ludm.montpellier/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "Ludetopia",
    "group": "in_store",
    "city": "Poncin",
    "region": "Auvergne-Rhône-Alpes",
-   "address": "1 Rue du 8 Mai 1945, 01450 Poncin, France, Poncin, Auvergne-Rhône-Alpes, 01450",
-   "phone": "+33 6 59 52 63 56",
+   "address": "1 Rue du 8 Mai 1945, Poncin, Auvergne-Rhône-Alpes, 01450, France",
+   "phone": "+336 59 52 63 56",
+   "website": "https://www.facebook.com/Ludetopia",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Ludi Libri",
@@ -3025,6 +3486,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:53Z"
+  },
+  {
+   "name": "Ludi'Dragui",
+   "group": "in_store",
+   "address": "43 Rue des Allées d'Azémar, Draguignan, Provence-Alpes-Côte d'Azur, 83300, France",
+   "phone": "+33483734913",
+   "website": "https://www.instagram.com/ludi.dragui83300?fbclid=IwY2xjawSGYZtleHRuA2FlbQIxMABicmlkETBra2JqbkNOd2Y4aFlsOWZ3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuhSKRD_-1s-I2vwre0Uypp0ZltBfww09ZCkdjbTbWBWaotlI8NNiOZq05_9_aem_rN45HEJr_9WWBGWmlxr48Q#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "LUDICITY",
@@ -3049,6 +3521,17 @@
    "checked_at": "2026-10-16T02:20:55Z"
   },
   {
+   "name": "Ludik - Villefranche-sur-Saône",
+   "group": "in_store",
+   "address": "180 Rue Victor Hugo, Villefranche-sur-Saône, Auvergne-Rhône-Alpes, 69400, France",
+   "phone": "+33(0)426470346",
+   "website": "https://www.facebook.com/profile.php?id=100032396666858",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "LUDIS FACTORY",
    "group": "in_store",
    "city": "Pontivy",
@@ -3060,16 +3543,29 @@
    "checked_at": "2026-10-16T02:21:03Z"
   },
   {
-   "name": "LUDITHORYNQUE",
+   "name": "Ludithorynque",
    "group": "in_store",
    "city": "La Sentinelle",
    "region": "Hauts-de-France",
-   "address": "334 Av. Jean Jaurès, 59174 La Sentinelle, France, La Sentinelle, Hauts-de-France, 59174",
-   "phone": "+33 9 88 42 63 41",
+   "address": "334 Av. Jean Jaurès, La Sentinelle, Hauts-de-France, 59174, France",
+   "phone": "+33986200721",
+   "website": "https://www.facebook.com/ludithorynque",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
+   "name": "LUDIVORE",
+   "group": "in_store",
+   "address": "9 RUE EMILE LEGRELLE, ARRAS, HAUT DE FRANCE, 62000, France",
+   "phone": "+330761140612",
+   "website": "https://www.facebook.com/ludivore?locale=fr_FR",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Ludotrotter",
@@ -3092,6 +3588,20 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:59Z"
+  },
+  {
+   "name": "Ludotrotter Nantes - Orvault",
+   "group": "in_store",
+   "city": "Orvault",
+   "region": "Pays de la Loire",
+   "address": "11 Rue du Printemps, Orvault, Pays de la Loire, 44700, France",
+   "phone": "+33(0)228910325",
+   "website": "https://www.facebook.com/profile.php?id=61555953068757",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Ludotrotter Quimper",
@@ -3134,6 +3644,15 @@
    "checked_at": "2026-10-16T02:21:41Z"
   },
   {
+   "name": "M.C.B.D. SHOP",
+   "group": "in_store",
+   "city": "Paris",
+   "region": "IDF",
+   "address": "27 Rue des Taillandiers, 75011 Paris",
+   "website": "http://www.facebook.com/mcbd.shop",
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Machine à Pions",
    "group": "in_store",
    "city": "Lannion",
@@ -3173,6 +3692,17 @@
    "address": "81 Grand'Rue, 67000 Strasbourg",
    "phone": "03 88 96 36 01",
    "checked_at": "2026-10-16T02:25:51Z"
+  },
+  {
+   "name": "Manga Story Belle Epine",
+   "group": "in_store",
+   "address": "Centre commercial Belle Epine, Thiais, ile de france, 94320, France",
+   "phone": "+33143244709",
+   "website": "https://www.instagram.com/mangastory.iledefrance/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "Manga Story Bordeaux",
@@ -3236,28 +3766,27 @@
    "checked_at": "2026-10-16T02:21:05Z"
   },
   {
+   "name": "Monde Meilleur",
+   "group": "in_store",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "7 Rue des Lois, 31000 Toulouse",
+   "phone": "09 62 15 06 70",
+   "website": "https://fr-fr.facebook.com/Monde-Meilleur-Toulouse-Jeux-Vid%C3%A9o-112978402188976/",
+   "checked_at": "2026-10-16T02:19:13Z"
+  },
+  {
    "name": "MULTIVERS",
    "group": "in_store",
-   "city": "Guérande",
-   "region": "Pays de la Loire",
+   "city": "Paris",
+   "region": "IDF",
    "address": "81 Rue du Charolais, Paris, Île-de-France, 75012, France",
    "phone": "+33612928018",
    "website": "https://www.instagram.com/multivers.paris/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:53Z"
-  },
-  {
-   "name": "Multivers",
-   "group": "in_store",
-   "city": "Paris",
-   "region": "IDF",
-   "address": "Ground Control, 81 Rue du Charolais, 75012 Paris",
-   "phone": "06 02 68 15 95",
-   "website": "https://www.facebook.com/multivers.paris",
-   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "My Happy Box",
@@ -3318,6 +3847,16 @@
    "checked_at": "2026-10-16T02:24:39Z"
   },
   {
+   "name": "Old School Game",
+   "group": "in_store",
+   "city": "Toulouse",
+   "region": "Occitanie",
+   "address": "11 Av. de l'U.R.S.S., 31400 Toulouse",
+   "phone": "09 52 57 98 60",
+   "website": "https://fr-fr.facebook.com/pages/Old-School-Game/124099381009685",
+   "checked_at": "2026-10-16T02:19:13Z"
+  },
+  {
    "name": "Once Upon A Book",
    "group": "in_store",
    "city": "Montpellier",
@@ -3326,15 +3865,23 @@
    "checked_at": "2026-10-16T02:26:22Z"
   },
   {
+   "name": "ONE MORE Montpellier",
+   "group": "in_store",
+   "address": "20 Bd Pasteur, Montpellier, Occitanie, 34000, France",
+   "phone": "+33761472621",
+   "website": "https://www.instagram.com/onemoremontpellier/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
    "name": "over game",
    "group": "in_store",
-   "city": "Brive-la-Gaillarde",
-   "region": "Nouvelle-Aquitaine",
    "address": "7 RUE DE LA HERSE, NOGENT LE ROTROU, CENTRE, 28400, France",
    "phone": "+330953918151",
    "website": "https://www.facebook.com/profile.php?id=100063749416001&sk=about",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:54Z"
@@ -3344,11 +3891,14 @@
    "group": "in_store",
    "city": "Saint-Maur-des-Fossés",
    "region": "Île-de-France",
-   "address": "114 Av. du Bac, 94210 Saint-Maur-des-Fossés, France, Saint-Maur-des-Fossés, Île-de-France, 94210",
+   "address": "114 Av. du Bac, Saint-Maur-des-Fossés, IDF, 94210, France",
+   "phone": "+33(0)658119335",
+   "website": "https://www.facebook.com/profile.php?id=61558926401727",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Parence SARL",
@@ -3400,15 +3950,18 @@
    "checked_at": "2026-10-16T02:23:34Z"
   },
   {
-   "name": "Pick a Pack TCG Store",
+   "name": "Pick A Pack TCG Store",
    "group": "in_store",
    "city": "Montpellier",
    "region": "Occitanie",
-   "address": "1 Rue Font du Pila Saint-Gély, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
+   "address": "1 Rue de la Fontaine du Pila Saint-Gély, Montpellier, Occitanie, 34000, France",
+   "phone": "0651690888",
+   "website": "https://www.instagram.com/pick_a_pack_tcg/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:07Z"
+   "checked_at": "2026-10-16T02:15:53Z"
   },
   {
    "name": "PIIKABOO - BOUTIQUE POKEMON ET CAFÉ LUDIQUE",
@@ -3416,7 +3969,6 @@
    "city": "Montpellier",
    "region": "Occitanie",
    "address": "Juste avant le gymnase de la Babote, 1 Rue Parlier, 34000 Montpellier",
-   "phone": "04 67 55 04 60",
    "website": "https://instagram.com/piikaboo.pokecenter",
    "checked_at": "2026-10-16T02:15:53Z"
   },
@@ -3485,6 +4037,17 @@
    "checked_at": "2026-10-16T02:23:48Z"
   },
   {
+   "name": "POP CORN",
+   "group": "in_store",
+   "address": "17 RUE DE L'EGLISE, Le Croisic, LOIRE ATLANTIQUE, 44490, France",
+   "phone": "+33759952018",
+   "website": "https://www.facebook.com/POPCORNLeCroisic/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "POP CULTURE DISTRIB",
    "group": "in_store",
    "city": "Poulx",
@@ -3496,15 +4059,24 @@
    "checked_at": "2026-10-16T02:20:52Z"
   },
   {
-   "name": "POSE TON PION",
+   "name": "POP MART - CHÂTELET",
    "group": "in_store",
-   "city": "Finhan",
-   "region": "Occitanie",
-   "address": "2 Pl. de la Mairie, 82700 Finhan, France, Finhan, Occitanie, 82700",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:06Z"
+   "city": "Paris",
+   "region": "IDF",
+   "address": "99 Rue Rambuteau, 75001 Paris",
+   "phone": "01 40 20 09 12",
+   "website": "https://www.instagram.com/popmartfr/",
+   "checked_at": "2026-10-16T02:15:53Z"
+  },
+  {
+   "name": "Presse Book",
+   "group": "in_store",
+   "city": "Rennes",
+   "region": "Bretagne",
+   "address": "38 Bis Rue de Châteaugiron, 35000 Rennes",
+   "phone": "02 99 41 77 11",
+   "website": "https://www.facebook.com/profile.php?id=100068622832244",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "QG des Avenjoueurs",
@@ -3562,16 +4134,14 @@
    "checked_at": "2026-10-16T02:20:38Z"
   },
   {
-   "name": "Re-Play Games",
+   "name": "Refuge BD",
    "group": "in_store",
-   "city": "Roanne",
-   "region": "Auvergne-Rhône-Alpes",
-   "address": "14 Rue de Cadore, 42300 Roanne, France, Roanne, Auvergne-Rhône-Alpes, 42300",
-   "phone": "+33 4 77 78 29 19",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "city": "Paris",
+   "region": "IDF",
+   "address": "40 Rue Faidherbe, 75011 Paris",
+   "phone": "01 71 37 99 18",
+   "website": "https://www.facebook.com/RefugeBd/",
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Retro-Games25",
@@ -3614,6 +4184,17 @@
    "checked_at": "2026-10-16T02:21:03Z"
   },
   {
+   "name": "shiba games",
+   "group": "in_store",
+   "address": "11 rue saint mathias, Barbezieux-Saint-Hilaire, Nouvelle Aquitaine, 16300, France",
+   "phone": "+330684512519",
+   "website": "https://www.facebook.com/people/Shiba-Games/61575674332168/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
+  },
+  {
    "name": "Shibuya Store",
    "group": "in_store",
    "city": "Bordeaux",
@@ -3636,6 +4217,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:53Z"
+  },
+  {
+   "name": "SNGAMES",
+   "group": "in_store",
+   "address": "10 Passage de la Madeleine, Gaillac, Occitanie, 81600, France",
+   "phone": "+330783104521",
+   "website": "https://www.facebook.com/profile.php?id=61578325567514",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:54Z"
   },
   {
    "name": "Snooop",
@@ -4108,16 +4700,13 @@
    "checked_at": "2026-10-16T02:21:57Z"
   },
   {
-   "name": "ALL4PLAY",
+   "name": "All4Play - Boutique et Bar à Jeux",
    "group": "unknown",
    "city": "Toulouse",
    "region": "Occitanie",
-   "address": "203 Av. de Grande Bretagne, 31300 Toulouse, France, Toulouse, Occitanie, 31300",
-   "phone": "0564721700",
+   "address": "203 Av. de Grande Bretagne, 31300 Toulouse",
+   "phone": "05 64 72 17 00",
    "website": "https://all4play.fr/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
    "checked_at": "2026-10-16T21:47:06Z"
   },
   {
@@ -4682,6 +5271,17 @@
    "checked_at": "2026-10-16T02:16:24Z"
   },
   {
+   "name": "bulle de jeux (Chelles)",
+   "group": "unknown",
+   "address": "43-45 boulevard chilperic, Chelles, 77, 77500, France",
+   "phone": "339 70 96 40 27",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Bulle de Jeux (Meaux)",
    "group": "unknown",
    "address": "5, Rue Saint-Etienne, Meaux, 77, 77100, France",
@@ -4691,6 +5291,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:17Z"
+  },
+  {
+   "name": "Bulle de Jeux (Melun)",
+   "group": "unknown",
+   "address": "5 RUE DE BOISSETTES, Melun, 75, 77000, France",
+   "phone": "+33 (0) 984160959",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "Bulles de Jeux Melun",
@@ -4828,24 +5439,29 @@
    "group": "unknown",
    "city": "Montpellier",
    "region": "Occitanie",
-   "address": "21 Rue des Étuves, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
-   "phone": "+33 4 67 55 73 48",
-   "website": "https://cartapapa.fr/",
+   "address": "21 rue des Etuves, Montpellier, SUD, 34000, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "CartaRennes",
    "group": "unknown",
    "city": "Rennes",
    "region": "Bretagne",
-   "address": "23 Rue d'Antrain, 35000 Rennes",
-   "phone": "02 99 63 56 63",
-   "website": "https://www.cartarennes.fr/",
-   "buylist_url": "https://www.cartarennes.fr/rachat-de-cartes/",
-   "checked_at": "2026-10-16T21:47:18Z"
+   "address": "23 RUE D'ANTRAIN, RENNES, 01, 35700, France",
+   "phone": "133 02 99 63 56 63",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Carta’jeu",
@@ -5144,6 +5760,17 @@
    "checked_at": "2026-10-16T02:23:09Z"
   },
   {
+   "name": "COMPTOIR DES ARPENTEURS",
+   "group": "unknown",
+   "address": "331 rue Elie Gruyelle, HENIN-BEAUMONT, Pas de Calais, 62110, France",
+   "phone": "+330778140125",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:07Z"
+  },
+  {
    "name": "Contemporainement",
    "group": "unknown",
    "city": "Montpellier",
@@ -5277,6 +5904,18 @@
    "checked_at": "2026-10-16T02:18:23Z"
   },
   {
+   "name": "Difintel Micro Bordeaux",
+   "group": "unknown",
+   "address": "25 rue Judaique, Bordeaux, OUE, 33000, France",
+   "phone": "1+33 (0) 556790552",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "DIOIB",
    "group": "unknown",
    "city": "Paris",
@@ -5304,6 +5943,17 @@
    "phone": "07 49 57 40 71",
    "website": "https://www.nippontcg.fr/",
    "checked_at": "2026-10-16T02:25:43Z"
+  },
+  {
+   "name": "Dooz Escape Game",
+   "group": "unknown",
+   "address": "19 rue des magasins, 1er étage, Strasbourg, 67, 67000, France",
+   "phone": "+33(0) 680136317",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "DOOZ ESCAPE GAME STRASBOURG",
@@ -5341,6 +5991,18 @@
    "checked_at": "2026-10-16T02:24:53Z"
   },
   {
+   "name": "Dynamite Games - Montaigu",
+   "group": "unknown",
+   "address": "57 bis rue Georges Clemenceau, Montaigu, 85, 85600, France",
+   "phone": "1(+33) 661033288",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "DéclicLudik",
    "group": "unknown",
    "address": "8 rue Brunet-Lecomte, Bourgoin-Jallieu, EST, 38300, France",
@@ -5365,14 +6027,11 @@
   {
    "name": "Dés, Rires & des Jeux",
    "group": "unknown",
-   "city": "Toulon",
-   "region": "Provence-Alpes-Côte d'Azur",
    "address": "7, rue Joël le Theule, Montigny-le-Bretonneux, 75, 78180, France",
    "phone": "0699833432",
    "website": "https://linktr.ee/desriresdesjeux",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:11Z"
@@ -5514,17 +6173,41 @@
    "checked_at": "2026-10-16T02:26:29Z"
   },
   {
+   "name": "EXCALIBUR - Magasin de Jeux de Société - Montpellier",
+   "group": "unknown",
+   "city": "Montpellier",
+   "region": "Occitanie",
+   "address": "7 Rue de l'Ancien Courrier, 34000 Montpellier",
+   "phone": "04 67 60 81 33",
+   "website": "https://www.excalibur34.fr/",
+   "checked_at": "2026-10-16T21:46:57Z"
+  },
+  {
    "name": "Excalibur Montpellier",
    "group": "unknown",
    "city": "Montpellier",
    "region": "Occitanie",
-   "address": "7 Bis Rue de l'Ancien Courrier, 34000 Montpellier, France, Montpellier, Occitanie, 34000",
-   "phone": "+334 67 60 81 33",
-   "website": "https://www.excalibur34.fr/",
+   "address": "7 Bis Rue De L'ancien Courrier, Montpellier, SUD, 34000, France",
+   "phone": "1+33 (0) 467608133",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
+   "name": "Exploration Ludique",
+   "group": "unknown",
+   "address": "10 rue Sabaterie, Castres, 81, 81100, France",
+   "phone": "133563613702",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "FAIRPLAY",
@@ -5625,6 +6308,17 @@
    "checked_at": "2026-10-16T02:20:11Z"
   },
   {
+   "name": "Forges de Lumière",
+   "group": "unknown",
+   "address": "1 Place Clémence Isaure, Castanet Tolosan, SUD, 31320, France",
+   "phone": "+33 (0) 561810414",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Fragments TCG (by WZX Vault)",
    "group": "unknown",
    "address": "1900 RDN7, 13560 Sénas, Alleins, Bouches-du-Rhône, 13560, France",
@@ -5686,10 +6380,27 @@
    "group": "unknown",
    "city": "La Chapelle-sur-Erdre",
    "region": "Pays de la Loire",
-   "address": "Centre Commercial Viv'Erdre, 44240 La Chapelle-sur-Erdre",
-   "phone": "02 51 12 36 61",
-   "website": "https://galaxiegames.fr/",
-   "checked_at": "2026-10-16T21:47:10Z"
+   "address": "Centre commercial Viv'Erdre, La Chapelle-sur-Erdre, 42, 44240, France",
+   "phone": "1+33 (0)251123661",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
+   "name": "Game Cash",
+   "group": "unknown",
+   "city": "Saint-Laurent-du-Var",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "5 rue de l'Arche Sèche, Nantes, OUE, 44000, France",
+   "phone": "3302-52-10-05-61",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:07Z"
   },
   {
    "name": "GAME JUTSU Montpellier",
@@ -5740,8 +6451,8 @@
    "region": "Pays de la Loire",
    "address": "5 Rue de l'Arche Sèche, 44000 Nantes",
    "phone": "02 52 10 05 61",
-   "website": "https://www.gamecash.fr/",
-   "checked_at": "2026-10-16T21:47:08Z"
+   "website": "https://www.gamecash.fr/magasin-gamecash-lille-gambetta-m34.html",
+   "checked_at": "2026-10-16T21:47:17Z"
   },
   {
    "name": "Gamecash",
@@ -5750,8 +6461,8 @@
    "region": "Grand Est",
    "address": "34 Rue des Tuileries, 67460 Souffelweyersheim",
    "phone": "03 65 67 49 02",
-   "website": "https://www.gamecash.fr/magasin-gamecash-strasbourg-m189.html",
-   "checked_at": "2026-10-16T21:47:12Z"
+   "website": "https://www.gamecash.fr/magasin-gamecash-lille-gambetta-m34.html",
+   "checked_at": "2026-10-16T21:47:17Z"
   },
   {
    "name": "Gamecash",
@@ -5760,7 +6471,7 @@
    "region": "Occitanie",
    "address": "19 Rue de l'Ancien Courrier, 34000 Montpellier",
    "phone": "04 58 28 60 79",
-   "website": "https://www.gamecash.fr/magasin-gamecash-montpellier-m201.html",
+   "website": "https://www.gamecash.fr/magasin-gamecash-lille-gambetta-m34.html",
    "checked_at": "2026-10-16T21:47:17Z"
   },
   {
@@ -5816,6 +6527,18 @@
    "phone": "04 26 00 89 35",
    "website": "https://www.vinted.fr/member/97041515-geekandtoys",
    "checked_at": "2026-10-16T02:22:54Z"
+  },
+  {
+   "name": "Geek Factory (Matignon)",
+   "group": "unknown",
+   "address": "11 Place du Général de Gaulle, Matignon, 22, 22550, France",
+   "phone": "133 02 96 83 44 18",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Geek Factory - Escape Game",
@@ -5954,6 +6677,18 @@
    "checked_at": "2026-10-16T02:16:09Z"
   },
   {
+   "name": "Guyajeux Salon",
+   "group": "unknown",
+   "address": "239, Boulevard Jean Jaurès, Salon de Provence, 13, 13300, France",
+   "phone": "1(+33) 659649542",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "Gylbret CardsAddict",
    "group": "unknown",
    "city": "L'Union",
@@ -6035,13 +6770,15 @@
    "group": "unknown",
    "city": "Lille",
    "region": "Hauts-de-France",
-   "address": "31 Rue Edouard Delesalle, 59800 Lille, France, Lille, Hauts-de-France, 59800",
-   "phone": "+33 3 20 39 19 08",
-   "website": "https://www.hobby-max.fr/",
+   "address": "31 Rue Edouard Delesalle, Lille, 59, 59000, France",
+   "phone": "1+33 (0) 320391908",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Hobby one",
@@ -6149,6 +6886,18 @@
    "checked_at": "2026-10-16T02:20:23Z"
   },
   {
+   "name": "Je Console Sarreguemines",
+   "group": "unknown",
+   "address": "7 Rue des Généraux Crémer, Sarreguemines, EST, 57200, France",
+   "phone": "1+33 (0) 387286851",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "Je Joue Jeux Partage",
    "group": "unknown",
    "city": "La Penne-sur-Huveaune",
@@ -6186,6 +6935,18 @@
    "checked_at": "2026-10-16T02:18:27Z"
   },
   {
+   "name": "Jeux Barjo Bordeaux",
+   "group": "unknown",
+   "address": "12 rue Saint James, BORDEAUX, OUE, 33000, France",
+   "phone": "1+33 (0) 556510021",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "Jeux Descartes",
    "group": "unknown",
    "city": "Bordeaux",
@@ -6217,6 +6978,30 @@
    "phone": "04 78 42 12 12",
    "website": "https://www.jeuxvideopluslyon.fr/",
    "checked_at": "2026-10-16T02:23:02Z"
+  },
+  {
+   "name": "JEUxDREDI",
+   "group": "unknown",
+   "address": "24 avenue Alphonse Denis, Hyères, 83, 83400, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
+   "name": "JEUXVIDEOPLUS",
+   "group": "unknown",
+   "address": "8 place du Martroi, Pithiviers, 42, 45300, France",
+   "phone": "1(+33) 238320170",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "JM Cards - Boutique en ligne Pokémon, Yu-Gi-Oh!, One Piece",
@@ -6481,6 +7266,17 @@
    "checked_at": "2026-10-16T02:22:45Z"
   },
   {
+   "name": "L'Arcade",
+   "group": "unknown",
+   "address": "106 Boulevard Jean Moulin, Puget sur Argens, 83, 83480, France",
+   "phone": "+33 (0) 967368516",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "L'art Du Jeu",
    "group": "unknown",
    "city": "Arras",
@@ -6495,6 +7291,18 @@
    "checked_at": "2026-10-16T02:18:57Z"
   },
   {
+   "name": "L'arène du fou",
+   "group": "unknown",
+   "address": "18 BV Gambetta, Nîmes, 30, 30000, France",
+   "phone": "1+33(0) 466844389",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "L'arène du phenix",
    "group": "unknown",
    "city": "Antibes",
@@ -6503,6 +7311,20 @@
    "phone": "07 60 57 73 30",
    "website": "https://www.areneduphenix.fr/",
    "checked_at": "2026-10-16T02:24:39Z"
+  },
+  {
+   "name": "L'Atanière",
+   "group": "unknown",
+   "city": "Toulon",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "4 boulevard Pierre Toesca, Toulon, SUD, 83000, France",
+   "phone": "+33(0) 494290541",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "l'Echoppe des Jeux",
@@ -6580,10 +7402,13 @@
    "group": "unknown",
    "city": "Nort-sur-Erdre",
    "region": "Pays de la Loire",
-   "address": "4 Rue de la Paix, 44390 Nort-sur-Erdre",
-   "phone": "02 53 35 04 23",
-   "website": "https://www.laboutiquefantastik.com",
-   "checked_at": "2026-10-16T21:47:10Z"
+   "address": "4 rue de la paix, Nort-sur-Erdre, Pays de Loire, 44390, France",
+   "phone": "+330608637441",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:07Z"
   },
   {
    "name": "La Boîte à Jeux",
@@ -6609,6 +7434,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:21:03Z"
+  },
+  {
+   "name": "La Cabane à Jeux",
+   "group": "unknown",
+   "address": "2 rue Francois Legallais, La teste de buch, 33, 33260, France",
+   "phone": "1+33 (0) 557524892",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "La cabane étoilée",
@@ -6718,6 +7555,17 @@
    "checked_at": "2026-10-16T02:25:19Z"
   },
   {
+   "name": "La Communauté des Jeux",
+   "group": "unknown",
+   "address": "22 Avenue Jules Ravat, Voiron, EST, 38500, France",
+   "phone": "+33 (0) 476652894",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "LA COMPAGNIE DES JEUX",
    "group": "unknown",
    "address": "169 Espl. Patrice Chéreau, Nanterre, Île-de-France, 92000, France",
@@ -6727,6 +7575,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:15:57Z"
+  },
+  {
+   "name": "La Contrée de Thelvyn",
+   "group": "unknown",
+   "address": "17 Rue de Vaulx, Beugny, 62, 62124, France",
+   "phone": "+33(0) 651566871",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "La crique aux jeux",
@@ -6904,6 +7763,18 @@
    "checked_at": "2026-10-16T02:20:46Z"
   },
   {
+   "name": "la malle a jeux",
+   "group": "unknown",
+   "address": "52 rue d'anjou, St Nazaire, OUE, 44600, France",
+   "phone": "1+33 (0) 240625036",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "La Manufacture Des Jeux",
    "group": "unknown",
    "city": "Vénissieux",
@@ -6940,6 +7811,18 @@
    "checked_at": "2026-10-16T02:20:04Z"
   },
   {
+   "name": "la Tanière du Jeu",
+   "group": "unknown",
+   "address": "3 rue des Halles, Les Herbiers, 85, 85500, France",
+   "phone": "1+33 (0) 251912105",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "La Tartine Ludique",
    "group": "unknown",
    "city": "Sainte-Geneviève-des-Bois",
@@ -6958,13 +7841,26 @@
    "group": "unknown",
    "city": "Saint-Étienne",
    "region": "Auvergne-Rhône-Alpes",
-   "address": "39 Rue du Onze Novembre, 42100 Saint-Étienne, France, Saint-Étienne, Auvergne-Rhône-Alpes, 42100",
-   "phone": "0695069488",
-   "website": "https://event.augobelinfarci.com/",
+   "address": "39, rue du 11 novembre, St Etienne, EST, 42100, France",
+   "phone": "+33(0) 477325332",
+   "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
+   "name": "LA TRICHE - BOUTIQUE, BAR A JEUX",
+   "group": "unknown",
+   "address": "2 Route de Pessac, Gradignan, NC, 33170, France",
+   "phone": "133 05 35 38 60 81",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "LaBD2collec",
@@ -7113,19 +8009,6 @@
    "checked_at": "2026-10-16T02:23:48Z"
   },
   {
-   "name": "Le Coin-Coin Ludique",
-   "group": "unknown",
-   "city": "Saint-Maximin",
-   "region": "Hauts-de-France",
-   "address": "Rue Albert Einstein, 60740 Saint-Maximin, France, Saint-Maximin, Hauts-de-France, 60740",
-   "phone": "+33 3 44 26 37 40",
-   "website": "https://lecoincoinludique.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:46:57Z"
-  },
-  {
    "name": "Le Cube à Comics",
    "group": "unknown",
    "city": "Saint-Ouen-sur-Seine",
@@ -7169,6 +8052,20 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:19:40Z"
+  },
+  {
+   "name": "Le Délire",
+   "group": "unknown",
+   "city": "Compiègne",
+   "region": "Hauts-de-France",
+   "address": "84 rue de Paris, Compiègne, 75, 60200, France",
+   "phone": "333 60 45 53 50",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "Le Grand Carrousel",
@@ -7257,17 +8154,18 @@
    "checked_at": "2026-10-16T02:23:58Z"
   },
   {
-   "name": "Le Petit Joueur",
+   "name": "Le Petit joueur",
    "group": "unknown",
    "city": "Mandelieu-la-Napoule",
    "region": "Provence-Alpes-Côte d'Azur",
-   "address": "225 Av. de Saint-Exupéry, 06211 Mandelieu-la-Napoule, France, Mandelieu-la-Napoule, Provence-Alpes-Côte d'Azur, 06211",
-   "phone": "06 24 71 72 72",
-   "website": "https://lepetitjoueur.fr/",
+   "address": "225B avenue de St Exupery, Mandelieu, 06, 06210, France",
+   "phone": "+33 (0) 624717272",
+   "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:05Z"
+   "checked_at": "2026-10-16T02:15:43Z"
   },
   {
    "name": "Le petit Souk Strasbourg",
@@ -7604,6 +8502,17 @@
    "checked_at": "2026-10-16T02:20:11Z"
   },
   {
+   "name": "Les Fous du Roy",
+   "group": "unknown",
+   "address": "31 rue du Général Leclerc, Versailles, 75, 78000, France",
+   "phone": "+33 (0) 139533034",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Les Gentlemen du Jeu - Pigalle",
    "group": "unknown",
    "city": "Paris",
@@ -7698,6 +8607,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:24Z"
+  },
+  {
+   "name": "Les Troubajoueurs",
+   "group": "unknown",
+   "address": "37 rue Valentin Bernard, Bourg, 33, 33710, France",
+   "phone": "1+33 (0) 603243212",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Lestrange Market",
@@ -7871,6 +8792,18 @@
    "phone": "05 61 21 64 44",
    "website": "https://www.boutique-bedecine.fr/",
    "checked_at": "2026-10-16T02:24:13Z"
+  },
+  {
+   "name": "Life Is a Game",
+   "group": "unknown",
+   "address": "91 Rue nationale, Marcq-en-Barœul, Haut-de-France, 59700, France",
+   "phone": "+330750255156",
+   "website": "https://linktr.ee/desriresdesjeux",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:11Z"
   },
   {
    "name": "LIG - Life Is a game",
@@ -8069,19 +9002,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:18:38Z"
-  },
-  {
-   "name": "Ludotrotter Nantes - Orvault",
-   "group": "unknown",
-   "city": "Orvault",
-   "region": "Pays de la Loire",
-   "address": "11 Rue du Printemps, 44700 Orvault, France, Orvault, Pays de la Loire, 44700",
-   "phone": "02 28 91 03 25",
-   "website": "https://nantes.ludotrotter.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:06Z"
   },
   {
    "name": "Ludotrotter Salon de Provence",
@@ -8308,8 +9228,8 @@
   {
    "name": "Meisia",
    "group": "unknown",
-   "city": "Toulon",
-   "region": "Provence-Alpes-Côte d'Azur",
+   "city": "Paris",
+   "region": "Île-de-France",
    "address": "84 Rue René Boulanger, Paris, 75, 75010, France",
    "phone": "+33 (0) 140184852",
    "website": "https://magic.wizards.com/en",
@@ -8948,6 +9868,17 @@
    "checked_at": "2026-10-16T02:20:29Z"
   },
   {
+   "name": "Osakatoys",
+   "group": "unknown",
+   "address": "1 rue derriere la tour, Valenciennes, EST, 59300, France",
+   "phone": "+33(0) 327238144",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "OSMO CARDS",
    "group": "unknown",
    "city": "Ploeren",
@@ -9097,13 +10028,15 @@
    "group": "unknown",
    "city": "Strasbourg",
    "region": "Grand Est",
-   "address": "12 Rue de la Grange, 67000 Strasbourg, France, Strasbourg, Grand Est, 67000",
-   "phone": "+33 3 88 32 65 35",
-   "website": "https://www.philibertnet.com/en/?fbclid=IwAR1nT6Biz4sJeeBkdQ6uGBWITQFTFkisYhs8_U30S0glyY6qGCjCJaGns2s",
+   "address": "12 rue Grange, Strasbourg, EST, 67000, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "PinModzShop",
@@ -9414,6 +10347,20 @@
    "checked_at": "2026-10-16T02:22:11Z"
   },
   {
+   "name": "Pose Ton Pion",
+   "group": "unknown",
+   "city": "Finhan",
+   "region": "Occitanie",
+   "address": "2, place de la Mairie, Montech, SUD, 82700, France",
+   "phone": "+339 81 02 75 28",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
    "name": "Premier Organizer - Fanfinity",
    "group": "unknown",
    "address": "11 Tulpenstraat, Nazareth-De Pinte, Vlaanderen, 9810, BE",
@@ -9467,8 +10414,6 @@
   {
    "name": "Queen's Garden",
    "group": "unknown",
-   "city": "Saint-Laurent-du-Var",
-   "region": "Provence-Alpes-Côte d'Azur",
    "address": "14 rue André Bonnenfant, Saint-Germain-en-Laye, Yvelines, 78100, France",
    "phone": "+330175796807",
    "website": "https://wpn.wizards.com/en",
@@ -9488,6 +10433,21 @@
    "checked_at": "2026-10-16T02:23:57Z"
   },
   {
+   "name": "Re-Play Games",
+   "group": "unknown",
+   "city": "Roanne",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "14 rue de Cadore, Roanne, 42, 42300, France",
+   "phone": "1+33 (0) 477782919",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
+  },
+  {
    "name": "Rebel Forge",
    "group": "unknown",
    "city": "Aubagne",
@@ -9502,18 +10462,19 @@
    "checked_at": "2026-10-16T02:16:56Z"
   },
   {
-   "name": "RELIC",
+   "name": "Relic",
    "group": "unknown",
    "city": "Toulouse",
    "region": "Occitanie",
-   "address": "32 Gd Rue Saint-Michel, 31400 Toulouse, France, Toulouse, Occitanie, 31400",
-   "phone": "+33981755463",
-   "website": "https://www.relictcg.com/",
-   "buylist_url": "https://www.relictcg.com/pages/rachat-cartes",
+   "address": "61 grande rue St Michel, Toulouse, 31, 31400, France",
+   "phone": "1+33 (0) 981751278",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:46:57Z"
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Repere Geek",
@@ -9607,6 +10568,18 @@
    "phone": "03 88 51 59 31",
    "website": "https://rocket-shop.fr/",
    "checked_at": "2026-10-16T02:25:28Z"
+  },
+  {
+   "name": "Role Games",
+   "group": "unknown",
+   "address": "32 rue barbaroux, marseille, SUD, 13001, France",
+   "phone": "1+33 (0) 491421029",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Rouge et Noir",
@@ -9711,14 +10684,11 @@
   {
    "name": "Salle de billard - La noire blanche",
    "group": "unknown",
-   "city": "Lyon",
-   "region": "Auvergne-Rhône-Alpes",
    "address": "111 rue carnot, Vernon, 59, 27200, France",
    "phone": "1+33 (0) 232216229",
    "website": "https://x.com/",
    "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:16:33Z"
@@ -9761,6 +10731,21 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:20:34Z"
+  },
+  {
+   "name": "Seiza",
+   "group": "unknown",
+   "city": "Toulon",
+   "region": "Provence-Alpes-Côte d'Azur",
+   "address": "3B Rue Henri Seillon, Toulon, Provence-Alpes-Côte d'Azur, 83000, France",
+   "phone": "33609974691",
+   "website": "https://linktr.ee/desriresdesjeux",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:11Z"
   },
   {
    "name": "SFG Grading",
@@ -9991,6 +10976,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:17:48Z"
+  },
+  {
+   "name": "Sortileges Nantes",
+   "group": "unknown",
+   "address": "1 rue des 3 croissants, Nantes, OUE, 44000, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Sortileges Roche sur Yon",
@@ -10401,6 +11398,17 @@
    "checked_at": "2026-10-16T02:16:11Z"
   },
   {
+   "name": "Toi Moi Jeux",
+   "group": "unknown",
+   "address": "14 rue du maréchal Joffre, Castelnau de Medoc, Gironde, 33480, France",
+   "phone": "+33665001644",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:07Z"
+  },
+  {
    "name": "Tonton Renard",
    "group": "unknown",
    "city": "Vendôme",
@@ -10424,6 +11432,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:17:57Z"
+  },
+  {
+   "name": "Toy Toy",
+   "group": "unknown",
+   "address": "5 avenue de Scissy, Cancale, Bretagne, 35260, France",
+   "phone": "+330684710282",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:07Z"
   },
   {
    "name": "Toypad - Figurines | Jeux Vidéo | Retrogaming",
@@ -10464,6 +11483,21 @@
    "phone": "02 99 36 36 36",
    "website": "https://www.troc.com/fr/resultats-recherche?magasin=174&departement=35&region=6&pays=58",
    "checked_at": "2026-10-16T02:27:48Z"
+  },
+  {
+   "name": "Trollune",
+   "group": "unknown",
+   "city": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "address": "25 rue Sebastien Gryphe, Lyon, EST, 69007, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Troves — Ouvrez des repacks TCG Pokémon en ligne et recevez vos cartes gradées chez vous.",
@@ -10554,10 +11588,14 @@
    "group": "unknown",
    "city": "Toulouse",
    "region": "Occitanie",
-   "address": "36 Rue Sainte-Ursule, 31000 Toulouse",
-   "phone": "05 62 30 84 74",
-   "website": "https://www.univers-parallele.fr/",
-   "checked_at": "2026-10-16T21:47:07Z"
+   "address": "36 rue sainte Ursule, Toulouse, SUD, 31000, France",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:16:33Z"
   },
   {
    "name": "Variantes",
@@ -10584,12 +11622,23 @@
    "group": "unknown",
    "city": "Strasbourg",
    "region": "Grand Est",
-   "address": "16 Rue de la Division Leclerc, 67000 Strasbourg, France, Strasbourg, Grand Est, 67000",
-   "phone": "+33 9 51 42 75 87",
-   "website": "https://www.ventdivin.com/",
+   "address": "16 rue de la Division Leclerc, Strasbourg, EST, 67000, France",
+   "phone": "+33 (0) 951427587",
+   "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T02:15:43Z"
+  },
+  {
+   "name": "Vent Divin - Librairie Manga et Jeux de Société",
+   "group": "unknown",
+   "city": "Strasbourg",
+   "region": "Grand Est",
+   "address": "16 Rue de la Division Leclerc, 67000 Strasbourg",
+   "phone": "09 51 42 75 87",
+   "website": "https://www.ventdivin.com/",
    "checked_at": "2026-10-16T21:46:57Z"
   },
   {

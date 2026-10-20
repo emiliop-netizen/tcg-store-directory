@@ -1,8 +1,8 @@
 {
  "country": "AE",
  "currency": "AED",
- "updated": "2026-10-16",
- "store_count": 240,
+ "updated": "2026-10-20",
+ "store_count": 245,
  "stores": [
   {
    "name": "Card Oasis",
@@ -63,8 +63,8 @@
    "region": "دبي",
    "address": "Town Center, Jumeirah, Ground Floor - شارع جميرا - جميرا ١ - جميرا - دبي",
    "phone": "050 335 0283",
-   "website": "https://www.backtogames.com/?srsltid=AfmBOoqfWXGHVvWEH894kldnLIeXZNoPxZj7jblPsWeqw-zND0x4ZGWU",
-   "checked_at": "2026-10-17T05:43:50Z"
+   "website": "https://www.backtogames.com/",
+   "checked_at": "2026-10-17T05:44:35Z"
   },
   {
    "name": "Back to Games - Town Centre Jumeirah",
@@ -77,7 +77,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:43:44Z"
+   "checked_at": "2026-10-17T05:44:35Z"
   },
   {
    "name": "Comicave Toys and Games Trading LLC",
@@ -130,7 +130,7 @@
    "address": "Unit no. FF116, First Floor, Dalma Mall - مدينة أبوظبى الصناعية - ايكاد 1 - أبو ظبي",
    "phone": "056 536 4840",
    "website": "https://www.geekay.com/",
-   "checked_at": "2026-10-17T05:45:07Z"
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "Geekay - Dubai Hills Mall",
@@ -140,7 +140,7 @@
    "address": "Shop no. FF-160, 1st Floor, Dubai Hills Mall - حدائق الشيخ محمد بن راشد - دبي",
    "phone": "056 404 0660",
    "website": "https://www.geekay.com/",
-   "checked_at": "2026-10-17T05:44:25Z"
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "GEEKAY MIRDIFF CITY CENTRE - GMC",
@@ -149,11 +149,11 @@
    "region": "Dubai",
    "address": "F103, First Floor, Mirdiff City Centre - Sheikh Mohammed Bin Zayed Rd, DUBAI, UAE, 0000, United Arab Emirates",
    "phone": "+971565337953",
-   "website": "https://www.geekay.com/?srsltid=AfmBOopNf69ouhb8EAx486qvxJho99KS4yuVyJf1IsSXP5V28-GOXMOy",
+   "website": "https://www.geekay.com/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:43:44Z"
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "Hamleys | Dubai Mall",
@@ -525,6 +525,16 @@
    "checked_at": "2026-10-17T05:44:03Z"
   },
   {
+   "name": "Comic Stop",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "Shop#21, Ground Floor, Dar Al Wasal - Shopping Center - Al Wasl Rd - Al Wasl - Jumeirah - Dubai",
+   "phone": "050 452 7141",
+   "website": "http://facebook.com/comicstopme",
+   "checked_at": "2026-10-17T05:44:34Z"
+  },
+  {
    "name": "Daftar General Trading L. L. C",
    "group": "in_store",
    "city": "Ajman",
@@ -578,6 +588,16 @@
    "checked_at": "2026-10-17T05:45:32Z"
   },
   {
+   "name": "Ever Fine Trading Establishment",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "Old Jumbo Building - Al Arouba St - Al Mareija - Hay Al Gharb - Sharjah",
+   "phone": "06 743 6275",
+   "website": "https://www.instagram.com/everfinetrading/",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
    "name": "Exclusive Electromechanical Trading",
    "group": "in_store",
    "city": "Abu Dhabi",
@@ -622,13 +642,26 @@
    "checked_at": "2026-10-17T05:44:26Z"
   },
   {
+   "name": "GAMERS KINGDOM COMPUTERS TRADING",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "M12 Al Miliar St - Mohamed Bin Zayed City - ME12 - Abu Dhabi",
+   "phone": "058 266 5148",
+   "website": "https://www.instagram.com/gamers.kingdm?igsh=aGQwZWRzeXIwOTFk",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
    "name": "Gaming Tech Hub General Trading LLC - SPC",
    "group": "in_store",
    "city": "Abu Dhabi",
    "region": "Abu Dhabi",
-   "address": "Al Ain Tower - 3rd Floor Office - 303 Hamdan Bin Mohammed St - Al Danah - E10 - Abu Dhabi",
-   "phone": "02 565 4049",
-   "website": "https://www.facebook.com/profile.php?id=61580542233010",
+   "address": "Al Ain Tower - 3rd Floor Office - 303 Hamdan Bin Mohammed St - Al Danah - Zone 1, Abu Dhabi, Abu Dhabi, 00000, United Arab Emirates",
+   "phone": "+97125657956",
+   "website": "https://www.facebook.com/people/Gaming-Tech-Hub-General-Trading-SPC/61580542233010/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-17T05:44:34Z"
   },
   {
@@ -693,6 +726,16 @@
    "checked_at": "2026-10-17T05:45:27Z"
   },
   {
+   "name": "Golden line electronic",
+   "group": "in_store",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
+   "address": "hamed Center m2 floor - Electra street - Al Danah - Zone 1 - Abu Dhabi",
+   "phone": "050 783 2875",
+   "website": "https://www.instagram.com/arif_khan_aia?igsh=MXYxMG90MWdtbzBmNA%3D%3D&utm_source=qr",
+   "checked_at": "2026-10-17T05:45:25Z"
+  },
+  {
    "name": "Golden Noor General Trading L.L.C(Du Dealer, Etisalat Dealer)",
    "group": "in_store",
    "city": "Dubai",
@@ -713,25 +756,15 @@
   {
    "name": "GTECH TCG HUB GENERAL TRADING LLC",
    "group": "in_store",
-   "city": "Dubai",
-   "region": "Dubai",
+   "city": "Abu Dhabi",
+   "region": "Abu Dhabi",
    "address": "Mezzanine floor, Wadi az Zarqah St - Al Danah - E11, Abu Dhabi, Abu Dhabi, 0000, United Arab Emirates",
    "phone": "+971542452050",
    "website": "https://www.facebook.com/gtechhub.tcg/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:43:49Z"
-  },
-  {
-   "name": "GTECH TCG HUB General Trading LLC",
-   "group": "in_store",
-   "city": "Abu Dhabi",
-   "region": "Abu Dhabi",
-   "address": "Wadi az Zarqa St - Al Danah - E11 - Abu Dhabi",
-   "phone": "02 565 4049",
-   "website": "https://www.tiktok.com/@gtechhubgeneraltrading",
-   "checked_at": "2026-10-17T05:44:38Z"
+   "checked_at": "2026-10-17T05:44:34Z"
   },
   {
    "name": "Hamdan Shopping Center",
@@ -745,15 +778,13 @@
   {
    "name": "HIVE BOARDGAME CAFE",
    "group": "in_store",
-   "city": "Dubai",
-   "region": "Dubai",
    "address": "GR-03 ONYX TOWER 1, THE GREENS,, DUBAI, DUBAI, 00000, Dubai",
    "phone": "+971559665458",
    "website": "https://www.instagram.com/hiveboardgamecafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:43:44Z"
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "INTEX CHURIDAR TRADING (LLC)",
@@ -789,6 +820,16 @@
    "address": "Hamed Center - Shop #39, M1 - Electra St - Al Danah - Zone 1 - Abu Dhabi",
    "phone": "055 848 0120",
    "checked_at": "2026-10-17T05:44:46Z"
+  },
+  {
+   "name": "Massive Middle East",
+   "group": "in_store",
+   "city": "Dubai",
+   "region": "Dubai",
+   "address": "9a street - Al Qouz Ind.first - Al Quoz - Dubai",
+   "phone": "054 450 9090",
+   "website": "https://www.instagram.com/massive.middleeast?igsh=MWtvazFzbHk2bXpheQ==&utm_source=qr",
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "Medi Next General Trading LLC",
@@ -844,7 +885,7 @@
    "address": "Madinat Zayed shopping mall - Al Danah - Zone 1 - Abu Dhabi",
    "phone": "050 511 5128",
    "website": "https://www.instagram.com/Reauh.ae",
-   "checked_at": "2026-10-17T05:44:41Z"
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "Moon and light essential readymade trading LLC Dubai",
@@ -1183,7 +1224,7 @@
    "region": "Dubai",
    "address": "111 Baniyas Rd - Al Sabkha - Dubai",
    "phone": "054 400 0406",
-   "checked_at": "2026-10-17T05:44:18Z"
+   "checked_at": "2026-10-17T05:45:39Z"
   },
   {
    "name": "عالم المخترعات للألعاب الفيديو ( جابر )",
@@ -1192,7 +1233,17 @@
    "region": "Abu Dhabi",
    "address": "F9P7+36C - Al Danah - Zone 1 - Abu Dhabi",
    "phone": "055 380 5680",
-   "checked_at": "2026-10-17T05:45:23Z"
+   "checked_at": "2026-10-17T05:45:39Z"
+  },
+  {
+   "name": "قرطاسية و مكتبة واحة التميز",
+   "group": "in_store",
+   "city": "Sharjah",
+   "region": "Sharjah",
+   "address": "6GWX+CR8 - Al Badee Suburb - Hay Hoshi - Sharjah",
+   "phone": "058 149 3896",
+   "website": "https://www.instagram.com/waha_stationary/",
+   "checked_at": "2026-10-17T05:45:25Z"
   },
   {
    "name": "Collectors Bazaar",
@@ -1400,7 +1451,7 @@
    "address": "G64&G65, Bay Avenue - G63 - Business Bay - Dubai",
    "phone": "04 554 4816",
    "website": "https://funzone.ae/",
-   "checked_at": "2026-10-17T05:44:05Z"
+   "checked_at": "2026-10-17T05:44:39Z"
   },
   {
    "name": "Book Corner & Funzone.ae",
@@ -1420,7 +1471,7 @@
    "address": "Fashion Parking - Dubai Mall - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai",
    "phone": "04 434 0111",
    "website": "https://uae.kinokuniya.com/",
-   "checked_at": "2026-10-17T05:43:55Z"
+   "checked_at": "2026-10-17T05:45:23Z"
   },
   {
    "name": "Butterfly Wishes",
@@ -2150,7 +2201,7 @@
    "address": "Gate Avenue - Zaa'beel Second - DIFC - Dubai",
    "phone": "056 571 5088",
    "website": "https://littlethingsme.com/",
-   "checked_at": "2026-10-17T05:44:22Z"
+   "checked_at": "2026-10-17T05:45:17Z"
   },
   {
    "name": "The Little Things - The Dubai Mall",
@@ -2160,7 +2211,7 @@
    "address": "Unit SF - 186 - Unit L2 186 - 19 - 19 شارع المركز المالي - برج خليفة - وسط مدينة دبي - دبي",
    "phone": "056 557 7365",
    "website": "https://littlethingsme.com/",
-   "checked_at": "2026-10-17T05:43:51Z"
+   "checked_at": "2026-10-17T05:45:17Z"
   },
   {
    "name": "The Little Things - Yas Mall",
@@ -2213,7 +2264,7 @@
    "address": "Al Zahya, Abu Dhabi Mall. Level 3, opposite to Funcity - الزاهية - شرق 16 1 - أبو ظبي",
    "phone": "02 671 8585",
    "website": "https://toysrusmena.com",
-   "checked_at": "2026-10-17T05:45:23Z"
+   "checked_at": "2026-10-17T05:45:47Z"
   },
   {
    "name": "Toys\"R\"Us",
@@ -2266,8 +2317,8 @@
    "region": "Dubai",
    "address": "Dubai Mall - Doha St - Burj Khalifa - Downtown Dubai - Dubai",
    "phone": "04 325 3330",
-   "website": "https://www.virginmegastore.ae/?y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
-   "checked_at": "2026-10-17T05:44:17Z"
+   "website": "https://www.virginmegastore.ae/?y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+   "checked_at": "2026-10-17T05:44:46Z"
   },
   {
    "name": "Virgin Megastore",
@@ -2276,8 +2327,8 @@
    "region": "دبي",
    "address": "2nd Floor - City Center - شارع الشيخ راشد - near Vox Cinemas - بور سعيد - ديرة - دبي",
    "phone": "04 295 8599",
-   "website": "https://www.virginmegastore.ae/",
-   "checked_at": "2026-10-17T05:44:34Z"
+   "website": "https://www.virginmegastore.ae/?y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==&y_source=1_MTAwNTM5ODQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+   "checked_at": "2026-10-17T05:44:46Z"
   },
   {
    "name": "Virgin Megastore",
@@ -2307,7 +2358,7 @@
    "address": "Mall - Al Khalidiyah - W9 - Abu Dhabi",
    "phone": "052 714 8334",
    "website": "https://zoomgifts.ae/",
-   "checked_at": "2026-10-17T05:44:55Z"
+   "checked_at": "2026-10-17T05:45:16Z"
   },
   {
    "name": "Zoom Promotional Gifts Preparing LLC",

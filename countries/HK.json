@@ -1,8 +1,8 @@
 {
  "country": "HK",
  "currency": "HKD",
- "updated": "2026-10-16",
- "store_count": 202,
+ "updated": "2026-10-20",
+ "store_count": 270,
  "stores": [
   {
    "name": "BANTYO TCG HK 番長連合",
@@ -184,6 +184,26 @@
    "checked_at": "2026-10-16T21:01:06Z"
   },
   {
+   "name": "9sss.tcg",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Sham Shui Po, Fuk Wa St, Golden Computer Arcade, 地下7號舖",
+   "phone": "6521 2126",
+   "website": "https://www.instagram.com/9sss.tcg?igsh=MWN6am00c2RxMTI0aA==&utm_source=qr",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "A JOY HK LTD",
+   "group": "in_store",
+   "address": "Room 416A 4/F Elite IND Centre, 883 Cheung Sha Wan Road, Lai Chi Kok, Kln, Hong Kong, Lai Chi Kok, 000, Hong Kong",
+   "phone": "+8526704 2789",
+   "website": "https://www.facebook.com/ajoyhk",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Ace Card Company Hong Kong",
    "group": "in_store",
    "region": "Hong Kong Island",
@@ -200,10 +220,42 @@
    "checked_at": "2026-10-16T20:59:54Z"
   },
   {
+   "name": "Aurora 卡牌專門店",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Cheung Sha Wan, Un Chau St, 162-188號天悅廣場112號鋪",
+   "phone": "6111 9971",
+   "website": "https://www.facebook.com/AuroraTCG",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Baoan3rdrd",
    "group": "in_store",
    "address": "Room 305, Kowloon Plaza, Castle Peak Rd 485, Hong Kong, Lai Chi Lok, Hong Kong SAR, 000000, Hong Kong",
    "phone": "85252309812",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Basic Land Card Game Shop",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "President Commercial Centre, 608 Nathan Rd, Mong Kok, Hong Kong, Kowloon",
+   "phone": "93000421 / 67476513",
+   "website": "https://www.facebook.com/Basicland-%E5%9F%BA%E6%9C%AC%E5%9C%B0-1958561254183203",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Basic Land/基本地",
+   "group": "in_store",
+   "address": "FT 1506 15/F President , KOWLOON, Mong Kok, 000, Hong Kong",
+   "phone": "+8526747 6513",
+   "website": "https://www.facebook.com/Basicland20",
    "games_events": [
     "Magic: The Gathering"
    ],
@@ -228,12 +280,34 @@
    "checked_at": "2026-10-16T20:59:26Z"
   },
   {
+   "name": "Battlefield",
+   "group": "in_store",
+   "address": "flat7, 6floor, Fullagar Industrial aberdeen main road, Southern District , Hong Kong, Southern District, 000, Hong Kong",
+   "phone": "+85251151002",
+   "website": "https://www.facebook.com/profile.php?id=100090249884880",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Battlefield Hobby Card and TCG Shop",
    "group": "in_store",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Aberdeen, Aberdeen Main Rd, 234號, Fullagar Industrial Building, 607室",
    "phone": "6711 0599",
    "checked_at": "2026-10-16T20:59:36Z"
+  },
+  {
+   "name": "BATTLEGROUND COMPANY",
+   "group": "in_store",
+   "address": "105-107, 1/F, D2 Place Two, Cheung Shun ST 15, Lai Chi Kwok, KLN, Kowloon, Hong Kong SAR, 000, Hong Kong",
+   "phone": "+85297555238",
+   "website": "https://www.facebook.com/battleground.hk/?locale=zh_TW",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "Beard Card",
@@ -248,12 +322,36 @@
    "checked_at": "2026-10-16T20:59:25Z"
   },
   {
+   "name": "Beehive Trading Card Shop",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Flat A, 1/F Selwyn Factory Building, 404 Kwun Tong Road, Hong Kong, Kwun Tong, 000, Hong Kong",
+   "phone": "+85223678086",
+   "website": "https://www.facebook.com/beehivetcg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Blazing Dragon Cards and Toys Ltd",
    "group": "in_store",
    "region": "Kowloon",
    "address": "14號 Tai Yau St, San Po Kong, Kowloon",
    "phone": "6717 5715",
    "checked_at": "2026-10-16T21:00:00Z"
+  },
+  {
+   "name": "Card Buddies",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "Room 1601, 16/F, Java 108 Commercial Centre, No. 108 Java Road, North Point, , North Point, Hong Kong, 000, Hong Kong",
+   "phone": "+85262883062",
+   "website": "https://www.facebook.com/people/Card-Buddies/100063722751461/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "Card Cave Co",
@@ -305,6 +403,15 @@
    "checked_at": "2026-10-16T21:00:38Z"
   },
   {
+   "name": "Card Lab",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Tai Wan, Man Yue St, 30號興業工商大廈4/F, Room B1",
+   "phone": "6461 2153",
+   "website": "https://www.facebook.com/cardlabstore",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Card Universe",
    "group": "in_store",
    "region": "Kowloon",
@@ -314,6 +421,33 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T20:59:25Z"
+  },
+  {
+   "name": "CardChill",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "1/F, 505 Lockhart Rd, Causeway Bay, Hong Kong Island",
+   "phone": "5471 2159",
+   "website": "https://www.instagram.com/cardchill_hk?utm_source=qr",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Carddesu",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "Hong Kong Island, Causeway Bay, Foo Ming St, 1-5號1樓1C室",
+   "phone": "6316 1928",
+   "website": "https://www.instagram.com/carddesu?igsh=emNiMGlzcG9wczlm",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "CardKingdomHK",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, 銀城地庫B82鋪",
+   "phone": "9402 6974",
+   "website": "https://www.instagram.com/ptcg_cardkingdom/",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "Cardtheland",
@@ -340,6 +474,14 @@
    "checked_at": "2026-10-16T21:01:00Z"
   },
   {
+   "name": "CHIIKAWA SHOP in HONG KONG",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, MOKO新世紀廣場地下M10舖及2樓236舖",
+   "website": "https://www.instagram.com/chiikawa.shop.hk",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Chinese products",
    "group": "in_store",
    "region": "Kowloon",
@@ -354,6 +496,17 @@
    "address": "20/F Sunrise Ind Bldg, 10 Hong Man St, Chai Wan, Hong Kong Island",
    "phone": "5234 4214",
    "checked_at": "2026-10-16T21:00:57Z"
+  },
+  {
+   "name": "CONFLUENCE",
+   "group": "in_store",
+   "address": "RM 607, 6/F, Fat Lee Industrial Building, 17 Hung To Road,",
+   "phone": "+8526680 5329",
+   "website": "https://www.facebook.com/ConfluenceMTGHK",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "CWB TCG",
@@ -386,6 +539,24 @@
    "checked_at": "2026-10-16T20:59:26Z"
   },
   {
+   "name": "DUBAI TCG LIMITED 杜拜卡牌有限公司",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "UNIT 22A, 4/F, Chiu Tat Factory Building, 108-110 King Fuk St, San Po Kong, Kowloon",
+   "phone": "9317 3139",
+   "website": "https://www.instagram.com/dubaitcghk/?hl=en",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "DuckDraw.Tcg.Store",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號號 2105",
+   "phone": "5131 9514",
+   "website": "https://www.instagram.com/duckdraw.tcg.store/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Faith Select Goods Company",
    "group": "in_store",
    "region": "Kowloon",
@@ -410,6 +581,34 @@
    "checked_at": "2026-10-16T20:59:59Z"
   },
   {
+   "name": "Game Mega 遊戲極",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Siu Lek Yuen, On Kwan St, 1號京瑞廣場二期1樓101-C15舖",
+   "phone": "6685 1177",
+   "website": "https://www.facebook.com/GameMegaHK/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "GAME'S LAIR",
+   "group": "in_store",
+   "address": "RM 12, 14/F Block B, Vigor Industrial Bldg.",
+   "phone": "+8529470 0777",
+   "website": "https://www.facebook.com/GamesLair",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Good Bad Creative (Secondhand Vintage Store)",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Shop B1, 124 Nam Cheong St, Sham Shui Po, Kowloon",
+   "website": "https://www.instagram.com/goodbadcreative/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "GR Trading Cards",
    "group": "in_store",
    "region": "Kowloon",
@@ -429,6 +628,67 @@
    "checked_at": "2026-10-16T20:59:25Z"
   },
   {
+   "name": "Hobby Treasure",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "shop 146, ins point, Mong Kok, Kowloon",
+   "phone": "5100 1019",
+   "website": "https://www.facebook.com/hobbytreasures/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Home-run Fabulous card shop",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "10/F , I Do Centre , 749A Nathan Road, KOWLOON, Hong Kong, KOWLOON, 000, Hong Kong",
+   "phone": "+8529777 5494",
+   "website": "https://www.facebook.com/homerunfab",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Hot Toys - Secret Base",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "20/F, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
+   "phone": "3722 3988",
+   "website": "https://www.facebook.com/hottoyssecretbase/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "In's Point",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Wing Kiu Building, 530號 Nathan Rd, Yau Ma Tei, Kowloon",
+   "website": "https://www.facebook.com/inspointhk/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "INCUBASE Arena",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, Nathan Rd, B1及B2",
+   "phone": "9319 0184",
+   "website": "https://www.facebook.com/incubase.arena",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Island Board Game/小島桌遊",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "Room D,4/F  Effort Industrial Building  2-8 KungYip Street,",
+   "phone": "+852+85261717436",
+   "website": "https://www.facebook.com/islandtcg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "KaBoom TCG Store",
    "group": "in_store",
    "region": "Kowloon",
@@ -443,6 +703,15 @@
    "address": "Kowloon, Tsim Sha Tsui, Hanoi Rd, 310-311號, K11, K11 Art Mall, 3层号铺KAYOU(尖沙咀地铁站",
    "phone": "6062 9768",
    "checked_at": "2026-10-16T20:59:51Z"
+  },
+  {
+   "name": "KeroTCG LIMITED",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Fo Tan, Au Pui Wan St, 37-39號沙⽥峰達工業⼤廈4樓2室",
+   "phone": "6060 4061",
+   "website": "https://www.instagram.com/kero_tcg?igsi=MTg1eWpma2lzaTlidw==&utm_source=qr",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "KEZ TCG SHOP",
@@ -471,12 +740,21 @@
   {
    "name": "League Castle - Mong Kok",
    "group": "in_store",
-   "region": "Kowloon",
    "address": "6/F, Canton Plaza , 1125-1127 Canton Road,",
    "phone": "+8522380 0316",
    "website": "https://www.facebook.com/LeagueCastleHK",
    "games_events": [
-    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "League Castle - Wan Chai",
+   "group": "in_store",
+   "address": "Rm1702 , 17/F, Wan Chai Comm .,CTR, 194-206 Johnston Road, Wan Chai, Hong Kong, Hong Kong SAR, 000, Hong Kong",
+   "phone": "+8522380 0316",
+   "website": "https://www.facebook.com/LeagueCastleHK",
+   "games_events": [
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:59:16Z"
@@ -490,6 +768,66 @@
    "checked_at": "2026-10-16T20:59:40Z"
   },
   {
+   "name": "League Castle Company (Mong Kok Shop)",
+   "group": "in_store",
+   "region": "九龍",
+   "address": "九龍旺角廣東道1125號, Canton Plaza, 6/F",
+   "phone": "2380 0316",
+   "website": "https://www.facebook.com/LeagueCastleHK/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "League Castle-D.PARK",
+   "group": "in_store",
+   "address": "Shop No. 1056a on Level 1 of D-Park, 398 Castle Peak Road, Tsuen Wan, N.T., Hong Kong, Hong Kong,  N.T., 000, Hong Kong",
+   "phone": "+8526226 3599",
+   "website": "https://www.facebook.com/LeagueCastleHK.MongKok",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "League Castle-Langham Place",
+   "group": "in_store",
+   "address": "K901. 9/F, Langham Place , 8 Argyle Street, Mong Kok , KLN., Hong Kong, Hong Kong, Mong Kok, 000, Hong Kong",
+   "phone": "+8526226 3599",
+   "website": "https://www.facebook.com/LeagueCastleHK",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "League Castle-Tuen Mun",
+   "group": "in_store",
+   "address": "RM G, 7/F, Wai Cheung Industrial Centre,, 5 Shek Pai Tau Road,, N.T., Tuen Mun, 000, Hong Kong",
+   "phone": "+85293403998",
+   "website": "https://www.facebook.com/LeagueCastleHK",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Legendary TCG",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Shop 206 2/F, iSQUARE, 63 Nathan Rd, Tsim Sha Tsui, Kowloon",
+   "phone": "9059 8693",
+   "website": "https://www.instagram.com/legendarytcghk/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Light TCG",
+   "group": "in_store",
+   "region": "九龍",
+   "address": "九龍尖沙咀加連威老道嘉威大廈41C-D",
+   "phone": "5119 8182",
+   "website": "https://www.instagram.com/light_tcg?igsh=MWhmdXhpaGMxZTIwdA%3D%3D&utm_source=qr",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "MAGIC STAR",
    "group": "in_store",
    "region": "New Territories",
@@ -498,6 +836,26 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T20:59:26Z"
+  },
+  {
+   "name": "MAGIC TEENS/魔法少年",
+   "group": "in_store",
+   "address": "155-181 Castle Peak road, Sham Shui Po, Hong Kong, Kowloon, 000, Hong Kong",
+   "phone": "+852 96385796",
+   "website": "https://www.facebook.com/profile.php?id=100057501337839",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "May Toys 五月玩具店",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Hong Kong Mong Kok 總店：旺角信和中心一樓121號鋪 分店：旺角信和中心二樓208號鋪 分店：八樓803室 Sino Centre. Hong Kong Mong Kok Head Office: Shop 121 1/F Shun Wo Centre Mong Kok Branch: Shop 208 2/F Shun Wo Centre Mong Kok Branch: Room 803 8/F, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
+   "phone": "9521 0708",
+   "website": "https://facebook.com/Maytoys",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "MegaBox",
@@ -536,6 +894,39 @@
    "checked_at": "2026-10-16T20:59:26Z"
   },
   {
+   "name": "Mithril Grand Centre - 秘銀石GC總店",
+   "group": "in_store",
+   "address": "B2 , 6/f WUI WAH FACTORY BUILDING 1035 YEE KUK WEST STREET SHAM SHUI PO DISTRICT KOWLOON , Hong Kong, Hong Kong, Hong Kong, Hong Kong SAR , 000, Hong Kong",
+   "phone": "+852+85298551030",
+   "website": "https://www.facebook.com/Mithriltcg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "monster怪獸",
+   "group": "in_store",
+   "region": "九龍",
+   "address": "九龍長沙灣元州街174-188號天悅廣場一樓132",
+   "phone": "9885 7241",
+   "website": "https://www.facebook.com/monsterhobbies?mibextid=ZbWKwL",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "MOX SAGA",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Room 13A, Justen Centre, 44-52 Wai Ching Street, Jordan",
+   "phone": "+85293013229",
+   "website": "https://www.facebook.com/MTGSAGA",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "NBA Store Hong Kong",
    "group": "in_store",
    "region": "Kowloon",
@@ -558,6 +949,24 @@
    "address": "2/F, S91/S90/S89, RED MALL, 501-515 Jaffe Rd, Causeway Bay, Hong Kong Island",
    "phone": "5248 8825",
    "checked_at": "2026-10-16T21:00:23Z"
+  },
+  {
+   "name": "Omochya Minato.Toy",
+   "group": "in_store",
+   "region": "九龍",
+   "address": "九龍深水埗福榮街81號舖",
+   "phone": "6582 6662",
+   "website": "https://www.facebook.com/profile.php?id=100065197412224",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "One Chance",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Kwun Tong, Shing Yip St, 30號8樓807室",
+   "phone": "5544 2771",
+   "website": "https://www.facebook.com/OneChanceTCG",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "ONE OF ONE CARD STORE",
@@ -593,6 +1002,24 @@
    "checked_at": "2026-10-16T21:01:16Z"
   },
   {
+   "name": "Players’Club TCG",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "2樓210號鋪, 63 I SQUARE, Nathan Rd, Tsim Sha Tsui, Kowloon",
+   "phone": "5406 7569",
+   "website": "http://www.facebook.com/playersclub751",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Pocha Cards",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Rm A, Floor 6, Southgate Commercial Centre, 29 Granville Rd, Tsim Sha Tsui, Kowloon",
+   "phone": "9449 4002",
+   "website": "https://www.instagram.com/pochacards",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Poke Mart Hong Kong",
    "group": "in_store",
    "region": "Kowloon",
@@ -619,9 +1046,16 @@
    "checked_at": "2026-10-16T20:59:26Z"
   },
   {
-   "name": "San Draw",
+   "name": "Richmond Shopping Arcade",
    "group": "in_store",
    "region": "Kowloon",
+   "address": "109號 Argyle St, Mong Kok, Kowloon",
+   "website": "https://www.facebook.com/pages/%E7%9A%86%E6%97%BA%E5%95%86%E5%A0%B4/199872510049374",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "San Draw",
+   "group": "in_store",
    "address": "m. 1233-34, 12 Floor, Nan Fung Centre, , Tsuen Wan, Hong Kong, HKG, Hong Kong",
    "phone": "85291672820",
    "website": "https://www.instagram.com/sandrawtcg_hk/",
@@ -631,11 +1065,29 @@
    "checked_at": "2026-10-16T20:59:16Z"
   },
   {
+   "name": "SevenToys ( In's Point Shop 251-252)",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "25-27 Luk Hop St, Diamond Hill, Kowloon",
+   "phone": "5686 2107",
+   "website": "https://www.facebook.com/SEVENToys/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Sham Shui Po Toy Street",
    "group": "in_store",
    "region": "Kowloon",
    "address": "Fuk Wing St, Sham Shui Po, Kowloon",
    "checked_at": "2026-10-16T21:01:00Z"
+  },
+  {
+   "name": "Sharakudou",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "Basement, 44, 48 Yun Ping Rd, Causeway Bay, Hong Kong Island",
+   "phone": "2576 9929",
+   "website": "http://www.facebook.com/sharakuhk",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "SHAU SING TRADING CARD SHOP",
@@ -653,6 +1105,15 @@
    "checked_at": "2026-10-16T20:59:34Z"
   },
   {
+   "name": "SMILE Card Shop",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Tsim Sha Tsui, Nathan Rd, 63號, iSQUARE, 二樓204",
+   "phone": "4713 7069",
+   "website": "https://www.instagram.com/smilecardshop/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "Smiling Plaza",
    "group": "in_store",
    "region": "Kowloon",
@@ -668,12 +1129,30 @@
    "checked_at": "2026-10-16T21:00:42Z"
   },
   {
+   "name": "Starlight Capital TCG",
+   "group": "in_store",
+   "region": "新界",
+   "address": "新界屯門震寰路9號好收成工業大廈7樓714室",
+   "phone": "6168 8842",
+   "website": "https://www.facebook.com/SCTCGS",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "TCG Express",
    "group": "in_store",
    "region": "Kowloon",
    "address": "Sun Kwong Industrial Building, 11B Tung Chau W St, Cheung Sha Wan, Kowloon",
    "phone": "5581 7652",
    "website": "https://www.instagram.com/tcge.hk?igsh=MWVsNWN4MG1ianAwYQ==",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Tcg Fusion",
+   "group": "in_store",
+   "region": "香港島",
+   "address": "香港島北角電氣道233號城市花園5座商場13座，1樓87號舖",
+   "phone": "6053 0587",
+   "website": "https://www.facebook.com/share/1E8D1khbQA/",
    "checked_at": "2026-10-16T20:59:16Z"
   },
   {
@@ -750,11 +1229,33 @@
    "checked_at": "2026-10-16T21:01:00Z"
   },
   {
+   "name": "WEATHERLIGHT-HK/晴空號-香港",
+   "group": "in_store",
+   "address": "Unit 35, 6/F, Shing Yip Industrial Building, 19-21 Shing Yip Street,, Hong Kong, Kowloon, 000, Hong Kong",
+   "phone": "+8529311 1843",
+   "website": "https://www.facebook.com/skyshiphk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "wellmax",
    "group": "in_store",
    "region": "Kowloon",
    "address": "Mody Rd, Tsim Sha Tsui, Kowloon",
    "checked_at": "2026-10-16T21:01:00Z"
+  },
+  {
+   "name": "www.mtgmintcard.com",
+   "group": "in_store",
+   "address": "Flat B, 9/F, Heep Kee Commercial Bldg.",
+   "phone": "+8522815 0097 ",
+   "website": "https://www.facebook.com/mtgmintcard",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "Yamacardo Limited",
@@ -779,12 +1280,39 @@
    "checked_at": "2026-10-16T20:59:26Z"
   },
   {
+   "name": "一代滙集動漫部",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "219室, Sino Centre, 582-592號 Nathan Rd, Mong Kok, Kowloon",
+   "phone": "2782 0518",
+   "website": "https://www.facebook.com/gcbookcomics/?locale=zh_HK",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "中國書畫古玩瓷藝術品玉器 收購",
    "group": "in_store",
    "region": "Kowloon",
    "address": "4樓, Granville Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9336 0150",
    "checked_at": "2026-10-16T21:01:22Z"
+  },
+  {
+   "name": "元朗山比高小說漫畫屋",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Yuen Long, Ma Miu Rd, 12-42號, Wing Fat House, 地下Q舖閣樓",
+   "phone": "5344 2628",
+   "website": "https://www.facebook.com/sbgbookhouse",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "卡樂師 CARDLOS",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Cheung Sha Wan, Un Chau St, 天悅廣場1樓173號舖",
+   "phone": "6944 6002",
+   "website": "https://www.facebook.com/profile.php?id=61584441935974",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "夢幻店",
@@ -795,12 +1323,66 @@
    "checked_at": "2026-10-16T21:01:22Z"
   },
   {
+   "name": "帝一港漫專區",
+   "group": "in_store",
+   "region": "九龍",
+   "address": "九龍旺角彌敦道582號信和中心15樓02室",
+   "phone": "6985 8468",
+   "website": "https://www.facebook.com/profile.php?id=100063890377385",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "手痕 Card Guy",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "Great George St, Causeway Bay, Hong Kong Island",
+   "website": "https://www.instagram.com/cwb.ptcg?igsh=MXRrZWlzdWVsdzJyNg%3D%3D&utm_source=qr",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "日出之國",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Cheung Sha Wan, Tonkin St, 31號1206 室",
+   "website": "https://www.facebook.com/sunrisekingdom.ptcg/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "未知卡店 unknown card shop(旺角店)",
    "group": "in_store",
    "region": "Kowloon",
    "address": "Sino Centre, Nathan Rd, Mong Kok, Kowloon",
    "phone": "5573 1079",
    "checked_at": "2026-10-16T20:59:44Z"
+  },
+  {
+   "name": "樂豐卡社 Lok Fu Card Shop",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Kwai Chung, Castle Peak Rd - Kwai Chung, 450號, Ming Yin Building, A座C號鋪位閣樓",
+   "phone": "6480 4338",
+   "website": "http://www.facebook.com/lokfu2012",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "樓上咭店/Have Card",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "九龍旺角道97-99號華懋王子大廈2樓J室, Hong Kong, Mong Kok, 000, Hong Kong",
+   "phone": "+85251919238",
+   "website": "https://www.facebook.com/groups/737688088287855",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "樹皮天堂 RETRO GAME STORE 復古遊戲",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, Fa Yuen St, 2-16號, Ho King Commercial Centre, 1樓24-25,55-57",
+   "website": "https://www.facebook.com/retrogame321/?ref=bookmarks",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "浩揮遊戲咭專門店",
@@ -827,11 +1409,67 @@
    "checked_at": "2026-10-16T21:00:12Z"
   },
   {
+   "name": "玩卡地",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Sham Shui Po, Cheung Sha Wan Rd, 21～25號長豐商業大廈12樓1204室",
+   "website": "https://www.facebook.com/p/Wanncardda-%E7%8E%A9%E5%8D%A1%E5%9C%B0-100083037985311/?locale=zh_HK",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "異次元桌遊社 Different Dimension TCG",
+   "group": "in_store",
+   "region": "Hong Kong Island",
+   "address": "Tsing Fung St, Causeway Bay, Hong Kong, Hong Kong Island",
+   "phone": "66540922",
+   "website": "https://www.facebook.com/differentdimension.tcg",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
    "name": "益智玩具店",
    "group": "in_store",
    "region": "Kowloon",
    "address": "9-13 Liberty Avenue, Grateful Time Company, Kwong Wa St, Mong Kok, Kowloon",
    "checked_at": "2026-10-16T21:01:22Z"
+  },
+  {
+   "name": "精品 (旺角Outlet)",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, 11樓1104室",
+   "phone": "5938 8267",
+   "website": "http://www.facebook.com/figuretoy1997/",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "純白鎮",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "New Territories, Sha Tin, 石門新貿中心B座11樓1107室",
+   "phone": "5430 0344",
+   "website": "https://www.facebook.com/%E7%B4%94%E7%99%BD%E9%8E%AE-106294121685639",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "脈動卡牌屋，CardioBeat",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "1樓14號鋪, 18號 Fung Kam St, Yuen Long, New Territories",
+   "phone": "9059 8682",
+   "website": "https://www.facebook.com/profile.php?id=100093956154804&mibextid=2JQ9oc",
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "至 Goal Club",
+   "group": "in_store",
+   "region": "Kowloon",
+   "address": "樓231號舖, Sino Centre, Nathan Rd, Mong Kok, Kowloon",
+   "phone": "2770 5502",
+   "website": "https://www.facebook.com/g.goalclub/",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "藏卡王香港 Logoman Sports Cards",
@@ -856,6 +1494,15 @@
    "address": "香港島筲箕灣筲箕灣道360A號, Shaukeiwan Plaza Lai Man Court, 天悅1003號舖",
    "phone": "6163 5251",
    "checked_at": "2026-10-16T21:01:12Z"
+  },
+  {
+   "name": "阿林書房",
+   "group": "in_store",
+   "region": "New Territories",
+   "address": "Yale Industrial Centre, Au Pui Wan St, Fo Tan, New Territories",
+   "phone": "6974 1608",
+   "website": "https://www.facebook.com/profile.php?id=100063681828543",
+   "checked_at": "2026-10-16T20:59:16Z"
   },
   {
    "name": "雲起漫畫店",
@@ -952,6 +1599,18 @@
    "group": "unknown",
    "address": "Rm902, 9/F On Hong Commercial Building, 145 Hennessy Road, Wan Chai, Hong Kong, Hong Kong, Hong Kong SAR , 0000, Hong Kong",
    "phone": "85293000421",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:59:16Z"
+  },
+  {
+   "name": "Battleground Flagship Experience House",
+   "group": "unknown",
+   "address": "Shop Nos. 701–706, 7/F, Scramble Hill, 98 How Ming Street, Kwun Tong, Hong Kong, Hong Kong, Hong Kong SAR, 000000, Hong Kong",
+   "phone": "85293672064",
    "website": "https://www.cnwizards.com/stores/local",
    "buylist_url": "https://www.cnwizards.com/buylist",
    "games_events": [

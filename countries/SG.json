@@ -1,8 +1,8 @@
 {
  "country": "SG",
  "currency": "SGD",
- "updated": "2026-10-16",
- "store_count": 134,
+ "updated": "2026-10-20",
+ "store_count": 176,
  "stores": [
   {
    "name": "Dek TCG Shop",
@@ -222,6 +222,15 @@
    "checked_at": "2026-10-16T20:52:55Z"
   },
   {
+   "name": "AAA Collectibles TCG CAFE PTE LTD",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "215 Ang Mo Kio Ave 1, #01-901, Singapore 560215",
+   "phone": "8891 7026",
+   "website": "http://www.tiktok.com/@cgcollectiblesaaa",
+   "checked_at": "2026-10-16T20:53:00Z"
+  },
+  {
    "name": "Ah Kit Shop",
    "group": "in_store",
    "city": "Singapore",
@@ -255,12 +264,46 @@
    "checked_at": "2026-10-16T20:53:00Z"
   },
   {
+   "name": "Award Collectibles",
+   "group": "in_store",
+   "address": "315 Outram Rd, #15-04 Tan Boon Liat Building,, Singapore, Singapore, 169074, SG",
+   "phone": "+6581144089",
+   "website": "https://www.instagram.com/award.collectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Barter Trade Singapore",
    "group": "in_store",
    "city": "Singapore",
    "address": "1 Queensway, #02-41 Queensway Shopping Centre, Singapore 149053",
    "phone": "8987 8261",
    "checked_at": "2026-10-16T20:53:14Z"
+  },
+  {
+   "name": "Battle Bunker",
+   "group": "in_store",
+   "address": "1 Lor 22 Geylang, #02-14, Singapore, Singapore, 398664, Singapore",
+   "phone": "+6593840450",
+   "website": "https://www.instagram.com/battlebunker_sg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Battle Zone TCG",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "1 Stadium Place, #02-19, Kallang Wave Mall,, Singapore, Singapore, 397628, SG",
+   "phone": "+65+6589337542",
+   "website": "https://www.facebook.com/profile.php?id=61587985647238",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Beauty World Games Haven",
@@ -273,16 +316,28 @@
    "checked_at": "2026-10-16T20:53:00Z"
   },
   {
+   "name": "Beginner's Luck",
+   "group": "in_store",
+   "address": "148F Pasir Panjang Rd, Singapore, Singapore, 118553, SG",
+   "phone": "+6597110763",
+   "website": "https://www.facebook.com/p/Beginners-Luck-100086965917762/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Bricks Play",
    "group": "in_store",
    "city": "Singapore",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "65 6255-5928",
+   "website": "https://www.facebook.com/Bricksplay",
    "games_events": [
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T20:52:24Z"
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Card Affinity",
@@ -297,13 +352,69 @@
   {
    "name": "Card Arena by Myrepublic",
    "group": "in_store",
-   "city": "Singapore",
    "address": "3 Temasek Blvd, Singapore, Singapore, 038983, Singapore",
    "phone": "65097368211",
    "website": "https://www.instagram.com/cardarenasg/",
    "games_events": [
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Card Bound",
+   "group": "in_store",
+   "address": "#02-53 43 Holland Dr, Singapore, Singapore, 270043, Singapore",
+   "phone": "+6588464375",
+   "website": "https://www.instagram.com/cardboundgames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Card Collector Corner",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "35 Selegie Road Parklane shopping Mall B1-28, Singapore, Singapore , 188307, SG",
+   "phone": "(+65)96321116",
+   "website": "https://www.facebook.com/p/Card-Collector-Corner-SG-61585559346581/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Card Connect SG",
+   "group": "in_store",
+   "address": "Lor 23 Geylang, Singapore, PA, 388410, Singapore",
+   "phone": "6587898850",
+   "website": "https://www.facebook.com/cardconnectsg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Card Nation",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "1A Thomson Ridge (2nd Floor), Singapore, Singapore, 574633, Singapore",
+   "phone": "+6590088091",
+   "website": "https://facebook.com/CardNationSG",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "CardGaiden",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "1 Rochor Canal Rd, #03-52 Sim Lim Square, Singapore 188504",
+   "phone": "8869 1341",
+   "website": "https://www.facebook.com/CardGaiden",
    "checked_at": "2026-10-16T20:52:08Z"
   },
   {
@@ -314,6 +425,17 @@
    "checked_at": "2026-10-16T20:53:07Z"
   },
   {
+   "name": "Cards & Convenience",
+   "group": "in_store",
+   "address": "B1-54, / 183 Jalan Pelikat, Singapore, Singapore, 537643, SG",
+   "phone": "+6594305725",
+   "website": "https://www.facebook.com/profile.php?id=61589412366236&mibextid=wwXIfr&rdid=Rbcxb3EShl8gmHAb&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A9djHUDFy%2F%3Fmibextid%3DwwXIfr#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Carito Trading",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -322,6 +444,35 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:52:40Z"
+  },
+  {
+   "name": "CC Collectibles @ Clementi",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "320 Clementi Ave 4, #01-51, Singapore 120320",
+   "phone": "8670 6428",
+   "website": "https://www.instagram.com/cc_collectibles_sg?igsh=MWExOTEzcG1vc2Z4ZA==&utm_source=qr",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Chase Collectibles",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "176 Boon Lay Dr, #01-374, Singapore 640176",
+   "website": "https://www.instagram.com/chasecollectiblessg?igsh=b3BwN3F5NHowcGkx&utm_source=qr",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Comics World",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "35 Selegie Rd, B1-22 Parklane Shopping Mall, Singapore, Singapore, 100066, Singapore",
+   "phone": "+6563396413",
+   "website": "https://www.facebook.com/comicsworldsg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Concept City",
@@ -347,11 +498,35 @@
    "checked_at": "2026-10-16T20:53:09Z"
   },
   {
+   "name": "EP Hobby",
+   "group": "in_store",
+   "address": "Blk 128 Ang Mo Kio Ave 3 #01-1867, Singapore, Singapore, 560128, SG",
+   "phone": "6591212119",
+   "website": "https://www.facebook.com/EPhobby128/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Evolving Vault Card Shop",
    "group": "in_store",
    "city": "Singapore",
    "address": "Blk 226E Ang Mo Kio Ave 1, #01-703, Singapore 565226",
    "checked_at": "2026-10-16T20:53:05Z"
+  },
+  {
+   "name": "Flagship Games",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "Block 214 Bishan Street 23, #B1-223, Singapore, Singapore, 570214, Singapore",
+   "phone": "+6580606978",
+   "website": "http://facebook.com/flagshipgames.sg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "G28 Trading",
@@ -363,6 +538,27 @@
    "checked_at": "2026-10-16T20:53:14Z"
   },
   {
+   "name": "Games Haven",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "9880 8723",
+   "website": "https://www.facebook.com/gameshavensg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Games Haven (Ang Mo Kio)",
+   "group": "in_store",
+   "phone": "65 8022-7993",
+   "website": "https://www.facebook.com/gameshavensg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Games Haven (Jurong East)",
    "group": "in_store",
    "phone": "65 9180-3760",
@@ -370,6 +566,37 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:52:45Z"
+  },
+  {
+   "name": "Games Haven Southkey",
+   "group": "in_store",
+   "address": "D-1-10  PUSAT KOMERSIAL BAYU TASEK,, Johor bahry, Johor Bahry, 80150, MY",
+   "phone": "+600126156199",
+   "website": "https://www.facebook.com/people/Games-Haven-Southkey/61574312188128/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Gold Nugget Gang",
+   "group": "in_store",
+   "address": "35 Selegie Rd, B1-31/32 Parklane Shopping Mall, Singapore, Singapore, 188307, SG",
+   "phone": "+6581891936",
+   "website": "https://www.instagram.com/goldnuggetgang/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Gold Nugget Gang - Pokemon Card Shop - Seal Raw Slabs Comics Toys Collectible",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "35 Selegie Rd, B1-31/32 Parklane Shopping Mall, Singapore 188307",
+   "phone": "8160 7672",
+   "website": "https://www.instagram.com/goldnuggetgang/",
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Goodness Gracious Games",
@@ -392,6 +619,17 @@
    "checked_at": "2026-10-16T20:53:00Z"
   },
   {
+   "name": "Hideyoshi",
+   "group": "in_store",
+   "address": "504 Jurong West Street 51 04-211, Singapore, Singapore, 640504, SG",
+   "phone": "6596263685",
+   "website": "https://www.facebook.com/people/Hideyoshi-Tcg/pfbid02aB4sHdwSN2pSmVTUeTcYuSXw8hBcybMLrnNhiQ3QEEn13yXgq6w8RfsfgfJ7KeEXl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Hobika Card Shop",
    "group": "in_store",
    "city": "Singapore",
@@ -406,6 +644,17 @@
    "address": "105 Jalan Bukit Merah, Singapore 106105",
    "phone": "8116 4637",
    "checked_at": "2026-10-16T20:53:38Z"
+  },
+  {
+   "name": "JankenPon",
+   "group": "in_store",
+   "address": "154 Serangoon North Ave 1 #01-440 , Singapore, Singapore, 550154, SG",
+   "phone": "+6592207702",
+   "website": "https://www.instagram.com/jankenpon_official/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "JRW Hobby Station",
@@ -441,7 +690,6 @@
    "phone": "+6589512851",
    "website": "https://www.facebook.com/KouritenSG",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:52:08Z"
@@ -457,12 +705,61 @@
    "checked_at": "2026-10-16T20:52:59Z"
   },
   {
+   "name": "LetsPlaySG",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "400 Balestier Rd, #02-32A Balestier Plaza, Singapore 329802",
+   "phone": "9022 9270",
+   "website": "https://www.tiktok.com/@letsplaysg",
+   "checked_at": "2026-10-16T20:53:00Z"
+  },
+  {
+   "name": "Lymo's Cozy Corner",
+   "group": "in_store",
+   "address": "400 Balestier Rd /  #02-17, , Singapore, Singapore, 329802, SG",
+   "phone": "6594874094",
+   "website": "https://www.instagram.com/lymoscozycorner/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Matt's Vault",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "8 Burn Rd, #15-15 Trivex, Singapore 369977",
+   "phone": "9720 8290",
+   "website": "https://www.facebook.com/Mattsvault/",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Monster Collectibles",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "14 Scotts Rd, Mall, #05-61 Far East Plaza, Singapore 228213",
+   "phone": "9626 4099",
+   "website": "https://www.tiktok.com/@monstercollectibles?_t=ZS-8tNoYBQUF4H&_r=1",
+   "checked_at": "2026-10-16T20:53:00Z"
+  },
+  {
    "name": "Mova Collectibles",
    "group": "in_store",
    "city": "Singapore",
    "address": "122 Bukit Merah Lane 1, #01-50, Singapore 150122",
    "phone": "9680 2978",
    "checked_at": "2026-10-16T20:53:13Z"
+  },
+  {
+   "name": "MOVA COLLECTIBLES PTE LTD",
+   "group": "in_store",
+   "address": "122 Bukit Merah Lane 1, Singapore, Singapore, 150122, SG",
+   "phone": "6496802978",
+   "website": "https://www.instagram.com/mova_collectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "MTG-Asia.com",
@@ -511,6 +808,50 @@
    "checked_at": "2026-10-16T20:53:16Z"
   },
   {
+   "name": "PokeTee",
+   "group": "in_store",
+   "address": "140 Upper Bukit Timah Rd #03-12 Beauty World Plaza, Singapore, Singapore, 588176, Singapore",
+   "phone": "+6594741658",
+   "website": "https://www.instagram.com/poketee.sg?igsh=MTJxZXRld2cweml6dA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Pop Culture Punch Collectibles",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "390 Victoria St, #01-30 Golden Landmark Shopping Complex, Singapore 188061",
+   "phone": "9623 8191",
+   "website": "https://www.facebook.com/popculturepunchsingapore",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Project EXT",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "25 Jalan Berseh #01-148, Singapore, X1, 200025, SG",
+   "phone": "+6591904737",
+   "website": "https://www.facebook.com/ProjectEXTTCG",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Regalia Trove",
+   "group": "in_store",
+   "address": "865 Mountbatten Rd, Singapore, Singapore, 437844, SG",
+   "phone": "6588471558",
+   "website": "https://www.instagram.com/regaliatrove/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Rowell TCG",
    "group": "in_store",
    "city": "Singapore",
@@ -520,6 +861,22 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T20:52:58Z"
+  },
+  {
+   "name": "Seng Lit's Card Syndicate ( Trading Cards / TCG )",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "21 Woodlands Cl, #02-24, Singapore 737854",
+   "website": "https://www.instagram.com/senglitscardsyndicate?igsh=dzF1cnRtNXJ6enJy&utm_source=qr",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Shane Collectibles (Pokemon & One Piece TCG)",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "3 Coleman St, #04-25 Peninsula Shopping Centre, Singapore 179804",
+   "website": "https://www.instagram.com/shanecollectibles/",
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Silver Kris Comics",
@@ -538,12 +895,46 @@
    "checked_at": "2026-10-16T20:53:00Z"
   },
   {
+   "name": "Table Top",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "35 Tannery Rd, Singapore 347740, Singapore, 347740",
+   "phone": "80288098",
+   "website": "https://www.facebook.com/tabletop.singapore/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
+   "name": "Tavern Games TCG",
+   "group": "in_store",
+   "address": "238 Balestier Rd, Singapore, Singapore, 329701, SG",
+   "phone": "6593219693",
+   "website": "https://www.instagram.com/taverngames.tcg?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "TCG Junction",
    "group": "in_store",
    "city": "Singapore",
    "address": "8 Lor 7 Toa Payoh, #01-287, Singapore 310008",
    "phone": "9231 4449",
    "checked_at": "2026-10-16T20:53:05Z"
+  },
+  {
+   "name": "Team Card Game",
+   "group": "in_store",
+   "address": "16 Arumugam Rd #01-02, Singapore, Singapore, 409961, SG",
+   "phone": "+6593406130",
+   "website": "https://www.facebook.com/teamcardgame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Tefuda Games",
@@ -589,6 +980,15 @@
    "checked_at": "2026-10-16T20:53:05Z"
   },
   {
+   "name": "ToyBros",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "Queensway, #02-03 Queensway Shopping Centre, Singapore 149053",
+   "phone": "9068 8201",
+   "website": "https://www.facebook.com/share/g/16Nikaiz7Z/?mibextid=wwXIfr",
+   "checked_at": "2026-10-16T20:52:08Z"
+  },
+  {
    "name": "Toynado Collectibles",
    "group": "in_store",
    "city": "Singapore",
@@ -604,6 +1004,18 @@
    "website": "https://www.waxxedcards.com.sg/",
    "buylist_url": "https://www.waxxedcards.com.sg/",
    "checked_at": "2026-10-16T20:53:02Z"
+  },
+  {
+   "name": "Yukai Collectibles",
+   "group": "in_store",
+   "city": "Singapore",
+   "address": "61 Ubi Rd , 04-17 Oxley Bizhub 1, Singapore, Singapore, 408727, SG",
+   "phone": "+6596693264",
+   "website": "https://www.instagram.com/yukaicollectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "1Collectibles - Paya Lebar",
@@ -853,6 +1265,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T20:52:48Z"
+  },
+  {
+   "name": "Dimension Gaming",
+   "group": "unknown",
+   "city": "Singapore",
+   "address": "12 Arumugam Rd, #02-03 LTC Building B, Singapore 409958",
+   "phone": "8908 8971",
+   "website": "https://linktr.ee/caesarcards_sg?fbclid=IwAR2A0QYPt1eeMGPdXvDegXgAMJ9GwJptt9-cAMU5AtqXDOwcw_3m4nP3ERs",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:52:53Z"
   },
   {
    "name": "Dueller's Point",
@@ -1107,6 +1529,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T20:52:52Z"
+  },
+  {
+   "name": "Meta Games 2",
+   "group": "unknown",
+   "address": "756 Upper Serangoon Rd 04-33, Singapore, Singapore, 534626, SG",
+   "phone": "6586116112",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T20:52:08Z"
   },
   {
    "name": "Mox & Lotus",
@@ -1382,6 +1815,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T20:52:55Z"
+  },
+  {
+   "name": "Zoomies Gaming",
+   "group": "unknown",
+   "city": "Singapore",
+   "address": "41 Jln Pemimpin, #02-04 Kong Beng Industrial Building, Singapore 577186",
+   "phone": "8083 9192",
+   "website": "https://linktr.ee/caesarcards_sg?fbclid=IwAR2A0QYPt1eeMGPdXvDegXgAMJ9GwJptt9-cAMU5AtqXDOwcw_3m4nP3ERs",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T20:52:53Z"
   }
  ]
 }

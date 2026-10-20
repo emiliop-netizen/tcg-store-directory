@@ -1,8 +1,8 @@
 {
  "country": "CL",
  "currency": "CLP",
- "updated": "2026-10-16",
- "store_count": 216,
+ "updated": "2026-10-20",
+ "store_count": 240,
  "stores": [
   {
    "name": "DEVASTATION STORE CENTER",
@@ -22,7 +22,7 @@
    "address": "Fanor Velasco 36, Loc 3, 7500000 Santiago, Región Metropolitana",
    "phone": "9 2057 9818",
    "website": "https://storedevastation.com/",
-   "checked_at": "2026-10-17T01:15:38Z"
+   "checked_at": "2026-10-17T01:15:44Z"
   },
   {
    "name": "Oasis Games Chile",
@@ -99,16 +99,6 @@
    "checked_at": "2026-10-17T01:16:48Z"
   },
   {
-   "name": "Entre Juegos",
-   "group": "blocked",
-   "city": "Providencia",
-   "region": "Región Metropolitana",
-   "address": "Nueva de Lyon 61, 7510054 Providencia, Región Metropolitana",
-   "phone": "(2) 2893 6795",
-   "website": "http://www.entrejuegos.cl/",
-   "checked_at": "2026-10-17T01:15:44Z"
-  },
-  {
    "name": "Holygeek",
    "group": "blocked",
    "city": "Providencia",
@@ -116,7 +106,7 @@
    "address": "Av. Providencia 2216, Loc 56AB, Providencia, Región Metropolitana",
    "phone": "(2) 2567 6285",
    "website": "https://www.holygeek.cl/",
-   "checked_at": "2026-10-17T01:16:10Z"
+   "checked_at": "2026-10-17T01:16:57Z"
   },
   {
    "name": "Holygeek Sede Eurocentro",
@@ -205,6 +195,17 @@
    "checked_at": "2026-10-17T01:15:49Z"
   },
   {
+   "name": "Akorgi Store",
+   "group": "in_store",
+   "address": "Calle Uno Norte N24, San Antonio, Valparaíso, 2660000, Chile",
+   "phone": "56945240406",
+   "website": "https://www.instagram.com/akorgistore?igsh=ZW1nMGxkM2ZrYmk5",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
    "name": "Alter Mundi",
    "group": "in_store",
    "city": "Valparaíso",
@@ -212,6 +213,16 @@
    "address": "Villanelo 135, Loc 21, 2571499 Valparaíso, Viña del Mar, Valparaíso",
    "phone": "(32) 268 1251",
    "checked_at": "2026-10-17T01:17:03Z"
+  },
+  {
+   "name": "American Hobbies",
+   "group": "in_store",
+   "city": "Concepción",
+   "region": "Bío Bío",
+   "address": "Barros Arana 971, 4030511 Concepción, Bío Bío",
+   "phone": "9 3336 7150",
+   "website": "https://www.instagram.com/americanhobbiesstore/?hl=es",
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Animecorp",
@@ -229,6 +240,26 @@
    "region": "Región Metropolitana",
    "address": "Av. Italia 1308, 7501451 Providencia, Región Metropolitana",
    "checked_at": "2026-10-17T01:16:41Z"
+  },
+  {
+   "name": "Bazar del Recuerdo",
+   "group": "in_store",
+   "city": "Valparaíso",
+   "region": "Valparaíso",
+   "address": "Pedro Montt 2013, 2362942 Valparaíso",
+   "website": "https://www.instagram.com/el_juguetero_enmascarado/",
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
+   "name": "Bazar Pirexiano",
+   "group": "in_store",
+   "address": "4 Valentín Pardo, Los Andes, Valparaíso, 2100000, Chile",
+   "phone": "+56 961292113",
+   "website": "https://instagram.com/bazarpirexiano",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Be a Freak - Tienda Anime en Concepción",
@@ -249,6 +280,16 @@
    "checked_at": "2026-10-17T01:15:49Z"
   },
   {
+   "name": "C4 Videojuegos",
+   "group": "in_store",
+   "city": "Valparaíso",
+   "region": "Valparaíso",
+   "address": "Pedro Montt 1842, Loc c-04, 2340000 Valparaíso",
+   "phone": "(32) 225 4736",
+   "website": "https://www.facebook.com/C4Juegos",
+   "checked_at": "2026-10-17T01:17:44Z"
+  },
+  {
    "name": "Comercializadora Distar S.P.A - Panini Point",
    "group": "in_store",
    "city": "Santiago",
@@ -262,10 +303,13 @@
    "group": "in_store",
    "city": "Limache",
    "region": "Valparaíso",
-   "address": "Arturo Prat 115, 2240109 Limache, Valparaíso",
-   "phone": "9 5769 0194",
+   "address": "Condell 185 Local 9, San Francisco de Limache, VS, 2240000, Chile",
+   "phone": "+569-5769-0194",
    "website": "https://www.facebook.com/commandlimache/",
-   "checked_at": "2026-10-17T01:17:16Z"
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:44Z"
   },
   {
    "name": "Cukivilu TCG",
@@ -302,6 +346,16 @@
    "checked_at": "2026-10-17T01:17:16Z"
   },
   {
+   "name": "EKD Comics",
+   "group": "in_store",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
+   "address": "Padre Alonso de Ovalle 1060, 8330212 Santiago, Región Metropolitana",
+   "phone": "9 8416 0451",
+   "website": "http://www.instagram.com/elkioscodelcomic",
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
    "name": "El Calabozo (Concepción)",
    "group": "in_store",
    "address": "Libertador Gral Bernardo O'Higgins 950b, Concepción, BI, 4030000, Chile",
@@ -328,7 +382,7 @@
    "region": "Región Metropolitana",
    "address": "arquitecto - Av. Arq. Hugo Bravo 570, Maipú, Región Metropolitana",
    "website": "http://www.facebook.com/ExodiaHouse",
-   "checked_at": "2026-10-17T01:15:44Z"
+   "checked_at": "2026-10-17T01:17:44Z"
   },
   {
    "name": "Fenix Games Dx37",
@@ -417,6 +471,15 @@
    "checked_at": "2026-10-17T01:17:11Z"
   },
   {
+   "name": "Gamesaddiction",
+   "group": "in_store",
+   "city": "Concepción",
+   "region": "Bío Bío",
+   "address": "Galería Caracol - Freire 522, Loc 187, 4030000 Concepción, Bío Bío",
+   "website": "https://instagram.com/games.addiction?igshid=OGY3MTU3OGY1Mw==",
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
    "name": "GHOST4LIFE",
    "group": "in_store",
    "city": "Providencia",
@@ -424,7 +487,7 @@
    "address": "Julio Prado 706, 7500000 Providencia, Región Metropolitana",
    "phone": "9 6589 9187",
    "website": "https://www.facebook.com/profile.php?id=61569691270331&locale=es_LA",
-   "checked_at": "2026-10-17T01:15:49Z"
+   "checked_at": "2026-10-17T01:17:44Z"
   },
   {
    "name": "Gimnasio pokémon Robot",
@@ -433,6 +496,26 @@
    "region": "Bío Bío",
    "address": "Freire 381, 4030591 Concepción, Bío Bío",
    "checked_at": "2026-10-17T01:17:33Z"
+  },
+  {
+   "name": "GO 4 IT ANIME",
+   "group": "in_store",
+   "city": "Providencia",
+   "region": "Región Metropolitana",
+   "address": "Av. Providencia #2198, Loc 65, 7510054 Providencia, Región Metropolitana",
+   "website": "https://www.facebook.com/tienda.goforit/",
+   "checked_at": "2026-10-17T01:17:44Z"
+  },
+  {
+   "name": "Hammer TCG Store",
+   "group": "in_store",
+   "address": "1045 Av. Los Carrera, Concepción, Bío Bío, 4030318, Chile",
+   "phone": "56973440445",
+   "website": "https://www.instagram.com/p/DK6HdDwNrdd/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "HAMMER TCG STORE.SPA",
@@ -450,6 +533,17 @@
    "region": "Valparaíso",
    "address": "Av. Obispo Valdés Subercaseaux 519, 2372282 Placilla, Valparaíso",
    "checked_at": "2026-10-17T01:17:15Z"
+  },
+  {
+   "name": "Hydra's Tavern",
+   "group": "in_store",
+   "address": "615 1 Nte., Viña, Valparaíso, 2520316, Chile",
+   "phone": "56940941234",
+   "website": "https://www.instagram.com/hydrastavern/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Importadora Tala",
@@ -479,6 +573,17 @@
    "address": "Santiago Torres 79, Loc 1, 2500000 Puchuncaví, Valparaíso",
    "phone": "9 3372 9785",
    "checked_at": "2026-10-17T01:17:15Z"
+  },
+  {
+   "name": "J Juegos Casablanca",
+   "group": "in_store",
+   "address": "523 Roberto Loyola, Casablanca, Valparaíso, 2480130, Chile",
+   "phone": "56920040739",
+   "website": "https://www.instagram.com/j__juegos/profilecard/?igsh=MTJjcG9vYnQ5NGRrZQ==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Jorge Games",
@@ -518,6 +623,17 @@
    "checked_at": "2026-10-17T01:17:03Z"
   },
   {
+   "name": "Kurgan",
+   "group": "in_store",
+   "address": "81 2 Pte., Viña, Valparaíso, 2520305, Chile",
+   "phone": "+56 942599056",
+   "website": "https://facebook.com/TiendaKurgan",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:44Z"
+  },
+  {
    "name": "La Forja de Stone",
    "group": "in_store",
    "city": "Santiago",
@@ -528,7 +644,18 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:14:42Z"
+   "checked_at": "2026-10-17T01:17:44Z"
+  },
+  {
+   "name": "La Posada del Dado",
+   "group": "in_store",
+   "address": "248 La Concepción, Quillota, Valparaíso, 2260000, Chile",
+   "phone": "56963-701-171",
+   "website": "https://www.instagram.com/laposadadeldado/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Los Tres Palacios",
@@ -559,6 +686,16 @@
    "checked_at": "2026-10-17T01:16:08Z"
   },
   {
+   "name": "Magikard TCG",
+   "group": "in_store",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
+   "address": "Galpón 6 - Placer 637, Loc 50, Santiago, Región Metropolitana",
+   "phone": "9 3890 9455",
+   "website": "https://www.instagram.com/magikardtcg/",
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
    "name": "Mr-Vens",
    "group": "in_store",
    "city": "Valparaíso",
@@ -579,7 +716,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:14:33Z"
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Ozen Paradise TCG",
@@ -589,7 +726,7 @@
    "address": "Quillota 60, 2353232 Valparaíso",
    "phone": "9 5420 3942",
    "website": "https://www.instagram.com/ozen_paradise",
-   "checked_at": "2026-10-17T01:17:02Z"
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Panini Curauma",
@@ -598,6 +735,15 @@
    "region": "Valparaíso",
    "address": "Av. Lomas de la Luz 4131, 2373197 Placilla, Valparaíso",
    "checked_at": "2026-10-17T01:17:26Z"
+  },
+  {
+   "name": "Pika Store",
+   "group": "in_store",
+   "city": "Concepción",
+   "region": "Bío Bío",
+   "address": "Brasil 1107, 4060819 Concepción, Bío Bío",
+   "website": "https://instagram.com/pikastoreccp?igshid=NTc4MTIwNjQ2YQ==",
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "PixelGallery",
@@ -614,6 +760,15 @@
    "region": "Región Metropolitana",
    "address": "Miraflores 370, Loc 6-7 A, 8320172 Santiago, Región Metropolitana",
    "checked_at": "2026-10-17T01:16:36Z"
+  },
+  {
+   "name": "Single Planet",
+   "group": "in_store",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
+   "address": "Av. Manuel Rodríguez Nte. 143, 8320000 Santiago, Región Metropolitana",
+   "website": "https://www.instagram.com/singleplanetcl/",
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Store Command Center Viña",
@@ -635,13 +790,22 @@
    "checked_at": "2026-10-17T01:17:15Z"
   },
   {
+   "name": "The Big Box / Shop Pokeñoños",
+   "group": "in_store",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
+   "address": "Agustinas 502, 8320222 Santiago, Región Metropolitana",
+   "website": "https://www.facebook.com/thebigboxcl/",
+   "checked_at": "2026-10-17T01:17:44Z"
+  },
+  {
    "name": "The Collector Toys",
    "group": "in_store",
    "city": "Villa Alemana",
    "region": "Valparaíso",
    "address": "Santiago 710, 2460374 Villa Alemana, Valparaíso",
    "website": "https://www.instagram.com/the_collector.toys?igsh=b2hwcWRhamw3Y3Bl",
-   "checked_at": "2026-10-17T01:17:17Z"
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Tienda Clone Valparaiso",
@@ -651,7 +815,7 @@
    "address": "Las Heras 598, 2340000 Valparaíso",
    "phone": "(32) 352 7849",
    "website": "https://www.facebook.com/clonevalpo",
-   "checked_at": "2026-10-17T01:17:24Z"
+   "checked_at": "2026-10-17T01:17:44Z"
   },
   {
    "name": "Tienda De Cartas",
@@ -668,6 +832,15 @@
    "region": "Región Metropolitana",
    "address": "Víctor Manuel 2298, 8361353 Santiago, Región Metropolitana",
    "checked_at": "2026-10-17T01:15:44Z"
+  },
+  {
+   "name": "Tienda HOC - House of Cards",
+   "group": "in_store",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
+   "address": "Subterráneo - Bandera 236, Loc 3, 8340419 Santiago, Región Metropolitana",
+   "website": "http://instagram.com/tienda_hoc",
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "Tienda Klu",
@@ -689,13 +862,23 @@
    "checked_at": "2026-10-17T01:17:36Z"
   },
   {
+   "name": "Tienda Todo NERDS",
+   "group": "in_store",
+   "city": "Valparaíso",
+   "region": "Valparaíso",
+   "address": "Almte. Montt 269, 2380008 Valparaíso",
+   "phone": "9 8271 8778",
+   "website": "https://www.instagram.com/todo.nerds/",
+   "checked_at": "2026-10-17T01:17:36Z"
+  },
+  {
    "name": "Todo Freak",
    "group": "in_store",
    "city": "Viña",
    "region": "Valparaíso",
    "address": "Avenida Valparaíso - Batuco 1183, 2520000 Viña del Mar, Valparaíso",
    "website": "http://www.instagram.com/todofreakstore",
-   "checked_at": "2026-10-17T01:17:17Z"
+   "checked_at": "2026-10-17T01:17:36Z"
   },
   {
    "name": "TOKO BARU",
@@ -943,6 +1126,17 @@
    "checked_at": "2026-10-17T01:17:14Z"
   },
   {
+   "name": "Command Center - Viña del Mar",
+   "group": "unknown",
+   "address": "Arlegui 437, Viña del Mar, VS, 7500587, Chile",
+   "phone": "+56-32-271-0814 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
+  },
+  {
    "name": "CRAZY ALL COMICS",
    "group": "unknown",
    "city": "Santiago",
@@ -950,7 +1144,7 @@
    "address": "Miraflores 370, Loc 22, 8320172 Santiago, Región Metropolitana",
    "phone": "9 4235 6473",
    "website": "https://www.crazyallcomics.cl/",
-   "checked_at": "2026-10-17T01:16:22Z"
+   "checked_at": "2026-10-17T01:17:24Z"
   },
   {
    "name": "Crazy All Comics, Providencia",
@@ -960,7 +1154,7 @@
    "address": "Av. Providencia 2198, Loc 63, 7510080 Providencia, Región Metropolitana",
    "phone": "(2) 2784 2213",
    "website": "https://www.crazyallcomics.cl/",
-   "checked_at": "2026-10-17T01:16:24Z"
+   "checked_at": "2026-10-17T01:17:24Z"
   },
   {
    "name": "Crazy all comics, Viña",
@@ -1046,7 +1240,7 @@
    "address": "Belarmino Osorio 31, 9250262 Maipú, Región Metropolitana",
    "phone": "9 2746 5925",
    "website": "https://drawn.cl/",
-   "checked_at": "2026-10-17T01:15:41Z"
+   "checked_at": "2026-10-17T01:16:16Z"
   },
   {
    "name": "Drawn Tienda TCG PROVIDENCIA",
@@ -1144,6 +1338,19 @@
    "checked_at": "2026-10-17T01:16:34Z"
   },
   {
+   "name": "Entre Juegos",
+   "group": "unknown",
+   "city": "Providencia",
+   "region": "Región Metropolitana",
+   "address": "Nueva de Lyon 105 local 61, Santiago, RM, 7510054, Chile",
+   "phone": "56-2-2893-6795 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
+  },
+  {
    "name": "Espacio Shazam",
    "group": "unknown",
    "city": "Providencia",
@@ -1202,14 +1409,17 @@
    "checked_at": "2026-10-17T01:15:56Z"
   },
   {
-   "name": "Game of Magic.",
+   "name": "Game of Magic",
    "group": "unknown",
    "city": "Concepción",
    "region": "Bío Bío",
-   "address": "Libertador Gral. Bernardo O'Higgins 1397, Bío BíoConcepción, Bío Bío - Freire 898, 4030000 Concepción, Bío Bío",
-   "phone": "9 8565 8171",
-   "website": "https://www.gameofmagictienda.cl/",
-   "checked_at": "2026-10-17T01:17:31Z"
+   "address": "Avenida Libertador Gral.Bernardo O'Higgins 1397, Concepción, BI, 4030000, Chile",
+   "phone": "564-1228-1622",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
   },
   {
    "name": "GameQuest",
@@ -1262,8 +1472,8 @@
    "city": "Providencia",
    "region": "Región Metropolitana",
    "address": "Av. Andrés Bello 2425, Local 148, 7510689 Providencia, Región Metropolitana",
-   "website": "https://geekz.cl/",
-   "checked_at": "2026-10-17T01:16:41Z"
+   "website": "https://www.geekz.cl/",
+   "checked_at": "2026-10-17T01:16:52Z"
   },
   {
    "name": "geekz",
@@ -1334,7 +1544,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:14:33Z"
+   "checked_at": "2026-10-17T01:15:28Z"
   },
   {
    "name": "Huntercard TCG Las Condes",
@@ -1359,6 +1569,17 @@
    "checked_at": "2026-10-17T01:15:07Z"
   },
   {
+   "name": "Ilusiones Industriales",
+   "group": "unknown",
+   "address": "Ramón Freire 128-104, San Felipe, VS, 2170000, Chile",
+   "phone": "+563 4231 1327",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
+  },
+  {
    "name": "IRGamers Club",
    "group": "unknown",
    "city": "Santiago",
@@ -1376,6 +1597,17 @@
    "address": "Av. Alameda Libertador Bernardo O'Higgins 921, local 134 (Galería, Santiago, Región Metropolitana",
    "website": "https://irion.cl/",
    "checked_at": "2026-10-17T01:16:45Z"
+  },
+  {
+   "name": "Iwa TCG & Other Hobbies",
+   "group": "unknown",
+   "address": "Av Concon Reñana 41 Local 15, Concon, Region de Valparaiso, 2520000, Chile",
+   "phone": "5656983926904",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
   },
   {
    "name": "Juegomania",
@@ -1405,7 +1637,7 @@
    "address": "Av. Argentina 540, Loc 325, 2340000 Valparaíso",
    "phone": "(2) 3325 1328",
    "website": "https://ansaldo.cl/",
-   "checked_at": "2026-10-17T01:17:15Z"
+   "checked_at": "2026-10-17T01:17:24Z"
   },
   {
    "name": "Jugueterías Play Box Vina del Mar",
@@ -1575,6 +1807,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:15:13Z"
+  },
+  {
+   "name": "Moss Eisley",
+   "group": "unknown",
+   "address": "victoria 2486 local 10, Valparaíso, VS, 2340000, Chile",
+   "phone": "56+56 3 2249 1190",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
   },
   {
    "name": "Moss Juegos",
@@ -1785,6 +2028,17 @@
    "checked_at": "2026-10-17T01:17:41Z"
   },
   {
+   "name": "Rivendel",
+   "group": "unknown",
+   "address": "San antonio 65 local 0101, Santiago, RM, 8580000, Chile",
+   "phone": "+562 2633 44 39 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:14:33Z"
+  },
+  {
    "name": "Rivendel: el Concilio",
    "group": "unknown",
    "city": "Santiago",
@@ -1809,6 +2063,8 @@
   {
    "name": "Royal Card Store",
    "group": "unknown",
+   "city": "Santiago",
+   "region": "Región Metropolitana",
    "address": "412 Portugal, Local 701, Santiago, Región Metropolitana, 8330280, Chile",
    "phone": "5695-9525661",
    "website": "https://royalcardstore.cl/es/",
@@ -1879,7 +2135,7 @@
    "address": "Huérfanos 714, 8320192 Santiago, Región Metropolitana",
    "phone": "(2) 2633 3502",
    "website": "https://www.shazamcomics.cl/",
-   "checked_at": "2026-10-17T01:16:28Z"
+   "checked_at": "2026-10-17T01:16:32Z"
   },
   {
    "name": "Shoguntcg",

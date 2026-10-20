@@ -1,8 +1,8 @@
 {
  "country": "VE",
  "currency": "USD",
- "updated": "2026-10-18",
- "store_count": 51,
+ "updated": "2026-10-20",
+ "store_count": 59,
  "stores": [
   {
    "name": "CTJ STUDIOS C.A",
@@ -22,6 +22,16 @@
    "address": "C. Ana Maria Campos, Cabimas 4013, Zulia",
    "phone": "0412-6574108",
    "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "Bazar y Librería Araira",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Caracas 1080, Miranda",
+   "phone": "0424-1602283",
+   "website": "https://instagram.com/libreriaraira?igshid=MzRlODBiNWFlZA==",
+   "checked_at": "2026-10-18T21:55:00Z"
   },
   {
    "name": "Brutal Player",
@@ -130,6 +140,26 @@
    "checked_at": "2026-10-18T21:54:57Z"
   },
   {
+   "name": "GamePlanet Caracas",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Miranda",
+   "address": "Av. El Pauji, C.C. Galerías, URB, del Cafetal, Caracas 1083, Miranda",
+   "phone": "0412-2324263",
+   "website": "http://instagram.com/gameplanetccs",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
+   "name": "Geek Me Venezuela",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Centro Comercial Sambil, local P-31, Nivel Paseo, Caracas 1010, Distrito Capital",
+   "phone": "0424-2094268",
+   "website": "https://www.instagram.com/geekmevenezuela/",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
    "name": "GEEKORIUM EMPORIO MAGICO C.A.",
    "group": "in_store",
    "city": "Caracas",
@@ -157,6 +187,16 @@
    "address": "Subida de Los Naranjos, Av. Raimundo Reinoso, Caracas 1083, Miranda",
    "phone": "0424-2590154",
    "checked_at": "2026-10-18T21:54:54Z"
+  },
+  {
+   "name": "Inversiones Oke",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "ccct, Caracas 1060, Distrito Capital",
+   "phone": "0424-1765364",
+   "website": "https://www.instagram.com/inversiones_oke?igsh=anpwdmRud3hpcTll",
+   "checked_at": "2026-10-18T21:55:00Z"
   },
   {
    "name": "Kokusai Fan - Tienda de Mangas en Caracas - Venezuela",
@@ -205,6 +245,16 @@
    "checked_at": "2026-10-18T21:54:54Z"
   },
   {
+   "name": "Mundo Comics Juguetería",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Perico Piso 2, Esquina de Perico, Centro Comercial Galería, Av. Universidad, Caracas 1010, Distrito Capital",
+   "phone": "0422-6330537",
+   "website": "https://www.instagram.com/mundocomicsjugueteria/?hl=es",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
    "name": "Official Card Fifa",
    "group": "in_store",
    "city": "CCS",
@@ -233,6 +283,16 @@
    "checked_at": "2026-10-18T21:55:00Z"
   },
   {
+   "name": "SUPERPIKY STORE",
+   "group": "in_store",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "AV. ANDRES BELLO, LOCAL 7, EDIF, Edificio San Francisco, CON Av. Vollmer, Caracas 1010, Distrito Capital",
+   "phone": "0424-2933476",
+   "website": "https://www.instagram.com/superpikystore?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "checked_at": "2026-10-18T21:55:00Z"
+  },
+  {
    "name": "Tcg Cave",
    "group": "in_store",
    "city": "CCS",
@@ -249,7 +309,7 @@
    "address": "entre carreras 23 y 24 C. 9, San Cristóbal 5001, Táchira",
    "phone": "0276-3569745",
    "website": "https://www.facebook.com/TCGplaystore/",
-   "checked_at": "2026-10-18T21:54:59Z"
+   "checked_at": "2026-10-18T21:55:02Z"
   },
   {
    "name": "Tu Zona Retro",
@@ -259,7 +319,7 @@
    "address": "Avenida El Bosque Urbanización, Portón De láminas plateadas con marco negro, Caracas 1050, Distrito Capital",
    "phone": "0412-8970707",
    "website": "https://www.instagram.com/tuzonaretro",
-   "checked_at": "2026-10-18T21:54:54Z"
+   "checked_at": "2026-10-18T21:55:00Z"
   },
   {
    "name": "Universal TCG",
@@ -269,7 +329,7 @@
    "address": "4001, Maracaibo 4005, Zulia",
    "phone": "0414-6662603",
    "website": "https://www.facebook.com/UniversalTCG",
-   "checked_at": "2026-10-18T21:55:01Z"
+   "checked_at": "2026-10-18T21:55:02Z"
   },
   {
    "name": "VOKcollections",
@@ -361,6 +421,17 @@
    "phone": "0424-2825480",
    "website": "https://dtoditojuguetes.myshopify.com/",
    "checked_at": "2026-10-18T21:55:01Z"
+  },
+  {
+   "name": "El Mundo del Libro",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "frente a la UCV, Av. P.º Los Ilustres, Caracas 1040, Distrito Capital",
+   "phone": "0424-1438370",
+   "website": "https://wa.me/message/56XTJ5MVUWYRH1",
+   "buylist_url": "https://api.whatsapp.com/send/?text&username=buylist&type=username&app_absent=0",
+   "checked_at": "2026-10-18T21:54:54Z"
   },
   {
    "name": "Gaming Store ccs",
@@ -486,6 +557,17 @@
    "phone": "0424-2575297",
    "website": "https://pleayers-heaven-ou9t.glide.page/",
    "checked_at": "2026-10-18T21:55:05Z"
+  },
+  {
+   "name": "TotakuVZLA",
+   "group": "unknown",
+   "city": "CCS",
+   "region": "Dto. Capital",
+   "address": "Avenida Andrés Bello, Residencias cortijos del Ávila, detrás del ortopédico Infantil, Edificio Dos Caminos, Av. Andrés Bello, Caracas 1050, Distrito Capital",
+   "phone": "0412-7391929",
+   "website": "https://wa.me/message/56XTJ5MVUWYRH1",
+   "buylist_url": "https://api.whatsapp.com/send/?text&username=buylist&type=username&app_absent=0",
+   "checked_at": "2026-10-18T21:54:54Z"
   },
   {
    "name": "Venegift",

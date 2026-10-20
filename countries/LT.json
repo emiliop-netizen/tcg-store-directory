@@ -1,8 +1,8 @@
 {
  "country": "LT",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 67,
+ "updated": "2026-10-20",
+ "store_count": 69,
  "stores": [
   {
    "name": "Baitukas",
@@ -11,8 +11,8 @@
    "region": "Kauno apskr.",
    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas",
    "phone": "(0-600) 20263",
-   "website": "https://baitukas.lt/",
-   "checked_at": "2026-10-17T05:19:06Z"
+   "website": "https://www.baitukas.lt/",
+   "checked_at": "2026-10-17T05:19:10Z"
   },
   {
    "name": "Baitukas",
@@ -75,11 +75,11 @@
    "region": "Vilniaus apskritis",
    "address": "Naugarduko g. 41, 03227 Vilnius, Lithuania, Vilnius, Vilniaus apskritis, 03227",
    "phone": "+37 062781599",
-   "website": "http://www.gameroom.lt",
+   "website": "https://gameroom.lt/lt/",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T05:18:41Z"
+   "checked_at": "2026-10-17T05:19:07Z"
   },
   {
    "name": "GAME ROOM Kaunas",
@@ -132,6 +132,16 @@
    "checked_at": "2026-10-17T05:19:50Z"
   },
   {
+   "name": "Art Forest Boutique",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "Užupio g. 2A, Vilnius, 01200 Vilniaus m. sav.",
+   "phone": "(0-646) 30264",
+   "website": "https://www.facebook.com/SmaragdoKrautuvele",
+   "checked_at": "2026-10-17T05:19:41Z"
+  },
+  {
    "name": "books gifts store",
    "group": "in_store",
    "city": "Vilnius",
@@ -149,6 +159,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T05:18:41Z"
+  },
+  {
+   "name": "Game Inn",
+   "group": "in_store",
+   "city": "Vilnius",
+   "region": "Vilniaus apskr.",
+   "address": "A. Goštauto g. 8, 01108 Vilnius",
+   "phone": "(0-683) 55951",
+   "website": "https://www.facebook.com/GameInnStaloZaidimai/",
+   "checked_at": "2026-10-17T05:19:41Z"
   },
   {
    "name": "Ivolgamus",
@@ -195,7 +215,7 @@
    "address": "S. Skapo g. 3, Vilnius, 01513 Vilniaus m. sav.",
    "phone": "(0-678) 86443",
    "website": "http://www.facebook.com/dangausragaine",
-   "checked_at": "2026-10-17T05:18:53Z"
+   "checked_at": "2026-10-17T05:19:41Z"
   },
   {
    "name": "Vienaragis LT",
@@ -212,8 +232,8 @@
    "region": "Vilniaus apskr.",
    "address": "Ozo g. 25, Vilnius, 08217 Vilniaus m. sav.",
    "phone": "(0-659) 23632",
-   "website": "https://akropolis.lt/vilnius/",
-   "checked_at": "2026-10-17T05:19:12Z"
+   "website": "https://akropolis.lt/",
+   "checked_at": "2026-10-17T05:19:15Z"
   },
   {
    "name": "Antikvaras Kaune. Antikvariatas",
@@ -253,7 +273,7 @@
    "address": "2 aukštas, Ozo g. 18, 08243 Vilnius",
    "phone": "(0-659) 73577",
    "website": "https://www.brain-games.lt/",
-   "checked_at": "2026-10-17T05:18:50Z"
+   "checked_at": "2026-10-17T05:19:17Z"
   },
   {
    "name": "Cardshouse.eu",

@@ -1,8 +1,8 @@
 {
  "country": "FI",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 152,
+ "updated": "2026-10-20",
+ "store_count": 153,
  "stores": [
   {
    "name": "Suomalainen Kirjakauppa Helsinki Kauppakeskus Kamppi",
@@ -290,6 +290,16 @@
    "address": "Piritanaukio 1, 00150 Helsinki",
    "phone": "050 5140989",
    "checked_at": "2026-10-16T04:00:38Z"
+  },
+  {
+   "name": "Gezelius antikvaarinen kirjakauppa",
+   "group": "in_store",
+   "city": "Tampere",
+   "region": "Pirkanmaa",
+   "address": "Hämeenpuisto 17-19, 33210 Tampere",
+   "phone": "050 3529609",
+   "website": "https://www.facebook.com/profile.php?id=61555480486676",
+   "checked_at": "2026-10-16T04:00:06Z"
   },
   {
    "name": "Hokkari Oy",

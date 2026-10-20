@@ -1,8 +1,8 @@
 {
  "country": "JP",
  "currency": "JPY",
- "updated": "2026-10-16",
- "store_count": 1144,
+ "updated": "2026-10-20",
+ "store_count": 1315,
  "stores": [
   {
    "name": "Hareruya 2",
@@ -486,8 +486,8 @@
    "region": "Tokyo",
    "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−22−１３ 近代ビル 11号館 JP 6F",
    "phone": "03-5944-8023",
-   "website": "https://mtg.bigweb.co.jp/shop/ikebukuro",
-   "checked_at": "2026-10-16T21:10:11Z"
+   "website": "https://mtg.bigweb.co.jp/shop/namba",
+   "checked_at": "2026-10-16T21:10:17Z"
   },
   {
    "name": "Doragonsutaikebukuroten",
@@ -735,6 +735,20 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:04Z"
+  },
+  {
+   "name": "1/144マニア模型店",
+   "group": "in_store",
+   "city": "御所市",
+   "region": "奈良県",
+   "address": "御門町699-8, 御所市, 奈良県, 639-2232, Japan",
+   "phone": "(+81)08095033090",
+   "website": "https://twitter.com/144mokei_news?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "ABSOLUTE ZERO",
@@ -1081,6 +1095,20 @@
    "checked_at": "2026-10-16T21:07:30Z"
   },
   {
+   "name": "CARD WINGS 秋葉原駅前店",
+   "group": "in_store",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "外神田1-15-15, 千代田区, 13, 101-0021, Japan",
+   "phone": "810335262340",
+   "website": "https://twitter.com/torecano_tower",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "CARDBASE JABURO",
    "group": "in_store",
    "city": "Niigata",
@@ -1099,6 +1127,26 @@
    "address": "〒542-0073 Osaka, Chuo Ward, Nipponbashi, 1-chōme−3−７ 日本橋ビル38番街 4F",
    "phone": "06-6121-6756",
    "checked_at": "2026-10-16T21:05:44Z"
+  },
+  {
+   "name": "CARDGYM石神井公園駅前店",
+   "group": "in_store",
+   "address": "石神井町3-21-6 中村ビル3F, 練馬区, 13, 177-0041, Japan",
+   "phone": "(+81)0369133933",
+   "website": "https://twitter.com/cardgym/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "Cardpro Kyoto",
+   "group": "in_store",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "513 Higashigawachō, Nakagyo Ward, Kyoto, 604-8046",
+   "website": "https://twitter.com/cardpro_kyoto",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "Cards of Paradise 桜木店",
@@ -1195,6 +1243,16 @@
    "checked_at": "2026-10-16T21:03:12Z"
   },
   {
+   "name": "Culture Arts",
+   "group": "in_store",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒810-0001 Fukuoka, Chuo Ward, Tenjin, 3-chōme−6−２４ スコーレ第２天神 ３階 茶色のビル 306",
+   "phone": "092-409-0193",
+   "website": "https://twitter.com/fukuoka_game",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "Dice Roll",
    "group": "in_store",
    "city": "Nagoya",
@@ -1258,6 +1316,16 @@
    "address": "2-chōme-14-1 Hirohonmachi, Kure, Hiroshima 737-0125",
    "phone": "0823-71-7451",
    "checked_at": "2026-10-16T21:08:04Z"
+  },
+  {
+   "name": "Fushimi Shobo",
+   "group": "in_store",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒612-0012 Kyoto, Fushimi Ward, Fukakusa Ichinotsubochō, ３７ デュセルブルー伏見 1F",
+   "phone": "075-641-0537",
+   "website": "https://twitter.com/FushimiBooks",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "Fの集会場",
@@ -1330,15 +1398,18 @@
    "checked_at": "2026-10-16T21:03:44Z"
   },
   {
-   "name": "GIRAFULLオタロード店",
+   "name": "GIRAFULLなんば店",
    "group": "in_store",
    "city": "Osaka",
    "region": "Osaka",
-   "address": "Japan, 〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 3-chōme−8−１６ 安田ビル 2階, Osaka, Osaka, 556-0005",
+   "address": "中央区難波千日前13-13 3F, 大阪市, 大阪府, 542-0075, Japan",
+   "phone": "(+81)08034779911",
+   "website": "https://twitter.com/GIRAFULL_MTGFAB",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "Good トレカショップ 博多ポケモンカード専門店",
@@ -1359,6 +1430,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:03:54Z"
+  },
+  {
+   "name": "Hiki Shoten TCG - Kibe store",
+   "group": "in_store",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4-chōme−15−１３ Asano Bld Part II, 3F",
+   "website": "https://twitter.com/hikicardosaka",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "Hirano Toys",
@@ -1519,6 +1599,15 @@
    "checked_at": "2026-10-16T21:04:10Z"
   },
   {
+   "name": "MEETS大阪日本橋本店",
+   "group": "in_store",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "3-chōme-8-2 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
+   "website": "https://twitter.com/MEETS_tcg_osaka",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "Melonbooks Akihabara 1st Store",
    "group": "in_store",
    "city": "Chiyoda City",
@@ -1539,13 +1628,10 @@
   {
    "name": "MINTGAMES池袋店",
    "group": "in_store",
-   "city": "御所市",
-   "region": "奈良県",
    "address": "東池袋1‐50‐35池袋P’PARCO2F, 豊島区, 東京都, 170‐0013, Japan",
    "phone": "(+81)03-6907-3308",
    "website": "https://twitter.com/MintGames_IKB",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:07Z"
@@ -1573,14 +1659,26 @@
    "checked_at": "2026-10-16T21:03:43Z"
   },
   {
+   "name": "Nexora TCG Distribution",
+   "group": "in_store",
+   "city": "Sapporo",
+   "region": "Hokkaido",
+   "address": "14 Chome Kita 5 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0005",
+   "website": "https://www.facebook.com/nexoradistro",
+   "checked_at": "2026-10-16T21:07:03Z"
+  },
+  {
    "name": "OMITSU仙台原町店",
    "group": "in_store",
+   "city": "Sendai",
+   "region": "Miyagi",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "022-766-8125",
+   "website": "https://twitter.com/tv_tcgomitsu",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:03:32Z"
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "ONE PIECEカードゲーム 仙台店",
@@ -1614,6 +1712,15 @@
    "region": "Tokyo",
    "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−22−１３ 第五ナカムラビル 2階",
    "checked_at": "2026-10-16T21:04:22Z"
+  },
+  {
+   "name": "PDG collector's shop 秋葉原本店",
+   "group": "in_store",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3-chōme−15−６ 小暮末広ビル 9階",
+   "website": "https://twitter.com/PDGcollectors",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "PDG Collector’s Shop 仙台駅前店",
@@ -1689,6 +1796,16 @@
    "checked_at": "2026-10-16T21:02:07Z"
   },
   {
+   "name": "santy",
+   "group": "in_store",
+   "city": "Sendai",
+   "region": "Miyagi",
+   "address": "3-chōme-9-23 Chūō, Aoba Ward, Sendai, Miyagi 980-0021",
+   "phone": "022-748-5906",
+   "website": "https://twitter.com/santycrissroad",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "SHAK CARDS",
    "group": "in_store",
    "city": "Yokohama",
@@ -1717,6 +1834,17 @@
    "checked_at": "2026-10-16T21:04:02Z"
   },
   {
+   "name": "SuperKaBoS+GEO敦賀店",
+   "group": "in_store",
+   "address": "木崎13-28, 敦賀市, 18, 914-0814, Japan",
+   "phone": "(+81)770-3936",
+   "website": "https://twitter.com/Cardbox_Tsuruga",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "SuperKaBoS鯖江店",
    "group": "in_store",
    "city": "Sabae",
@@ -1736,6 +1864,15 @@
    "phone": "06-6978-8066",
    "website": "https://twitter.com/supportchance_",
    "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "T.C.G LOVE＆Figure",
+   "group": "in_store",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒604-8043 Kyoto, Nakagyo Ward, Higashidaimonjichō, ３０６ コアビル 4F",
+   "website": "https://www.instagram.com/t.c.glovefigure/",
+   "checked_at": "2026-10-16T21:04:43Z"
   },
   {
    "name": "TCG Community Space SanArrow’s Cafe",
@@ -1799,15 +1936,18 @@
    "checked_at": "2026-10-16T21:10:16Z"
   },
   {
-   "name": "TCGBAR Rishadan",
+   "name": "TCGゲームズバーコネクト",
    "group": "in_store",
-   "city": "Sendai",
-   "region": "Miyagi",
-   "address": "2-chōme-10-16 Kokubunchō, Aoba Ward, Sendai, Miyagi 980-0803, Japan, Sendai, Miyagi, 980-0803",
+   "city": "Koto City",
+   "region": "Tokyo",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "03-6206-0975",
+   "website": "https://twitter.com/6thedieiscast9",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "TCGサンマイル 札幌店",
@@ -1836,6 +1976,15 @@
    "checked_at": "2026-10-16T21:06:44Z"
   },
   {
+   "name": "TCG専門店 アイランド",
+   "group": "in_store",
+   "city": "Akashi",
+   "region": "Hyogo",
+   "address": "〒674-0084 Hyogo, Akashi, Uozumichō, Nishioka−505‐5 2階",
+   "website": "https://twitter.com/LLC307282719329",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "TCG専門店 カードショップわいずまん",
    "group": "in_store",
    "city": "Onojo",
@@ -1852,6 +2001,17 @@
    "region": "Kanagawa",
    "address": "〒220-0073 Kanagawa, Yokohama, Nishi Ward, Okano, 1-chōme−12−１８ 1F",
    "checked_at": "2026-10-16T21:10:20Z"
+  },
+  {
+   "name": "TCG専門店Day屋",
+   "group": "in_store",
+   "address": "西蒲田７丁目４−５小山第一ビル 4F, 大田区, 東京都, 144-0051, Japan",
+   "phone": "(+81)0366720733",
+   "website": "https://twitter.com/dayyashop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "TOKIGAWA BASE",
@@ -1884,16 +2044,27 @@
    "checked_at": "2026-10-16T21:04:31Z"
   },
   {
-   "name": "TOM名古屋大須店",
+   "name": "TOM 名古屋 大須店",
    "group": "in_store",
    "city": "名古屋市中区",
    "region": "Aichi",
-   "address": "4-chōme-2-55 Ōsu, Naka Ward, 名古屋市中区 Aichi 460-0011, Japan, 名古屋市中区, Aichi, 460-0011",
-   "phone": "080-4219-4797",
+   "address": "中区大須4丁目2-55, 名古屋市, 愛知県, 460-0011, Japan",
+   "phone": "(+81)080-4219-4797",
+   "website": "https://twitter.com/CardShopTOMosu",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "Toreca Chase",
+   "group": "in_store",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−14−１４ 14TheCity池袋 5階",
+   "website": "https://twitter.com/chase_toreca1",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "TORECAMAALL Akihabara 2nd Store",
@@ -1937,7 +2108,6 @@
    "city": "Chiyoda City",
    "region": "Tokyo",
    "address": "3-chōme-2-3 Sotokanda, Chiyoda City, Tokyo 101-0021",
-   "phone": "070-3276-8778",
    "website": "https://twitter.com/akiba_yk",
    "checked_at": "2026-10-16T21:02:07Z"
   },
@@ -1991,17 +2161,6 @@
    "checked_at": "2026-10-16T21:03:03Z"
   },
   {
-   "name": "TSUTAYA Trading Card 平塚店",
-   "group": "in_store",
-   "city": "Hiratsuka",
-   "region": "Kanagawa",
-   "address": "10-1 Amanuma, Hiratsuka, Kanagawa 254-0031, Japan, Hiratsuka, Kanagawa, 254-0031",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
-  },
-  {
    "name": "TSUTAYA 鴻巣吹上店",
    "group": "in_store",
    "city": "Konosu",
@@ -2020,17 +2179,6 @@
    "region": "Chiba",
    "address": "Japan, 〒274-0063 Chiba, Funabashi, Narashinodai, 2-chōme−1−６ 北習志野駅前ビル 2f, Funabashi, Chiba, 274-0063",
    "phone": "080-7630-2791",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
-  },
-  {
-   "name": "TSUTAYA嵐山店",
-   "group": "in_store",
-   "city": "Ranzan",
-   "region": "Saitama",
-   "address": "2440, 2440 Hirasawa, Ranzan, Hiki District, Saitama 355-0215, Japan, Ranzan, Saitama, 355-0215",
    "games_events": [
     "Flesh and Blood"
    ],
@@ -2062,7 +2210,7 @@
    "city": "Kyoto",
    "region": "Kyoto",
    "address": "292-2 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
-   "checked_at": "2026-10-16T21:10:27Z"
+   "checked_at": "2026-10-16T21:10:32Z"
   },
   {
    "name": "WonderGOOひたち野うしく店",
@@ -2150,6 +2298,18 @@
    "website": "https://twitter.com/Benzaiten_Akita",
    "games_events": [
     "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "ぎゃざりんぐスペース　アンパラ",
+   "group": "in_store",
+   "address": "米田町平津426-1 ライフビル３階, 加古川市, 兵庫県, 6750054, Japan",
+   "phone": "(+81)070-1210-5121",
+   "website": "https://twitter.com/UnparaTcg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:07Z"
   },
@@ -2291,6 +2451,18 @@
   {
    "name": "アイランド",
    "group": "in_store",
+   "address": "魚住町西岡505‐5‐2階, 明石市, 兵庫県, 674‐0084, Japan",
+   "phone": "(+81)07040369985",
+   "website": "https://twitter.com/LLC307282719329",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "アイランド",
+   "group": "in_store",
    "city": "Akashi",
    "region": "Hyogo",
    "address": "Nishioka-505 Uozumichō, Akashi, Hyogo 674-0084, Japan, Akashi, Hyogo, 674-0084",
@@ -2313,6 +2485,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:04:13Z"
+  },
+  {
+   "name": "アメコミショップ ComicsZone(コミックスゾーン)",
+   "group": "in_store",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4-chōme−15−２ エレガント日本橋 101号室",
+   "phone": "06-7161-7487",
+   "website": "https://twitter.com/ComicsZoneJP",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "アメニティードリーム京都店",
@@ -2699,6 +2881,17 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "カードサイクル",
+   "group": "in_store",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒815-0033 Fukuoka, Minami Ward, Ōhashi, 4-chōme−23−１ 武井ビル １階",
+   "phone": "092-710-2093",
+   "website": "https://twitter.com/@card_cycle",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "カードショップ",
    "group": "in_store",
    "city": "Hiroshima",
@@ -2741,6 +2934,16 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "カードショップ トレカブレイク 6F",
+   "group": "in_store",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−16−１０ 秋葉原センタービル 602 ニュ",
+   "phone": "070-3276-8778",
+   "website": "https://twitter.com/torekabreak?s=11&t=lM9ZWyCxkuUbF-hxu_1qog",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "カードショップ トレワン",
    "group": "in_store",
    "city": "Kobe",
@@ -2760,18 +2963,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
-  },
-  {
-   "name": "カードショップArena",
-   "group": "in_store",
-   "city": "Kumagaya",
-   "region": "Saitama",
-   "address": "1-chōme-140 Honchō, Kumagaya, Saitama 360-0042, Japan, Kumagaya, Saitama, 360-0042",
-   "phone": "070--8579-5662",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
   },
   {
    "name": "カードショップBIGRED",
@@ -2995,6 +3186,18 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "カードショップフロンティア天六",
+   "group": "in_store",
+   "address": "都島区都島本通1-1-1 8R BLD BF1, 大阪市, 大阪府, 534-0021, Japan",
+   "phone": "(+81)090-8148-2666",
+   "website": "https://twitter.com/frontiertenrock",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "カードショップホビビ豊田VITS店",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -3014,6 +3217,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "カードショップライブラリ",
+   "group": "in_store",
+   "address": "五老内町6-14, 福島市, 福島県, 960-8131, Japan",
+   "phone": "(+81)0245316410",
+   "website": "https://twitter.com/TCG_library",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "カードショップラノワール",
@@ -3049,6 +3264,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "カードショップ宝島千歳店",
+   "group": "in_store",
+   "address": "花園5-6-7 エルドラード千歳1F, 千歳市, 北海道, 066-0028, Japan",
+   "phone": "810123-31-1096",
+   "website": "https://twitter.com/titoseten0001",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "カードショップ抜忍",
@@ -3356,6 +3583,19 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "カードラッシュ秋葉原0号店TC",
+   "group": "in_store",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "外神田1-18−18, Bito Akiba Plaza, 7F, 千代田区, 東京都, 101-0021, Japan",
+   "phone": "(+81)03-6260-9030",
+   "website": "https://twitter.com/cardrush_akiba0?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "カードラボ博多マルイ店",
    "group": "in_store",
    "city": "Fukuoka",
@@ -3366,6 +3606,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "カードン 秋葉原本店",
+   "group": "in_store",
+   "address": "外神田二丁目４番４号, 千代田区, 東京都, 101-0021, Japan",
+   "phone": "810335262172",
+   "website": "https://twitter.com/cardon_tcg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "カード・グッズ・ゲームショップ くるくる",
@@ -3422,6 +3674,18 @@
    "phone": "011-299-6277",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "ゲームアーク宝島麻生駅前店",
+   "group": "in_store",
+   "address": "北区北40条西5丁目5-20 石橋ビル2Ｆ, 札幌市, 北海道, 001-0040, Japan",
+   "phone": "(+81)011-299-6277",
+   "website": "https://twitter.com/trc_azabu1203?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "ゲームカフェ.Level",
@@ -3606,6 +3870,18 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "シーガル嶋北店",
+   "group": "in_store",
+   "address": "嶋北2-22-20, 山形市, 山形県, 9900885, Japan",
+   "phone": "(+81)0236748650",
+   "website": "https://twitter.com/seagullyamakita",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "シーガル泉中央店",
    "group": "in_store",
    "city": "Sendai",
@@ -3732,6 +4008,18 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "トイコンプ住道店",
+   "group": "in_store",
+   "address": "赤井1-13-3 ポップタウン住道1番館2F, 大東市, 大阪府, 574-0046, Japan",
+   "phone": "(+81)072-870-3383",
+   "website": "https://twitter.com/toycomp1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "トイコンプ大阪駅前第3ビル店",
    "group": "in_store",
    "city": "Osaka",
@@ -3802,6 +4090,18 @@
    "checked_at": "2026-10-16T21:04:04Z"
   },
   {
+   "name": "トクジロー浦安店",
+   "group": "in_store",
+   "address": "猫実4-6-26 ミナモトビル1F, 浦安市, 12, 279-0004, Japan",
+   "phone": "(+81)047-355-8112",
+   "website": "https://twitter.com/tokuurayasu109c",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "トップボーイ鶴見店",
    "group": "in_store",
    "city": "Yokohama",
@@ -3834,15 +4134,13 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
-   "name": "トレカBOON",
+   "name": "トレカCROWN",
    "group": "in_store",
-   "city": "Higashiosaka",
-   "region": "Osaka",
-   "address": "Japan, 〒577-0818 Osaka, Higashiosaka, Kowakae, 4-chōme−12−１８ １２番１８号, Higashiosaka, Osaka, 577-0818",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "city": "Shinjuku City",
+   "region": "Tokyo",
+   "address": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 1-chōme−22−１ Nskビル 501 5階",
+   "website": "https://twitter.com/tcg_shopCROWN",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "トレカfamily",
@@ -4077,6 +4375,30 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "トレカショップ竜のしっぽ大阪梅田店",
+   "group": "in_store",
+   "address": "北区芝田2-3-23 メイプルビル芝田2F, 大阪市, 大阪府, 530-0012, Japan",
+   "phone": "(+81)06-6136-6246",
+   "website": "https://twitter.com/ryuunoshippo_2",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "トレカショップ竜のしっぽ姫路店",
+   "group": "in_store",
+   "address": "駅前町254姫路駅前ビル２F-B, 姫路市, 兵庫県, 670-0927, Japan",
+   "phone": "(+81)079-280-1070 ",
+   "website": "https://twitter.com/ryuunoshippo_4",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "トレカステーション佐鳴台店",
    "group": "in_store",
    "city": "Hamamatsu",
@@ -4159,6 +4481,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "トレカチャンピオン江南店",
+   "group": "in_store",
+   "address": "宮後町船渡88, 江南市, 23, 483-8044, Japan",
+   "phone": "(+81)0",
+   "website": "https://twitter.com/CardKonan/",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "トレカチャンピオン神戸三宮店",
@@ -4283,6 +4617,15 @@
    "checked_at": "2026-10-16T21:02:07Z"
   },
   {
+   "name": "トレカ屋JINstudio",
+   "group": "in_store",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0004 Osaka, Naniwa Ward, Nipponbashinishi, 1-chōme−4−１９ ４０３",
+   "website": "https://twitter.com/torekayaJIN",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "トレカ海賊団 大須本店",
    "group": "in_store",
    "city": "Nagoya",
@@ -4311,15 +4654,15 @@
    "checked_at": "2026-10-16T21:02:30Z"
   },
   {
-   "name": "トレキャットFC御影店",
+   "name": "トレスタ香椎駅前店",
    "group": "in_store",
-   "city": "Kobe",
-   "region": "Hyogo",
-   "address": "1階, 2-chōme-16-16 Mikageishimachi, Higashinada Ward, Kobe, Hyogo 658-0045, Japan, Kobe, Hyogo, 658-0045",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "2-chōme-13-10 Kashii Ekimae, Higashi Ward, Fukuoka, 813-0013",
+   "phone": "092-410-8633",
+   "website": "https://twitter.com/toresutaks?s=20",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "トレドク神戸",
@@ -4360,6 +4703,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "トーナメントセンターバトロコ八千代台駅前",
+   "group": "in_store",
+   "address": "八千代台東1-14-1 八千代プラザ2F, 八千代台市, 千葉県, 276-0032, Japan",
+   "phone": "(+81)047-409-6795",
+   "website": "https://twitter.com/batoloco_ycyd",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "トーナメントセンターバトロコ川崎駅前",
@@ -4510,6 +4865,18 @@
   {
    "name": "ビデオインアメリカ大徳寺店",
    "group": "in_store",
+   "address": "北区紫野上築山町41, 京都市, 26, 603-8221, Japan",
+   "phone": "81 0754514888",
+   "website": "https://twitter.com/CardDaitokuji",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "ビデオインアメリカ大徳寺店",
+   "group": "in_store",
    "city": "京都市北区",
    "region": "Kyoto",
    "address": "41 Murasakino Kamitsukiyamachō, Kita Ward, 京都市北区, Kyoto 603-8221, Japan, 京都市北区, Kyoto, 603-8221",
@@ -4601,6 +4968,17 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "フルアヘッド大阪日本橋店",
+   "group": "in_store",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4-chōme−11−６ 3F",
+   "phone": "06-6978-8789",
+   "website": "https://twitter.com/fullaheadosaka",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "ブックオフ54号広島八木店",
    "group": "in_store",
    "phone": "082-830-2304",
@@ -4630,6 +5008,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "プレイズ大阪日本橋本店",
+   "group": "in_store",
+   "address": "浪速区日本橋3丁目7-6 1F・2F, 大阪市, 27, 556-0005, Japan",
+   "phone": "(+81)06-6684-8444",
+   "website": "https://twitter.com/Preyz_N_honten",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "ホビーショップぼっけもん",
@@ -4732,6 +5122,15 @@
    "checked_at": "2026-10-16T21:08:06Z"
   },
   {
+   "name": "ポプサン商会-秋葉原店-akihabara,pokemoncard.lorcanaTCG.gandamTCG",
+   "group": "in_store",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 4-chōme−13−１ 日浦ビル 第二",
+   "website": "https://twitter.com/popsan_akb?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
    "name": "ポータル",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -4753,6 +5152,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "マックスゲーム浜松町店",
+   "group": "in_store",
+   "address": "浜松町2-8-4 高雄ビル3F, 港区, 13, 105-0013, Japan",
+   "phone": "(+81)03-6435-6644",
+   "website": "https://twitter.com/maxgame8888",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
   },
   {
    "name": "マックスゲーム浜松町店",
@@ -4799,6 +5210,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:08:06Z"
+  },
+  {
+   "name": "メルカドキオト〜レンタルショーケース〜[MERCADO KIOTO]",
+   "group": "in_store",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒601-8047 Kyoto, Minami Ward, Higashikujō Shimotonodachō, 43番地 1階",
+   "phone": "075-672-6200",
+   "website": "https://www.instagram.com/mercadokioto?igsh=N2hhaWh0OWJieXZp",
+   "checked_at": "2026-10-16T21:04:43Z"
   },
   {
    "name": "モトナワールド船堀店",
@@ -4921,6 +5342,17 @@
    "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−30−８６ 第１アメ横ビル 1F",
    "phone": "052-261-3051",
    "website": "http://twitter.com/otakaraichiba",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "天神お宝市場",
+   "group": "in_store",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "3-chōme-16-1 Tenjin, Chuo Ward, Fukuoka, 810-0001",
+   "phone": "080-9860-8147",
+   "website": "https://twitter.com/otakaraichiba",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:02:07Z"
   },
@@ -5151,6 +5583,18 @@
   {
    "name": "竜星の嵐名古屋店",
    "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "052-414-5664",
+   "website": "https://twitter.com/card_arashi_n",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:07Z"
+  },
+  {
+   "name": "竜星の嵐名古屋店",
+   "group": "in_store",
    "city": "Nagoya",
    "region": "Aichi",
    "address": "Japan, 〒453-0015 Aichi, Nagoya, Nakamura Ward, Tsubakichō, 21−５ 桜木商会, Nagoya, Aichi, 453-0015",
@@ -5324,9 +5768,9 @@
    "region": "Miyagi",
    "address": "2-chōme-1-15 Chūō, Aoba Ward, Sendai, Miyagi 980-0021",
    "phone": "022-716-5701",
-   "website": "https://shop.e-daikoku.com/info/spot/detail?code=0000000135",
-   "buylist_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A7%E9%BB%92%E5%B1%8B+%E8%B3%AA%E4%BB%99%E5%8F%B0%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E8%B2%B7%E5%8F%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&travelmode=walking",
-   "checked_at": "2026-10-16T21:10:31Z"
+   "website": "https://shop.e-daikoku.com/info/spot/detail?code=0000000194",
+   "buylist_url": "https://kaitori.e-daikoku.com/brand/genre/gold.html",
+   "checked_at": "2026-10-16T21:10:34Z"
   },
   {
    "name": "Daikokuya",
@@ -5335,9 +5779,9 @@
    "region": "Hiroshima",
    "address": "1-chōme-2-22 Ōmachihigashi, Asaminami Ward, Hiroshima, 731-0124",
    "phone": "082-831-0501",
-   "website": "https://shop.e-daikoku.com/info/spot/detail?code=0000000229",
+   "website": "https://shop.e-daikoku.com/info/spot/detail?code=0000000194",
    "buylist_url": "https://kaitori.e-daikoku.com/brand/genre/gold.html",
-   "checked_at": "2026-10-16T21:10:33Z"
+   "checked_at": "2026-10-16T21:10:34Z"
   },
   {
    "name": "Daikokuya",
@@ -5722,17 +6166,6 @@
    "checked_at": "2026-10-16T21:05:17Z"
   },
   {
-   "name": "BAHAMUT",
-   "group": "unknown",
-   "city": "Sapporo",
-   "region": "Hokkaido",
-   "address": "5-chōme-13-64 Minami 2 Jōnishi, Chuo Ward, Sapporo, Hokkaido 060-0062",
-   "phone": "011-251-1000",
-   "website": "https://x.com/uvicmtg",
-   "buylist_url": "https://x.com/buylist",
-   "checked_at": "2026-10-16T21:02:03Z"
-  },
-  {
    "name": "Banbutsu Sozobo",
    "group": "unknown",
    "city": "Kyoto",
@@ -5916,6 +6349,17 @@
    "checked_at": "2026-10-16T21:04:46Z"
   },
   {
+   "name": "Blue Rocket 大阪 なんば日本橋店",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0011 Osaka, Naniwa Ward, Nanbanaka, 2-chōme−2−２０ 辻村ビル 7F",
+   "phone": "080-1442-6908",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Book Inn Kinshindo",
    "group": "unknown",
    "city": "Fukuoka",
@@ -5976,6 +6420,17 @@
    "region": "Fukuoka",
    "address": "Sumitomo Life Hakata Building, 3-chōme-2-8 Hakata Ekimae, Hakata Ward, Fukuoka, 812-0011",
    "phone": "092-436-2285",
+   "website": "https://www.bookoff.co.jp/shop/shop20501.html",
+   "buylist_url": "https://www.bookoff.co.jp/selllist/",
+   "checked_at": "2026-10-16T21:03:03Z"
+  },
+  {
+   "name": "BOOKOFF Kobe Nishi-Suzurandai Store",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "1-chōme-6-1 Minamigoyō, Kita Ward, Kobe, Hyogo 651-1132",
+   "phone": "078-596-6160",
    "website": "https://www.bookoff.co.jp/shop/shop20501.html",
    "buylist_url": "https://www.bookoff.co.jp/selllist/",
    "checked_at": "2026-10-16T21:03:03Z"
@@ -6060,17 +6515,6 @@
   {
    "name": "BOOKOFF SUPER BAZAAR",
    "group": "unknown",
-   "city": "Kobe",
-   "region": "Hyogo",
-   "address": "1-7 Minamikomaechō, Nagata Ward, Kobe, Hyogo 653-0044",
-   "phone": "078-646-2260",
-   "website": "https://www.bookoff.co.jp/shop/shop20501.html",
-   "buylist_url": "https://www.bookoff.co.jp/selllist/",
-   "checked_at": "2026-10-16T21:03:03Z"
-  },
-  {
-   "name": "BOOKOFF SUPER BAZAAR",
-   "group": "unknown",
    "city": "Hiroshima",
    "region": "Hiroshima",
    "address": "2-chōme-7-6 Ōtemachi, Naka Ward, Hiroshima, 730-0051",
@@ -6122,6 +6566,20 @@
    "website": "https://www.bookoff.co.jp/shop/shop20501.html",
    "buylist_url": "https://www.bookoff.co.jp/selllist/",
    "checked_at": "2026-10-16T21:03:03Z"
+  },
+  {
+   "name": "BOOKOFFSUPERBAZAAR広島段原店",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "南区段原南1-3-52, 広島市, 広島県, 732-0814, Japan",
+   "phone": "(+81)082-568-1855",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Books Kinokuniya - Sapporo Main Store",
@@ -6240,6 +6698,17 @@
    "checked_at": "2026-10-16T21:04:40Z"
   },
   {
+   "name": "Card Kingdom",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−14−７ 秋葉原野村ビル 1F・3F・4F・5F",
+   "phone": "03-6206-9232",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Card Kingdom Akihabara 2nd",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -6247,6 +6716,17 @@
    "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−14−１４ ３",
    "website": "https://cardkingdom.jp/stores/tokushima/",
    "checked_at": "2026-10-16T21:04:11Z"
+  },
+  {
+   "name": "Card KINGDOM Hakata Sumiyoshi shop",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒812-0018 Fukuoka, Hakata Ward, Sumiyoshi, 1-chōme−4−２１ St Building, １階",
+   "phone": "092-292-3082",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Card lab Sendai shop",
@@ -6293,6 +6773,18 @@
    "checked_at": "2026-10-16T21:03:26Z"
   },
   {
+   "name": "Card Pot",
+   "group": "unknown",
+   "address": "上野2-11-12 上野TKSビル4F, 台東区, 東京都, 110-0005, Japan",
+   "phone": "(+81)03-6803-2540",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Card Shop Allium",
    "group": "unknown",
    "city": "Osaka",
@@ -6324,6 +6816,16 @@
    "checked_at": "2026-10-16T21:04:58Z"
   },
   {
+   "name": "CARD SHOP CARDO",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒601-1462 Kyoto, Fushimi Ward, Ogurisumorimotochō, 20−２４２ 1階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Card Shop Clove Base",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -6332,6 +6834,17 @@
    "website": "https://clovebase.clove.jp/",
    "buylist_url": "https://clovebase.clove.jp/retailer/buylist",
    "checked_at": "2026-10-16T21:04:56Z"
+  },
+  {
+   "name": "card shop pokemon",
+   "group": "unknown",
+   "city": "Yokohama",
+   "region": "Kanagawa",
+   "address": "〒247-0006 Kanagawa, Yokohama, Sakae Ward, Kasama, 1-chōme−1−１ 104A",
+   "phone": "045-877-1905",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Card Shop Toreka-oh",
@@ -6359,20 +6872,6 @@
    "checked_at": "2026-10-16T21:03:07Z"
   },
   {
-   "name": "CARD WINGS秋葉原駅前店",
-   "group": "unknown",
-   "city": "Chiyoda City",
-   "region": "Tokyo",
-   "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−15−１５ 福山会館, Chiyoda City, Tokyo, 101-0021",
-   "phone": "03-3526-2340",
-   "website": "https://doukutsu.jp/",
-   "buylist_url": "https://doukutsu.jp/archives/category2/%e8%b2%b7%e5%8f%96%e6%83%85%e5%a0%b1",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
-  },
-  {
    "name": "CARDBOX青馬堂書店矢向店",
    "group": "unknown",
    "city": "Chatan",
@@ -6396,6 +6895,27 @@
    "phone": "06-6606-9559",
    "website": "https://cardex-store.com/",
    "checked_at": "2026-10-16T21:05:40Z"
+  },
+  {
+   "name": "CardFox京都河原町店",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "503-16 Higashigawachō, Nakagyo Ward, Kyoto, 604-8046",
+   "phone": "075-366-4944",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "CARDHUNTER",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0011 Osaka, Naniwa Ward, Nanbanaka, 2-chōme−6−２２ ナンバ AOBLD4階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "CARDON",
@@ -6494,6 +7014,16 @@
    "checked_at": "2026-10-16T21:05:12Z"
   },
   {
+   "name": "CLEVER 大阪日本橋",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "Ookini Ota-Road Building, 404 4-chōme-15-20 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Comic Shock",
    "group": "unknown",
    "city": "Kyoto",
@@ -6513,6 +7043,18 @@
    "phone": "03-5298-5392",
    "website": "https://www.comiczin.jp/",
    "checked_at": "2026-10-16T21:05:18Z"
+  },
+  {
+   "name": "delight",
+   "group": "unknown",
+   "address": "中区大須4-2-47 赤門ビル3F, 名古屋市, 23, 460-0011, Japan",
+   "phone": "0522248840",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Don Quijote",
@@ -6633,6 +7175,17 @@
    "buylist_url": "https://fandom-akiba.com/about_purchase/",
    "mail_in": true,
    "checked_at": "2026-10-16T21:05:16Z"
+  },
+  {
+   "name": "Fav Akihabara",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3-chōme−16−１３ 1F Fav秋葉原店",
+   "phone": "03-6821-8692",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "FIVE CARD坂戸店",
@@ -6883,22 +7436,25 @@
    "checked_at": "2026-10-16T21:03:51Z"
   },
   {
-   "name": "GameスペースFushimiBooks（フシミ書房）",
+   "name": "GameスペースFushimiBooks",
    "group": "unknown",
    "city": "Kyoto",
    "region": "Kyoto",
-   "address": "Japan, 〒612-0012 Kyoto, Fushimi Ward, Fukakusa Ichinotsubochō, ３７ デュセルブルー伏見, Kyoto, Kyoto, 612-0012",
-   "phone": "075-641-0537",
+   "address": "伏見区深草一ノ坪町36, 京都市, 26, 612-0012, Japan",
+   "phone": "(+81)075-641-0537 ",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "GAME＆BAR Vintage",
    "group": "unknown",
+   "city": "Sapporo",
+   "region": "Hokkaido",
    "address": "白石区南郷通1南10-15 サウスヒル地下ホワイト広場, 札幌市, 01, 003-0022, Japan",
    "phone": "(+81)011-803-5919",
    "website": "https://gamebar-vintage.amebaownd.com/",
@@ -6906,6 +7462,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:29Z"
+  },
+  {
+   "name": "Ganryu秋葉原",
+   "group": "unknown",
+   "address": "外神田1丁目2-7 オノデン秋葉原本館 B1階, 千代田区, 東京都, 101-0021, JAPAN",
+   "phone": "(+81)03-6260-8108",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Gee Store Nagoya",
@@ -7014,6 +7582,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:03:53Z"
+  },
+  {
+   "name": "GIRAFULL 広島ドンキ店",
+   "group": "unknown",
+   "city": "Hiroshima",
+   "region": "Hiroshima",
+   "address": "〒730-0034 Hiroshima, Naka Ward, Shintenchi, 5−３ 5F",
+   "phone": "082-258-5375",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Goodgame",
@@ -7490,7 +8069,7 @@
    "address": "1-chōme-2-22B1 Sumiyoshi, Hakata Ward, Fukuoka, 812-0018",
    "phone": "092-263-2675",
    "website": "https://www.shonenjump.com/j/jumpshop/",
-   "checked_at": "2026-10-16T21:10:21Z"
+   "checked_at": "2026-10-16T21:10:29Z"
   },
   {
    "name": "JUMP SHOP Nagoya",
@@ -7606,6 +8185,16 @@
    "website": "https://www.kaitori-daikichi.jp/store/nanakumayotsukado/?utm_source=google&utm_medium=my_business&utm_campaign=top",
    "buylist_url": "https://www.kaitori-daikichi.jp/shop-kaitori/",
    "checked_at": "2026-10-16T21:06:59Z"
+  },
+  {
+   "name": "Kaitorisenmontenginzayafukuokahattaten",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒813-0031 Fukuoka, Higashi Ward, Hatta, 2-chōme−20−１ 黒木ビル",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Kamekore",
@@ -7822,6 +8411,16 @@
    "checked_at": "2026-10-16T21:08:01Z"
   },
   {
+   "name": "LHUB京都",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒604-8047 Kyoto, Nakagyo Ward, Nakasujichō, ４９３ 幅田ビル 3階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "LHUB広島店(ルーブ広島店)",
    "group": "unknown",
    "city": "Hiroshima",
@@ -7867,11 +8466,31 @@
    "checked_at": "2026-10-16T21:05:01Z"
   },
   {
+   "name": "magi京都河原町店（TCG shop）",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒604-8026 Kyoto, Nakagyo Ward, Komeyachō, ３９１ 河原町ニュートーキョービル 5階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "magi仙台店",
    "group": "unknown",
    "city": "Sendai",
    "region": "Miyagi",
    "address": "〒980-0811 Miyagi, Sendai, Aoba Ward, Ichibanchō, 3-chōme−6−１０ Foresta大町 101号室",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://cardshopmagi.com/shop/magi_kaitori/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "magi大阪なんば駅前店",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 7−１０ COCONAMBA6 階B号室",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://cardshopmagi.com/shop/magi_kaitori/",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -7885,6 +8504,16 @@
    "website": "https://cardshopmagi.com/shop/magi-akiba/",
    "buylist_url": "https://cardshopmagi.com/shop/magi_kaitori/",
    "checked_at": "2026-10-16T21:05:01Z"
+  },
+  {
+   "name": "magi神戸マルイ店",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "〒650-0021 Hyogo, Kobe, Chuo Ward, Sannomiyachō, 1-chōme−7−２ 神戸マルイ 4F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://cardshopmagi.com/shop/magi_kaitori/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "magi福岡天神店",
@@ -8232,6 +8861,21 @@
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
+   "name": "Misteria",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "中区栄３丁目３１番７号大河内ビル3階, 名古屋市, 愛知県, 460-0008, Japan",
+   "phone": "(+81)052-211-8840",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "MoriMori Store & 森森買取 福岡店",
    "group": "unknown",
    "city": "Fukuoka",
@@ -8334,6 +8978,17 @@
    "phone": "03-6712-7155",
    "website": "https://www.nintendo.com/jp/officialstore/index.html",
    "checked_at": "2026-10-16T21:04:43Z"
+  },
+  {
+   "name": "OCG COLLECTABLES SHOP",
+   "group": "unknown",
+   "city": "Yokohama",
+   "region": "Kanagawa",
+   "address": "〒232-0004 Kanagawa, Yokohama, Minami Ward, Maesatochō, 1-chōme−４−３ 黄金町駅前ビル ３階",
+   "phone": "045-308-9712",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Ogaki Bookstore - Fushimi",
@@ -8476,7 +9131,6 @@
    "city": "Hiroshima",
    "region": "Hiroshima",
    "address": "〒730-0051 Hiroshima, Naka Ward, Ōtemachi, 1-chōme−1−２２ ブライトビル 3F 純",
-   "phone": "082-258-5375",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -8496,7 +9150,16 @@
    "city": "Chiyoda City",
    "region": "Tokyo",
    "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3-chōme−15−７ 麻野ビル 1階",
-   "phone": "03-6206-9232",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "PDG Collector’s Shop 大阪オタロード店",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "Ookini Ota-Road Building, 501 4-chōme-15-20 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -8611,6 +9274,16 @@
    "checked_at": "2026-10-16T21:07:13Z"
   },
   {
+   "name": "Poké Town",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−16−１０ ニュー秋葉原センター 1 階 17号",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Pokémon Cafe Osaka Shinsaibashi",
    "group": "unknown",
    "city": "Osaka",
@@ -8619,6 +9292,17 @@
    "phone": "06-4256-1160",
    "website": "https://www.pokemon-cafe.jp/ja/cafe/",
    "checked_at": "2026-10-16T21:05:54Z"
+  },
+  {
+   "name": "POKÉMON CARD LOUNGE",
+   "group": "unknown",
+   "city": "Shibuya",
+   "region": "Tokyo",
+   "address": "〒141-0031 Tokyo, Shibuya, Udagawachō, 21−６ QFRONT5階",
+   "phone": "03-6837-3000",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Pokémon Card Station Mega Tokyo",
@@ -8814,6 +9498,17 @@
    "buylist_url": "https://www.bigban.jp/kaitori_menu/",
    "mail_in": true,
    "checked_at": "2026-10-16T21:07:03Z"
+  },
+  {
+   "name": "Reputon Gionten",
+   "group": "unknown",
+   "city": "Hiroshima",
+   "region": "Hiroshima",
+   "address": "〒731-0113 Hiroshima, Asaminami Ward, Nishihara, 6-chōme−33−１４ ＴＫビル",
+   "phone": "082-875-0781",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "RoSEトレカ本通り店",
@@ -9087,6 +9782,26 @@
    "checked_at": "2026-10-16T21:07:50Z"
   },
   {
+   "name": "TCG DREAM 大阪 日本橋",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4-chōme−15−６ ２Ｆ",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "TCG FULL HOUSE 秋葉原店",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 6-chōme−12−９ 中鉄ビル 第一 101",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "TCG ROYAL ROPPONGI",
    "group": "unknown",
    "city": "Minato City",
@@ -9110,6 +9825,27 @@
    "checked_at": "2026-10-16T21:04:16Z"
   },
   {
+   "name": "TCG SHOP 4x4",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−31−６ Kawaetsu 2F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "TCG Shop BEAST",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0004 Osaka, Naniwa Ward, Nipponbashinishi, 1-chōme−2, 1丁目2-25ｓｔ難波ビル3階",
+   "phone": "06-6616-9337",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "TCG Shop MAGIC PLANET",
    "group": "unknown",
    "city": "Taito City",
@@ -9117,6 +9853,26 @@
    "address": "〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−27−２ 浅草トーセイビル 6階",
    "website": "https://www.magicplanet.store/",
    "checked_at": "2026-10-16T21:04:17Z"
+  },
+  {
+   "name": "TCG shop ソニック 広島店",
+   "group": "unknown",
+   "city": "Hiroshima",
+   "region": "Hiroshima",
+   "address": "〒730-0033 Hiroshima, Naka Ward, Horikawachō, 4−１４ 畑正ビル 301",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "TCG STATION TSUNASHIMA（トレステ綱島）",
+   "group": "unknown",
+   "city": "Yokohama",
+   "region": "Kanagawa",
+   "address": "〒223-0052 Kanagawa, Yokohama, Kohoku Ward, Tsunashimahigashi, 1-chōme−2−６ 第１０吉田ビル 2F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "TCG&WARHAMMER はまっちょ",
@@ -9146,15 +9902,33 @@
    "checked_at": "2026-10-16T21:03:42Z"
   },
   {
-   "name": "TCG/BoardGame Cafe&Bar TOM 京都河原町店",
+   "name": "TCG/Board Game Cafe＆Bar TOM 大阪堺本店",
    "group": "unknown",
    "city": "Kyoto",
    "region": "Kyoto",
-   "address": "〒604-8024 Kyoto, Nakagyo Ward, Kamiyachō, 356番２ フィル・パーク四条河原町 2F",
-   "phone": "090-3651-5644",
-   "website": "https://hobbyshoptom.com/pages/kyoto-kawaramachi",
-   "buylist_url": "https://hobbyshoptom.com/pages/%E8%B2%B7%E5%8F%96%E5%8F%97%E4%BB%98",
-   "checked_at": "2026-10-16T21:10:26Z"
+   "address": "堺区戎之町東3丁1-9 オクムラビル2F, 堺市, 27, 590-0945, Japan",
+   "phone": "(+81)080-2676-7652",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "TCGBAR Rishadan",
+   "group": "unknown",
+   "city": "Sendai",
+   "region": "Miyagi",
+   "address": "青葉区国分町2-10-16　シャルマンビルB1F　B号室, 仙台市, 宮城県, 980-0803, Japan",
+   "phone": "(+81)022-398-6211",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "TCGカフェ＆バー EVO",
@@ -9171,18 +9945,15 @@
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
-   "name": "TCGゲームズバーコネクト",
+   "name": "TCGショップKAMIBIKI",
    "group": "unknown",
-   "city": "Koto City",
-   "region": "Tokyo",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "03-6206-0975",
-   "website": "https://tcg-stardust.net/",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 4-chōme−1−７１ 矢場町中駒ビル 501",
+   "phone": "090-3324-0708",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "TCGショップデネブ",
@@ -9193,6 +9964,17 @@
    "website": "https://dn-b.jp/",
    "buylist_url": "https://dn-b.jp/pages/flow",
    "checked_at": "2026-10-16T21:10:27Z"
+  },
+  {
+   "name": "TCG専門店 トレカSOUL名古屋店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 4-chōme−1−３ 名商ビル 8F",
+   "phone": "070-8544-6792",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "TCG専門店 トレカブルー (旧BIGトレカ 福岡店)",
@@ -9278,7 +10060,17 @@
    "city": "Yokohama",
    "region": "Kanagawa",
    "address": "〒220-0073 Kanagawa, Yokohama, Nishi Ward, Okano, 1-chōme−1−２０ 庄司横浜西口ビル 2F",
-   "phone": "070-6643-5411",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Torecaru Akihabara Station Store",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−13−１ Akiba1131.Bldg, 9階",
+   "phone": "080-7800-7344",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -9290,6 +10082,17 @@
    "region": "Tokyo",
    "address": "〒150-0042 Tokyo, Shibuya, Udagawachō, 23−１１ リ・エムビル 2F",
    "phone": "070-8458-6496",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Toreka Douraku Osaka Umeda",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0011 Osaka, Naniwa Ward, Nanbanaka, 2-chōme−7−７ ナンバＦＫビル 1階",
+   "phone": "080-4647-7492",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -9316,6 +10119,28 @@
    "buylist_url": "https://www.torezamunet.com/",
    "mail_in": true,
    "checked_at": "2026-10-16T21:04:53Z"
+  },
+  {
+   "name": "Toremani",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "2-chōme-11-1 Sannomiyachō, Chuo Ward, Kobe, Hyogo 650-0021",
+   "phone": "078-381-9428",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Toy Comp",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒530-0001 Osaka, Kita Ward, Umeda, 1-chōme−1−３ Osaka Station 3 Building, 2F-21",
+   "phone": "06-4796-8688",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "Toy Connect, USA Toy Shop",
@@ -9422,6 +10247,16 @@
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
+   "name": "Trading Card Shop YK 秋葉原2号店",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 4-chōme−6−１０ 1階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "Trading Card Shop コレトレ",
    "group": "unknown",
    "city": "Toshima City",
@@ -9484,6 +10319,16 @@
    "checked_at": "2026-10-16T21:06:12Z"
   },
   {
+   "name": "Trekamall Akihabara 1",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−2−９ ラオックス秋葉原本店 B1F 5F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "TRPGカフェモノドラコ",
    "group": "unknown",
    "address": "東上野2丁目15−11　ニュー佐藤ビル2F, 台東区, 東京都, 110-0015, Japan",
@@ -9512,9 +10357,8 @@
    "region": "Hokkaido",
    "address": "5-chōme-2-25 Kikusui 3 Jō, Shiroishi Ward, Sapporo, Hokkaido 003-0803",
    "phone": "011-837-5252",
-   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=0130",
-   "buylist_url": "https://store-tsutaya.tsite.jp/storelocator/detail/recycle.html?storeId=0130",
-   "checked_at": "2026-10-16T21:10:23Z"
+   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6738",
+   "checked_at": "2026-10-16T21:10:32Z"
   },
   {
    "name": "Tsutaya",
@@ -9523,9 +10367,8 @@
    "region": "Miyagi",
    "address": "Sengarita-308 Kamiyouden, Natori, Miyagi 981-1222",
    "phone": "022-382-6630",
-   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=0612",
-   "buylist_url": "https://store-tsutaya.tsite.jp/storelocator/detail/recycle.html?storeId=0612",
-   "checked_at": "2026-10-16T21:10:29Z"
+   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6738",
+   "checked_at": "2026-10-16T21:10:32Z"
   },
   {
    "name": "TSUTAYA Trading Card 戸塚",
@@ -9534,8 +10377,8 @@
    "region": "Kanagawa",
    "address": "〒244-0003 Kanagawa, Yokohama, Totsuka Ward, Totsukachō, １０ 戸塚モディ ７階",
    "phone": "080-5989-4132",
-   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=1789",
-   "checked_at": "2026-10-16T21:10:20Z"
+   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6738",
+   "checked_at": "2026-10-16T21:10:32Z"
   },
   {
    "name": "TSUTAYA ヤマト屋書店 東仙台店",
@@ -9544,9 +10387,53 @@
    "region": "Miyagi",
    "address": "4-chōme-14-1 Higashisendai, Miyagino Ward, Sendai, Miyagi 983-0833",
    "phone": "022-297-1291",
-   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=0503",
-   "buylist_url": "https://store-tsutaya.tsite.jp/storelocator/detail/recycle.html?storeId=0503",
-   "checked_at": "2026-10-16T21:10:29Z"
+   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6738",
+   "checked_at": "2026-10-16T21:10:32Z"
+  },
+  {
+   "name": "TSUTAYATradingCard錦糸町店",
+   "group": "unknown",
+   "city": "Hiratsuka",
+   "region": "Kanagawa",
+   "address": "江東橋4丁目27-14　錦糸町PARCO５階, 墨田区, 東京都, 130-0022, Japan",
+   "phone": "(+81)080-4100-6080",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Vault（ボルト）名古屋",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−11−２９ ハユネ山田 2F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Vault（ヴォルト） 大阪",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0004 Osaka, Naniwa Ward, Nipponbashinishi, 1-chōme−1−５ 竹田ビル 3F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "Vault（ヴォルト）大阪2nd",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0004 Osaka, Naniwa Ward, Nipponbashinishi, 1-chōme−1−５ 竹田ビル 4F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "verse COMICS",
@@ -9841,6 +10728,18 @@
    "checked_at": "2026-10-16T21:05:26Z"
   },
   {
+   "name": "あけらぼイオンタウン吉川美南店",
+   "group": "unknown",
+   "address": "美南3-25-1, 吉川市, 埼玉県, 342-0038, Japan",
+   "phone": "(+81)(+81)048-919-2166",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "あっぷる 今福店",
    "group": "unknown",
    "city": "Osaka",
@@ -9852,6 +10751,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:02:45Z"
+  },
+  {
+   "name": "おもちゃの王様",
+   "group": "unknown",
+   "address": "青葉区錦ヶ丘1丁目3-1 錦ヶ丘ヒルサイドモール2階, 仙台市, 宮城県, 989‐3123, Japan",
+   "phone": "(+81)022-797-6555",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "おもちゃの王様",
@@ -9960,6 +10871,28 @@
    "checked_at": "2026-10-16T21:04:07Z"
   },
   {
+   "name": "ぱんだキング元町店",
+   "group": "unknown",
+   "address": "中央区下山手通り4-1-17丸中ビル407, 神戸市, 兵庫県, 650-0011, Japan",
+   "phone": "(+81)080-4763-9180",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ぱんだキング神戸元町",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "407 4-chōme-1-17 Shimoyamatedōri, Chuo Ward, Kobe, Hyogo 650-0011",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ふるいちイオンモール広島府中店",
    "group": "unknown",
    "city": "Fuchu",
@@ -10002,6 +10935,54 @@
    "website": "https://www.furu1.net/shop/shop0027.html",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:02:27Z"
+  },
+  {
+   "name": "まちキャラ　コクーンシティ店",
+   "group": "unknown",
+   "address": "大宮区吉敷町4丁目263－1コクーンシティ2・3F, さいたま市, 埼玉県, 330-0843, Japan",
+   "phone": "(+81)048-778-8228",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "まちキャラ千葉駅前店",
+   "group": "unknown",
+   "address": "中央区富士見2-3-1　塚本大千葉ビル4階, 千葉市, 千葉県, 260-0015, Japan",
+   "phone": "0433065015",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "まちキャラ松戸店",
+   "group": "unknown",
+   "address": "松戸 1225 良文堂ビル5階, 松戸市, 千葉県, 271-0092, JAPAN",
+   "phone": "(+81)047-710-9771",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "まちキャラ柏モディ店",
+   "group": "unknown",
+   "address": "柏1-2-26 柏モディ5階, 柏市, 千葉県, 277-0005, Japan",
+   "phone": "(+81)047-199-7600",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "まねきや 横浜本店",
@@ -10049,6 +11030,30 @@
    "checked_at": "2026-10-16T21:07:36Z"
   },
   {
+   "name": "アップキープ",
+   "group": "unknown",
+   "address": "一本木町三丁目103-1, 半田市, 愛知県, 475-0014, Japan",
+   "phone": "(+81)090-1284-0229",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "アドバンテージ岐阜店",
+   "group": "unknown",
+   "address": "住田町1丁目27　新岐阜堂2F, 岐阜市, 岐阜県, 500-8843, Japan",
+   "phone": "(+81)058-262-6575",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "アメニティードリーム新宿店",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -10074,6 +11079,18 @@
    "buylist_url": "https://planetans.doorblog.jp/",
    "games_events": [
     "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "アメニティードリーム横浜店",
+   "group": "unknown",
+   "address": "西区南幸1-5-39 大洋ビル3F, 横浜市, 14, 220-0005, Japan",
+   "phone": "(+81)045-324-4077",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:03Z"
   },
@@ -10129,6 +11146,40 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "イエローサブマリン柏店",
+   "group": "unknown",
+   "address": "柏2丁目3-1　フーサワビル6F, 柏市, 12, 277-0005, Japan",
+   "phone": "+81047-136-7934",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "イエローサブマリン溝口店",
+   "group": "unknown",
+   "address": "高津区溝口1-9-5スギザキビル3階, 川崎市, 神奈川県, 213-0001, Japan",
+   "phone": "(+81)044-455-5612",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "オリパーク秋葉原店",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−2−９ ラオックス秋葉原 B1階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
@@ -10236,6 +11287,30 @@
    "checked_at": "2026-10-16T21:03:30Z"
   },
   {
+   "name": "カードゲームショップ どみなり屋",
+   "group": "unknown",
+   "address": "本町239 サンワプラザ大手前通202号, 姫路市, 兵庫県, 670-0012, Japan",
+   "phone": "(+81)079-263-8766",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードコレクション",
+   "group": "unknown",
+   "address": "北区上飯田北町2-61-1 レジデンス北町1F, 名古屋市, 23, 462-0802, Japan",
+   "phone": "+81052-938-8755",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードコレクト秋葉原 -CHIKA-",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -10289,6 +11364,16 @@
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
+   "name": "カードショップ トレカラフテル",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−16−１０ 秋葉原センタービル 地下1階 ニュ",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードショップ トレキング 秋葉原店",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -10297,6 +11382,45 @@
    "website": "https://toreking.ocnk.net/page/info",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:05:11Z"
+  },
+  {
+   "name": "カードショップ 死ぬ気王国 京都駅前店",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒600-8216 Kyoto, Shimogyo Ward, Higashishiokōjichō, ５４７−４ ステーションコートヤード 2階 201",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードショップArena",
+   "group": "unknown",
+   "city": "Kumagaya",
+   "region": "Saitama",
+   "address": "本町1-140　とちたて熊谷ビル　4階, 熊谷市, 埼玉県, 360-0042, Japan",
+   "phone": "(+81)070-8579-5662",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードショップBAHAMUT",
+   "group": "unknown",
+   "city": "Sapporo",
+   "region": "Hokkaido",
+   "address": "中央区南2条西5丁目13-64　コクミン2F, 札幌市, 北海道, 060-0062, Japan",
+   "phone": "(+81)(+81)011-251-1000",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードショップG＆P",
@@ -10316,13 +11440,15 @@
    "group": "unknown",
    "city": "Kusatsu",
    "region": "Shiga",
-   "address": "1-chōme-7-40 Nishikusatsu, Kusatsu, Shiga 525-0035, Japan, Kusatsu, Shiga, 525-0035",
-   "phone": "0775965663",
-   "website": "https://cardshop-light.com/",
+   "address": "西草津1丁目7-40, 草津市, 滋賀県, 525-0035, Japan",
+   "phone": "(+81)0775-96-5663",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:10:11Z"
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードショップLotus（ロータス 福岡中洲店）",
@@ -10356,6 +11482,27 @@
    "checked_at": "2026-10-16T21:04:30Z"
   },
   {
+   "name": "カードショップあるぱか",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2-chōme−3−７ アーバン ファーストビル 1F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードショップあーと 大阪日本橋店",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "4-chōme-15-6 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
+   "phone": "06-6567-9836",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードショップおうち",
    "group": "unknown",
    "address": "外神田4-7-1, 千代田区, 東京都, 101-0021, Japan",
@@ -10382,6 +11529,18 @@
    "checked_at": "2026-10-16T21:04:07Z"
   },
   {
+   "name": "カードショップもののふ",
+   "group": "unknown",
+   "address": "天白区野並3-196 スライブ野並1F, 名古屋市, 23, 468-0045, Japan",
+   "phone": "+81052-842-8096",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードショップりみ研",
    "group": "unknown",
    "address": "中央区難波千日前6-5音楽ビル901, 大阪市, 大阪府, 542-0075, Japan",
@@ -10392,6 +11551,30 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:54Z"
+  },
+  {
+   "name": "カードショップアニマル蒲田梅屋敷",
+   "group": "unknown",
+   "address": "大森中2-2-10, 大田区, 東京都, 143-0014, Japan",
+   "phone": "(+81)03-6404-8637",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードショップオリオンベース",
+   "group": "unknown",
+   "address": "曙町2丁目42－1, 立川市, 東京都, 190-0023, Japan",
+   "phone": "(+81)0425060880",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードショップガルタ",
@@ -10427,6 +11610,16 @@
    "checked_at": "2026-10-16T21:02:30Z"
   },
   {
+   "name": "カードショップセネト",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒612-0025 Kyoto, Fushimi Ward, Fukakusa Kitorochō, １０９−７ 藤森駅前ビル 3階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードショップトリックスター松戸店",
    "group": "unknown",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -10441,8 +11634,6 @@
   {
    "name": "カードショップフロンティア神戸店",
    "group": "unknown",
-   "city": "Fukuoka",
-   "region": "Fukuoka",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "080-1459-2002",
    "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/tcgsfrontier/&followup=https://sites.google.com/site/tcgsfrontier/&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1240940460:1792184587223256",
@@ -10463,6 +11654,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:20Z"
+  },
+  {
+   "name": "カードショップマーキス",
+   "group": "unknown",
+   "address": "桜4-1-24-B1, 箕面市, 大阪府, 562-0041, Japan",
+   "phone": "(+81)(+81)072-736-8870",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードショップメタル",
@@ -10491,6 +11694,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:03:43Z"
+  },
+  {
+   "name": "カードショップロピス",
+   "group": "unknown",
+   "address": "上江別427番地の41 マルシェ上江別１階, 江別市, 北海道, 067-0064, Japan",
+   "phone": "(+81)(+81)011-378-6712",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードショップヴェルデ",
@@ -10530,6 +11745,27 @@
    "checked_at": "2026-10-16T21:03:43Z"
   },
   {
+   "name": "カードショップ買取＆販売トレカハブ福岡博多店",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒812-0011 Fukuoka, Hakata Ward, Hakata Ekimae, 2-chōme−5−９ 歯臓ビル 6階",
+   "phone": "080-2758-1857",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードパーティー大須本店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 4-chōme−1−７１ 矢場町中駒ビル 3F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードボックス京都店",
    "group": "unknown",
    "address": "下京区七条通烏丸東入真苧屋町214番地 京都駅前第5ビル3階, 京都市, 京都府, 600-8211, Japan",
@@ -10542,6 +11778,18 @@
    "checked_at": "2026-10-16T21:03:09Z"
   },
   {
+   "name": "カードボックス川口店",
+   "group": "unknown",
+   "address": "本町2-7-25　ミエルかわぐち3F, 川口市, 埼玉県, 332‐0012, Japan",
+   "phone": "(+81)080-3724-5316",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "カードボックス池袋店",
    "group": "unknown",
    "address": "東池袋1丁目31－1 バロックコート池袋2F, 豊島区, 東京都, 170-0013, Japan",
@@ -10552,6 +11800,30 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:09Z"
+  },
+  {
+   "name": "カードマウンテン",
+   "group": "unknown",
+   "address": "神田淡路町1-19-8　千代田ビル4階, 千代田区, 東京都, 101-0063, Japan",
+   "phone": "(+81)050-3479-0312",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "カードマックス秋葉原店",
+   "group": "unknown",
+   "address": "外神田3-15-6 秋葉原M2ビル3F, 千代田区, 東京都, 101-0021, Japan",
+   "phone": "(+81)03-3253-7070",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "カードマックス秋葉原店",
@@ -10575,15 +11847,6 @@
    "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−13−１３ 岡安園ビル 5F",
    "website": "https://www.cardrush.jp/page/57",
    "buylist_url": "https://planetans.doorblog.jp/",
-   "checked_at": "2026-10-16T21:10:11Z"
-  },
-  {
-   "name": "カードラッシュ秋葉原0号店TC",
-   "group": "unknown",
-   "city": "Chiyoda City",
-   "region": "Tokyo",
-   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−18−１８ 7F",
-   "website": "https://www.cardrush.jp/page/57",
    "checked_at": "2026-10-16T21:10:11Z"
   },
   {
@@ -10718,6 +11981,29 @@
    "checked_at": "2026-10-16T21:03:58Z"
   },
   {
+   "name": "ゲームショップブリックス",
+   "group": "unknown",
+   "address": "右京区西院三蔵町26-1, 京都市, 26, 615-0021, Japan",
+   "phone": "+81075-312-5887",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ゲームショップブリックス",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "26-1 Saiinsanzōchō, Ukyo Ward, Kyoto, 615-0021",
+   "phone": "075-312-5887",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ゲームショップ武蔵",
    "group": "unknown",
    "address": "矢口1-6-16 武蔵野ビル2F, 大田区, 13, 146-0093, Japan",
@@ -10766,6 +12052,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:17Z"
+  },
+  {
+   "name": "コーギーアール名古屋店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒453-0015 Aichi, Nagoya, Nakamura Ward, Tsubakichō, 13−４ スパーク椿町Ⅰ 6F",
+   "phone": "070-5337-1099",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "コーギーアール池袋店",
@@ -10831,6 +12128,18 @@
    "phone": "03-6825-2236",
    "website": "https://www.cardshop-shinsoku.jp/",
    "checked_at": "2026-10-16T21:04:24Z"
+  },
+  {
+   "name": "ジュークボックス",
+   "group": "unknown",
+   "address": "北区長曽根町735-3 新金岡ビル3F, 堺市, 27, 591-8025, Japan",
+   "phone": "+81072-249-5570",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "ジョニーのお店",
@@ -10960,6 +12269,42 @@
    "checked_at": "2026-10-16T21:04:49Z"
   },
   {
+   "name": "トレカBH秋葉原",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 4-chōme−7−３ 虎ビル 7階",
+   "phone": "03-6285-2707",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカBOON",
+   "group": "unknown",
+   "city": "Higashiosaka",
+   "region": "Osaka",
+   "address": "小若江4-12-18　小若江4丁目ビル3階, 東大阪市, 大阪府, 577-0818, Japan",
+   "phone": "(+81)090-5384-0657",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカLaplace",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒600-8073 Kyoto, Shimogyo Ward, Nagaharachō, １４８−１ アイカーサ柳馬場 3F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカQUQU日本橋オタロード店",
    "group": "unknown",
    "city": "Osaka",
@@ -11047,6 +12392,28 @@
    "checked_at": "2026-10-16T21:02:56Z"
   },
   {
+   "name": "トレカX",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒812-0026 Fukuoka, Hakata Ward, Kamikawabatamachi, 14−２６ Nビル 201",
+   "phone": "080-7518-5717",
+   "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/tcgsfrontier/&followup=https://sites.google.com/site/tcgsfrontier/&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1240940460:1792184587223256",
+   "checked_at": "2026-10-16T21:03:06Z"
+  },
+  {
+   "name": "トレカっち",
+   "group": "unknown",
+   "address": "中村区椿町19-13カニエビル５F, 名古屋市, 愛知県, 453-0015, Japan",
+   "phone": "(+81)052-433-2665",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカっち",
    "group": "unknown",
    "city": "Nagoya",
@@ -11072,6 +12439,16 @@
    "checked_at": "2026-10-16T21:04:00Z"
   },
   {
+   "name": "トレカアルファ池袋店",
+   "group": "unknown",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 1-chōme−21−７ イー・パートナーズ池袋駅前ビル 7階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカイダー(ゆめタウン大竹店)",
    "group": "unknown",
    "city": "Otake",
@@ -11091,6 +12468,17 @@
    "phone": "050-8894-0138",
    "website": "https://www.mec-markis.jp/mm/",
    "checked_at": "2026-10-16T21:06:34Z"
+  },
+  {
+   "name": "トレカウィッシュ_名古屋店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−5−４９ 第２ハセビル 3階A号室",
+   "phone": "070-6986-0088",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカガレージ 新宿南口店｜Trading Card Shop",
@@ -11126,6 +12514,30 @@
    "checked_at": "2026-10-16T21:07:30Z"
   },
   {
+   "name": "トレカショップ バズーカ 名古屋店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒450-0002 Aichi, Nagoya, Nakamura Ward, Meieki, 4-chōme−16−２４ 名駅前東海ビル 310",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカショップFIRST",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "4-chōme-58-2 Motosakuradachō, Minami Ward, Nagoya, Aichi 457-0032, Japan, Nagoya, Aichi, 457-0032",
+   "phone": "08036649029",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカショップIRON",
    "group": "unknown",
    "city": "Osaka",
@@ -11135,6 +12547,30 @@
    "website": "https://www.instagram.com/torekashopiron/",
    "buylist_url": "https://www.instagram.com/retailer/buylist",
    "checked_at": "2026-10-16T21:05:47Z"
+  },
+  {
+   "name": "トレカショップビッグホーン姫路",
+   "group": "unknown",
+   "address": "北今宿2丁目1-35 瀬川ビル2 205, 姫路市, 兵庫県, 670-0057, Japan",
+   "phone": "(+81)070-4816-3993",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカショップビッグホーン姫路",
+   "group": "unknown",
+   "address": "北今宿2丁目1-35　瀬川ビル2　205, 姫路市, 兵庫県, 670-0057, JAPAN",
+   "phone": "(+81)070-4816-3993",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカショップラム渋谷店",
@@ -11156,6 +12592,16 @@
    "website": "https://mugenichiba.ocnk.net/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:07:16Z"
+  },
+  {
+   "name": "トレカショップ比希商店",
+   "group": "unknown",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−2−１１ 4F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカショップ竜のしっぽ 大阪梅田店",
@@ -11193,6 +12639,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:22Z"
+  },
+  {
+   "name": "トレカタウン 西院 本店",
+   "group": "unknown",
+   "city": "Kyoto",
+   "region": "Kyoto",
+   "address": "〒615-0014 Kyoto, Ukyo Ward, Saiintatsumichō, 西院巽町9 トレカタウン西院本店２F",
+   "phone": "075-321-7506",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカダンジョン",
@@ -11267,6 +12724,26 @@
    "checked_at": "2026-10-16T21:03:56Z"
   },
   {
+   "name": "トレカナッツ",
+   "group": "unknown",
+   "city": "Sendai",
+   "region": "Miyagi",
+   "address": "〒980-0803 Miyagi, Sendai, Aoba Ward, Kokubunchō, 1-chōme−6−２ 杜BLDg1F",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカハイライト池袋",
+   "group": "unknown",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−31−１６ 東商ビル 2階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカバンク",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -11276,6 +12753,16 @@
    "website": "https://www.torecabank.com/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:04:51Z"
+  },
+  {
+   "name": "トレカパイク TCG shop TorecaPike",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0011 Osaka, Naniwa Ward, Nanbanaka, 2-chōme−4−３ 村上ビル 512",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカビンクス池袋店",
@@ -11311,6 +12798,16 @@
    "checked_at": "2026-10-16T21:07:02Z"
   },
   {
+   "name": "トレカボール 天神店",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒810-0001 Fukuoka, Chuo Ward, Tenjin, 3-chōme−6−６ 天神ふじビル",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカマスター 銀座本店【LPC JAPAN STUDIO】",
    "group": "unknown",
    "city": "Chuo City",
@@ -11321,6 +12818,28 @@
    "checked_at": "2026-10-16T21:04:35Z"
   },
   {
+   "name": "トレカマスター天神サザン通り店",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2-chōme−6−２６ サザンビル 2F",
+   "phone": "092-753-3877",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカマニア新長田本店",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "6-chōme-1-1 Ōhashichō, Nagata Ward, Kobe, Hyogo 653-0037",
+   "phone": "078-646-2028",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカマーケットオンリーワン新宿東南口店",
    "group": "unknown",
    "city": "Shinjuku City",
@@ -11329,6 +12848,26 @@
    "website": "https://www.torecaonlyone-shop.com/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:04:37Z"
+  },
+  {
+   "name": "トレカミライ名古屋大須店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "3-chōme-18-29 Ōsu, Naka Ward, Nagoya, Aichi 460-0011",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "トレカモトーショップ池袋",
+   "group": "unknown",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−40−１１ 東池袋ＴＹビル 5階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカライザス神戸三宮店",
@@ -11362,6 +12901,16 @@
    "website": "https://torecarises.com/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:05:11Z"
+  },
+  {
+   "name": "トレカライジング サンシャイン通り店",
+   "group": "unknown",
+   "city": "Toshima City",
+   "region": "Tokyo",
+   "address": "〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−13−９ 鳥駒第２ビル B1B2",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレカラウンジ別館買取センター",
@@ -11429,6 +12978,16 @@
    "checked_at": "2026-10-16T21:04:54Z"
   },
   {
+   "name": "トレカ専門店 ポップタウン",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4-chōme−9−２２ リファインビル ４階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカ専門店リプレイ大須",
    "group": "unknown",
    "city": "Nagoya",
@@ -11462,6 +13021,17 @@
    "checked_at": "2026-10-16T21:04:52Z"
   },
   {
+   "name": "トレカ道楽 福岡天神店",
+   "group": "unknown",
+   "city": "Fukuoka",
+   "region": "Fukuoka",
+   "address": "〒810-0021 Fukuoka, Chuo Ward, Imaizumi, 2-chōme−5−２４ 宮城脳神経外科 105",
+   "phone": "080-9108-4514",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "トレカ道楽仙台駅前アーケード店",
    "group": "unknown",
    "city": "Sendai",
@@ -11471,6 +13041,21 @@
    "website": "https://douraku-inc.co.jp/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:07:44Z"
+  },
+  {
+   "name": "トレキャットFC御影店",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "東灘区御影石町2-16-16 1階, 神戸市, 兵庫県, 658-0045, 日本",
+   "phone": "(+81)070-1775-7613",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "トレジャーコレクション フジグラン広島店",
@@ -11549,6 +13134,17 @@
    "checked_at": "2026-10-16T21:03:41Z"
   },
   {
+   "name": "ナタデココ 横浜店",
+   "group": "unknown",
+   "city": "Yokohama",
+   "region": "Kanagawa",
+   "address": "〒220-8577 Kanagawa, Yokohama, Nishi Ward, Minamisaiwai, 2-chōme−15−１３ ビブレ横浜 3F",
+   "phone": "070-6643-5411",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ニンニン 秋葉原店",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -11560,6 +13156,16 @@
    "checked_at": "2026-10-16T21:05:20Z"
   },
   {
+   "name": "ニンニントレレン秋葉原店",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3-chōme−10−６ ホープビル ５階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ニンニン横浜店",
    "group": "unknown",
    "city": "Yokohama",
@@ -11569,6 +13175,18 @@
    "website": "https://nin-nin-pokeka.jp/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:05:20Z"
+  },
+  {
+   "name": "ニーヨンカードゲームカフェ&バー　24",
+   "group": "unknown",
+   "address": "東淀川区淡路淡路4-7-25, 大阪市, 大阪府, 533-0032, Japan",
+   "phone": "(+81)070-8434-5003",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "ハリケーン川西店",
@@ -11654,6 +13272,17 @@
    "checked_at": "2026-10-16T21:03:09Z"
   },
   {
+   "name": "ファミコンショップベアーズ",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "Arise-650-1 Ikawadanichō, Nishi Ward, Kobe, Hyogo 651-2113",
+   "phone": "078-976-7373",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "フェイズ四日市店",
    "group": "unknown",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -11672,9 +13301,45 @@
    "region": "Hiroshima",
    "address": "〒731-0138 Hiroshima, Asaminami Ward, Gion, 3-chōme−2−１ イオンモール広島祇園 ２Ｆ",
    "phone": "082-832-3890",
-   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6620",
-   "buylist_url": "https://store-tsutaya.tsite.jp/storelocator/detail/recycle.html?storeId=6620",
+   "website": "https://store-tsutaya.tsite.jp/store/detail?storeId=6738",
    "checked_at": "2026-10-16T21:10:32Z"
+  },
+  {
+   "name": "フタバ図書TSUTAYAトレーディングカード戸田店",
+   "group": "unknown",
+   "city": "Ranzan",
+   "region": "Saitama",
+   "address": "大字美女木943-7, 戸田市, 埼玉県, 335-0031, Japan",
+   "phone": "(+81)048-424-7077",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "フルアヘッド大須2号店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−10−１９ ヒルズ大須 ７F",
+   "phone": "052-228-9878",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "フルアヘッド大須１号店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 3-chōme−30−４０ 2F",
+   "phone": "052-228-1884",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "フルコンプ八王子店",
@@ -11741,6 +13406,30 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:22Z"
+  },
+  {
+   "name": "ブックオフイオンモール大牟田店",
+   "group": "unknown",
+   "address": "岬町3-4 イオンモール大牟田2F, 大牟田市, 福岡県, 836-0037, Japan",
+   "phone": "(+81)094-441-2822",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ブックオフチャチャタウン小倉店",
+   "group": "unknown",
+   "address": "小倉北区砂津3丁目1-1, 北九州市, 福岡県, 802-0014, Japan",
+   "phone": "(+81)093-521-2900",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "プラスアルファ",
@@ -11859,6 +13548,18 @@
   {
    "name": "プレイズ西尾シャオ店",
    "group": "unknown",
+   "address": "下町神明下57 ふぁみーず西尾シャオ店内, 西尾市, 23, 445-0891, Japan",
+   "phone": "(+81)0563-65-6000",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "プレイズ西尾シャオ店",
+   "group": "unknown",
    "city": "Nishio",
    "region": "Aichi",
    "address": "Shinmeishita-57 Shimomachi, Nishio, Aichi 445-0891, Japan, Nishio, Aichi, 445-0891",
@@ -11927,6 +13628,29 @@
    "checked_at": "2026-10-16T21:06:25Z"
   },
   {
+   "name": "ホビーオフ神戸星陵台店トレカコーナー",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "4-chōme-4-31 Seiryōdai, Tarumi-ku, Kobe, Hyogo 655-0038",
+   "phone": "078-784-1300",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ホビーショップShelly",
+   "group": "unknown",
+   "address": "糀町1-17　AURA510　101ホール, 周南市, 山口県, 745-0027, JAPAN",
+   "phone": "(+81)0834-34-3898",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ホビーショップサムサム",
    "group": "unknown",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -11937,6 +13661,30 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:12Z"
+  },
+  {
+   "name": "ホビーステーション所沢店",
+   "group": "unknown",
+   "address": "日吉町8-5 Ｋ’ｓビル5F, 所沢市, 11, 359-1123, Japan",
+   "phone": "(+81)04-2939-4605",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ホビーステーション松戸店",
+   "group": "unknown",
+   "address": "松戸1307-1　キテミテマツド　３F, 松戸市, 千葉県, 271-0092, Japan",
+   "phone": "(+81)047-367-5527",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "ホビーステーション秋葉原本店",
@@ -11966,6 +13714,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:25Z"
+  },
+  {
+   "name": "ホビープラネット",
+   "group": "unknown",
+   "address": "東大利町2-8若林ビル３F, 寝屋川市, 大阪府, 572-0042, Japan",
+   "phone": "(+81)(+81)072-886-4020",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "ボクらのカードショップ 池袋店",
@@ -12036,6 +13796,16 @@
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
+   "name": "ポケカ専門店ポズケット",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "4-chōme-17-10 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ポケモンカード専門店 GEKIRIN 湘南平塚店",
    "group": "unknown",
    "city": "Hiratsuka",
@@ -12055,6 +13825,36 @@
    "address": "〒103-0027 Tokyo, Chuo City, Nihonbashi, 2-chōme−9−４ VORT日本橋 1階",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ポケモンカード専門店 ポケ堂 秋葉原店",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "1-chōme-2-9 Sotokanda, Chiyoda City, Tokyo 101-0021",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ポケモンカード専門店MERO 秋葉原",
+   "group": "unknown",
+   "city": "Chiyoda City",
+   "region": "Tokyo",
+   "address": "〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1-chōme−2−９ 5階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "ポケモンカード専門店ポケカダッシュ",
+   "group": "unknown",
+   "city": "Sendai",
+   "region": "Miyagi",
+   "address": "2-chōme-6-1 Chūō, Aoba Ward, Sendai, Miyagi 980-0021",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:02:03Z"
   },
   {
@@ -12233,6 +14033,17 @@
    "checked_at": "2026-10-16T21:03:32Z"
   },
   {
+   "name": "ロータス大阪ミナミ店",
+   "group": "unknown",
+   "city": "Osaka",
+   "region": "Osaka",
+   "address": "〒542-0083 Osaka, Chuo Ward, Higashishinsaibashi, 2-chōme−4−１８ ヒットワンビル １階",
+   "phone": "06-4256-1459",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "ローリエ本舗 AKIHABARA",
    "group": "unknown",
    "city": "Chiyoda City",
@@ -12289,6 +14100,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:27Z"
+  },
+  {
+   "name": "古本市場西大島駅前店",
+   "group": "unknown",
+   "address": "大島3-1-6, 江東区, 東京都, 136-0072, Japan",
+   "phone": "(+81)0358367058",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "宝島長久手店",
@@ -12351,6 +14174,18 @@
    "checked_at": "2026-10-16T21:04:39Z"
   },
   {
+   "name": "晴れる屋トーナメントセンター大阪",
+   "group": "unknown",
+   "address": "北区梅田1-11-4, 大阪市, 大阪府, 530-0001, Japan",
+   "phone": "+8106-6147-9088",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "晴れる屋トーナメントセンター東京",
    "group": "unknown",
    "city": "Shinjuku City",
@@ -12358,6 +14193,18 @@
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "03-5332-7544",
    "website": "https://www.hareruyamtg.com/ja/shoppage/tc",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "晴れる屋仙台店",
+   "group": "unknown",
+   "address": "青葉区一番町3-1-24 4F4C, 仙台市, 04, 980-0811, Japan",
+   "phone": "(+81) 022-748-4669",
+   "website": "https://x.com/uvicmtg",
    "buylist_url": "https://planetans.doorblog.jp/",
    "games_events": [
     "Magic: The Gathering"
@@ -12500,12 +14347,34 @@
    "checked_at": "2026-10-16T21:02:12Z"
   },
   {
+   "name": "秋葉原チェルモ",
+   "group": "unknown",
+   "address": "上野6-3-15, 台東区, 東京都, 110-0005, Japan",
+   "phone": "(+81)03-6284-3009",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
+   "name": "竜星の嵐 名古屋店",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "21-5 Tsubakichō, Nakamura Ward, Nagoya, Aichi 453-0015",
+   "phone": "052-414-5664",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
+  },
+  {
    "name": "竜星の嵐 日本橋店",
    "group": "unknown",
    "city": "Osaka",
    "region": "Osaka",
    "address": "3-chōme-6-24 Nipponbashi, Naniwa Ward, Osaka, 556-0005",
-   "phone": "06-4256-1459",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:02:03Z"
@@ -12521,6 +14390,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:25Z"
+  },
+  {
+   "name": "紙屋敷",
+   "group": "unknown",
+   "address": "小池2丁目17-6小崎ビル1F, 稲沢市, 愛知県, 492-8144, Japan",
+   "phone": "(+81)090-3986-7742",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "蓮屋",
@@ -12550,6 +14431,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:03:49Z"
+  },
+  {
+   "name": "覇王feat.y",
+   "group": "unknown",
+   "city": "Kobe",
+   "region": "Hyogo",
+   "address": "〒650-0021 Hyogo, Kobe, Chuo Ward, Sannomiyachō, 1-chōme−9−番1号 センタープラザ東館 2階",
+   "phone": "080-3863-2901",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://x.com/buylist",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "買取くん",
@@ -12584,6 +14476,16 @@
    "website": "https://kaitoricollector.com/",
    "buylist_url": "https://planetans.doorblog.jp/",
    "checked_at": "2026-10-16T21:04:48Z"
+  },
+  {
+   "name": "買取サムライ(トレカ専門買取店)",
+   "group": "unknown",
+   "city": "Nagoya",
+   "region": "Aichi",
+   "address": "〒460-0011 Aichi, Nagoya, Naka Ward, Ōsu, 4-chōme−9−１ ラシュレ大須 1階",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "買取チャンピオン 名古屋大須店",
@@ -12674,14 +14576,11 @@
   {
    "name": "遊Vic中野店",
    "group": "unknown",
-   "city": "Nagoya",
-   "region": "Aichi",
    "address": "中野3丁目34-29　中野パールスカイビル7階, 中野区, 13, 164-0001, Japan",
    "phone": "+8103-3388-4278",
    "website": "https://x.com/uvicmtg",
    "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:02:03Z"
@@ -12709,6 +14608,18 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T21:03:11Z"
+  },
+  {
+   "name": "駿河屋高槻店トレカ館",
+   "group": "unknown",
+   "address": "高槻町15-2 唐崎屋ビル2F, 高槻市, 大阪府, 569-0803, Japan",
+   "phone": "(+81)072-683-0080",
+   "website": "https://x.com/uvicmtg",
+   "buylist_url": "https://planetans.doorblog.jp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T21:02:03Z"
   },
   {
    "name": "ＭＩＮＴ−ＳＨＩＢＵＹＡ",

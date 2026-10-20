@@ -1,8 +1,8 @@
 {
  "country": "SE",
  "currency": "SEK",
- "updated": "2026-10-16",
- "store_count": 182,
+ "updated": "2026-10-20",
+ "store_count": 187,
  "stores": [
   {
    "name": "Alara Games",
@@ -119,6 +119,15 @@
    "checked_at": "2026-10-16T03:52:11Z"
   },
   {
+   "name": "Disc Center",
+   "group": "in_store",
+   "region": "Uppsala län",
+   "address": "Vaksalagatan 14, 753 20 Uppsala",
+   "phone": "018-470 30 30",
+   "website": "http://instagram.com/skivcentrum",
+   "checked_at": "2026-10-16T03:51:06Z"
+  },
+  {
    "name": "Fantastikbokhandeln",
    "group": "in_store",
    "region": "Uppsala län",
@@ -126,6 +135,15 @@
    "phone": "018-55 00 42",
    "website": "http://www.facebook.se/fantastikbokhandeln",
    "checked_at": "2026-10-16T03:53:11Z"
+  },
+  {
+   "name": "Game Center Majorna",
+   "group": "in_store",
+   "region": "Västra Götalands län",
+   "address": "Jaegerdorffsplatsen 1B, 414 51 Göteborg",
+   "phone": "031-14 19 29",
+   "website": "https://www.facebook.com/Spelcenter-Majorna-G%C3%B6teborg-111560465526770/",
+   "checked_at": "2026-10-16T03:51:05Z"
   },
   {
    "name": "GameWholeSaler",
@@ -151,6 +169,14 @@
    "checked_at": "2026-10-16T03:51:54Z"
   },
   {
+   "name": "Lilla Krabaten",
+   "group": "in_store",
+   "region": "Uppsala län",
+   "address": "Kungsängsgatan 13, 753 22 Uppsala",
+   "website": "https://www.instagram.com/lillakrabateniuppsala/",
+   "checked_at": "2026-10-16T03:51:06Z"
+  },
+  {
    "name": "Mindstage",
    "group": "in_store",
    "region": "Västra Götalands län",
@@ -173,6 +199,18 @@
    "address": "Fredsgatan 12 B, 212 12 Malmö",
    "phone": "073-985 41 78",
    "website": "https://www.facebook.com/profile.php?id=100087650810674",
+   "checked_at": "2026-10-16T03:51:05Z"
+  },
+  {
+   "name": "Playoteket Lund",
+   "group": "in_store",
+   "region": "Skåne län",
+   "address": "Lilla Fiskaregatan 17, 222 22 Lund, Sweden, Skåne län, 222 22",
+   "phone": "+46 40 12 04 10",
+   "website": "https://www.facebook.com/Playoteket/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
    "checked_at": "2026-10-16T03:51:05Z"
   },
   {
@@ -206,6 +244,15 @@
    "address": "Tomtebogatan 17, 113 39 Stockholm",
    "phone": "073-346 72 96",
    "checked_at": "2026-10-16T03:51:28Z"
+  },
+  {
+   "name": "Skivesset Records",
+   "group": "in_store",
+   "region": "Skåne län",
+   "address": "Nobelvägen 103, 214 33 Malmö",
+   "phone": "040-97 77 35",
+   "website": "http://www.facebook.com/skivesset/",
+   "checked_at": "2026-10-16T03:51:05Z"
   },
   {
    "name": "Stamps and Postcards",

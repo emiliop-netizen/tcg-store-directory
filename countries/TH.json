@@ -1,8 +1,8 @@
 {
  "country": "TH",
  "currency": "THB",
- "updated": "2026-10-16",
- "store_count": 197,
+ "updated": "2026-10-20",
+ "store_count": 311,
  "stores": [
   {
    "name": "Big Bear Cards and Hobby",
@@ -68,7 +68,7 @@
    "address": "333/99-333/100 Moo9, Central Pattaya Festival, Room 303/8, Tambon Nong Prue, Amphoe Bang Lamung, Chon Buri, 20150, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150",
    "phone": "095 419 4626",
    "website": "https://www.asiabooks.com/",
-   "checked_at": "2026-10-17T00:43:51Z"
+   "checked_at": "2026-10-17T00:44:06Z"
   },
   {
    "name": "Asiabooks Central Phuket",
@@ -131,6 +131,19 @@
    "checked_at": "2026-10-17T00:43:55Z"
   },
   {
+   "name": "1st Pick Hobby Store",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "5, Ratchadapisek Road, Din-Daeng district",
+   "phone": "66 (066) 154-1959",
+   "website": "https://facebook.com/1stpickhobbystore/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "4Far cardgame",
    "group": "in_store",
    "city": "Tambon Sai Ma",
@@ -159,6 +172,49 @@
    "checked_at": "2026-10-17T00:44:00Z"
   },
   {
+   "name": "Alien Kiwi",
+   "group": "in_store",
+   "address": "90 Happyland Rd, Bangkok, Krung Thep Maha Nakhon, 10240, Thailand",
+   "phone": "+66942412240",
+   "website": "https://www.facebook.com/alienkiwicardshop/?locale=th_TH",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Anubis Cards and Craft",
+   "group": "in_store",
+   "region": "กรุงเทพมหานคร",
+   "address": "2nd Floor, Room 5, Metha Wattana Building, Bangkok, Bangkok, 10110, Thailand",
+   "phone": "+660928950359",
+   "website": "https://web.facebook.com/AnubisCardsandCraft/?_rdc=1&_rdr#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:58Z"
+  },
+  {
+   "name": "Artifax",
+   "group": "in_store",
+   "region": "กรุงเทพมหานคร",
+   "address": "Trinity Complex, Trinity Mall, 425 ซอย สีลม 5 แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
+   "phone": "083 062 5266",
+   "website": "https://www.instagram.com/artifaxbkk/",
+   "checked_at": "2026-10-17T00:43:37Z"
+  },
+  {
+   "name": "Atomic Ant Game Cafe",
+   "group": "in_store",
+   "address": "314/2 Prachautit, Tungkru, Bangkok, Bangkok, 10140, Thailand",
+   "phone": "+66968835453",
+   "website": "https://www.facebook.com/profile.php?id=100062224904281&mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "B2S Porto de Phuket",
    "group": "in_store",
    "city": "Tambon Choeng Thale",
@@ -175,7 +231,7 @@
    "address": "103 7 ซอย2 ชายหาดพัทยา Moo 9, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "080 115 8523",
    "website": "https://www.facebook.com/BaBaMoNCardShop",
-   "checked_at": "2026-10-17T00:43:46Z"
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Bagpanda Toys & Hobbies Tcg Card & Diecast car",
@@ -206,14 +262,27 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
-   "name": "Bob Card",
+   "name": "Board Game Mania",
    "group": "in_store",
-   "address": "Room F-04, U-Center 1, Samyan",
-   "phone": "66 (086) 334-7348",
+   "address": "81/121, Soi Sukhumvit 46, Phra Khanong, Klong Tei",
+   "phone": "66 (086) 665-9488",
+   "website": "https://www.facebook.com/BoardGameManiaTH",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:42:58Z"
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Bob Card",
+   "group": "in_store",
+   "region": "กรุงเทพมหานคร",
+   "address": "Room F-04, U-Center 1, Samyan",
+   "phone": "66 (086) 334-7348",
+   "website": "https://www.facebook.com/BobCardShop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Box & Brew Board games Café",
@@ -227,12 +296,33 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Box&Brew Cafe and Board Games",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(+66) 811731590",
+   "website": "https://www.facebook.com/boxandbrew40",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Bumroong Thai Stationery Supply & Art Material",
    "group": "in_store",
    "region": "จ.ภูเก็ต",
    "address": "220 Phuket Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 216 414",
    "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "Canterbury Tales Bookshop - Pattaya.",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "20150 ซอย บงกช 6 Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
+   "phone": "086 575 4966",
+   "website": "https://www.facebook.com/groups/Canterburytalesguesthouse",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Card Center (เปิด24ชม.) สาขาไบร์ท พระราม 2",
@@ -248,6 +338,32 @@
    "address": "อาคาร i ชั้น 2 ห้อง 11 ตลาด Kanlapaphruek Rd, Khwaeng Bang Khae, Khet Bang Khae, Krung Thep Maha Nakhon 10160",
    "phone": "092 282 2946",
    "checked_at": "2026-10-17T00:43:17Z"
+  },
+  {
+   "name": "CARD D.A.Y",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "11/66 Thanon Sathu Pradit, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120",
+   "phone": "063 428 9297",
+   "website": "https://www.facebook.com/share/1JKsZuzoRk/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Card Gotcha! CNX",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "18/3.ถ.ช้างม่อยเก่า ต.ช้างม่อยอ.เมืองเชียงใหม่ จ.เชียงใหม่ 50200 Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
+   "phone": "081 894 6368",
+   "website": "https://www.facebook.com/share/1DjfyTWDHC/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Card Harbor",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "921, อาคารออล์เวย์วัน ชั้น 1, Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
+   "website": "https://www.facebook.com/profile.php?id=61568108661172&mibextid=LQQJ4d",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Card Island",
@@ -267,12 +383,29 @@
    "checked_at": "2026-10-17T00:43:18Z"
   },
   {
+   "name": "CARD STATIONxBKK",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ชั้น 3, ศูนย์การค้า ยูเนี่ยน มอลล์, 54 Soi Ladprao 1, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900",
+   "website": "https://www.facebook.com/profile.php?id=61589116387781",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Cardalise_Cardstore",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "Sirithorn Rd, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "080 802 4166",
    "checked_at": "2026-10-17T00:43:44Z"
+  },
+  {
+   "name": "Cardboard Tavern",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "Lotus Laksi, 52 Phahon Yothin Road, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
+   "phone": "086 907 8374",
+   "website": "https://www.facebook.com/share/15swBxJ8F9/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Cardbunny Co, Ltd",
@@ -291,12 +424,39 @@
    "checked_at": "2026-10-17T00:43:13Z"
   },
   {
+   "name": "Cardify ร้านการ์ด TCG & Collectibles พุทธมณฑลสาย 1",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ชั้น2 ตึก, Kingdom Come หน้าร้าน, อยู่ที่ 62/4, บางด้วน, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160",
+   "phone": "092 447 6464",
+   "website": "https://www.facebook.com/profile.php?id=61583706120286",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "CardON การ์ดออน",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
    "address": "A539 540 ชั้น5 Megaplaza สะพานเหล็ก Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "095 658 9158",
    "checked_at": "2026-10-17T00:43:11Z"
+  },
+  {
+   "name": "Cards X Hobbies",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "No. 28, Charoen Krung 57, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120",
+   "phone": "092 663 0153",
+   "website": "https://www.facebook.com/cardsxhs",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "CARDWORLD BKK",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "126 ซ. จุฬาลงกรณ์ 50 Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
+   "phone": "080 051 6725",
+   "website": "https://www.instagram.com/cardworld.bkk",
+   "checked_at": "2026-10-17T00:43:37Z"
   },
   {
    "name": "Cartoon Today",
@@ -323,6 +483,17 @@
    "address": "8 หมู่ 10 ตึกคอม Thanon Pattaya Tai, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "099 007 5929",
    "checked_at": "2026-10-17T00:43:51Z"
+  },
+  {
+   "name": "Chrono’s TCG Vault",
+   "group": "in_store",
+   "address": "1067 Chrono’s TCG Vault, Ekkachai Rd., Bangkok, Bangkok, 10150, Thailand",
+   "phone": "+66954696333",
+   "website": "https://www.facebook.com/profile.php?id=100085818643075&mibextid=LQQJ4d",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Chrono’s TCG Vault X",
@@ -363,11 +534,42 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Cool-Kod TCG",
+   "group": "in_store",
+   "address": "1/320 Moo18 soi , Khukot, Pathum Thani, 12130, TH",
+   "phone": "66917946845",
+   "website": "https://www.facebook.com/profile.php?id=61589110352177",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "CrossGuild (คลอสกิลด์)",
    "group": "in_store",
    "region": "กรุงเทพมหานคร",
    "address": "Mega Plaza สะพานเหล็ก ชั้น 6 Zone B ห้อง B635, 900 ถ. มหาไชย แขวงวังบูรพาภิรมย์ เขตพระนคร กรุงเทพมหานคร 10200",
    "checked_at": "2026-10-17T00:43:13Z"
+  },
+  {
+   "name": "Dabush Card & Boardgame",
+   "group": "in_store",
+   "address": "246 Sriwara rd., Plabpla, Wangthonglang, Bangkok, Bangkok, 10310, Thailand",
+   "phone": "+66897916599",
+   "website": "https://www.facebook.com/dabushbkk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "DaBush Card & Boardgame Cafe",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ชั้น 2 246 Thanon Siwara, Khwaeng Phlabphla, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310",
+   "phone": "099 219 5445",
+   "website": "https://www.facebook.com/dabushbkk/",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "DAILY​ ​RARE​ CARD GAME MBK",
@@ -384,7 +586,7 @@
    "address": "20/198-199 ต.หนองปรือ Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "084 567 2356",
    "website": "https://www.facebook.com/share/1GM7MYT3Xt/",
-   "checked_at": "2026-10-17T00:43:51Z"
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Delfin TCG",
@@ -398,13 +600,50 @@
    "checked_at": "2026-10-17T00:42:58Z"
   },
   {
+   "name": "Doodle",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "092-669-5592",
+   "website": "https://www.facebook.com/DoodleBoardGameCafe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Doodleboardgame",
+   "group": "in_store",
+   "city": "Tambon Saen Suk",
+   "region": "Chang Wat Chon Buri",
+   "address": "6 Bangsaen Sai 4 S Rd, Tambon Saen Suk, Amphoe Mueang Chon Buri, Chang Wat Chon Buri 20130, Thailand, Tambon Saen Suk, Chang Wat Chon Buri, 20130",
+   "phone": "+66 805 749 007",
+   "website": "https://www.facebook.com/DoodleBoardGameCafe/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Dungeons & Wizards Boardgames Cafe",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "699/77 Library Town, Prachautit soi 90, Prachautit road, Samutprakarn, Samutprakarn, 10290, Thailand",
+   "phone": "+66863625392",
+   "website": "https://www.facebook.com/profile.php?id=61575116969824",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "EaRn Card Game",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
    "address": "9 Pradit Manutham Rd, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
    "phone": "083 278 0323",
    "website": "https://www.tiktok.com/@earncardgame?_r=1&_t=ZS-99Qra5Veypj",
-   "checked_at": "2026-10-17T00:43:17Z"
+   "checked_at": "2026-10-17T00:43:21Z"
   },
   {
    "name": "Elite Collectors",
@@ -425,14 +664,13 @@
   {
    "name": "Extraturn",
    "group": "in_store",
-   "region": "Krung Thep Maha Nakhon",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "(+66) 819111615",
    "website": "https://m.facebook.com/ExtraTurn-105270464283868/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:42:58Z"
+   "checked_at": "2026-10-17T00:43:49Z"
   },
   {
    "name": "F Shop Gaming",
@@ -441,6 +679,55 @@
    "address": "78 7 Soi Sanam Kela Lane 1, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "085 521 5636",
    "checked_at": "2026-10-17T00:43:29Z"
+  },
+  {
+   "name": "Fenris",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "8 Phahon Yothin Road, กทม, จ.ปทุมธานี, 10220, Thailand",
+   "phone": "660932094183",
+   "website": "https://www.facebook.com/WarhammerFenris",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Fizzy",
+   "group": "in_store",
+   "phone": "66 (093) 189-8333",
+   "website": "https://www.facebook.com/FIZZYMTG/?fref=ts",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Flipp the Table",
+   "group": "in_store",
+   "region": "Chang Wat Nonthaburi",
+   "address": "276 Moo 9 Soi Ngamwongwan 23, Nonthaburi, Nonthaburi, 11000, Thailand",
+   "phone": "+66819030857",
+   "website": "https://www.facebook.com/Flippthetable",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "FordBkk Metro Town",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "212, Floor 2 Room C211, Kanlapaphruek Rd , Phasi Charoen, Bangkok, 10160, TH",
+   "phone": "+660636653658",
+   "website": "https://www.facebook.com/people/FordCjm-Card-and-Boardgame/100093377882422/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "FOURBOX PHUKET",
@@ -460,6 +747,26 @@
    "checked_at": "2026-10-17T00:44:04Z"
   },
   {
+   "name": "G6 TCG & BOARD GAME CAFE",
+   "group": "in_store",
+   "address": "371, Soi Bangna-trat 12, Bangna-Tai, Bangna, Bangkok, 10260, Thailand",
+   "phone": "+66825282514",
+   "website": "https://www.facebook.com/profile.php?id=61555840435686",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Game Tree Cafe",
+   "group": "in_store",
+   "region": "Chiang Mai",
+   "address": "200/14, B-Avenue, M.1, Suthep Rd., ตำบลสุเทพ Muang, Chiang Mai 50200",
+   "phone": "094 968 6384",
+   "website": "https://www.facebook.com/Game-Tree-Cafe-1494592440598751/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "GAMEBOY - Tukcom Pattaya",
    "group": "in_store",
    "city": "Muang Pattaya",
@@ -468,6 +775,53 @@
    "phone": "038 724 169",
    "website": "https://m.facebook.com/GAMEBOYSHOP/?locale2=th_TH",
    "checked_at": "2026-10-17T00:43:49Z"
+  },
+  {
+   "name": "GCG Godz Card Game",
+   "group": "in_store",
+   "address": "545 Samsen Road , Dusit District , Bangkok, Bangkok, 10300, Thailand",
+   "phone": "+66811727646",
+   "website": "https://www.facebook.com/profile.php?id=61555541200568&locale=th_TH",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Gemoi Lifestyle Cafe (PZZLE x GEMOI Cafe)",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "34/1 ซ.สุขเกษม ถ.นิมมานฯ Nimmanhaemin Tambon Su Thep, เมือง Chang Wat Chiang Mai 50200",
+   "phone": "080 583 7227",
+   "website": "http://www.facebook.com/pzzlexgemoi",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "GET A HOBBY",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "119/22 Moo.7 Muang, ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200",
+   "website": "https://www.facebook.com/getahobbycnx",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Golden Land Solidarity Collective",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "Nong Pratheep Rd, Tambon Nong Pa Khrang, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
+   "website": "https://www.facebook.com/goldenlandsolidarity",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Goldenthrone Wargame",
+   "group": "in_store",
+   "address": "2/86 Tambon Tha Pradu, Amphoe Mueang Rayong, Chang Wat Rayong, 21000, TH",
+   "phone": "+66865554241",
+   "website": "https://www.facebook.com/Goldenthroneth?mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Grand Line TCG",
@@ -489,6 +843,46 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Grasshopper Hobby Shop",
+   "group": "in_store",
+   "address": "The Royal River Hotel, 219 Soi Charan Sanitwong 66/1, Bangkok, Bangkok, 10700, Thailand",
+   "phone": "+66839992972",
+   "website": "https://www.facebook.com/GrasshopperHobby",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Hazel Cards & Collectibles",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "110/3 Thanon Yen Akat, Bangkok, Krung Thep Maha Nakhon, 10120, Thailand",
+   "phone": "660917231702",
+   "website": "https://www.instagram.com/hazel.collect/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:43:37Z"
+  },
+  {
+   "name": "HG Hobbz Chiangrai",
+   "group": "in_store",
+   "region": "จ.เชียงราย",
+   "address": "395 หมู่ 21 ซ.สัณติราษฏร์ Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000",
+   "phone": "092 919 1961",
+   "website": "https://www.facebook.com/HG-Hobbz-1445412685777082/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Hit Effect Board Game and TCG store",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ชั้น 4, หน้า food court, 139 Thanon Ratchadaphisek, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400",
+   "website": "https://www.facebook.com/profile.php?id=61574427309925",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Hit Effect Boardgame & TCG cafe",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
@@ -501,16 +895,14 @@
   {
    "name": "Hobby Bugong",
    "group": "in_store",
-   "city": "Tambon Saen Suk",
    "region": "Krung Thep Maha Nakhon",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "(+66)95 497 6260",
    "website": "https://www.facebook.com/hobbybugong/?fref=ts",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:42:58Z"
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "House of TCG",
@@ -527,12 +919,25 @@
   {
    "name": "IPlay Card Shop",
    "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
    "address": "412/47 3rd Floor, Phaholyothin Place Plaza, Phaholyothin Road",
    "phone": "+66882426669",
+   "website": "https://m.facebook.com/iplaycard/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:42:58Z"
+   "checked_at": "2026-10-17T00:43:49Z"
+  },
+  {
+   "name": "Iron Forge",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "086-772-9370",
+   "website": "https://www.facebook.com/Iron-Forge-1005705672839127/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Isekai shop",
@@ -589,6 +994,15 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "KAN TCG JAPAN",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "M Floor, The Mall Bangkapi, 3522 Lat Phrao Rd, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240",
+   "phone": "087 319 1408",
+   "website": "https://www.facebook.com/share/1Gf3rgsiJh/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Kanpai Reuse Pattaya",
    "group": "in_store",
    "city": "เมืองพัทยา",
@@ -626,6 +1040,15 @@
    "checked_at": "2026-10-17T00:43:27Z"
   },
   {
+   "name": "Kona Card รัชดาซอย3",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "Dindaeng, Soi Ratchadaphisek 3, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400",
+   "phone": "081 638 4928",
+   "website": "https://www.facebook.com/konacardth?mibextid=LQQJ4d",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Lee Card",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
@@ -647,6 +1070,28 @@
    "checked_at": "2026-10-17T00:43:01Z"
   },
   {
+   "name": "levelmax",
+   "group": "in_store",
+   "address": "76/51 Changwattana rd., Anusaowari, Bangkhen",
+   "phone": "080-770-2859",
+   "website": "https://facebook.com/levelmaxcafe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Little Magic",
+   "group": "in_store",
+   "address": "13 Chok Chai 4 Soi 39 Yaek 5, Bangkok, Lat phrao, 10230, TH",
+   "phone": "0643429535",
+   "website": "https://www.facebook.com/share/1aJz9PNQzo/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "LMCafeNeverending",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
@@ -660,14 +1105,13 @@
   {
    "name": "Magic Century",
    "group": "in_store",
-   "region": "Krung Thep Maha Nakhon",
    "address": "C202 2nd Floor, The Season Mall, 899 Phahonyothin Road, Bangkok, 10, 10400, Thailand",
    "phone": "+66+66(+66) 817778789",
    "website": "https://www.instagram.com/magiccentury/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:42:58Z"
+   "checked_at": "2026-10-17T00:43:37Z"
   },
   {
    "name": "Mana Brick - Cards & Decks",
@@ -678,12 +1122,43 @@
    "checked_at": "2026-10-17T00:44:07Z"
   },
   {
+   "name": "Masaru Japan Anime Shop",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "26/1-2 Soi Sukhumvit 69, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110",
+   "phone": "063 969 7999",
+   "website": "https://www.facebook.com/masarujapanstore",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Meenoiland",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "213, 16 Changpuek, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "096 997 5059",
    "checked_at": "2026-10-17T00:43:28Z"
+  },
+  {
+   "name": "Mega Plaza Saphan Lek",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
+   "phone": "02 623 7888",
+   "website": "https://www.facebook.com/MegaPlazaSaphanlek?mibextid=eHce3h",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Middle Earth Wargame",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "218,220 Soi Chulalongkorn 50, Wang Mai, Phatum Wan, Bangkok, Bangkok, 10330, Thailand",
+   "phone": "+66859996528",
+   "website": "https://www.facebook.com/middleearthwargame",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Midnight card game",
@@ -693,12 +1168,48 @@
    "checked_at": "2026-10-17T00:43:15Z"
   },
   {
+   "name": "Modern Cards",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "921 ภิรมย์, อาคารออลเวย์วัน ชั้น4 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
+   "phone": "086 392 1449",
+   "website": "https://www.facebook.com/Moderncards.th/?fb_dtsg_ag=Adx5rV05TBnOIravu0XU78-FkF-9JNKNMElxFtmod-m4lA:AdxDuaLQF5J_gC9T_YC2yzmOJw9giSihvvfHJcATqBfGnw",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Monchu Card Game",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
    "address": "2nd floor, room 2086, 88 Soi Sukhumvit 19, Khlong Toei, Khet Khlong Toei, Krung Thep Maha Nakhon 10110",
    "phone": "094 080 6037",
    "checked_at": "2026-10-17T00:43:12Z"
+  },
+  {
+   "name": "MONITOR CARD SHOP",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "13 ซอยแม่พระ 6 Khwaeng Bang Kho, Khet Chom Thong, Krung Thep Maha Nakhon 10150",
+   "phone": "087 993 1206",
+   "website": "https://www.facebook.com/Monitor-109439494879691",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Monnymon Shop",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "4/1-2 Jhaban Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
+   "phone": "086 656 1435",
+   "website": "https://www.facebook.com/Monnymon-Shop-257313710953489/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "MTGCENTURY",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ห้อง c 202 The Season Mall เลขที่ 899 ถนนพหลโยธิน ถนน 749 Soi Phahon Yothin 1, Phaya Thai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400",
+   "phone": "084 546 6546",
+   "website": "https://www.facebook.com/mtgcentury/",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "N Shop",
@@ -718,7 +1229,51 @@
    "address": "139, 146 M.1 Casalunar Avenue, Samet, Amphoe Mueang Chon Buri, Chang Wat Chon Buri 20000",
    "phone": "099 162 9990",
    "website": "https://www.facebook.com/NShopTradingCardGame/",
-   "checked_at": "2026-10-17T00:43:47Z"
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "NAIHUA CARDSHOP",
+   "group": "in_store",
+   "address": "9, 33 Thaniya Road, 3rd Floor,, Bangkok, Bangkok, 10500, Thailand",
+   "phone": "+66+66969092285",
+   "website": "https://www.facebook.com/thestadiumrama2/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Nerd Rage Gaming Lounge",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "089-519-7995",
+   "website": "https://Facebook.com/nerdrageth",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "NerdUnit TCG",
+   "group": "in_store",
+   "address": "2172/48 Phahonyothin 34/2 , Bangkok, Bangkok, 10900, Thailand",
+   "phone": "+66911097774",
+   "website": "https://www.facebook.com/nerdunittcg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Neverland card game",
+   "group": "in_store",
+   "address": "125/7 Sukhumvit 23 Road , Sriracha, chonburi, 20110, TH",
+   "phone": "+660994609301",
+   "website": "https://www.facebook.com/profile.php?id=100092335909701",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Night Bazaar Chiang Mai",
@@ -736,11 +1291,152 @@
    "checked_at": "2026-10-17T00:43:40Z"
   },
   {
+   "name": "Northern Realm",
+   "group": "in_store",
+   "address": "179/12 CHOC A3, , Chiang Mai, A. Mueang,, 50100, TH",
+   "phone": "660659552522",
+   "website": "https://www.facebook.com/WarhammerNorthernRealm",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Northern Realm - Warhammer Shop เชียงใหม่",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "179/12 CHOC (a3) Mahidol Rd Tambon Haiya, District, ตำบล หายยา อำเภอเมืองเชียงใหม่ เชียงใหม่ 50100",
+   "phone": "065 955 2522",
+   "website": "https://www.facebook.com/WarhammerNorthernRealm",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Nova TCG Thailand (โนวา ทีซีจี ไทยแลนด์)",
    "group": "in_store",
    "region": "Krung Thep Maha Nakhon",
    "address": "Soi Rarm Intra 14 Yaek 8, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
    "checked_at": "2026-10-17T00:43:15Z"
+  },
+  {
+   "name": "Nut Card",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "B504-505 5th Floor, Mega Plaza, 900 Maha Chai Rd.",
+   "phone": "095-794-2000",
+   "website": "https://www.facebook.com/Nut-Card-%E0%B8%88%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-136919466499229/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Nx Gallery (Hobby Shop)",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "0616179263",
+   "website": "http://www.facebook.com/NxGallery",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Nx Gallery - BTS Ari",
+   "group": "in_store",
+   "address": "Ari BTS Station, Samsen Nai, Phaya Thai, Bangkok, 10, 10400, Thailand",
+   "phone": "+66879943443",
+   "website": "https://www.facebook.com/NxGallery",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Nx Gallery - Century Sukhumvit",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "4th fl, Century The Movie Plaza  / 2089 Sukhumvit Rd, Phra Khanong Nuea,, Bangkok, 10260, TH",
+   "phone": "+660821082253",
+   "website": "https://web.facebook.com/NxGallery",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:58Z"
+  },
+  {
+   "name": "Nx Gallery - Esplanade",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "Esplanade Ratchada 99 Ratchadaphisek Rd, Din Daeng, Bangkok, 10400, TH",
+   "phone": "+660800789665",
+   "website": "https://www.facebook.com/NxGallery/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Nx Gallery Sc - Plaza",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "24/6 Borommaratchachonnani Rd, Bangkok, Bangkok, 10700, TH",
+   "phone": "+660825277886",
+   "website": "https://www.facebook.com/NxGallery/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Oh My Card Game",
+   "group": "in_store",
+   "address": "3476/5 Lat Phrao Rd, Bangkok, Krung Thep Maha Nakhon, 10240, Thailand",
+   "phone": "660954525454",
+   "website": "https://www.facebook.com/OhMyCardGame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "OH.Toys Cafe",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "1509 Lat Phrao Rd, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310",
+   "phone": "088 951 6925",
+   "website": "https://m.facebook.com/OH.ToysbyOH/",
+   "checked_at": "2026-10-17T00:43:49Z"
+  },
+  {
+   "name": "Ohayo​",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "1692 The one park Phahon Yothin Road, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900",
+   "phone": "062 781 6494",
+   "website": "https://www.facebook.com/Ohayo.Toonbooks",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "On Stack",
+   "group": "in_store",
+   "address": "1436/1 Floor 2 Phahonyothin Rd, , Khet Chatuchak,, Bangkok, 10900, TH",
+   "phone": "+66806000020",
+   "website": "https://www.facebook.com/p/On-Stack-61585003672545/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "OnBoard Cafe",
+   "group": "in_store",
+   "phone": "66 (093) 136-6404",
+   "website": "https://www.facebook.com/onboardthailand/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "OVERTUNE STORE",
@@ -796,6 +1492,27 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Penguin’s Card Games",
+   "group": "in_store",
+   "address": "Room number D15, Mamaigarden Building, 8/10 Moo 6",
+   "phone": "66 (095) 461-5194",
+   "website": "https://www.facebook.com/Penguins-cardgames-112242348054812",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Phuket Card",
+   "group": "in_store",
+   "phone": "085-810-2685",
+   "website": "https://www.facebook.com/PhuketCard/timeline",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Phuket card shop",
    "group": "in_store",
    "city": "Tambon Ratsada",
@@ -814,6 +1531,24 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:43:10Z"
+  },
+  {
+   "name": "PKCardGame",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "1873, 2 เสนาเซ็นเตอร์ Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900",
+   "phone": "062 765 9750",
+   "website": "https://www.facebook.com/PKCardGame/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "PLAYCAFE PHUKET",
+   "group": "in_store",
+   "region": "จ.ภูเก็ต",
+   "address": "49 พังงา ซอย 7 Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
+   "phone": "081 081 9289",
+   "website": "https://www.facebook.com/profile.php?id=100085926000789&mibextid=LQQJ4d",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "POKODEX Card game",
@@ -838,14 +1573,36 @@
    "checked_at": "2026-10-17T00:43:18Z"
   },
   {
-   "name": "Pro card",
+   "name": "Power9",
+   "group": "in_store",
+   "address": "921 Mahachai Road, Wangburaphapilom, Phanakorn",
+   "phone": "089-105-8119",
+   "website": "https://www.facebook.com/powernineshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Prime Comic",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "1/5 Thanon Bang Khun Non, Khwaeng Bang Khun Non, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700",
+   "website": "https://www.facebook.com/primecomicth",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Pro Card",
    "group": "in_store",
    "city": "กทม",
    "region": "Bangkok",
-   "address": "〒10330 Bangkok, Pathum Wan, Bangkok, Phaya Thai Rd, 5th FL. MBK",
-   "phone": "063 456 4426",
-   "website": "https://www.facebook.com/ProcardTCG",
-   "checked_at": "2026-10-17T00:43:12Z"
+   "address": "5th Floor, Zone D, MBK Center, Bangkok, Bangkok, 10330, Thailand",
+   "phone": "+660634654426",
+   "website": "https://www.facebook.com/ProcardTCG/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Pull Club Bkk",
@@ -853,6 +1610,86 @@
    "region": "Krung Thep Maha Nakhon",
    "address": "900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "checked_at": "2026-10-17T00:43:13Z"
+  },
+  {
+   "name": "P’N Card Game2",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "ชั้น 5 เมญ่า เชียงใหม่ Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
+   "website": "https://www.facebook.com/share/1FxnSP1LTq/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Q-ซัง Card",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "1 Soi Phet Kasem 60/3, Khwaeng Bang Duan, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160",
+   "phone": "093 645 6915",
+   "website": "https://www.facebook.com/QsanCard/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Quantum Card and Game",
+   "group": "in_store",
+   "address": "7-9 Kanchanaphisek Expressway, Bangkok, Krung Thep Maha Nakhon, 10160, Thailand",
+   "phone": "660875146265",
+   "website": "https://www.facebook.com/profile.php?id=61579610437888#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Quest Board Game Cafe",
+   "group": "in_store",
+   "address": "7 Floor, MBK Center, 444 Phaya Thai Rd, Bangkok, 10, 10330, Thailand",
+   "phone": "+66819875596",
+   "website": "https://www.facebook.com/QuestBoardgame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Quest Board Game Café",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "ห้องเลขที่ M8/2 444 อาคาร MBK Center ชั้น 7 Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
+   "phone": "095 387 0346",
+   "website": "https://www.facebook.com/QuestBoardgame",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Rabbit Hole Board Games & Party",
+   "group": "in_store",
+   "address": "396/7 Soi Sukonthasawas18/1, Sukonthasawas Road, Bangkok, 10, 10230, Thailand",
+   "phone": "+66839726831",
+   "website": "https://www.facebook.com/RabbitholeBoardGamesParty/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Rabby Smile",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "2137/27 Phahonyothin Road, Ladprao, Chatuchak, Bangkok, Bangkok, 10900, Thailand",
+   "phone": "+66982298203",
+   "website": "https://web.facebook.com/RabbySmile",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:58Z"
+  },
+  {
+   "name": "Rare Finds Bookstore and Cafe",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "18, 2 Chang Moi Kao Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
+   "phone": "083 879 9521",
+   "website": "https://www.instagram.com/rarefindscafe/?hl=en",
+   "checked_at": "2026-10-17T00:43:37Z"
   },
   {
    "name": "RONGROD (CENTRAL)",
@@ -895,6 +1732,42 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Shiro Yotsuba Boardgame & Hobby",
+   "group": "in_store",
+   "address": "99/236 , Village Panason City, Samut Prakan, Samut Prakan, 10270, Thailand",
+   "phone": "+66859919560",
+   "website": "https://www.facebook.com/profile.php?id=61553246457381",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "SIT AND PLAY",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "318, Chaloem Phrakiat Ratchakan Thi 9 road, Bangkok, Bangkok, 10250, Thailand",
+   "phone": "+66617861661",
+   "website": "https://www.facebook.com/sitandplay.game",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Sit the Seat",
+   "group": "in_store",
+   "region": "Chiang Mai",
+   "address": "Doi Saket District, Chiang Mai 50220, Thailand, Chiang Mai, 50220",
+   "phone": "+66 808598370",
+   "website": "https://www.facebook.com/sittheseat",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "SoulBlast Cardshop",
    "group": "in_store",
    "city": "ต.บางเลน",
@@ -902,7 +1775,7 @@
    "address": "85 124 Bang Len Soi 26, Tambon Bang Len, Amphoe Bang Yai, Chang Wat Nonthaburi 11140",
    "phone": "090 987 5475",
    "website": "https://www.facebook.com/soulblast.cardshop/",
-   "checked_at": "2026-10-17T00:43:27Z"
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Sugar&Boardgame",
@@ -915,6 +1788,24 @@
    "checked_at": "2026-10-17T00:43:10Z"
   },
   {
+   "name": "Suriwong Book Center",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "54, 54/1 Sridornchai Rd Lane 1, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
+   "phone": "095 162 6449",
+   "website": "https://www.facebook.com/SuriwongBookCM",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Tangphanit Toys from Japan",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "Huay Kaew Rd, Tambon Su Thep, Mueang, Chang Wat Chiang Mai 50000",
+   "phone": "081 649 1594",
+   "website": "https://www.facebook.com/share/158AFHEG9E/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "Tawan Locksmith & Printing",
    "group": "in_store",
    "city": "Tambon Wichit",
@@ -924,12 +1815,30 @@
    "checked_at": "2026-10-17T00:44:10Z"
   },
   {
+   "name": "TCG Ignition ร้านการ์ดเกม",
+   "group": "in_store",
+   "region": "จ.ภูเก็ต",
+   "address": "Yaowarad Soi 5, Tambon Talat Yai, เมือง Chang Wat Phuket 83000",
+   "phone": "065 389 2666",
+   "website": "https://www.facebook.com/profile.php?id=100079263833060&mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "TCG LAB CNX",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "239 โครงการมอ สเปซ ร้าน TCG LAB CNX Tambon Su Thep, เมือง Chang Wat Chiang Mai 50200",
    "phone": "084 506 9361",
    "checked_at": "2026-10-17T00:43:27Z"
+  },
+  {
+   "name": "TCG Nexus",
+   "group": "in_store",
+   "region": "กรุงเทพมหานคร",
+   "address": "TCG Nexus Shop, 1st Floor, Likhit Building, ถ. ลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพมหานคร 10900",
+   "phone": "081 301 6679",
+   "website": "http://www.facebook.com/tcgnexus",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "TCG Phuket",
@@ -982,12 +1891,51 @@
    "checked_at": "2026-10-17T00:43:17Z"
   },
   {
+   "name": "The Postcard Rommanee",
+   "group": "in_store",
+   "region": "จ.ภูเก็ต",
+   "address": "6 Soi Rommani Old Phuket Town, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
+   "website": "https://www.facebook.com/pages/The-Postcard-Rommanee/302959573196101",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "The Shire Cards & Hobby",
+   "group": "in_store",
+   "address": "471/4 Rachwitee road, Bangkok, Bangkok, 10400, Thailand",
+   "phone": "+66865700765",
+   "website": "https://www.facebook.com/profile.php?id=100088353758336&mibextid=LQQJ4d",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "The Toys Club",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "Q2P4+HR6, 46/1 San Pa Koi Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "phone": "097 978 9894",
    "checked_at": "2026-10-17T00:43:42Z"
+  },
+  {
+   "name": "The Tricker",
+   "group": "in_store",
+   "address": "Unit 309, RiverPlaza, 3nd Floor",
+   "phone": "+66985401555",
+   "website": "https://www.facebook.com/TheTricker2014",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "TopLoad TCG",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "448 ซ.93, 20 Phueng Mi, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260",
+   "phone": "089 824 1163",
+   "website": "https://www.facebook.com/share/1BWhyfp6h9/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Toy Garage",
@@ -1015,7 +1963,38 @@
    "address": "Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
    "phone": "053 246 876",
    "website": "https://m.facebook.com/cartoonrodfi/",
-   "checked_at": "2026-10-17T00:43:35Z"
+   "checked_at": "2026-10-17T00:43:49Z"
+  },
+  {
+   "name": "Tuktik Comic Book",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "RX4M+3V6, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+   "phone": "083 567 7887",
+   "website": "https://www.facebook.com/TukTikKartun/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Turn The Tables",
+   "group": "in_store",
+   "address": "440/19-20, 3rd floor, Soi. Ratchawithi 3, Bangkok, Bangkok, 10400, Thailand",
+   "phone": "+660822415916",
+   "website": "https://www.facebook.com/tttboardgamecafe?mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "Ullanor",
+   "group": "in_store",
+   "address": "Muang, Nonthaburi, 12, 11000, Thailand",
+   "phone": "+66841450445",
+   "website": "https://www.facebook.com/UllanorWaaagh",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "UrGacha",
@@ -1042,6 +2021,17 @@
    "address": "417 บางนา กม 2 เขตบางนา, แขวงบางนาใต้ bangna, กรุงเทพมหานคร 10260",
    "phone": "061 049 8980",
    "checked_at": "2026-10-17T00:43:15Z"
+  },
+  {
+   "name": "Warp Gate",
+   "group": "in_store",
+   "address": "Wong Sawang Subdistrict, Bang Sue Subdistrict, Nonthaburi, 12, 10800, Thailand",
+   "phone": "+66948680646",
+   "website": "https://www.facebook.com/Letsplayscards",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "Watch Store Hobby & Card Game",
@@ -1073,6 +2063,15 @@
    "checked_at": "2026-10-17T00:43:55Z"
   },
   {
+   "name": "Wua Lai record shop",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "1, 6 Wua Lai Rd, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
+   "phone": "095 675 4213",
+   "website": "https://www.facebook.com/wualairecords/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "yindee",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
@@ -1086,7 +2085,17 @@
    "region": "จ.ชลบุรี",
    "address": "59 Huay Yai Muk Rd, Tambon Pong, Amphoe Bang LamungB Chang Wat Chon Buri 20150",
    "phone": "062 471 9077",
-   "checked_at": "2026-10-17T00:43:47Z"
+   "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "คลังนมผง สาขาพัทยาเนินพลับหวาน",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "19/148 สุขุมวิทพัทยา 53 Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
+   "phone": "084 996 4855",
+   "website": "https://www.facebook.com/milkforsell",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "คีย์การ์ด เครื่องบันทึกเวลาทำงาน กล้องวงจรปิด และสินค้าไอทีเชียงใหม่ Success it Center",
@@ -1097,11 +2106,38 @@
    "checked_at": "2026-10-17T00:43:44Z"
   },
   {
+   "name": "จั่ว Card Game & Hobby",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "43 1 ถนนคลองชลประทาน Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
+   "phone": "096 831 0129",
+   "website": "https://www.facebook.com/JuaCardCM/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "ติดใจทอย - tidjai toy model&figure",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "Changklan Rd, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
+   "phone": "083 766 0317",
+   "website": "https://www.facebook.com/share/1BKSsweAto/?mibextid=LQQJ4d",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "ตู้กดการ์ดดัสตินพารวย",
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "208, Fa Ham, เทศบาลนครเชียงใหม่ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50000",
-   "checked_at": "2026-10-17T00:43:28Z"
+   "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "ตู้จุ่มการ์ด iCardz - Banthatthong Bkk.",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "594 12 Soi Phaya Nak, Khwaeng Thanon Phetchaburi, Khet Ratchathewi, Krung Thep Maha Nakhon 10400",
+   "phone": "095 505 2390",
+   "website": "https://facebook.com/icardz2025",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "ธรรมสรณ์การพิมพ์",
@@ -1110,7 +2146,7 @@
    "region": "จ.ชลบุรี",
    "address": "210 หมู่ 10 Thanon Pattaya Tai, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "087 928 2645",
-   "checked_at": "2026-10-17T00:44:00Z"
+   "checked_at": "2026-10-17T00:44:10Z"
   },
   {
    "name": "บริษัท ที.พี.โอ.ภูเก็ต การ์ดโฟน จำกัด",
@@ -1119,6 +2155,24 @@
    "address": "7 Suthat Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 255 127",
    "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "พิมพ์รักการ์ดแต่งงาน เชียงใหม่ (Pimluck Wedding Stationery)",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "65 Soi Phong Suwan, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
+   "phone": "083 764 4388",
+   "website": "https://www.facebook.com/pimluckweddingcard",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "ร้าน +Like Card Game(คู้บอน)",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "311,4 (ห้องเลขที่ 311/36) อยู่ชั้น 2 Ram Inthra Rd, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230",
+   "phone": "085 913 5161",
+   "website": "https://www.facebook.com/Dragon18Tha?mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "ร้าน Oil Card Game",
@@ -1137,6 +2191,24 @@
    "checked_at": "2026-10-17T00:43:51Z"
   },
   {
+   "name": "ร้านการ์ด RagnaRogue",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "608 Soi Lat Phrao 109, Lane 3, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240",
+   "phone": "085 245 7536",
+   "website": "https://www.facebook.com/RagnaRogue1",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "ร้านการ์ดเกมส์พี่เต๋า ENIGMAGIC",
+   "group": "in_store",
+   "region": "จ.นนทบุรี",
+   "address": "ร้าน ENIGMAGIC ชั้น 2 ตรงข้ามเดอะมอลล์ ตึกแกรนด์ พลาซ่า Thanon Ngam Wong Wan, บางเขน เมือง Chang Wat Nonthaburi 11000",
+   "phone": "065 923 6359",
+   "website": "http://www.facebook.com/cardgamesenigmagic",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "ร้านดอกไม้ลวดกำมะหยี่ พัทยา ซอยเนินพลับหวาน (Baby_Flowerr.r)",
    "group": "in_store",
    "city": "Muang Pattaya",
@@ -1146,12 +2218,22 @@
    "checked_at": "2026-10-17T00:43:59Z"
   },
   {
+   "name": "ร้านบุญธรรมคีย์ (ช่างเจี๊ยบกุญแจพัทยา)",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "182 53, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
+   "phone": "093 027 8718",
+   "website": "https://www.facebook.com/profile.php?id=100008807443198",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "ร้านบ้านการ์ตูน",
    "group": "in_store",
    "region": "จ.ภูเก็ต",
    "address": "เลขที่ 411 Phuket Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 250 325",
-   "checked_at": "2026-10-17T00:44:09Z"
+   "checked_at": "2026-10-17T00:44:10Z"
   },
   {
    "name": "ร้านบ้านบอลแดง",
@@ -1160,7 +2242,36 @@
    "region": "จ.เชียงใหม่",
    "address": "354 Tambon San Phranet, Amphoe San Sai, Chang Wat Chiang Mai 50210",
    "phone": "089 556 4452",
-   "checked_at": "2026-10-17T00:43:28Z"
+   "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "ร้านป้ายพัทยา TP MEDIA AND SERVICE ป้ายไวนิล สติ๊กเกอร์ เมนู ใบปลิว นามบัตร",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "99 23, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
+   "phone": "093 426 3287",
+   "website": "https://www.facebook.com/LabelPattaya",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "ร้านลูกโป่งพัทยา Balloon Summer Pattaya",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "9, 27 หมู่9 Thanon Pornprapanimit, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
+   "phone": "082 715 5585",
+   "website": "https://www.facebook.com/share/16ZG3L6wWK/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "ร้านสมาร์ทการ์ด",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "133/14 ถนนรัตนโกสินทร์ Tambon Pa Tan, เมือง Chang Wat Chiang Mai 50300",
+   "phone": "063 624 6524",
+   "website": "https://facebook.com/GARAWAT/",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "ร้านเกม",
@@ -1169,7 +2280,17 @@
    "region": "จ.ชลบุรี",
    "address": "320/1 Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "082 082 7637",
-   "checked_at": "2026-10-17T00:43:55Z"
+   "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "ร้านเกมส์ภูเก็ตLW",
+   "group": "in_store",
+   "city": "Tambon Ratsada",
+   "region": "จ.ภูเก็ต",
+   "address": "104 หมู่ 5 Chalermprakiat Ratchakan Thi 9 Road, Tambon Ratsada, เมือง Chang Wat Phuket 83000",
+   "phone": "087 263 8923",
+   "website": "https://www.facebook.com/LWGAMESHOP/",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "ส.นครพิงค์การพิมพ์ - NAKP Printing",
@@ -1184,7 +2305,16 @@
    "group": "in_store",
    "region": "จ.เชียงใหม่",
    "address": "11/3 Thung Hotel Soi 2, Tambon Wat Ket, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
-   "checked_at": "2026-10-17T00:43:45Z"
+   "checked_at": "2026-10-17T00:44:10Z"
+  },
+  {
+   "name": "อ้อยคิดส์การ์ด การ์ดเกม แวนการ์ด บัดดี้ไฟท์",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "BigCชั้น2 พระราม2(ตรงข้ามโลตัส Khwaeng Samae Dam, Khet Bang Khun Thian, Krung Thep Maha Nakhon 10150",
+   "phone": "080 214 8787",
+   "website": "http://www.facebook.com/aoykidscard",
+   "checked_at": "2026-10-17T00:44:04Z"
   },
   {
    "name": "เกรดD เครื่องเขียน&กิ๊ฟช็อป&ของเล่น",
@@ -1204,12 +2334,40 @@
    "checked_at": "2026-10-17T00:43:13Z"
   },
   {
+   "name": "เยลโล่บี",
+   "group": "in_store",
+   "region": "Krung Thep Maha Nakhon",
+   "address": "43 Soi Suk Sawat 25, Khwaeng Bang Pakok, Khet Rat Burana, Krung Thep Maha Nakhon 10140",
+   "phone": "080 044 5677",
+   "website": "https://www.facebook.com/ybccg/",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
+   "name": "แว่นคุง TCG",
+   "group": "in_store",
+   "region": "จ.เชียงใหม่",
+   "address": "RX33+6JM, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50200",
+   "phone": "065 358 1570",
+   "website": "https://www.facebook.com/share/1BuyxMTrTu/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:44:04Z"
+  },
+  {
    "name": "โกดังสินค้าญี่ปุ่นมือสองพัทยาhoneyjapan",
    "group": "in_store",
    "city": "Nong Pla Lai",
    "region": "จ.ชลบุรี",
    "address": "XWGJ+FCG, Nong Pla Lai, Bang Lamung District, Chon Buri 20150",
    "checked_at": "2026-10-17T00:43:51Z"
+  },
+  {
+   "name": "โรงรถ Rongrod",
+   "group": "in_store",
+   "city": "Muang Pattaya",
+   "region": "จ.ชลบุรี",
+   "address": "ห้อง MS2041 ชั้น 2 เทอมินอล21 456,777,777 เมืองพัทยา Muang Pattaya, บางละมุน Chang Wat Chon Buri 20150",
+   "phone": "033 036 788",
+   "website": "https://m.facebook.com/rongrodtoy/",
+   "checked_at": "2026-10-17T00:43:49Z"
   },
   {
    "name": "้เบียว card game",
@@ -1251,7 +2409,7 @@
    "address": "99/3 Lampang - Chiang Mai Superhighway, Tambon Fa Ham, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "phone": "053 288 836",
    "website": "https://www.b2s.co.th/",
-   "checked_at": "2026-10-17T00:43:36Z"
+   "checked_at": "2026-10-17T00:44:09Z"
   },
   {
    "name": "B2S Central Pattaya",
@@ -1261,7 +2419,7 @@
    "address": "Central Pattaya 333/102 หมู่ที่ 9 ตำบล หนองปรือ Amphoe Bang Lamung, Chang Wat Chon Buri 20150",
    "phone": "038 043 378",
    "website": "https://www.b2s.co.th/",
-   "checked_at": "2026-10-17T00:43:49Z"
+   "checked_at": "2026-10-17T00:44:09Z"
   },
   {
    "name": "B2S Central Phuket Floresta",
@@ -1393,7 +2551,7 @@
    "address": "ชั้น 6 |, 333/102 ถ. พัทยาสายสอง เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150",
    "phone": "064 393 6147",
    "website": "https://www.epiccollectible.shop/",
-   "checked_at": "2026-10-17T00:43:46Z"
+   "checked_at": "2026-10-17T00:43:47Z"
   },
   {
    "name": "Epic Collectible สาขา 2 (Pokemon Cards Shop)",
@@ -1847,8 +3005,8 @@
    "group": "unknown",
    "region": "Krung Thep Maha Nakhon",
    "address": "ห้อง M8/1 SF Town ชั้น 7 โซน D ศูนย์การค้า MBK Center Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
-   "website": "https://shopee.co.th/ifstore_art",
-   "checked_at": "2026-10-17T00:43:24Z"
+   "website": "https://shopee.co.th/zirieng",
+   "checked_at": "2026-10-17T00:43:42Z"
   }
  ]
 }

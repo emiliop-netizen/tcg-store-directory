@@ -1,8 +1,8 @@
 {
  "country": "CO",
  "currency": "COP",
- "updated": "2026-10-16",
- "store_count": 217,
+ "updated": "2026-10-20",
+ "store_count": 251,
  "stores": [
   {
    "name": "Decathlon La Colina",
@@ -20,18 +20,8 @@
    "region": "Antioquia",
    "address": "Av. 80 # 30-18, Medellín, Belén, Medellín, Antioquia",
    "phone": "302 3447626",
-   "website": "https://dracostore.co/",
-   "checked_at": "2026-10-17T01:18:38Z"
-  },
-  {
-   "name": "Draco Hobby Center Bogotá",
-   "group": "blocked",
-   "city": "Bogotá",
-   "region": "Bogotá",
-   "address": "Cra, 16 #76-27 Piso 2, Bogotá",
-   "phone": "315 5681771",
    "website": "https://www.dracostore.co/",
-   "checked_at": "2026-10-17T01:18:13Z"
+   "checked_at": "2026-10-17T01:19:29Z"
   },
   {
    "name": "Draco Sur",
@@ -91,7 +81,18 @@
    "address": "Cra. 50 #48-30, Villa Paula, Itagüí, Itagüi, Antioquia",
    "phone": "312 6848456",
    "website": "https://www.instagram.com/529puntocomic?igsh=bWgwb2dtcGZ6NzUw",
-   "checked_at": "2026-10-17T01:19:58Z"
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Aba Hobby Center",
+   "group": "in_store",
+   "address": "Cra. 21C, Santa Marta, Magdalena, 470003, CO",
+   "phone": "573006408901",
+   "website": "https://www.facebook.com/profile.php?id=100082907603579&mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Aferci Shop",
@@ -100,6 +101,26 @@
    "region": "Cundinamarca",
    "address": "Cl. 13 #19-40, Los Mártires, Bogotá, Cundinamarca",
    "checked_at": "2026-10-17T01:18:34Z"
+  },
+  {
+   "name": "Akiba Games",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "53d 21-49, Dg. 53d #21-49, Bogotá",
+   "phone": "302 7222598",
+   "website": "https://www.facebook.com/AkibaGamesProject/",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "AKIRA El Bazar Friki Tienda Anime",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Calle 5 # 61 - 59 Local 04 , Centro Comercial Cañaveralejo, Pampa Linda, Cali, Valle del Cauca",
+   "phone": "300 7223749",
+   "website": "http://facebook.com/akiratiendacali",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Alchemist Anime Store",
@@ -118,6 +139,36 @@
    "address": "Cl. 113 #7-45, Bogotá",
    "phone": "322 2902300",
    "checked_at": "2026-10-17T01:18:24Z"
+  },
+  {
+   "name": "Alucard’s Shop Anime Store",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Cra. 102 #45-45, Comuna 17, Cali, Valle del Cauca",
+   "phone": "316 8593810",
+   "website": "https://www.instagram.com/alucardsshop/",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Anicomic Store (Tienda Anime y Comics)",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "Cra. 100 # 20-54 Loc 131, Fontibón, Bogotá, Cundinamarca",
+   "phone": "317 6856031",
+   "website": "https://www.instagram.com/tiendaanimecomics/",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Anime Tienda Genial 1",
+   "group": "in_store",
+   "city": "Medellín",
+   "region": "Antioquia",
+   "address": "Cra 69 #80-52, Cordoba, Medellín, Robledo, Medellín, Antioquia",
+   "phone": "301 2438887",
+   "website": "https://instagram.com/animegenial.tienda?igshid=t7arlw3lcqok",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Arcadia Restaurante Gamer",
@@ -174,6 +225,26 @@
    "checked_at": "2026-10-17T01:20:28Z"
   },
   {
+   "name": "Café Librería La Valija de Fuego",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "Ak 7 #45-52 Local3, Chapinero, Bogotá, Cundinamarca",
+   "phone": "3719306",
+   "website": "http://www.instagram.com/lavalijadefuego",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Callejón Diagon Store - Tienda Anime",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Av 6a N, San Vicente, Cali, Valle del Cauca",
+   "phone": "315 3367811",
+   "website": "https://instagram.com/diagontienda",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "cartas",
    "group": "in_store",
    "city": "Bogotá",
@@ -191,6 +262,40 @@
    "checked_at": "2026-10-17T01:19:28Z"
   },
   {
+   "name": "CC Gaming Store",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Cl. 38 Nte., Cali, Valle del Cauca",
+   "phone": "318 7578128",
+   "website": "https://www.facebook.com/CCGSCOLOMBIA",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Chain tcg",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Cra. 66 #12-25, Comuna 17, Cali, Valle del Cauca",
+   "phone": "317 0096993",
+   "website": "https://www.instagram.com/chain_tcg?igsh=Nzdka2xoOG8wOTRu",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Chaos Hobby Store",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "12-17 Cra. 44 Piso 3, Cali, Valle del Cauca, 760041, CO",
+   "phone": "573244648192",
+   "website": "https://www.instagram.com/storechaoshobby/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "City Of Heroes Bogotá",
    "group": "in_store",
    "city": "Bogotá",
@@ -198,6 +303,16 @@
    "address": "Cra. 56 #2b-6, Bogotá",
    "phone": "311 5569970",
    "checked_at": "2026-10-17T01:19:20Z"
+  },
+  {
+   "name": "Clover Store",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Centro Recreativo Cañaveralejo, Local 25, Pampa Linda, Cali, Valle del Cauca",
+   "phone": "318 2710166",
+   "website": "https://www.instagram.com/clovertcg/",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Coleccionables Lorgia",
@@ -245,6 +360,17 @@
    "checked_at": "2026-10-17T01:20:21Z"
   },
   {
+   "name": "Coyote Hobby Store",
+   "group": "in_store",
+   "address": "Manzana S Casa 4 Urbanizacion Tayrona Tamaca Esquina, Santa Marta, Magdalena, 470006, Colombia",
+   "phone": "57302 5908198",
+   "website": "https://www.instagram.com/coyote.tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "CP GAMES",
    "group": "in_store",
    "city": "Barranquilla",
@@ -261,6 +387,26 @@
    "address": "111511, Palermo, Bogotá",
    "phone": "319 4186485",
    "checked_at": "2026-10-17T01:18:21Z"
+  },
+  {
+   "name": "Cthulhu's Lair Hobby Center",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Cl. 82 #94L-81, Bogotá",
+   "phone": "304 3173588",
+   "website": "https://www.facebook.com/profile.php?id=100090672775340",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Cypher One",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Cl. 60 #9-83 Local 131, Chapinero, Bogotá",
+   "phone": "310 4230667",
+   "website": "https://www.instagram.com/cypherone_store/",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "CÓMIC GIFT Y OTRAS MKS",
@@ -304,6 +450,19 @@
    "checked_at": "2026-10-17T01:18:13Z"
   },
   {
+   "name": "Destiny Hobby Center",
+   "group": "in_store",
+   "city": "Chía",
+   "region": "Cundinamarca",
+   "address": "1-60 Av. Pradilla Local 3, Chía, Cundinamarca, 250001, Colombia",
+   "phone": "+573161202060",
+   "website": "https://www.facebook.com/DestinyHobbyCenter",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Dolmi's Toys",
    "group": "in_store",
    "city": "Bogotá",
@@ -313,6 +472,26 @@
    "checked_at": "2026-10-17T01:18:21Z"
   },
   {
+   "name": "Draco Hobby Center Sur",
+   "group": "in_store",
+   "phone": "+57 4 5455432",
+   "website": "https://www.facebook.com/dracosur/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Duckshop91",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "CL 63 B SUR # 73 D - 72, Cdad. Bolívar, Bogotá, Cundinamarca",
+   "phone": "314 2413094",
+   "website": "https://www.instagram.com/duckshop91/",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Duelist Kingdom",
    "group": "in_store",
    "city": "Cali",
@@ -320,7 +499,7 @@
    "address": "Carrera 27, Calle #2A-43, Miraflores, Cali, Valle del Cauca",
    "phone": "302 8553050",
    "website": "http://www.facebook.com/duelistkingdomcali",
-   "checked_at": "2026-10-17T01:20:06Z"
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "El Coleccionista Financiero",
@@ -389,9 +568,8 @@
    "city": "Medellín",
    "region": "Antioquia",
    "address": "Cra 66 #49a-26, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia",
-   "phone": "316 3324393",
    "website": "https://www.instagram.com/excelsiorhobbycenter?igsh=Mml1MWRjaXJ6dmI2",
-   "checked_at": "2026-10-17T01:19:29Z"
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "FelizMente - Empresa de juegos de mesa y para pensar",
@@ -472,6 +650,16 @@
    "checked_at": "2026-10-17T01:18:51Z"
   },
   {
+   "name": "HELLSING STORE TIENDA DE ANIME",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Cl. 5 #86 - 19 Loc 1, Las Vegas, Cali, Valle del Cauca",
+   "phone": "316 8593810",
+   "website": "https://www.instagram.com/hellsingstore8/?hl=es",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Hidden TCG Store",
    "group": "in_store",
    "city": "Bogotá",
@@ -479,6 +667,26 @@
    "address": "Cl. 52 #24-18, Bogotá",
    "phone": "311 8128126",
    "checked_at": "2026-10-17T01:18:13Z"
+  },
+  {
+   "name": "Hobbies Di Anime & Comics Store",
+   "group": "in_store",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Cl. 5 #23 - 21, 3 de Julio, Cali, Valle del Cauca",
+   "phone": "300 7204306",
+   "website": "http://facebook.com/hobbiesdi",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Jjgamers",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Cra. 44 #64-39, Nte. Centro Historico, Barranquilla, Atlántico",
+   "phone": "301 6740667",
+   "website": "https://facebook.com/groups/862311490603623/",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Juego&real",
@@ -529,16 +737,15 @@
   {
    "name": "La Armería de Rohan",
    "group": "in_store",
-   "city": "Cali",
-   "region": "Valle del Cauca",
+   "city": "Bogotá",
+   "region": "Bogotá",
    "address": "1428 Cl. 68, Bogotá, Bogotá, 111221, Colombia",
    "phone": "573133828768",
    "website": "https://instagram.com/armeriaderohan",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:18:07Z"
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "La Bodega del Juguete",
@@ -548,6 +755,16 @@
    "address": "Cra. 52a #45 116, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia",
    "phone": "322 6075952",
    "checked_at": "2026-10-17T01:19:44Z"
+  },
+  {
+   "name": "LA CONSOLA BARRANQUILLA",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Cra. 44 #82-16 Local 107, Nte. Centro Historico, Barranquilla, Atlántico",
+   "phone": "300 6164646",
+   "website": "http://www.instagram.com/laconsola",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "La Pelucheria",
@@ -576,6 +793,16 @@
    "checked_at": "2026-10-17T01:19:58Z"
   },
   {
+   "name": "Libros Merlin",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Cra. 8a #15 - 70, Bogotá",
+   "phone": "320 3220615",
+   "website": "https://www.instagram.com/libreriamerlinoficial/?hl=es",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Magic House Bogota",
    "group": "in_store",
    "city": "Bogotá",
@@ -594,11 +821,30 @@
    "checked_at": "2026-10-17T01:18:21Z"
   },
   {
+   "name": "Merc Entretenimiento",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Cl. Centro Comercial Panorama, Sur Orient, Barranquilla, Atlántico",
+   "phone": "300 6266141",
+   "website": "https://www.instagram.com/merc_entretenimiento?igsh=MWYxdGh6ZTR5dTB1MQ==",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "METRO GAMES PLAZA",
    "group": "in_store",
    "region": "Atlántico",
    "address": "Esquina Carrera 1, Av. Murillo #Local 50, Ciudadela 20 de Julio, Barranquilla, Atlántico",
    "checked_at": "2026-10-17T01:20:25Z"
+  },
+  {
+   "name": "Milton's Panini House",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Cra. 41 #60-15, El Recreo, Barranquilla, Atlántico",
+   "website": "https://www.instagram.com/milton_paninihouse/?__d=11",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Minitienda el sol",
@@ -680,6 +926,16 @@
    "checked_at": "2026-10-17T01:19:16Z"
   },
   {
+   "name": "NEKO STORE",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "Dg. 182 #20-91, Usaquén, Bogotá, Cundinamarca",
+   "phone": "350 6068061",
+   "website": "https://www.instagram.com/neko_store19/",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Niñolandia",
    "group": "in_store",
    "city": "Medellín",
@@ -687,6 +943,16 @@
    "address": "Tenerife #45A-33, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia",
    "phone": "(604) 5121421",
    "checked_at": "2026-10-17T01:19:39Z"
+  },
+  {
+   "name": "Odd World Store",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Cl. 151 #16-56 Loc 2039, Bogotá",
+   "phone": "310 2018261",
+   "website": "https://instagram.com/oddworld_store?utm_medium=copy_link",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "OHANA GEEKS STORE",
@@ -705,7 +971,7 @@
    "address": "Cra. 62 #99-87, Barrios Unidos, Bogotá, D.C, Cundinamarca",
    "phone": "300 8755633",
    "website": "https://www.instagram.com/play4cards.col?igsh=MXQwanBvZDdxd2J6dA==",
-   "checked_at": "2026-10-17T01:18:18Z"
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "QUE DETALLE, COLECCIONABLES Y MAS",
@@ -717,12 +983,22 @@
    "checked_at": "2026-10-17T01:18:27Z"
   },
   {
+   "name": "Raven Wood",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+573044650457",
+   "website": "https://www.facebook.com/ravenwoodgames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Ravenwood games",
    "group": "in_store",
    "city": "Barranquilla",
    "region": "Atlántico",
    "address": "Cra. 45 #80-31 Loc 1, Nte. Centro Historico, Barranquilla, Atlántico",
-   "phone": "300 6164646",
    "website": "https://instagram.com/ravenwoodgames?utm_medium=copy_link",
    "checked_at": "2026-10-17T01:20:14Z"
   },
@@ -734,6 +1010,26 @@
    "address": "Cl. 49 #52-42, Centro, Medellín, La Candelaria, Medellín, Antioquia",
    "phone": "300 4157986",
    "checked_at": "2026-10-17T01:19:44Z"
+  },
+  {
+   "name": "Royal Street Shopping Center",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Calle 34#43-110 centro comercial Shopping center local A-199, Paseo bolivar, paseo bolívar, Barranquilla, Atlántico",
+   "phone": "301 6863844",
+   "website": "https://www.instagram.com/player1_videojuegos?igsh=dGNkcGYzcTk0cmtx&utm_source=qr",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
+   "name": "Ryodan Hobby Center",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "Av Cl 80 #112 a - 05, Engativá, Bogotá, Cundinamarca",
+   "phone": "313 4112724",
+   "website": "https://www.facebook.com/ryodancolombia/followers",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "S Live",
@@ -779,6 +1075,16 @@
    "address": "Cra. 74, Pedregal, Medellín, Doce de Octubre, Medellín, Antioquia",
    "phone": "301 3604144",
    "checked_at": "2026-10-17T01:20:04Z"
+  },
+  {
+   "name": "Smile Games",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Cundinamarca",
+   "address": "Cra. 38 #8a 51 Entrada 1, Puente Aranda, Bogotá, Cundinamarca",
+   "phone": "320 8390109",
+   "website": "https://www.facebook.com/SmileGamesBta/",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Store Games",
@@ -852,6 +1158,16 @@
    "checked_at": "2026-10-17T01:18:19Z"
   },
   {
+   "name": "Tokyo Gamer Barranquilla",
+   "group": "in_store",
+   "city": "Barranquilla",
+   "region": "Atlántico",
+   "address": "Calle 93 #46-196 Tokiogamer, Cl. 93 #46-136, Riomar, Barranquilla, Atlántico",
+   "phone": "301 8244455",
+   "website": "https://www.instagram.com/tokiogamerc93?igsh=MXJ4c250dWs2bG5lbg==",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "Tokyo Nation Hobby Center",
    "group": "in_store",
    "city": "Bogotá",
@@ -862,7 +1178,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:18:07Z"
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Toys planet",
@@ -883,13 +1199,27 @@
    "checked_at": "2026-10-17T01:18:21Z"
   },
   {
+   "name": "Trainer's Heaven Store",
+   "group": "in_store",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Cl. 22 Sur #40B-43, Bogotá",
+   "phone": "310 2115430",
+   "website": "https://www.instagram.com/trainersheavenstore?igsh=MWVzeW96b2t4bHI0dQ%3D%3D&utm_source=qr",
+   "checked_at": "2026-10-17T01:20:14Z"
+  },
+  {
    "name": "TrampleStore",
    "group": "in_store",
    "city": "Barranquilla",
    "region": "Atlántico",
-   "address": "Av. 20 de Julio #84-222 Loc 4, Nte. Centro Historico, Barranquilla, Atlántico",
-   "phone": "315 0655368",
-   "checked_at": "2026-10-17T01:19:28Z"
+   "address": "84222 Cra. 43, Barranquilla, Atlántico, 080020, Colombia",
+   "phone": "573150655368",
+   "website": "https://www.instagram.com/tramplestore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Usaquén Flea Market",
@@ -908,6 +1238,16 @@
    "address": "Cra. 46 #96 Esquina, Barranquilla, Atlántico",
    "phone": "300 4946841",
    "checked_at": "2026-10-17T01:20:21Z"
+  },
+  {
+   "name": "vintage games super store",
+   "group": "in_store",
+   "city": "Medellín",
+   "region": "Antioquia",
+   "address": "Cra. 81 #43-72 Loc 1189, Simón Bolívar, Medellín, Laureles, Medellín, Antioquia",
+   "phone": "316 3324393",
+   "website": "https://www.instagram.com/vintagegamessuperstore?igsh=MWViczZrMGc5Z3ZoeA==",
+   "checked_at": "2026-10-17T01:20:14Z"
   },
   {
    "name": "Where to buy",
@@ -1034,7 +1374,7 @@
    "address": "Cl. 140 #18 - 05, Bogotá",
    "phone": "(601) 6333300",
    "website": "http://www.booksandbooks.com.co/",
-   "checked_at": "2026-10-17T01:19:23Z"
+   "checked_at": "2026-10-17T01:20:03Z"
   },
   {
    "name": "Books & Books Medellín",
@@ -1211,8 +1551,8 @@
    "region": "Bogotá",
    "address": "Centro Comercial Titán Plaza, Cra. 72 #80-94 Loc 1-46, Bogotá",
    "phone": "321 4479718",
-   "website": "https://www.dchobbies.com.co/",
-   "checked_at": "2026-10-17T01:18:58Z"
+   "website": "https://www.dchobbies.com.co/contactenos",
+   "checked_at": "2026-10-17T01:19:39Z"
   },
   {
    "name": "DC. Hobbies | Juguetes de colección",
@@ -1223,16 +1563,6 @@
    "phone": "300 6723454",
    "website": "https://www.dchobbies.com.co/contactenos",
    "checked_at": "2026-10-17T01:19:39Z"
-  },
-  {
-   "name": "Destiny Hobby Center",
-   "group": "unknown",
-   "city": "Chía",
-   "region": "Cundinamarca",
-   "address": "Av. Pradilla #1-60 Loc 3, Chía, Cundinamarca",
-   "phone": "316 1202060",
-   "website": "https://destinyhobbycenter.com/",
-   "checked_at": "2026-10-17T01:18:18Z"
   },
   {
    "name": "Doa no Fantaji",
@@ -1256,13 +1586,23 @@
   {
    "name": "Draco Hobby Center Bogotá",
    "group": "unknown",
-   "city": "Cali",
-   "region": "Valle del Cauca",
+   "city": "Bogotá",
+   "region": "Bogotá",
    "address": "Avenida Carrera 15 #75-53, Bogota, DC, 110221, Colombia",
    "phone": "57315 5681771",
    "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:18:07Z"
+  },
+  {
+   "name": "Draco Hobby Center Medellín",
+   "group": "unknown",
+   "address": "Calle 32F # 65F-15, Medellín, ANT, 050030, Colombia",
+   "phone": "+57+573006132725",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:18:07Z"
@@ -1430,7 +1770,7 @@
    "address": "Centro Comercial, Haciendo Santa Bárbara, Ak 7 #116-60 Local D, 328, Usaquén, Bogotá, Cundinamarca",
    "phone": "300 7868546",
    "website": "https://www.hobbiesandcollectibles.co/",
-   "checked_at": "2026-10-17T01:19:25Z"
+   "checked_at": "2026-10-17T01:20:11Z"
   },
   {
    "name": "HOBBIES AND COLLECTIBLES",
@@ -1486,6 +1826,20 @@
    "checked_at": "2026-10-17T01:18:07Z"
   },
   {
+   "name": "In Da Jaus",
+   "group": "unknown",
+   "city": "Cali",
+   "region": "Valle del Cauca",
+   "address": "Calle 52 #1f-44 , Cali, Valle del Cauca, 760042, Colombia",
+   "phone": "573153563548",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:18:07Z"
+  },
+  {
    "name": "Iserra 100 Mall",
    "group": "unknown",
    "city": "Bogotá",
@@ -1514,7 +1868,7 @@
    "address": "Avenida 19 # 114a 22, Bogotá",
    "phone": "315 3357921",
    "website": "https://www.jugandoyeducando.com/",
-   "checked_at": "2026-10-17T01:19:28Z"
+   "checked_at": "2026-10-17T01:20:32Z"
   },
   {
    "name": "Juguetes Jugando y Educando Barranquilla",
@@ -1534,7 +1888,7 @@
    "address": "Cr 43 A # 6 S-15, Centro Comercial Oviedo, Local 1188, El Poblado, Medellín, El Poblado, Medellín, Antioquia",
    "phone": "324 6371035",
    "website": "https://www.jugandoyeducando.com/",
-   "checked_at": "2026-10-17T01:20:04Z"
+   "checked_at": "2026-10-17T01:20:32Z"
   },
   {
    "name": "KantoTCG",
@@ -1560,16 +1914,6 @@
    "checked_at": "2026-10-17T01:19:34Z"
   },
   {
-   "name": "La Armería de Rohan",
-   "group": "unknown",
-   "city": "Bogotá",
-   "region": "Bogotá",
-   "address": "Cl. 68 #14 28 Loc 2, Bogotá",
-   "phone": "313 3828768",
-   "website": "https://www.rohanspellbook.com/",
-   "checked_at": "2026-10-17T01:18:18Z"
-  },
-  {
    "name": "La baticueva tienda",
    "group": "unknown",
    "city": "Bogotá",
@@ -1586,12 +1930,12 @@
    "region": "Antioquia",
    "address": "Carrera 81 #32-31, Medellin, ANT, 05001, Colombia",
    "phone": "57305 3136951",
-   "website": "https://linktr.ee/lacomarca",
+   "website": "https://linktr.ee/jailys_store",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:18:07Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "La Tienda Del Coleccionista Figuras Coleccionables Pokemon Y Funko Pop",
@@ -1701,9 +2045,9 @@
    "region": "Atlántico",
    "address": "Cl. 80 #42H - 62 LC 1A, El Porvenir, Barranquilla, Atlántico",
    "phone": "310 4626998",
-   "website": "https://linktr.ee/monstergstore",
+   "website": "https://linktr.ee/jailys_store",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:20:16Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Mundo Otaku Colombia",
@@ -1774,7 +2118,7 @@
    "phone": "(604) 4480999",
    "website": "https://www.panamericana.com.co/",
    "buylist_url": "https://www.panamericana.com.co/buylist",
-   "checked_at": "2026-10-17T01:19:39Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Panamericana Barranquilla C.C. Buenavista II",
@@ -1796,7 +2140,7 @@
    "phone": "(601) 3483800",
    "website": "https://www.panamericana.com.co/",
    "buylist_url": "https://www.panamericana.com.co/buylist",
-   "checked_at": "2026-10-17T01:18:44Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Pepe Ganga C.C. MallPlaza Bogotá",
@@ -1807,7 +2151,7 @@
    "phone": "(601) 4865050",
    "website": "https://www.pepeganga.com/",
    "buylist_url": "https://www.pepeganga.com/buylist",
-   "checked_at": "2026-10-17T01:18:47Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Pepe Ganga C.C. Medellin Santafe",
@@ -1818,7 +2162,7 @@
    "phone": "01-800-0117373",
    "website": "https://www.pepeganga.com/",
    "buylist_url": "https://www.pepeganga.com/buylist",
-   "checked_at": "2026-10-17T01:19:44Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Pepe Ganga C.C. Viva Barranquilla",
@@ -1840,7 +2184,7 @@
    "phone": "01-800-0117373",
    "website": "https://www.pepeganga.com/",
    "buylist_url": "https://www.pepeganga.com/buylist",
-   "checked_at": "2026-10-17T01:20:08Z"
+   "checked_at": "2026-10-17T01:20:28Z"
   },
   {
    "name": "Pixel TCGaming & Restaurant",
@@ -2096,6 +2440,19 @@
    "phone": "314 2834081",
    "website": "https://tumundoanime.com/",
    "checked_at": "2026-10-17T01:18:47Z"
+  },
+  {
+   "name": "Unlimited Hobby Center",
+   "group": "unknown",
+   "city": "Bogotá",
+   "region": "Bogotá",
+   "address": "Carrera 13 46-64 piso 2, Bogotá D.C., DC, 110231, Colombia",
+   "phone": "+571-323-1001",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:18:07Z"
   },
   {
    "name": "Valhalla Hobby Center",

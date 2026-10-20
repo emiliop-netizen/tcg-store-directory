@@ -1,8 +1,8 @@
 {
  "country": "PA",
  "currency": "USD",
- "updated": "2026-10-18",
- "store_count": 43,
+ "updated": "2026-10-20",
+ "store_count": 51,
  "stores": [
   {
    "name": "Collectors Club TCG",
@@ -85,6 +85,16 @@
    "checked_at": "2026-10-18T21:46:29Z"
   },
   {
+   "name": "G.a Mobile",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Av. C, Panamá, Provincia de Panamá",
+   "phone": "6150-9534",
+   "website": "https://www.instagram.com/invites/contact/?i=1qi653icyyp5x&utm_content=4b4257r",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
    "name": "Game Stage Panamá",
    "group": "in_store",
    "city": "Panama City",
@@ -119,6 +129,29 @@
    "region": "Panamá Province",
    "address": "Panama City, Panamá Province",
    "phone": "6159-9978",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "Guarida TCG",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Betania, Calle Ave. La Paz y Calle 2da, Edificio Autok, Panamá, Provincia de Panamá, 7158, PA",
+   "phone": "50765316846",
+   "website": "https://www.instagram.com/guaridatcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "Jusdalz Tcg Hobbies Store",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Workspace Centre Calle 47 Este, Edificio Workspace Centre, Local PA, Panamá, Provincia de Panamá",
+   "phone": "6080-0570",
+   "website": "https://www.instagram.com/jusdalz_tcg_hobbies_store/",
    "checked_at": "2026-10-18T21:46:38Z"
   },
   {
@@ -203,15 +236,44 @@
   {
    "name": "The Collector 507 - Albrook Mall",
    "group": "in_store",
-   "city": "Panamá",
-   "region": "Provincia de Panamá",
    "address": "Albrook Mall Pasillo del Delfin, plata baja local J15, Panama City, Panamá Province, 00000, Panama",
    "phone": "50766752484",
    "website": "https://www.instagram.com/thecollector.507/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:46:25Z"
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "The Collector 507 - Los Pueblos",
+   "group": "in_store",
+   "address": "Los Pueblos Tech Market - Local 1, Panama, Panamá, 00000, Panama",
+   "phone": "50766752484",
+   "website": "https://www.instagram.com/thecollector.507/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "The Collector 507 Albrook",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "albrook Mall, Pasillo del Delphin, Panamá, Provincia de Panamá",
+   "phone": "6169-5373",
+   "website": "https://www.instagram.com/thecollector.507/",
+   "checked_at": "2026-10-18T21:46:38Z"
+  },
+  {
+   "name": "The Collector 507 Tumba Muerto",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "Vía Ricardo J. Alfaro, Panamá, Provincia de Panamá",
+   "phone": "6780-2620",
+   "website": "https://www.instagram.com/thecollector.507/",
+   "checked_at": "2026-10-18T21:46:38Z"
   },
   {
    "name": "Tiempo Pixel Shop",
@@ -220,6 +282,16 @@
    "region": "Provincia de Panamá",
    "address": "507, Panamá, Provincia de Panamá",
    "checked_at": "2026-10-18T21:46:46Z"
+  },
+  {
+   "name": "whitebox panamá",
+   "group": "in_store",
+   "city": "Panamá",
+   "region": "Provincia de Panamá",
+   "address": "07107, Panamá, Provincia de Panamá",
+   "phone": "6756-8383",
+   "website": "https://www.instagram.com/white_boxpty/",
+   "checked_at": "2026-10-18T21:46:38Z"
   },
   {
    "name": "8bitto",
@@ -344,7 +416,7 @@
    "address": "Multiplaza Pacifica Mall, Panamá, Provincia de Panamá",
    "phone": "6699-0367",
    "website": "https://pntpanama.com/",
-   "checked_at": "2026-10-18T21:46:29Z"
+   "checked_at": "2026-10-18T21:46:37Z"
   },
   {
    "name": "PLAY N TRADE TOWN CENTER",
@@ -415,6 +487,17 @@
    "address": "Atrio mall, Panamá, Provincia de Panamá",
    "phone": "6619-1227",
    "website": "https://uvstore-pa.com/",
+   "checked_at": "2026-10-18T21:46:25Z"
+  },
+  {
+   "name": "UV STORE S.A",
+   "group": "unknown",
+   "address": "Av Marina del Nte, ATRIO MALL PISO 1 LOCAL B14-15, Panamá, Provincia de Panamá, 00000, Panamá",
+   "phone": "507 69489523",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-18T21:46:25Z"
   },
   {

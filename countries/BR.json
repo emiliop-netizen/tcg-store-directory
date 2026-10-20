@@ -1,8 +1,8 @@
 {
  "country": "BR",
  "currency": "BRL",
- "updated": "2026-10-16",
- "store_count": 955,
+ "updated": "2026-10-20",
+ "store_count": 1044,
  "stores": [
   {
    "name": "GAIA GAMES STORE",
@@ -275,8 +275,8 @@
    "region": "RJ",
    "address": "Av. Vicente de Carvalho, 909 - Vila da Penha, Rio de Janeiro - RJ, 21210-623",
    "phone": "(21) 99857-0286",
-   "website": "https://brunopokecartas.com.br/",
-   "checked_at": "2026-10-17T01:07:05Z"
+   "website": "https://www.brunopokecartas.com.br/",
+   "checked_at": "2026-10-17T01:07:06Z"
   },
   {
    "name": "Bruno PokeCartas",
@@ -714,14 +714,6 @@
    "checked_at": "2026-10-17T01:03:40Z"
   },
   {
-   "name": "Dungeon Games Store",
-   "group": "blocked",
-   "region": "SP",
-   "address": "R. Duque de Caxias, 317 - Lj 4, 2º Subsolo - Centro, Barueri - SP, 06401-010",
-   "website": "https://www.dungeongamesstore.com.br/",
-   "checked_at": "2026-10-17T01:06:02Z"
-  },
-  {
    "name": "Dungeons & Dices",
    "group": "blocked",
    "region": "São Paulo",
@@ -1059,15 +1051,6 @@
    "checked_at": "2026-10-17T01:04:26Z"
   },
   {
-   "name": "Goblin Hero Store",
-   "group": "blocked",
-   "region": "RJ",
-   "address": "Estr. do Gabinal, 313 - Lj 176 A - Freguesia (Jacarepaguá), Rio de Janeiro - RJ, 22760-151",
-   "phone": "(21) 99331-0182",
-   "website": "https://www.goblinherostore.com.br/",
-   "checked_at": "2026-10-17T01:07:15Z"
-  },
-  {
    "name": "Gold House MTG",
    "group": "blocked",
    "region": "São Paulo",
@@ -1354,7 +1337,7 @@
    "address": "Av. Presidente Carlos Luz, 3001 - Caiçaras, Belo Horizonte - MG, 31250-010",
    "phone": "(31) 3415-8050",
    "website": "https://leitura.com.br/",
-   "checked_at": "2026-10-17T01:08:15Z"
+   "checked_at": "2026-10-17T01:08:16Z"
   },
   {
    "name": "LEITURA",
@@ -1372,7 +1355,7 @@
    "address": "Av. Gov. Agamenon Magalhães, 153 - Santo Amaro, Recife - PE, 50110-000",
    "phone": "(81) 3221-0338",
    "website": "https://leitura.com.br/",
-   "checked_at": "2026-10-17T01:10:28Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Leitura",
@@ -1390,7 +1373,7 @@
    "address": "BH Shopping - BR-356, 3049 - Piso Ouro Preto, Loja OP - BR-356, 3049 - Loja 051 - Belvedere, Belo Horizonte - MG, 30320-900",
    "phone": "(31) 3263-2700",
    "website": "https://leitura.com.br/",
-   "checked_at": "2026-10-17T01:07:55Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Lendario Card Games",
@@ -1399,15 +1382,6 @@
    "address": "Av. Celso Garcia, 4367 - Tatuapé, São Paulo - SP, 03063-000",
    "website": "http://lendariocardgames.com.br/",
    "checked_at": "2026-10-17T01:05:49Z"
-  },
-  {
-   "name": "Lendários - Cards, Games & Geekshop",
-   "group": "blocked",
-   "region": "RJ",
-   "address": "R. Lourenço Abrantes, 14 - Centro, São Gonçalo - RJ, 24440-420",
-   "phone": "(21) 2023-0972",
-   "website": "https://www.lendariosloja.com/?view=ecom/home",
-   "checked_at": "2026-10-17T01:07:03Z"
   },
   {
    "name": "Livraria da Vila",
@@ -1425,7 +1399,7 @@
    "address": "Av. Paraná, 393 - Centro, Belo Horizonte - MG, 30120-020",
    "phone": "(31) 3272-8488",
    "website": "https://leitura.com.br/",
-   "checked_at": "2026-10-17T01:08:20Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Livraria Leitura | Shopping RioMar Fortaleza",
@@ -1434,7 +1408,7 @@
    "address": "Papicu, Fortaleza - Ceará, Brazil",
    "phone": "(85) 99848-7244",
    "website": "https://leitura.com.br/",
-   "checked_at": "2026-10-17T01:10:48Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "LOAD OR CAST",
@@ -1637,7 +1611,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:04:08Z"
+   "checked_at": "2026-10-17T01:07:29Z"
   },
   {
    "name": "Mana Tap Jogos",
@@ -1757,11 +1731,11 @@
    "region": "SP",
    "address": "524 R. Galvão Bueno, São Paulo, SP, 01506-000, BR",
    "phone": "5511981871811",
-   "website": "https://www.meruru.com.br/?view=ecom/home",
+   "website": "https://meruru.com.br/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:03:32Z"
+   "checked_at": "2026-10-17T01:04:25Z"
   },
   {
    "name": "Mineral Games",
@@ -1799,15 +1773,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:25Z"
-  },
-  {
-   "name": "Mochila Geek",
-   "group": "blocked",
-   "region": "PE",
-   "address": "Av. Dr. Belmino Correia, 2318 - Timbi, Camaragibe - PE, 54762-303",
-   "phone": "(81) 99798-2885",
-   "website": "https://www.mochilageek.com.br/",
-   "checked_at": "2026-10-17T01:10:18Z"
   },
   {
    "name": "Monster Games",
@@ -2074,8 +2039,8 @@
    "group": "blocked",
    "region": "SP",
    "address": "Av. Brig. Faria Lima, 2128 - Lj 6 - Jardim Paulistano, São Paulo - SP, 01451-903",
-   "website": "https://linklist.bio/paninipointfarialima",
-   "checked_at": "2026-10-17T01:06:33Z"
+   "website": "https://linklist.bio/paninipointfortaleza",
+   "checked_at": "2026-10-17T01:10:37Z"
   },
   {
    "name": "Panini Point Fortaleza",
@@ -2092,8 +2057,8 @@
    "region": "PR",
    "address": "Quadrata Cabral Mall - Av. Munhoz da Rocha, 853 - Lj 07 - Juvevê, Curitiba - PR, 80035-000",
    "phone": "(41) 99814-9704",
-   "website": "https://linklist.bio/paninipointquadratacabral",
-   "checked_at": "2026-10-17T01:08:53Z"
+   "website": "https://linklist.bio/paninipointfortaleza",
+   "checked_at": "2026-10-17T01:10:37Z"
   },
   {
    "name": "Perfect Cards",
@@ -2103,15 +2068,6 @@
    "phone": "(11) 97839-2533",
    "website": "https://www.perfectcards.com.br/",
    "checked_at": "2026-10-17T01:06:06Z"
-  },
-  {
-   "name": "Pharaoh's Shop",
-   "group": "blocked",
-   "region": "RS",
-   "address": "R. Bento Gonçalves, 2173 - Centro, Novo Hamburgo - RS, 93510-365",
-   "phone": "(51) 3781-1241",
-   "website": "https://www.pharaohshoptcg.com.br/",
-   "checked_at": "2026-10-17T01:09:25Z"
   },
   {
    "name": "Pi Games",
@@ -2240,11 +2196,11 @@
    "region": "Alagoas",
    "address": "R. Expedicionário Brasileiro, 600b - Eldorado, Arapiraca - AL, 57300-590, Brazil, Alagoas, 57300-590",
    "phone": "+55 82 99971-3785",
-   "website": "https://mypcards.com/Quickplay",
+   "website": "https://mypcards.com/ckcardgames",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T01:05:14Z"
+   "checked_at": "2026-10-17T01:11:00Z"
   },
   {
    "name": "RAIZES NERDS",
@@ -2434,14 +2390,6 @@
    "checked_at": "2026-10-17T01:04:34Z"
   },
   {
-   "name": "SpellCard",
-   "group": "blocked",
-   "region": "CE",
-   "address": "Av. João Pessoa, 5834 - Lj 14 - Couto Fernandes, Fortaleza - CE, 60442-057",
-   "website": "https://www.spellcard.com.br/",
-   "checked_at": "2026-10-17T01:10:36Z"
-  },
-  {
    "name": "SpellCast",
    "group": "blocked",
    "address": "Av. Dr. Timóteo Penteado, Guarulhos , SP, 07061-000, BR",
@@ -2469,15 +2417,6 @@
    "phone": "(31) 98434-8816",
    "website": "https://stoptcg.com.br/",
    "checked_at": "2026-10-17T01:07:35Z"
-  },
-  {
-   "name": "Summoner Hobbies Store",
-   "group": "blocked",
-   "region": "PR",
-   "address": "Av. Sete de Setembro, 3146 - Sobreloja 52 - Centro, Curitiba - PR, 80230-010",
-   "phone": "(41) 99675-8020",
-   "website": "https://www.summoner.com.br/",
-   "checked_at": "2026-10-17T01:08:39Z"
   },
   {
    "name": "Sunrise Kingdom",
@@ -2988,6 +2927,26 @@
    "checked_at": "2026-10-17T01:07:08Z"
   },
   {
+   "name": "1001 Coisas",
+   "group": "in_store",
+   "region": "PE",
+   "address": "Av. Caxangá, 66 - 04 e 05 - Madalena, Recife - PE, 50610-230",
+   "phone": "(81) 98457-4306",
+   "website": "https://www.instagram.com/1001coisasonline/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "2 Irmãos Cards",
+   "group": "in_store",
+   "address": "3162-A Av. Cap. João, Mauá, SP, 09360-120, Brazil",
+   "phone": "5511984060130",
+   "website": "https://www.instagram.com/doisirmaoscards",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "3R's TCG",
    "group": "in_store",
    "region": "Minas Gerais",
@@ -3004,6 +2963,15 @@
    "address": "R. Marquês de Abrantes, 158 - 601 - Flamengo, Rio de Janeiro - RJ, 22230-060",
    "phone": "(21) 96498-5495",
    "checked_at": "2026-10-17T01:07:35Z"
+  },
+  {
+   "name": "A Banca Cards e Colecionáveis",
+   "group": "in_store",
+   "region": "CE",
+   "address": "Rua Cesário Lange, 725 - Lj A - Messejana, Fortaleza - CE, 60841-220",
+   "phone": "(85) 99856-0013",
+   "website": "https://www.instagram.com/abancatcg/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Abelha Lunar Brinquedos",
@@ -3032,13 +3000,21 @@
    "checked_at": "2026-10-17T01:05:35Z"
   },
   {
+   "name": "Action Store",
+   "group": "in_store",
+   "region": "CE",
+   "address": "Av. Borges de Melo, 1885 - Parreão, Fortaleza - CE, 60410-336",
+   "phone": "(85) 99799-8806",
+   "website": "https://www.instagram.com/actionstoregeek?igsh=MWhkZjE0em1veXE3Zg==",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Adorável borboleta",
    "group": "in_store",
    "region": "BA",
    "address": "Rua Mello Moraes Filho, 578 - Fazenda Grande do Retiro, Salvador - BA, 40352-005",
-   "phone": "(71) 99352-6209",
    "website": "https://instagram.com/adoravelborboleta?igshid=YmMyMTA2M2Y=",
-   "checked_at": "2026-10-17T01:10:18Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Aki Jornal",
@@ -3051,7 +3027,7 @@
   {
    "name": "Akiba Station",
    "group": "in_store",
-   "region": "Pernambuco",
+   "region": "São Paulo",
    "address": "18 R. Thomaz Gonzaga, São Paulo, São Paulo, 01503-020, Brazil",
    "phone": "5591398-3868",
    "website": "https://www.instagram.com/akibastationsp/",
@@ -3059,7 +3035,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:03:32Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Akka Hoshi",
@@ -3068,6 +3044,15 @@
    "address": "Av. Treze de Maio, 2950 - Benfica, Fortaleza - CE, 60040-212",
    "phone": "(85) 98743-3479",
    "checked_at": "2026-10-17T01:11:00Z"
+  },
+  {
+   "name": "Albaniza Mídia e Hq's",
+   "group": "in_store",
+   "region": "CE",
+   "address": "R 24 de Maio, 950 - Centro, Fortaleza - CE, 60020-000",
+   "phone": "(85) 3122-4565",
+   "website": "https://www.instagram.com/albanizamidias_ehqs/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "aMai",
@@ -3222,7 +3207,7 @@
    "address": "Av. Conde da Boa Vista, 50 - Boa Vista, Recife - PE, 50060-001",
    "phone": "(81) 97900-5850",
    "website": "https://www.facebook.com/bakamoonloja",
-   "checked_at": "2026-10-17T01:10:23Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Banca Centenária",
@@ -3262,7 +3247,7 @@
    "address": "SHCN SQN 106 Banca de Jornal - Asa Norte, Brasília - DF, 70742-100",
    "phone": "(61) 3340-6088",
    "website": "https://instagram.com/bancadobrito",
-   "checked_at": "2026-10-17T01:09:50Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Banca dos Concursos e Pokemon",
@@ -3273,12 +3258,39 @@
    "checked_at": "2026-10-17T01:07:18Z"
   },
   {
+   "name": "Banca Elshaday - Quadrinhos e Games",
+   "group": "in_store",
+   "region": "PE",
+   "address": "R. Infante Dom Henrique - Santo Antônio, Recife - PE, 50010-130",
+   "phone": "(81) 98694-7487",
+   "website": "http://instagram.com/quadrinhosegames",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Banca Zapp",
    "group": "in_store",
    "region": "PE",
    "address": "Derby Center - R. Joaquim Nabuco, 409 - Graças, Recife - PE, 52010-300",
    "phone": "(81) 3222-4203",
    "checked_at": "2026-10-17T01:10:23Z"
+  },
+  {
+   "name": "Barak Store",
+   "group": "in_store",
+   "region": "PR",
+   "address": "Av. Sen. Salgado Filho, 4487 - Uberaba, Curitiba - PR, 81570-001",
+   "phone": "(41) 99810-3506",
+   "website": "https://www.instagram.com/barak_store_/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Baratão Importados - ATACADO E VAREJO",
+   "group": "in_store",
+   "region": "CE",
+   "address": "R. São Paulo, 403 - Centro, Fortaleza - CE, 60030-100",
+   "phone": "(85) 99187-0731",
+   "website": "https://www.instagram.com/barataoimportados_/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Bardo e Lady TCG",
@@ -3426,6 +3438,19 @@
    "checked_at": "2026-10-17T01:07:32Z"
   },
   {
+   "name": "BLU.FOX",
+   "group": "in_store",
+   "region": "São Paulo",
+   "address": "962 R. José Félix de Oliveira, Cotia, SP, 06708-415, BR",
+   "phone": "5511960577719",
+   "website": "http://www.instagram.com/commandershous",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Boardtopia",
    "group": "in_store",
    "region": "Santa Catarina",
@@ -3444,14 +3469,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:35Z"
-  },
-  {
-   "name": "Boss TCG",
-   "group": "in_store",
-   "region": "RJ",
-   "address": "Av. das Américas, 18500 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-704",
-   "phone": "(21) 98096-8326",
-   "checked_at": "2026-10-17T01:07:03Z"
   },
   {
    "name": "Bric Conceição",
@@ -3478,13 +3495,24 @@
    "checked_at": "2026-10-17T01:07:50Z"
   },
   {
+   "name": "Bubble Planet",
+   "group": "in_store",
+   "address": "349 Av. Roberto Silveira Store 103, Niterói, RJ, 24230-152, Brazil",
+   "phone": "5521996486500",
+   "website": "https://www.instagram.com/bubbleplanetofficial?igsh=a2wydW0yd3I0dDAx",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Bubble Planet - Lanchonete e Cardgames",
    "group": "in_store",
    "region": "RJ",
    "address": "Av. Roberto Silveira, 349 - loja 103 - Icaraí, Niterói - RJ, 24230-152",
    "phone": "(21) 97404-4276",
    "website": "https://www.instagram.com/bubbleplanetofficial",
-   "checked_at": "2026-10-17T01:07:05Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Buraco do Rato",
@@ -3554,7 +3582,7 @@
    "address": "Avenida Francisco real 1969 loja 07 e 08 B - Bangu, Rio de Janeiro - RJ, 21810-041",
    "phone": "(21) 98396-0984",
    "website": "https://www.facebook.com/carlaogames/",
-   "checked_at": "2026-10-17T01:07:08Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Cartago TCG",
@@ -3667,6 +3695,19 @@
    "checked_at": "2026-10-17T01:05:29Z"
   },
   {
+   "name": "Coliseu TCG",
+   "group": "in_store",
+   "region": "São Paulo",
+   "address": "Rua São José,n 16 segundo piso  vila Júlia, Mogi Guaçu, São Paulo, 13844000, Brazil",
+   "phone": "55199-7110-7231",
+   "website": "https://www.instagram.com/coliseutcg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Collection Universe",
    "group": "in_store",
    "region": "SP",
@@ -3690,7 +3731,7 @@
    "address": "R. da Consolação, 2685 - Cerqueira César, São Paulo - SP, 01416-001",
    "phone": "(11) 3088-9116",
    "website": "http://www.comix.com.br/",
-   "checked_at": "2026-10-17T01:06:07Z"
+   "checked_at": "2026-10-17T01:06:19Z"
   },
   {
    "name": "Counter GameHouse",
@@ -3720,7 +3761,16 @@
    "address": "Rodovia - BA-526, 305 - São Cristóvão, Salvador - BA, 41510-000",
    "phone": "(71) 99696-0251",
    "website": "http://facebook.com/crazyanimes",
-   "checked_at": "2026-10-17T01:10:11Z"
+   "checked_at": "2026-10-17T01:11:16Z"
+  },
+  {
+   "name": "Criativa - Loja de Brinquedos em Recife",
+   "group": "in_store",
+   "region": "PE",
+   "address": "Av. Conde da Boa Vista, 610, Loja 213C, 2 Andar Shopping Boa Vista - Soledade, Recife - PE, 50060-001",
+   "phone": "(83) 98899-9609",
+   "website": "https://www.instagram.com/criativabrinquedosepresentes/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Crossover Colecionaveis",
@@ -3737,7 +3787,7 @@
    "address": "R. Itapicuru, 239 - Perdizes, São Paulo - SP, 05006-000",
    "phone": "(11) 94322-0711",
    "website": "https://www.instagram.com/cucatoys/",
-   "checked_at": "2026-10-17T01:06:45Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "CWG Store",
@@ -3760,13 +3810,22 @@
    "checked_at": "2026-10-17T01:05:29Z"
   },
   {
+   "name": "Da Rua Bookstore",
+   "group": "in_store",
+   "region": "MG",
+   "address": "R. Antônio de Albuquerque, 913 - Funcionários, Belo Horizonte - MG, 30112-011",
+   "phone": "(31) 3500-6750",
+   "website": "https://www.instagram.com/livrariadarua/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "darkgames",
    "group": "in_store",
    "region": "RS",
    "address": "R. Gervazio Braga Pinheiro, 785 - Lomba do Pinheiro, Porto Alegre - RS, 91570-650",
    "phone": "(51) 3211-9011",
    "website": "http://www.facebook.com/darkgamespoa",
-   "checked_at": "2026-10-17T01:09:24Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "de nerd pra nerd",
@@ -3803,7 +3862,7 @@
    "address": "Calç. das Orquídeas, 95 - 2 andar - Alphaville, Barueri - SP, 06453-001",
    "phone": "(11) 94781-7359",
    "website": "https://www.instagram.com/detroit.geek/",
-   "checked_at": "2026-10-17T01:06:05Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Dino Alado",
@@ -3852,7 +3911,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:03:37Z"
+   "checked_at": "2026-10-17T01:07:21Z"
   },
   {
    "name": "Dominio Nerd",
@@ -3941,6 +4000,15 @@
    "checked_at": "2026-10-17T01:05:38Z"
   },
   {
+   "name": "EDUC Books and Papers",
+   "group": "in_store",
+   "region": "MG",
+   "address": "R. Monte Branco, 141 - Nova Suíça, Belo Horizonte - MG, 30421-138",
+   "phone": "(31) 3374-2020",
+   "website": "https://www.instagram.com/educpapelarialtda",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Egghead Hobby Store",
    "group": "in_store",
    "region": "Rio Grande do Norte",
@@ -4019,12 +4087,31 @@
    "checked_at": "2026-10-17T01:05:43Z"
   },
   {
+   "name": "Espaço Cultural Qorpo Santo",
+   "group": "in_store",
+   "region": "RS",
+   "address": "Espaço de eventos, Mercado Público de Porto Alegre - Box 10 - Centro Histórico, Porto Alegre - RS, 90020-070",
+   "website": "https://www.facebook.com/seboqorposanto",
+   "checked_at": "2026-10-17T01:11:16Z"
+  },
+  {
    "name": "ESQF Colecionáveis",
    "group": "in_store",
    "region": "RS",
    "address": "R. Carlos Von Koseritz - Higienópolis, Porto Alegre - RS, 90540-068",
    "phone": "(51) 98952-1289",
    "checked_at": "2026-10-17T01:09:36Z"
+  },
+  {
+   "name": "Estação Geek",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "(11) 2427-8869",
+   "website": "https://www.facebook.com/estacaogeekbg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Evolution Games",
@@ -4093,6 +4180,18 @@
    "checked_at": "2026-10-17T01:10:52Z"
   },
   {
+   "name": "Fantasy Store",
+   "group": "in_store",
+   "region": "Minas Gerais",
+   "address": "Av. África, 510 - Tibery, Uberlândia - MG, 38405-096, Brazil, Minas Gerais, 38405-096",
+   "phone": "34996783958",
+   "website": "https://www.instagram.com/fantasystoreudia/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Feira de Antiguidades Praça Dom Orione",
    "group": "in_store",
    "region": "SP",
@@ -4148,6 +4247,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:26Z"
+  },
+  {
+   "name": "Forfun Game Shop",
+   "group": "in_store",
+   "region": "São Paulo",
+   "address": "255 R. José Lucas Sala 4, Atibaia, SP, 12940-700, BR",
+   "phone": "5511934469250",
+   "website": "https://www.instagram.com/forfungameshop/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Frog Cards TCG",
@@ -4220,6 +4332,24 @@
    "checked_at": "2026-10-17T01:07:34Z"
   },
   {
+   "name": "Gamelândia",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "Rua Lauro Müller, 116 - Piso 3, C49 - Botafogo, Rio de Janeiro - RJ, 22290-160",
+   "phone": "(21) 98299-2743",
+   "website": "https://www.instagram.com/gamelandiabrinquedos/?hl=en",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Gamemart",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "Quiosque 112 - primeiro piso em frente a Americanas, Shopping Plaza - Rua Quinze de Novembro, 8 - Centro, Niterói - RJ, 24020-125",
+   "phone": "(21) 99897-4163",
+   "website": "https://www.instagram.com/gamemartbr",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Games Action",
    "group": "in_store",
    "region": "BA",
@@ -4242,7 +4372,7 @@
    "address": "Av. Teresópolis, 2958 - Teresópolis, Porto Alegre - RS, 90870-001",
    "phone": "(51) 98030-5419",
    "website": "https://www.instagram.com/gamessellerrs/",
-   "checked_at": "2026-10-17T01:09:26Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "GATO NA TUBA COLECIONÁVEIS",
@@ -4298,7 +4428,7 @@
    "address": "Av. Senador Levindo Coelho, 1990 - BOX 15 - Mangueiras, Belo Horizonte - MG, 30666-420",
    "phone": "(31) 98253-2326",
    "website": "https://www.facebook.com/ronald.maquedonald.9?mibextid=ZbWKwL",
-   "checked_at": "2026-10-17T01:07:36Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Gibis Ensebados",
@@ -4351,6 +4481,28 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:43Z"
+  },
+  {
+   "name": "Grid Games Little Dub",
+   "group": "in_store",
+   "region": "MG",
+   "address": "Shopping Xingu - Av. Abílio Machado, 1664 - Lj 160 e 161 - Alípio de Melo, Belo Horizonte - MG, 30830-373",
+   "phone": "(31) 2552-7531",
+   "website": "https://www.instagram.com/gridgames_oficial/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Grimório Gaudério",
+   "group": "in_store",
+   "region": "Rio Grande do Sul",
+   "address": "731 Av. Getúlio Vargas, Tapes, RS, 96760-000, BR",
+   "phone": "5551996251881",
+   "website": "https://www.instagram.com/grimoriogauderio/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Guilda Maia Hobby Store",
@@ -4425,7 +4577,7 @@
    "address": "R. Bangu, 1468 - Lj 3 - Liberdade, Rio das Ostras - RJ, 28893-735",
    "phone": "(22) 99105-5600",
    "website": "https://www.instagram.com/hitcardstore?stkn=MTlmbWticjI1NjBtZA==",
-   "checked_at": "2026-10-17T01:07:17Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Hobby Games",
@@ -4463,6 +4615,24 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:47Z"
+  },
+  {
+   "name": "Hotyugioh Cards & Toys",
+   "group": "in_store",
+   "region": "SP",
+   "address": "R. Galvão Bueno, 40/44 - Lj 220 - Liberdade, São Paulo - SP, 01506-000",
+   "phone": "(11) 98352-0667",
+   "website": "https://www.instagram.com/lojahotyugioh?igsh=aTkyeWxscGt1eWoy",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "House Magazine",
+   "group": "in_store",
+   "region": "MG",
+   "address": "R. da Bahia, 593 - Centro, Belo Horizonte - MG, 30160-010",
+   "phone": "(31) 3213-4190",
+   "website": "https://www.instagram.com/casadarevista_bh/?hl=pt-br",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "HQ&BookStore",
@@ -4564,13 +4734,22 @@
    "checked_at": "2026-10-17T01:05:34Z"
   },
   {
+   "name": "Jarina Kpop",
+   "group": "in_store",
+   "region": "SP",
+   "address": "Rua Galvão Bueno, n° 40 - Sogo Plaza Shopping - Av. da Liberdade, 363 - loja 30 (piso térreo - Liberdade, São Paulo - SP, 01506-000",
+   "phone": "(11) 96357-4444",
+   "website": "https://www.instagram.com/jarinakpop/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Jiraya Games - Animes & Colecionáveis",
    "group": "in_store",
    "region": "RJ",
    "address": "Mercado Popular Uruguaiana - R. Uruguaiana, S/N - Quadra B, BOX-103 - Centro, Rio de Janeiro - RJ, 20050-094",
    "phone": "(21) 98524-5207",
    "website": "https://www.instagram.com/jiraya_games/",
-   "checked_at": "2026-10-17T01:07:17Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Jireh Tcg",
@@ -4579,7 +4758,7 @@
    "address": "Rua Frei Gaspar da Madre de Deus, 926 - Novo Mundo, Curitiba - PR, 81050-590",
    "phone": "(41) 99741-9170",
    "website": "https://www.instagram.com/jireh_tcg",
-   "checked_at": "2026-10-17T01:08:53Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Jogue Magic",
@@ -4626,7 +4805,18 @@
    "address": "Av. Marechal Fontenele, 191 - Campo dos Afonsos, Rio de Janeiro - RJ, 21740-001",
    "phone": "(21) 99223-6627",
    "website": "https://www.instagram.com/kgbcomicsshop/",
-   "checked_at": "2026-10-17T01:07:31Z"
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Konklave",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "21-2667-7854",
+   "website": "http://www.facebook.com/groups/ultimatemagic/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Last Place Store Ltda",
@@ -4637,6 +4827,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:47Z"
+  },
+  {
+   "name": "Leandro Games BH",
+   "group": "in_store",
+   "region": "MG",
+   "address": "Ed.Gontijo - R. Rio de Janeiro, 282 - Sl 304 - Centro, Belo Horizonte - MG, 30160-040",
+   "phone": "(31) 3272-9392",
+   "website": "https://www.instagram.com/leandrogamesbh/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "legacy tcg",
@@ -4665,6 +4864,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:25Z"
+  },
+  {
+   "name": "Lendários Cards, Games & Geekshop",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "R. Lourenço Abrantes, 14 - Centro, São Gonçalo - RJ, 24440-420",
+   "phone": "55 (212) 023-0972",
+   "website": "https://www.facebook.com/Lend%C3%A1rios-Cards-Games-Geekshop-2301793053405126/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "LevelUp Games",
@@ -4696,6 +4907,14 @@
    "checked_at": "2026-10-17T01:05:29Z"
   },
   {
+   "name": "Liga Pauper Recife",
+   "group": "in_store",
+   "region": "PE",
+   "address": "R. José de Alencar, 140 - Boa Vista, Recife - PE, 50070-075",
+   "website": "https://www.instagram.com/ligapauperrecife/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Ligamagic",
    "group": "in_store",
    "region": "São Paulo",
@@ -4722,6 +4941,15 @@
    "address": "Av. Carapinima, 2200 - loja120 - Benfica, Fortaleza - CE, 60015-290",
    "phone": "(85) 3016-1628",
    "checked_at": "2026-10-17T01:10:54Z"
+  },
+  {
+   "name": "Livraria Beta de Aquarius - Venda e Compra de Livros Usados e Bibliotecas",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "R. do Catete, 127 - Flamengo, Rio de Janeiro - RJ, 22220-000",
+   "phone": "(21) 99211-0246",
+   "website": "https://www.instagram.com/sebobetadeaquarius/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Livraria Comic Off",
@@ -4788,6 +5016,23 @@
    "address": "Rua da Forca, 121 - Dois de Julho, Salvador - BA, 40060-341",
    "phone": "(71) 3012-3313",
    "checked_at": "2026-10-17T01:10:18Z"
+  },
+  {
+   "name": "Loja Nyuu Store ( Kpop e Geek )",
+   "group": "in_store",
+   "region": "CE",
+   "address": "Avenida Imperador, 457 - Centro, Fortaleza - CE, 60015-050",
+   "website": "https://www.instagram.com/nyuustore",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Loja Panini Point Cidade",
+   "group": "in_store",
+   "region": "MG",
+   "address": "Rua dos Tupis, 337 - Lj T58 - Centro, Belo Horizonte - MG, 30190-060",
+   "phone": "(31) 99740-4001",
+   "website": "https://www.instagram.com/paninipointcidade/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Loja PokeMonsters",
@@ -4880,7 +5125,7 @@
    "address": "Condomínio do Edificio Pessoa de Melo - Av. Conde da Boa Vista, 50 - Sl 105 - Boa Vista, Recife - PE, 50060-004",
    "phone": "(81) 98470-3176",
    "website": "https://www.instagram.com/magiccenterrecife/",
-   "checked_at": "2026-10-17T01:10:18Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Magic Games - Parque Dom Pedro",
@@ -4936,7 +5181,7 @@
    "address": "R. Marquês de São Vicente, 52 - Loja: 202 - Gávea, Rio de Janeiro - RJ, 22451-040",
    "phone": "(21) 3529-2115",
    "website": "https://www.instagram.com/lojamemobox?igsh=MW1zOXlycTU2NnZncg==",
-   "checked_at": "2026-10-17T01:07:07Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Mestre dos cards TCG",
@@ -4973,13 +5218,22 @@
    "checked_at": "2026-10-17T01:05:47Z"
   },
   {
+   "name": "Mini Box Colecionáveis",
+   "group": "in_store",
+   "region": "MG",
+   "address": "R. Rio Grande do Sul, 1285/1502 - Santo Agostinho, Belo Horizonte - MG, 30170-116",
+   "phone": "(31) 99195-0813",
+   "website": "https://www.instagram.com/miniboxcolecionaveis",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Mini Space Colecionáveis - Loja de Miniaturas de Belo Horizonte",
    "group": "in_store",
    "region": "MG",
    "address": "R. José Cleto, 1747 - Santa Cruz, Belo Horizonte - MG, 31155-290",
    "phone": "(31) 97308-1131",
    "website": "https://www.facebook.com/Minispacebhz/",
-   "checked_at": "2026-10-17T01:08:36Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Miragem Hobby Store",
@@ -5001,6 +5255,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:34Z"
+  },
+  {
+   "name": "Mochila Geek",
+   "group": "in_store",
+   "region": "Pernambuco",
+   "address": "Dr. Belminio Correia, 2318D - Timbi, Camaragibe, PE, 54765-130, Brazil",
+   "phone": "+55(081) 99520-9038",
+   "website": "https://www.instagram.com/oficialmochilageek",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Morsa Mortífera TCG",
@@ -5042,7 +5309,7 @@
    "address": "Shopping Total - Av. Cristóvão Colombo, 545 - Lj 2213 segundo andar - Independência, Porto Alegre - RS, 90560-003",
    "phone": "(51) 3018-7575",
    "website": "https://www.instagram.com/_multiversopoa/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
-   "checked_at": "2026-10-17T01:09:24Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Multiverso Game Café",
@@ -5090,7 +5357,7 @@
    "address": "R. Augusta, 1371 - Sobreloja 01 - Consolação, São Paulo - SP, 01305-100",
    "phone": "(11) 93042-2205",
    "website": "https://www.instagram.com/mundomythos/",
-   "checked_at": "2026-10-17T01:06:22Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Mundo Mágico Store",
@@ -5143,7 +5410,7 @@
    "address": "Condomínio Shopping Lisbonense - R Pedro Borges, 143 - Box 58 - Centro, Fortaleza - CE, 60055-110",
    "phone": "(85) 99713-6024",
    "website": "https://www.instagram.com/neerdversee?igsh=MWoyeDVmMmlxeXZsdA==",
-   "checked_at": "2026-10-17T01:10:40Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Neto Cards",
@@ -5198,6 +5465,15 @@
    "checked_at": "2026-10-17T01:07:15Z"
   },
   {
+   "name": "Numismática Recife",
+   "group": "in_store",
+   "region": "PE",
+   "address": "R. Matias de Albuquerque, 223 - Sl 302 - Santo Antônio, Recife - PE, 50010-090",
+   "phone": "(81) 99962-9448",
+   "website": "https://instagram.com/numisrecife?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Numismática Salmito",
    "group": "in_store",
    "region": "PE",
@@ -5222,7 +5498,7 @@
    "address": "R. Passos de Oliveira, 1425 - Centro, São José dos Pinhais - PR, 83030-720",
    "phone": "(41) 99741-6010",
    "website": "https://www.facebook.com/omundogeeksjp/",
-   "checked_at": "2026-10-17T01:09:06Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "O Reino Mágico",
@@ -5269,7 +5545,7 @@
    "address": "Estr. Santa Bertília, 120 - Inhoaíba, Rio de Janeiro - RJ, 23062-100",
    "phone": "(21) 98238-2770",
    "website": "https://www.instagram.com/oeste.tcg?igsh=emliam5oMDN6Y205",
-   "checked_at": "2026-10-17T01:07:06Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Oficina de Cromagem",
@@ -5309,7 +5585,7 @@
    "group": "in_store",
    "region": "SP",
    "address": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01311-100",
-   "checked_at": "2026-10-17T01:06:29Z"
+   "checked_at": "2026-10-17T01:09:31Z"
   },
   {
    "name": "Panini",
@@ -5320,12 +5596,59 @@
    "checked_at": "2026-10-17T01:09:31Z"
   },
   {
+   "name": "PANINI EXPERIENCE",
+   "group": "in_store",
+   "address": "1285 R. Gen. Osório, Campinas, SP, 13010-111, Brazil",
+   "phone": "551931997155",
+   "website": "https://www.instagram.com/paninixp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Panini Point",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "Rua Dr. Tavares de Macedo, 5 - Lj 101 - Icaraí, Niterói - RJ, 24220-215",
+   "phone": "(21) 3587-8778",
+   "website": "https://www.instagram.com/paninipointniteroi/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Panini Point Asa Norte - Loja Oficial Panini | Álbuns, Figurinhas, HQS, Mangás, Gibis, Turma da Mônica",
+   "group": "in_store",
+   "region": "DF",
+   "address": "SHCN EQN 110/111 13 - Asa Norte, Brasília - DF, 70753-400",
+   "phone": "(61) 99149-5041",
+   "website": "https://www.instagram.com/paninipointasanorte/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Panini Point Bh",
    "group": "in_store",
    "region": "MG",
    "address": "Av. Cristóvão Colombo, 50 - Savassi, Belo Horizonte - MG, 30140-140",
    "phone": "(31) 97215-8461",
    "checked_at": "2026-10-17T01:08:22Z"
+  },
+  {
+   "name": "Panini Point Brasília - Loja Oficial Panini | Álbuns, Figurinhas, HQS, Mangás, Gibis, Turma da Mônica",
+   "group": "in_store",
+   "region": "DF",
+   "address": "EM FRENTE A CIATOY, CENTRO COMERCIAL GILBERTO SALOMÃO - LOJA 12/13 - Lago Sul, Brasília - DF, 71615-510",
+   "phone": "(61) 99151-9205",
+   "website": "https://www.instagram.com/paninipointbrasilia/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Panini Point Downtown",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "Avenida das Américas, 00500 BLC 6 - 111 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-904",
+   "phone": "(21) 97767-3729",
+   "website": "https://www.instagram.com/paninipointdowntown?igsh=MXJma3UyZDcxYWRqOQ==&utm_source=qr",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Panini Point Premium Belvedere",
@@ -5437,7 +5760,7 @@
    "region": "PE",
    "address": "Na orla da praia - Av. João Fonseca de Albuquerque, 2021 - Janga, Paulista - PE, 53437-060",
    "website": "https://www.instagram.com/poketendadogg/",
-   "checked_at": "2026-10-17T01:10:29Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Pop Arts Comic House",
@@ -5446,6 +5769,15 @@
    "address": "R. Dr. Bráulio Gomes, 115 - Lj 4 - República, São Paulo - SP, 01047-020",
    "phone": "(11) 96692-7556",
    "checked_at": "2026-10-17T01:06:19Z"
+  },
+  {
+   "name": "Porão Do Alien - Beco da Luzes",
+   "group": "in_store",
+   "region": "RJ",
+   "address": "Tv. Ferreira Borges, 18 - Campo Grande, Rio de Janeiro - RJ, 23050-350",
+   "phone": "(21) 2394-4951",
+   "website": "https://instagram.com/poraodoalien",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Power Creep Card Games",
@@ -5480,7 +5812,7 @@
    "address": "R. Coelho de Souza, 165 - Santo Agostinho, Belo Horizonte - MG, 30170-030",
    "phone": "(31) 98372-7690",
    "website": "https://www.instagram.com/prismacollectionsstore/",
-   "checked_at": "2026-10-17T01:07:36Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "PUCkemon",
@@ -5500,6 +5832,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:29Z"
+  },
+  {
+   "name": "Pyro Geek Store - Loja Geek",
+   "group": "in_store",
+   "region": "PE",
+   "address": "Av. Dezessete de Agosto, 1161 - Lj 03 - Casa Forte, Recife - PE, 52061-080",
+   "phone": "(81) 99987-6076",
+   "website": "http://instagram.com/pyrogeekstore",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "QBGEEK",
@@ -5523,6 +5864,17 @@
    "address": "R. Galvão Bueno, 19 - primeiro andar loja 28 - Liberdade, São Paulo - SP, 01506-000",
    "phone": "(11) 94298-4001",
    "checked_at": "2026-10-17T01:06:54Z"
+  },
+  {
+   "name": "Red Bridge Card Store",
+   "group": "in_store",
+   "address": "195 R. Apolinário, São Paulo, SP, 13840-035, Brazil",
+   "phone": "155-997-152-1402",
+   "website": "https://www.instagram.com/redbridge_cardstore/profilecard/?igsh=c2N0YWdhdWpwYnIz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Red Square Hobby Store",
@@ -5553,6 +5905,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:21Z"
+  },
+  {
+   "name": "Refúgio Geek Store",
+   "group": "in_store",
+   "address": "1923 Av. Cel. Virgílio Távora - Antônio Miguel 1915, Itaitinga, CE, 61880-000, Brazil",
+   "phone": "5585991276420",
+   "website": "https://www.instagram.com/refugiogeekstore15?igsh=dWpxazJreDRuenU=",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Reino do Card Game",
@@ -5659,7 +6022,16 @@
    "address": "Av. Três Marias, 135 - Lj 07 - Orleans, Curitiba - PR, 82310-000",
    "phone": "(41) 99187-0161",
    "website": "https://www.instagram.com/seboestacao80/",
-   "checked_at": "2026-10-17T01:09:08Z"
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Sebo O Geraldo",
+   "group": "in_store",
+   "region": "CE",
+   "address": "R 24 de Maio, 950 - Centro, Fortaleza - CE, 60020-001",
+   "phone": "(85) 3226-2557",
+   "website": "https://www.instagram.com/seboogeraldo/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Sebo Só Ler Monsenhor Celso",
@@ -5680,12 +6052,23 @@
    "checked_at": "2026-10-17T01:04:15Z"
   },
   {
+   "name": "Shandalar",
+   "group": "in_store",
+   "address": "770 Rua Garibaldi Independência, Porto Alegre, RS, 90035-051, BR",
+   "phone": "5551993817684",
+   "website": "https://www.instagram.com/shandalarstore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Shark Games",
    "group": "in_store",
    "region": "CE",
    "address": "Quiosque 11 - Shopping Aldeota - - Avenida Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",
    "phone": "(85) 99997-4641",
-   "checked_at": "2026-10-17T01:10:42Z"
+   "checked_at": "2026-10-17T01:10:48Z"
   },
   {
    "name": "Shark Games",
@@ -5702,7 +6085,7 @@
    "address": "Av. Victor Ferreira do Amaral, 2633 - Tarumã, Curitiba - PR, 82810-350",
    "phone": "(41) 98425-4981",
    "website": "https://www.instagram.com/sharpmindstore",
-   "checked_at": "2026-10-17T01:08:56Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Shibuya",
@@ -5766,6 +6149,15 @@
    "checked_at": "2026-10-17T01:10:23Z"
   },
   {
+   "name": "Sonda Pop Store",
+   "group": "in_store",
+   "region": "RS",
+   "address": "Av. Osvaldo Aranha, 1407 - Bom Fim, Porto Alegre - RS, 90035-191",
+   "phone": "(51) 98202-9288",
+   "website": "https://www.instagram.com/sondapopstore/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "sonic games e hobby collection.",
    "group": "in_store",
    "region": "PR",
@@ -5803,7 +6195,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:03:41Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "SpellCast Games",
@@ -5833,7 +6225,7 @@
    "address": "Av. José Bonifácio, 151 - Farroupilha, Porto Alegre - RS, 90450-190",
    "phone": "(51) 99947-3428",
    "website": "https://www.facebook.com/ssgamesantigos/",
-   "checked_at": "2026-10-17T01:09:25Z"
+   "checked_at": "2026-10-17T01:11:16Z"
   },
   {
    "name": "Star Games",
@@ -5880,6 +6272,15 @@
    "address": "R. Cláudio Rossi, 778 - Jardim da Gloria, São Paulo - SP, 01547-000",
    "phone": "(11) 99151-3900",
    "checked_at": "2026-10-17T01:06:25Z"
+  },
+  {
+   "name": "Super Mundo",
+   "group": "in_store",
+   "region": "BA",
+   "address": "Avenida Tancredo Neves.º 3133 CEP 41820-021 - Av. Tancredo Neves, 3002 - Caminho das Árvores, Salvador - BA, 41100-800",
+   "phone": "(71) 99352-6209",
+   "website": "http://www.instagram.com/supermundo.ssa",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Supra Cards",
@@ -5956,13 +6357,12 @@
    "checked_at": "2026-10-17T01:05:28Z"
   },
   {
-   "name": "Taverna do Dragão",
+   "name": "Tayllor Extreme",
    "group": "in_store",
-   "region": "CE",
-   "address": "R. 112, 110 - Timbó, Maracanaú - CE, 61936-120",
-   "phone": "(85) 99674-3280",
-   "website": "https://www.facebook.com/TavernaDoDragao13/",
-   "checked_at": "2026-10-17T01:10:40Z"
+   "region": "SP",
+   "address": "R. Dr. Franco da Rocha, 651 - Perdizes, São Paulo - SP, 05015-040",
+   "website": "https://www.instagram.com/universo_extreme?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "TCG Connect",
@@ -5990,6 +6390,15 @@
    "checked_at": "2026-10-17T01:11:07Z"
   },
   {
+   "name": "TcgExpressBR",
+   "group": "in_store",
+   "region": "PR",
+   "address": "BR-116 - Linha Verde, 16303 - Xaxim, Curitiba - PR, 81690-300",
+   "phone": "(41) 98801-6055",
+   "website": "https://www.instagram.com/tcgexpress.br/",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Terra Média Geek Store",
    "group": "in_store",
    "region": "Alagoas",
@@ -5998,6 +6407,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:23Z"
+  },
+  {
+   "name": "Terra-média Cardgames",
+   "group": "in_store",
+   "address": "Av. das Araucárias, 4400 - loja 04, Águas Claras - DF, Brasília - DF, 71.936-250, Brazil",
+   "phone": "55619-8114-0391",
+   "website": "https://www.instagram.com/terramedia.cardgames?igsh=MWw3aGo0bTJnbXB6MA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "The Witcher Store",
@@ -6030,6 +6450,26 @@
    "region": "BA",
    "address": "R. Cristiane, 181 - Tancredo Neves, Salvador - BA, 41210-040",
    "checked_at": "2026-10-17T01:10:18Z"
+  },
+  {
+   "name": "Toca da capivara",
+   "group": "in_store",
+   "address": "555 Av. Lúcio Meira, Teresópolis, RJ, 25953-006, BR",
+   "phone": "5521997960686",
+   "website": "https://www.instagram.com/tocadacapivara1?igsh=MTM3eTl1YmlxM2NzaA%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
+   "name": "Toka Brinquedos e Colecionáveis",
+   "group": "in_store",
+   "region": "PR",
+   "address": "R. João Alencar Guimarães, 1219 - Santa Quiteria, Curitiba - PR, 80310-420",
+   "phone": "(41) 99931-8796",
+   "website": "https://www.instagram.com/tokabrinquedos/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Tolarian Hobby Store",
@@ -6114,6 +6554,15 @@
    "checked_at": "2026-10-17T01:05:29Z"
   },
   {
+   "name": "Uniao Dos Games",
+   "group": "in_store",
+   "region": "PE",
+   "address": "R. Josefa Paes de Carvalho, N° 40 - Santo Antônio, Recife - PE, 50010-370",
+   "phone": "(81) 98523-3871",
+   "website": "https://www.instagram.com/uniaodosgames?igsh=OWcweGxiZHczajc3",
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Vanguarda Geek Games",
    "group": "in_store",
    "address": "Rua Iriguacu, 109, Bangu",
@@ -6144,6 +6593,17 @@
    "checked_at": "2026-10-17T01:05:48Z"
   },
   {
+   "name": "Versus Clube",
+   "group": "in_store",
+   "address": "797 Rua Harmonia, São Paulo, SP, 05435-000, BR",
+   "phone": "5511999478017",
+   "website": "https://www.instagram.com/versusclube/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:11:02Z"
+  },
+  {
    "name": "Versus Game Club",
    "group": "in_store",
    "region": "São Paulo",
@@ -6168,7 +6628,7 @@
    "address": "R. dos Tamóios, 486 - Loja 109 (Fundo - Centro, Belo Horizonte - MG, 30120-050",
    "phone": "(31) 99217-6252",
    "website": "https://www.instagram.com/vitoriagamesbh",
-   "checked_at": "2026-10-17T01:07:48Z"
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Vila Celta Hobby Store Ltda.",
@@ -6217,6 +6677,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:28Z"
+  },
+  {
+   "name": "Xap Toys",
+   "group": "in_store",
+   "region": "PR",
+   "address": "R. Tijucas do Sul, 382 - Lj 3 - Sítio Cercado, Curitiba - PR, 81900-729",
+   "phone": "(41) 99507-3834",
+   "website": "https://www.instagram.com/xaptoysu/",
+   "checked_at": "2026-10-17T01:11:02Z"
   },
   {
    "name": "Yama no Shi",
@@ -6328,8 +6797,8 @@
    "region": "SP",
    "address": "R. Galvão Bueno, 40 - Liberdade, São Paulo - SP, 01506-000",
    "phone": "(11) 3208-0530",
-   "website": "https://shopee.com.br/animerockclub?smtt=0.0.9&fbclid=PAAaY456c9tkOtMSu80dEJbfw35YVn_VTuTpPFSOTv8rZ_CsT9Bi0_XBB4I7s",
-   "checked_at": "2026-10-17T01:06:54Z"
+   "website": "https://shopee.com.br/n558_ja17k",
+   "checked_at": "2026-10-17T01:11:11Z"
   },
   {
    "name": "AnimeFã Store",
@@ -6350,6 +6819,28 @@
    "phone": "(83) 98727-1732",
    "website": "https://www.ankollectors.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12608224922688213825",
    "checked_at": "2026-10-17T01:10:11Z"
+  },
+  {
+   "name": "Arcadia Games - Rio de Janeiro",
+   "group": "unknown",
+   "address": "313 Estrada do Gabinal Loja 170, Rio de Janeiro, RJ, 22760-151, Brazil",
+   "phone": "5521966046403",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
+   "name": "Arcanos Geek Bar",
+   "group": "unknown",
+   "address": "799 R. Jacob Emmerich, São Vicente, SP, 11310-071, BR",
+   "phone": "5513991943160",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "Armageddon Card Store",
@@ -6376,6 +6867,17 @@
    "checked_at": "2026-10-17T01:05:44Z"
   },
   {
+   "name": "Ascensão",
+   "group": "unknown",
+   "address": "1108 R. Cel. Pedro Dias de Campos, São Paulo, SP, 03508-010, BR",
+   "phone": "55(011) 3311-0845",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Atacado dos Presentes Boa Vista",
    "group": "unknown",
    "region": "PE",
@@ -6392,6 +6894,17 @@
    "phone": "(19) 99879-6154",
    "website": "http://attackcomicshop.com.br/",
    "checked_at": "2026-10-17T01:11:11Z"
+  },
+  {
+   "name": "Avalon Revistaria Comic and Anime Store",
+   "group": "unknown",
+   "address": "Av. Paulista, 1208, Americana, SP, 13478-580, Brazil",
+   "phone": "+5555-19-3468-6595",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "AZE GAMES",
@@ -6477,6 +6990,19 @@
    "checked_at": "2026-10-17T01:06:29Z"
   },
   {
+   "name": "Bardos Game Store",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "R. Cel. Ernesto de Oliveira, 440 - Centro, São João da Boa Vista - SP, 13870-249, Brazil, São Paulo, 13870-249",
+   "phone": "(19) 99568-4747",
+   "website": "https://linktr.ee/bancadalagoa",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:05Z"
+  },
+  {
    "name": "Barth Games | Console e acessórios de vídeo games e Action Figures",
    "group": "unknown",
    "region": "PR",
@@ -6497,6 +7023,16 @@
    "checked_at": "2026-10-17T01:03:32Z"
   },
   {
+   "name": "BeB Games Assis Brasil",
+   "group": "unknown",
+   "region": "RS",
+   "address": "Shopping Bourbon - Av. Assis Brasil, 164 - São João, Porto Alegre - RS, 91010-001",
+   "phone": "(51) 99384-5120",
+   "website": "https://linktr.ee/bancadalagoa",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T01:11:05Z"
+  },
+  {
    "name": "Beco do Menestrel",
    "group": "unknown",
    "region": "PR",
@@ -6511,8 +7047,8 @@
    "region": "RS",
    "address": "R. dos Andradas, 697 - Centro Histórico, Porto Alegre - RS, 90010-271",
    "phone": "(51) 3018-1250",
-   "website": "https://www.estantevirtual.com.br/beco-dos-livros",
-   "checked_at": "2026-10-17T01:09:36Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "BENTARI",
@@ -6605,6 +7141,18 @@
    "checked_at": "2026-10-17T01:11:11Z"
   },
   {
+   "name": "Boss TCG",
+   "group": "unknown",
+   "region": "RJ",
+   "address": "18500 Avenida das Américas, Rio de Janeiro, RJ, 22790-704, Brazil",
+   "phone": "5521980968326",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "Box Recarga",
    "group": "unknown",
    "region": "MG",
@@ -6678,6 +7226,15 @@
    "checked_at": "2026-10-17T01:09:08Z"
   },
   {
+   "name": "Calango Boss",
+   "group": "unknown",
+   "region": "CE",
+   "address": "Galeria Pedro Jorge - R. Sen. Pompeu, 834 - Lj 8A - Centro, Fortaleza - CE, 60025-000",
+   "phone": "(85) 99122-6260",
+   "website": "https://api.whatsapp.com/send/?phone=5585999320133&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T01:10:52Z"
+  },
+  {
    "name": "Capitao Onigiri",
    "group": "unknown",
    "region": "SP",
@@ -6724,7 +7281,7 @@
    "address": "R. Rafael Clark, 567 - Partenon, Porto Alegre - RS, 91530-620",
    "phone": "(51) 99792-0613",
    "website": "https://casadocacaredo.com/",
-   "checked_at": "2026-10-17T01:09:29Z"
+   "checked_at": "2026-10-17T01:09:36Z"
   },
   {
    "name": "Casa do Cacaredo",
@@ -6808,11 +7365,11 @@
    "region": "São Paulo",
    "address": "R. Alberto Gabani, 208, Macatuba - SP, 17290-000, Brazil, São Paulo, 17290-000",
    "phone": "(51) 3311-0109",
-   "website": "https://api.whatsapp.com/send/?phone=555130190707&text&type=phone_number&app_absent=0",
+   "website": "https://api.whatsapp.com/send/?phone=71992573668&text&type=phone_number&app_absent=0",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T01:05:28Z"
+   "checked_at": "2026-10-17T01:10:10Z"
   },
   {
    "name": "CIA do Colecionador",
@@ -6831,6 +7388,17 @@
    "phone": "(51) 98408-2656",
    "website": "https://www.cinnevicio.com.br/",
    "checked_at": "2026-10-17T01:09:31Z"
+  },
+  {
+   "name": "Clip Cards",
+   "group": "unknown",
+   "address": "1355 Rua Doutor Luiz Bastos do Prado, Gravataí, RS, 94010-021, Brazil",
+   "phone": "5551984446537",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Coleciona Brinquedos - Shop. Iguatemi Campinas",
@@ -6916,6 +7484,19 @@
    "checked_at": "2026-10-17T01:10:59Z"
   },
   {
+   "name": "CrossGuild",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "27 R. Bertrando Molinari, Bragança Paulista, SP, 12910-350, Brazil",
+   "phone": "5511973194269",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Cult Comics",
    "group": "unknown",
    "region": "RJ",
@@ -6997,6 +7578,17 @@
    "checked_at": "2026-10-17T01:10:35Z"
   },
   {
+   "name": "Detroit Geek LTDA",
+   "group": "unknown",
+   "address": "Calçada das Orquídeas 95 Segundo andar Sala 2 e 3, Barueri, SP, 06453-001, Brazil",
+   "phone": "5511947817359",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Dexter Boardgames e TCG - Loja Virtual",
    "group": "unknown",
    "region": "PR",
@@ -7013,6 +7605,17 @@
    "phone": "(21) 98029-2386",
    "website": "https://www.diecastgaragerj.com/",
    "checked_at": "2026-10-17T01:07:22Z"
+  },
+  {
+   "name": "DIMENSAO ALTERNATIVA JOGOS",
+   "group": "unknown",
+   "address": "11 R. Aurora, BELO HORIZONTE, MG, 30644-080, Brazil",
+   "phone": "5531975016060",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Distribuidora Super TCG (Somente Retirada de Pedidos)",
@@ -7069,6 +7672,17 @@
    "checked_at": "2026-10-17T01:09:55Z"
   },
   {
+   "name": "Drop1",
+   "group": "unknown",
+   "address": "Avenida das Américas, 8505, Barra da Tijuca, RJ, 22790-704, Brazil",
+   "phone": "2197299-6802",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "Duel Shop Games",
    "group": "unknown",
    "region": "SP",
@@ -7076,6 +7690,19 @@
    "phone": "(11) 2495-8207",
    "website": "https://www.duelshop.com.br/",
    "checked_at": "2026-10-17T01:05:50Z"
+  },
+  {
+   "name": "Dungeon Games Store",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Rua Duque de Caxias, 317. Loja 4/5, Barueri, SP, 06401-010, Brazil",
+   "phone": "55(11)970620040",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Dungeon Luderia",
@@ -7118,14 +7745,17 @@
    "checked_at": "2026-10-17T01:08:39Z"
   },
   {
-   "name": "ELKUBO TCG",
+   "name": "Elkubo TCG",
    "group": "unknown",
    "region": "PR",
-   "address": "R. Des. Westphalen, 1108 - Centro, Curitiba - PR, 80010-010",
-   "phone": "(41) 98788-4341",
-   "website": "https://www.elkubotcg.com.br/",
+   "address": "711 Avenida Iguaçu, Curitiba, PR, 80230-020, Brazil",
+   "phone": "5541999035234",
+   "website": "https://magic.wizards.com/en",
    "buylist_url": "http://www.elkubotcg.com.br/",
-   "checked_at": "2026-10-17T01:08:47Z"
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "Estação Games Curitiba",
@@ -7155,7 +7785,7 @@
    "address": "BR-356, 3049 - Lj 62 - Belvedere, Belo Horizonte - MG, 30320-900",
    "phone": "(31) 99640-3087",
    "website": "https://sistema.sistemawbuy.com.br/challenge-central/?tenant=www.estripulia.com.br&next=%2F&rfr=",
-   "checked_at": "2026-10-17T01:08:12Z"
+   "checked_at": "2026-10-17T01:08:13Z"
   },
   {
    "name": "Estripulia Brinquedos - Shopping Paragem",
@@ -7173,7 +7803,7 @@
    "address": "Lj. Rj43, Piso Rio de Janeiro, Shop. Cidade - Rua dos Tupis, 337 - Centro, Belo Horizonte - MG, 30190-060",
    "phone": "(31) 98378-4871",
    "website": "https://sistema.sistemawbuy.com.br/challenge-central/?tenant=www.estripulia.com.br&next=%2F&rfr=",
-   "checked_at": "2026-10-17T01:08:04Z"
+   "checked_at": "2026-10-17T01:08:13Z"
   },
   {
    "name": "Estripulia Shopping Del Rey",
@@ -7182,7 +7812,7 @@
    "address": "Av. Presidente Carlos Luz, 3001 - Caiçaras, Belo Horizonte - MG, 31230-000",
    "phone": "(31) 3415-7411",
    "website": "https://sistema.sistemawbuy.com.br/challenge-central/?tenant=www.estripulia.com.br&next=%2F&rfr=",
-   "checked_at": "2026-10-17T01:08:09Z"
+   "checked_at": "2026-10-17T01:08:13Z"
   },
   {
    "name": "Fabiano Valente presentes e molduras na Savassi em BH",
@@ -7221,6 +7851,30 @@
    "phone": "(41) 99882-3456",
    "website": "https://api.whatsapp.com/send?phone=5541998823456&text=Opa!%20Como%20funciona%20a%C3%AD%3F&fbclid=IwAR18Sq7YKmAw0Aa-UgBObPmmL1PApojQ_qeth30j3VEfWCr4TQvOfKDfCRM",
    "checked_at": "2026-10-17T01:09:16Z"
+  },
+  {
+   "name": "Forja Mística",
+   "group": "unknown",
+   "region": "Rio de Janeiro",
+   "address": "Rua Teresa, N° 608, Loja N° 36, Petrópolis, RJ, 25625-018, Brazil",
+   "phone": "5524992144357",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
+   "name": "FORTALÚDICA",
+   "group": "unknown",
+   "address": "Q SRIA QE 26 COMERCIO LOCAL BL B, Brasília, DF, 71060-621, Brazil",
+   "phone": "(61)(61)981514507",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Fortuna Cards Store",
@@ -7299,11 +7953,15 @@
   {
    "name": "Garagem do Nerd",
    "group": "unknown",
-   "region": "MG",
-   "address": "R. Padre Júlio Maria, 93 - Vera Cruz, Belo Horizonte - MG, 30285-360",
-   "phone": "(31) 3452-5920",
-   "website": "https://garagemdonerd.com.br/",
-   "checked_at": "2026-10-17T01:07:38Z"
+   "region": "Minas Gerais",
+   "address": "Rua Padre Júlio Maria, 93, Saudade, Belo Horizonte, MG, 30285360, Brazil",
+   "phone": "55313-452-5920",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Gato Gingado TCG Club",
@@ -7328,6 +7986,17 @@
    "checked_at": "2026-10-17T01:04:46Z"
   },
   {
+   "name": "Geek Collections House - Piracicaba",
+   "group": "unknown",
+   "address": "Rua Benjamin Constant 2410, Piracicaba, SP, 13401-050, Brazil",
+   "phone": "5519985995823",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Geek Games",
    "group": "unknown",
    "region": "SP",
@@ -7335,6 +8004,17 @@
    "phone": "(19) 99901-0617",
    "website": "https://geekgames.hipershops.com.br/",
    "checked_at": "2026-10-17T01:11:12Z"
+  },
+  {
+   "name": "Geek Place Araras",
+   "group": "unknown",
+   "address": "Rua João Melari, 47, Araras, SP, 13609-317 , Brazil",
+   "phone": "193544-6192",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "GEEK SHOP BRASIL",
@@ -7406,6 +8086,32 @@
    "phone": "(31) 98715-2882",
    "website": "https://www.goatgc.com.br/unidades/savassi?utm_source=google&utm_medium=organic&utm_campaign=gbp-savassi",
    "checked_at": "2026-10-17T01:07:59Z"
+  },
+  {
+   "name": "Goblin Hero Store",
+   "group": "unknown",
+   "region": "Rio de Janeiro",
+   "address": "Estrada do Gabinal, 313, Loja 176 A, Rio Shopping., Rio de Janeiro, RJ, 22760-151, Brazil",
+   "phone": "2199331-0182",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
+   "name": "GODS GEEK",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Rua Dona Maria Gaiarsa 64, Centro San Andre, São Paulo, 09020-130, Brazil",
+   "phone": "5511-97565-4220",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Good Card",
@@ -7509,9 +8215,9 @@
    "region": "DF",
    "address": "Residencial - Via Tropical - Samambaia, Brasília - DF, 72300-543",
    "phone": "(61) 99199-5858",
-   "website": "https://linktr.ee/hypetcg.oficial",
+   "website": "https://linktr.ee/bancadalagoa",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:09:50Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ifrit Jogos e Colecionáveis",
@@ -7524,6 +8230,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:04:59Z"
+  },
+  {
+   "name": "Ilusões Industriais Lindoia",
+   "group": "unknown",
+   "address": "3668 Av. Assis Brasil, Porto Alegre, RS, 91010-003, BR",
+   "phone": "5551992184942",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Ilusões Industriais Lindóia",
@@ -7550,7 +8267,7 @@
    "address": "Alameda Gabriel Monteiro da Silva, 946 - Jardins, São Paulo - SP, 01442-002",
    "phone": "(11) 96337-0149",
    "website": "https://ironstudios.com.br/",
-   "checked_at": "2026-10-17T01:05:59Z"
+   "checked_at": "2026-10-17T01:07:29Z"
   },
   {
    "name": "Iron Studios BarraShopping",
@@ -7638,8 +8355,8 @@
    "region": "PR",
    "address": "Av. Sete de Setembro, 2775 - Loja 1151 - Centro, Curitiba - PR, 80230-010",
    "phone": "(11) 3346-9966",
-   "website": "https://www.kalunga.com.br/lojas/endereco/parana/7/horario-de-funcionamento/0050",
-   "checked_at": "2026-10-17T01:09:03Z"
+   "website": "https://www.kalunga.com.br/lojas/endereco/bahia/13/horario-de-funcionamento/0164",
+   "checked_at": "2026-10-17T01:09:56Z"
   },
   {
    "name": "King Cards",
@@ -7656,9 +8373,9 @@
    "region": "SP",
    "address": "Av. Paulista, 1941 - Bela Vista, São Paulo - SP, 01310-200",
    "phone": "(702) 366-4188",
-   "website": "https://linktr.ee/konbinicards",
+   "website": "https://linktr.ee/bancadalagoa",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:06:02Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "LAURY NUMISMÁTICA",
@@ -7692,8 +8409,8 @@
    "region": "CE",
    "address": "Av. Treze de Maio, 2383 - Benfica, Fortaleza - CE, 60040-215",
    "phone": "(85) 3231-0404",
-   "website": "https://www.estantevirtual.com.br/sebos-e-livreiros/letra-l?sellerId=1001840",
-   "checked_at": "2026-10-17T01:10:54Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "Liberdade Thrift Bookstore",
@@ -7729,7 +8446,7 @@
    "address": "R. da Consolação, 2753 - Jardins, São Paulo - SP, 01416-001",
    "phone": "(11) 94665-6442",
    "website": "https://www.limitededition.com.br/",
-   "checked_at": "2026-10-17T01:06:12Z"
+   "checked_at": "2026-10-17T01:06:15Z"
   },
   {
    "name": "Livraria Arte & Ciência - Filial",
@@ -7839,6 +8556,19 @@
    "checked_at": "2026-10-17T01:09:50Z"
   },
   {
+   "name": "Loja do Toguro",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Avenida Dom Pedro ll, 359, Santo André, SP, 09020-220, Brazil",
+   "phone": "5511-2848-2373",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Loja Monstra",
    "group": "unknown",
    "region": "SP",
@@ -7853,8 +8583,8 @@
    "region": "MG",
    "address": "Av. Afonso Vaz de Melo, 139 - Barreiro, Belo Horizonte - MG, 30640-080",
    "phone": "(31) 99169-9892",
-   "website": "https://shopee.com.br/shop/378973440",
-   "checked_at": "2026-10-17T01:08:22Z"
+   "website": "https://shopee.com.br/n558_ja17k",
+   "checked_at": "2026-10-17T01:11:11Z"
   },
   {
    "name": "Loja Sport Games",
@@ -7864,6 +8594,17 @@
    "phone": "(41) 3027-0944",
    "website": "http://www.sportgames.com.br/",
    "checked_at": "2026-10-17T01:09:02Z"
+  },
+  {
+   "name": "Lojinha do Gandalf",
+   "group": "unknown",
+   "address": "432 Tv. Manuel Martins Loja 2, SAO GONCALO, RJ, 24450-315, Brazil",
+   "phone": "5521968770664",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Loucos por Games - Messejana - PS4, PS5, Xbox, Nintendo, PC Gamer, Assistência Técnica Videogames e Pc Gamer.",
@@ -7880,8 +8621,8 @@
    "region": "CE",
    "address": "Av. Bezerra de Menezes, 450 - Lj 245 - São Gerardo, Fortaleza - CE, 60325-902",
    "phone": "(85) 99787-5707",
-   "website": "https://api.whatsapp.com/send/?phone=5585997875707&text&type=phone_number&app_absent=0",
-   "checked_at": "2026-10-17T01:10:48Z"
+   "website": "https://api.whatsapp.com/send/?phone=5585999320133&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T01:10:52Z"
   },
   {
    "name": "Luderia Carioca",
@@ -7938,13 +8679,26 @@
    "checked_at": "2026-10-17T01:07:48Z"
   },
   {
+   "name": "Manabolt Cards e Games",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Rua Barão de Cascalho, 797 Centro , Limeira, SP, 13480-550, Brazil",
+   "phone": "+5519 99587-1153",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "Mania de Cultura SP",
    "group": "unknown",
    "region": "SP",
    "address": "R. Dr. Rodrigo Silva, 34 - Liberdade, São Paulo - SP, 01501-010",
    "phone": "(11) 3101-0350",
-   "website": "https://www.estantevirtual.com.br/sebos-e-livreiros/mania-de-cultura-sp?sellerId=1000054",
-   "checked_at": "2026-10-17T01:06:27Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "Marvel Store by Dream - Shopping Parque Dom Pedro",
@@ -8008,6 +8762,29 @@
    "checked_at": "2026-10-17T01:08:59Z"
   },
   {
+   "name": "Millennium Card Games",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "237 Rua Jacquey, São Bernardo do Campo, SP, 09634-000, BR",
+   "phone": "551141773677",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
+   "name": "Millennium Cards & Games",
+   "group": "unknown",
+   "region": "SP",
+   "address": "Rua Jacquey, 237 - Rudge Ramos, São Bernardo do Campo - SP, 09634-000",
+   "phone": "(11) 4177-3677",
+   "website": "https://linktr.ee/bancadalagoa",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T01:11:05Z"
+  },
+  {
    "name": "Minas de Presentes - 25 de Março",
    "group": "unknown",
    "region": "SP",
@@ -8024,6 +8801,17 @@
    "phone": "(31) 3347-5477",
    "website": "https://www.minimundi.com.br/",
    "checked_at": "2026-10-17T01:08:35Z"
+  },
+  {
+   "name": "Mint Card Games",
+   "group": "unknown",
+   "address": "Rua Tenente Coronel Fabricio Pillar, Porto Alegre, RS, 90450040, BR",
+   "phone": "55051998292220",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "MK Games BH",
@@ -8049,13 +8837,26 @@
    "checked_at": "2026-10-17T01:03:50Z"
   },
   {
+   "name": "MTG Cards Games",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "R: Valentim de Barros, 142 / 14, São Paulo, SP, 02733-070, Brazil",
+   "phone": "5511-2614-4238",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "MUNDO DOS GAMES",
    "group": "unknown",
    "region": "MG",
    "address": "Avenida Oiapoque, 156 Portaria 2, box pi34/35 - Mundo dos Games - Centro, Belo Horizonte - MG, 30111-070",
    "phone": "(31) 99547-9872",
-   "website": "https://api.whatsapp.com/send/?phone=5531995479872&text&type=phone_number&app_absent=0",
-   "checked_at": "2026-10-17T01:07:52Z"
+   "website": "https://api.whatsapp.com/send/?phone=5585999320133&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-17T01:10:52Z"
   },
   {
    "name": "Nala Land - Bar de Jogos de Tabuleiro em Recife",
@@ -8096,12 +8897,10 @@
   {
    "name": "NerdForge",
    "group": "unknown",
-   "region": "Paraná",
    "address": "26 Rua Cuminapanema Vila da Saúde, São Paulo, SP, 04145-060, Brazil",
    "phone": "5511999596193",
    "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:03:41Z"
@@ -8142,6 +8941,17 @@
    "checked_at": "2026-10-17T01:06:35Z"
   },
   {
+   "name": "New Station",
+   "group": "unknown",
+   "address": "Centro, Sorocaba, SP, 18035-251, Brazil",
+   "phone": "+5515-3231-9740",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "Newstation Sorocaba",
    "group": "unknown",
    "region": "São Paulo",
@@ -8164,6 +8974,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:38Z"
+  },
+  {
+   "name": "Omniverse",
+   "group": "unknown",
+   "address": "Rua Comendador Eduardo Saccab, 180 , São Paulo, SP, 04601-070, Brazil",
+   "phone": "115531-6655",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "OMNIVERSE Livraria e Hobby Store",
@@ -8276,6 +9097,16 @@
    "checked_at": "2026-10-17T01:06:29Z"
   },
   {
+   "name": "Panini Point Vila Mariana",
+   "group": "unknown",
+   "region": "SP",
+   "address": "R. Domingos de Morais, 141 - Vila Mariana, São Paulo - SP, 04009-000",
+   "phone": "(11) 91127-6420",
+   "website": "https://linktr.ee/bancadalagoa",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T01:11:05Z"
+  },
+  {
    "name": "Panini Point Viva Open",
    "group": "unknown",
    "region": "RS",
@@ -8303,6 +9134,19 @@
    "checked_at": "2026-10-17T01:10:57Z"
   },
   {
+   "name": "PBG Store",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Av. 8, Rio Claro, SP, 13500440, BR",
+   "phone": "5519998645660",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "PBKIDS",
    "group": "unknown",
    "region": "MG",
@@ -8310,7 +9154,7 @@
    "phone": "(11) 99172-9868",
    "website": "https://www.pbkids.com.br/",
    "buylist_url": "https://www.pbkids.com.br/buylist",
-   "checked_at": "2026-10-17T01:08:02Z"
+   "checked_at": "2026-10-17T01:11:17Z"
   },
   {
    "name": "PBKids",
@@ -8320,7 +9164,7 @@
    "phone": "(11) 99235-0266",
    "website": "https://www.pbkids.com.br/",
    "buylist_url": "https://www.pbkids.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:10Z"
+   "checked_at": "2026-10-17T01:11:17Z"
   },
   {
    "name": "PBKIDS",
@@ -8340,7 +9184,7 @@
    "phone": "(71) 3264-2975",
    "website": "https://www.pbkids.com.br/",
    "buylist_url": "https://www.pbkids.com.br/buylist",
-   "checked_at": "2026-10-17T01:09:57Z"
+   "checked_at": "2026-10-17T01:11:17Z"
   },
   {
    "name": "PBKids Brinquedos",
@@ -8350,7 +9194,7 @@
    "phone": "(31) 3330-8805",
    "website": "https://www.pbkids.com.br/",
    "buylist_url": "https://www.pbkids.com.br/buylist",
-   "checked_at": "2026-10-17T01:08:18Z"
+   "checked_at": "2026-10-17T01:11:17Z"
   },
   {
    "name": "PBKIDS CASA FORTE",
@@ -8360,16 +9204,32 @@
    "phone": "(11) 96487-1846",
    "website": "https://www.pbkids.com.br/",
    "buylist_url": "https://www.pbkids.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:30Z"
+   "checked_at": "2026-10-17T01:11:17Z"
   },
   {
-   "name": "Pitta's Board Games",
+   "name": "Pharaoh's Shop",
+   "group": "unknown",
+   "region": "Rio Grande do Sul",
+   "address": "Rua Bento Gonçalves, 2173 Centro, Novo Hamburgo, RS, 93510-365, Brazil",
+   "phone": "5551 99808-2020",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
+   "name": "Pittas Board Games",
    "group": "unknown",
    "region": "SP",
-   "address": "R. Paraupava, 80 - Belenzinho, São Paulo - SP, 03171-060",
-   "phone": "(11) 94784-2874",
-   "website": "https://www.pittasstore.com.br/",
-   "checked_at": "2026-10-17T01:05:58Z"
+   "address": "80 R. Paraupava, São Paulo, São Paulo, 03171-060, Brazil",
+   "phone": "5511-964958336",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "Pixels e Fantasia",
@@ -8377,9 +9237,9 @@
    "region": "CE",
    "address": "R. Barbosa de Freitas - Aldeota, Fortaleza - CE, 60170-020",
    "phone": "(85) 98654-8329",
-   "website": "https://linktr.ee/pixelsefantasia",
+   "website": "https://linktr.ee/bancadalagoa",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:10:41Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Place Games",
@@ -8429,9 +9289,20 @@
   {
    "name": "Playeasy Jogos",
    "group": "unknown",
-   "region": "São Paulo",
    "address": "R. Pedro Taques, 47 - Consolação, São Paulo, SP, 01415-010, Brazil",
    "phone": "55112-594-9933",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
+   "name": "Player's Stop TCG",
+   "group": "unknown",
+   "region": "São Paulo",
+   "address": "Rua Sílvio Barbosa, 157, Guarulhos, SP, 07111-110, Brazil",
+   "phone": "(11) 4372-0229",
    "website": "https://magic.wizards.com/en",
    "games_events": [
     "Flesh and Blood",
@@ -8447,6 +9318,15 @@
    "phone": "(19) 99206-3063",
    "website": "https://www.plushpelucias.com.br/",
    "checked_at": "2026-10-17T01:11:20Z"
+  },
+  {
+   "name": "Pokemom",
+   "group": "unknown",
+   "region": "PE",
+   "address": "Av. Dr. Dirceu Velloso Toscano de Brito - Pina, Recife - PE, 51110-340",
+   "phone": "(81) 99289-4594",
+   "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/covildocalango/p%25C3%25A1gina-inicial&followup=https://sites.google.com/view/covildocalango/p%25C3%25A1gina-inicial&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-49763648:1792199095373418",
+   "checked_at": "2026-10-17T01:04:54Z"
   },
   {
    "name": "Poker Dungeons",
@@ -8481,12 +9361,12 @@
    "region": "São Paulo",
    "address": "R. Saldanha Marinho, 709 - Centro, Ribeirão Preto - SP, 14010-060, Brazil, São Paulo, 14010-060",
    "phone": "+5516993639057",
-   "website": "https://linktr.ee/PoPKaiMundoGeek",
+   "website": "https://linktr.ee/bancadalagoa",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T01:04:59Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Poppe Games | Loja de Videogames e Artigos de Jogos",
@@ -8579,8 +9459,8 @@
    "region": "SP",
    "address": "R. Teodoro Sampaio, 2044 - Pinheiros, São Paulo - SP, 05406-150",
    "phone": "(11) 3813-0316",
-   "website": "https://www.estantevirtual.com.br/redstarteodoro",
-   "checked_at": "2026-10-17T01:06:41Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "Redzone Cards & Games",
@@ -8632,7 +9512,7 @@
    "phone": "(11) 99201-1112",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:07:18Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "RI HAPPY",
@@ -8642,7 +9522,7 @@
    "phone": "(71) 3342-6828",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:09Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy",
@@ -8652,7 +9532,7 @@
    "phone": "(85) 3241-5188",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:41Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy - Cidade São Paulo",
@@ -8662,7 +9542,7 @@
    "phone": "(11) 3587-7105",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:06:44Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "RI HAPPY BH SHOPPING",
@@ -8672,7 +9552,7 @@
    "phone": "(11) 94504-9535",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:07:58Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Brinquedos",
@@ -8682,7 +9562,7 @@
    "phone": "(11) 99219-4054",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:48Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "RI HAPPY IPANEMA",
@@ -8692,7 +9572,7 @@
    "phone": "(21) 2597-3886",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:07:11Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "RI HAPPY SHOPPING RECREIO",
@@ -8702,7 +9582,7 @@
    "phone": "(21) 2018-2342",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:07:19Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8712,7 +9592,7 @@
    "phone": "(31) 3241-1803",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:07:40Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8722,7 +9602,7 @@
    "phone": "(11) 99181-2846",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:08:09Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8732,7 +9612,7 @@
    "phone": "(11) 99174-5414",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:09:02Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8742,7 +9622,7 @@
    "phone": "(51) 3084-5499",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:09:43Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8752,7 +9632,7 @@
    "phone": "(11) 99237-8962",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:28Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8762,7 +9642,7 @@
    "phone": "(11) 99186-7420",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:11:03Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Ri Happy Toys",
@@ -8782,7 +9662,7 @@
    "phone": "(11) 99284-4065",
    "website": "https://www.rihappy.com.br/",
    "buylist_url": "https://www.rihappy.com.br/buylist",
-   "checked_at": "2026-10-17T01:10:10Z"
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Rika Comic Shop",
@@ -8811,6 +9691,17 @@
    "phone": "(85) 98893-8643",
    "website": "https://linkme.bio/romanellygamestore",
    "checked_at": "2026-10-17T01:10:46Z"
+  },
+  {
+   "name": "Sagittariu Games",
+   "group": "unknown",
+   "address": "Rua Dr Angelo Pernambuco 130, Jundiaí, SP, 13212-123, Brazil",
+   "phone": "5511976782937",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
   },
   {
    "name": "Sakura Colecionáveis Eusébio",
@@ -8854,8 +9745,8 @@
    "region": "MG",
    "address": "Av. do Contorno, 6441 - São Pedro, Belo Horizonte - MG, 30110-039",
    "phone": "(31) 3223-8813",
-   "website": "https://www.estantevirtual.com.br/padreco",
-   "checked_at": "2026-10-17T01:08:23Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "Savassi Games",
@@ -9014,12 +9905,30 @@
    "checked_at": "2026-10-17T01:06:01Z"
   },
   {
-   "name": "SpellGuard",
+   "name": "Spell Card",
    "group": "unknown",
-   "region": "PE",
-   "address": "R. Padre Bernadino Pessoa, 748 - Sl 201 - Boa Viagem, Recife - PE, 51020-210",
-   "website": "https://spellguard.shop/",
-   "checked_at": "2026-10-17T01:10:18Z"
+   "region": "Ceará",
+   "address": "5834 Av. João Pessoa, Fortaleza, CE, 60442-057, BR",
+   "phone": "+5585996095882",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
+   "name": "Spellguard",
+   "group": "unknown",
+   "region": "Pernambuco",
+   "address": "Condomínio do Edifício Helca - R. Padre Bernadino Pessoa, 201 - Boa Viagem, Recife - PE, 51020-000, Brazil, Pernambuco, 51020-000",
+   "phone": "5581 991835755",
+   "website": "https://linktr.ee/bancadalagoa",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-17T01:11:05Z"
   },
   {
    "name": "Spiral With Coffee",
@@ -9064,8 +9973,8 @@
    "region": "SP",
    "address": "R. da Consolação, 871 - Consolação, São Paulo - SP, 01303-001",
    "phone": "(11) 2667-3570",
-   "website": "https://www.estantevirtual.com.br/sebos-e-livreiros/stock-cultural?sellerId=1001777",
-   "checked_at": "2026-10-17T01:06:19Z"
+   "website": "https://www.estantevirtual.com.br/garagemcomics",
+   "checked_at": "2026-10-17T01:11:08Z"
   },
   {
    "name": "Stone Games",
@@ -9149,6 +10058,19 @@
    "checked_at": "2026-10-17T01:05:51Z"
   },
   {
+   "name": "Summoner Hobbies Store",
+   "group": "unknown",
+   "region": "Paraná",
+   "address": "Avenida Iguaçu, 926, Curitiba, PR, 80230-020, Brazil",
+   "phone": "41996758020",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Super Games",
    "group": "unknown",
    "region": "SP",
@@ -9187,6 +10109,17 @@
    "checked_at": "2026-10-17T01:04:51Z"
   },
   {
+   "name": "Tabula Ludoplace",
+   "group": "unknown",
+   "address": "R. Gen. Osório, 74 A, Sete Lagoas, MG, 35700-208, Brazil",
+   "phone": "3198499-4383",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:32Z"
+  },
+  {
    "name": "Taguatinga Shopping",
    "group": "unknown",
    "region": "DF",
@@ -9206,6 +10139,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T01:05:17Z"
+  },
+  {
+   "name": "Taverna do Dragão",
+   "group": "unknown",
+   "region": "CE",
+   "address": "R. Cento e Doze, 110 - Timbo, Maracanaú, CE, 61936-120, Brazil",
+   "phone": "8598762-0696",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "Taverna do Rei",
@@ -9288,6 +10233,17 @@
    "checked_at": "2026-10-17T01:03:54Z"
   },
   {
+   "name": "Time Walk - Cards & Games",
+   "group": "unknown",
+   "address": "1001 Av. Antônio Carlos Costa, Osasco, SP, 06053-014, BR",
+   "phone": "5511976054358",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
+  },
+  {
    "name": "Toca do Timo",
    "group": "unknown",
    "address": "397 R. Marselhesa, São Paulo, São Paulo, 04020-060, Brazil",
@@ -9327,7 +10283,7 @@
    "address": "Av. Nossa Sra. de Copacabana, 685 - Copacabana, Rio de Janeiro - RJ, 22011-001",
    "phone": "(21) 2548-9500",
    "website": "https://www.toyboy.com.br/",
-   "checked_at": "2026-10-17T01:07:23Z"
+   "checked_at": "2026-10-17T01:07:25Z"
   },
   {
    "name": "TOYDAY brinquedos e presentes",
@@ -9380,9 +10336,20 @@
    "region": "RS",
    "address": "Galeria central - R. Voluntários da Pátria, 188 - Loja 120 e 121 - Centro Histórico, Porto Alegre - RS, 90030-000",
    "phone": "(51) 3212-6801",
-   "website": "https://linktr.ee/worldvideogames",
+   "website": "https://linktr.ee/bancadalagoa",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:09:26Z"
+   "checked_at": "2026-10-17T01:11:05Z"
+  },
+  {
+   "name": "X1 Arena",
+   "group": "unknown",
+   "address": "1071 R. Quinze de Novembro,  Indaiatuba, SP, 13330-070, BR",
+   "phone": "5519998061222",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:03:41Z"
   },
   {
    "name": "XPlace Games",

@@ -1,8 +1,8 @@
 {
  "country": "HU",
  "currency": "HUF",
- "updated": "2026-10-16",
- "store_count": 99,
+ "updated": "2026-10-20",
+ "store_count": 102,
  "stores": [
   {
    "name": "Momoko - Japan Treats & Bubble Tea",
@@ -56,6 +56,15 @@
    "checked_at": "2026-10-17T05:15:38Z"
   },
   {
+   "name": "Card Station Hungary",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Bevásárló u. 2, 1239",
+   "phone": "06 30 231 9478",
+   "website": "https://www.facebook.com/p/Card-Station-Hungary-61579959372662/",
+   "checked_at": "2026-10-17T05:13:36Z"
+  },
+  {
    "name": "Dózsa Konzol Shop",
    "group": "in_store",
    "city": "Debrecen",
@@ -78,6 +87,15 @@
    "address": "Budapest, Zay út 3, 1037",
    "phone": "06 70 244 0099",
    "checked_at": "2026-10-17T05:14:50Z"
+  },
+  {
+   "name": "Kingpin képregénybolt",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, II. Rákóczi Ferenc út 107-115-c, 1211",
+   "phone": "06 20 296 2633",
+   "website": "https://www.facebook.com/Kingpin-k%C3%A9preg%C3%A9nybolt-105425507900362/?fref=tag",
+   "checked_at": "2026-10-17T05:13:36Z"
   },
   {
    "name": "L.O.G.-I.N. – World",
@@ -140,7 +158,6 @@
   {
    "name": "The Guild House",
    "group": "in_store",
-   "city": "Budapest",
    "address": "Benczúr Tér 19, Nyíregyháza, Szabolcs-Szatmár-Bereg, 4400, Hungary",
    "phone": "+36703640770",
    "website": "https://www.facebook.com/profile.php?id=61588933164105",
@@ -155,6 +172,14 @@
    "city": "Budapest",
    "address": "Budapest, C595+63, 1239",
    "checked_at": "2026-10-17T05:13:59Z"
+  },
+  {
+   "name": "Trillian Comic Book Store",
+   "group": "in_store",
+   "city": "Budapest",
+   "address": "Budapest, Teréz krt. 12, 1066",
+   "website": "https://www.facebook.com/kepregeny",
+   "checked_at": "2026-10-17T05:13:36Z"
   },
   {
    "name": "Airsoftguru Kft",
@@ -301,8 +326,8 @@
    "group": "unknown",
    "city": "Budapest",
    "address": "Budapest, Esztergomi út 66, 1138",
-   "website": "https://deckmaster.hu/impresszum",
-   "checked_at": "2026-10-17T05:14:31Z"
+   "website": "https://deckmaster.hu/",
+   "checked_at": "2026-10-17T05:15:09Z"
   },
   {
    "name": "Deckmaster - Prémium kártya webáruház",
@@ -499,7 +524,7 @@
    "address": "Budapest, Szikratávíró u. 12, 1211",
    "phone": "(06 1) 700 4230",
    "website": "https://www.jateknet.hu/",
-   "checked_at": "2026-10-17T05:14:58Z"
+   "checked_at": "2026-10-17T05:15:10Z"
   },
   {
    "name": "King Cobra Cards",
@@ -611,7 +636,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:13:36Z"
+   "checked_at": "2026-10-17T05:13:44Z"
   },
   {
    "name": "Myth Games",
@@ -715,7 +740,7 @@
    "address": "Budapest, Eötvös u. 39, 1067",
    "phone": "(06 1) 773 3600",
    "website": "https://reflexshop.hu/",
-   "checked_at": "2026-10-17T05:14:05Z"
+   "checked_at": "2026-10-17T05:15:10Z"
   },
   {
    "name": "Regiment Toy Store",
@@ -732,8 +757,8 @@
    "city": "Budapest",
    "address": "Budapest, Városkapu u. 7, 1152",
    "phone": "(06 1) 414 0054",
-   "website": "https://www.regiojatek.hu/aruhaz-20-m3_varoskapu.html",
-   "checked_at": "2026-10-17T05:14:41Z"
+   "website": "https://www.regiojatek.hu/aruhaz-3-debrecen.html",
+   "checked_at": "2026-10-17T05:15:14Z"
   },
   {
    "name": "REGIO JÁTÉK - Debrecen",

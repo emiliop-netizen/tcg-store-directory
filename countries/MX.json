@@ -1,8 +1,8 @@
 {
  "country": "MX",
  "currency": "MXN",
- "updated": "2026-10-16",
- "store_count": 830,
+ "updated": "2026-10-20",
+ "store_count": 988,
  "stores": [
   {
    "name": "Lofty TCG",
@@ -56,37 +56,6 @@
     "drop_off": true
    },
    "checked_at": "2026-10-15T20:09:00Z"
-  },
-  {
-   "name": "On-Board Gaming",
-   "group": "feed",
-   "address": "Ste 117, Escondido, CA, 92025, United States",
-   "phone": "1(760) 566-6782",
-   "website": "https://on-boardgaming.com/",
-   "buylist_url": "https://buylist.on-boardgaming.com/retailer/buylist",
-   "feed": {
-    "platform": "storepass",
-    "host": "buylist.on-boardgaming.com",
-    "store_id": "tJpZCmy7u7",
-    "games": [
-     "One Piece",
-     "Pokemon",
-     "Magic: The Gathering",
-     "Yu-Gi-Oh!",
-     "Lorcana",
-     "Dragon Ball Super Fusion World",
-     "Gundam",
-     "Riftbound",
-     "Flesh and Blood",
-     "Star Wars Unlimited",
-     "Weiss Schwarz"
-    ],
-    "japanese": "some Japanese Pokemon rows (older sets/promos) - search to confirm"
-   },
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:14Z"
   },
   {
    "name": "Reino de Magos",
@@ -177,17 +146,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:38Z"
-  },
-  {
-   "name": "Bards & Cards - San Diego",
-   "group": "login_required",
-   "address": "936 5th Ave, San Diego, CA, 92101, United States",
-   "phone": "1619-937-2211",
-   "website": "https://bardsandcards.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:09Z"
   },
   {
    "name": "MTGMexico",
@@ -392,17 +350,6 @@
    "phone": "55 1106 7066",
    "website": "http://www.elnovenoreino.com/",
    "checked_at": "2026-10-15T20:10:42Z"
-  },
-  {
-   "name": "GameStop - 337 - Plaza Bonita Mall",
-   "group": "blocked",
-   "address": "3030 Plaza Bonita Rd, National City, CA, 91950, US",
-   "phone": "1(619) 267-7880",
-   "website": "https://www.gamestop.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:07Z"
   },
   {
    "name": "Goblin Cards store",
@@ -671,6 +618,28 @@
    "checked_at": "2026-10-15T20:09:42Z"
   },
   {
+   "name": "Abrakadabra",
+   "group": "in_store",
+   "address": "208 Av 5 Ote Col. Centro, Heroica Puebla de Zaragoza, Pue., 72000, MX",
+   "phone": "525660594215",
+   "website": "https://www.instagram.com/abk_mx?igsh=MW1zMjl0eXlpOHk0Yg==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Abrakadabra Norte",
+   "group": "in_store",
+   "address": "15 de Mayo 2913-B Int. 6, Colonia las Hadas, Puebla, 72070, Mexico",
+   "phone": "522221262033",
+   "website": "https://www.facebook.com/ABKMX/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Ace Games",
    "group": "in_store",
    "city": "Ciudad de México",
@@ -681,6 +650,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:25Z"
+  },
+  {
+   "name": "Ajolotito Home Store",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Av Tecnológico 167, Centro Universitario, 76017 Santiago de Querétaro, Qro.",
+   "phone": "446 305 1037",
+   "website": "https://www.facebook.com/ajolotitohomestore/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Akiba Stop",
@@ -697,15 +676,28 @@
    "checked_at": "2026-10-15T20:09:49Z"
   },
   {
+   "name": "AkibaStation - Anime Shoppu",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "Av, Juarez y Colón, Guadalajara Centro, Entregas en Plaza Universidad, Centro, 44100 Guadalajara, Jal.",
+   "phone": "33 1427 0969",
+   "website": "https://www.facebook.com/AkibaStation.Gdl",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Alastal Hobby Shop",
    "group": "in_store",
    "city": "Tlalnepantla",
    "region": "Estado de México",
-   "address": "Av. Vía Adolfo López Mateos 122-oficina 1, mz 019, Hab Jacarandas, 54050 Tlalnepantla, Méx., Mexico, Tlalnepantla, Estado de México, 54050",
+   "address": "122 Av. Vía Adolfo López Mateos oficina 1, Hab Jacarandas, Tlalnepantla de Baz, Méx., 54050, Mexico",
+   "phone": "525518174588",
+   "website": "https://www.instagram.com/alastaltcg/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Alex Starwars y comics",
@@ -717,16 +709,17 @@
    "checked_at": "2026-10-15T20:12:59Z"
   },
   {
-   "name": "ALLTCGAMING",
+   "name": "Alltcgaming",
    "group": "in_store",
    "city": "PUEBLA",
    "region": "MX-PUE",
-   "address": "FRIKI PLAZA, AV 10 PONIENTE 106 COLONIA CENTRO LOCAL 627, PUEBLA, MX-PUE, 72000",
-   "phone": "2228126880",
-   "website": "https://www.facebook.com/profile.php?id=100077354376968",
+   "address": "13 SUR 505 A, Centro, Pue., 72000, Mexico",
+   "phone": "522228126879",
+   "website": "https://www.facebook.com/profile.php?id=100077354376968&locale=es_LA",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
@@ -765,16 +758,43 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Alquimia Food and Games",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "MX-YUC",
+   "address": "Calle 25A Numero 323 por 32 y 34 Colonia San Vicente Chuburna, Mérida, Yucatan, 97206, MX",
+   "phone": "52999-171-4872",
+   "website": "https://www.facebook.com/AlquimiaFG",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Alternative Reality",
    "group": "in_store",
    "city": "Mérida",
    "region": "Yucatán",
-   "address": "C. 50 143-161, Francisco de Montejo II, 97203 Mérida, Yuc., Mexico, Mérida, Yucatán, 97203",
-   "phone": "+16177846608",
+   "address": "Calle 50, local 161, Mérida, Yuc., 97229, Mexico",
+   "phone": "529991213277",
+   "website": "https://www.facebook.com/share/18EU4hxC1N/?mibextid=wwXIfr",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Alternative Reality Mérida TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 50 6, Hidalgo, 97220 Mérida, Yuc.",
+   "website": "https://instagram.com/alternativereality_mid?igshid=NmZiMzY2Mjc=",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Amaterasu's Vault Store",
@@ -861,7 +881,6 @@
    "website": "http://www.facebook.com/animecorpmty",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
@@ -869,16 +888,27 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "ANIMUNDO",
+   "name": "AnimeCorp Monterrey",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "José Garibaldi 437 Sur 3er Piso Local 321 a 324 Colnia 64000, José Garibaldi 437, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 2699 6052",
+   "website": "http://www.facebook.com/animecorpmty",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Animundo",
    "group": "in_store",
    "city": "Celaya",
    "region": "MX-GUA",
-   "address": "José María Morelos 133 interior 8, Col. Centro, Celaya, MX-GUA, 38000",
-   "phone": "4612000827",
-   "website": "https://www.facebook.com/animundoanimestore/",
+   "address": "José Morelos 133 interior 8, Celaya, GUA, 38000, Mexico",
+   "phone": "52461 200 0827",
+   "website": "https://www.facebook.com/animundoanimestore?_rdr",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
@@ -981,6 +1011,17 @@
    "checked_at": "2026-10-15T20:10:46Z"
   },
   {
+   "name": "Armando La Jugada Perfecta",
+   "group": "in_store",
+   "address": "Eje Central Lázaro Cárdenas 811 Lazaro narvarte poniente , Benito Juárez, CDMX, 15500, Mexico",
+   "phone": "525545823797",
+   "website": "https://www.instagram.com/armando.lajugada?igsh=MWQ4ZG1saWxqbGxrbQ==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "ATENAS PLAZA",
    "group": "in_store",
    "city": "México D.F.",
@@ -1019,6 +1060,27 @@
    "checked_at": "2026-10-15T20:09:42Z"
   },
   {
+   "name": "Avatar Games and Hobbies",
+   "group": "in_store",
+   "address": "Av. Universidad #17-7 Poniente, Querétaro, QUE, 76150, Mexico",
+   "phone": "52442 671 2583",
+   "website": "https://www.facebook.com/avatarghreal/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Avatar Games.Hobbies",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Av. Universidad 17-B1, Centro Historico, 76000 Santiago de Querétaro, Qro.",
+   "phone": "442 671 2583",
+   "website": "https://www.facebook.com/avatarghreal/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Baja tcg",
    "group": "in_store",
    "city": "Tijuana",
@@ -1032,6 +1094,25 @@
    "checked_at": "2026-10-15T20:09:49Z"
   },
   {
+   "name": "Baja TCG Funko Pops",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "C. Carrillo Puerto 3ra 8037-Loc 17-B, Zona Centro, 22000 Tijuana, B.C.",
+   "website": "https://www.facebook.com/baja.tcg2/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "BanHammer TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 63ᴬ 1044, Xoclán Xbech, 97246 Mérida, Yuc.",
+   "phone": "999 216 5981",
+   "website": "https://www.facebook.com/profile.php?id=61563810040928&sk=about",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Baratie TCG store",
    "group": "in_store",
    "city": "Colima",
@@ -1041,6 +1122,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:37Z"
+  },
+  {
+   "name": "Battle City CDMX",
+   "group": "in_store",
+   "address": "10 Eje Central Lázaro Cárdenas, México D.F., CDMX, 06000, Mexico",
+   "phone": "529211042956",
+   "website": "https://www.facebook.com/profile.php?id=61575661211776",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Battle City Coatzacoalcos",
@@ -1099,19 +1191,25 @@
    "checked_at": "2026-10-15T20:10:21Z"
   },
   {
-   "name": "BATTLE STADIUM TCG",
+   "name": "Bazaar of the Lion's",
    "group": "in_store",
-   "city": "MERIDA",
-   "region": "MX-YUC",
-   "address": "CALLE 54 NÚMERO 366, MERIDA, MX-YUC, 97000",
-   "phone": "999746282",
+   "address": "1792 Av. Cafetales Local 15, México D.F., CDMX, 04970, Mexico",
+   "phone": "525543476370",
+   "website": "https://www.facebook.com/BazaarofLion",
    "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)"
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Bazar Collector City Puebla",
+   "group": "in_store",
+   "city": "Heroica Puebla de Zaragoza",
+   "region": "Pue.",
+   "address": "Av. 17 oriente y 16 de septiembre, El Carmen, 72530 Heroica Puebla de Zaragoza, Pue.",
+   "phone": "222 160 9260",
+   "website": "https://www.facebook.com/BAZAR-Collector-City-Puebla-113919650156385/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Bazar Expo Comics",
@@ -1129,6 +1227,16 @@
    "address": "C. 28 519G, entre 67 y 69, Centro, 97000 Mérida, Yuc.",
    "phone": "999 900 3641",
    "checked_at": "2026-10-15T20:12:58Z"
+  },
+  {
+   "name": "Big Bang Comics",
+   "group": "in_store",
+   "city": "Heroica Puebla de Zaragoza",
+   "region": "Pue.",
+   "address": "Ricardo Flores Magón 22-2, San Jerónimo Caleras, 72100 Heroica Puebla de Zaragoza, Pue.",
+   "phone": "222 299 3355",
+   "website": "https://www.facebook.com/Big-Bang-Comics-278135405571772/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Black Cat Collectibles",
@@ -1170,30 +1278,16 @@
   {
    "name": "BoardGeekz",
    "group": "in_store",
-   "city": "campeche",
-   "region": "MX-CAM",
+   "city": "Guadalajara",
+   "region": "Jalisco",
    "address": "Americana, Guadalajara, JAL, 44160, Mexico",
    "phone": "5233 22 64 9727",
    "website": "https://discord.gg/jkBwFxu",
    "games_events": [
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:48Z"
-  },
-  {
-   "name": "BoardGeekz",
-   "group": "in_store",
-   "city": "Guadalajara",
-   "region": "Jalisco",
-   "address": "Av Enrique Díaz de León Nte 50, Col Americana, Zona Centro, 44200 Guadalajara, Jal., Mexico, Guadalajara, Jalisco, 44200",
-   "phone": "+52 33 2264 9727",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
   },
   {
    "name": "Bracho Antigüedades",
@@ -1218,6 +1312,16 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Broken cards",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Metro patriotismo mercado Escandón, local 7, Escandón II Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX",
+   "phone": "55 7378 8562",
+   "website": "https://www.facebook.com/profile.php?id=61567453751241&mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Bubble Dream BD",
    "group": "in_store",
    "city": "Santiago de Querétaro",
@@ -1225,6 +1329,16 @@
    "address": "Hidalgo 180, Centro, 76000 Santiago de Querétaro, Qro.",
    "phone": "446 218 5785",
    "checked_at": "2026-10-15T20:12:36Z"
+  },
+  {
+   "name": "Bunbury Games",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "C. Manuel López Cotilla 373-Loc 263, Zona Centro, 44100 Guadalajara, Jal.",
+   "phone": "33 1696 8639",
+   "website": "https://www.facebook.com/Bunburygames",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Bushido Geek Store",
@@ -1264,6 +1378,16 @@
    "checked_at": "2026-10-15T20:10:41Z"
   },
   {
+   "name": "Card capital mid",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Plaza diamante, Centro, 97000 Mérida, Yuc.",
+   "phone": "999 998 3367",
+   "website": "https://www.facebook.com/cardcapitalmid1",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "CARD CAPTOR - TIENDA DE TCG",
    "group": "in_store",
    "city": "Guadalupe",
@@ -1295,13 +1419,11 @@
   {
    "name": "CardMart",
    "group": "in_store",
-   "city": "Ciudad de México",
-   "region": "Ciudad de México",
-   "address": "Av Chapultepec 104-local 37, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico, Ciudad de México, Ciudad de México, 06700",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av Chapultepec 104, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+   "website": "https://www.facebook.com/share/1CNEfM9x7p/?mibextid=wwXIfr",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Cartas de Yu-Gi-Oh",
@@ -1347,6 +1469,17 @@
    "checked_at": "2026-10-15T20:12:07Z"
   },
   {
+   "name": "Cerebrum",
+   "group": "in_store",
+   "address": "local 6-A, México, DIF, 04250, Mexico",
+   "phone": "5255-6304-2414",
+   "website": "https://www.facebook.com/people/Cerebrum-M%C3%A9xico/100046132795433/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Chaos Dragon TCG",
    "group": "in_store",
    "city": "Oaxaca de Juarez",
@@ -1390,17 +1523,6 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "Codex Arcana",
-   "group": "in_store",
-   "city": "Mérida",
-   "region": "Yucatán",
-   "address": "C. 53 534a-x70 y, Barrio de Santiago, Centro, 97000 Mérida, Yuc., Mexico, Mérida, Yucatán, 97000",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
    "name": "Coleccio",
    "group": "in_store",
    "city": "México D.F.",
@@ -1435,18 +1557,6 @@
    "checked_at": "2026-10-15T20:11:39Z"
   },
   {
-   "name": "ColeccionaMX - Oxkutzcab",
-   "group": "in_store",
-   "city": "Oxkutzcab",
-   "region": "MX-YUC",
-   "address": "Local A del Hotel PUUC, Oxkutzcab, MX-YUC, 97880",
-   "phone": "9993519908",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
    "name": "Colección Ada",
    "group": "in_store",
    "city": "Zapopan",
@@ -1477,6 +1587,15 @@
    "checked_at": "2026-10-15T20:12:58Z"
   },
   {
+   "name": "Colectivo Punto Este Plaza 2000",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Plaza Paseo 2000 Francisco Villa, Colectivo Punto Este, 22236 Tijuana, B.C.",
+   "website": "https://www.facebook.com/Colectivo-Punto-Este-Plaza-2000-112092854038529/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Coliseo PVR",
    "group": "in_store",
    "city": "Puerto Vallarta",
@@ -1497,6 +1616,38 @@
    "address": "Av. Puente de la Reina 2052, Puerta Navarra, 76116 Santiago de Querétaro, Qro.",
    "phone": "222 258 0513",
    "checked_at": "2026-10-15T20:12:38Z"
+  },
+  {
+   "name": "Collectibles House Mx",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 31 178, Polígono 108 CTM, 97142 Mérida, Yuc.",
+   "website": "https://www.facebook.com/houseoffunkomx?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Collectibles House Mx- Circuito colonias TCG, Funko y más.",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 31 211, Col. México, México, 97125 Mérida, Yuc.",
+   "website": "https://facebook.com/Collectibleshousemx",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Collector Realm",
+   "group": "in_store",
+   "city": "Miguel Hidalgo",
+   "region": "MX-CMX",
+   "address": "232 Gutenberg, México D.F., CDMX, 11590, Mexico",
+   "phone": "525582331356",
+   "website": "https://www.instagram.com/collector_realm_cdmx/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Comics Mansion",
@@ -1527,6 +1678,17 @@
    "checked_at": "2026-10-15T20:12:58Z"
   },
   {
+   "name": "Contrahechizo",
+   "group": "in_store",
+   "address": "110 Rayon, Centro, Méx., 56100, Mexico",
+   "phone": "52595-152-7312",
+   "website": "https://www.facebook.com/contrahechizoclubdejuegos",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Corvus - TCG Cafe",
    "group": "in_store",
    "city": "Mérida",
@@ -1534,6 +1696,16 @@
    "address": "C. 50 46-Loc 2, Zona Industrial, Francisco de Montejo, 97203 Mérida, Yuc.",
    "phone": "999 740 2386",
    "checked_at": "2026-10-15T20:12:50Z"
+  },
+  {
+   "name": "CR Collectibles",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Manuel Tolsa 2-Loc 383, Centro, 76000 Santiago de Querétaro, Qro.",
+   "phone": "442 600 3481",
+   "website": "https://www.facebook.com/CRcollectiblesQro/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Crazy monkey cards",
@@ -1641,6 +1813,16 @@
    "checked_at": "2026-10-15T20:12:42Z"
   },
   {
+   "name": "DARK BONES",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "16 de Septiembre 11, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 6655 6832",
+   "website": "https://www.facebook.com/DarkbonesCDMX",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Dark Collettore",
    "group": "in_store",
    "city": "Santiago de Querétaro",
@@ -1648,6 +1830,16 @@
    "address": "Plaza Cristal, Prol Zaragoza 1063-Loc 29, Los Girasoles, Valle de los Olivos, 76902 Santiago de Querétaro, Qro.",
    "phone": "442 708 2444",
    "checked_at": "2026-10-15T20:12:45Z"
+  },
+  {
+   "name": "Dark Comics Querétaro Alamos",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Alamos 2da Secc, 76160 Santiago de Querétaro, Qro.",
+   "phone": "442 438 2943",
+   "website": "http://www.facebook.com/DarkComicss",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "DARK DAGGER Piezas de Colleccion",
@@ -1674,22 +1866,6 @@
    "region": "CDMX",
    "address": "Av. Juárez 32-3er piso, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX",
    "phone": "55 5521 2602",
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
-   "name": "Darkstore - La Roma",
-   "group": "in_store",
-   "city": "CUAUHTEMOC",
-   "region": "MX-CMX",
-   "address": "Monterrey 271, Piso 3,  Esquina con Aguascalientes, Col. Roma Sur, Del. Cuauhtemoc, CUAUHTEMOC, MX-CMX, 06760",
-   "phone": "5555122378",
-   "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)"
-   ],
    "checked_at": "2026-10-16T21:45:02Z"
   },
   {
@@ -1738,8 +1914,12 @@
    "group": "in_store",
    "city": "Playas de Rosarito",
    "region": "B.C.",
-   "address": "Calle Lázaro cardenas, Miguel Hidalgo y Costilla, Plan Libertador, 22710 Playas de Rosarito, B.C.",
-   "website": "https://www.facebook.com/profile.php?id=100076282236267&mibextid=LQQJ4d",
+   "address": "Calle Lázaro Cárdenas del Río #1 - Local 4, Playas de Rosarito, Baja California, 22706, Mexico",
+   "phone": "526641107613",
+   "website": "https://www.facebook.com/DesertShadowTCG/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -1765,7 +1945,8 @@
    "region": "CDMX",
    "address": "Eje Central Lázaro Cárdenas 11-Segundo piso, Local 245, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
    "phone": "55 8382 8741",
-   "checked_at": "2026-10-15T20:10:38Z"
+   "website": "https://www.facebook.com/share/1Ehfkb88Yj/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "DG Coleccionables",
@@ -1835,6 +2016,16 @@
    "checked_at": "2026-10-15T20:11:52Z"
   },
   {
+   "name": "Doña Julia Games",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Cañadas del Florido, 22237 Tijuana, B.C.",
+   "phone": "664 374 4405",
+   "website": "https://www.facebook.com/Juliagamess/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "DracoStore",
    "group": "in_store",
    "city": "Torreón",
@@ -1887,9 +2078,13 @@
    "group": "in_store",
    "city": "México D.F.",
    "region": "CDMX",
-   "address": "Calz. de Tlalpan 1510, Portales Oriente, Benito Juárez, 03570 Ciudad de México, CDMX",
-   "phone": "55 6650 2623",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "address": "Col. Portales, Mexico, DIF, 08200, Mexico",
+   "phone": "525640333026",
+   "website": "https://www.facebook.com/Dragonshohlemx/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Dragonpieze GDL",
@@ -1935,6 +2130,28 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Duelist World",
+   "group": "in_store",
+   "address": "Calle Saturno No. 149 MZA. 48 Lotte 33, Cuautitlán Izcalli, Estado de México, 54740, MEXICO",
+   "phone": "525657145048",
+   "website": "https://www.facebook.com/share/1F9UN5q2yH/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "DuelZoneCelaya",
+   "group": "in_store",
+   "address": "346 Calle Alvaro Obregon, Celaya, Gto., 38000, Mexico",
+   "phone": "524613691988",
+   "website": "https://www.facebook.com/share/1FY3FsWd2y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Dungeon Games And Food",
    "group": "in_store",
    "city": "Aguascalientes",
@@ -1946,6 +2163,17 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:10:00Z"
+  },
+  {
+   "name": "Durin Store",
+   "group": "in_store",
+   "address": "148 C. Nilo, Azcapotzalco, CDMX, 02080, Mexico",
+   "phone": "5519092213",
+   "website": "https://www.facebook.com/profile.php?id=100092115965905",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Easy Card",
@@ -1979,6 +2207,16 @@
    "checked_at": "2026-10-15T20:11:36Z"
   },
   {
+   "name": "Edificio Miguel Abed",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Eje Central Lázaro Cárdenas 12-4TO piso, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "56 3429 7852",
+   "website": "https://www.facebook.com/topdeckhobbystore/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Ekop Shop",
    "group": "in_store",
    "city": "Heroica Puebla de Zaragoza",
@@ -1986,6 +2224,16 @@
    "address": "Calle 95 Ote. 1406-B, Granjas de San Isidro, 72587 Heroica Puebla de Zaragoza, Pue.",
    "phone": "221 280 5525",
    "checked_at": "2026-10-15T20:11:56Z"
+  },
+  {
+   "name": "El Arcade QwQ7",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Hermanos Aldama 234-B, Centro, 37000 León de los Aldama, Gto.",
+   "phone": "477 382 6880",
+   "website": "http://www.facebook.com/el.arcade.qwq7.like",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "El Bazaar TCG",
@@ -2037,6 +2285,16 @@
    "checked_at": "2026-10-15T20:09:37Z"
   },
   {
+   "name": "El Cuervo de Poe",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "C. Ezequiel Montes 42, Centro, 76000 Santiago de Querétaro, Qro.",
+   "phone": "442 868 1286",
+   "website": "https://www.facebook.com/elcuervodepoe.libreria/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "el gameX - Videojuegos, Anime y Tecnología",
    "group": "in_store",
    "city": "Guanajuato",
@@ -2044,6 +2302,16 @@
    "address": "Calle de la Galarza 107, Zona Centro, 36000 Guanajuato, Gto.",
    "phone": "473 126 5704",
    "website": "https://www.facebook.com/elgamexshop",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "El mercadito del otaku",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "calle columna de flagelacion 333, La Cruz, colonia santa cruz I, 37207 León de los Aldama, Gto.",
+   "phone": "477 882 9870",
+   "website": "https://www.facebook.com/mercadotaku/",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -2121,13 +2389,15 @@
    "group": "in_store",
    "city": "Queretaro",
    "region": "MX-QUE",
-   "address": "Local 3-C / Plaza Lecaroz, Queretaro, MX-QUE, 76040",
-   "phone": "4461365592",
+   "address": "Av. Constituyentes Ote. 7-1 Col. San Francisquito, Querétaro, QUE, 76040, Mexico",
+   "phone": "52442 388 0982",
+   "website": "https://www.facebook.com/EonGamersQro/?locale=es_LA",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Eon Gamers",
@@ -2143,14 +2413,16 @@
    "group": "in_store",
    "city": "Iztapalapa",
    "region": "MX-CMX",
-   "address": "C. Natalia Reforma Financiera 12, Reforma Política, Iztapalapa, 09730 Ciudad de México, CDMX, Iztapalapa, MX-CMX, 09730",
-   "phone": "5526308834",
+   "address": "C. Natalia Reforma Financiera, México D.F., CDMX, 09730, Mexico",
+   "phone": "525526308834",
+   "website": "https://www.facebook.com/profile.php?id=61556892827602&locale=es_LA",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Epic Emporium",
@@ -2163,6 +2435,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:45:02Z"
+  },
+  {
+   "name": "Epica TCG y Coleccionables",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 59 494, entre 56 y 58, Centro, 97000 Mérida, Yuc.",
+   "phone": "999 190 4323",
+   "website": "https://www.facebook.com/profile.php?id=100063770763510&mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Escuadrón TCG",
@@ -2199,7 +2481,6 @@
    "website": "https://www.facebook.com/profile.php?id=100076209543484",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
@@ -2214,6 +2495,26 @@
    "address": "Eje Central Lázaro Cárdenas 11, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
    "phone": "55 5521 0702",
    "checked_at": "2026-10-15T20:10:38Z"
+  },
+  {
+   "name": "FAN STORE foil & collectibles",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 30 624, Emiliano Zapata Nte, 97129 Mérida, Yuc.",
+   "phone": "999 950 0057",
+   "website": "https://www.facebook.com/share/1CGJDcFZHv/?mibextid=wwXIfr",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "FanShoop",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "97000, Centro, 97000 Mérida, Yuc.",
+   "phone": "996 112 6577",
+   "website": "https://www.facebook.com/ShoppeFan/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Fat Cats TCG",
@@ -2270,6 +2571,15 @@
    "checked_at": "2026-10-15T20:09:50Z"
   },
   {
+   "name": "Friki Cueva - Comics & Manga",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Centro, 37000 León de los Aldama, Gto.",
+   "website": "https://www.facebook.com/frikicuevaleon",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Friki Plaza",
    "group": "in_store",
    "city": "Heroica Puebla de Zaragoza",
@@ -2285,6 +2595,15 @@
    "address": "C. Benito Juárez 2da 7971, Zona Centro, 22000 Tijuana, B.C.",
    "phone": "664 615 6712",
    "checked_at": "2026-10-16T21:45:09Z"
+  },
+  {
+   "name": "Funko Legacy Cosplay Store",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "5 de Mayo, Álvaro Obregón 216, Centro, 37000 León de los Aldama, Gto.",
+   "website": "https://www.facebook.com/Legacy-Cosplay-STORE-1683647874996230/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Funko planeta",
@@ -2368,20 +2687,46 @@
    "checked_at": "2026-10-15T20:09:37Z"
   },
   {
-   "name": "GALLEY LA STORE",
+   "name": "Galactic Cards",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "MX-BCN",
+   "address": "21081 Calle Uxmal, Tijuana, BC, 22234, Mexico",
+   "phone": "526649375734",
+   "website": "https://www.facebook.com/profile.php?id=61586726830696",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Galley la store",
    "group": "in_store",
    "city": "Mérida",
    "region": "MX-YUC",
-   "address": "Plaza girasol segundo piso, Mérida, MX-YUC, 97070",
-   "phone": "9994864640",
-   "website": "https://www.facebook.com/groups/366834138941304/?ref=share_group_link",
+   "address": "Plaza Girasol, C. 52 Lote por 13, Residencial Pensiones, Mérida, Yucatan, 97217, Mexico",
+   "phone": "529994864640",
+   "website": "https://www.facebook.com/share/1BRwaf7FBB/",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Game Center Mid",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Calle 57 472 local 1, C. 57 472-local 1 por 52 y 54, Parque de la Mejorada, Centro, 97000 Mérida, Yuc.",
+   "phone": "999 150 3894",
+   "website": "https://www.facebook.com/Game-Center-mid-104056081588146/",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -2389,12 +2734,14 @@
    "group": "in_store",
    "city": "Tijuana",
    "region": "Baja California",
-   "address": "Plaza Label's, Av de los Insurgentes 16500, Los Alamos, 22110 Tijuana, B.C., Mexico, Tijuana, Baja California, 22110",
-   "phone": "+52 664 196 1253",
+   "address": "Plaza Label's 16500 Av de los Insurgentes, Tijuana, B.C., 22110, Mexico",
+   "phone": "526641961253",
+   "website": "https://www.facebook.com/GameHuntersCBG",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Game Island",
@@ -2498,6 +2845,16 @@
    "checked_at": "2026-10-15T20:12:53Z"
   },
   {
+   "name": "Geek World MID",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Av. Correa Rachó 400, Díaz Ordaz, 97130 Mérida, Yuc.",
+   "phone": "999 278 4174",
+   "website": "https://www.facebook.com/profile.php?id=100071119470498",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "GEEK ZONE",
    "group": "in_store",
    "city": "Mérida",
@@ -2505,6 +2862,25 @@
    "address": "C. 53 F LOCAL 2, entre 42 y 44, Francisco de Montejo, 97203 Mérida, Yuc.",
    "phone": "999 239 4356",
    "checked_at": "2026-10-15T20:12:51Z"
+  },
+  {
+   "name": "GeekLab TCG Store",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Av Xochitl 4646-Loc 9, Prados Tepeyac, 45050 Zapopan, Jal.",
+   "website": "https://www.facebook.com/geeklab.gdl?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Geekland",
+   "group": "in_store",
+   "city": "Heroica Puebla de Zaragoza",
+   "region": "Pue.",
+   "address": "Av 6 Ote 405-Loc A, Centro, 72000 Heroica Puebla de Zaragoza, Pue.",
+   "phone": "222 356 4541",
+   "website": "http://www.facebook.com/geeksland.puebla",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "GeekStop Video Games",
@@ -2515,12 +2891,39 @@
    "checked_at": "2026-10-15T20:12:12Z"
   },
   {
-   "name": "GMX CARDS & COLLECTIBLES",
+   "name": "Geekz Stars",
+   "group": "in_store",
+   "address": "Av. Calz. Tepeyac 218, León Moderno, 37480 León de los Aldama, Gto., Mexico, Guanajuato, 37480, Mexico",
+   "phone": "524771064460",
+   "website": "https://www.facebook.com/geekzstarmx/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "GMX Cards & Collectibles",
    "group": "in_store",
    "city": "Tijuana",
    "region": "B.C.",
-   "address": "Blvd. de Las Americas 3023, Buena Vista, 22000 Tijuana, B.C.",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "address": "Blvd. Las Americas N. 3023, Int. 10 Col. Buena Vista., Tijuana, Baja California, 22415, Mexico",
+   "phone": "556641093383",
+   "website": "https://www.facebook.com/share/18vtpVYWaQ/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Goblin Cards Store - Ciudad de México",
+   "group": "in_store",
+   "address": "2424 Blvd. Adolfo López Mateos, Ciudad de México, CDMX, 01760, Mexico",
+   "phone": "14771371597",
+   "website": "https://www.facebook.com/share/19B4vokPVz/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Goblin Cards Store suc deportiva",
@@ -2560,15 +2963,17 @@
    "group": "in_store",
    "city": "Cuernavaca",
    "region": "MX-MOR",
-   "address": "AVENIDA RIO MAYO 803 /LOCAL 16 y 17 , Cuernavaca, MX-MOR, 62285",
-   "phone": "5575183850",
+   "address": "803 Av Río Mayo Local 16 y 17, Cuernavaca, Mor., 62285, Mexico",
+   "phone": "525575183850",
+   "website": "https://www.facebook.com/GolemTcgMx",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
     "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Graceful cards",
@@ -2605,6 +3010,49 @@
    "checked_at": "2026-10-15T20:10:01Z"
   },
   {
+   "name": "HACHIKO TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yucatán",
+   "address": "C. 19ᴬ 100, LL, 97138 Mérida, Yuc., Mexico, Mérida, Yucatán, 97138",
+   "phone": "9999041871",
+   "website": "https://www.facebook.com/hachikotcg",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Hanamura Hobby Store",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Pedro Moreno 123-Loc 4, Centro, 37000 León de los Aldama, Gto.",
+   "phone": "477 492 8082",
+   "website": "https://www.facebook.com/hanamurahobbystore/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Haru's Store",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "Vicente Guerrero 727, Centro, 64000 Monterrey, N.L.",
+   "website": "https://www.facebook.com/Harus-Store-272031060114890",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Hoarders",
+   "group": "in_store",
+   "address": "113 Calle 4 Diagonal, Mérida, Yuc., 97136, Mexico",
+   "phone": "529991612849",
+   "website": "https://www.instagram.com/hoarderslgs?igsh=eHhpd2VhMWo4OHAy&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "hobbieSmart",
    "group": "in_store",
    "city": "Tijuana",
@@ -2612,6 +3060,49 @@
    "address": "Vientos Alisios 14311, Las Lilas, 22105 Tijuana, B.C.",
    "phone": "663 557 9080",
    "checked_at": "2026-10-15T20:12:02Z"
+  },
+  {
+   "name": "Hobby Mart",
+   "group": "in_store",
+   "city": "Ciudad de México",
+   "region": "Ciudad de México",
+   "address": "Calle Milton #2, Colonia Anzures, Alcaldía Miguel Hidalgo, DIF, 11590, Mexico",
+   "phone": "55 9756 3198",
+   "website": "https://www.facebook.com/hobbymartjuegos/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Hobby Mart",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "C. Milton 2, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX",
+   "phone": "55 9756 3198",
+   "website": "https://www.facebook.com/hobbymartjuegos/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Hobby Quest",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "MX-NLE",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "52 (812) 139-1188",
+   "website": "https://www.facebook.com/hqgamer",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "Flesh and Blood",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "HOBBY STOCKIST",
@@ -2653,6 +3144,15 @@
    "checked_at": "2026-10-15T20:09:07Z"
   },
   {
+   "name": "Hyper Beam Cards Sucursal Otay",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Aeropuerto 1900, C.Comercial Otay, G11 G18, C.Comercial Otay, Nueva Tijuana, 22435 Tijuana, B.C.",
+   "website": "https://www.facebook.com/HyperBeamCards?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "IAN COLLECTIONS",
    "group": "in_store",
    "city": "Heroica Puebla de Zaragoza",
@@ -2688,6 +3188,30 @@
    "checked_at": "2026-10-15T20:11:38Z"
   },
   {
+   "name": "IMP Hobbies",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Ave.Universidad 2079 Local 2 (Plaza Manzanas), Mexico City, DIF, 04360, Mexico",
+   "phone": "5556592312",
+   "website": "https://www.facebook.com/IMPHobbies/?ref=aymt_homepage_panel",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Inevitable",
+   "group": "in_store",
+   "address": "Plaza opcion, Av. Rómulo Garza 400-Primer Sector, Fidel Velazquez Sanchez, San Nicolás de los Garza,, N.L., 64119, Mexico",
+   "phone": "528132370050",
+   "website": "https://www.instagram.com/tiendainevitablemx/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Infinity Cards",
    "group": "in_store",
    "city": "Zapopan",
@@ -2702,6 +3226,16 @@
    "region": "N.L.",
    "address": "Guayanas 115, Altavista, Distrito Tec, 64840 Monterrey, N.L.",
    "checked_at": "2026-10-15T20:11:35Z"
+  },
+  {
+   "name": "Infinity Gaming",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 20 231, Fraccionamiento Altabrisa, 97130 Mérida, Yuc.",
+   "phone": "999 298 1020",
+   "website": "https://www.instagram.com/infinity.gamingmid?igsh=MTNmbmRneDFhdHJyZg==",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "INSOMNIA TCG STORE",
@@ -2758,12 +3292,14 @@
    "group": "in_store",
    "city": "Naucalpan de Juárez",
    "region": "Estado de México",
-   "address": "Cto Centro Comercial 8-Local B-8, Cd. Satélite, 53100 Naucalpan de Juárez, Méx., Mexico, Naucalpan de Juárez, Estado de México, 53100",
-   "phone": "+52 55 3401 1930",
+   "address": "8 Cto Centro Comercial Local B-8, Naucalpan de Juárez, Méx., 53100, Mexico",
+   "phone": "5255-3401-1930",
+   "website": "https://www.facebook.com/profile.php?id=61559889158894",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "ISHTAR SATÉLITE",
@@ -2793,12 +3329,33 @@
    "checked_at": "2026-10-15T20:10:59Z"
   },
   {
+   "name": "Janken Cards",
+   "group": "in_store",
+   "address": "705 Juan Aldama, Saltillo, Coahuila, 25000, Mexico",
+   "phone": "528448925750",
+   "website": "https://www.facebook.com/jankencardsshop?mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "JariCards",
    "group": "in_store",
    "city": "Monterrey",
    "region": "N.L.",
    "address": "San Bernabé 2706, San Jorge, 64330 Monterrey, N.L.",
    "checked_at": "2026-10-15T20:11:41Z"
+  },
+  {
+   "name": "Jhonely's Store",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "Av. Pino Suárez 330, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 1385 5740",
+   "website": "https://www.facebook.com/profile.php?id=100089672993383&mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Joe Cards TCG",
@@ -2831,6 +3388,16 @@
    "checked_at": "2026-10-15T20:10:37Z"
   },
   {
+   "name": "Judge's Gavel",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Eje Central Lázaro Cárdenas 10-Int. 10-D, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 8616 7824",
+   "website": "https://www.facebook.com/Judges-Gavel-103626378888951",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Juegos de Mesa Colima",
    "group": "in_store",
    "city": "Colima",
@@ -2841,6 +3408,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:25Z"
+  },
+  {
+   "name": "K",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Gas y Anexas, 22115 Tijuana, B.C.",
+   "phone": "663 109 9353",
+   "website": "https://www.facebook.com/GamingLoveMexico",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Kaeru Games",
@@ -2881,18 +3458,11 @@
   {
    "name": "Kaminoka",
    "group": "in_store",
-   "city": "Culiacan",
-   "region": "MX-SIN",
    "address": "141 Avenida Fernando Iglesias Calderón Col. Jardin Balbuena, Ciudad de México, CDMX, 15900, Mexico",
    "phone": "525588002578",
    "website": "https://www.instagram.com/kaminoka_/",
    "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "Flesh and Blood",
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
   },
@@ -2904,6 +3474,23 @@
    "address": "Fernando Iglesias Calderón 141-primer piso, Jardín Balbuena, Venustiano Carranza, 15900 Ciudad de México, CDMX",
    "phone": "55 4131 5746",
    "checked_at": "2026-10-15T20:10:41Z"
+  },
+  {
+   "name": "KANTOCARDS",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "MX-NLE",
+   "address": "#207-5 Filósofos, Monterrey, N.L., 64700, Mexico",
+   "phone": "5218231092701",
+   "website": "https://www.facebook.com/Kantocards",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Karp Cards",
@@ -2993,6 +3580,16 @@
    "checked_at": "2026-10-15T20:12:59Z"
   },
   {
+   "name": "Krekli Coleccionables",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Belén 153-1, Lomas de, San Pedrito Peñuelas I, 76148 Santiago de Querétaro, Qro.",
+   "phone": "442 318 1787",
+   "website": "https://www.instagram.com/krekli.mx/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Kurama Card's",
    "group": "in_store",
    "city": "México D.F.",
@@ -3011,6 +3608,26 @@
    "checked_at": "2026-10-15T20:11:39Z"
   },
   {
+   "name": "Kyubey's Toys",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "C. Mariano Matamoros 202-Loc 8, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 2475 8150",
+   "website": "https://www.facebook.com/pages/Kyubeys-toys/286759784704324",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "La Bodega Del Abuelo",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Balderas 12-4° piso, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX",
+   "phone": "55 4387 2191",
+   "website": "http://www.facebook.com/sajanossajanos/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "La Casa de los Artesanos",
    "group": "in_store",
    "city": "Mérida",
@@ -3018,6 +3635,27 @@
    "address": "Calle 62 492 X 61 y 59, Centro, 97000 Mérida, Yuc.",
    "phone": "999 923 4523",
    "checked_at": "2026-10-15T20:12:56Z"
+  },
+  {
+   "name": "La casita tcg",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Play Center, Av. Mariano Otero 2768-Loc b83, Plaza del Sol, 45055 Zapopan, Jal.",
+   "phone": "33 3305 5617",
+   "website": "https://www.facebook.com/share/1Dz1PvLJfi/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "La Cofradia juegos y colecionables",
+   "group": "in_store",
+   "address": "209 Calle Mariano Escobedo, Santiago de Querétaro, Qro., 76000, MX",
+   "phone": "524427183131",
+   "website": "https://www.facebook.com/profile.php?id=100089301979943&mibextid=ZbWKwL",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "La cofradía juegos y coleccionables",
@@ -3057,6 +3695,15 @@
     "GUNDAM CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "La Cueva de Don Charizardo",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Numero 298 x, Calle 21 24 y 26, Miguel Alemán, 97148 Mérida, Yuc.",
+   "website": "https://www.facebook.com/doncharizardo",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -3164,16 +3811,18 @@
    "group": "in_store",
    "city": "Monterrey",
    "region": "MX-NLE",
-   "address": "305 local 4, Monterrey, MX-NLE, 64610",
-   "phone": "8110292760",
+   "address": "Av raul Rangel Frias 305 local 4 colonia cumbres, Monterrey, N.L., 64610, Mexico",
+   "phone": "528140450643",
+   "website": "https://www.facebook.com/LaMazmorradelaQuimera?mibextid=ZbWKwL",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DBSCG MASTERS (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "La Mazmorra Del Michi",
@@ -3202,15 +3851,17 @@
    "group": "in_store",
    "city": "Saltillo",
    "region": "MX-COA",
-   "address": "25016 La pila 894 Colinas de Santiago Saltillo Coahuila de Zaragoza, Saltillo, MX-COA, 25016",
-   "phone": "8441760103",
+   "address": "894 La Pila, Saltillo, Coah., 25016, Mexico",
+   "phone": "528441760103",
+   "website": "https://www.facebook.com/share/18EvQAgDvV/",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "Flesh and Blood",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "La Poketienda MID",
@@ -3236,6 +3887,16 @@
    "region": "Gto.",
    "address": "Blvd. J. J. Torres Landa Ote. 2620, Zona Sapal Panteon, 37479 León de los Aldama, Gto.",
    "checked_at": "2026-10-15T20:12:24Z"
+  },
+  {
+   "name": "La Video Game Store",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "C. Manuel López Cotilla 373-int. 611, Zona Centro, 44100 Guadalajara, Jal.",
+   "phone": "33 3401 7663",
+   "website": "https://www.facebook.com/profile.php?id=61550551329088&mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "La vitrina del Coleccionista",
@@ -3342,6 +4003,26 @@
    "checked_at": "2026-10-15T20:12:30Z"
   },
   {
+   "name": "Librerías Iztaccíhuatl",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "José María Morelos número 437-Oriente, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 8358 7070",
+   "website": "https://www.facebook.com/LibreriasIztaccihuatl?locale=es_LA",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Librerías Kaiku Tijuana",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Blvd. Gustavo Díaz Ordaz 14910-Local 19A, Plaza, Las Brisas, 22115 Tijuana, B.C.",
+   "phone": "663 402 4349",
+   "website": "http://www.facebook.com/kaikutij",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Libro Centro",
    "group": "in_store",
    "city": "León de los Aldama",
@@ -3392,6 +4073,27 @@
    "checked_at": "2026-10-15T20:11:36Z"
   },
   {
+   "name": "Local Game Store - Tolarian Academy",
+   "group": "in_store",
+   "address": "1937 Calle 45 Pte., Puebla, Pue., 72410, Mexico",
+   "phone": "522226711174",
+   "website": "https://www.facebook.com/LocalGameStore",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Logan store",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "AV. Lopez Mateos sur 2375 Int Z24, Cd del Sol, 45050 Zapopan, Jal.",
+   "phone": "33 1761 9606",
+   "website": "https://www.facebook.com/Logan-Store-432933773454324/?ref=aymt_homepage_panel&eid=ARA0NXlvASvt8rLxrhjw4ML3De9YyjvizTiK90j3keKtkmuCWpnT_nC1gFc3eTaaBma7tlusO2Km66_w",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Lolos TCG collectibles",
    "group": "in_store",
    "city": "Aguascalientes",
@@ -3403,6 +4105,17 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:42Z"
+  },
+  {
+   "name": "Los Magios Tcg Storm",
+   "group": "in_store",
+   "address": "410 C. Fray Pedro de Gante, Texcoco de Mora, Méx., 56150, Mexico",
+   "phone": "527299318366",
+   "website": "https://www.facebook.com/Losmagiostcgstorm",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Los Tres Trolles",
@@ -3423,6 +4136,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:37Z"
+  },
+  {
+   "name": "Magia pa llevar",
+   "group": "in_store",
+   "address": "10 Paysandú, México D.F., CDMX, 07730, Mexico",
+   "phone": "+55 18052898",
+   "website": "https://www.facebook.com/share/nHH7Br9M8kPGZ93b/?mibextid=qi2Omg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Magia pa' llevar store",
@@ -3459,6 +4183,17 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:50Z"
+  },
+  {
+   "name": "Mana Crypt Boardgames & TCG",
+   "group": "in_store",
+   "address": "1507 Av José María Morelos JESÚS Y SAN JUAN, Ciudad de Apizaco, Tlaxcala, 90358, Mexico",
+   "phone": "522471081849",
+   "website": "https://www.facebook.com/ManaCryptBoardgamesTCG",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Mandrake",
@@ -3503,6 +4238,21 @@
    "region": "Qro.",
    "address": "Tierra Blanca 2, San Pablo, 76159 Santiago de Querétaro, Qro.",
    "checked_at": "2026-10-15T20:12:50Z"
+  },
+  {
+   "name": "Master Store",
+   "group": "in_store",
+   "city": "campeche",
+   "region": "MX-CAM",
+   "address": "Camargo No. 88 San Roman , campeche, MX-CAM, 24085",
+   "phone": "9811570245",
+   "website": "https://discord.gg/EVPe72F5gb",
+   "games_events": [
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:48Z"
   },
   {
    "name": "Mazomania",
@@ -3562,6 +4312,19 @@
    "checked_at": "2026-10-15T20:12:07Z"
   },
   {
+   "name": "Mental Games",
+   "group": "in_store",
+   "region": "Estado de México",
+   "address": "Avenida Huehuetoca, Manzana 23, Lote 1, Colonia Ex Hacienda San Miguel, Mexico City, Cuautitlan Izcalli, 54715, Mexico",
+   "phone": "554-447-0502",
+   "website": "https://www.instagram.com/mental_gms",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Mercadeando Toys Internacional (Monterrey)",
    "group": "in_store",
    "city": "Monterrey",
@@ -3583,13 +4346,14 @@
    "group": "in_store",
    "city": "Merida",
    "region": "MX-YUC",
-   "address": "C. 60 448-local 104 x 49 y, Parque Santa Lucia, 51 Colonia Centro, Merida, MX-YUC, 97000",
-   "phone": "9993090944",
+   "address": "Calle 60 #448 local 104 y 105 Colonia Centro, Merida, Yucatan, 97000, Mexico",
+   "phone": "529993090944",
    "website": "http://www.facebook.com/mgftcgstore",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
@@ -3604,18 +4368,40 @@
    "checked_at": "2026-10-16T21:45:09Z"
   },
   {
+   "name": "Mi Ardillosa Tienda",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 23 109, Buenavista, 97127 Mérida, Yuc.",
+   "phone": "999 250 4926",
+   "website": "https://www.facebook.com/MiArdillosaTienda/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Mi Lybro",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Blvd. Licenciado Héctor Terán Terán 1060, Jardin Dorado, 22200 Tijuana, B.C.",
+   "phone": "664 861 1850",
+   "website": "https://www.facebook.com/milybrotijuana/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Midgard Store",
    "group": "in_store",
    "city": "Zapopan",
    "region": "MX-JAL",
-   "address": "Rinconada de Los Ahuehuetes 25 Condoplaza del sol Local A100,, Zapopan, MX-JAL, 45800",
-   "phone": "3312498324",
+   "address": "Condoplaza del Sol, Rinconada de Los Ahuehuetes 25, Local A-100, Zapopan, JAL, 45055, Mexico",
+   "phone": "5233 3122 0519",
+   "website": "https://www.facebook.com/MidgardStoreGDL/",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Millenium TCG",
@@ -3642,13 +4428,14 @@
    "checked_at": "2026-10-15T20:12:29Z"
   },
   {
-   "name": "Mistery Chest",
+   "name": "ModRed shop Mérida",
    "group": "in_store",
-   "city": "México D.F.",
-   "region": "CDMX",
-   "address": "Av. Patriotismo 857-Loc 13, Insurgentes Mixcoac, Benito Juárez, 03920 Ciudad de México, CDMX",
-   "phone": "55 5298 3379",
-   "checked_at": "2026-10-16T21:45:07Z"
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 109 471d-x 52a, Dolores Otero, 97210 Mérida, Yuc.",
+   "phone": "999 157 9173",
+   "website": "https://www.facebook.com/Modredmerida",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "MoloComics",
@@ -3690,6 +4477,28 @@
    "checked_at": "2026-10-15T20:12:53Z"
   },
   {
+   "name": "Monster Sprim Lindavista",
+   "group": "in_store",
+   "address": "Cali 630 , México D.F., CDMX, 07300, MX",
+   "phone": "525616336037",
+   "website": "https://www.facebook.com/monster.sprim/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Moonlight Game Store",
+   "group": "in_store",
+   "address": "Av. Mollendo # 1003-B, Mexico, MEX, 07360, Mexico",
+   "phone": "5255-3887-6472",
+   "website": "https://www.facebook.com/MoonLightGameStore?mibextid=LQQJ4d",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "MORLO",
    "group": "in_store",
    "city": "LEON",
@@ -3713,6 +4522,16 @@
    "checked_at": "2026-10-15T20:09:50Z"
   },
   {
+   "name": "Mr. Cleims TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 31 202A, García Ginerés, 97070 Mérida, Yuc.",
+   "phone": "998 104 0580",
+   "website": "https://www.facebook.com/share/1Bg2J1Bjo7/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Mundo Toon",
    "group": "in_store",
    "city": "Reynosa",
@@ -3728,6 +4547,16 @@
    "checked_at": "2026-10-15T20:09:38Z"
   },
   {
+   "name": "Nectar Rabbit",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Av. Mártires de Chicago 509, Obrera 1a. Secc., 22625 Tijuana, B.C.",
+   "phone": "664 304 6174",
+   "website": "http://www.facebook.com/NectarRabbit",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Neko Dojo",
    "group": "in_store",
    "city": "Tlalnepantla",
@@ -3740,6 +4569,16 @@
    "checked_at": "2026-10-15T20:10:01Z"
   },
   {
+   "name": "Nekrozstore",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "Av. Lapizlázuli 2554, Bosques de La Victoria, 44540 Guadalajara, Jal.",
+   "phone": "33 2952 8750",
+   "website": "https://www.facebook.com/profile.php?id=61554978740917&mibextid=LQQJ4d",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Nessie Ensenada",
    "group": "in_store",
    "city": "El Sauzal de Rodríguez",
@@ -3750,6 +4589,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:35Z"
+  },
+  {
+   "name": "Nezhaplayroom",
+   "group": "in_store",
+   "address": "101 C. El Clavelero, Cdad. Nezahualcóyotl, Méx., 57000, Mexico",
+   "phone": "525593486668",
+   "website": "https://www.facebook.com/p/Nezha-Play-Room-61560066989320/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Nezhaplayroom \"El club de los 300\"",
@@ -3819,6 +4669,54 @@
    "checked_at": "2026-10-15T20:11:17Z"
   },
   {
+   "name": "Onegai Collector Puebla Sucursal Centro",
+   "group": "in_store",
+   "city": "Heroica Puebla de Zaragoza",
+   "region": "Pue.",
+   "address": "Calle 2 norte 602 centro historico, Plaza del coleccionista sucursal, Centro, 72000 Heroica Puebla de Zaragoza, Pue.",
+   "phone": "222 813 1389",
+   "website": "https://www.facebook.com/OnegaiCollectorPuebla/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "ONI ARENA TCG AND COLLECTIBLES STORE",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Av. Cochimies 6548-2A, Guaycura, 22216 Tijuana, B.C.",
+   "phone": "663 592 6717",
+   "website": "https://www.facebook.com/KID.MULTIVERSE",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Onigashima TCG & CAFE",
+   "group": "in_store",
+   "city": "xalapa",
+   "region": "MX-VER",
+   "address": "Cda. de Tapachula 51 col inmecafe, xalapa, MX-VER, 91067",
+   "phone": "2281775452",
+   "website": "https://www.facebook.com/OnigashimaTCGCAFE",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Orcs Stories",
+   "group": "in_store",
+   "address": "141 Av Pacífico Colonia Los Reyes Alcaldia Coyoacan, México D.F., CDMX, 04330, Mexico",
+   "phone": "525560701604",
+   "website": "https://www.facebook.com/OrcsStories",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Orko Games",
    "group": "in_store",
    "city": "Torreon",
@@ -3860,6 +4758,37 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Otaku Shop Tijuana",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Cjón De servicios 15168 C, Gas y Anexas, 22115 Tijuana, B.C.",
+   "phone": "661 105 3200",
+   "website": "https://www.facebook.com/Otaku-Shop-Tijuana-105932451981800/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Oveja Gris",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Eje Central Lázaro Cárdenas 10, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 7847 7268",
+   "website": "http://facebook.com/ovejagristcg",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Ozzi's Store",
+   "group": "in_store",
+   "address": "Av. Vicente Guerrero #84a, Tlaxcala, TLA, 90000, Mexico",
+   "phone": "522463956356",
+   "website": "https://www.facebook.com/share/wiWXyXVUPdTy41qa/?mibextid=qi2Omg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Pandora Ravagers",
    "group": "in_store",
    "city": "Ixmiquilpan",
@@ -3891,6 +4820,16 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Panini",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Blvd. Insurgentes 18015-Loc M16, Rio Tijuana 3ra Etapa, 22226 Tijuana, B.C.",
+   "phone": "664 688 8452",
+   "website": "https://instagram.com/tiendapaninitijuanamacroplaza?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Panini Cholula",
    "group": "in_store",
    "city": "San Andrés Cholula",
@@ -3900,17 +4839,23 @@
    "checked_at": "2026-10-15T20:11:55Z"
   },
   {
-   "name": "Papa Joey's Collectibles - National City",
+   "name": "Panini Comics Tecnocentro",
    "group": "in_store",
-   "address": "3030 Plaza Bonita Rd, National City, CA, 91950, United States",
-   "phone": "1619-773-6198",
-   "website": "https://papajoeys.com",
-   "buylist_url": "https://papajoeys.com/pages/trade",
-   "mail_in": false,
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:08Z"
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "Av. Miguel Hidalgo y Costilla 469-Piso 3, Centro Histórico, 44100 Guadalajara, Jal.",
+   "phone": "33 1001 8658",
+   "website": "http://www.facebook.com/PaniniTecnocentroGDL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Panini Point Oceanía",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av. del Peñón 355, Moctezuma 2da Secc, Venustiano Carranza, 15530 Ciudad de México, CDMX",
+   "website": "https://www.facebook.com/people/Tienda-Panini-Encuentro-Ocean%C3%ADa/100076188086003/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Phantom House",
@@ -3923,6 +4868,16 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Phantom TCG",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "en la, Benito Juárez 7971-local 113, Colonia Centro, 22000 Tijuana, B.C.",
+   "phone": "664 236 6745",
+   "website": "https://www.facebook.com/share/1Bdtva5vEw/?mibextid=wwXIfr",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Pichanchas Comics",
    "group": "in_store",
    "city": "México D.F.",
@@ -3932,17 +4887,24 @@
    "checked_at": "2026-10-15T20:11:07Z"
   },
   {
-   "name": "Players Check Point",
+   "name": "Pikardshop",
    "group": "in_store",
-   "city": "Puebla",
-   "region": "MX-PUE",
-   "address": "Calle Río Pánuco #5941 Colonia San Manuel CP 72570, Puebla, MX-PUE, 72570",
-   "phone": "2224020803",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av. Cuauhtémoc 190 A, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX",
+   "phone": "55 5477 6283",
+   "website": "https://www.facebook.com/Pikardshop/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Pilas cards",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "José Garibaldi, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 1784 5491",
+   "website": "https://www.facebook.com/profile.php?id=100063557502208&mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Players Check Point",
@@ -3951,10 +4913,11 @@
    "region": "Puebla",
    "address": "Río Pánuco 5941, Jardines de San Manuel, 72570 Heroica Puebla de Zaragoza, Pue., Mexico, Heroica Puebla de Zaragoza, Puebla, 72570",
    "phone": "+52 222 402 0803",
+   "website": "https://www.facebook.com/playersmx/",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Plaza del coleccionista",
@@ -4051,6 +5014,16 @@
    "checked_at": "2026-10-15T20:11:24Z"
   },
   {
+   "name": "Pokemid",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Calle 142 #571 x 63A y 63 B, Nora Quintana, 97238 Mérida, Yuc.",
+   "phone": "999 990 3420",
+   "website": "https://www.facebook.com/pokemid.store",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Pokemon Universe Mexico",
    "group": "in_store",
    "city": "Heroica Puebla de Zaragoza",
@@ -4069,6 +5042,26 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:10:04Z"
+  },
+  {
+   "name": "Pokeshop Center Mexico",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "ayuntamiento 115 Dentro del edificio noox, Ayuntamiento 115, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 9188 5951",
+   "website": "http://www.facebook.com/PokeshopCenterMexico/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Pokémon",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 105 462, entre 54 y 54 a, Dolores Otero, 97270 Mérida, Yuc.",
+   "phone": "999 437 9833",
+   "website": "https://www.facebook.com/papel.novedadesEE",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Pokétoy",
@@ -4118,6 +5111,16 @@
    "checked_at": "2026-10-15T20:09:50Z"
   },
   {
+   "name": "Predator comics",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "José Garibaldi 437-Loc 342, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 1041 0904",
+   "website": "https://www.facebook.com/predatormonterrey?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Procards México",
    "group": "in_store",
    "city": "Acapulco",
@@ -4159,6 +5162,16 @@
    "checked_at": "2026-10-15T20:12:00Z"
   },
   {
+   "name": "Pu-Pa Card Store",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Juan Nepomuceno 914-Loc 30, Villa del Juncal, 37180 León de los Aldama, Gto.",
+   "phone": "477 792 0595",
+   "website": "https://www.facebook.com/profile.php?id=61551113762007&mibextid=LQQJ4d",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "PUBLI-ARTE",
    "group": "in_store",
    "city": "San Pedro Garza García",
@@ -4168,12 +5181,14 @@
    "checked_at": "2026-10-15T20:11:47Z"
   },
   {
-   "name": "Raptor's Corp",
+   "name": "Purux Game Canek",
    "group": "in_store",
-   "city": "Heroica Puebla de Zaragoza",
-   "region": "Pue.",
-   "address": "Calle 17 Nte 801, Zona Sin Asignación de Nombre de Col 24, San Miguelito, 72090 Heroica Puebla de Zaragoza, Pue.",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C59b #423 x 140 y 142 Nora Quintana, Yucatán Caucel 97314, Nora Quintana, 97238 Mérida, Yuc.",
+   "phone": "999 411 3262",
+   "website": "https://www.facebook.com/share/16S21AtcHY/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Rapture Board Games",
@@ -4222,12 +5237,14 @@
    "group": "in_store",
    "city": "Tecate",
    "region": "MX-BCN",
-   "address": "150, Tecate, MX-BCN, 21400",
-   "phone": "6643185424",
+   "address": "1 C. Eufracio Santana, Tecate, B.C., 21410, Mexico",
+   "phone": "526643185424",
+   "website": "https://www.facebook.com/profile.php?id=61572282385296",
    "games_events": [
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Refugio de cartón",
@@ -4257,6 +5274,76 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
+   "name": "Retro Games Mérida",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 28 196-C-x 25 y 27, Francisco I. Madero, 97240 Mérida, Yuc.",
+   "phone": "999 346 9464",
+   "website": "https://www.facebook.com/share/14tUrBhxPJr/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Retro Shop TJ",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Calle Ing. Juan Ojeda Robles 140 B, Col Buena Vista, Buena Vista, 22415 Tijuana, B.C.",
+   "phone": "663 300 1204",
+   "website": "https://www.facebook.com/retroshoptj/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Retro World Mx",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Zona centro Puerto del centro, Centro, 37465 León de los Aldama, Gto.",
+   "phone": "477 286 2825",
+   "website": "https://www.facebook.com/RetroWorldMx/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "ReviloGames",
+   "group": "in_store",
+   "city": "Ciudad de México",
+   "region": "Ciudad de México",
+   "address": "112 C. 39, México D.F., CDMX, 09290, Mexico",
+   "phone": "525620382148",
+   "website": "https://www.facebook.com/ReviloGames",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "ROCKETS TCG & COLLECTIBLES",
+   "group": "in_store",
+   "city": "Culiacan",
+   "region": "MX-SIN",
+   "address": "115 RÍO QUELITE ESQUINA CON DOMINGO RUBÍ  , Culiacan, MX-SIN, 80220",
+   "phone": "6671518822",
+   "website": "https://www.instagram.com/rockets_cardshop",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Rockshop",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "Av. Manuel Ávila Camacho 2370, Jardines del Country, 44210 Guadalajara, Jal.",
+   "phone": "33 1250 0169",
+   "website": "https://www.instagram.com/leyendasmc.store/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Rookies",
    "group": "in_store",
    "city": "Zapopan",
@@ -4273,9 +5360,13 @@
    "group": "in_store",
    "city": "Playas de Rosarito",
    "region": "B.C.",
-   "address": "Av. Gral. Emiliano Zapata 18, Amp Reforma, 22703 Playas de Rosarito, B.C.",
-   "phone": "661 123 4358",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "address": "Av. Gral. Emiliano Zapata 18, Amp Reforma, Rosarito, Baja California, 22703, Mexico",
+   "phone": "526611234358",
+   "website": "https://www.facebook.com/Rosarito.gc",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Ruta Cards TCG",
@@ -4285,6 +5376,16 @@
    "address": "Av. Insurgentes Sur 377-503, Hipódromo, Cuauhtémoc, 06100 Cuauhtémoc, CDMX",
    "phone": "56 1074 0088",
    "checked_at": "2026-10-15T20:10:40Z"
+  },
+  {
+   "name": "saint fantasy anime, comic & tcg 2",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Av. Miguel Anzures 11565, Libertad, 22400 Tijuana, B.C.",
+   "phone": "664 251 4708",
+   "website": "http://facebook.com/saintfantasyanime",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Sakuragaoka",
@@ -4311,24 +5412,26 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "SANCTUM TCG & COLLECTORS VAULT",
+   "name": "Santuario Tcg",
    "group": "in_store",
    "city": "Mérida",
    "region": "Yuc.",
-   "address": "C. 3 A 278-Local 18, Francisco de Montejo, 97203 Mérida, Yuc.",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "address": "C. 104 437, Bojórquez, 97230 Mérida, Yuc.",
+   "website": "https://www.facebook.com/share/1CXy1BZVPw/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "Scion of the souls",
+   "name": "Seikō Kōun",
    "group": "in_store",
-   "city": "Ciudad de México",
-   "region": "Ciudad de México",
-   "address": "Av. Pedro Henríquez Ureña 521-local 7, Pedregal de Santo Domingo, Coyoacán, 04369 Ciudad de México, CDMX, Mexico, Ciudad de México, Ciudad de México, 04369",
-   "phone": "+52 55 6585 9011",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "668 Pisco, México D.F., CDMX, 07730, Mexico",
+   "phone": "525553927507",
+   "website": "https://www.facebook.com/profile.php?id=100076131445081&locale=es_LA",
    "games_events": [
-    "Flesh and Blood"
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Shadow Cards",
@@ -4365,6 +5468,23 @@
    "address": "Frikiplaza local 235 piso 2 Centro, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX",
    "phone": "55 1447 6756",
    "checked_at": "2026-10-15T20:10:41Z"
+  },
+  {
+   "name": "Shining Grounds",
+   "group": "in_store",
+   "city": "San Luis Rio Colorado",
+   "region": "MX-SON",
+   "address": "Cjon. Felix Contreras 7y8 #709, San Luis Rio Colorado, MX-SON, 83449",
+   "phone": "6531230090",
+   "website": "https://www.facebook.com/profile.php?id=61579091856924",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Shining Grounds",
@@ -4413,15 +5533,28 @@
    "group": "in_store",
    "city": "Tijuana",
    "region": "MX-BCN",
-   "address": "Gral. Anaya 521-c, Tijuana, MX-BCN, 22414",
-   "phone": "6645513213",
+   "address": "521-C Gral. Anaya , Tijuana, B.C., 22414, MX",
+   "phone": "526645513213",
+   "website": "https://www.facebook.com/ShinySecretsMX/",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
+    "Flesh and Blood",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Shivan sur",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Ajusco 46, Portales Sur, Benito Juárez, 03300 Ciudad de México, CDMX",
+   "phone": "55 1484 8292",
+   "website": "https://m.facebook.com/Shivanonline",
+   "checked_at": "2026-10-15T20:10:40Z"
   },
   {
    "name": "ShopAll Fans",
@@ -4430,6 +5563,16 @@
    "region": "Méx.",
    "address": "Av. Jesús del Monte 271, Jesus del Monte, 52764 Naucalpan de Juárez, Méx.",
    "checked_at": "2026-10-15T20:10:45Z"
+  },
+  {
+   "name": "Sky Pillar Cards",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Camino Real de Carretas 205-local 5, Lomas de Carretas, 76060 Santiago de Querétaro, Qro.",
+   "phone": "442 631 0525",
+   "website": "https://www.facebook.com/share/1EJ94SZBWz/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Slifer Red Store",
@@ -4459,6 +5602,26 @@
    "region": "Gto.",
    "address": "Pedro Moreno 113-Loc 7, Centro, 37000 León de los Aldama, Gto.",
    "checked_at": "2026-10-15T20:12:29Z"
+  },
+  {
+   "name": "Spartan Store",
+   "group": "in_store",
+   "address": "Calle: Guerrero Num. 708 Int. 20 Colonia:Zona Centro Irapuato, GUA  Mexico, Irapuato, GUA, 36500, Mexico",
+   "phone": "524621760321",
+   "website": "https://www.facebook.com/SpartanIrapuato",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "SPC (Super premium collectables)",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 7 451-Loc. 2 Pb, Col. Altabrisa, 97133 Mérida, Yuc.",
+   "website": "https://instagram.com/superpremiumcollectable?igshid=MzRlODBiNWFlZA==",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Spirit Games",
@@ -4493,6 +5656,36 @@
    "checked_at": "2026-10-15T20:10:45Z"
   },
   {
+   "name": "Steel Store TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 13 382-local 3 x 36 y 38, Buenavista, 97127 Mérida, Yuc.",
+   "phone": "999 739 9729",
+   "website": "https://www.facebook.com/profile.php?id=100077583434538",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "STORE FRIKI TCG & Videojuegos B-17 & B18",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Av. Mariano Otero 2768, Plaza del Sol, 45055, Lote ·23 metros, Palaza del sol, PlayCenter, 44100 Zapopan, Jal.",
+   "phone": "33 1023 5120",
+   "website": "https://www.facebook.com/STOREFRIKIOFICIAL?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Super Comics",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Balderas 12-Piso 3, Despacho 302, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 6469 5606",
+   "website": "https://www.facebook.com/SuperCom1cs/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "SuperCollectiblesMx punto Sur",
    "group": "in_store",
    "city": "Los Gavilanes",
@@ -4501,13 +5694,24 @@
    "checked_at": "2026-10-15T20:11:17Z"
   },
   {
-   "name": "TableTop Academy",
+   "name": "SWICH'S The Collector",
    "group": "in_store",
-   "city": "Santiago de Querétaro",
-   "region": "Qro.",
-   "address": "Palma Cyca 1902-Local 26, Palmares, 76127 Santiago de Querétaro, Qro.",
-   "phone": "446 420 0574",
-   "checked_at": "2026-10-16T21:45:09Z"
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Blvd. J. J. Torres Landa Ote. 4106-Loc 3, Sección Electoral 1581, Azteca, 37520 León de los Aldama, Gto.",
+   "phone": "477 662 4198",
+   "website": "https://www.facebook.com/profile.php?id=100083228317325",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Sword and Shield Cards",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Eje Central Lázaro Cárdenas 10, Centro Histórico de la Cdad. de México, Obrera, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 7545 0908",
+   "website": "https://www.facebook.com/share/1BE21PhzKm/?mibextid=qi2Omg",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Tadaima Macro Plaza",
@@ -4520,6 +5724,16 @@
    "checked_at": "2026-10-15T20:10:40Z"
   },
   {
+   "name": "Tadaima Tijuana",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Av constitución, Pje. Rodríguez entre tercera y cuarta, Zona Centro, 22000 Tijuana, B.C.",
+   "phone": "664 361 6171",
+   "website": "https://www.facebook.com/TadaimaTijuana/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tako Games",
    "group": "in_store",
    "city": "Guadalajara",
@@ -4530,6 +5744,15 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:10:01Z"
+  },
+  {
+   "name": "Tapu Tapu Store",
+   "group": "in_store",
+   "city": "Guadalupe",
+   "region": "N.L.",
+   "address": "Av. Pablo Livas 2103 A, La Quinta, 67170 Guadalupe, N.L.",
+   "website": "https://www.facebook.com/TapuTapuStore",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Taunt Arena",
@@ -4553,6 +5776,15 @@
    "checked_at": "2026-10-15T20:10:40Z"
   },
   {
+   "name": "Tcg Blofitos",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Eje Central Lázaro Cárdenas 10-Loc 8D, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "website": "http://www.facebook.com/Blofitos",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "TCG Danger Store",
    "group": "in_store",
    "city": "México D.F.",
@@ -4560,6 +5792,16 @@
    "address": "Eje Central Lázaro Cárdenas 12, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
    "phone": "56 4791 6367",
    "checked_at": "2026-10-15T20:10:41Z"
+  },
+  {
+   "name": "TCG Dimension",
+   "group": "in_store",
+   "city": "Guadalajara",
+   "region": "Jal.",
+   "address": "Av. Miguel Hidalgo y Costilla 469-Local C-66 y, C-67, 44100 Guadalajara, Jal.",
+   "phone": "33 2794 9096",
+   "website": "https://www.instagram.com/tcgdimension/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TCG Lab GDL",
@@ -4614,17 +5856,28 @@
    "checked_at": "2026-10-16T21:45:02Z"
   },
   {
+   "name": "TCG Shadow Cards",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "FC Hidalgo 171, Vasco de Quiroga, Gustavo A. Madero, 07740 Ciudad de México, CDMX",
+   "phone": "55 1220 6194",
+   "website": "https://www.facebook.com/people/TCG-Shadow-Cards/100065701412362/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "TCG STADIUM OBISPADO",
    "group": "in_store",
    "city": "MONTERREY",
    "region": "MX-NLE",
    "address": "FRANCISCO GARZA SADA 2940, LOCAL 305, 64040 DEPORTIVO OBISPADO, MONTERREY, MX-NLE, 64040",
    "phone": "8181815042",
+   "website": "http://facebook.com/tcgstadium.mty",
    "games_events": [
     "DIGIMON CARD GAME (EN)",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-15T20:10:01Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TCG Stadium Vending Machine",
@@ -4633,6 +5886,17 @@
    "region": "N.L.",
    "address": "Av. Real San Agustin 314, Residencial San Agustín 1er Sector, 66260 San Pedro Garza García, N.L.",
    "checked_at": "2026-10-15T20:11:34Z"
+  },
+  {
+   "name": "TCG TEPA",
+   "group": "in_store",
+   "address": "240 C. Félix Ramos, Tepatitlán de Morelos, Jal., 47600, Mexico",
+   "phone": "523781140074",
+   "website": "https://www.facebook.com/share/v/16nnAG54FE/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TCG Treehouse",
@@ -4683,6 +5947,16 @@
    "checked_at": "2026-10-15T20:10:36Z"
   },
   {
+   "name": "Tena Comics",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Balderas 12-interior 201, Colonia Centro, Centro, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+   "phone": "55 7658 5044",
+   "website": "https://www.facebook.com/TenaComics/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tensei Store & Cafe",
    "group": "in_store",
    "city": "Pachuca de Soto",
@@ -4693,6 +5967,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:45:02Z"
+  },
+  {
+   "name": "Tenumi Comics Merida",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 64 500A-x 59 y 61, Centro, 97000 Mérida, Yuc.",
+   "phone": "999 107 0555",
+   "website": "http://www.facebook.com/tenumicomicsmerida",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Texcoco TCG League",
@@ -4731,6 +6015,17 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:42Z"
+  },
+  {
+   "name": "The Base TCG",
+   "group": "in_store",
+   "address": "14078 Laureles, Camichin, Tijuana, B.C., 22106, Mexico",
+   "phone": "526647253499",
+   "website": "https://www.instagram.com/thebasetcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "The Base TCG Store",
@@ -4772,6 +6067,16 @@
    "checked_at": "2026-10-15T20:12:24Z"
   },
   {
+   "name": "The Friki Place Shop",
+   "group": "in_store",
+   "city": "Monterrey",
+   "region": "N.L.",
+   "address": "José Garibaldi 437, Centro, 64000 Monterrey, N.L.",
+   "phone": "81 2643 0961",
+   "website": "https://www.facebook.com/thefrikiplaceshop/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "The Futura Games",
    "group": "in_store",
    "city": "Tijuana",
@@ -4793,6 +6098,16 @@
     "Flesh and Blood",
     "GUNDAM CARD GAME (EN)"
    ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "The Hobby Store TCG",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Av Jose Diaz Bolio 120-por 24, Col. México, México, 97125 Mérida, Yuc.",
+   "phone": "999 125 3995",
+   "website": "https://www.facebook.com/share/1C9Chs7b9b/?mibextid=wwXIfr",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -4844,13 +6159,14 @@
    "group": "in_store",
    "city": "Benito Juarez",
    "region": "MX-CMX",
-   "address": "Calzada de Tlalpan 1263, Benito Juarez, MX-CMX, 03660",
+   "address": "1263 Calz. de Tlalpan, México D.F., CDMX, 03660, Mexico",
    "phone": "5510433443",
    "website": "https://www.facebook.com/The-TOWER-TCG-STORE-102267159292632/",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
@@ -4878,15 +6194,17 @@
    "group": "in_store",
    "city": "Ciudad de México",
    "region": "MX-CMX",
-   "address": "Canal de Miramontes 2600 Local D 105, Ciudad de México, MX-CMX, 04830",
-   "phone": "5548320264",
+   "address": "2600 Avenida Calle de Miramontes Local C. D-105 Planta Alta, México D.F., CDMX, 04830, Mexico",
+   "phone": "525556849970",
+   "website": "https://www.instagram.com/thunderempireshop",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Tianguis del Tepe",
@@ -4968,6 +6286,26 @@
    "checked_at": "2026-10-15T20:12:50Z"
   },
   {
+   "name": "Tienda Panini Campestre",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Blvd. Campestre 105, Jardines del Moral, 37160 León de los Aldama, Gto.",
+   "phone": "477 947 1961",
+   "website": "https://www.facebook.com/paninipointleon/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Tienda Panini Cumbres",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Océano Índico 402, Cumbres de la Pradera, El Granjeno, 37550 León de los Aldama, Gto.",
+   "phone": "477 947 1961",
+   "website": "https://www.facebook.com/paninipointleon/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tienda Panini Galerias",
    "group": "in_store",
    "city": "Leon",
@@ -4977,6 +6315,16 @@
    "checked_at": "2026-10-15T20:12:22Z"
   },
   {
+   "name": "Tienda Panini Mérida",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "calle 49 Camara de comercio #308 local 8 x 40 y 42, Villas la Hacienda, 97119 Mérida, Yuc.",
+   "phone": "999 107 0555",
+   "website": "http://www.facebook.com/tiendapaninimerida/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tienda Panini Mérida Centro",
    "group": "in_store",
    "city": "Centro",
@@ -4984,6 +6332,15 @@
    "address": "C. 64 500C, Centro, 97000 Centro, Yuc.",
    "phone": "999 107 0555",
    "website": "http://www.facebook.com/tiendapaninimeridacentro/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Tienda Panini Parque Jardin",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av. Jardín 330, Col del Gas, Azcapotzalco, 02950 Ciudad de México, CDMX",
+   "website": "https://www.facebook.com/TiendaPaniniParqueJardin",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -5002,6 +6359,16 @@
    "region": "N.L.",
    "address": "Av Hacienda de Peñuelas 8681-Loc 1160, Cumbres Las Palmas Residencial, 64619 Monterrey, N.L.",
    "checked_at": "2026-10-15T20:11:47Z"
+  },
+  {
+   "name": "Tienda Panini Plaza del Sol",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Av. Adolfo López Mateos Sur Local 31A Zona A, Rinconada del Sol, 45050 Zapopan, Jal.",
+   "phone": "33 3160 6558",
+   "website": "https://www.facebook.com/TiendaPaniniPlazadelSol",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Tienda PANINI Sucursal San Pedro",
@@ -5027,13 +6394,15 @@
    "group": "in_store",
    "city": "Mérida",
    "region": "MX-YUC",
-   "address": "C. 22 10, entre 1G y 1H, Residencial Montecristo, Mérida, MX-YUC, 97133",
-   "phone": "9995452197",
+   "address": "10 C. 22, Mérida, Yuc., 97128, Mexico",
+   "phone": "52999-236-0003",
+   "website": "http://www.facebook.com/TimeVaultMID",
    "games_events": [
     "Flesh and Blood",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TIME WIZARD TCG",
@@ -5060,12 +6429,32 @@
    "checked_at": "2026-10-15T20:12:50Z"
   },
   {
+   "name": "Tochtli TCG",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Calle Ignacio Zaragoza Lote Falle, Colonia centro, 22010 Tijuana, B.C.",
+   "phone": "661 111 6011",
+   "website": "https://www.instagram.com/tochtli_tcg?igsh=MTg3cThsNmNmaDZrMw==&utm_source=qr",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tolarian Academy - LGS",
    "group": "in_store",
    "city": "Heroica Puebla de Zaragoza",
    "region": "Pue.",
    "address": "Calle 45 Pte. 1937, Reserva Territorial Atlixcáyotl, La Noria, 72410 Heroica Puebla de Zaragoza, Pue.",
    "checked_at": "2026-10-15T20:11:52Z"
+  },
+  {
+   "name": "Tony's Store",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Plaza Atenas Local 5C, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+   "phone": "55 3904 8054",
+   "website": "https://www.facebook.com/share/1FFG3DwDUA/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TOON CHAOS STORE",
@@ -5083,18 +6472,11 @@
   {
    "name": "Top Deck Hobby Store",
    "group": "in_store",
-   "city": "GUADALUPE",
-   "region": "MX-NLE",
    "address": "Eje Central Lazaro Cardenas #12, Piso 4, Local 406 Plaza Pikashop, Cuauhtémoc, CDMX, 06020, Mexico",
    "phone": "525515435791",
    "website": "https://www.facebook.com/topdeckhobbystore",
    "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
   },
@@ -5113,12 +6495,24 @@
    "group": "in_store",
    "city": "Ciudad de México",
    "region": "Ciudad de México",
-   "address": "Av. Universidad 790, Sta Cruz Atoyac, Benito Juárez, 03310 Ciudad de México, CDMX, Mexico, Ciudad de México, Ciudad de México, 03310",
-   "phone": "+52 55 7598 8227",
+   "address": "Avenidad Universidad #790, Sótano 1, Local 4,, Benito Juarez, DIF, 03310, Mexico",
+   "phone": "52557-598-8227",
+   "website": "https://www.facebook.com/@TotemTCG",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Totem TCG",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Avenida Universidad 790 Sótano 1, Av. Emiliano Zapata Loc 4, Sta Cruz Atoyac, Benito Juárez, 03310 Ciudad de México, CDMX",
+   "phone": "55 7598 8227",
+   "website": "https://www.facebook.com/TotemTCG",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Toys Mérida",
@@ -5130,16 +6524,37 @@
    "checked_at": "2026-10-15T20:12:58Z"
   },
   {
+   "name": "Toysworld coleccionables",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "C. del Fuego 510, Jardines del Moral, 37160 León de los Aldama, Gto.",
+   "phone": "477 928 0394",
+   "website": "https://www.facebook.com/Toysworld-Coleccionables-458520440979547/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Toñoland Comics, Mangas y Coleccionables",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av. Ermita Iztapalapa SN Esq, Puesto de periódicos, Avena, Granjas Esmeralda, Iztapalapa, 09810 Ciudad de México, CDMX",
+   "website": "https://www.facebook.com/share/1AAJBVrSaJ/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Trade Ing. Games",
    "group": "in_store",
    "city": "Tlapacoya, ixtapaluca",
    "region": "MX-MEX",
-   "address": "5657, Tlapacoya, 56577 Tlapacoya, Méx., Mexico, Tlapacoya, ixtapaluca, MX-MEX, 56530",
-   "phone": "5545125613",
+   "address": "BLV. Cuahutemoc # 55. Tlapacoya, 56577 Tlapacoya, Ixtapaluca, Estado de Mexico, 56560, Mexico",
+   "phone": "525545125613",
+   "website": "https://www.facebook.com/TradeInggames?mibextid=ZbWKwL",
    "games_events": [
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Trading Card Gaming Empire",
@@ -5151,6 +6566,26 @@
    "checked_at": "2026-10-15T20:11:17Z"
   },
   {
+   "name": "Trading Card Market México",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Av. Adolfo López Mateos Sur 2375-Local Z29, Plaza del Sol, 45055 Zapopan, Jal.",
+   "website": "https://www.facebook.com/tradingcardmarketmx/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Twinky Hobbies",
+   "group": "in_store",
+   "address": "Altamirano #411, Irapuato, Gto, 36510, Mexico",
+   "phone": "524621147400",
+   "website": "https://www.facebook.com/profile.php?id=61573584864892",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Twisted Games loc 167",
    "group": "in_store",
    "city": "Tijuana",
@@ -5159,16 +6594,28 @@
    "checked_at": "2026-10-15T20:12:02Z"
   },
   {
+   "name": "Twisted Games local 167",
+   "group": "in_store",
+   "city": "Tijuana",
+   "region": "B.C.",
+   "address": "Segunda 7971, Zona Centro, 22000 Tijuana, B.C.",
+   "phone": "664 137 8289",
+   "website": "https://www.facebook.com/TwistedGamesTj?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Tyrant Store",
    "group": "in_store",
    "city": "Queretaro",
    "region": "MX-QUE",
-   "address": "Avenida Universidad 123, Plaza kokis local 10, Colonia Centro, Queretaro, Queretaro, México, Queretaro, MX-QUE, 76000",
-   "phone": "4428134456",
+   "address": "123 Avenida Universidad Plaza Kokis Local 10, Santiago de Querétaro, Qro., 76000, Mexico",
+   "phone": "524428134456",
+   "website": "https://www.facebook.com/share/1B7Y9nMeW9/",
    "games_events": [
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Tyrant store",
@@ -5305,6 +6752,17 @@
    "checked_at": "2026-10-15T20:10:53Z"
   },
   {
+   "name": "Usagi Store",
+   "group": "in_store",
+   "address": "Av. Nezahualcóyotl No. 199, Plaza Amatista, Planta Alta, Local #12, Texcoco de Mora Centro, Estado de Mexico, 56100, Mexico",
+   "phone": "525613732874",
+   "website": "https://www.facebook.com/p/Usagi-Store-Texcoco-100084169652434/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Utopia Comics",
    "group": "in_store",
    "city": "Rita",
@@ -5351,6 +6809,20 @@
    "checked_at": "2026-10-15T20:11:39Z"
   },
   {
+   "name": "Versus",
+   "group": "in_store",
+   "city": "Naucalpan de Juarez",
+   "region": "MX-MEX",
+   "address": "Blvd. Adolfo López Mateos #20 Loc. 112-A, Naucalpan de Juarez, MEX, 53279, Mexico",
+   "phone": "5255-7258-1223",
+   "website": "https://www.facebook.com/versustienda/",
+   "games_events": [
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "VF Collectibles",
    "group": "in_store",
    "city": "Monterrey",
@@ -5367,6 +6839,16 @@
    "address": "Mercado de Todos, Blvd. Gustavo Díaz Ordaz 1665-Manzana 12, Lopez, 22105 Tijuana, B.C.",
    "phone": "664 609 4776",
    "checked_at": "2026-10-15T20:12:02Z"
+  },
+  {
+   "name": "Videojuegos ROA",
+   "group": "in_store",
+   "city": "León de los Aldama",
+   "region": "Gto.",
+   "address": "Hermanos Aldama 205-int 12, Centro, 37000 León de los Aldama, Gto.",
+   "phone": "477 299 2156",
+   "website": "https://www.facebook.com/videojuegosroa/",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Vip comics",
@@ -5415,10 +6897,12 @@
    "city": "Mérida",
    "region": "Yucatán",
    "address": "Prol. Paseo Montejo 454-B-local 9, Itzimná, 97100 Mérida, Yuc., Mexico, Mérida, Yucatán, 97100",
+   "phone": "999 948 2235",
+   "website": "https://www.instagram.com/wafflehangartcg?igsh=MTJrdm94cmtiZ2RjcQ==&utm_source=qr",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-15T20:10:36Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "WANTED TCG",
@@ -5439,6 +6923,36 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:25Z"
+  },
+  {
+   "name": "WarDraW",
+   "group": "in_store",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "Segundo piso de la Plaza Quijote, C. 50 367-Loc 5, entre 53 F y 53 E, Francisco de Montejo, 97203 Mérida, Yuc.",
+   "website": "https://www.facebook.com/WarDraWMID?mibextid=ZbWKwL",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "White lotus",
+   "group": "in_store",
+   "city": "Zapopan",
+   "region": "Jal.",
+   "address": "Plaza concord, Av Manuel J. Clouthier 440, Lomas de Guadalupe, 45039 Zapopan, Jal.",
+   "phone": "998 183 1397",
+   "website": "https://www.facebook.com/share/4Y8HV1qpbw7pnGDy/?mibextid=qi2Omg",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "WHQ",
+   "group": "in_store",
+   "address": "1305 Montes Berneses, San Nicolás de los Garza, N.L., 66414, Mexico",
+   "phone": "8114203618",
+   "website": "https://www.facebook.com/Gogorkia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "World Of Collectible Games",
@@ -5494,6 +7008,16 @@
    "checked_at": "2026-10-15T20:10:59Z"
   },
   {
+   "name": "XFORCEMANIA",
+   "group": "in_store",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "06050, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX",
+   "phone": "55 3011 1263",
+   "website": "https://www.instagram.com/xforce_mania/profilecard/?igsh=MWI2ZDlvY3pjaGJteA==",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "YGOENs",
    "group": "in_store",
    "city": "Ensenada",
@@ -5513,6 +7037,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:18Z"
+  },
+  {
+   "name": "Yoshio Store",
+   "group": "in_store",
+   "address": "49-A Ramón Corona, Zapopan, Jal., 45190, Mexico",
+   "phone": "523319626871",
+   "website": "https://www.facebook.com/yoshio.store",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Yubari King",
@@ -5547,12 +7082,14 @@
    "group": "in_store",
    "city": "Juárez",
    "region": "Ciudad de México",
-   "address": "C. Lucerna 6, Juárez, Cuauhtémoc, 06600 Juárez, CDMX, Mexico, Juárez, Ciudad de México, 06600",
-   "phone": "+52 55 1707 6005",
+   "address": "7 Ignacio L. Vallarta, México D.F., CDMX, 06030, Mexico",
+   "phone": "5517076005",
+   "website": "https://www.facebook.com/zombielambgaming?locale=es_LA",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Zona Freak",
@@ -5576,19 +7113,30 @@
    "checked_at": "2026-10-15T20:10:11Z"
   },
   {
+   "name": "Zorrito Rojo",
+   "group": "in_store",
+   "city": "Guadalupe",
+   "region": "N.L.",
+   "address": "Mixcoac 113B, Josefa Zozaya (Zozayita), 67114 Guadalupe, N.L.",
+   "website": "https://www.facebook.com/share/161tZGdE7E/",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Zuperior Games",
    "group": "in_store",
    "city": "CDMX",
    "region": "MX-CMX",
-   "address": "Eje Central Lázaro Cárdenas 908 Piso 2, Col. Periodista, Benito Juárez, 03620 Ciudad de México, CDMX, CDMX, MX-CMX, 14330",
-   "phone": "5620815582",
+   "address": "Eje Central Lázaro Cárdenas, México D.F., CDMX, 03620, MX",
+   "phone": "555523472588",
+   "website": "https://www.facebook.com/profile.php?id=100092617737035",
    "games_events": [
     "DBSCG FUSION WORLD (EN)",
     "DIGIMON CARD GAME (EN)",
     "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
     "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "ZuperiorGames",
@@ -5596,8 +7144,17 @@
    "city": "México D.F.",
    "region": "CDMX",
    "address": "Eje Central Lázaro Cárdenas 908, Periodista, Benito Juárez, 03620 Ciudad de México, CDMX",
-   "phone": "55 3011 1263",
    "website": "http://www.instagram.com/zuperiorgames",
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Ávalon Games Store",
+   "group": "in_store",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "Calle Miguel Hidalgo 75,Centro, 76000 Santiago de Querétaro, Qro., Centro Historico, Centro, 76000 Santiago de Querétaro, Qro.",
+   "phone": "442 783 5217",
+   "website": "https://www.facebook.com/AvalonGamesStore/",
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
@@ -5710,14 +7267,11 @@
   {
    "name": "Veinte Natural TCG",
    "group": "not_buying_singles",
-   "city": "Mérida",
-   "region": "Yucatán",
    "address": "Av. Insurgentes Nte. 1681, Patio Fortuna, 2da piso, Ciudad de México, CDMX, 07800, Mexico",
    "phone": "525541833643",
    "website": "https://linktr.ee/veintenatural.tcg",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
@@ -5865,6 +7419,8 @@
   {
    "name": "Arcana Juegos y Hobbies",
    "group": "unknown",
+   "city": "León de los Aldama",
+   "region": "Gto.",
    "address": "Vasco de Quiroga #100, Zona Recreativa y Cultural Plaza Stadium L9, Colonia La Martinica, León, Guanajuato, 37500, Mexico",
    "phone": "52479-308-1709",
    "website": "https://arcana.mx/",
@@ -5901,17 +7457,6 @@
    "checked_at": "2026-10-15T20:11:35Z"
   },
   {
-   "name": "At Ease Games",
-   "group": "unknown",
-   "address": "8400 Miramar Rd, San Diego, CA, 92126, United States",
-   "phone": "1858-549-4263",
-   "website": "https://ateasegames.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:14Z"
-  },
-  {
    "name": "Atomic Store",
    "group": "unknown",
    "city": "La Purisima",
@@ -5935,18 +7480,46 @@
    "checked_at": "2026-10-15T20:08:48Z"
   },
   {
+   "name": "Bacán Hobby Store",
+   "group": "unknown",
+   "address": "386 Calle Victoria, Lagos de Moreno, Jalisco, 47400, Mexico",
+   "phone": "52449-548-7022",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Battle Stadium TCG",
+   "group": "unknown",
+   "city": "MERIDA",
+   "region": "MX-YUC",
+   "address": "366 Calle 54 entre 36 y 39, Mérida, Yuc., 97000, Mexico",
+   "phone": "529997462812",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "DBSCG FUSION WORLD (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Battle Stadium TCG",
    "group": "unknown",
    "city": "Mérida",
    "region": "Yucatán",
    "address": "Calle 54 366, entre 37 y 39, Centro, 97000 Mérida, Yuc., Mexico, Mérida, Yucatán, 97000",
    "phone": "999 249 1988",
-   "website": "https://chat.whatsapp.com/CMMr87lDhwHH69tCo1OtVm",
+   "website": "https://chat.whatsapp.com/I9GZteTj5mi9avnh8THPLN",
    "buylist_url": "https://chat.whatsapp.com/buylist",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-16T21:45:09Z"
   },
   {
    "name": "Bookup Monterrey",
@@ -5957,6 +7530,17 @@
    "phone": "81 1101 8064",
    "website": "https://www.bookup.com.mx/",
    "checked_at": "2026-10-15T20:11:47Z"
+  },
+  {
+   "name": "Cafeteria Ludoteca Fantastica",
+   "group": "unknown",
+   "address": "Av. Candelaria, Blvrd Ojo de Agua Mz. 66, Ciudad de México, Méx., 55770, MX",
+   "phone": "525543614475",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Cambios Gamer",
@@ -6017,15 +7601,14 @@
   {
    "name": "CardMart",
    "group": "unknown",
-   "city": "Zapopan",
-   "region": "MX-JAL",
+   "city": "Ciudad de México",
+   "region": "Ciudad de México",
    "address": "104 Av Chapultepec Local 37, México D.F., CDMX, 06700, Mexico",
    "phone": "525657364297",
    "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "Magic: The Gathering",
-    "ONE PIECE CARD GAME (EN)"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:25Z"
   },
@@ -6238,6 +7821,20 @@
    "checked_at": "2026-10-15T20:08:38Z"
   },
   {
+   "name": "Codex Arcana",
+   "group": "unknown",
+   "city": "Mérida",
+   "region": "Yucatán",
+   "address": "Calle 53 #534a x70 y 72 Colonia Centro. Barrio de Santiago, Mérida, Yucatán, 97000, Mexico",
+   "phone": "52999359353529",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Coleccionables AD",
    "group": "unknown",
    "city": "México D.F.",
@@ -6266,6 +7863,20 @@
    "checked_at": "2026-10-15T20:12:42Z"
   },
   {
+   "name": "ColeccionaMX - Oxkutzcab",
+   "group": "unknown",
+   "city": "Oxkutzcab",
+   "region": "MX-YUC",
+   "address": "Locales HOTEL PUUC, Calle 55 #80 entre 44 y 46, Centro, Oxkutzcab, YUCATÁN, 97880, Mexico",
+   "phone": "529833384764",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Coleccionistas y Autógrafos La Gran Plaza y la Perla",
    "group": "unknown",
    "city": "Zapopan",
@@ -6274,19 +7885,6 @@
    "phone": "33 1243 1620",
    "website": "https://coleccionistasyautografos.com/",
    "checked_at": "2026-10-15T20:11:22Z"
-  },
-  {
-   "name": "collector realm",
-   "group": "unknown",
-   "city": "Miguel Hidalgo",
-   "region": "MX-CMX",
-   "address": "Gutenberg 232, Anzures, Miguel Hidalgo, CDMX, Miguel Hidalgo, MX-CMX, 11590",
-   "phone": "5582331356",
-   "website": "https://collectorrealm.mx/",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
   },
   {
    "name": "Collector Realm",
@@ -6420,15 +8018,37 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "DBA Main Street Collectibles",
+   "name": "Dark Store La Roma",
    "group": "unknown",
-   "address": "1501 India St, San Diego, CA, 92101-2246, United States",
-   "phone": "16198160642",
-   "website": "https://mainstreetcollectibles.com",
+   "city": "CUAUHTEMOC",
+   "region": "MX-CMX",
+   "address": "Monterrey 271, 3° piso, Col. Roma Sur, esquina con Aguascalientes, Ciudad de México, DIF, 06720, Mexico",
+   "phone": "5255-5512-2378",
+   "website": "https://magic.wizards.com/en",
    "games_events": [
-    "Magic: The Gathering"
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
    ],
-   "checked_at": "2026-10-15T20:09:09Z"
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Deathstar Games",
+   "group": "unknown",
+   "city": "Zapopan",
+   "region": "MX-JAL",
+   "address": "1150 Av. Patria, Zapopan, Jal., 45054, Mexico",
+   "phone": "52 33 49199241",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Decks y Mazos",
@@ -6474,17 +8094,6 @@
     "ONE PIECE CARD GAME (EN)"
    ],
    "checked_at": "2026-10-15T20:09:50Z"
-  },
-  {
-   "name": "Ditz Hobby & Games",
-   "group": "unknown",
-   "address": "12344 Oak Knoll Rd, Poway, CA, 92064, United States",
-   "phone": "(858) 253-6063",
-   "website": "https://www.ditzhobbygames.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:14Z"
   },
   {
    "name": "DNX Collectibles",
@@ -6556,6 +8165,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:10:05Z"
+  },
+  {
+   "name": "Drollbox",
+   "group": "unknown",
+   "address": "307 Moyobamba, México D.F., CDMX, 07369, Mexico",
+   "phone": "52564-373-2332",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Duel Zone",
@@ -6781,6 +8401,17 @@
    "checked_at": "2026-10-15T20:11:21Z"
   },
   {
+   "name": "Friki House MX",
+   "group": "unknown",
+   "address": "av reforma 1705 local 4 col cd deportiva cp, irapuato, Guanajuato, 36612, Mexico",
+   "phone": "524621499353",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Friki Plaza",
    "group": "unknown",
    "city": "Cuauhtémoc",
@@ -6819,20 +8450,6 @@
    "checked_at": "2026-10-15T20:10:38Z"
   },
   {
-   "name": "Galactic Cards",
-   "group": "unknown",
-   "city": "Tijuana",
-   "region": "MX-BCN",
-   "address": "C. Uxmal 21081 Mariano Matamoros, Tijuana, MX-BCN, 22234",
-   "phone": "6645700057",
-   "website": "https://distributor.bandai-tcg-plus.com/#/register/organizer",
-   "games_events": [
-    "GUNDAM CARD GAME (EN)",
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
    "name": "Game Cool! Videojuegos y Coleccionables",
    "group": "unknown",
    "city": "Santiago de Querétaro",
@@ -6851,17 +8468,6 @@
    "phone": "442 241 2664",
    "website": "https://www.gamecool.mx/",
    "checked_at": "2026-10-15T20:12:35Z"
-  },
-  {
-   "name": "Game Empire - San Diego",
-   "group": "unknown",
-   "address": "5037 Shawline St, San Diego, CA, 92111-1022, United States",
-   "phone": "1858-576-1525",
-   "website": "https://www.gameempire.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:12Z"
   },
   {
    "name": "Game Zone Mx",
@@ -6937,17 +8543,6 @@
    "checked_at": "2026-10-15T20:11:28Z"
   },
   {
-   "name": "GameRave",
-   "group": "unknown",
-   "address": "Ste K, San Diego, CA, 92110-4922, United States",
-   "phone": "1(619) 224-3387",
-   "website": "http://www.gamerave.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:09Z"
-  },
-  {
    "name": "Gamesmart",
    "group": "unknown",
    "city": "Benito Juarez",
@@ -7015,6 +8610,17 @@
    "phone": "55 5913 1318",
    "website": "http://www.globalcomics.com.mx/en/home",
    "checked_at": "2026-10-15T20:10:51Z"
+  },
+  {
+   "name": "Goblin Cards Store - Guanajuato",
+   "group": "unknown",
+   "address": "Cantarranas #5 int 3A planta alta col centro, Guadalajara, Jal, 44829, Mexico",
+   "phone": "524771371597",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Goblin Cards Store - León",
@@ -7122,33 +8728,6 @@
    "phone": "81 1169 4739",
    "website": "https://hobby-depot.ueniweb.com/?utm_campaign=gmb",
    "checked_at": "2026-10-15T20:11:49Z"
-  },
-  {
-   "name": "Hobby Mart",
-   "group": "unknown",
-   "city": "Ciudad de México",
-   "region": "Ciudad de México",
-   "address": "C. Milton 2, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, Mexico, Ciudad de México, Ciudad de México, 11590",
-   "phone": "+52 55 5250 7501",
-   "website": "https://hobby-mart.mx/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
-   "name": "Hobby Quest",
-   "group": "unknown",
-   "city": "Monterrey",
-   "region": "Nuevo León",
-   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
-   "phone": "52 (812) 139-1188",
-   "website": "https://www.hobbyquest.mx",
-   "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
   },
   {
    "name": "HobbyMania/ZMANIACOMICS",
@@ -7374,22 +8953,6 @@
    "checked_at": "2026-10-15T20:08:52Z"
   },
   {
-   "name": "Kantocards",
-   "group": "unknown",
-   "city": "Monterrey",
-   "region": "MX-NLE",
-   "address": "Filósofos 207 local 5, Colonia Tecnologico, Monterrey, MX-NLE, 64700",
-   "phone": "8231092701",
-   "website": "https://kantocards.com/",
-   "games_events": [
-    "DBSCG FUSION WORLD (EN)",
-    "DBSCG MASTERS (EN)",
-    "DIGIMON CARD GAME (EN)",
-    "GUNDAM CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
    "name": "Kauyumari Games",
    "group": "unknown",
    "city": "Zapopan",
@@ -7431,14 +8994,31 @@
   {
    "name": "KINGSTORE",
    "group": "unknown",
-   "city": "Monterrey",
-   "region": "Nuevo León",
+   "city": "GUADALUPE",
+   "region": "MX-NLE",
    "address": "1304 Benito Juárez La Hacienda Guadalupe, Monterrey, N.L., 67155, MX",
    "phone": "528115115703",
    "website": "https://www.kingstore.com.mx/",
    "games_events": [
-    "Flesh and Blood",
-    "Magic: The Gathering"
+    "DBSCG FUSION WORLD (EN)",
+    "DBSCG MASTERS (EN)",
+    "DIGIMON CARD GAME (EN)",
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:58Z"
+  },
+  {
+   "name": "KINGSTORE",
+   "group": "unknown",
+   "city": "Monterrey",
+   "region": "Nuevo León",
+   "address": "Benito Juárez 1304, La Hacienda, 67155 Monterrey, N.L., Mexico, Monterrey, Nuevo León, 67155",
+   "phone": "+52 81 15115703",
+   "website": "https://www.kingstore.com.mx/",
+   "games_events": [
+    "Flesh and Blood"
    ],
    "checked_at": "2026-10-15T20:08:58Z"
   },
@@ -7500,17 +9080,6 @@
    "phone": "81 8274 6435",
    "website": "https://kollectoyz.com/",
    "checked_at": "2026-10-15T20:11:32Z"
-  },
-  {
-   "name": "Kraken Dice",
-   "group": "unknown",
-   "address": "739 Design Ct, Chula Vista, CA, 91911, United States",
-   "phone": "1619-339-5770",
-   "website": "https://krakendice.com/",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:03Z"
   },
   {
    "name": "La Bóveda TCG",
@@ -7599,6 +9168,20 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:41Z"
+  },
+  {
+   "name": "La Michi Tienda TCG",
+   "group": "unknown",
+   "city": "Mérida",
+   "region": "Yucatán",
+   "address": "C. 33 Diag. 316, San Luis, 97205 Mérida, Yuc., Mexico, Mérida, Yucatán, 97205",
+   "phone": "+52 999 370 2796",
+   "website": "https://linktr.ee/veintenatural.tcg",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "La Taberna TCG y Juegos de Mesa",
@@ -7929,6 +9512,17 @@
    "checked_at": "2026-10-15T20:10:45Z"
   },
   {
+   "name": "Mercado de Magos",
+   "group": "unknown",
+   "address": "25 Av. Río Mixcoac, México D.F., CDMX, 03940, Mexico",
+   "phone": "525518554837",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Mercado Metropolitano",
    "group": "unknown",
    "city": "León de los Aldama",
@@ -7975,6 +9569,19 @@
    "phone": "664 330 8663",
    "website": "https://mioboku.pulpos.shop/",
    "checked_at": "2026-10-15T20:12:17Z"
+  },
+  {
+   "name": "Mistery Chest",
+   "group": "unknown",
+   "city": "México D.F.",
+   "region": "CDMX",
+   "address": "Av. Patiotismo 857 local 13 colonia insurgentes mixcoac, Benito Juarez, DIF, 03920, Mexico",
+   "phone": "5255 5298 3379",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Mixup",
@@ -8305,6 +9912,21 @@
    "checked_at": "2026-10-15T20:11:18Z"
   },
   {
+   "name": "Players' Check Point",
+   "group": "unknown",
+   "city": "Puebla",
+   "region": "MX-PUE",
+   "address": "Rio Panuco #5941, Puebla, PUE, 72570, Mexico",
+   "phone": "5212224020803",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "GUNDAM CARD GAME (EN)",
+    "Magic: The Gathering",
+    "ONE PIECE CARD GAME (EN)"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Plaza Alameda Otay Town Center",
    "group": "unknown",
    "city": "Tijuana",
@@ -8343,6 +9965,17 @@
    "phone": "55 5518 8434",
    "website": "https://plazapikashop.com/",
    "checked_at": "2026-10-15T20:10:45Z"
+  },
+  {
+   "name": "Pocket City",
+   "group": "unknown",
+   "address": "1701 Blvd. Gral. Marcelino García Barragán Local 10 Colonia Olimpica, Guadalajara, Jalisco, 44840, Mexico",
+   "phone": "523322506373",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Poshería Mérida",
@@ -8452,6 +10085,19 @@
    "checked_at": "2026-10-15T20:11:52Z"
   },
   {
+   "name": "Raptor's Corp",
+   "group": "unknown",
+   "city": "Heroica Puebla de Zaragoza",
+   "region": "Pue.",
+   "address": "801 Calle 17 Nte, Heroica Puebla de Zaragoza, Puebla, 72090, Mexico",
+   "phone": "52222-822-5822",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Raven Folks",
    "group": "unknown",
    "address": "Chihuahua 142 local E, col. Roma Norte, Ciudad de México, DIF, 06700, Mexico",
@@ -8463,28 +10109,15 @@
    "checked_at": "2026-10-15T20:08:25Z"
   },
   {
-   "name": "ReviloGames",
+   "name": "Red Rabbit",
    "group": "unknown",
-   "city": "Ciudad de México",
-   "region": "Ciudad de México",
-   "address": "C. 39 112, Santa Cruz Meyehualco, Iztapalapa, 09290 Ciudad de México, CDMX, Mexico, Ciudad de México, Ciudad de México, 09290",
-   "phone": "+52 5620382148",
-   "website": "https://revilogames.com.mx/9-tcg",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
-   "name": "Rogue Rivals",
-   "group": "unknown",
-   "address": "13077 Poway Rd, Poway, CA, 92064, United States",
-   "phone": "1951-288-5092",
-   "website": "https://www.roguerivals.com/",
+   "address": "302 Av Vicente Guerrero col. lomas de la selva., Cuernavaca, Mor., 62270, Mexico",
+   "phone": "1777-477-6110",
+   "website": "https://wpn.wizards.com/en",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-15T20:09:14Z"
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Rompecabezas Tlatelolco",
@@ -8517,6 +10150,19 @@
    "checked_at": "2026-10-15T20:11:41Z"
   },
   {
+   "name": "Sanctum TCG & Collectors Vault",
+   "group": "unknown",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 3 A 278-Local 18, \"Plaza Vía\" Francisco de Montejo, Mérida, Yucatán, 97203, Mexico",
+   "phone": "529992693831",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Santuario Juegos y coleccionables",
    "group": "unknown",
    "address": "1634 Calz. de Tlalpan, México D.F., CDMX, 03590, Mexico",
@@ -8528,6 +10174,20 @@
    "checked_at": "2026-10-15T20:08:36Z"
   },
   {
+   "name": "Scion of the Souls",
+   "group": "unknown",
+   "city": "Ciudad de México",
+   "region": "Ciudad de México",
+   "address": "Eje 10 sur, Av. Pedro Enríquez Ureña 521, Coyoacan, DIF, 04369, Mexico",
+   "phone": "5255 6585 9011",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "ScorpionShop Coffee & Collectibles",
    "group": "unknown",
    "city": "San Pedro Garza García",
@@ -8536,16 +10196,6 @@
    "phone": "81 8181 3435",
    "website": "https://scorpionshop.online/",
    "checked_at": "2026-10-15T20:09:48Z"
-  },
-  {
-   "name": "Seikō kōun",
-   "group": "unknown",
-   "city": "México D.F.",
-   "region": "CDMX",
-   "address": "Pisco 668, Montevideo, Gustavo A. Madero, 07730 Ciudad de México, CDMX",
-   "phone": "56 2555 0576",
-   "website": "https://seikokoun.my.canva.site/seiko-koun",
-   "checked_at": "2026-10-16T21:45:07Z"
   },
   {
    "name": "SEÑOR RETRO",
@@ -8635,6 +10285,17 @@
    "checked_at": "2026-10-15T20:12:24Z"
   },
   {
+   "name": "Stardust Cards and Games",
+   "group": "unknown",
+   "address": "Guerrero 4 Interior A Local 58, Centro, Cuernavaca, Morelos, 62000, Mexico",
+   "phone": "527774532996",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Store Gamer TCG Boy",
    "group": "unknown",
    "city": "Lázaro Cárdenas",
@@ -8696,6 +10357,19 @@
    "checked_at": "2026-10-15T20:08:38Z"
   },
   {
+   "name": "TableTop Academy",
+   "group": "unknown",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "1902 Palma Cyca, Querétaro, Queretaro, 76127, Mexico",
+   "phone": "52442-486-3798",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "TAO Games",
    "group": "unknown",
    "city": "México D.F.",
@@ -8707,6 +10381,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:32Z"
+  },
+  {
+   "name": "TCG IGNIS RYUU",
+   "group": "unknown",
+   "city": "Mérida",
+   "region": "Yuc.",
+   "address": "C. 69 589-C, LOCAL 2, Centro, 97000 Mérida, Yuc.",
+   "phone": "999 236 9575",
+   "website": "https://linktr.ee/veintenatural.tcg",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "TCG Mana Shop",
@@ -8956,7 +10641,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T21:45:02Z"
+   "checked_at": "2026-10-16T21:45:03Z"
   },
   {
    "name": "The Pub Game Store",
@@ -9106,17 +10791,6 @@
    "checked_at": "2026-10-15T20:11:56Z"
   },
   {
-   "name": "Tito Rick's Garage",
-   "group": "unknown",
-   "address": "2918 Imperial Ave, San Diego, CA, 92102, United States",
-   "phone": "1619-871-6155",
-   "website": "https://titoricks.com",
-   "games_events": [
-    "Magic: The Gathering"
-   ],
-   "checked_at": "2026-10-15T20:09:08Z"
-  },
-  {
    "name": "Tokyo Planet",
    "group": "unknown",
    "city": "El Pueblito",
@@ -9158,6 +10832,28 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:08:35Z"
+  },
+  {
+   "name": "Trading Card Gaming Empire - Guadalajara",
+   "group": "unknown",
+   "address": "6484 Av Moctezuma, Interior 05, Zapopan, Jal., 45053, MX",
+   "phone": "1333-727-9734",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
+   "name": "Troya TCG",
+   "group": "unknown",
+   "address": "137 Av. Luis Pasteur Sur, Santiago de Querétaro, Querétaro, 76040, Mexico",
+   "phone": "52552-534-6082",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "UAC GUADALAJARA",
@@ -9206,19 +10902,6 @@
    "checked_at": "2026-10-15T20:10:59Z"
   },
   {
-   "name": "versus",
-   "group": "unknown",
-   "city": "Naucalpan de Juarez",
-   "region": "MX-MEX",
-   "address": "201, Naucalpan de Juarez, MX-MEX, 53279",
-   "phone": "5572588183",
-   "website": "https://versustienda.com/wp-admin/edit.php?post_type=shop_order",
-   "games_events": [
-    "ONE PIECE CARD GAME (EN)"
-   ],
-   "checked_at": "2026-10-16T21:45:02Z"
-  },
-  {
    "name": "Victory Road",
    "group": "unknown",
    "city": "Tampico",
@@ -9246,6 +10929,19 @@
    "checked_at": "2026-10-15T20:12:24Z"
   },
   {
+   "name": "Vikingos TCG",
+   "group": "unknown",
+   "city": "Santiago de Querétaro",
+   "region": "Qro.",
+   "address": "509 Calle R. M. Clemencia Borja Taboada local 12, Plaza Zzion, Queretaro, Qro, 76230, Mexico",
+   "phone": "524421419098",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
+  },
+  {
    "name": "Wan Play Coffee, Soup & TCG",
    "group": "unknown",
    "city": "Tijuana",
@@ -9268,6 +10964,17 @@
    "phone": "442 608 8698",
    "website": "https://www.warvelgames.com/",
    "checked_at": "2026-10-15T20:12:36Z"
+  },
+  {
+   "name": "Wizard Games",
+   "group": "unknown",
+   "address": "327 C. Juárez, Ocotlán, Jalisco, 47980, Mexico",
+   "phone": "523921038966",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "Wontolla Games",
@@ -9304,6 +11011,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-15T20:09:30Z"
+  },
+  {
+   "name": "Yōkai Games",
+   "group": "unknown",
+   "address": "Ermita Iztapalapa 3430A, Iztapalapa, CDMX, 09500, Mexico",
+   "phone": "525532590732",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-15T20:08:25Z"
   },
   {
    "name": "ZiggyToys",

@@ -1,8 +1,8 @@
 {
  "country": "MY",
  "currency": "MYR",
- "updated": "2026-10-16",
- "store_count": 329,
+ "updated": "2026-10-20",
+ "store_count": 413,
  "stores": [
   {
    "name": "90s Card SDN BHD",
@@ -15,16 +15,6 @@
    "buylist_url": "https://90scard.com/my/sell-your-cards",
    "credit_bonus": "Buyback proceeds paid as wallet credit",
    "checked_at": "2026-10-17T00:41:52Z"
-  },
-  {
-   "name": "Cardinals Hobby Store",
-   "group": "login_required",
-   "city": "Subang Jaya",
-   "region": "Selangor",
-   "address": "Jalan USJ 21/11, Usj 21, 47640 Subang Jaya, Selangor",
-   "phone": "018-660 0559",
-   "website": "https://cardinalshobby-tcg.com/",
-   "checked_at": "2026-10-17T00:41:04Z"
   },
   {
    "name": "Cards Citadel",
@@ -49,7 +39,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:42Z"
+   "checked_at": "2026-10-17T00:41:33Z"
   },
   {
    "name": "Games Haven - PJ",
@@ -172,6 +162,16 @@
    "checked_at": "2026-10-17T00:41:38Z"
   },
   {
+   "name": "1 Store Gaming TCG",
+   "group": "in_store",
+   "city": "Ayer Itam",
+   "region": "Pulau Pinang",
+   "address": "No.46,2nd Floor, Medan Angsana 4, Bandar Baru Air Itam, 11500 Ayer Itam, Pulau Pinang",
+   "phone": "013-480 1688",
+   "website": "https://www.facebook.com/1storegaming",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "514 Kohinoor Villa",
    "group": "in_store",
    "city": "Ipoh",
@@ -194,10 +194,13 @@
    "group": "in_store",
    "city": "Butterworth",
    "region": "Pulau Pinang",
-   "address": "52A, Block M, Jalan Raja Uda, Pusat Perniagaan Raja Uda, 12300 Butterworth, Pulau Pinang",
-   "phone": "012-410 6254",
-   "website": "https://www.facebook.com/Aexern",
-   "checked_at": "2026-10-17T00:41:43Z"
+   "address": "52a Jalan Raja Uda, Butterworth, Pulau Pinang, 12300, Malaysia",
+   "phone": "6060124106254",
+   "website": "https://www.facebook.com/AeXern",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "AM Cards & Collectibles",
@@ -210,7 +213,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Animix",
@@ -238,7 +241,7 @@
    "address": "3193, Lorong Kampung Baru Satu, Pusat Pernigaan Maju Utama, 14000 Bukit Mertajam, Pulau Pinang",
    "phone": "012-482 2123",
    "website": "https://www.facebook.com/apexbladers/",
-   "checked_at": "2026-10-17T00:41:40Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Arakis Collectibles",
@@ -258,6 +261,16 @@
    "checked_at": "2026-10-17T00:42:01Z"
   },
   {
+   "name": "Arcavios Arena",
+   "group": "in_store",
+   "city": "Masai",
+   "region": "Johor Darul Ta'zim",
+   "address": "01-13, Blok B, Topaz Residenz, Jalan Permas Utara 1, Permas City, 81750 Masai, Johor Darul Ta'zim",
+   "phone": "016-789 8916",
+   "website": "https://www.facebook.com/arcavios.arena",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Armory TCG",
    "group": "in_store",
    "city": "George Town",
@@ -270,39 +283,96 @@
    "checked_at": "2026-10-17T00:40:43Z"
   },
   {
+   "name": "ARMORY TCG SHOP",
+   "group": "in_store",
+   "address": "33-3-20, Prangin Mall / 33 Jalan Dr. Lim Chwee Leong, George Town, PNG, 10300, MY",
+   "phone": "+6060173652867",
+   "website": "https://www.facebook.com/armorytcg.my/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "ASO Anime Figure Centrally Shop",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "115, Hala Sepakat 15a, Taman Rapat Indah, 31350 Ipoh, Perak",
+   "phone": "016-595 1014",
+   "website": "https://www.facebook.com/Aso-Anime-Figure-109849541564078/?fref=tag",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Astral Rift Tactics",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "8A, Medan Bercham Selatan 1, Medan Bercham Selatan, 31400 Ipoh, Perak",
+   "website": "https://www.facebook.com/astral.rift.tactics",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Atom Square",
    "group": "in_store",
    "city": "Kuala Lumpur",
    "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 55100",
+   "phone": "017-682 0023",
+   "website": "https://www.facebook.com/AtomSquare/",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:44Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
-   "name": "AvacynGames",
+   "name": "Avacyn Games",
    "group": "in_store",
    "city": "Kuala Lumpur",
    "region": "Wilayah Persekutuan Kuala Lumpur",
-   "address": "Jalan Jalil Perkasa 3, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 57000",
-   "phone": "+60 12-689 4829",
+   "address": "L1-15 & 16, JALIL LINK 2, , Bukit Jalil, 14, 57000, Malaysia",
+   "phone": "60(+60) 1 2689 4829",
+   "website": "https://www.facebook.com/avacyngames/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
-   "name": "Axes and Hexes Merlins Hovel Enterprise",
+   "name": "Award Collectibles",
+   "group": "in_store",
+   "address": "315 Outram Rd, #15-04 Tan Boon Liat Building,, Singapore, Singapore, 169074, SG",
+   "phone": "+6581144089",
+   "website": "https://www.instagram.com/award.collectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
+   "name": "Axes & Hexes",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Federal Territory of Kuala Lumpur",
+   "address": "2-1, 42A, Jalan 34/26, Taman Sri Rampai, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+   "phone": "017-301 7863",
+   "website": "https://www.facebook.com/axesnhexes/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "AXES AND HEXES MERLINS HOVEL ENTERPRISE",
    "group": "in_store",
    "city": "Kuala Lumpur",
    "region": "Wilayah Persekutuan Kuala Lumpur",
-   "address": "Wisma Rampai, 2-G-43K, Jalan 34/26, Taman Sri Rampai, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 53300",
-   "phone": "014 2115 071",
+   "address": "2-1-42a, Wisma Rampai, JALAN 34/26, Kuala Lumpur, Selangor, 53300, Malaysia",
+   "phone": "+60173017863",
+   "website": "https://www.facebook.com/axesnhexes/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Azta Innovations",
@@ -342,7 +412,29 @@
    "address": "88a, Jalan Cerdas, Taman Connaught, 56000 Cheras, Wilayah Persekutuan Kuala Lumpur",
    "phone": "017-329 5355",
    "website": "https://www.facebook.com/profile.php?id=61560258689721",
-   "checked_at": "2026-10-17T00:40:57Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Battle Zone TCG",
+   "group": "in_store",
+   "address": "1 Stadium Place, #02-19, Kallang Wave Mall,, Singapore, Singapore, 397628, SG",
+   "phone": "+65+6589337542",
+   "website": "https://www.facebook.com/profile.php?id=61587985647238",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Beginner's Luck",
+   "group": "in_store",
+   "address": "148F Pasir Panjang Rd, Singapore, Singapore, 118553, SG",
+   "phone": "+6597110763",
+   "website": "https://www.facebook.com/p/Beginners-Luck-100086965917762/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Blackstar Cardhub",
@@ -352,7 +444,31 @@
    "address": "First Floor, 143, Jalan SS 2/24, SS 2, 47300 Petaling Jaya, Selangor",
    "phone": "012-472 1382",
    "website": "https://www.facebook.com/profile.php?id=61574146708194",
-   "checked_at": "2026-10-17T00:40:56Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Boards & Brews",
+   "group": "in_store",
+   "city": "Subang Jaya",
+   "region": "Selangor",
+   "address": "5D, Nadayu 28 Dagang, Jalan PJS",
+   "phone": "+60174025550",
+   "website": "https://www.facebook.com/TDsunway",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Book Talk Taman Daya",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "53,55, 57 & 59, Jalan Sagu 18, Taman Daya, 81100 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "016-711 4072",
+   "website": "https://facebook.com/booktalk.tmndaya/",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Borneo Collectors League",
@@ -381,6 +497,36 @@
    "address": "S138, S139, S140 2nd Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor Darul Ta'zim",
    "phone": "019-717 7133",
    "checked_at": "2026-10-17T00:42:12Z"
+  },
+  {
+   "name": "Box Hunt - KSL Branch",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "LG Lot TC-19 KSL City, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "016-776 6883",
+   "website": "https://www.facebook.com/boxhuntmy/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Box Hunt - Paradigm Mall Johor Bahru",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "Lot 4F-15, 4th Floor, Paradigm Mall, Lbh Skudai, 81200 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "019-717 7133",
+   "website": "https://www.facebook.com/boxhuntmy",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Box Hunt Midvalley Southkey",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "LGK-18, Lower Ground Floor, South Court, Persiaran Southkey 1, Southkey, 80150 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "011-2188 3353",
+   "website": "https://www.facebook.com/boxhuntmy/",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Bricks Play",
@@ -416,6 +562,19 @@
    "checked_at": "2026-10-17T00:40:46Z"
   },
   {
+   "name": "Bulba Milk TCG",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "117-1 Jalan Radin Bagus, Kuala Lumpur, WLY, 57000, MY",
+   "phone": "600162151517",
+   "website": "https://www.facebook.com/p/Bulba-Milk-TCG-61575226877134/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Bulba Store Gamez & Hobby (Malaysia)",
    "group": "in_store",
    "city": "Kuala Lumpur",
@@ -443,6 +602,17 @@
    "checked_at": "2026-10-17T00:41:32Z"
   },
   {
+   "name": "Card Collector Corner",
+   "group": "in_store",
+   "address": "35 Selegie Road Parklane shopping Mall B1-28, Singapore, Singapore , 188307, SG",
+   "phone": "(+65)96321116",
+   "website": "https://www.facebook.com/p/Card-Collector-Corner-SG-61585559346581/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "CARD CREW HQ COLLECTIBLES & HOBBIES",
    "group": "in_store",
    "city": "Kepong",
@@ -450,6 +620,16 @@
    "address": "Jalan Medan Putra 3, Medan Putra Bussiness Centre, 52200 Kepong, Wilayah Persekutuan Kuala Lumpur",
    "phone": "03-6261 4431",
    "checked_at": "2026-10-17T00:41:01Z"
+  },
+  {
+   "name": "Cardcade Tabletop",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "3A-10, Dataran Pelangi Utama, Jalan Masjid, PJU6A, Bandar Utama, 47400 Petaling Jaya, Selangor",
+   "phone": "017-241 2866",
+   "website": "https://www.facebook.com/cardcadecafe",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Cardinals Hobby",
@@ -464,6 +644,19 @@
    "checked_at": "2026-10-17T00:40:43Z"
   },
   {
+   "name": "Cardinals Hobby Store",
+   "group": "in_store",
+   "city": "Subang Jaya",
+   "region": "Selangor",
+   "address": "49-1, Jalan USJ 21/11, Subang Jaya, 10, 47640, Malaysia",
+   "phone": "+60380117680",
+   "website": "https://www.facebook.com/cardinalshobby",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Cardpitiam TCG",
    "group": "in_store",
    "city": "Bayan Lepas",
@@ -471,6 +664,17 @@
    "address": "45-1st Floor, Jalan Dato Ismail Hashim, Bayan Residences, 11900 Bayan Lepas, Pulau Pinang",
    "phone": "016-488 9125",
    "checked_at": "2026-10-17T00:41:40Z"
+  },
+  {
+   "name": "Cards & Convenience",
+   "group": "in_store",
+   "address": "B1-54, / 183 Jalan Pelikat, Singapore, Singapore, 537643, SG",
+   "phone": "+6594305725",
+   "website": "https://www.facebook.com/profile.php?id=61589412366236&mibextid=wwXIfr&rdid=Rbcxb3EShl8gmHAb&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A9djHUDFy%2F%3Fmibextid%3DwwXIfr#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Cards Dojo (Melawati Mall)",
@@ -507,7 +711,7 @@
    "address": "VERVEA, 64G, Jln Vervea 13, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang",
    "phone": "017-839 4355",
    "website": "https://www.facebook.com/61592899253477/",
-   "checked_at": "2026-10-17T00:41:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Carito Trading",
@@ -575,6 +779,26 @@
    "checked_at": "2026-10-17T00:40:48Z"
   },
   {
+   "name": "Collectors Hobby Box @Amcorp Mall",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "Unit L2-47, 2nd Floor, Amcorp Mall, Persiaran Barat, Seksyen 52 Petaling Jaya, 46050 Petaling Jaya, Selangor",
+   "website": "https://www.facebook.com/collectorshobbybox/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Command Tower TCG Shop",
+   "group": "in_store",
+   "address": "11-2F, Jalan Boling Padang G 13/G, Seksyen 13, Shah Alam, Selangor, 40100, MY",
+   "phone": "+60193882920",
+   "website": "https://www.instagram.com/commandtowertcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "CT Game Centre",
    "group": "in_store",
    "city": "Shah Alam",
@@ -585,6 +809,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:40:43Z"
+  },
+  {
+   "name": "Cubix Concept @ 1 Utama Shopping Mall",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "LG301, 1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+   "phone": "03-7722 2801",
+   "website": "https://www.facebook.com/CubixConcept/info",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Cutetibles Toys (Aeon Big Falim)",
@@ -617,13 +851,14 @@
    "group": "in_store",
    "city": "Subang Jaya",
    "region": "Selangor",
-   "address": "No.8-G, Jalan USJ 21/6, Taman Indah Subang Uep, 47630 Subang Jaya, Selangor, Malaysia, Subang Jaya, Selangor, 47630",
-   "phone": "01133160511",
-   "website": "https://www.facebook.com/deckouttcg",
+   "address": "8-2 Jalan USJ 21/6 Taman Indah Subang UEP, Subang Jaya, Selangor, 47630, Malaysia",
+   "phone": "+601133160511",
+   "website": "https://www.facebook.com/share/1EN1qUo1Qh/?mibextid=wwXIfr",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "DeckOutDen",
@@ -637,17 +872,26 @@
    "checked_at": "2026-10-17T00:40:46Z"
   },
   {
+   "name": "Destiny Draw",
+   "group": "in_store",
+   "city": "Masai",
+   "region": "Johor Darul Ta'zim",
+   "address": "39-02, Jalan Permas 11/1C, Bandar Baru Permas Jaya, 81750 Masai, Johor Darul Ta'zim",
+   "website": "https://www.facebook.com/groups/1553776024915059/?ref=share_group_link",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Discover Collectibles",
    "group": "in_store",
    "city": "Kuala Lumpur",
-   "region": "Federal Territory of Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "3 Jalan Ambong Kiri 1, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 52100, Malaysia",
    "phone": "60367317514",
    "website": "https://www.instagram.com/discover.collectibles/?hl=en",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:40Z"
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "Dream World",
@@ -675,7 +919,7 @@
    "address": "33 - 02, 79, Jalan Dr Lim Chwee Leong, 10100 George Town, Pulau Pinang",
    "phone": "012-468 4516",
    "website": "https://m.facebook.com/pages/Dueling-Nexus/289471191894884",
-   "checked_at": "2026-10-17T00:41:40Z"
+   "checked_at": "2026-10-17T00:42:12Z"
   },
   {
    "name": "duit lama johor bahru",
@@ -687,6 +931,16 @@
    "checked_at": "2026-10-17T00:42:12Z"
   },
   {
+   "name": "Dāny Ché Comics",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "L1-33, Amcorp Mall, Persiaran Barat, Pjs 52, 46050 Petaling Jaya, Selangor",
+   "phone": "018-405 4809",
+   "website": "https://www.instagram.com/danychecomics/",
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "Eden Garage Collectibles",
    "group": "in_store",
    "city": "Ipoh",
@@ -696,6 +950,38 @@
    "checked_at": "2026-10-17T00:42:34Z"
   },
   {
+   "name": "EDM Gifts",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "97, Jalan Raja Musa Aziz, Kampung Jawa, 30300 Ipoh, Perak",
+   "phone": "012-510 9379",
+   "website": "http://www.facebook.com/edmgifts",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Elements",
+   "group": "in_store",
+   "address": "81a Jalan Rengas, Klang, Selangor, 41200, Malaysia",
+   "phone": "6501155529111",
+   "website": "https://www.facebook.com/profile.php?id=61572156841850",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "EP Hobby",
+   "group": "in_store",
+   "address": "Blk 128 Ang Mo Kio Ave 3 #01-1867, Singapore, Singapore, 560128, SG",
+   "phone": "6591212119",
+   "website": "https://www.facebook.com/EPhobby128/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "ERICFUN CARD & HOBIZ KULAI SHOP",
    "group": "in_store",
    "city": "Kulai",
@@ -703,6 +989,25 @@
    "address": "Pusat Komersial Indah, 428a, Jln Kiambang 14, Bandar Indahpura, 81000 Kulai, Johor Darul Ta'zim",
    "phone": "012-530 4284",
    "checked_at": "2026-10-17T00:41:53Z"
+  },
+  {
+   "name": "Ethereal Sanctum",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "Unit 603, Level 6, Block A4, Leisure Commerce Square, Jln PJS 8/9, Ss 10, 46150 Petaling Jaya, Selangor",
+   "phone": "016-675 1321",
+   "website": "https://www.instagram.com/ethereal.sanctum",
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
+   "name": "EXAKADO TCG & COLLECTIBLES",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "2A-1, PLAZA USAHAWAN GENTING KLANG, Jalan Danau Niaga, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "website": "https://www.facebook.com/profile.php?id=61569630520979&mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Fancy Gift Shop",
@@ -747,7 +1052,7 @@
    "address": "Endah Parade, Jalan 1/149e, Taman Sri Endah, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
    "phone": "010-356 8085",
    "website": "https://www.facebook.com/GaiaCardGameSanctuary/",
-   "checked_at": "2026-10-17T00:40:57Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Game and Glory",
@@ -762,7 +1067,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:41:12Z"
   },
   {
    "name": "Game and Glory (GAG)",
@@ -777,6 +1082,47 @@
    "checked_at": "2026-10-17T00:41:12Z"
   },
   {
+   "name": "Game Hut",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "95a, Regat Sri Cempaka, Taman Cempaka, 31400 Ipoh, Perak",
+   "phone": "011-1300 3775",
+   "website": "https://www.facebook.com/Game-Hut-111563757018203/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Game On Boardgame Cafe",
+   "group": "in_store",
+   "address": "Jalan Pekan Simpang Kuala, Alor Setar, Kedah, 05400, Malaysia",
+   "phone": "60147593609",
+   "website": "https://www.facebook.com/share/1MRp4nxbP1/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Game Tag",
+   "group": "in_store",
+   "city": "George Town",
+   "region": "Pulau Pinang",
+   "address": "Unit 33-1-87, Jalan Dr Lim Chwee Leong, 10100 George Town, Pulau Pinang",
+   "phone": "012-414 0307",
+   "website": "https://m.facebook.com/gametagpranginmall/",
+   "checked_at": "2026-10-17T00:42:12Z"
+  },
+  {
+   "name": "Gamer E Square (IPOH GAME SHOP)",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "SECOND FLOOR 12, YIK FOONG COMPLEX, Jalan Laxamana, 30300 Ipoh, Perak",
+   "phone": "012-550 5589",
+   "website": "https://www.facebook.com/pages/category/Video-Game/Gamer-E-square-1038535336213220/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "GAMER MISI",
    "group": "in_store",
    "city": "Senai",
@@ -784,7 +1130,7 @@
    "address": "NO 31-02, Jalan Terminal, 5, Jalan Terminal 5 Senai Centrepoint, Kawasan Perindustrian Senai Fasa 3, 81400 Senai, Johor",
    "phone": "019-738 4486",
    "website": "https://www.facebook.com/GAMERMISI/",
-   "checked_at": "2026-10-17T00:42:12Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Gamer Station",
@@ -806,6 +1152,16 @@
    "checked_at": "2026-10-17T00:41:33Z"
   },
   {
+   "name": "Gamers Arena Sungei Wang Plaza",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Federal Territory of Kuala Lumpur",
+   "address": "Lot GP 08, Ground Floor, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+   "phone": "03-2385 5231",
+   "website": "https://www.facebook.com/gamersarena.com.my",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Gamersaurus Rex",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -814,6 +1170,42 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:40:01Z"
+  },
+  {
+   "name": "Games Haven",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "9880 8723",
+   "website": "https://www.facebook.com/gameshavensg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Games Haven (Ang Mo Kio)",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "65 8022-7993",
+   "website": "https://www.facebook.com/gameshavensg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Games Haven (Bandar Baru Klang)",
+   "group": "in_store",
+   "city": "Klang",
+   "region": "Selangor",
+   "address": "17, Loring Tiara 1a, Bandar Baru Klang, Klang, Selangor, 41150, Malaysia",
+   "phone": "+60338504099",
+   "website": "https://www.facebook.com/gameshavenmy",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Games Haven (Jurong East)",
@@ -826,26 +1218,18 @@
    "checked_at": "2026-10-17T00:40:01Z"
   },
   {
-   "name": "Games Haven Bandar Baru Klang",
-   "group": "in_store",
-   "city": "Klang",
-   "region": "Selangor",
-   "address": "17, Lorong Tiara 1a, Bandar Baru Klang, 41150 Klang, Selangor, Malaysia, Klang, Selangor, 41150",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-17T00:40:46Z"
-  },
-  {
    "name": "Games Haven Southkey",
    "group": "in_store",
    "city": "Johor Bahru",
    "region": "Johor Darul Ta'zim",
-   "address": "A2-40 Pusat Komersial Bayu Tasek Persiaran Southkey 1 Kota, Southkey, 81100 Johor Bahru, Johor Darul Ta'zim, Malaysia, Johor Bahru, Johor Darul Ta'zim, 81100",
+   "address": "D-1-10  PUSAT KOMERSIAL BAYU TASEK,, Johor bahry, Johor Bahry, 80150, MY",
+   "phone": "+600126156199",
+   "website": "https://www.facebook.com/people/Games-Haven-Southkey/61574312188128/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:48Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Games4Life",
@@ -902,6 +1286,17 @@
    "checked_at": "2026-10-17T00:41:47Z"
   },
   {
+   "name": "Gitcho Cards",
+   "group": "in_store",
+   "address": "Jalan Metro Pudu 2, Bandar Kuala Lumpur, WLY, 55200, MY",
+   "phone": "60103118168",
+   "website": "https://www.facebook.com/gitchocards/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "GLOBAL COMIC STORE",
    "group": "in_store",
    "city": "Gelugor",
@@ -911,6 +1306,16 @@
    "checked_at": "2026-10-17T00:41:47Z"
   },
   {
+   "name": "Goblin's Lair | Warhammer, Miniature, Table Top, War Gaming",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "84A, Jalan SS 24/2, Taman Megah, 47301 Petaling Jaya, Selangor",
+   "phone": "011-7388 2539",
+   "website": "https://www.facebook.com/goblinslairpj/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Gold Box Trading",
    "group": "in_store",
    "city": "Ipoh",
@@ -918,6 +1323,17 @@
    "address": "62, Jalan Pengkalan Barat 32, Taman Pengkalan Jaya, 31650 Ipoh, Perak",
    "phone": "016-553 6756",
    "checked_at": "2026-10-17T00:42:31Z"
+  },
+  {
+   "name": "Gold Nugget Gang",
+   "group": "in_store",
+   "address": "35 Selegie Rd, B1-31/32 Parklane Shopping Mall, Singapore, Singapore, 188307, SG",
+   "phone": "+6581891936",
+   "website": "https://www.instagram.com/goldnuggetgang/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "Goodness Gracious Games",
@@ -954,7 +1370,7 @@
    "region": "Johor Darul Ta'zim",
    "address": "Lot 43, Jalan Kebun Teh 1, Taman Larkin, 80250 Johor Bahru, Johor Darul Ta'zim",
    "phone": "011-6868 0563",
-   "checked_at": "2026-10-17T00:41:50Z"
+   "checked_at": "2026-10-17T00:41:53Z"
   },
   {
    "name": "GR6 TCG Card Shop",
@@ -975,6 +1391,17 @@
    "checked_at": "2026-10-17T00:41:28Z"
   },
   {
+   "name": "Guildhall Card Game and Board Game",
+   "group": "in_store",
+   "address": "UNIT D6-1-2 (2ND FLOOR), BLOCK D6, DANA 1, Jalan PJU 1a/46, PJ, Selangor, 47301, MY",
+   "phone": "+60125353703",
+   "website": "https://www.facebook.com/GuildhallMalaysia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "HC Games Paradigm Mall",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -992,6 +1419,16 @@
    "checked_at": "2026-10-17T00:42:27Z"
   },
   {
+   "name": "Heresy Games n Hobbies",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "Unit #02-01 Alif Avenue, Jalan Tampoi, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "013-767 4656",
+   "website": "https://www.facebook.com/Heresy-Games-and-Hobbies-101059428548167/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Hibiki TCG",
    "group": "in_store",
    "city": "Perak",
@@ -1001,6 +1438,17 @@
    "checked_at": "2026-10-17T00:42:21Z"
   },
   {
+   "name": "Hideyoshi",
+   "group": "in_store",
+   "address": "504 Jurong West Street 51 04-211, Singapore, Singapore, 640504, SG",
+   "phone": "6596263685",
+   "website": "https://www.facebook.com/people/Hideyoshi-Tcg/pfbid02aB4sHdwSN2pSmVTUeTcYuSXw8hBcybMLrnNhiQ3QEEn13yXgq6w8RfsfgfJ7KeEXl/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Hiro Comic World & Wholesale of Malaysia Souvenirs",
    "group": "in_store",
    "city": "Kuala Lumpur",
@@ -1008,19 +1456,31 @@
    "address": "29, Jalan Petaling, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
    "phone": "012-233 5786",
    "website": "https://m.facebook.com/hirohiroworld/?ref=bookmarks",
-   "checked_at": "2026-10-17T00:41:26Z"
+   "checked_at": "2026-10-17T00:42:12Z"
   },
   {
-   "name": "HOBBIES CORNER",
+   "name": "Hobbies Corner",
    "group": "in_store",
    "city": "Kuala Lumpur",
    "region": "Wilayah Persekutuan Kuala Lumpur",
-   "address": "20, Jln Prima 2, Metro Prima, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 52100",
-   "phone": "+60 11-5413 1159",
+   "address": "20-1 Jalan prima 2 pusat niaga metro prima, Kuala Lumpur, Kuala Lumpur, 52100, Malaysia",
+   "phone": "+601154131159",
+   "website": "https://www.facebook.com/hobbiescornerkepong?mibextid=ZbWKwL",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Hobby Base Trading",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "B5-2-9, 5, Jalan Teknologi 2/1A, Signature Park, 47810 Petaling Jaya, Selangor",
+   "phone": "011-1121 8716",
+   "website": "https://www.facebook.com/KZHobbyBase/",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Hobby Galaxy Enterprise",
@@ -1030,7 +1490,7 @@
    "address": "No 1346 Tingkat 1 Jalan Tasek Taman Valdor Ria, Sungai Bakap, 14200 Sungai Jawi, Pulau Pinang",
    "phone": "017-414 8947",
    "website": "https://www.facebook.com/HobbyGalaxy/",
-   "checked_at": "2026-10-17T00:41:42Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Hobby Hunter",
@@ -1048,11 +1508,24 @@
    "group": "in_store",
    "city": "Shah Alam",
    "region": "Selangor",
-   "address": "31, Persiaran Setia Utama, Alam Nusantara, 40170 Shah Alam, Selangor, Malaysia, Shah Alam, Selangor, 40170",
+   "address": "31-1F, Jalan Setia Perdana BA U13/BA, Shah Alam, Selangor, 40170, Malaysia",
+   "phone": "+60197900902",
+   "website": "https://www.facebook.com/hobbylordssetiaalam/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Hobi Unik Collectibles",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "7-1, Jln 1/76, Desa Pandan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "phone": "017-978 1647",
+   "website": "https://www.facebook.com/profile.php?id=61555589135305",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "HOBIBEAR GAMING",
@@ -1063,7 +1536,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:41:02Z"
   },
   {
    "name": "HOBIBEAR GAMING",
@@ -1073,6 +1546,26 @@
    "address": "52A, Jalan Cerdas, Taman Connaught, 56000 Cheras, Wilayah Persekutuan Kuala Lumpur",
    "phone": "017-736 2638",
    "checked_at": "2026-10-17T00:41:02Z"
+  },
+  {
+   "name": "Horizon TCG Park",
+   "group": "in_store",
+   "city": "Kuching",
+   "region": "Sarawak",
+   "address": "1st Floor, Sublot 32, NBX 2, Off, Kuching - Samarahan Expressway, 93350 Kuching, Sarawak",
+   "phone": "019-806 1111",
+   "website": "https://www.facebook.com/horizontcgpark/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "House of Hearts | Play N Gift Enterprise | IP0497923-T",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "40, Jalan Theatre, Taman Jubilee, 30300 Ipoh, Perak",
+   "phone": "012-514 4887",
+   "website": "https://www.facebook.com/houseofhearts.ipoh",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Impulse Gaming (Queensbay Mall Branch)",
@@ -1100,7 +1593,21 @@
    "address": "11b, Jalan Mangga 1, Taman Kota Jaya, 81900 Kota Tinggi, Johor Darul Ta'zim",
    "phone": "012-266 7738",
    "website": "https://www.facebook.com/profile.php?id=61555850986727&mibextid=LQQJ4d",
-   "checked_at": "2026-10-17T00:42:12Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Invictus Collectibles",
+   "group": "in_store",
+   "city": "Petaling Jaya",
+   "region": "Selangor",
+   "address": "D-L1-15, Edelweiss Shoppes, Plaza Tropicana 2B, PJU 3, , Petaling Jaya, 10, 47810, Malaysia",
+   "phone": "+60+60179080624",
+   "website": "https://www.facebook.com/profile.php?id=61593403622045",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "IPOH TRADER",
@@ -1121,6 +1628,16 @@
    "checked_at": "2026-10-17T00:42:31Z"
   },
   {
+   "name": "Isekai Hobby",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Federal Territory of Kuala Lumpur",
+   "address": "Lot GM3A-25/26/27, No. 2,GMBB, Jalan Robertson, Bukit Bintang, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+   "phone": "018-212 0412",
+   "website": "https://www.instagram.com/isekaihobbykl?igsh=MTVlZ3loanJ5a3N0Yg==",
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "ISLAND TCG",
    "group": "in_store",
    "city": "Tanjung Bungah",
@@ -1130,12 +1647,43 @@
    "checked_at": "2026-10-17T00:41:40Z"
   },
   {
+   "name": "JankenPon",
+   "group": "in_store",
+   "address": "154 Serangoon North Ave 1 #01-440 , Singapore, Singapore, 550154, SG",
+   "phone": "+6592207702",
+   "website": "https://www.instagram.com/jankenpon_official/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
+   "name": "JT game store",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "57a, Jalan Keris, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "013-778 5388",
+   "website": "https://www.facebook.com/JTGAMESTORE/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "KAADOYA (カード屋)",
    "group": "in_store",
    "city": "Kuala Lumpur",
    "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
    "checked_at": "2026-10-17T00:40:50Z"
+  },
+  {
+   "name": "Kai Cards & Collectibles",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "Unit 17, 3, Jalan PJS 11/28, Bandar Sunway, 46100 Petaling Jaya, Selangor",
+   "phone": "016-313 6316",
+   "website": "https://www.facebook.com/profile.php?id=61555231448897&mibextid=hu50Ix",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Kamenn Enterprise",
@@ -1148,7 +1696,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:45Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "KamiKami Hobbies & Collectibles",
@@ -1177,6 +1725,29 @@
    "checked_at": "2026-10-17T00:41:47Z"
   },
   {
+   "name": "Kichi TCG",
+   "group": "in_store",
+   "city": "Puchong",
+   "region": "Selangor",
+   "address": "77-2 Jalan BK 5a/2, Puchong, Selangor, 47180, MY",
+   "phone": "+601110933486",
+   "website": "https://www.instagram.com/kichitcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
+   "name": "Kirbee Mart",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "Austin Crest, 32-02, Jln Jaya Putra 7/8, Bandar Jaya Putra, 81100 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "019-722 8715",
+   "website": "https://www.facebook.com/share/1Gt1CMrSMk/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Kolonel Card",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1194,6 +1765,37 @@
    "checked_at": "2026-10-17T00:41:57Z"
   },
   {
+   "name": "KZ HOBBY BASE TRADING",
+   "group": "in_store",
+   "address": "B5-2-9, JALAN TEKOLOGI 2/1A,",
+   "phone": "6011-1121 8716",
+   "website": "https://www.facebook.com/KZHobbyBase/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "L & C Game Store",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "94A, Jalan Pengkalan Barat 32, Station 18, 31650 Ipoh, Perak",
+   "phone": "010-270 1566",
+   "website": "https://www.facebook.com/profile.php?id=100051257455886&mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Lau Legacy",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Federal Territory of Kuala Lumpur",
+   "address": "Lot M-47, TINGKAT MEZZANINE, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+   "phone": "018-288 9081",
+   "website": "https://www.facebook.com/LauLegacy/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Leafy Legend TCG",
    "group": "in_store",
    "city": "Tanjung Tokong",
@@ -1201,7 +1803,18 @@
    "address": "98-1-41, Business Center, Prima Tanjung, Jalan Fettes, Kampung Belachan, 10470 Tanjung Tokong, Pulau Pinang",
    "phone": "011-3722 7188",
    "website": "https://www.facebook.com/Leafylegend/",
-   "checked_at": "2026-10-17T00:41:40Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Leafy Legend Tcg Shop",
+   "group": "in_store",
+   "address": "98-1-41, Business Center, Tanjung Tokong, Pulau Pinang, 10470, MY",
+   "phone": "+60174562570",
+   "website": "https://www.facebook.com/Leafylegend",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Let's Koppie and Hobbies @ Subang Square",
@@ -1211,7 +1824,7 @@
    "address": "W-03A-4, West Wing, Subang Square Business Park, Ss 15, 47500 Subang Jaya, Selangor",
    "phone": "011-1228 8225",
    "website": "http://www.facebook.com/letskoppie",
-   "checked_at": "2026-10-17T00:41:30Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "LF Collectibles",
@@ -1223,6 +1836,30 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:40:43Z"
+  },
+  {
+   "name": "LF Collectibles Trading",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "3A-01 DATARAN PELANGI UTAMA, JALAN MASJID, PJU 6A, BANDAR UTAMA, Selangor, Selangor, 47400, Malaysia",
+   "phone": "+60143333153",
+   "website": "https://www.facebook.com/profile.php?id=100083788819355",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Lymo's Cozy Corner",
+   "group": "in_store",
+   "address": "400 Balestier Rd /  #02-17, , Singapore, Singapore, 329802, SG",
+   "phone": "6594874094",
+   "website": "https://www.instagram.com/lymoscozycorner/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "M.Duelist Society Official Store",
@@ -1266,6 +1903,25 @@
    "checked_at": "2026-10-17T00:39:42Z"
   },
   {
+   "name": "Mewmon Kota damansara",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "15-3, Jalan PJU 5 /18, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor",
+   "phone": "016-708 6768",
+   "website": "https://www.facebook.com/share/16GvaNGd9v/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "MightyWizards TCG",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "B-3A-08, Ativo Plaza, Persiaran Perdana, Bandar Sri Damansara, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "website": "https://www.facebook.com/mightywizardstcg",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Mikka Collectibles",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1273,7 +1929,7 @@
    "address": "Commune by The Creators, Jalan Adda 7, Adda Heights, 81100 Johor Bahru, Johor Darul Ta'zim",
    "phone": "017-755 6686",
    "website": "https://www.tiktok.com/@mikkacollectibles5?is_from_webapp=1&sender_device=pc",
-   "checked_at": "2026-10-17T00:42:12Z"
+   "checked_at": "2026-10-17T00:42:27Z"
   },
   {
    "name": "Mind Speed Enterprise",
@@ -1318,6 +1974,17 @@
    "checked_at": "2026-10-17T00:40:46Z"
   },
   {
+   "name": "MOVA COLLECTIBLES PTE LTD",
+   "group": "in_store",
+   "address": "122 Bukit Merah Lane 1, Singapore, Singapore, 150122, SG",
+   "phone": "6496802978",
+   "website": "https://www.instagram.com/mova_collectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "MTG-Asia.com",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -1337,6 +2004,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:40:46Z"
+  },
+  {
+   "name": "My Hobby Arena Sdn Bhd",
+   "group": "in_store",
+   "address": "36f-3, Jalan Radin Anum, Bandar Baru, Sri Petaling, Wilayah Persekutuan Kuala Lumpur, 57000, Malaysia",
+   "phone": "+60149754341",
+   "website": "https://www.facebook.com/myhobbyarena/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "My Star Collection Trading",
@@ -1369,13 +2047,14 @@
    "group": "in_store",
    "city": "Shah Alam",
    "region": "Selangor",
-   "address": "46, Jalan Anggerik Vanilla Z 31/Z, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia, Shah Alam, Selangor, 40460",
+   "address": "46-1, Jalan Anggerik Vanilla Z 31/Z, Kota Kemuning, 40460 Shah Alam, Selangor, Shah Alam, Selangor, 40460, Malaysia",
    "phone": "+60358804899",
-   "website": "https://www.facebook.com/share/19rgdnvqEw/",
+   "website": "https://www.facebook.com/nakamashop126",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Neo Hibiki TCG",
@@ -1387,6 +2066,16 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-17T00:40:46Z"
+  },
+  {
+   "name": "Neo Plamo",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "7, Hala Tambun Jaya 1, Taman Tambun Jaya, 31400 Ipoh, Perak",
+   "phone": "017-579 8970",
+   "website": "https://www.facebook.com/neoplamo",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "New Excellent Trading | Excelpass Enterprise",
@@ -1429,9 +2118,13 @@
    "group": "in_store",
    "city": "Ipoh",
    "region": "Perak",
-   "address": "18a, Laluan Tasek Timur 1, Taman Tasek Indra, 31400 Ipoh, Perak",
-   "phone": "018-378 2238",
-   "checked_at": "2026-10-17T00:42:21Z"
+   "address": "Laluan Tasek Timur 1, Ipoh, Perak, 31400, Malaysia",
+   "phone": "+60166966566",
+   "website": "https://www.facebook.com/profile.php?id=61566784476972",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Penn-Mart Toys",
@@ -1448,12 +2141,14 @@
    "group": "in_store",
    "city": "Shah Alam",
    "region": "Selangor",
-   "address": "5, Jalan Bazar U8/100, Bukit Jelutong, 40150 Shah Alam, Selangor, Malaysia, Shah Alam, Selangor, 40150",
-   "phone": "0173933797",
+   "address": "G Floor,  Suria resident no 5 jalan bazar u8/100, Bukit Jelutong, Shah Alam, 40150, Malaysia",
+   "phone": "+60173933797",
+   "website": "https://www.facebook.com/profile.php?id=61557982034574",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Pichubros Trading",
@@ -1467,6 +2162,17 @@
    "checked_at": "2026-10-17T00:40:46Z"
   },
   {
+   "name": "Pigeon Games",
+   "group": "in_store",
+   "address": "1-3-9, BL Business Centre, 3rd Floor Solok Thean Teik, Ayer Itam, Pulau Pinang, 11500, Malaysia",
+   "phone": "+60125975241",
+   "website": "https://www.facebook.com/moxandlotus.my?mibextid=LQQJ4d",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Pixbros",
    "group": "in_store",
    "city": "Ayer Itam",
@@ -1474,7 +2180,7 @@
    "address": "554e, Jalan Air Itam, Taman Padang Tembak, 11500 Ayer Itam, Pulau Pinang",
    "phone": "018-255 0168",
    "website": "http://www.facebook.com/pichubros",
-   "checked_at": "2026-10-17T00:41:40Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Pocketmart",
@@ -1512,7 +2218,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Prime Guild TCG",
@@ -1523,6 +2229,17 @@
    "checked_at": "2026-10-17T00:42:06Z"
   },
   {
+   "name": "Project EXT",
+   "group": "in_store",
+   "address": "25 Jalan Berseh #01-148, Singapore, X1, 200025, SG",
+   "phone": "+6591904737",
+   "website": "https://www.facebook.com/ProjectEXTTCG",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "PTS CARD MULTIVERSE",
    "group": "in_store",
    "city": "Shah Alam",
@@ -1530,7 +2247,7 @@
    "address": "1st Floor, 9-2, Jalan Nova U5/N, Subang Bestari, 40150 Shah Alam, Selangor",
    "phone": "016-381 2908",
    "website": "https://www.instagram.com/ptscardmultiverse?igsh=cG9zNm1tc3VoNHFy&utm_source=qr",
-   "checked_at": "2026-10-17T00:41:28Z"
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "Purr & Play",
@@ -1544,16 +2261,26 @@
   {
    "name": "Quantum Nexus Plt",
    "group": "in_store",
-   "city": "Petaling Jaya",
-   "region": "Selangor",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "G-04, The Orion Condominium, 149 Jalan Tun Razak, Kuala Lumpur, Kuala Lumpur, 50400, Malaysia",
    "phone": "+60166966566",
    "website": "https://www.facebook.com/profile.php?id=61562243128078",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:34Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Rare Candy Cards & Curios",
+   "group": "in_store",
+   "address": "16, 2nd Floor, Jalan USJ 21/4, Subang Jaya, Selangor darul Ehsan, 47630, Malaysia",
+   "phone": "+60128956326",
+   "website": "https://www.facebook.com/profile.php?id=61577101659459",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "RAREVAULT CARD SHOP",
@@ -1586,6 +2313,17 @@
    "checked_at": "2026-10-17T00:41:17Z"
   },
   {
+   "name": "Regalia Trove",
+   "group": "in_store",
+   "address": "865 Mountbatten Rd, Singapore, Singapore, 437844, SG",
+   "phone": "6588471558",
+   "website": "https://www.instagram.com/regaliatrove/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "RS Trading Card Game",
    "group": "in_store",
    "city": "Kuala Lumpur",
@@ -1603,7 +2341,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:41:12Z"
   },
   {
    "name": "SAIKYO HOBBY",
@@ -1634,7 +2372,17 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Shuffle Duel Field",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "10-01, Jalan Austin Perdana 2/24, Taman Austin Perdana, 81100 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "018-974 4017",
+   "website": "https://www.facebook.com/profile.php?id=61582157557138&_rdc=2&_rdr#",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Shuffle UP",
@@ -1667,6 +2415,16 @@
    "checked_at": "2026-10-17T00:41:34Z"
   },
   {
+   "name": "Sony Centre, Jln Raja Musa Aziz",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "11, Jalan Raja Musa Aziz, Taman Jubilee, 30300 Ipoh, Perak",
+   "phone": "05-254 9153",
+   "website": "https://www.facebook.com/soundandphoto",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "SP Card Games & Collectibles",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1674,7 +2432,7 @@
    "address": "21-02, 42, Jln Molek 1, Taman Molek, 81100 Johor Bahru, Johor Darul Ta'zim",
    "phone": "012-637 1379",
    "website": "https://www.facebook.com/myskypillar?mibextid=ZbWKwL",
-   "checked_at": "2026-10-17T00:41:53Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Spacecard",
@@ -1684,18 +2442,21 @@
    "address": "16, Jalan Mewah 4, Taman Ampang Mewah, Taman, Ampang Mewah, 68000 Ampang, Selangor",
    "phone": "016-202 8211",
    "website": "https://www.facebook.com/profile.php?id=61575340827660",
-   "checked_at": "2026-10-17T00:41:01Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Spacecard Enterprise",
    "group": "in_store",
    "city": "Ampang",
    "region": "Selangor",
-   "address": "16, Jalan Mewah 4, Ampang Mewah, 68000 Ampang, Selangor, Malaysia, Ampang, Selangor, 68000",
+   "address": "L2-16, Jalan Mewah 4,Taman Ampang Mewah, Ampang, Selangor, 68000, Malaysia",
+   "phone": "+60162028211",
+   "website": "https://www.facebook.com/SpaceCard.asia",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:46Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Spectre",
@@ -1724,7 +2485,7 @@
    "region": "Penang",
    "address": "Lot F-7, First Floor, Gurney Walk, Gurney Dr, 10250 George Town, Penang",
    "website": "https://www.instagram.com/starlightkstore_my?igsh=MTkwazk1YnhkcDJ1Mg==",
-   "checked_at": "2026-10-17T00:41:45Z"
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "Stars OG TCG",
@@ -1734,6 +2495,16 @@
    "address": "D-7-2, Desa Kepong GI, Jalan Rimbunan Teratai 3, 52100 Kepong, Kuala Lumpur Desa Kepong Gi, Kepong Metropolitan Lake-garden, 52100 Kepong, Wilayah Persekutuan Kuala Lumpur",
    "phone": "017-202 1638",
    "checked_at": "2026-10-17T00:40:55Z"
+  },
+  {
+   "name": "Stella Toy House",
+   "group": "in_store",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "W.P, 6-2, Jalan Jalil Jaya 1, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "phone": "011-1447 3791",
+   "website": "https://www.facebook.com/StallaToyHouse",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Stella Toy House Seremban",
@@ -1787,6 +2558,17 @@
    "checked_at": "2026-10-17T00:41:47Z"
   },
   {
+   "name": "Tavern Games TCG",
+   "group": "in_store",
+   "address": "238 Balestier Rd, Singapore, Singapore, 329701, SG",
+   "phone": "6593219693",
+   "website": "https://www.instagram.com/taverngames.tcg?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "TCG BROS ENTERPRISE",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1813,6 +2595,50 @@
    "checked_at": "2026-10-17T00:41:53Z"
   },
   {
+   "name": "Team Card Game",
+   "group": "in_store",
+   "address": "16 Arumugam Rd #01-02, Singapore, Singapore, 409961, SG",
+   "phone": "+6593406130",
+   "website": "https://www.facebook.com/teamcardgame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "The Bonfire Hobby Shop",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "05-09, wisma sp setia, indah walk 3, bukit indah, johor bahru, johor, 81200, Malaysia",
+   "phone": "+601154322509",
+   "website": "https://www.facebook.com/thebonfirehobbyshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "The Card Go-Getters (TCGG)",
+   "group": "in_store",
+   "city": "Cheras",
+   "region": "Selangor",
+   "address": "7-2, Jalan Tun Perak 1, Taman Tun Perak, 43200 Cheras, Selangor",
+   "phone": "019-255 6929",
+   "website": "https://www.facebook.com/people/The-Card-Go-Getters-PLT/61587144134449/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "The Card Shop",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "54A, Jln 19/3, Seksyen 19, 46300 Petaling Jaya, Selangor",
+   "phone": "011-6321 6126",
+   "website": "https://www.facebook.com/thecardshopplt",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "The Card Shop PLT",
    "group": "in_store",
    "city": "Petaling Jaya",
@@ -1824,7 +2650,18 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:34Z"
+   "checked_at": "2026-10-17T00:41:46Z"
+  },
+  {
+   "name": "The Collective",
+   "group": "in_store",
+   "address": "No 21-2, JALAN ELEKTRON F U16/F, DENAI ALAM, Shah Alam, Selangor, 40160, Malaysia",
+   "phone": "+6019665-4583",
+   "website": "https://www.facebook.com/collectivegamers/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "The Collective Gamers Sdn Bhd",
@@ -1881,12 +2718,14 @@
    "group": "in_store",
    "city": "Subang Jaya",
    "region": "Selangor",
-   "address": "29, Jalan USJ 10/1a, Taipan Business Centre, 47600 Subang Jaya, Selangor, Malaysia, Subang Jaya, Selangor, 47600",
-   "phone": "+60 16-311 7605",
+   "address": "29-1, Jalan USJ 10/1A, Taipan Business Centre, Subang Jaya, 10, 47620, Malaysia",
+   "phone": "+60163117605",
+   "website": "https://www.facebook.com/TheWeatherlightEnterprise",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:40:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Ting Tong Enterprise",
@@ -1907,6 +2746,25 @@
    "checked_at": "2026-10-17T00:41:42Z"
   },
   {
+   "name": "Toreca Hobby",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "10a, Jalan SS 21/58, Damansara Utama, 47400 Petaling Jaya, Selangor",
+   "website": "https://www.facebook.com/profile.php?id=61559125966110",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Toysbar",
+   "group": "in_store",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "78A, Jalan SS 22/21, Damansara Jaya, 47400 Petaling Jaya, Selangor",
+   "phone": "010-761 7278",
+   "website": "https://www.facebook.com/Toysbar/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Trinity TCG",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1923,6 +2781,28 @@
    "checked_at": "2026-10-17T00:42:17Z"
   },
   {
+   "name": "TT Hobby Store",
+   "group": "in_store",
+   "address": "No. 6, Jalan Sri Sarawak 26, Taman Sri Andalas, Klang, 10, 41200, Malaysia",
+   "phone": "6060 (012) 676-3291",
+   "website": "https://www.facebook.com/ttcardhobbystore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Twenty Twenty Book Centre",
+   "group": "in_store",
+   "address": "Twenty Twenty Book Centre, Penang, 07, 11900, Malaysia",
+   "phone": "60(+60) 124940817",
+   "website": "https://www.facebook.com/MtgPenang",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "Twenty Twenty Hobby Centre",
    "group": "in_store",
    "city": "Gelugor",
@@ -1930,7 +2810,7 @@
    "address": "Jalan Sungai Dua, Kampung Dua Bukit, 11700 Gelugor, Pulau Pinang",
    "phone": "012-494 0817",
    "website": "http://www.facebook.com/MtgPenang",
-   "checked_at": "2026-10-17T00:41:43Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Umbra Vault TCG",
@@ -1949,6 +2829,26 @@
    "address": "Lot 2-KA008 2ND FLOOR, PLAZA LOW YAT, Off, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
    "phone": "016-444 4128",
    "checked_at": "2026-10-17T00:41:22Z"
+  },
+  {
+   "name": "VH Card Game & Blind Box",
+   "group": "in_store",
+   "city": "Johor Bahru",
+   "region": "Johor Darul Ta'zim",
+   "address": "16, Jalan Kelewang, Taman Sri Tebrau, 80500 Johor Bahru, Johor Darul Ta'zim",
+   "phone": "011-2116 1468",
+   "website": "https://www.facebook.com/lanavapesritebrau",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
+   "name": "Victory TCG & Collectibles",
+   "group": "in_store",
+   "city": "Kuching",
+   "region": "Sarawak",
+   "address": "LOT 13009 BLOCK 16, KUCHING CENTRAL LAND DISTRICT 27 GALACITY, Jalan Tun Jugah, GALA CITY, 93250 Kuching, Sarawak",
+   "phone": "012-507 5728",
+   "website": "https://www.facebook.com/share/1Cx3vUvYVj/",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Vivae Board Game Cafe",
@@ -1981,6 +2881,16 @@
    "checked_at": "2026-10-17T00:42:31Z"
   },
   {
+   "name": "WWC Dot Com",
+   "group": "in_store",
+   "city": "Ipoh",
+   "region": "Perak",
+   "address": "AG 57, Pengkalan Emas Mall, Jalan Pasir Puteh, Station 18, 31650 Ipoh, Perak",
+   "phone": "012-501 5851",
+   "website": "https://www.facebook.com/onlinewwc/",
+   "checked_at": "2026-10-17T00:42:25Z"
+  },
+  {
    "name": "XLB The Hobbyist",
    "group": "in_store",
    "city": "Johor Bahru",
@@ -1997,7 +2907,7 @@
    "address": "Edelweiss Shoppes ,Lot L1-05A, NO. 2B, PERSIARAN SURIAN, PJU 3, Tropicana Indah, 47810 Petaling Jaya, Selangor",
    "phone": "017-988 5999",
    "website": "https://www.instagram.com/xyzspply",
-   "checked_at": "2026-10-17T00:41:11Z"
+   "checked_at": "2026-10-17T00:42:17Z"
   },
   {
    "name": "Yagami Toys",
@@ -2017,6 +2927,17 @@
    "checked_at": "2026-10-17T00:41:53Z"
   },
   {
+   "name": "Yukai Collectibles",
+   "group": "in_store",
+   "address": "61 Ubi Rd , 04-17 Oxley Bizhub 1, Singapore, Singapore, 408727, SG",
+   "phone": "+6596693264",
+   "website": "https://www.instagram.com/yukaicollectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:17Z"
+  },
+  {
    "name": "YUME CARD STUDIO",
    "group": "in_store",
    "city": "Skudai",
@@ -2024,7 +2945,7 @@
    "address": "50b, Jalan Jati 1, Taman Nusa Bestari Jaya, 81300 Skudai, Johor Darul Ta'zim",
    "phone": "012-671 0907",
    "website": "https://www.facebook.com/share/1BikkAdq2T/",
-   "checked_at": "2026-10-17T00:42:07Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Yume Hobby Station",
@@ -2063,7 +2984,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:34Z"
+   "checked_at": "2026-10-17T00:41:02Z"
   },
   {
    "name": "Ace Cards - Collect A Deck • 1 Utama",
@@ -2073,7 +2994,7 @@
    "address": "SK113, 2nd Floor, 1 Utama Shopping Centre, Old Wing, Damansara Utama, 47800 Petaling Jaya, Selangor",
    "phone": "012-811 3589",
    "website": "https://acecards.com/",
-   "checked_at": "2026-10-17T00:41:01Z"
+   "checked_at": "2026-10-17T00:41:02Z"
   },
   {
    "name": "Ace Cards • Sunway Pyramid",
@@ -2113,11 +3034,11 @@
    "region": "Selangor",
    "address": "Taman Wawasan, 47100 Puchong, Selangor, Malaysia, Puchong, Selangor, 47100",
    "phone": "+60 18-872 3884",
-   "website": "https://shopee.com.my/lonelywish",
+   "website": "https://shopee.com.my/mi2giftshop",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:39Z"
+   "checked_at": "2026-10-17T00:42:31Z"
   },
   {
    "name": "Alexandria Bookstore",
@@ -2169,19 +3090,6 @@
    "checked_at": "2026-10-17T00:39:34Z"
   },
   {
-   "name": "Boards & Brews",
-   "group": "unknown",
-   "city": "Subang Jaya",
-   "region": "Selangor",
-   "address": "5a, Jalan PJS 11/7, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia, Subang Jaya, Selangor, 47500",
-   "phone": "+60 17-402 5550",
-   "website": "http://tabletop-district.business.site/?fbclid=IwAR0ZbF0a15n0REbz-Zj3gecy_BD39mJkPegw91ceBaqXyiN1LuPquU1-RUU",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-17T00:40:43Z"
-  },
-  {
    "name": "Books Kinokuniya Malaysia - Suria KLCC",
    "group": "unknown",
    "city": "Kuala Lumpur",
@@ -2198,8 +3106,8 @@
    "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "Jalan Sultan, City Centre, 50000 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur",
    "phone": "011-6090 6961",
-   "website": "https://www.bookxcess.com/",
-   "checked_at": "2026-10-17T00:41:25Z"
+   "website": "https://www.bookxcess.com/bookstore",
+   "checked_at": "2026-10-17T00:42:14Z"
   },
   {
    "name": "BookXcess Sunway JB",
@@ -2231,16 +3139,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:39:34Z"
-  },
-  {
-   "name": "Bulba Milk TCG",
-   "group": "unknown",
-   "city": "Kuala Lumpur",
-   "region": "Wilayah Persekutuan Kuala Lumpur",
-   "address": "117-1, Jalan Radin Bagus, Bandar Baru Sri Petaling, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
-   "phone": "016-215 1517",
-   "website": "https://shopee.com.my/shop/51689099",
-   "checked_at": "2026-10-17T00:41:02Z"
   },
   {
    "name": "Capybara Cards",
@@ -2280,16 +3178,14 @@
   {
    "name": "Cardcade Tabletop Cafe",
    "group": "unknown",
-   "city": "Kuala Lumpur",
-   "region": "Wilayah Persekutuan Kuala Lumpur",
    "address": "Dataran Pelangi Utama, Jalan Masjid, PJU6A 3A-10, Bandar Utama, Selangor, 47400, Malaysia",
    "phone": "+60176685925",
-   "website": "https://linktr.ee/cardcade",
+   "website": "https://linktr.ee/favoniahobbies?utm_source=linktree_profile_share&ltsid=a25a4add-3ac1-473d-8807-c9114100403d",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:40Z"
+   "checked_at": "2026-10-17T00:42:22Z"
   },
   {
    "name": "Cards & Hobbies",
@@ -2303,7 +3199,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:42Z"
+   "checked_at": "2026-10-17T00:40:54Z"
   },
   {
    "name": "Cards & Hobbies",
@@ -2344,9 +3240,9 @@
    "region": "Johor Darul Ta'zim",
    "address": "4F-73, Paradigm Mall, Lbh Skudai, Taman Bukit Mewah, 81200 Johor Bahru, Johor Darul Ta'zim",
    "phone": "03-6414 3934",
-   "website": "https://my.webuy.com/site/storeDetail/?branchId=25017",
+   "website": "https://my.webuy.com/",
    "buylist_url": "https://my.webuy.com/sell/",
-   "checked_at": "2026-10-17T00:42:12Z"
+   "checked_at": "2026-10-17T00:42:28Z"
   },
   {
    "name": "CeX",
@@ -2466,11 +3362,11 @@
    "region": "Melaka",
    "address": "664e, 1, Jalan Bukit Melaka 1/2, Taman Kerjasama, 75450 Bukit Beruang, Melaka, Malaysia, Bukit Beruang, Melaka, 75450",
    "phone": "60173479512",
-   "website": "https://shopee.com.my/epichobbiesmelaka",
+   "website": "https://shopee.com.my/mi2giftshop",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:44Z"
+   "checked_at": "2026-10-17T00:42:31Z"
   },
   {
    "name": "Epoch Story Hobby",
@@ -2671,6 +3567,17 @@
    "checked_at": "2026-10-17T00:42:06Z"
   },
   {
+   "name": "Hotspot TCG",
+   "group": "unknown",
+   "address": "35 Selegie Rd #02-17, Singapore, Singapore, 188307, SG",
+   "phone": "6589793508",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:39:34Z"
+  },
+  {
    "name": "Huattoru",
    "group": "unknown",
    "address": "71 Oxley Bizhub, #05-40 , Singapore , Singapore , 408732, SG",
@@ -2698,8 +3605,8 @@
    "region": "Johor Darul Ta'zim",
    "address": "L2-53, KSL City, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor Darul Ta'zim",
    "phone": "016-715 1135",
-   "website": "https://shopee.com.my/hcgames",
-   "checked_at": "2026-10-17T00:42:07Z"
+   "website": "https://shopee.com.my/mi2giftshop",
+   "checked_at": "2026-10-17T00:42:31Z"
   },
   {
    "name": "Hypebox (Amcorp Mall)",
@@ -2739,7 +3646,7 @@
    "address": "Unit C1, 1946, Jalan Perusahaan, Auto-City, 13600 Perai, Pulau Pinang",
    "phone": "019-837 0633",
    "website": "https://www.impulse.com.my/",
-   "checked_at": "2026-10-17T00:41:45Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Impulse Gaming (Ipoh Branch)",
@@ -2759,7 +3666,7 @@
    "address": "55, Jalan Serampang, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta'zim",
    "phone": "018-962 3633",
    "website": "https://www.impulse.com.my/",
-   "checked_at": "2026-10-17T00:41:53Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Impulse Gaming (KL Flagship Store)",
@@ -2769,7 +3676,7 @@
    "address": "Lot 4, Jln Sungai Besi, Chan Sow Lin, 57100 Sungai Besi, Wilayah Persekutuan Kuala Lumpur",
    "phone": "019-726 2633",
    "website": "https://www.impulse.com.my/",
-   "checked_at": "2026-10-17T00:41:02Z"
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "Impulse Gaming (Penang Branch)",
@@ -2778,8 +3685,8 @@
    "region": "Pulau Pinang",
    "address": "2, Jalan Kek Chuan, George Town, 10400 George Town, Pulau Pinang",
    "phone": "018-972 0633",
-   "website": "https://impulse.com.my/",
-   "checked_at": "2026-10-17T00:41:41Z"
+   "website": "https://www.impulse.com.my/",
+   "checked_at": "2026-10-17T00:42:25Z"
   },
   {
    "name": "JTF Official Card Shop",
@@ -2788,8 +3695,8 @@
    "region": "Johor Darul Ta'zim",
    "address": "23-01, Jalan Kempas Indah 6, Taman Kempas Indah, 81300 Johor, Johor Darul Ta'zim",
    "phone": "010-769 9027",
-   "website": "https://shopee.com.my/jtfyugioh",
-   "checked_at": "2026-10-17T00:41:53Z"
+   "website": "https://shopee.com.my/mi2giftshop",
+   "checked_at": "2026-10-17T00:42:31Z"
   },
   {
    "name": "KADO ASIA (Trading Card Shop)",
@@ -2822,16 +3729,6 @@
    "checked_at": "2026-10-17T00:41:17Z"
   },
   {
-   "name": "Kichi TCG",
-   "group": "unknown",
-   "city": "Puchong",
-   "region": "Selangor",
-   "address": "77-2, Jalan BK 5a/2, Bandar Kinrara, 47180 Puchong, Selangor",
-   "phone": "011-1093 3488",
-   "website": "https://www.kichitcg.com/",
-   "checked_at": "2026-10-17T00:41:15Z"
-  },
-  {
    "name": "KOMTAR JBCC",
    "group": "unknown",
    "city": "Johor Bahru",
@@ -2854,16 +3751,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:39:50Z"
-  },
-  {
-   "name": "LF Collectibles Trading",
-   "group": "unknown",
-   "city": "PJ",
-   "region": "Selangor",
-   "address": "3A-01, DATARAN PELANGI UTAMA, PJU 6A, Jln Masjid, Bandar Utama, 47400 Petaling Jaya, Selangor",
-   "phone": "016-358 8827",
-   "website": "https://shopee.com.my/lf_vcollect?categoryId=100639&itemId=17980353365",
-   "checked_at": "2026-10-17T00:41:12Z"
   },
   {
    "name": "littleAKIBA",
@@ -2920,7 +3807,18 @@
    "address": "Pavilion Lot 6.24.8B, Level 6 , Pavilion KL, 168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
    "phone": "03-2110 4833",
    "website": "https://www.m4g.com.my/",
-   "checked_at": "2026-10-17T00:41:18Z"
+   "checked_at": "2026-10-17T00:41:34Z"
+  },
+  {
+   "name": "Meta Games 2",
+   "group": "unknown",
+   "address": "756 Upper Serangoon Rd 04-33, Singapore, Singapore, 534626, SG",
+   "phone": "6586116112",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:39:34Z"
   },
   {
    "name": "Mi2 gift shop ipoh",
@@ -3028,7 +3926,7 @@
    "address": "10, Jalan Biola 33/1, Seksyen 33, 40350 Shah Alam, Selangor",
    "phone": "012-639 9294",
    "website": "https://www.ericfun.com/",
-   "checked_at": "2026-10-17T00:40:50Z"
+   "checked_at": "2026-10-17T00:40:51Z"
   },
   {
    "name": "Penn - Mart Toys",
@@ -3069,16 +3967,6 @@
    "phone": "017-958 8724",
    "website": "https://premiercardgrading.com.my/?tid=qlRIncvMd8",
    "checked_at": "2026-10-17T00:41:30Z"
-  },
-  {
-   "name": "Quantum Nexus PLT",
-   "group": "unknown",
-   "city": "Kuala Lumpur",
-   "region": "Wilayah Persekutuan Kuala Lumpur",
-   "address": "GC-01, The Orion Condominium, 149, Jln Tun Razak, Kampung Baru, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
-   "phone": "016-696 6566",
-   "website": "https://quantumnexuskl.wpcomstaging.com/",
-   "checked_at": "2026-10-17T00:41:07Z"
   },
   {
    "name": "Rel Collectibles",
@@ -3122,7 +4010,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:48Z"
+   "checked_at": "2026-10-17T00:41:43Z"
   },
   {
    "name": "Shuffle by Snacks & Ladders",
@@ -3166,7 +4054,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T00:39:45Z"
+   "checked_at": "2026-10-17T00:41:28Z"
   },
   {
    "name": "Storm Gate Games",
@@ -3185,9 +4073,9 @@
    "region": "Selangor",
    "address": "A-G-02, The Tube, Prima Avenue, Jalan PJU 1/139, Dataran Prima, 57301 Petaling Jaya, Selangor",
    "phone": "010-942 9601",
-   "website": "https://linktr.ee/syazrelcollectibles",
+   "website": "https://linktr.ee/favoniahobbies?utm_source=linktree_profile_share&ltsid=a25a4add-3ac1-473d-8807-c9114100403d",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T00:41:10Z"
+   "checked_at": "2026-10-17T00:42:22Z"
   },
   {
    "name": "Sykt Kiang Trading Sdn Bhd (Jalan Tampoi)",
@@ -3206,11 +4094,22 @@
    "region": "Sabah",
    "address": "1Borneo Hypermall, Jalan UMS, 88400 Kota Kinabalu, Sabah, Malaysia, Kota Kinabalu, Sabah, 88400",
    "phone": "+60 16-831 5730",
-   "website": "https://shopee.com.my/tabletoparena",
+   "website": "https://shopee.com.my/mi2giftshop",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:42Z"
+   "checked_at": "2026-10-17T00:42:31Z"
+  },
+  {
+   "name": "TCA x ZBL Lot 10 (Team Connect Asia)",
+   "group": "unknown",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "Level 3 ,T1-T2, Lot 10, 50, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "phone": "012-369 6235",
+   "website": "https://linktr.ee/favoniahobbies?utm_source=linktree_profile_share&ltsid=a25a4add-3ac1-473d-8807-c9114100403d",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:42:22Z"
   },
   {
    "name": "TCG Malaysia - Amcorp Mall",
@@ -3230,17 +4129,7 @@
    "address": "Unit 07-09 7th Floor, Berjaya Times Square Mall, Berjaya Times Square, 1, Jln Imbi, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
    "phone": "016-700 6200",
    "website": "https://tcgmalaysia.com/",
-   "checked_at": "2026-10-17T00:40:51Z"
-  },
-  {
-   "name": "The Bonfire Hobby Shop",
-   "group": "unknown",
-   "city": "Johor Bahru",
-   "region": "Johor Darul Ta'zim",
-   "address": "05-09, level 5, Wisma SP Setia, Jalan Indah 15, Taman Bukit Indah, 81200 Johor Bahru, Johor Darul Ta'zim",
-   "phone": "011-5432 2509",
-   "website": "https://hitpay.shop/BonfireHobbyShopMY/",
-   "checked_at": "2026-10-17T00:41:55Z"
+   "checked_at": "2026-10-17T00:41:07Z"
   },
   {
    "name": "The Collectors Hut",
@@ -3249,11 +4138,11 @@
    "region": "Sarawak",
    "address": "Jalan Shell, Lutong, 98000 Miri, Sarawak, Malaysia, Miri, Sarawak, 98000",
    "phone": "+60199810450",
-   "website": "https://shopee.com.my/thecollectorshut",
+   "website": "https://shopee.com.my/mi2giftshop",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T00:40:39Z"
+   "checked_at": "2026-10-17T00:42:31Z"
   },
   {
    "name": "The Gentlemen's Vault",
@@ -3290,6 +4179,18 @@
    "checked_at": "2026-10-17T00:41:38Z"
   },
   {
+   "name": "THE HYPEBOX",
+   "group": "unknown",
+   "address": "NO 9-G, JALAN SETIA UTAMA AR,  U13/AR, SEKSYEN U13, SETIA ALAM, Shah Alam, Selangor, 40170, Malaysia",
+   "phone": "+60172220285",
+   "website": "https://linktr.ee/favoniahobbies?utm_source=linktree_profile_share&ltsid=a25a4add-3ac1-473d-8807-c9114100403d",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T00:42:22Z"
+  },
+  {
    "name": "The Imaginarium",
    "group": "unknown",
    "address": "269 Queen St #02-226, Singapore, Singapore, 180269, SG",
@@ -3312,6 +4213,27 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T00:39:40Z"
+  },
+  {
+   "name": "The Nexus KL",
+   "group": "unknown",
+   "city": "Kuala Lumpur",
+   "region": "Wilayah Persekutuan Kuala Lumpur",
+   "address": "G-01, The Orion Condominium, 149, Jln Tun Razak, Kampung Baru, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+   "phone": "017-626 9479",
+   "website": "https://quantumnexuskl.wpcomstaging.com/",
+   "checked_at": "2026-10-17T00:41:07Z"
+  },
+  {
+   "name": "The Private Collective MY",
+   "group": "unknown",
+   "city": "PJ",
+   "region": "Selangor",
+   "address": "A-3-3A, Capital 1, Oasis Square, 2, Jalan PJU 1A/7A, Oasis Ara Damansara, 47301 Petaling Jaya, Selangor",
+   "phone": "011-8888 0419",
+   "website": "https://linktr.ee/favoniahobbies?utm_source=linktree_profile_share&ltsid=a25a4add-3ac1-473d-8807-c9114100403d",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-17T00:42:22Z"
   },
   {
    "name": "Trendy Toy Box TCG Card Game",

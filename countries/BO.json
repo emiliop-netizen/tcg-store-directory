@@ -1,8 +1,8 @@
 {
  "country": "BO",
  "currency": "BOB",
- "updated": "2026-10-18",
- "store_count": 83,
+ "updated": "2026-10-20",
+ "store_count": 104,
  "stores": [
   {
    "name": "A&C DIGITAL GAMES",
@@ -11,6 +11,15 @@
    "region": "Departamento de La Paz",
    "address": "Av. Perú 281, La Paz",
    "phone": "62415417",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Adicción Libre",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Santa Cruz Department",
+   "address": "6R5J+R5J, Santa Cruz de la Sierra",
+   "website": "https://www.facebook.com/groups/subastabol/",
    "checked_at": "2026-10-18T21:54:12Z"
   },
   {
@@ -76,6 +85,16 @@
    "checked_at": "2026-10-18T21:54:15Z"
   },
   {
+   "name": "Central Videojuegos",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "3er anillo interno y Av. Alemana, Pasillo 5, Local # 140, Santa Cruz de la Sierra",
+   "phone": "72601228",
+   "website": "http://www.facebook.com/videojuegos.santacruz",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "Clay jf",
    "group": "in_store",
    "city": "La Paz",
@@ -116,6 +135,16 @@
    "region": "Departamento de Santa Cruz",
    "address": "Barrio la colorada, C/c #81, Santa Cruz de la Sierra",
    "checked_at": "2026-10-18T21:54:17Z"
+  },
+  {
+   "name": "El Mosquito Lector",
+   "group": "in_store",
+   "city": "La Paz",
+   "region": "Departamento de La Paz",
+   "address": "Av.20 de Octubre 2052, La Paz",
+   "phone": "60102689",
+   "website": "http://www.facebook.com/el.mosquito.lector/",
+   "checked_at": "2026-10-18T21:54:12Z"
   },
   {
    "name": "Eufforia Games",
@@ -163,6 +192,16 @@
    "checked_at": "2026-10-18T21:54:12Z"
   },
   {
+   "name": "GAME STOP BOLIVIA",
+   "group": "in_store",
+   "city": "La Paz",
+   "region": "Departamento de La Paz",
+   "address": "Uyustus, Galeria, Ave Maria Local 5, La Paz",
+   "phone": "70575529",
+   "website": "https://www.facebook.com/GameStopBolivia/",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "Game World bolivia",
    "group": "in_store",
    "city": "Santa Cruz",
@@ -181,6 +220,26 @@
    "checked_at": "2026-10-18T21:54:15Z"
   },
   {
+   "name": "Gamestore",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Galeria casco viejo #33, Santa Cruz de la Sierra",
+   "phone": "70806174",
+   "website": "https://www.facebook.com/GameStoreBolivia",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "GUCCI GAMES",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "+591 SHOPPING BOLIVAR LOCAL #131 1ER PISO, Santa Cruz de la Sierra",
+   "phone": "77617306",
+   "website": "http://www.facebook.com/guccigames",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "Hobby store",
    "group": "in_store",
    "city": "Santa Cruz",
@@ -196,7 +255,7 @@
    "region": "Departamento de La Paz",
    "address": "Almirante Grau, La Paz",
    "phone": "75553555",
-   "checked_at": "2026-10-18T21:54:07Z"
+   "checked_at": "2026-10-18T21:54:17Z"
   },
   {
    "name": "Icarus Kpop Anime",
@@ -244,6 +303,16 @@
    "checked_at": "2026-10-18T21:54:17Z"
   },
   {
+   "name": "La Capiguara Contenta",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "591, Santa Cruz de la Sierra",
+   "phone": "79901147",
+   "website": "https://www.facebook.com/CuricheroSC",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "La guarida del goblin",
    "group": "in_store",
    "city": "La Paz",
@@ -260,6 +329,16 @@
    "address": "00000, La Paz",
    "phone": "75262768",
    "checked_at": "2026-10-18T21:54:07Z"
+  },
+  {
+   "name": "La Tiendita de Eliel",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "014, Santa Cruz de la Sierra",
+   "phone": "76347605",
+   "website": "https://instagram.com/tiendita_eliel?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-18T21:54:12Z"
   },
   {
    "name": "LANSERS GAMES .... carga de juegos ps2 - ps3 - ps4",
@@ -297,6 +376,25 @@
    "checked_at": "2026-10-18T21:54:17Z"
   },
   {
+   "name": "LudoCards",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Santa Cruz Department",
+   "address": "6R96+C2Q, Santa Cruz de la Sierra",
+   "phone": "76303752",
+   "website": "https://www.facebook.com/LudoCards/",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Ludomech",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Calle Tte. Arsenio Peña, Edificio Lares del Parque, Local #2, Santa Cruz de la Sierra",
+   "website": "https://www.facebook.com/ludomech/?ref=bookmarks",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "Luna virtual shop",
    "group": "in_store",
    "city": "Santa Cruz",
@@ -304,6 +402,25 @@
    "address": "Av/ centenario mercado 4 de noviembre sector cooperativa tiendas azul Av/ centenario, Santa Cruz de la Sierra",
    "phone": "77033659",
    "checked_at": "2026-10-18T21:54:15Z"
+  },
+  {
+   "name": "Magic Box - Tienda de Regalos",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "0000, Santa Cruz de la Sierra",
+   "website": "https://www.facebook.com/profile.php?id=100092638425082&mibextid=avESrC",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Mangarake Melody",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Av. Cañoto, Santa Cruz de la Sierra",
+   "phone": "75359912",
+   "website": "https://www.facebook.com/Mangarake-Melody-1944094739252192/",
+   "checked_at": "2026-10-18T21:54:12Z"
   },
   {
    "name": "MAURICIO GAMES",
@@ -324,6 +441,16 @@
    "checked_at": "2026-10-18T21:54:15Z"
   },
   {
+   "name": "Monitos Geek",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Republiquetas 484, Santa Cruz de la Sierra",
+   "phone": "76657733",
+   "website": "https://www.facebook.com/MonitosGeek",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "Monster Game",
    "group": "in_store",
    "city": "Santa Cruz",
@@ -338,6 +465,16 @@
    "city": "Santa Cruz",
    "region": "Santa Cruz Department",
    "address": "6R96+P5R, Santa Cruz de la Sierra",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Mundo Gamer",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Ave Melchor Pinto 135, Santa Cruz de la Sierra",
+   "phone": "70084000",
+   "website": "https://www.facebook.com/MUNDOGAMERSANTACRUZ",
    "checked_at": "2026-10-18T21:54:12Z"
   },
   {
@@ -402,6 +539,16 @@
    "checked_at": "2026-10-18T21:54:12Z"
   },
   {
+   "name": "Reset Games Santa Cruz",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "av. centenario 3º anillo interno, dentro del mercado 4, De Noviembre Caseta 22, Santa Cruz de la Sierra",
+   "phone": "69151839",
+   "website": "https://www.facebook.com/Internet-Reset-Games-Santa-Cruz-326911877366040/",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
    "name": "RM Juegos de Mesa",
    "group": "in_store",
    "city": "La Paz",
@@ -426,6 +573,16 @@
    "region": "Departamento de Santa Cruz",
    "address": "1er anillo, Beni 35, Santa Cruz de la Sierra",
    "phone": "78158255",
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Shadow Games - La Paz",
+   "group": "in_store",
+   "city": "La Paz",
+   "region": "Departamento de La Paz",
+   "address": "E.Valle 12, La Paz",
+   "phone": "62328866",
+   "website": "https://www.facebook.com/shadowgamesbo/",
    "checked_at": "2026-10-18T21:54:12Z"
   },
   {
@@ -483,15 +640,34 @@
   {
    "name": "Tierra Media Games Centro",
    "group": "in_store",
-   "city": "La Paz",
-   "region": "Departamento de La Paz",
    "address": "C. Almirante Grau 227, La Paz, L, 0000, Bolivia, Plurinational State of",
    "phone": "591-22495415",
    "website": "https://www.facebook.com/TMGames/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:54:07Z"
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Tierra Media Games Obrajes",
+   "group": "in_store",
+   "address": "5236 Av. Hector Ormachea, La Paz, L, 06159, Bolivia, Plurinational State of",
+   "phone": "591227-88360",
+   "website": "https://www.facebook.com/TMGames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Toy Nesto",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "+591, Santa Cruz de la Sierra",
+   "phone": "76649879",
+   "website": "https://www.facebook.com/Toynesto",
+   "checked_at": "2026-10-18T21:54:12Z"
   },
   {
    "name": "UBICACIÓN DE LA EMPRESA",
@@ -545,6 +721,16 @@
    "address": "2442, Santa Cruz de la Sierra",
    "phone": "70492203",
    "checked_at": "2026-10-18T21:54:15Z"
+  },
+  {
+   "name": "WINGS STORE BOL",
+   "group": "in_store",
+   "city": "Santa Cruz",
+   "region": "Departamento de Santa Cruz",
+   "address": "Calle 21 de Mayo 20, Santa Cruz de la Sierra",
+   "phone": "64131108",
+   "website": "https://www.facebook.com/wingsstorebol/",
+   "checked_at": "2026-10-18T21:54:12Z"
   },
   {
    "name": "World Games",
@@ -663,7 +849,7 @@
    "address": "Shopping V Centenario, local 5. Avenida 6 de agosto casi, J.J.Perez, La Paz",
    "phone": "69954582",
    "website": "https://lavineteca.com/",
-   "checked_at": "2026-10-18T21:54:08Z"
+   "checked_at": "2026-10-18T21:54:16Z"
   },
   {
    "name": "La Viñeteca",
@@ -694,6 +880,17 @@
    "phone": "76326001",
    "website": "http://www.outletcenter.bo/",
    "checked_at": "2026-10-18T21:54:12Z"
+  },
+  {
+   "name": "Pc Games Xtreme Bolivia Villa Fátima",
+   "group": "unknown",
+   "city": "La Paz",
+   "region": "Departamento de La Paz",
+   "address": "Villa Fatima Calle Mayor, Lopera # 269, La Paz",
+   "phone": "71213717",
+   "website": "https://linktr.ee/retro.storetore",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-18T21:54:07Z"
   },
   {
    "name": "PLAY GAMES",
@@ -756,6 +953,17 @@
    "address": "Almirante Grau 227, La Paz",
    "phone": "2 2495415",
    "website": "http://www.tmgames.com/",
+   "checked_at": "2026-10-18T21:54:07Z"
+  },
+  {
+   "name": "Uruloki",
+   "group": "unknown",
+   "address": "21 de Mayo, Esquina Florida, Santa Cruz de la Sierra, S, 07-0101, Bolivia, Plurinational State of",
+   "phone": "59172620510",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-18T21:54:07Z"
   },
   {

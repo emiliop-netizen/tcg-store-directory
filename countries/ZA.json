@@ -1,8 +1,8 @@
 {
  "country": "ZA",
  "currency": "ZAR",
- "updated": "2026-10-16",
- "store_count": 214,
+ "updated": "2026-10-20",
+ "store_count": 215,
  "stores": [
   {
    "name": "Sword and Board Games and Hobbies",
@@ -137,8 +137,8 @@
    "region": "GP",
    "address": "Cnr Anderson St &, Kruis St, Marshalltown, Johannesburg, 2001",
    "phone": "087 820 6532",
-   "website": "https://www.cashconverters.co.za/?utm_source=GMB&utm_medium=Organic_Link&utm_campaign=Anderson-Street",
-   "checked_at": "2026-10-17T05:37:36Z"
+   "website": "https://www.cashconverters.co.za/?utm_source=GMB&utm_medium=Organic_Link&utm_campaign=Arbour-Crossing",
+   "checked_at": "2026-10-17T05:39:33Z"
   },
   {
    "name": "Cash Converters Arbour Crossing",
@@ -158,7 +158,7 @@
    "address": "Shop 41, Berea Centre, 249/257 King Dinuzulu Rd N, Berea, Durban, 4001",
    "phone": "031 201 6621",
    "website": "http://www.cashconverters.co.za/",
-   "checked_at": "2026-10-17T05:39:23Z"
+   "checked_at": "2026-10-17T05:40:16Z"
   },
   {
    "name": "Cash Converters Norwood Mall",
@@ -167,8 +167,8 @@
    "region": "GP",
    "address": "Norwood Mall Cnr 6th Ave, Hamlin St, Norwood, Johannesburg, 2192",
    "phone": "087 266 0250",
-   "website": "https://www.cashconverters.co.za/shop/store/cash-converters-norwood-mall",
-   "checked_at": "2026-10-17T05:37:50Z"
+   "website": "http://www.cashconverters.co.za/",
+   "checked_at": "2026-10-17T05:40:16Z"
   },
   {
    "name": "Cash Converters Queenswood",
@@ -188,7 +188,7 @@
    "address": "Parklands Main Rd, Shop 7, Cavalier Centre, Parklands, Cape Town, 7441",
    "phone": "021 557 5835",
    "website": "http://www.cashconverters.co.za/",
-   "checked_at": "2026-10-17T05:39:09Z"
+   "checked_at": "2026-10-17T05:40:16Z"
   },
   {
    "name": "FXSI",
@@ -547,6 +547,19 @@
    "checked_at": "2026-10-17T05:38:57Z"
   },
   {
+   "name": "Mossdog Games",
+   "group": "in_store",
+   "city": "Klein",
+   "region": "WC",
+   "address": "Leliefontein Boarding Kennels 7646 , Paarl, Western Cape, 7646, South Africa",
+   "phone": "+270606728390",
+   "website": "https://www.facebook.com/profile.php?id=61553478902427",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
    "name": "Motunrayo Holdings",
    "group": "in_store",
    "city": "Pretoria",
@@ -676,6 +689,17 @@
    "checked_at": "2026-10-17T05:39:23Z"
   },
   {
+   "name": "The Big Bang Store",
+   "group": "in_store",
+   "address": "9 Aurora Dr, uMhlanga, KZN, 4319, South Africa",
+   "phone": "+270824154873",
+   "website": "https://www.facebook.com/bigbangshopSA/?paipv=0&eav=AfZLEcxYPRJEliibHyVH5v2BCBQuN5TnSTEF7g2Y8_UnVpBM5Aeu8G4nlSBbEMDi-UA&_rdr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T05:36:32Z"
+  },
+  {
    "name": "The Game Shop",
    "group": "in_store",
    "city": "Johannesburg",
@@ -774,7 +798,7 @@
    "phone": "087 234 8530",
    "website": "https://www.toysrus.co.za/",
    "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
-   "checked_at": "2026-10-17T05:39:42Z"
+   "checked_at": "2026-10-17T05:40:29Z"
   },
   {
    "name": "Toys R Us | Babies R Us Rosebank Mall",
@@ -785,7 +809,7 @@
    "phone": "087 234 8560",
    "website": "https://www.toysrus.co.za/",
    "buylist_url": "https://www.toysrus.co.za/catalogsearch/result/?q=retailer+buylist&amnoroute",
-   "checked_at": "2026-10-17T05:38:17Z"
+   "checked_at": "2026-10-17T05:40:29Z"
   },
   {
    "name": "Toys R Us | Babies R Us The Grove Mall",
@@ -1077,7 +1101,7 @@
    "address": "Orpen Rd, Eastcliff, Johannesburg South, 2190",
    "phone": "076 412 7771",
    "website": "https://funkoholics.co.za/",
-   "checked_at": "2026-10-17T05:36:53Z"
+   "checked_at": "2026-10-17T05:37:24Z"
   },
   {
    "name": "Collectors HQ",
@@ -1168,7 +1192,7 @@
    "address": "Melrose Arch Shop, HL19, Birnam, Johannesburg, 2076",
    "phone": "087 351 1124",
    "website": "https://exclusivebooks.co.za/",
-   "checked_at": "2026-10-17T05:37:41Z"
+   "checked_at": "2026-10-17T05:40:20Z"
   },
   {
    "name": "Exclusive Books V&A Waterfront",
@@ -1178,7 +1202,7 @@
    "address": "6160, Victoria Wharf, 1 Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001",
    "phone": "021 419 0905",
    "website": "https://exclusivebooks.co.za/",
-   "checked_at": "2026-10-17T05:38:34Z"
+   "checked_at": "2026-10-17T05:40:20Z"
   },
   {
    "name": "Fanaticus Board Games",
@@ -1261,8 +1285,8 @@
    "region": "GP",
    "address": "Cnr Northern Parkway and, Data Cres, Ormonde, Johannesburg South, 2159",
    "phone": "011 248 5000",
-   "website": "https://www.tsogosun.com/casino/gold-reef-city/",
-   "checked_at": "2026-10-17T05:37:36Z"
+   "website": "https://www.tsogosun.com/casino/gold-reef-city-theme-park/?&utm_source=google&utm_medium=businesslisting&utm_campaign=ent_gold-reef-city-theme-park",
+   "checked_at": "2026-10-17T05:37:47Z"
   },
   {
    "name": "Gold Reef City Theme Park",
@@ -1427,12 +1451,12 @@
    "region": "GP",
    "address": "591 Braam Pretorius St, Pretoria, GP, 0084, South Africa",
    "phone": "+270837979697",
-   "website": "https://miragegaming.co.za/",
-   "buylist_url": "https://miragegaming.co.za/buylist",
+   "website": "https://www.miragegaming.co.za/",
+   "buylist_url": "https://www.miragegaming.co.za/buylist",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:36:37Z"
+   "checked_at": "2026-10-17T05:37:21Z"
   },
   {
    "name": "Mirage Gaming Durban",
@@ -1484,15 +1508,6 @@
    "phone": "012 460 2301",
    "website": "https://www.mpstationers.com/",
    "checked_at": "2026-10-17T05:40:14Z"
-  },
-  {
-   "name": "Mossdog Games",
-   "group": "unknown",
-   "city": "Klein",
-   "region": "WC",
-   "address": "Leliefontein Boarding Kennels, Klein, 7646",
-   "website": "https://mossdoggames.com/",
-   "checked_at": "2026-10-17T05:39:14Z"
   },
   {
    "name": "Muvo Cards",
@@ -1603,7 +1618,7 @@
    "address": "Shop 4, Campus Square, Kingsway, Auckland Park, Johannesburg, 2092",
    "phone": "011 482 7880",
    "website": "https://www.pna.co.za/",
-   "checked_at": "2026-10-17T05:37:12Z"
+   "checked_at": "2026-10-17T05:39:58Z"
   },
   {
    "name": "PNA Loftus Park",
@@ -1623,7 +1638,7 @@
    "address": "Saint Peters Square, 423 Main Rd, Observatory, Cape Town, 7925",
    "phone": "021 447 2676",
    "website": "https://www.pna.co.za/",
-   "checked_at": "2026-10-17T05:39:10Z"
+   "checked_at": "2026-10-17T05:39:58Z"
   },
   {
    "name": "Pokevaultza",
@@ -1824,8 +1839,8 @@
    "region": "GP",
    "address": "29 Voortrekker Ave, Edenvale, 1609",
    "phone": "011 454 4332",
-   "website": "https://www.bobshop.co.za/seller/4673119/Atticcomics",
-   "checked_at": "2026-10-17T05:38:07Z"
+   "website": "https://www.bobshop.co.za/",
+   "checked_at": "2026-10-17T05:38:09Z"
   },
   {
    "name": "The Batcave",
@@ -1996,7 +2011,7 @@
    "address": "Shop 407, Canal Walk, Century Blvd, Century City, Cape Town, 7441",
    "phone": "021 555 4791",
    "website": "https://www.toykingdom.co.za/",
-   "checked_at": "2026-10-17T05:38:57Z"
+   "checked_at": "2026-10-17T05:40:25Z"
   },
   {
    "name": "Toy Kingdom Gateway",
@@ -2006,7 +2021,7 @@
    "address": "Shop E034, Gateway Theatre of Shopping, 1, Palm Blvd, Umhlanga Ridge, uMhlanga, 4319",
    "phone": "031 566 4356",
    "website": "https://www.toykingdom.co.za/",
-   "checked_at": "2026-10-17T05:39:47Z"
+   "checked_at": "2026-10-17T05:40:25Z"
   },
   {
    "name": "Toy Kingdom Pavilion",
@@ -2016,7 +2031,7 @@
    "address": "Jack Martens Dr, Dawncliffe, Westville, 3629",
    "phone": "031 396 3799",
    "website": "https://www.toykingdom.co.za/",
-   "checked_at": "2026-10-17T05:39:49Z"
+   "checked_at": "2026-10-17T05:40:25Z"
   },
   {
    "name": "Trading Collectables",
@@ -2035,8 +2050,8 @@
    "region": "GP",
    "address": "Shop C207, 50 Bathlaan, Rosebank, Johannesburg, Johannesburg, 2194",
    "phone": "087 292 3007",
-   "website": "https://cottonon.com/ZA/typo-home/?utm_source=google-store-profiles&utm_medium=organic&utm_campaign=google-store-TYPO-ZA&utm_id=google-store-0977-TYPO",
-   "checked_at": "2026-10-17T05:37:09Z"
+   "website": "https://cottonon.com/ZA/typo-home/?utm_source=google-store-profiles&utm_medium=organic&utm_campaign=google-store-TYPO-ZA&utm_id=google-store-0704-TYPO",
+   "checked_at": "2026-10-17T05:40:24Z"
   },
   {
    "name": "Typo Menlyn Park",
@@ -2069,7 +2084,7 @@
    "address": "56 Jorissen St, Braamfontein, Johannesburg, 2000",
    "phone": "073 191 8665",
    "website": "https://www.vanschaik.com/",
-   "checked_at": "2026-10-17T05:37:18Z"
+   "checked_at": "2026-10-17T05:39:08Z"
   },
   {
    "name": "Van Schaik Bookstore Capetown CBD",
@@ -2112,7 +2127,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:36:32Z"
+   "checked_at": "2026-10-17T05:38:17Z"
   },
   {
    "name": "Wize Books",

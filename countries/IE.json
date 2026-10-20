@@ -1,8 +1,8 @@
 {
  "country": "IE",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 171,
+ "updated": "2026-10-20",
+ "store_count": 175,
  "stores": [
   {
    "name": "Pokebundles Ireland",
@@ -194,9 +194,12 @@
    "group": "in_store",
    "city": "Galway",
    "region": "G",
-   "address": "21 Abbeygate Street Upper, Galway, H91 KC79",
-   "phone": "(091) 567 930",
+   "address": "21 Upper Abbeygate street, Galway, CW, H91 KC79, Ireland",
+   "phone": "35391 567 930",
    "website": "https://www.facebook.com/p/Dungeons-and-Donuts-Galway-100063524125506/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:13:32Z"
   },
   {
@@ -389,8 +392,12 @@
    "group": "in_store",
    "city": "Cork",
    "region": "CO",
-   "address": "118 Oliver Plunkett St, Centre, Cork, T12 DXF8",
-   "website": "https://www.facebook.com/playinthesandbox",
+   "address": "Unit 2, Unity House, Cork City, C, Cork, Ireland",
+   "phone": "353857 021 733",
+   "website": "https://www.facebook.com/playinthesandbox/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:13:32Z"
   },
   {
@@ -412,6 +419,15 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "The Card Shop",
+   "group": "in_store",
+   "region": "D",
+   "address": "The Square Shopping Centre, Tallaght, Dublin 24, D24 NR29",
+   "phone": "(01) 459 9141",
+   "website": "http://facebook.com/thecardshoptallaght/",
+   "checked_at": "2026-10-16T02:13:32Z"
   },
   {
    "name": "The Card Shop",
@@ -445,11 +461,20 @@
   {
    "name": "The Guild Hall",
    "group": "in_store",
-   "city": "Limerick",
-   "region": "LK",
    "address": "3 New Market Ln High Street, Killarney, KY, V93FA31, Ireland",
    "phone": "3530857575710",
    "website": "https://instagram.com/theguildhallkillarney?igshid=OGQ5ZDc2ODk2ZA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "The Nook & Hobby",
+   "group": "in_store",
+   "address": "Lower Drumbiggle Road, Clonroad Beg,, Ennis, Co. Clare, V95P9TN, Ireland",
+   "phone": "+3530857767717",
+   "website": "https://www.instagram.com/thenookandhobby/",
    "games_events": [
     "Magic: The Gathering"
    ],
@@ -499,6 +524,23 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:13:40Z"
+  },
+  {
+   "name": "Waterford Tabletop Gaming Community, Warhammer, Boardgames, Dungeons and Dragons and much much more.",
+   "group": "in_store",
+   "region": "WD",
+   "address": "Unit 2, Boeing Avenue, Airport Business Park, Co. Waterford, X91 H302",
+   "website": "https://www.facebook.com/WaterfordTabletop",
+   "checked_at": "2026-10-16T02:13:32Z"
+  },
+  {
+   "name": "Wickham Way",
+   "group": "in_store",
+   "city": "Limerick",
+   "region": "LK",
+   "address": "11 Wickham St, Prior's-Land, Limerick, V94 WR8N",
+   "website": "https://instagram.com/wickhamwaylimerick?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-16T02:13:32Z"
   },
   {
    "name": "Cash Creators",

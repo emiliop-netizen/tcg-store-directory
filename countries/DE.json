@@ -1,8 +1,8 @@
 {
  "country": "DE",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 893,
+ "updated": "2026-10-20",
+ "store_count": 947,
  "stores": [
   {
    "name": "BreakTheCase",
@@ -863,16 +863,6 @@
    "checked_at": "2026-10-16T02:28:36Z"
   },
   {
-   "name": "MORI Cards TCG Store",
-   "group": "blocked",
-   "city": "Mörfelden-Walldorf",
-   "region": "HE",
-   "address": "Waldenserstraße 85, 64546 Mörfelden-Walldorf",
-   "phone": "0176 56168739",
-   "website": "http://www.moricards.de/",
-   "checked_at": "2026-10-16T21:47:42Z"
-  },
-  {
    "name": "MUJI",
    "group": "blocked",
    "city": "Düsseldorf",
@@ -1177,16 +1167,6 @@
    "checked_at": "2026-10-16T02:31:08Z"
   },
   {
-   "name": "Welt der Karten Berlin",
-   "group": "blocked",
-   "city": "Berlin",
-   "region": "BE",
-   "address": "Ehrlichstraße 22, 10318 Berlin",
-   "phone": "030 20847733",
-   "website": "https://weltderkarten-berlin.de/",
-   "checked_at": "2026-10-16T21:47:38Z"
-  },
-  {
    "name": "Zum Waschbären - Coon Cave",
    "group": "blocked",
    "city": "Ulm",
@@ -1200,16 +1180,29 @@
    "checked_at": "2026-10-16T02:33:40Z"
   },
   {
+   "name": "1-Card",
+   "group": "in_store",
+   "address": "Rathausstr. 12, Bad Endbach, Hessen, 35080, Germany",
+   "phone": "+4927764049966",
+   "website": "https://www.instagram.com/1cardshop?igsh=ODhnZmI5dnFzb2di&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "1A Gamer Lounge",
    "group": "in_store",
    "city": "Augsburg",
    "region": "Bayern",
-   "address": "Jakoberstraße 29, 86152 Augsburg, Germany, Augsburg, Bayern, 86152",
-   "phone": "017683059979",
+   "address": "Jakoberstr. 29, Augsburg, Bayern, 86152, Germany",
+   "phone": "+4917683059979",
+   "website": "https://www.instagram.com/p/DK2arVlIafi/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "A&TZTCGpower",
@@ -1218,6 +1211,19 @@
    "region": "SH",
    "address": "Weißdornweg 1B, 21509 Glinde",
    "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "A.C.E. Game Shop",
+   "group": "in_store",
+   "city": "Bielefeld",
+   "region": "Nordrhein-Westfalen",
+   "address": "Heeper Str. 278, 33607 Bielefeld, Germany, Bielefeld, Nordrhein-Westfalen, 33607",
+   "phone": "+4917684539709",
+   "website": "https://www.instagram.com/ace_gameshop/",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Alpakacards",
@@ -1251,12 +1257,14 @@
    "group": "in_store",
    "city": "Berlin",
    "region": "Berlin",
-   "address": "Allee der Kosmonauten 26, 12681 Berlin-Bezirk Marzahn-Hellersdorf, Germany, Berlin, Berlin, 12681",
-   "phone": "+49 176 56153848",
+   "address": "26 Allee der Kosmonauten, Berlin, Berlin, 12681, Germany",
+   "phone": "+4917656153848",
+   "website": "https://www.instagram.com/anger_hobbystore",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:38Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Ankauf Bender (ex AB Games)",
@@ -1274,13 +1282,10 @@
   {
    "name": "Arena Games (Ingolstadt)",
    "group": "in_store",
-   "city": "Dresden",
-   "region": "Sachsen",
    "address": "14 Tränktorstraße, Ingolstadt, BY, 85049, Germany",
    "phone": "+49(0)1723738166",
    "website": "https://www.facebook.com/thearenaDE",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:53Z"
@@ -1342,6 +1347,17 @@
    "checked_at": "2026-10-16T02:34:41Z"
   },
   {
+   "name": "Be Cards",
+   "group": "in_store",
+   "address": "Friedrichstraße 7, Düsseldorf, Nordrhein-Westfalen, 40217, Germany",
+   "phone": "+4921187630282",
+   "website": "https://www.instagram.com/be_cards_duesseldorf",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Be Cards - Trading Cards An- und Verkauf TCG Play Store Games Anime & More One Piece Pokémon Magic",
    "group": "in_store",
    "city": "Düsseldorf",
@@ -1367,6 +1383,17 @@
    "region": "HH",
    "address": "Lessingstraße 7, 22087 Hamburg",
    "checked_at": "2026-10-16T02:36:07Z"
+  },
+  {
+   "name": "Blu's Cards and Collectables",
+   "group": "in_store",
+   "address": "Marktplatz 22, Vilseck, Bayern, 92249, Germany",
+   "phone": "+4915251752466",
+   "website": "https://www.instagram.com/blus.cards.collectables/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Bol Sans Poker",
@@ -1405,6 +1432,20 @@
    "checked_at": "2026-10-16T02:28:40Z"
   },
   {
+   "name": "BuiBui - Games&Cards",
+   "group": "in_store",
+   "city": "Laatzen",
+   "region": "Niedersachsen",
+   "address": "54A Hildesheimer Str., Laatzen, NDS, 30880, Germany",
+   "phone": "+4917666403571",
+   "website": "https://www.instagram.com/buibui_games_and_cards/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Bunte Kiste",
    "group": "in_store",
    "city": "Herten",
@@ -1414,16 +1455,17 @@
    "checked_at": "2026-10-16T02:39:51Z"
   },
   {
-   "name": "CapsuleCards",
+   "name": "Card & Soul",
    "group": "in_store",
-   "city": "Lüdenscheid",
-   "region": "Nordrhein-Westfalen",
-   "address": "Werdohler Str. 94, 58511 Lüdenscheid, Germany, Lüdenscheid, Nordrhein-Westfalen, 58511",
-   "phone": "+49 1522 5281661",
+   "city": "Troisdorf",
+   "region": "NRW",
+   "address": "12 Alte Poststraße, Troisdorf, NRW, 53840, Germany",
+   "phone": "+491778676070",
+   "website": "https://www.instagram.com/cardandsoul",
    "games_events": [
-    "Flesh and Blood"
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Card Club. Malina und Scholl GbR",
@@ -1452,6 +1494,28 @@
    "region": "NRW",
    "address": "Bahnhofstraße 4, 53783 Eitorf",
    "checked_at": "2026-10-16T02:37:22Z"
+  },
+  {
+   "name": "Carl Otto Spiel und Freizeit GmbH",
+   "group": "in_store",
+   "address": "Lange Straße 14, Delmenhorst, Niedersachsen, 27753, Germany",
+   "phone": "+494221912453",
+   "website": "https://www.instagram.com/carlottospielundfreizeitgmbh/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
+   "name": "Chukkisgaminglounge",
+   "group": "in_store",
+   "address": "Bahnhofstraße 10, Wilhelmshaven, Niedersachsen, 26382, Germany",
+   "phone": "+4917681190250",
+   "website": "https://www.instagram.com/chukkis_gaminglounge",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "COMIC CENTRUM OBERHAUSEN",
@@ -1513,6 +1577,17 @@
    "checked_at": "2026-10-16T02:38:21Z"
   },
   {
+   "name": "Dampflion",
+   "group": "in_store",
+   "address": "Michaeliskirchhof 1, Zeitz, Sachsen-Anhalt, 06712, Germany",
+   "phone": "+4901627166833",
+   "website": "https://www.instagram.com/dampflion_store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Das Atom",
    "group": "in_store",
    "city": "Schwerin",
@@ -1560,6 +1635,20 @@
    "checked_at": "2026-10-16T02:36:34Z"
   },
   {
+   "name": "DemonicalTCG",
+   "group": "in_store",
+   "city": "Erbach",
+   "region": "Hessen",
+   "address": "6 Am Schloßgraben, Erbach, Hessen, 64711, Germany",
+   "phone": "+4915566255161",
+   "website": "https://www.instagram.com/demonicaltcg?igsh=Y3VjYzB2dzlscTI4",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Der Papierladen Mesecke",
    "group": "in_store",
    "city": "Hannover",
@@ -1597,6 +1686,17 @@
    "region": "BY",
    "address": "Rathsbergstraße 70, 90411 Nürnberg",
    "checked_at": "2026-10-16T02:41:17Z"
+  },
+  {
+   "name": "Dragons Lair",
+   "group": "in_store",
+   "address": "3 Stummrigestraße, Höxter, Nordrhein Westfalen, 37671, Germany",
+   "phone": "+4915257838779",
+   "website": "https://www.instagram.com/dragonslair_tcg_hx?igsh=MXJ4eThueWZmYTB2NA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Endless-Cards",
@@ -1644,6 +1744,17 @@
    "checked_at": "2026-10-16T02:36:35Z"
   },
   {
+   "name": "Fantasy Island",
+   "group": "in_store",
+   "address": "Ringweg 15, Kaufbeuren, BY, 87600, Germany",
+   "phone": "14983419727313",
+   "website": "https://www.instagram.com/fantasy_island_kaufbeuren/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Fantasy Laden Berlin (Schwert und Spiele)",
    "group": "in_store",
    "city": "Berlin",
@@ -1655,8 +1766,6 @@
   {
    "name": "Fantasy Store Euskirchen",
    "group": "in_store",
-   "city": "Leipzig",
-   "region": "SN",
    "address": "Oststr.4, Euskirchen, NW, 53879, Germany",
    "phone": "49+49 (0) 2251774881",
    "website": "https://m.facebook.com/fantasystoreeu/?ref=page_internal&mt_nav=0",
@@ -1714,15 +1823,18 @@
    "checked_at": "2026-10-16T02:39:28Z"
   },
   {
-   "name": "GAMEPHORIA",
+   "name": "Gamephoria",
    "group": "in_store",
    "city": "Bretten",
    "region": "Baden-Württemberg",
-   "address": "Weißhoferstraße 14, 75015 Bretten, Germany, Bretten, Baden-Württemberg, 75015",
+   "address": "14 Weißhofer Straße, Bretten, Baden-Württemberg, 75015, Germany",
+   "phone": "+4917618003567",
+   "website": "https://www.instagram.com/gamephoria.de/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "GamePlace - Klein-Neerken",
@@ -1732,15 +1844,6 @@
    "address": "Schwalbacher Str. 5, 12161 Berlin-Bezirk Tempelhof-Schöneberg",
    "phone": "0176 51445157",
    "checked_at": "2026-10-16T02:35:54Z"
-  },
-  {
-   "name": "Games Time",
-   "group": "in_store",
-   "city": "DO",
-   "region": "NRW",
-   "address": "Brackeler Hellweg 128, 44309 Dortmund",
-   "phone": "0178 4785670",
-   "checked_at": "2026-10-16T21:47:43Z"
   },
   {
    "name": "Gameshop OnPoint - Spielkonsolen und Spieleladen - Neu & Retro",
@@ -1793,6 +1896,20 @@
    "checked_at": "2026-10-16T02:34:25Z"
   },
   {
+   "name": "Heaven's Door",
+   "group": "in_store",
+   "city": "Berlin",
+   "region": "Berlin",
+   "address": "64 Wilhelminenhofstraße, Berlin, BE, 12459, Germany",
+   "phone": "4901708143597",
+   "website": "https://www.instagram.com/heavensdoorberlin",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Heldenwelt",
    "group": "in_store",
    "city": "Magdeburg",
@@ -1842,14 +1959,6 @@
    "checked_at": "2026-10-16T02:39:11Z"
   },
   {
-   "name": "J-Productions TCG Store",
-   "group": "in_store",
-   "city": "Heusenstamm",
-   "region": "HE",
-   "address": "Gebäuderückseite, Leibnizstraße 13, 63150 Heusenstamm",
-   "checked_at": "2026-10-16T21:47:42Z"
-  },
-  {
    "name": "JCM-Store",
    "group": "in_store",
    "city": "E",
@@ -1865,18 +1974,6 @@
    "address": "Benno-Strauß-Straße, 90763 Fürth",
    "phone": "055 373 2809",
    "checked_at": "2026-10-16T02:41:16Z"
-  },
-  {
-   "name": "Jolly Roger Games",
-   "group": "in_store",
-   "city": "Bochum",
-   "region": "Nordrhein-Westfalen",
-   "address": "Dorstener Str. 91, 44809 Bochum, Germany, Bochum, Nordrhein-Westfalen, 44809",
-   "phone": "0234 41403220",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
   },
   {
    "name": "Jolly Roger Games GmbH",
@@ -1915,20 +2012,26 @@
    "group": "in_store",
    "city": "Dortmund",
    "region": "Nordrhein-Westfalen",
-   "address": "Alfred-Trappen-Straße 18, 44263 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44263",
+   "address": "18 Alfred-Trappen-Straße, Dortmund, NRW, 44263, Germany",
+   "phone": "+49(0)1759332853",
+   "website": "https://www.instagram.com/kartenlounge?igsh=ZzlxZTJibHMxOGht&utm_source=qr",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Kindheitshelden",
    "group": "in_store",
    "city": "DO",
    "region": "NRW",
-   "address": "Asselner Hellweg 110, 44319 Dortmund-Brackel",
-   "phone": "015511 521869",
-   "website": "http://www.instagram.com/kindheitshelden_do",
+   "address": "110 Asselner Hellweg, Dortmund, Nordrhein Westfalen, 44319, Germany",
+   "phone": "+4915511521869",
+   "website": "https://www.instagram.com/kindheitshelden_do?igsh=d25jZW96cWt6ZnFj",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:28:40Z"
   },
   {
@@ -1940,6 +2043,20 @@
    "phone": "0176 82366855",
    "website": "https://www.kiosxtore.com/",
    "checked_at": "2026-10-16T02:40:56Z"
+  },
+  {
+   "name": "KultSpiele",
+   "group": "in_store",
+   "city": "Dortmund",
+   "region": "Nordrhein-Westfalen",
+   "address": "Kampstraße 35-37, Dortmund, Nordrhein Westfalen, 44137, Germany",
+   "phone": "+492312063758",
+   "website": "https://www.facebook.com/kultspiele",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "Lamar Clone Card vendor",
@@ -1972,6 +2089,19 @@
    "checked_at": "2026-10-16T02:33:49Z"
   },
   {
+   "name": "little BIG Nerds",
+   "group": "in_store",
+   "city": "Hannover",
+   "region": "NDS",
+   "address": "81 Sallstraße, Hannover, Niedersachsen, 30171, Germany",
+   "phone": "+4917623504274",
+   "website": "https://www.instagram.com/littlebignerds",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Little Tokyo Manga GmbH",
    "group": "in_store",
    "city": "Düsseldorf",
@@ -1981,27 +2111,12 @@
    "checked_at": "2026-10-16T02:39:01Z"
   },
   {
-   "name": "Luke´s Cardshop",
-   "group": "in_store",
-   "city": "Schönaich",
-   "region": "Baden-Württemberg",
-   "address": "Lange Str. 17, 71101 Schönaich, Germany, Schönaich, Baden-Württemberg, 71101",
-   "phone": "+49 1517 4102220",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
-  },
-  {
    "name": "MaWaBu",
    "group": "in_store",
-   "city": "Bielefeld",
-   "region": "Nordrhein-Westfalen",
    "address": "37-39 Steglitzer Damm, Berlin, Berlin, 12169, Germany",
    "phone": "+493062857017",
    "website": "https://www.instagram.com/mawabu_berlin/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:28:40Z"
@@ -2040,6 +2155,17 @@
    "region": "NRW",
    "address": "Flinger Str. 27, 40213 Düsseldorf",
    "checked_at": "2026-10-16T02:39:12Z"
+  },
+  {
+   "name": "ML Store",
+   "group": "in_store",
+   "address": "Harburger Str. 52, Schneverdingen, Niedersachsen, 29640, Germany",
+   "phone": "+4951938289502",
+   "website": "https://www.instagram.com/mlstore.svd?igsh=dXE1NmNpOWJyazRq&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "MoCards - Dein Markenshop",
@@ -2094,6 +2220,17 @@
    "checked_at": "2026-10-16T02:39:41Z"
   },
   {
+   "name": "Nerd Oase",
+   "group": "in_store",
+   "address": "29 Gerwigstraße, Karlsruhe, Baden-Württemberg, 76131, Germany",
+   "phone": "+49X",
+   "website": "https://www.instagram.com/nerdoase/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Nerdbox",
    "group": "in_store",
    "city": "Dresden",
@@ -2101,6 +2238,17 @@
    "address": "Rückertstraße 21, 01129 Dresden",
    "phone": "01522 5666365",
    "checked_at": "2026-10-16T02:40:50Z"
+  },
+  {
+   "name": "Next Turn Cards&Games",
+   "group": "in_store",
+   "address": "Bleichstraße 5, Göppingen, Baden-Württemberg, 73033, Germany",
+   "phone": "+4915256458533",
+   "website": "https://www.instagram.com/nextturncards/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "No Pixels Cisar & Domagalski GbR",
@@ -2130,11 +2278,14 @@
    "group": "in_store",
    "city": "Pforzheim",
    "region": "Baden-Württemberg",
-   "address": "Durlacher Str. 70, 75172 Pforzheim, Germany, Pforzheim, Baden-Württemberg, 75172",
+   "address": "70 Durlacher Straße, Pforzheim, Baden-Württemberg, 75172, Germany",
+   "phone": "+4915730831738",
+   "website": "https://www.instagram.com/onii_san.pforzheim/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:38Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Outer World 0711",
@@ -2159,6 +2310,17 @@
    "address": "Lindenstraße 27, 28755 Bremen",
    "phone": "0421 6520620",
    "checked_at": "2026-10-16T02:40:13Z"
+  },
+  {
+   "name": "Player's Paradise",
+   "group": "in_store",
+   "address": "Nürtingerhofstraße 9, Reutlingen, BW, 72764, Germany",
+   "phone": "+497121 513619",
+   "website": "https://m.facebook.com/pages/category/Shopping---Retail/Players-Paradise-287912127936036/?locale2=de_DE",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:30:16Z"
   },
   {
    "name": "Poke Paradies GmbH",
@@ -2202,6 +2364,17 @@
    "checked_at": "2026-10-16T02:37:22Z"
   },
   {
+   "name": "PokéXpert",
+   "group": "in_store",
+   "address": "6 Schmuggelstieg, Norderstedt, Schleswig-Holstein, 22848, Germany",
+   "phone": "+4917620047049",
+   "website": "https://www.instagram.com/pokexpert.shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "PokéXpert - Spielwarengeschäft - Sammelkarten & mehr!",
    "group": "in_store",
    "city": "Norderstedt",
@@ -2215,8 +2388,12 @@
    "group": "in_store",
    "city": "Ratingen",
    "region": "NRW",
-   "address": "Kaiserswerther Str. 43, 40878 Ratingen",
-   "website": "https://www.instagram.com/poyu.de?igsh=MTRneWZhYnNva3BteA==",
+   "address": "43 Kaiserswerther Str., Ratingen, Nordrhein Westfalen, 40878, Germany",
+   "phone": "+4915560705152",
+   "website": "https://www.instagram.com/poyu.de/?hl=de",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:28:40Z"
   },
   {
@@ -2226,6 +2403,17 @@
    "region": "NRW",
    "address": "Schleefstraße 15, 44287 Dortmund-Aplerbeck",
    "checked_at": "2026-10-16T02:39:41Z"
+  },
+  {
+   "name": "Prismania Toys",
+   "group": "in_store",
+   "address": "Hauptstrasse 66, Schwelm, Nordrhein Westfalen, 58332, Germany",
+   "phone": "+491779283764",
+   "website": "https://www.instagram.com/prismaniatoys/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Raccoons Cards & Coffee",
@@ -2250,6 +2438,17 @@
    "checked_at": "2026-10-16T02:34:39Z"
   },
   {
+   "name": "Redhead Gaming",
+   "group": "in_store",
+   "address": "Maybachstraße 6, Landshut, Bayern, 84030, Germany",
+   "phone": "+4915126974256",
+   "website": "https://www.instagram.com/redhead_gaming_?igsh=MXhoNW5obXd6ODVncw%3D%3D&igsi=MXhoNW5obXd6ODVncw%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Retroconrep",
    "group": "in_store",
    "address": "Karlstraße 21, Holzminden, Niedersachsen, 37604, Germany",
@@ -2261,6 +2460,28 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:33:11Z"
+  },
+  {
+   "name": "Rice Cards",
+   "group": "in_store",
+   "address": "3 Von-Sandt-Straße, Bonn, Nordrhein Westfalen, 53225, Germany",
+   "phone": "+491626068888",
+   "website": "https://www.instagram.com/rice.cards?igsh=MTd0d2xxbnNnM3k0Zg%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
+   "name": "Roger's Island",
+   "group": "in_store",
+   "address": "Kirchplatz 4, Mosbach, Baden-Württemberg, 74821, Germany",
+   "phone": "+4962619387040",
+   "website": "https://www.instagram.com/rogers_island?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Ruhrpott TCG Shop",
@@ -2279,6 +2500,16 @@
    "address": "Franziskastraße 31, 45131 Essen",
    "phone": "0201 6156881",
    "checked_at": "2026-10-16T02:40:00Z"
+  },
+  {
+   "name": "Sakura - Manga & Anime in Hamburg",
+   "group": "in_store",
+   "city": "Hamburg",
+   "region": "HH",
+   "address": "Heußweg 25, 20255 Hamburg-Eimsbüttel",
+   "phone": "040 7314650",
+   "website": "https://www.facebook.com/sakuraeldorado",
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "Scoop",
@@ -2319,6 +2550,28 @@
    "checked_at": "2026-10-16T02:39:07Z"
   },
   {
+   "name": "Siggy Toys",
+   "group": "in_store",
+   "address": "Bahnhofstr 27, Peine, Niedersachsen, 31224, Germany",
+   "phone": "+4915254916551",
+   "website": "https://www.instagram.com/siggy_toys_",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
+   "name": "Skyracer",
+   "group": "in_store",
+   "address": "An der Tränke 5, Minden, NW, 32423, Germany",
+   "phone": "+49(0)571 5093751",
+   "website": "https://m.facebook.com/SkyracerShop/?locale2=de_DE",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:30:16Z"
+  },
+  {
    "name": "Smilytoys - TCG Center",
    "group": "in_store",
    "city": "P",
@@ -2351,6 +2604,17 @@
    "address": "Kühlwetterstraße 31, 40239 Düsseldorf-Stadtbezirk 2",
    "phone": "0211 58090222",
    "checked_at": "2026-10-16T02:39:07Z"
+  },
+  {
+   "name": "Spellbook",
+   "group": "in_store",
+   "address": "19 Mauernstraße, Celle, Niedersachsen, 29221, Germany",
+   "phone": "+49015232753014",
+   "website": "https://www.instagram.com/spellbook_2024/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Spielboutique",
@@ -2428,6 +2692,17 @@
    "checked_at": "2026-10-16T02:34:47Z"
   },
   {
+   "name": "Table Flip",
+   "group": "in_store",
+   "address": "51 Rosenaustraße, Augsburg, BY, 86150, Germany",
+   "phone": "4901741831571",
+   "website": "https://www.instagram.com/tablefliptcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:40Z"
+  },
+  {
    "name": "Tabletop Spielertreff",
    "group": "in_store",
    "city": "Dresden",
@@ -2453,6 +2728,20 @@
    "address": "Molkereistraße 4, 28870 Ottersberg-Fischerhude",
    "phone": "01523 4512775",
    "checked_at": "2026-10-16T02:40:11Z"
+  },
+  {
+   "name": "TCG Portal",
+   "group": "in_store",
+   "city": "Dresden",
+   "region": "Sachsen",
+   "address": "Hoyerswerdaer Strasse 22, Dresden, SN, 01099, Germany",
+   "phone": "+49(0)176 32857191",
+   "website": "https://www.facebook.com/tcgportal/?locale=de_DE",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:53Z"
   },
   {
    "name": "TCG Shop Hamburg | Pokemon Karten & Co.",
@@ -2526,6 +2815,16 @@
    "checked_at": "2026-10-16T02:41:10Z"
   },
   {
+   "name": "Tom's Games World",
+   "group": "in_store",
+   "city": "Leipzig",
+   "region": "SN",
+   "address": "Wilhelm-Leuschner-Platz 12, 04107 Leipzig",
+   "phone": "0163 1696851",
+   "website": "https://m.facebook.com/TomsGamesWorldLeipzig/",
+   "checked_at": "2026-10-16T02:30:16Z"
+  },
+  {
    "name": "Topdecker",
    "group": "in_store",
    "city": "Lüdenscheid",
@@ -2578,15 +2877,17 @@
    "checked_at": "2026-10-16T02:38:45Z"
   },
   {
-   "name": "Wunderhöhle",
+   "name": "Welt der Karten Berlin",
    "group": "in_store",
-   "city": "Dortmund",
-   "region": "Nordrhein-Westfalen",
-   "address": "Rheinlanddamm 101, 44139 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44139",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "22 Ehrlichstraße, Berlin, BE, 10318, Germany",
+   "phone": "+493032660146",
+   "website": "https://www.instagram.com/weltderkarten/",
    "games_events": [
-    "Flesh and Blood"
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:40Z"
   },
   {
    "name": "Wunderhöhle",
@@ -2654,6 +2955,17 @@
    "phone": "02323 2040390",
    "website": "https://collectemall.de/",
    "checked_at": "2026-10-16T02:39:45Z"
+  },
+  {
+   "name": "3Vibes",
+   "group": "unknown",
+   "address": "Elisenstr. 1, Aschaffenburg, Bayern, 63739, Germany",
+   "phone": "+4915141377262",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "4 Aces-Poker",
@@ -2936,6 +3248,17 @@
    "phone": "0421 3498401",
    "website": "https://www.articolo-bremen.de/",
    "checked_at": "2026-10-16T02:40:19Z"
+  },
+  {
+   "name": "AT Cards",
+   "group": "unknown",
+   "address": "10 Münsterstraße, Lüdinghausen, Nordrhein Westfalen, 59348, Germany",
+   "phone": "+4917622957226",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Atlantis Hamburg",
@@ -3448,19 +3771,6 @@
    "checked_at": "2026-10-16T02:35:39Z"
   },
   {
-   "name": "BuiBui - Games&Cards",
-   "group": "unknown",
-   "city": "Laatzen",
-   "region": "Niedersachsen",
-   "address": "Hildesheimer Str. 54A, 30880 Laatzen, Germany, Laatzen, Niedersachsen, 30880",
-   "phone": "0176 66403571",
-   "website": "https://www.ebay.de/str/medibuy24xmediagames",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T02:39:44Z"
-  },
-  {
    "name": "BVB-FanWelt",
    "group": "unknown",
    "city": "DO",
@@ -3491,6 +3801,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:22Z"
+  },
+  {
+   "name": "Caiko TCG",
+   "group": "unknown",
+   "address": "13 Oststraße, Düsseldorf, Nordrhein Westfalen, 40211, Germany",
+   "phone": "+491737282295",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Caiko TCG Store",
@@ -3556,6 +3877,20 @@
    "checked_at": "2026-10-16T02:39:28Z"
   },
   {
+   "name": "CapsuleCards",
+   "group": "unknown",
+   "city": "Lüdenscheid",
+   "region": "Nordrhein-Westfalen",
+   "address": "94 Werdohler Str., Lüdenscheid, Nordrhein Westfalen, 58511, Germany",
+   "phone": "+4915225281661",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Card & Board Games Cologne e.V.",
    "group": "unknown",
    "city": "Köln",
@@ -3563,16 +3898,6 @@
    "address": "Metzer Str. 25, 50677 Köln",
    "website": "https://cbg.cologne/",
    "checked_at": "2026-10-16T02:37:09Z"
-  },
-  {
-   "name": "Card & Soul",
-   "group": "unknown",
-   "city": "Troisdorf",
-   "region": "NRW",
-   "address": "Alte Poststraße 12, 53840 Troisdorf",
-   "phone": "0177 8676070",
-   "website": "https://cardandsoul.de/",
-   "checked_at": "2026-10-16T21:47:42Z"
   },
   {
    "name": "Card Club",
@@ -3587,8 +3912,6 @@
   {
    "name": "Card Club - Hockenheim",
    "group": "unknown",
-   "city": "Berlin",
-   "region": "BE",
    "address": "19 u. Hauptstraße, Hockenheim, BW, 68766, Germany",
    "phone": "+49(0)62052890209",
    "website": "https://linktr.ee/CardClubTCG",
@@ -3779,18 +4102,30 @@
    "checked_at": "2026-10-16T02:37:48Z"
   },
   {
-   "name": "Cardtrader24",
+   "name": "Cardtrader 24",
    "group": "unknown",
    "city": "Lage",
    "region": "Nordrhein-Westfalen",
-   "address": "Friedrichstraße 5A, 32791 Lage, Germany, Lage, Nordrhein-Westfalen, 32791",
-   "phone": "017627989822",
-   "website": "https://www.cardtrader24.de",
-   "buylist_url": "https://www.cardtrader24.de/ankauf/",
+   "address": "Friedrichstraße 5a, Lage, NW, 32791, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:29:01Z"
+  },
+  {
+   "name": "Cardtrader24 Rinteln",
+   "group": "unknown",
+   "address": "Lindenstraße 4, Rinteln, Niedersachsen, 31737, Germany",
+   "phone": "+4915223150401",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Carduniverse",
@@ -3986,6 +4321,18 @@
    "checked_at": "2026-10-16T02:39:39Z"
   },
   {
+   "name": "Comic Planet Muenster",
+   "group": "unknown",
+   "address": "Warendorfer Straße 44, Münster, NW, 48145, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
+  },
+  {
    "name": "Comic Planet Osnabrück",
    "group": "unknown",
    "city": "Osnabrück",
@@ -4047,6 +4394,18 @@
    "checked_at": "2026-10-16T02:32:54Z"
   },
   {
+   "name": "Comic-Tempel",
+   "group": "unknown",
+   "address": "Hertha-Lindner-Straße 12, Dresden, SN, 01067, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
+  },
+  {
    "name": "Comicbibliothek Renate",
    "group": "unknown",
    "city": "Berlin",
@@ -4106,6 +4465,18 @@
    "phone": "040 451629",
    "website": "https://www.comicstotal.de",
    "checked_at": "2026-10-16T02:36:14Z"
+  },
+  {
+   "name": "Comiculture",
+   "group": "unknown",
+   "address": "Handelsweg 8-9, Braunschweig, NI, 38100, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
   },
   {
    "name": "Comix Comicbuchhandlung GmbH & Co. KG",
@@ -4332,19 +4703,6 @@
    "checked_at": "2026-10-16T02:34:55Z"
   },
   {
-   "name": "DemonicalTCG",
-   "group": "unknown",
-   "city": "Erbach",
-   "region": "Hessen",
-   "address": "Am Schloßgraben 6, 64711 Erbach, Germany, Erbach, Hessen, 64711",
-   "phone": "015566255161",
-   "website": "https://www.kleinanzeigen.de/pro/demonicaltcg?utm_source=sharesheet&utm_medium=social&utm_campaign=socialbuttons&utm_content=app_android",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
-  },
-  {
    "name": "Dennis The Ripper – Flagship Store Hannover",
    "group": "unknown",
    "city": "Hannover",
@@ -4409,13 +4767,10 @@
   {
    "name": "Dice Heart",
    "group": "unknown",
-   "city": "Darmstadt",
-   "region": "Hessen",
    "address": "Fürbringerstraße 22, Berlin, Berlin, 10961, Germany",
    "phone": "+4917631505890",
    "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:28:27Z"
@@ -4535,6 +4890,17 @@
    "website": "https://infos-dresden360.de/kategorien/handel/dresdner-comic-laden",
    "buylist_url": "https://infos-dresden360.de/retailer/buylist",
    "checked_at": "2026-10-16T02:40:25Z"
+  },
+  {
+   "name": "DrisoCard",
+   "group": "unknown",
+   "address": "Bamberger Straße 1, Neustadt an der Aisch, Bayern, 91480, Germany",
+   "phone": "+491715119704",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Dungeon Wars",
@@ -5054,6 +5420,17 @@
    "checked_at": "2026-10-16T02:41:17Z"
   },
   {
+   "name": "Frozen Cards",
+   "group": "unknown",
+   "address": "1 Augustastraße, Witten, Nordrhein Westfalen, 58452, Germany",
+   "phone": "+4923021790685",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Fuhrious Trading Cards",
    "group": "unknown",
    "city": "Bremen",
@@ -5253,6 +5630,19 @@
    "checked_at": "2026-10-16T02:34:28Z"
   },
   {
+   "name": "Games Time",
+   "group": "unknown",
+   "city": "DO",
+   "region": "NRW",
+   "address": "128 Brackeler Hellweg, Dortmund, Nordrhein-Westphalen, 44309, Germany",
+   "phone": "+491784785670",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Games World 89",
    "group": "unknown",
    "city": "ERH",
@@ -5261,6 +5651,18 @@
    "phone": "09131 9111833",
    "website": "https://www.ebay.de/str/medibuy24xmediagames",
    "checked_at": "2026-10-16T02:39:44Z"
+  },
+  {
+   "name": "Games-Cafe",
+   "group": "unknown",
+   "address": "Leuchtenberger Straße 9, Luhe-Wildenau, BW, 92706, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
   },
   {
    "name": "Games-Café",
@@ -5578,18 +5980,6 @@
    "checked_at": "2026-10-16T02:29:06Z"
   },
   {
-   "name": "Heaven's Door",
-   "group": "unknown",
-   "city": "Berlin",
-   "region": "Berlin",
-   "address": "Wilhelminenhofstraße 64, 12459 Berlin, Germany, Berlin, Berlin, 12459",
-   "website": "https://www.heavensdoorberlin.de/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
-  },
-  {
    "name": "Heimspiel Games",
    "group": "unknown",
    "city": "München",
@@ -5675,20 +6065,6 @@
   {
    "name": "Highlander Games",
    "group": "unknown",
-   "city": "Bochum",
-   "region": "Nordrhein-Westfalen",
-   "address": "Südring 21, 44787 Bochum, Germany, Bochum, Nordrhein-Westfalen, 44787",
-   "phone": "+49 234 67371",
-   "website": "https://www.highlander-games.de/",
-   "buylist_url": "https://www.highlander-games.de/retailer/buylist",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
-  },
-  {
-   "name": "Highlander Games",
-   "group": "unknown",
    "city": "BO",
    "region": "NRW",
    "address": "Huestraße 20, 44787 Bochum",
@@ -5710,6 +6086,21 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:32:41Z"
+  },
+  {
+   "name": "Highlander-Games",
+   "group": "unknown",
+   "city": "Bochum",
+   "region": "Nordrhein-Westfalen",
+   "address": "Suedring 21, Bochum, NW, 44787, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
   },
   {
    "name": "Hiveworld",
@@ -5864,6 +6255,18 @@
    "checked_at": "2026-10-16T02:38:47Z"
   },
   {
+   "name": "Imp's Shop",
+   "group": "unknown",
+   "address": "Herrenkellergasse 20, Ulm, BW, 89073, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
+  },
+  {
    "name": "Innventory - die Nerdbox",
    "group": "unknown",
    "city": "Wasserburg am Inn",
@@ -5902,17 +6305,18 @@
    "checked_at": "2026-10-16T02:30:24Z"
   },
   {
-   "name": "ITEMSTAR",
+   "name": "itemstar",
    "group": "unknown",
    "city": "Oldenburg",
    "region": "Niedersachsen",
-   "address": "Haarenstraße 43, 26122 Oldenburg, Germany, Oldenburg, Niedersachsen, 26122",
-   "phone": "+49 441 77067953",
-   "website": "https://www.itemstar.de/",
+   "address": "Haarenstrasse 43, Oldenburg, NI, 26122, Germany",
+   "phone": "(+49)(0) 4417.7067.953 ",
+   "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Itemstar",
@@ -5923,6 +6327,19 @@
    "phone": "0441 77067953",
    "website": "https://www.itemstar.de/",
    "checked_at": "2026-10-16T21:47:41Z"
+  },
+  {
+   "name": "J-Productions TCG Store",
+   "group": "unknown",
+   "city": "Heusenstamm",
+   "region": "HE",
+   "address": "Leibnizstraße 13, Heusenstamm, Hessen, 63150, Germany",
+   "phone": "+491606800602",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "J-Store Berlin",
@@ -5982,6 +6399,20 @@
    "checked_at": "2026-10-16T02:31:24Z"
   },
   {
+   "name": "JK Entertainment Darmstadt",
+   "group": "unknown",
+   "city": "Darmstadt",
+   "region": "Hessen",
+   "address": "Karlstraße 110, Darmstadt, HE, 64285, Germany",
+   "phone": "+49 6151-8607598",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Joker-Games",
    "group": "unknown",
    "city": "Moosburg an der Isar",
@@ -5989,6 +6420,20 @@
    "address": "Pfarrer-Schweigart-Straße 4a, 85368 Moosburg an der Isar-Pfrombach",
    "website": "https://joker-games.de/",
    "checked_at": "2026-10-16T02:36:46Z"
+  },
+  {
+   "name": "Jolly Roger Games",
+   "group": "unknown",
+   "city": "Bochum",
+   "region": "Nordrhein-Westfalen",
+   "address": "91 Dorstener Straße, Bochum, Nordrhein Westfalen, 44809, Germany",
+   "phone": "+4917622789026",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Jomo Papeterie",
@@ -6024,6 +6469,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:30:54Z"
+  },
+  {
+   "name": "Just For Fun Megastore",
+   "group": "unknown",
+   "address": "17 Brüdergasse, Bonn, Nordrhein Westfalen, 53111, Germany",
+   "phone": "+4915787213813",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Kaizen Cards",
@@ -6109,13 +6565,15 @@
    "group": "unknown",
    "city": "Philippsburg",
    "region": "Baden-Württemberg",
-   "address": "Rote-Tor-Straße 18, 76661 Philippsburg, Germany, Philippsburg, Baden-Württemberg, 76661",
-   "phone": "0049 7256 924 981",
-   "website": "http://www.kartenschmie.de/",
+   "address": "Rote-Tor-Str. 18, Philippsburg, BW, 76661, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:29:01Z"
   },
   {
    "name": "Kelz0r Spiele Cafe",
@@ -6252,19 +6710,6 @@
    "checked_at": "2026-10-16T21:47:43Z"
   },
   {
-   "name": "KultSpiele",
-   "group": "unknown",
-   "city": "Dortmund",
-   "region": "Nordrhein-Westfalen",
-   "address": "Kampstraße 35-37, 44137 Dortmund, Germany, Dortmund, Nordrhein-Westfalen, 44137",
-   "phone": "+49 231 2063758",
-   "website": "https://www.kult-spiele.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:47:35Z"
-  },
-  {
    "name": "Kunterbunt-games + DHL",
    "group": "unknown",
    "city": "Berlin",
@@ -6305,6 +6750,17 @@
    "website": "https://www.landderbuntensteine.de/",
    "buylist_url": "https://www.landderbuntensteine.de/lego-ankauf",
    "checked_at": "2026-10-16T02:40:56Z"
+  },
+  {
+   "name": "Lavka dabra",
+   "group": "unknown",
+   "address": "7 Wellmicher Straße, Sankt Goarshausen, Rheinland-Pfalz, 56346, Germany",
+   "phone": "+491737123236",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Le Grenier à Bulles",
@@ -6355,15 +6811,6 @@
    "phone": "0201 1778960",
    "website": "https://www.limbecker-platz.de/",
    "checked_at": "2026-10-16T02:39:55Z"
-  },
-  {
-   "name": "little BIG Nerds",
-   "group": "unknown",
-   "city": "Hannover",
-   "region": "NDS",
-   "address": "Im Haspelfelde 8, 30173 Hannover",
-   "website": "https://littlebignerds.com/",
-   "checked_at": "2026-10-16T21:47:45Z"
   },
   {
    "name": "Little Nemo Bochum",
@@ -6465,6 +6912,20 @@
    "phone": "030 88941192",
    "website": "https://luiban.com/",
    "checked_at": "2026-10-16T02:34:53Z"
+  },
+  {
+   "name": "Luke´s Cardshop",
+   "group": "unknown",
+   "city": "Schönaich",
+   "region": "Baden-Württemberg",
+   "address": "Lange Str. 17, Schönaich, Baden-Württemberg, 71101, Germany",
+   "phone": "+4915174102220",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Lumi Fave GmbH | Cardmuseum | Shield-N-Show",
@@ -6611,6 +7072,17 @@
    "checked_at": "2026-10-16T02:32:58Z"
   },
   {
+   "name": "Mana Games",
+   "group": "unknown",
+   "address": "5 Blissestraße, Berlin, BE, 10715, Germany",
+   "phone": "491522 9585195",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Mana Games - Enver Temiz",
    "group": "unknown",
    "city": "Berlin",
@@ -6728,6 +7200,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:29:33Z"
+  },
+  {
+   "name": "MaWaBu UG (haftungsbeschränkt)",
+   "group": "unknown",
+   "city": "Berlin",
+   "region": "BE",
+   "address": "Steglitzer Damm 37-39, 12169 Berlin",
+   "phone": "030 62857017",
+   "website": "https://linktr.ee/CardClubTCG",
+   "buylist_url": "https://linktr.ee/buylist",
+   "checked_at": "2026-10-16T02:32:13Z"
   },
   {
    "name": "Mayener Fantasyland",
@@ -6940,6 +7423,17 @@
    "checked_at": "2026-10-16T02:32:34Z"
   },
   {
+   "name": "MM-Collectables",
+   "group": "unknown",
+   "address": "Schulstrasse 27, Karlstein am Main, Bayern, 63791, Germany",
+   "phone": "+4915150170490",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Modellbau & Spielwaren Vordermaier GmbH",
    "group": "unknown",
    "address": "Bergstrasse 2, Ottobrunn, Bayern, 85521, Germany",
@@ -6960,6 +7454,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:30:42Z"
+  },
+  {
+   "name": "Mori Cards TCG Store",
+   "group": "unknown",
+   "city": "Mörfelden-Walldorf",
+   "region": "HE",
+   "address": "85 Waldenserstraße, Mörfelden-Walldorf, Hessen, 64546, Germany",
+   "phone": "+4917656168739",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Mulligan TCG Shop",
@@ -7275,13 +7782,15 @@
    "group": "unknown",
    "city": "Mainz",
    "region": "Rheinland-Pfalz",
-   "address": "Zanggasse 7, 55116 Mainz, Germany, Mainz, Rheinland-Pfalz, 55116",
-   "phone": "+49 6131 233299",
-   "website": "http://orcish-outpost.de/",
+   "address": "Zanggasse 7, Mainz, RP, 55116, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:47:35Z"
+   "checked_at": "2026-10-16T02:29:01Z"
   },
   {
    "name": "Otherland",
@@ -7398,6 +7907,17 @@
    "checked_at": "2026-10-16T02:37:24Z"
   },
   {
+   "name": "Pinkepank An- und Verkauf",
+   "group": "unknown",
+   "address": "33 In den Blumentriften, Salzgitter, Niedersachsen, 38226, Germany",
+   "phone": "+49534113512",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Pinselschwert",
    "group": "unknown",
    "address": "Wilhelmstr. 126, Wülfrath, NRW, 42489, Germany",
@@ -7466,6 +7986,17 @@
    "checked_at": "2026-10-16T02:32:38Z"
   },
   {
+   "name": "Poke-Brick",
+   "group": "unknown",
+   "address": "18 Heiligenstadt, Neustadt an der Donau, Bayern, 93333, Germany",
+   "phone": "+491608085939",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "PokeCollectorsTCG",
    "group": "unknown",
    "city": "LEV",
@@ -7496,6 +8027,15 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:30:42Z"
+  },
+  {
+   "name": "Pokémon Delivery Service",
+   "group": "unknown",
+   "city": "München",
+   "region": "BY",
+   "address": "Landsberger Str. 338, 80687 München",
+   "website": "https://api.whatsapp.com/send/?phone=%2B237682257749&text&type=phone_number&app_absent=0",
+   "checked_at": "2026-10-16T02:34:55Z"
   },
   {
    "name": "POLO Motorrad Store Dresden Gompitz",
@@ -7925,10 +8465,13 @@
    "group": "unknown",
    "city": "Köln",
    "region": "NRW",
-   "address": "Friedensstraße 55, 51147 Köln",
-   "phone": "0176 24892474",
-   "website": "http://www.schatzkarten-store.de/",
-   "checked_at": "2026-10-16T21:47:42Z"
+   "address": "Friedensstrasse 55, Köln, Nordrhein Westfalen, 51147, Germany",
+   "phone": "+4917624892474",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Schlaumeier",
@@ -7961,6 +8504,17 @@
    "phone": "030 23557320",
    "website": "https://www.landkartenschropp.de/",
    "checked_at": "2026-10-16T02:35:49Z"
+  },
+  {
+   "name": "Seecrit Card & Games",
+   "group": "unknown",
+   "address": "1 Vor den Tannen, Edemissen, Niedersachsen, 31234, Germany",
+   "phone": "+4917631473849",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Sell Like A Professional GmbH",
@@ -8227,6 +8781,17 @@
    "checked_at": "2026-10-16T02:35:03Z"
   },
   {
+   "name": "SouthWestTradingTeam",
+   "group": "unknown",
+   "address": "Hauptstraße 124, Sinsheim, Baden-Württemberg, 74889, Germany",
+   "phone": "+4972619736688",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Souvenir-Düsseldorf",
    "group": "unknown",
    "city": "Düsseldorf",
@@ -8278,6 +8843,17 @@
    "phone": "0221 56071938",
    "website": "https://www.hiveworld.de",
    "checked_at": "2026-10-16T02:37:05Z"
+  },
+  {
+   "name": "Spiele Pyramide GmbH",
+   "group": "unknown",
+   "address": "9 Fritz-Erler-Straße, Karlsruhe, Baden-Württemberg, 76133, Germany",
+   "phone": "+497218514443",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Spiele Welt Scheer",
@@ -8660,6 +9236,18 @@
    "checked_at": "2026-10-16T02:38:34Z"
   },
   {
+   "name": "Svens Spielzeugparadies",
+   "group": "unknown",
+   "address": "Zum Oberntor 23, Springe, NI, 31832, Germany",
+   "phone": "1X",
+   "website": "https://x.com/",
+   "buylist_url": "https://x.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:29:01Z"
+  },
+  {
    "name": "Tableflip Augsburg",
    "group": "unknown",
    "city": "Augsburg",
@@ -8763,6 +9351,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:31:51Z"
+  },
+  {
+   "name": "TCG Café Zwickau",
+   "group": "unknown",
+   "address": "44 Heinrich-Heine-Straße, Zwickau, Sachsen, 08508, Germany",
+   "phone": "+491731627231",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "TCG Card Pokemon Shop",
@@ -8991,6 +9590,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:33:19Z"
+  },
+  {
+   "name": "The Corner",
+   "group": "unknown",
+   "address": "Friedlandplatz 4, Geilenkirchen, NW, 52511, Germany",
+   "phone": "00492459400161",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "The Corner tabletop & more",
@@ -9465,6 +10075,17 @@
    "checked_at": "2026-10-16T02:40:11Z"
   },
   {
+   "name": "WeSports Mainz",
+   "group": "unknown",
+   "address": "51 Sertoriusring, Mainz, Rheinland-Pfalz, 55126, Germany",
+   "phone": "+491627504119",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "White Rabbit",
    "group": "unknown",
    "city": "Essen",
@@ -9575,6 +10196,31 @@
    "checked_at": "2026-10-16T02:40:06Z"
   },
   {
+   "name": "Wunderhöhle",
+   "group": "unknown",
+   "city": "Dortmund",
+   "region": "Nordrhein-Westfalen",
+   "address": "101 Rheinlanddamm, Dortmund, Nordrhein Westfalen, 44139, Germany",
+   "phone": "+491781520932",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
+   "name": "Würfel & Bohne",
+   "group": "unknown",
+   "address": "27 Cappelstraße, Lippstadt, Nordrhein Westfalen, 59555, Germany",
+   "phone": "+491755617427",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
+  },
+  {
    "name": "Würfel & Wein",
    "group": "unknown",
    "address": "86 Bölschestraße, Berlin, Berlin, 12587, Germany",
@@ -9669,6 +10315,17 @@
    "phone": "0231 70019114",
    "website": "https://www.ebay.de/str/medibuy24xmediagames",
    "checked_at": "2026-10-16T02:39:44Z"
+  },
+  {
+   "name": "Y-Magic",
+   "group": "unknown",
+   "address": "28 Dr.-Heinrich-Jasper-Straße, Bad Harzburg, Niedersachsen, 38667, Germany",
+   "phone": "+491736186229",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:28:27Z"
   },
   {
    "name": "Y-Magic Store",

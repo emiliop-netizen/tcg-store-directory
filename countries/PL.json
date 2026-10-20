@@ -1,8 +1,8 @@
 {
  "country": "PL",
  "currency": "PLN",
- "updated": "2026-10-16",
- "store_count": 356,
+ "updated": "2026-10-20",
+ "store_count": 375,
  "stores": [
   {
    "name": "MTGSPOT",
@@ -455,6 +455,15 @@
    "checked_at": "2026-10-16T03:49:17Z"
   },
   {
+   "name": "Card Machine - automat z oryginalnymi kartami Pokemon i nie tylko!",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Ostrobramska 75C, 04-175 Warszawa",
+   "website": "https://m.facebook.com/groups/3801335650168747/",
+   "checked_at": "2026-10-16T03:45:53Z"
+  },
+  {
    "name": "CENTRUM KOMIKSU. KOMIKSY ANTYKWARIAT KSIĘGARNIA. IWONA PIETRASIK",
    "group": "in_store",
    "city": "Warszawa",
@@ -462,6 +471,19 @@
    "address": "al. Niepodległości 148, 02-554 Warszawa",
    "phone": "22 848 89 61",
    "checked_at": "2026-10-16T03:47:43Z"
+  },
+  {
+   "name": "Cube Centrum Gier",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Słowiańska 53c/LOK2, Poznan, Wielkopolska, 61-664, Poland",
+   "phone": "+48508458325",
+   "website": "https://www.facebook.com/CubeCentrumGier/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Discovery Shop",
@@ -539,6 +561,19 @@
    "checked_at": "2026-10-16T03:47:41Z"
   },
   {
+   "name": "Futurex",
+   "group": "in_store",
+   "city": "Gdynia",
+   "region": "Województwo pomorskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 503975260",
+   "website": "https://www.facebook.com/sklep.Futurex",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "GameLord",
    "group": "in_store",
    "city": "Łódź",
@@ -575,13 +610,10 @@
   {
    "name": "Gildia Grodzisk",
    "group": "in_store",
-   "city": "Gdańsk",
-   "region": "Województwo pomorskie",
    "address": "ks. M. Tokarzewskiego 9A / 5, Grodzisk Mazowiecki, Masovian, 05-825, Poland",
    "phone": "+48511545362",
    "website": "https://www.facebook.com/GildiaGrodzisk",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:24Z"
@@ -616,6 +648,31 @@
    "checked_at": "2026-10-16T03:46:00Z"
   },
   {
+   "name": "Gry i Karty",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "9 Karmelicka, Kraków, Województwo małopolskie, 33-332, Poland",
+   "phone": "+48887139948",
+   "website": "https://www.facebook.com/gryikarty",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "Gry i Karty Tarnów",
+   "group": "in_store",
+   "address": "Wałowa 29, Tarnów, Woj. Małopolskie, 33-100, Poland",
+   "phone": "+48667139000",
+   "website": "https://www.facebook.com/gryikartytarnow/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Gry i Karty — Pokemon | MTG | Lorcana",
    "group": "in_store",
    "city": "Kraków",
@@ -645,6 +702,17 @@
    "checked_at": "2026-10-16T03:46:23Z"
   },
   {
+   "name": "Hex Krakow",
+   "group": "in_store",
+   "address": "Dwernickiego 5, Krakow, MA, 31-530, Poland",
+   "phone": "792795272",
+   "website": "https://www.facebook.com/hex.krakow",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "HobbToys",
    "group": "in_store",
    "city": "Zielona Góra",
@@ -656,10 +724,38 @@
    "checked_at": "2026-10-16T03:46:32Z"
   },
   {
-   "name": "KADverse",
+   "name": "HOUSE of CARDS - Poker Room Cracow",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Mogilska 40, 31-526 Kraków",
+   "phone": "577 111 578",
+   "website": "https://www.facebook.com/groups/house.of.cards.poker.room.cracow",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "iGames Punkt odbioru , brak ekspozycji, skup gier, regeneracja płyt DVD",
    "group": "in_store",
    "city": "Warszawa",
    "region": "Województwo mazowieckie",
+   "address": "W serwisie iMasters, Miedziana 16, 00-835 Warszawa",
+   "phone": "790 321 240",
+   "website": "https://facebook.com/iGamesWola/",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "IRYDIUM - Sklep z gram, konsolami i telefonami.",
+   "group": "in_store",
+   "city": "Łódź",
+   "region": "Województwo łódzkie",
+   "address": "Plac Wolności 9 (Wejście od Nowomiejskiej 1 , przy cukierni), 91-415 Łódź",
+   "phone": "505 150 650",
+   "website": "https://www.facebook.com/irydiumgsmlodz",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "KADverse",
+   "group": "in_store",
    "address": "24 plac Przemysława, Buk, Woj. Wielkopolskie, 64-320, Poland",
    "phone": "+48722247714",
    "website": "https://m.facebook.com/profile.php?id=61593376864269",
@@ -678,12 +774,33 @@
    "checked_at": "2026-10-16T03:48:14Z"
   },
   {
+   "name": "Karty i Kostka",
+   "group": "in_store",
+   "address": "Waleriana Łukasińskiego 18/20 LU 103, Żyrardów, Mazowieckie, 96-300, Poland",
+   "phone": "+48574366706",
+   "website": "https://www.facebook.com/profile.php?id=61592815269718",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Karty Piłkarskie",
    "group": "in_store",
    "city": "Konstantynów Łódzki",
    "region": "Województwo łódzkie",
    "address": "Skrzydlata 32, 95-050 Konstantynów Łódzki",
    "checked_at": "2026-10-16T03:50:37Z"
+  },
+  {
+   "name": "Kiosk z Grami",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Dyrekcyjna 14/lok. U2, 02-495 Warszawa",
+   "phone": "504 216 116",
+   "website": "https://facebook.com/kioskzgrami/",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Kitsunebu",
@@ -731,6 +848,17 @@
    "checked_at": "2026-10-16T03:47:28Z"
   },
   {
+   "name": "Mag Planszowy",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 665 234 340",
+   "website": "https://www.facebook.com/magplanszowy",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Magic-Play",
    "group": "in_store",
    "city": "Warszawa",
@@ -752,6 +880,20 @@
    "checked_at": "2026-10-16T03:46:23Z"
   },
   {
+   "name": "Maginarium.pl",
+   "group": "in_store",
+   "city": "Gdynia",
+   "region": "Województwo pomorskie",
+   "address": "Abrahama 50, Gdynia, Pomorskie, 81-395, Poland",
+   "phone": "+48793903339",
+   "website": "https://www.facebook.com/maginariumpl",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "MIKO GSM",
    "group": "in_store",
    "city": "Poznań",
@@ -765,12 +907,14 @@
    "group": "in_store",
    "city": "Nowy Sącz",
    "region": "Województwo małopolskie",
-   "address": "Jana Długosza 11/4, 33-300 Nowy Sącz, Poland, Nowy Sącz, Województwo małopolskie, 33-300",
-   "phone": "0048730287787",
+   "address": "Długosza 11/4, Nowy Sącz, Małopolska, 33-300, Poland",
+   "phone": "+48730287787",
+   "website": "https://www.facebook.com/profile.php?id=100071644923096",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:50:50Z"
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Notogramy TCG i zabawki",
@@ -835,6 +979,17 @@
    "checked_at": "2026-10-16T03:50:13Z"
   },
   {
+   "name": "Planszowy Raj",
+   "group": "in_store",
+   "address": "23 ulica Modrzejowska, Sosnowiec, Śląsk, 41-200, Poland",
+   "phone": "+48695592316",
+   "website": "https://www.facebook.com/PlanszowyRaj",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Pokeloader.com",
    "group": "in_store",
    "city": "Józefosław",
@@ -868,6 +1023,40 @@
    "address": "00 958, Icchoka Lejba Pereca 21, 00-849 Warszawa",
    "phone": "22 656 40 94",
    "checked_at": "2026-10-16T03:47:03Z"
+  },
+  {
+   "name": "Select Games Retro & More",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Starowiślna 69, 31-052 Kraków",
+   "phone": "888 883 581",
+   "website": "https://www.facebook.com/profile.php?id=100089498162169",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "SideQuest",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+48 579756200",
+   "website": "https://www.facebook.com/SideQuestGdansk",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "Skarbnica",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "Żelazna 67/29/L, 00-871 Warszawa",
+   "phone": "604 136 499",
+   "website": "https://www.facebook.com/SkarbnicaSB",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Sklep",
@@ -916,6 +1105,16 @@
    "checked_at": "2026-10-16T03:45:24Z"
   },
   {
+   "name": "Skup Monet Zegarków Medali i Antyków – Gdańsk Wrzeszcz",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Stanisława Wyspiańskiego 20 A Rynek pawilon III, 80-434 Gdańsk",
+   "phone": "796 693 868",
+   "website": "https://www.facebook.com/Skup-Staroci-Gda%C5%84sk-Wrzeszcz-106747888296618",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Strefa Gracza",
    "group": "in_store",
    "city": "Gdańsk",
@@ -926,12 +1125,46 @@
    "checked_at": "2026-10-16T03:45:53Z"
   },
   {
+   "name": "Strefa Gry",
+   "group": "in_store",
+   "address": "ul. Gazownicza 21a, Bielsko-Biała, Silesia, 43-300, Poland",
+   "phone": "+48503-682-832",
+   "website": "https://www.facebook.com/StrefaGry/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Swiat Gier",
    "group": "in_store",
    "city": "Wrocław",
    "region": "Województwo dolnośląskie",
    "address": "Szewska, 50-139 Wrocław",
    "checked_at": "2026-10-16T03:48:57Z"
+  },
+  {
+   "name": "Szafa Gdańska",
+   "group": "in_store",
+   "city": "Gdańsk",
+   "region": "Województwo pomorskie",
+   "address": "Garbary 14/1, 80-827 Gdańsk",
+   "phone": "508 250 738",
+   "website": "https://www.facebook.com/szafagdanska/",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "TCG Heaven",
+   "group": "in_store",
+   "city": "Wieliczka",
+   "region": "Województwo małopolskie",
+   "address": "ul. Piłsudskiego 46a, Wieliczka, Malopolska, 32-020, Poland",
+   "phone": "+48603613696",
+   "website": "https://www.facebook.com/profile.php?id=61570094324376",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Time4Magic S.C.",
@@ -987,6 +1220,16 @@
    "checked_at": "2026-10-16T03:49:03Z"
   },
   {
+   "name": "Zabawki Raduś",
+   "group": "in_store",
+   "city": "Warszawa",
+   "region": "Województwo mazowieckie",
+   "address": "lok. U4B2, Jana Pawła II 23/25, 05-077 Warszawa",
+   "phone": "693 363 588",
+   "website": "https://www.facebook.com/zabawkiradus2/",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
    "name": "Zagrajmy",
    "group": "in_store",
    "city": "Rzeszów",
@@ -997,6 +1240,25 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:46:23Z"
+  },
+  {
+   "name": "ZibiCom - Gry i Konsole",
+   "group": "in_store",
+   "city": "Kraków",
+   "region": "Województwo małopolskie",
+   "address": "Wlotowa 2a, 30-668 Kraków",
+   "phone": "512 461 565",
+   "website": "http://facebook.com/zibicom",
+   "checked_at": "2026-10-16T03:45:24Z"
+  },
+  {
+   "name": "Świat Tytoniu",
+   "group": "in_store",
+   "city": "Poznań",
+   "region": "Województwo wielkopolskie",
+   "address": "Ratajczaka 21, 61-814 Poznań",
+   "website": "https://www.facebook.com/profile.php?id=100088916257160",
+   "checked_at": "2026-10-16T03:45:24Z"
   },
   {
    "name": "Пустышка",
@@ -1599,16 +1861,6 @@
    "checked_at": "2026-10-16T03:50:32Z"
   },
   {
-   "name": "Cube Centrum Gier",
-   "group": "unknown",
-   "city": "Poznań",
-   "region": "Województwo wielkopolskie",
-   "address": "Słowiańska 53c/LOK 2, 61-664 Poznań",
-   "phone": "508 458 325",
-   "website": "https://www.cubecp.pl/",
-   "checked_at": "2026-10-16T21:50:50Z"
-  },
-  {
    "name": "Cyberpub Andrzej Jarzebak",
    "group": "unknown",
    "city": "Kraków",
@@ -1840,16 +2092,6 @@
    "checked_at": "2026-10-16T03:45:33Z"
   },
   {
-   "name": "FUTUREX",
-   "group": "unknown",
-   "city": "Gdynia",
-   "region": "Województwo pomorskie",
-   "address": "Waleriana Szefki 2d/b8, 81-572 Gdynia",
-   "phone": "503 975 260",
-   "website": "https://futurex.pl/",
-   "checked_at": "2026-10-16T21:50:50Z"
-  },
-  {
    "name": "Galaktyka Gier",
    "group": "unknown",
    "address": "Ul. Koscielna 23, Pruszkow, MZ, 05-800, Poland",
@@ -2027,19 +2269,6 @@
    "phone": "509 019 199",
    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FGreenGameCenter",
    "checked_at": "2026-10-16T03:49:48Z"
-  },
-  {
-   "name": "Gry i Karty",
-   "group": "unknown",
-   "city": "Kraków",
-   "region": "Województwo małopolskie",
-   "address": "Karmelicka 9, 31-133 Kraków, Poland, Kraków, Województwo małopolskie, 31-133",
-   "phone": "+48 887 139 948",
-   "website": "https://gryikarty.pl/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Grybezpradu",
@@ -2377,18 +2606,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:45:27Z"
-  },
-  {
-   "name": "Maginarium.pl",
-   "group": "unknown",
-   "city": "Gdynia",
-   "region": "Województwo pomorskie",
-   "address": "Abrahama 50, 81-395 Gdynia, Poland, Gdynia, Województwo pomorskie, 81-395",
-   "website": "https://maginarium.pl",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "ManaDrop.pl - Sklep Hobbystyczny",
@@ -3320,16 +3537,6 @@
    "phone": "500 520 870",
    "website": "https://www.sztos.top/",
    "checked_at": "2026-10-16T03:50:00Z"
-  },
-  {
-   "name": "TCG Heaven",
-   "group": "unknown",
-   "city": "Wieliczka",
-   "region": "Województwo małopolskie",
-   "address": "Edwarda Dembowskiego 59, 32-020 Wieliczka",
-   "phone": "576 924 752",
-   "website": "https://tcgheaven.eu",
-   "checked_at": "2026-10-16T21:50:50Z"
   },
   {
    "name": "Tcg love",

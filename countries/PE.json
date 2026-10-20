@@ -1,8 +1,8 @@
 {
  "country": "PE",
  "currency": "PEN",
- "updated": "2026-10-16",
- "store_count": 165,
+ "updated": "2026-10-20",
+ "store_count": 191,
  "stores": [
   {
    "name": "Akira Minimarket asiático",
@@ -52,8 +52,8 @@
    "region": "Provincia de Lima",
    "address": "interior 302, C. José Sabogal 291, Miraflores 15048",
    "phone": "920 267 001",
-   "website": "http://www.editorialberlin.com/",
-   "checked_at": "2026-10-17T01:21:08Z"
+   "website": "https://www.editorialberlin.com/",
+   "checked_at": "2026-10-17T01:21:24Z"
   },
   {
    "name": "Infinity Cards",
@@ -143,6 +143,25 @@
    "checked_at": "2026-10-17T01:22:19Z"
   },
   {
+   "name": "Akabane Comics",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Avenida Arenales 1737, Tienda 1-21 Centro Comercial Arenales Plaza, Lince 15046",
+   "website": "https://www.facebook.com/pabloakabanecoleccionables",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "Akira Otaku Shop",
+   "group": "in_store",
+   "city": "Arequipa",
+   "region": "Arequipa",
+   "address": "Tienda 118, CC Panorámico, C. Mercaderes 224, Arequipa 04000",
+   "phone": "958 138 028",
+   "website": "https://www.facebook.com/akiraotakushop/",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Akira Z Store",
    "group": "in_store",
    "region": "Junín",
@@ -153,7 +172,7 @@
   {
    "name": "Alfieri Hobby Center",
    "group": "in_store",
-   "city": "Lima",
+   "city": "Lince",
    "region": "Provincia de Lima",
    "address": "Av. Arenales 1701 int. 103-BH , Lince, Provincia de Lima, 15046, Peru",
    "phone": "1511957938587",
@@ -161,17 +180,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:20:50Z"
-  },
-  {
-   "name": "Alfieri Hobby Center",
-   "group": "in_store",
-   "city": "Lince",
-   "region": "Provincia de Lima",
-   "address": "int. 103-BH, Av. Gral. Juan Antonio Álvarez de Arenales 1701, Lince LIMA 14",
-   "phone": "957 938 587",
-   "website": "https://www.facebook.com/alfierihobbycenter/",
-   "checked_at": "2026-10-17T01:21:03Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Alienígena Games",
@@ -181,7 +190,7 @@
    "address": "Tda 210 Centro Comercial Shoping Center, Av. Manuel Cipriano Dulanto 2275, San Miguel 15088",
    "phone": "999 334 200",
    "website": "https://www.facebook.com/alienigenagames1/",
-   "checked_at": "2026-10-17T01:21:12Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Amanzintoys",
@@ -201,6 +210,16 @@
    "checked_at": "2026-10-17T01:21:33Z"
   },
   {
+   "name": "Artehua Collection",
+   "group": "in_store",
+   "city": "San Miguel",
+   "region": "Provincia de Lima",
+   "address": "Tienda 14, Centro Comercial Shopping Center, Av. La Mar 2275, San Miguel 15088",
+   "phone": "983 581 247",
+   "website": "https://www.facebook.com/Artehua",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Artem Collectibles Shop",
    "group": "in_store",
    "city": "Paucarpata",
@@ -216,7 +235,7 @@
    "address": "Tienda 205, Jirón Barlovento 175, Santiago de Surco 15038",
    "phone": "(01) 4699306",
    "website": "https://www.facebook.com/battlecityperu/",
-   "checked_at": "2026-10-17T01:21:20Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Battle City Games - Peru",
@@ -237,7 +256,27 @@
    "address": "La Recoleta 118-A, Arequipa 04001",
    "phone": "913 443 902",
    "website": "https://www.facebook.com/BattlePhaseAQP",
-   "checked_at": "2026-10-17T01:22:01Z"
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "BetoGamers",
+   "group": "in_store",
+   "city": "Arequipa",
+   "region": "Arequipa",
+   "address": "Pasaje santa Rosa 209 MegaCentro Comercial Don Ramon. Tienda E 52. 4to pasadizo Arequipa, Arequipa 04001",
+   "phone": "994 030 111",
+   "website": "https://www.facebook.com/BetoGamersAQP",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "Blue Star Comics",
+   "group": "in_store",
+   "city": "Lima",
+   "region": "Provincia de Lima",
+   "address": "Jr. Camaná 964, Lima 15001",
+   "phone": "994 564 514",
+   "website": "http://www.facebook.com/Blue-Star-Comics-346191962229225/",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Boulevard Mall",
@@ -266,6 +305,19 @@
    "checked_at": "2026-10-17T01:21:25Z"
   },
   {
+   "name": "Carloncho Store",
+   "group": "in_store",
+   "city": "Lima",
+   "region": "Provincia de Lima",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+511 4713664",
+   "website": "https://www.facebook.com/Carlonchostore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Chikara Store, Trujillo",
    "group": "in_store",
    "city": "Trujillo",
@@ -291,6 +343,26 @@
    "address": "Jirón, Ignacio Merino 3773, Los Olivos 15301",
    "phone": "940 254 489",
    "checked_at": "2026-10-17T01:21:03Z"
+  },
+  {
+   "name": "CodiGames Perú",
+   "group": "in_store",
+   "city": "Santiago de Surco",
+   "region": "Provincia de Lima",
+   "address": "Stand 88 Segundo Nivel, Av. Aviación 5095, Santiago de Surco 15038",
+   "phone": "926 254 398",
+   "website": "https://www.facebook.com/CODIGAMESPERU/reviews/?ref=page_internal",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "Colecciones de álbumes Perú",
+   "group": "in_store",
+   "city": "Lima",
+   "region": "Provincia de Lima",
+   "address": "stand 222, Cc maxiplaza, Av. Garcilaso de la Vega 1236, Lima 15001",
+   "phone": "938 104 543",
+   "website": "https://www.facebook.com/profile.php?id=100063559526793&mibextid=kFxxJD",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "COLECCIONES DRAGONAY",
@@ -329,6 +401,17 @@
    "checked_at": "2026-10-17T01:22:08Z"
   },
   {
+   "name": "Dadomantico",
+   "group": "in_store",
+   "address": "410 Av. Trinidad Morán A-14 3er piso, Cayma, Arequipa, 04013, Peru",
+   "phone": "51+51982725858",
+   "website": "https://www.instagram.com/dadomantico?igsh=ZXQyYWdsaGQ2Nmls",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:19Z"
+  },
+  {
    "name": "Día-D Juegos",
    "group": "in_store",
    "city": "Yanahuara",
@@ -336,7 +419,7 @@
    "address": "Av. Victor Andrés Belaunde C-13, Yanahuara 04013",
    "phone": "932 453 919",
    "website": "https://www.facebook.com/DIA-D-juegos-Arequipa-1475190236114913/",
-   "checked_at": "2026-10-17T01:22:01Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Epik",
@@ -348,6 +431,16 @@
    "checked_at": "2026-10-17T01:22:14Z"
   },
   {
+   "name": "Factory Comics Store",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Av. Gral. Juan Antonio Álvarez de Arenales 1624, Lince 15073",
+   "phone": "915 088 664",
+   "website": "https://www.facebook.com/factorycomicssac?mibextid=LQQJ4d",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Fan Place",
    "group": "in_store",
    "city": "Lince",
@@ -355,7 +448,7 @@
    "address": "Avenida Arenales 1737 104 BH SEMISOTANO ( NO SOTANO Centro Comercial Arenales Plaza, Lince 15044",
    "phone": "969 620 156",
    "website": "https://www.instagram.com/fanplacetienda/",
-   "checked_at": "2026-10-17T01:21:06Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
    "name": "fantasy box",
@@ -411,6 +504,16 @@
    "checked_at": "2026-10-17T01:22:19Z"
   },
   {
+   "name": "GAELINO STORE FULL MARKET",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Av. Gral. Juan Antonio Álvarez de Arenales 1624, Lince 15073",
+   "phone": "998 136 686",
+   "website": "https://www.facebook.com/GaelinoStore",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "GAELINO STORE PUEBLO LIBRE",
    "group": "in_store",
    "city": "Pueblo Libre",
@@ -418,7 +521,7 @@
    "address": "TIENDA 139, Av. de la Marina 1602, Pueblo Libre 15084",
    "phone": "998 136 686",
    "website": "https://www.facebook.com/GaelinoStore",
-   "checked_at": "2026-10-17T01:21:03Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Game Start Hobby Shop",
@@ -489,7 +592,7 @@
    "address": "WXXW+P83 T, El Agustino 15003",
    "phone": "992 627 073",
    "website": "https://www.instagram.com/hgrstore_peru/",
-   "checked_at": "2026-10-17T01:21:21Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
    "name": "JH TOYS",
@@ -502,23 +605,26 @@
   {
    "name": "King of Cards",
    "group": "in_store",
-   "city": "Jesús María",
-   "region": "Provincia de Lima",
    "address": "Av. Arenales 1737 Int. 1-20, Lince (Sotano del Centro Comercial Arenales), Lince, Provincia de Lima, 15073, Peru",
    "phone": "51933256309",
    "website": "https://www.instagram.com/kingofcardstcg/",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:20:50Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
-   "name": "Komodo - Hobby Shop",
+   "name": "Komodo - Hobby shop",
    "group": "in_store",
    "city": "Santiago de Surco",
    "region": "Provincia de Lima",
-   "address": "Tienda 159, Av. Primavera 264, Santiago de Surco 15038",
-   "checked_at": "2026-10-17T01:21:17Z"
+   "address": "Av. Primavera, Lima, Provincia de Lima, 15038, Peru",
+   "phone": "51923317923",
+   "website": "https://www.facebook.com/Komodo.hobbyshop",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "La Casa De Las Figuritas Arequipa",
@@ -529,12 +635,31 @@
    "checked_at": "2026-10-17T01:21:56Z"
   },
   {
+   "name": "La Cueva TCG Perú",
+   "group": "in_store",
+   "city": "Jesús María",
+   "region": "Provincia de Lima",
+   "address": "stand 87, Galería Shopping Way, Jr. Mariscal Luzuriaga 442, Jesús María 15072",
+   "website": "https://instagram.com/lacuevatcg.pe",
+   "checked_at": "2026-10-17T01:22:19Z"
+  },
+  {
    "name": "La Feria Grau",
    "group": "in_store",
    "city": "La Victoria",
    "region": "Provincia de Lima",
    "address": "Av. Miguel Grau 122, La Victoria 15033",
    "checked_at": "2026-10-17T01:21:54Z"
+  },
+  {
+   "name": "LA MAGIA DEL COLECCIONISMO",
+   "group": "in_store",
+   "city": "Lima",
+   "region": "Provincia de Lima",
+   "address": "tienda 128, Galería Plazatec, Av. Garcilaso de la Vega 1358, Lima 15001",
+   "phone": "950 246 444",
+   "website": "https://www.facebook.com/profile.php?id=100090086781178&mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "La Torre De Los Comics",
@@ -565,6 +690,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:20:50Z"
+  },
+  {
+   "name": "Legion Force Sede Pueblo Libre",
+   "group": "in_store",
+   "city": "Pueblo Libre",
+   "region": "Provincia de Lima",
+   "address": "Av. de la Marina 1602, Pueblo Libre 15084",
+   "phone": "977 822 745",
+   "website": "https://www.facebook.com/LegionF0rce",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Lena's Store",
@@ -607,10 +742,23 @@
    "group": "in_store",
    "city": "Miraflores",
    "region": "Provincia de Lima",
-   "address": "Sótano tienda 17, C. Cantuarias 140, Miraflores 15074",
-   "phone": "987 411 112",
-   "website": "https://www.facebook.com/MagicPlaceCantuarias/",
-   "checked_at": "2026-10-17T01:21:03Z"
+   "address": "140 C. Cantuarias Tienda 17 Sotano, Miraflores, Provincia de Lima, 15074, Peru",
+   "phone": "51987411112",
+   "website": "https://www.facebook.com/MagicPlaceCantuarias",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "Mandarake",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Tienda 4-1, Centro Comercial Arenales, Av. Gral. Juan Antonio Álvarez de Arenales 1737, Lince 15046",
+   "phone": "994 904 860",
+   "website": "https://www.facebook.com/profile.php?id=100078971161336&mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "MasGamers Store",
@@ -664,6 +812,17 @@
    "checked_at": "2026-10-17T01:21:20Z"
   },
   {
+   "name": "Next Battles",
+   "group": "in_store",
+   "address": "1488 Marco Polo, Lima, Provincia de Lima, 15102, Peru",
+   "phone": "930870403",
+   "website": "https://www.instagram.com/nextbattles/?hl=es-la",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:19Z"
+  },
+  {
    "name": "Organa Collectibles",
    "group": "in_store",
    "city": "Lince",
@@ -691,12 +850,32 @@
    "checked_at": "2026-10-17T01:21:25Z"
   },
   {
+   "name": "Palmito's",
+   "group": "in_store",
+   "city": "San Miguel",
+   "region": "Provincia de Lima",
+   "address": "Ofi 401, Av. La Mar 2340, San Miguel 15088",
+   "phone": "(01) 2205810",
+   "website": "https://www.facebook.com/Palmitosygo/",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Pamilu Game center",
    "group": "in_store",
    "city": "Trujillo",
    "region": "La Libertad",
    "address": "Uruguay 191, Trujillo 13008",
    "checked_at": "2026-10-17T01:22:19Z"
+  },
+  {
+   "name": "Papurri Store TCG",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Jirón Coronel Manuel Gómez 115, Lince 15084",
+   "phone": "975 568 299",
+   "website": "https://www.facebook.com/papurristore?mibextid=ZbWKwL",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Peru collectors",
@@ -706,6 +885,16 @@
    "address": "tienda 42 , segundo nivel, Av. Alfredo Benavides 347, Miraflores 15074",
    "phone": "906 338 553",
    "checked_at": "2026-10-17T01:20:55Z"
+  },
+  {
+   "name": "Pocket Store | Subastas Pokémon TCG y Gameboy Mods",
+   "group": "in_store",
+   "city": "Lima",
+   "region": "Provincia de Lima",
+   "address": "Plaza Centro Comercial, Av. Gral. Juan Antonio Álvarez de Arenales, Lima 15046",
+   "phone": "958 279 386",
+   "website": "https://www.facebook.com/PocketStorePeru",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "PokeNipon",
@@ -723,6 +912,15 @@
    "region": "Piura",
    "address": "20000, Piura 20000",
    "phone": "936 843 102",
+   "checked_at": "2026-10-17T01:22:19Z"
+  },
+  {
+   "name": "RavenStore",
+   "group": "in_store",
+   "city": "Trujillo",
+   "region": "La Libertad",
+   "address": "Av. del Ejercito 1192, Trujillo 13001",
+   "website": "https://instagram.com/raven_crewstore",
    "checked_at": "2026-10-17T01:22:19Z"
   },
   {
@@ -744,6 +942,16 @@
    "checked_at": "2026-10-17T01:22:06Z"
   },
   {
+   "name": "Sekai Entertainment",
+   "group": "in_store",
+   "phone": "+51 5465 5597",
+   "website": "https://www.facebook.com/sekaiaqp/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
    "name": "Sekai Trading Cards",
    "group": "in_store",
    "city": "Cayma",
@@ -751,7 +959,7 @@
    "address": "segundo piso, Las Orquídeas 105, Cayma 04017",
    "phone": "948 083 066",
    "website": "https://www.facebook.com/sekaiaqp/",
-   "checked_at": "2026-10-17T01:21:56Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Shiny Cards",
@@ -782,6 +990,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:20:54Z"
+  },
+  {
+   "name": "Smart Aqp Store",
+   "group": "in_store",
+   "city": "Arequipa",
+   "region": "Arequipa",
+   "address": "Calle Bartolomé Herrera 103-A Cercado, Arequipa 04000",
+   "phone": "964 263 694",
+   "website": "https://www.facebook.com/SmartAqpStore",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Tarjetas Super Card",
@@ -844,7 +1062,7 @@
    "address": "Segundo piso, Gustavo Cornejo 144, Arequipa 04013",
    "phone": "908 930 883",
    "website": "https://www.instagram.com/tomodachiaqp?igsh=MWJzNXBzbnhrbzVpcA==&utm_source=qr",
-   "checked_at": "2026-10-17T01:21:56Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
    "name": "Totoro Art books and Collectibles",
@@ -854,7 +1072,17 @@
    "address": "Jr. Mariscal Luzuriaga 450, Jesús María 15072",
    "phone": "992 891 800",
    "website": "https://www.facebook.com/totoroartbooks/",
-   "checked_at": "2026-10-17T01:21:48Z"
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "Toy D Coleccion Juguetes y Figuras Lima Perú",
+   "group": "in_store",
+   "city": "Lince",
+   "region": "Provincia de Lima",
+   "address": "Av. Gral. Juan Antonio Álvarez de Arenales 1700 - C, Lince 15046",
+   "phone": "997 336 926",
+   "website": "https://www.facebook.com/ToyDColeccion.Juguetes.PERU/",
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "TOYS MATVER",
@@ -872,6 +1100,16 @@
    "region": "La Libertad",
    "address": "Int B, Av. España 2335, Trujillo 13006",
    "phone": "948 373 628",
+   "checked_at": "2026-10-17T01:22:14Z"
+  },
+  {
+   "name": "TRUXGAMES",
+   "group": "in_store",
+   "city": "Trujillo",
+   "region": "La Libertad",
+   "address": "VXQG+2WM, Av. España, Trujillo 13001",
+   "phone": "960 835 378",
+   "website": "https://www.facebook.com/truxgames",
    "checked_at": "2026-10-17T01:22:14Z"
   },
   {
@@ -919,7 +1157,7 @@
    "address": "Pasaje los limones 173, Independencia 15333",
    "phone": "919 584 586",
    "website": "https://www.instagram.com/vlilistore.pe/",
-   "checked_at": "2026-10-17T01:21:21Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
    "name": "Walter juegos",
@@ -943,9 +1181,12 @@
    "group": "in_store",
    "city": "Trujillo",
    "region": "La Libertad",
-   "address": "La Corte Mz. J Lote 33A, Trujillo 13008",
-   "phone": "948 350 087",
-   "website": "https://www.facebook.com/escueladeformaciondenanasyamascasaempleos",
+   "address": "Avenida América Sur 2457 , Trujillo, LAL, 13008, Peru",
+   "phone": "51948 350 087",
+   "website": "https://www.facebook.com/wijutopia",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-17T01:22:14Z"
   },
   {
@@ -994,6 +1235,17 @@
    "address": "Av. Benavides 347, Tienda 12, 2do Piso, Lima, Lima, 15074, Peru",
    "phone": "51939975234",
    "website": "https://www.chikiarena.com",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:50Z"
+  },
+  {
+   "name": "Clandestino House",
+   "group": "unknown",
+   "address": "3773 Ignacio Merino Los Olivos, Lima, Provincia de Lima, 15301, Peru",
+   "phone": "51940254489",
+   "website": "https://wpn.wizards.com/en",
    "games_events": [
     "Magic: The Gathering"
    ],
@@ -1049,9 +1301,9 @@
    "region": "Provincia de Lima",
    "address": "Stand 59, 2do Piso, Galleria Full Market, Av. Gral. Juan Antonio Álvarez de Arenales 1648, Lince 15046",
    "phone": "946 445 043",
-   "website": "https://linktr.ee/daprkis",
+   "website": "https://linktr.ee/dogif.pe",
    "buylist_url": "https://linktr.ee/buylist",
-   "checked_at": "2026-10-17T01:21:14Z"
+   "checked_at": "2026-10-17T01:22:14Z"
   },
   {
    "name": "Dogif",
@@ -1083,6 +1335,17 @@
    "phone": "971 303 804",
    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FDragonay.AQP",
    "checked_at": "2026-10-17T01:21:58Z"
+  },
+  {
+   "name": "El 5to turno",
+   "group": "unknown",
+   "address": "2844 Av. Aviación of 3, San Borja, Lima, Provincia de Lima, 15036, Peru",
+   "phone": "51946164748",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:50Z"
   },
   {
    "name": "EL COFRE",
@@ -1134,6 +1397,17 @@
    "phone": "930 282 309",
    "website": "https://figuritasperu.com/",
    "checked_at": "2026-10-17T01:21:23Z"
+  },
+  {
+   "name": "Final Boss Arena",
+   "group": "unknown",
+   "address": "620 Avenida José Pardo MZ22, Miraflores, LM, 15074, Peru",
+   "phone": "51928554329",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:20:50Z"
   },
   {
    "name": "Gekko Bookstore",
@@ -1349,7 +1623,7 @@
    "address": "CENTRO COMERCIAL PLAZA, Av. de la Marina 2000, San Miguel 15088",
    "phone": "981 078 024",
    "website": "https://phantom.pe/",
-   "checked_at": "2026-10-17T01:21:37Z"
+   "checked_at": "2026-10-17T01:21:39Z"
   },
   {
    "name": "Phantom",
@@ -1359,7 +1633,7 @@
    "address": "C.C. Real Plaza Centro Cívico, Av. Garcilaso de la Vega 1337, Lima 15001",
    "phone": "922 123 755",
    "website": "https://phantom.pe/",
-   "checked_at": "2026-10-17T01:21:37Z"
+   "checked_at": "2026-10-17T01:21:39Z"
   },
   {
    "name": "Phantom - Santa Anita",
@@ -1472,7 +1746,7 @@
    "address": "Av. Porongoche N° 510, Paucarpata 04013",
    "phone": "(01) 2030420",
    "website": "https://www.sodimac.com.pe/sodimac-pe",
-   "checked_at": "2026-10-17T01:22:07Z"
+   "checked_at": "2026-10-17T01:22:19Z"
   },
   {
    "name": "Sodimac - Mall Plaza Trujillo",

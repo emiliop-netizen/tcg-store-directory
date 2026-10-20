@@ -1,8 +1,8 @@
 {
  "country": "MA",
  "currency": "MAD",
- "updated": "2026-10-18",
- "store_count": 115,
+ "updated": "2026-10-20",
+ "store_count": 121,
  "stores": [
   {
    "name": "Game Plus",
@@ -135,7 +135,7 @@
    "address": "H9J6+WR9, Casablanca",
    "phone": "05 20 40 58 09",
    "website": "https://www.facebook.com/City-play-112201951471463",
-   "checked_at": "2026-10-18T21:59:14Z"
+   "checked_at": "2026-10-18T21:59:51Z"
   },
   {
    "name": "Club4games",
@@ -225,6 +225,16 @@
    "region": "Casablanca-Settat",
    "address": "HCF6+63W, Casablanca 20250",
    "checked_at": "2026-10-18T21:59:20Z"
+  },
+  {
+   "name": "Game house",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "JG26+227, Bd Mbarek Ben Boubker Hammadi, Casablanca",
+   "phone": "06 33 46 25 44",
+   "website": "https://www.instagram.com/_gamehouse_/",
+   "checked_at": "2026-10-18T21:59:59Z"
   },
   {
    "name": "GAME MASTER",
@@ -371,6 +381,16 @@
    "checked_at": "2026-10-18T21:59:57Z"
   },
   {
+   "name": "Le 17 Océan",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "17 Avenue de la Résistance, océan, Rabat 10000",
+   "phone": "08 08 58 62 20",
+   "website": "https://www.instagram.com/le17ocean?igsh=eDc2eW56NWNpcXVh",
+   "checked_at": "2026-10-18T21:59:59Z"
+  },
+  {
    "name": "LeagueWorld",
    "group": "in_store",
    "city": "Casablanca",
@@ -398,6 +418,16 @@
    "checked_at": "2026-10-18T22:00:00Z"
   },
   {
+   "name": "Librairie Papeterie Les Merveilles",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "47 Avenue Houmman El Fetouaki, Rabat 10200",
+   "phone": "05 37 75 82 21",
+   "website": "https://www.facebook.com/lpmerveilles/",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
    "name": "LIBRAIRIE POPULAIRE",
    "group": "in_store",
    "city": "Rabat",
@@ -413,6 +443,26 @@
    "address": "46 Av. Allal Ben Abdellah, Rabat",
    "phone": "05 37 72 44 95",
    "checked_at": "2026-10-18T22:00:00Z"
+  },
+  {
+   "name": "Livres & loisirs",
+   "group": "in_store",
+   "city": "Rabat",
+   "region": "Rabat-Salé-Kénitra",
+   "address": "1 et 3 angle avenue Mohammed VI et avenue Souss Centre commercial Jasmin magasin، n2، Rabat 10000",
+   "phone": "05 37 63 90 91",
+   "website": "https://www.facebook.com/LivresetLoisirsRabat",
+   "checked_at": "2026-10-18T21:59:51Z"
+  },
+  {
+   "name": "Lwafagaming",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "Saad boujamaa dial el wafa, Casablanca 20005",
+   "phone": "05 20 51 09 97",
+   "website": "https://instagram.com/lwafagaming?igshid=YmMyMTA2M2Y=",
+   "checked_at": "2026-10-18T21:59:59Z"
   },
   {
    "name": "made4games",
@@ -483,7 +533,7 @@
    "address": "Panorama, Bd Attadamone, Casablanca 20620",
    "phone": "06 50 42 25 90",
    "website": "https://instagram.com/panorama.gaming?igshid=YmMyMTA2M2Y=",
-   "checked_at": "2026-10-18T21:59:08Z"
+   "checked_at": "2026-10-18T21:59:59Z"
   },
   {
    "name": "Papeterie Benzekri",
@@ -535,6 +585,16 @@
    "region": "Casablanca-Settat",
    "address": "Boulevard ahmed, bn ahmed elgarnaoui, Casablanca 20600",
    "checked_at": "2026-10-18T21:59:14Z"
+  },
+  {
+   "name": "souvenir du maroc - casablanca",
+   "group": "in_store",
+   "city": "Casablanca",
+   "region": "Casablanca-Settat",
+   "address": "99 rue mohamed el henssali, Casablanca 20250",
+   "phone": "06 74 73 43 22",
+   "website": "https://www.instagram.com/reel/DVKdp7OCJuq/?igsh=Njc1Zmt3bTZnMGMy",
+   "checked_at": "2026-10-18T21:59:59Z"
   },
   {
    "name": "Souvenir of morocco, Calligraphe arabe et anglais . souvenirs du Maroc",
@@ -651,7 +711,7 @@
    "region": "Casablanca-Settat",
    "address": "U16, Casablanca 20000",
    "phone": "06 51 64 62 99",
-   "checked_at": "2026-10-18T21:59:17Z"
+   "checked_at": "2026-10-18T22:00:02Z"
   },
   {
    "name": "Boras jouets-متجر ألعاب بوراس",
@@ -802,7 +862,7 @@
    "address": "106 Rue Taha Hussein, Casablanca 20060",
    "phone": "05 22 48 50 10",
    "website": "https://king-jouet.ma/",
-   "checked_at": "2026-10-18T21:59:29Z"
+   "checked_at": "2026-10-18T21:59:57Z"
   },
   {
    "name": "Lawazim office",
@@ -832,7 +892,7 @@
    "address": "6 Rue Abderrahman Kaouakibi, Casablanca 20000",
    "phone": "05 22 27 17 05",
    "website": "https://www.livremoi.ma/",
-   "checked_at": "2026-10-18T21:59:34Z"
+   "checked_at": "2026-10-18T21:59:59Z"
   },
   {
    "name": "Livremoi - Bookstore in Rabat",
@@ -862,7 +922,7 @@
    "address": "CT 1029, COMMUNE DE California Mall, Casablanca",
    "phone": "080-2022050",
    "website": "https://www.marjane.ma/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
-   "checked_at": "2026-10-18T21:59:25Z"
+   "checked_at": "2026-10-18T21:59:26Z"
   },
   {
    "name": "Marjane Hypermarket Hay Hassani",
@@ -1060,7 +1120,7 @@
    "region": "Casablanca-Settat",
    "address": "Av. Abou Bakr el Kadiri, Casablanca",
    "website": "https://virginmegastore.ma/",
-   "checked_at": "2026-10-18T21:59:22Z"
+   "checked_at": "2026-10-18T21:59:46Z"
   },
   {
    "name": "Youpi",

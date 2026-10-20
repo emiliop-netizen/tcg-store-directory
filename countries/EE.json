@@ -1,8 +1,8 @@
 {
  "country": "EE",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 88,
+ "updated": "2026-10-20",
+ "store_count": 91,
  "stores": [
   {
    "name": "COLECTIKA",
@@ -163,7 +163,7 @@
    "address": "Kadaka tee 56, 12915 Tallinn",
    "phone": "564 0383",
    "website": "https://facebook.com/Komisjonikaubamaja",
-   "checked_at": "2026-10-17T05:21:29Z"
+   "checked_at": "2026-10-17T05:22:26Z"
   },
   {
    "name": "OÜ StrateegiaStuudio",
@@ -175,12 +175,42 @@
    "checked_at": "2026-10-17T05:23:10Z"
   },
   {
+   "name": "Pood Akord",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Tähe tn 91a, 50107 Tartu",
+   "phone": "734 8920",
+   "website": "https://www.facebook.com/akordkauplus/",
+   "checked_at": "2026-10-17T05:22:26Z"
+  },
+  {
    "name": "Prisma Sõbra",
    "group": "in_store",
    "city": "Tartu",
    "region": "Tartu maakond",
    "address": "Sõbra tn 58, 51013 Tartu",
    "checked_at": "2026-10-17T05:23:09Z"
+  },
+  {
+   "name": "Raamatukaru",
+   "group": "in_store",
+   "city": "Tallinn",
+   "region": "Harju maakond",
+   "address": "III korrus, Endla tn 4, 10142 Tallinn",
+   "phone": "5686 4722",
+   "website": "https://www.facebook.com/Raamatukaru/",
+   "checked_at": "2026-10-17T05:22:26Z"
+  },
+  {
+   "name": "Savikoda",
+   "group": "in_store",
+   "city": "Tartu",
+   "region": "Tartu maakond",
+   "address": "Jaani tn 6, 51007 Tartu",
+   "phone": "5382 1811",
+   "website": "http://www.facebook.com/savikoda",
+   "checked_at": "2026-10-17T05:22:26Z"
   },
   {
    "name": "Souvenirs & Gifts",
@@ -272,8 +302,8 @@
    "region": "Harju maakond",
    "address": "Peterburi tee 2, 11415 Tallinn",
    "phone": "5410 0201",
-   "website": "https://www.alzgamer.ee/",
-   "checked_at": "2026-10-17T05:21:29Z"
+   "website": "http://www.alzgamer.ee/",
+   "checked_at": "2026-10-17T05:22:43Z"
   },
   {
    "name": "Alzgamer Tartu",
@@ -283,7 +313,7 @@
    "address": "Lääneringtee 39, 50501 Tartu",
    "phone": "5410 0202",
    "website": "http://www.alzgamer.ee/",
-   "checked_at": "2026-10-17T05:22:20Z"
+   "checked_at": "2026-10-17T05:22:43Z"
   },
   {
    "name": "Annelinna Pandimaja",
@@ -366,7 +396,7 @@
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T05:21:29Z"
+   "checked_at": "2026-10-17T05:22:15Z"
   },
   {
    "name": "Brain Games Tasku",
@@ -815,7 +845,7 @@
    "address": "Tatari tn 64, 10134 Tallinn",
    "phone": "5553 0240",
    "website": "https://uuskasutus.ee/",
-   "checked_at": "2026-10-17T05:22:06Z"
+   "checked_at": "2026-10-17T05:23:04Z"
   },
   {
    "name": "Tradehouse Ilukaubamaja",

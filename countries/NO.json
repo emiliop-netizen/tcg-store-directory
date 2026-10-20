@@ -1,8 +1,8 @@
 {
  "country": "NO",
  "currency": "NOK",
- "updated": "2026-10-16",
- "store_count": 94,
+ "updated": "2026-10-20",
+ "store_count": 95,
  "stores": [
   {
    "name": "Pokelageret",
@@ -77,7 +77,6 @@
    "group": "in_store",
    "region": "Trøndelag",
    "address": "Sjøgangen 6, 7010 Trondheim",
-   "phone": "90 79 90 03",
    "website": "http://www.facebook.com/fjordbuda",
    "checked_at": "2026-10-16T03:57:54Z"
   },
@@ -104,6 +103,15 @@
    "address": "Olaf Helsets vei 5, 0694 Oslo",
    "phone": "93 66 49 53",
    "checked_at": "2026-10-16T03:57:34Z"
+  },
+  {
+   "name": "Todal Musikk & Hermetikk",
+   "group": "in_store",
+   "region": "Trøndelag",
+   "address": "Strandveien 37, 7042 Trondheim",
+   "phone": "90 79 90 03",
+   "website": "http://facebook.com/todalmusikkoghermetikk",
+   "checked_at": "2026-10-16T03:57:54Z"
   },
   {
    "name": "Tromsø Bruktbokhandel",

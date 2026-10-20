@@ -1,8 +1,8 @@
 {
  "country": "NL",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 590,
+ "updated": "2026-10-20",
+ "store_count": 596,
  "stores": [
   {
    "name": "Bescards",
@@ -687,6 +687,16 @@
    "checked_at": "2026-10-16T03:16:26Z"
   },
   {
+   "name": "Cardelier",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Sint Annenstraat 23, 1012 HE Amsterdam",
+   "phone": "06 20817597",
+   "website": "https://instagram.com/cardelier.tcg",
+   "checked_at": "2026-10-16T03:10:34Z"
+  },
+  {
    "name": "Cash Converters Prinsegracht Hague",
    "group": "in_store",
    "city": "Den Haag",
@@ -695,6 +705,15 @@
    "phone": "070 305 0100",
    "website": "https://www.cashconverters.nl/",
    "checked_at": "2026-10-16T03:17:47Z"
+  },
+  {
+   "name": "Choose Happiness",
+   "group": "in_store",
+   "city": "Amsterdam",
+   "region": "NH",
+   "address": "Utrechtsestraat 77, 1017 VJ Amsterdam",
+   "website": "https://www.instagram.com/choosehappiness77",
+   "checked_at": "2026-10-16T03:10:34Z"
   },
   {
    "name": "Collectableworld Amsterdam",
@@ -740,6 +759,17 @@
    "address": "Oudegracht 199, 3511 NG Utrecht",
    "phone": "030 231 7335",
    "checked_at": "2026-10-16T03:20:09Z"
+  },
+  {
+   "name": "De Witte Raaf",
+   "group": "in_store",
+   "address": "Grotestraat 11, Nijmegen, Gelderland, 6511vb, Netherlands",
+   "phone": "+31653432555",
+   "website": "https://www.instagram.com/dewitteraafnijmegen/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:10:34Z"
   },
   {
    "name": "Donkersloot Collectibles",
@@ -807,13 +837,10 @@
   {
    "name": "Gifts Goodies & Fantasy",
    "group": "in_store",
-   "city": "Winschoten",
-   "region": "Groningen",
    "address": "13 Papegaaistraat, Goes, ZE, 4461 AD, Netherlands",
    "phone": "+31619206041",
    "website": "https://www.facebook.com/p/Gifts-Goodies-Fantasy-100078972700294/",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T03:11:21Z"
@@ -915,8 +942,6 @@
   {
    "name": "My Anime Alkmaar",
    "group": "in_store",
-   "city": "Amsterdam",
-   "region": "NH",
    "address": "431 Europaboulevard, Alkmaar, NH, 1825 RN, Netherlands",
    "phone": "+31628916340",
    "website": "https://www.instagram.com/myanime_alkmaar/",
@@ -1061,6 +1086,20 @@
    "checked_at": "2026-10-16T03:18:05Z"
   },
   {
+   "name": "Sammys Gameshop",
+   "group": "in_store",
+   "city": "Winschoten",
+   "region": "Groningen",
+   "address": "92 Langestraat, Winschoten, GR, 9671 CX, Netherlands",
+   "phone": "+31(0)624746375",
+   "website": "https://www.facebook.com/SammysGameshop",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:21Z"
+  },
+  {
    "name": "Souverniershop Waterfront",
    "group": "in_store",
    "city": "Rotterdam",
@@ -1140,6 +1179,28 @@
    "address": "Dierenselaan 248, 2573 LW Den Haag",
    "phone": "070 204 0400",
    "checked_at": "2026-10-16T03:18:23Z"
+  },
+  {
+   "name": "Towergaming",
+   "group": "in_store",
+   "address": "Oosterstraat 91, Steenwijk, Overijssel, 8331HC, Netherlands",
+   "phone": "+310651461661",
+   "website": "https://www.facebook.com/share/1F5HS69wf6/?mibextid=wwXIfr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:21Z"
+  },
+  {
+   "name": "Toystars tcg&collectibles",
+   "group": "in_store",
+   "address": "34 Promenade, Veendam, Groningen, 9641 AK, Netherlands",
+   "phone": "+310638274803",
+   "website": "https://www.facebook.com/share/17pmLiWHEq/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T03:11:21Z"
   },
   {
    "name": "Trading Card Palace",

@@ -1,8 +1,8 @@
 {
  "country": "PY",
  "currency": "PYG",
- "updated": "2026-10-18",
- "store_count": 39,
+ "updated": "2026-10-20",
+ "store_count": 43,
  "stores": [
   {
    "name": "centropokemon.com.py",
@@ -92,6 +92,16 @@
    "checked_at": "2026-10-18T21:53:49Z"
   },
   {
+   "name": "Game Service Super Centro",
+   "group": "in_store",
+   "city": "Asunción",
+   "region": "Asunción",
+   "address": "15 De Agosto, Asunción 001013",
+   "phone": "0986 622096",
+   "website": "https://www.instagram.com/gameservicepy?igsh=OHUzYzA1cjdlZDdj",
+   "checked_at": "2026-10-18T21:53:43Z"
+  },
+  {
    "name": "Go play Supercentro",
    "group": "in_store",
    "city": "Asunción",
@@ -130,24 +140,14 @@
   {
    "name": "Hobby Mbarete",
    "group": "in_store",
-   "city": "Asunción",
-   "region": "Asunción",
+   "city": "Fernando de la Mora",
+   "region": "Central",
    "address": "Coronel Rafael Franco 437 casi, Fernando de la Mora, Central, 110309, Paraguay",
    "phone": "595971574391",
    "website": "https://www.instagram.com/hobbymbarete?igsh=MWpjcWJzYjRkbGtkaQ==",
    "games_events": [
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-18T21:53:43Z"
-  },
-  {
-   "name": "Hobby Mbarete",
-   "group": "in_store",
-   "city": "Fernando de la Mora",
-   "region": "Central",
-   "address": "Coronel Rafael Franco 437 casi, Fernando de la Mora 110309",
-   "phone": "0971 574391",
-   "website": "https://www.instagram.com/hobbymbarete",
    "checked_at": "2026-10-18T21:53:43Z"
   },
   {
@@ -176,6 +176,16 @@
    "address": "Ana Díaz 1138 Casi, Asunción 001236",
    "phone": "0972 260644",
    "checked_at": "2026-10-18T21:53:49Z"
+  },
+  {
+   "name": "Level Up! Store",
+   "group": "in_store",
+   "city": "Asunción",
+   "region": "Asunción",
+   "address": "14 De Mayo 822 casi, Asunción 001013",
+   "phone": "0981 112066",
+   "website": "https://www.instagram.com/geekstore.levelup?igsh=cnQyMXM2ZmNvN2Nq",
+   "checked_at": "2026-10-18T21:53:43Z"
   },
   {
    "name": "Liga Centro Pokémon Paraguay",
@@ -224,6 +234,26 @@
    "checked_at": "2026-10-18T21:53:43Z"
   },
   {
+   "name": "Punto Game",
+   "group": "in_store",
+   "city": "Asunción",
+   "region": "Asunción",
+   "address": "Charles De Gaulle 231, Asunción 001412",
+   "phone": "0985 226801",
+   "website": "https://www.instagram.com/puntogamepy/?hl=es",
+   "checked_at": "2026-10-18T21:53:43Z"
+  },
+  {
+   "name": "Shinigami Store",
+   "group": "in_store",
+   "city": "Asunción",
+   "region": "Asunción",
+   "address": "Cap. Walter Gwynn, Asunción 001008",
+   "phone": "0983 922557",
+   "website": "https://www.facebook.com/shinigamistore.py/",
+   "checked_at": "2026-10-18T21:53:50Z"
+  },
+  {
    "name": "Star Game Asuncion",
    "group": "in_store",
    "city": "Asunción",
@@ -249,6 +279,16 @@
    "address": "Julia Miranda Cueto Casi Zavalas Cue Fernando De La Mora, Fernando de la Mora 2300",
    "phone": "0961 810425",
    "website": "https://www.facebook.com/TazzStore/",
+   "checked_at": "2026-10-18T21:53:50Z"
+  },
+  {
+   "name": "The Geek Factory",
+   "group": "in_store",
+   "city": "Asunción",
+   "region": "Asunción",
+   "address": "Av Gral Máximo Santos 2137, Asunción 5555",
+   "phone": "0992 900472",
+   "website": "http://facebook.com/thegeekfactorypy",
    "checked_at": "2026-10-18T21:53:50Z"
   },
   {
@@ -287,7 +327,7 @@
    "address": "Dr Mallorquin Guayaquies, Asunción 001422",
    "phone": "0971 692006",
    "website": "http://www.facebook.com/wolfstorepy",
-   "checked_at": "2026-10-18T21:53:43Z"
+   "checked_at": "2026-10-18T21:53:50Z"
   },
   {
    "name": "Credenciales YA",

@@ -1,8 +1,8 @@
 {
  "country": "NZ",
  "currency": "NZD",
- "updated": "2026-10-16",
- "store_count": 175,
+ "updated": "2026-10-20",
+ "store_count": 180,
  "stores": [
   {
    "name": "Calico Keep",
@@ -390,8 +390,8 @@
    "region": "Auckland",
    "address": "LynnMall, 3058 Great North Road, New Lynn, Auckland 0600",
    "phone": "027 353 6737",
-   "website": "https://www.collectablekiwi.co.nz/",
-   "checked_at": "2026-10-17T01:23:26Z"
+   "website": "https://collectablekiwi.co.nz/",
+   "checked_at": "2026-10-17T01:24:00Z"
   },
   {
    "name": "Collectable Kiwi South City",
@@ -445,7 +445,7 @@
    "address": "322 Riccarton Road, Upper Riccarton, Christchurch 8041",
    "phone": "022 544 4409",
    "website": "https://www.hobbylords.co.nz/",
-   "checked_at": "2026-10-17T01:23:56Z"
+   "checked_at": "2026-10-17T01:24:27Z"
   },
   {
    "name": "Hobby Lords Dunedin",
@@ -469,7 +469,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:22:41Z"
+   "checked_at": "2026-10-17T01:24:27Z"
   },
   {
    "name": "Hobby Lords Palmerston North",
@@ -482,7 +482,7 @@
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T01:23:18Z"
+   "checked_at": "2026-10-17T01:24:27Z"
   },
   {
    "name": "Hobby Lords Takapuna",
@@ -491,11 +491,11 @@
    "region": "Auckland",
    "address": "449 Lake Road, Takapuna, Auckland 0622, New Zealand, Auckland, Auckland, 0622",
    "phone": "09 242 4668",
-   "website": "https://www.hobbylords.co.nz",
+   "website": "https://www.hobbylords.co.nz/",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-17T01:23:18Z"
+   "checked_at": "2026-10-17T01:24:27Z"
   },
   {
    "name": "Kiki's TCG & Collectibles",
@@ -605,6 +605,27 @@
    "checked_at": "2026-10-17T01:23:47Z"
   },
   {
+   "name": "Arkham City Comics",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "2/885 Manukau Road, Royal Oak, Auckland 1023",
+   "phone": "09 625 6537",
+   "website": "https://www.facebook.com/arkhamcitycomics/",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
+   "name": "Baydragon Botany",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "09 2799192",
+   "website": "https://discord.gg/AuXh22X",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:22:47Z"
+  },
+  {
    "name": "Card Merchant Blenheim",
    "group": "in_store",
    "city": "Blenheim",
@@ -619,6 +640,20 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-17T01:23:01Z"
+  },
+  {
+   "name": "Card Merchant Dunedin",
+   "group": "in_store",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "23 Princes St, Dunedin, Otago, 9016, New Zealand",
+   "phone": "6412345678",
+   "website": "https://www.facebook.com/Cardmerchantdunedin/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-17T01:23:56Z"
   },
   {
    "name": "Card Merchant New Plymouth",
@@ -690,6 +725,16 @@
    "checked_at": "2026-10-17T01:23:18Z"
   },
   {
+   "name": "Dunedin Models and Games Store",
+   "group": "in_store",
+   "city": "Dunedin",
+   "region": "Otago Region",
+   "address": "110 Moray Place, Central Dunedin, Dunedin 9016",
+   "phone": "021 234 4527",
+   "website": "https://www.facebook.com/DMaGSLtd",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
    "name": "Game Corner Christchurch",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -746,16 +791,13 @@
   {
    "name": "Hobby Lords New Lynn",
    "group": "in_store",
-   "city": "Dunedin",
-   "region": "Otago Region",
    "address": "5 Totara Ave, Auckland, Auckland, 0600, NZ",
    "phone": "6498250581",
    "website": "https://www.facebook.com/share/1KA33iWoZv/?mibextid=wwXIfr",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:22:47Z"
+   "checked_at": "2026-10-17T01:23:56Z"
   },
   {
    "name": "Hobby Lords Tauranga",
@@ -836,6 +878,16 @@
    "checked_at": "2026-10-17T01:22:41Z"
   },
   {
+   "name": "Pokemon TCG Marketplace",
+   "group": "in_store",
+   "city": "Auckland",
+   "region": "Auckland",
+   "address": "123 Great South Road, Papatoetoe, Auckland 2025",
+   "phone": "07882 756154",
+   "website": "https://www.facebook.com/share/g/1CQ2fqzLJx/?mibextid=wwXIfr",
+   "checked_at": "2026-10-17T01:23:56Z"
+  },
+  {
    "name": "Roburai Collectibles",
    "group": "in_store",
    "city": "Auckland",
@@ -896,7 +948,7 @@
    "address": "Canterbury Arcade Shop G7/170 Queen Street, Auckland CBD, Auckland 1010",
    "phone": "09 309 4795",
    "website": "https://www.facebook.com/yourlocalgameshop/",
-   "checked_at": "2026-10-17T01:23:22Z"
+   "checked_at": "2026-10-17T01:23:56Z"
   },
   {
    "name": "101RTP",
@@ -1112,9 +1164,9 @@
    "region": "Waikato Region",
    "address": "Unit 4/311 Barton Street, Hamilton Central, Hamilton 3204",
    "phone": "07 838 0114",
-   "website": "https://www.cashconverters.co.nz/stores/hamilton-central/?utm_source=google&utm_medium=gbp",
+   "website": "https://www.cashconverters.co.nz/stores/dunedin-south/?utm_source=google&utm_medium=gbp",
    "buylist_url": "https://www.cashconverters.co.nz/sell/",
-   "checked_at": "2026-10-17T01:24:25Z"
+   "checked_at": "2026-10-17T01:24:31Z"
   },
   {
    "name": "Casino Kingdom New Zealand",
@@ -1148,7 +1200,7 @@
     "Flesh and Blood",
     "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-17T01:22:46Z"
+   "checked_at": "2026-10-17T01:23:19Z"
   },
   {
    "name": "Collectors Guild Mt Roskill",
@@ -1407,8 +1459,8 @@
    "region": "Auckland",
    "address": "126 Queen Street, Auckland CBD, Auckland 1010",
    "phone": "09 956 0100",
-   "website": "https://www.jbhifi.co.nz/pages/queen-st-auckland-cbd",
-   "checked_at": "2026-10-17T01:23:35Z"
+   "website": "https://www.jbhifi.co.nz/pages/dunedin/",
+   "checked_at": "2026-10-17T01:24:36Z"
   },
   {
    "name": "JB Hi-Fi Dunedin",
@@ -1558,8 +1610,8 @@
    "region": "Canterbury Region",
    "address": "126 Saint Asaph Street, Christchurch Central City, Christchurch 8011",
    "phone": "03 940 4568",
-   "website": "https://www.pbtech.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=googlebp&utm_content=pb-chchcentral",
-   "checked_at": "2026-10-17T01:24:06Z"
+   "website": "https://www.pbtech.co.nz/",
+   "checked_at": "2026-10-17T01:24:36Z"
   },
   {
    "name": "PB Tech Dunedin",
@@ -1631,7 +1683,7 @@
    "address": "Pop Stop, Shop 145 Queensgate Shopping Centre, Cnr Queens Drive and, Bunny Street, Hutt Central, Wellington 5011",
    "phone": "04 213 9773",
    "website": "https://popstop.co.nz/",
-   "checked_at": "2026-10-17T01:23:50Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Pop Stop (Sylvia Park)",
@@ -1641,7 +1693,7 @@
    "address": "Shop No46, Sylvia Park, 286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
    "phone": "09 218 6511",
    "website": "https://popstop.co.nz/",
-   "checked_at": "2026-10-17T01:23:40Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Pop Stop (The Base - Te Rapa)",
@@ -1651,7 +1703,7 @@
    "address": "The Base Parade, Northgate, Hamilton 3200",
    "phone": "07 949 8993",
    "website": "https://popstop.co.nz/",
-   "checked_at": "2026-10-17T01:24:25Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Pop Stop (Westfield Riccarton)",
@@ -1661,7 +1713,7 @@
    "address": "129 Riccarton Road, Riccarton, Christchurch 8041",
    "phone": "03 420 3717",
    "website": "https://popstop.co.nz/",
-   "checked_at": "2026-10-17T01:24:01Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Pop Weasel",
@@ -1921,7 +1973,7 @@
    "address": "6 Mercari Way, Albany, Auckland 0632",
    "phone": "09 444 0981",
    "website": "https://www.toyworld.co.nz/",
-   "checked_at": "2026-10-17T01:23:32Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Toyworld Dunedin",
@@ -1941,7 +1993,7 @@
    "address": "Mega Centre, 5/55 Clarence Street, Riccarton, Christchurch 8011",
    "phone": "03 343 0330",
    "website": "https://www.toyworld.co.nz/",
-   "checked_at": "2026-10-17T01:24:16Z"
+   "checked_at": "2026-10-17T01:24:43Z"
   },
   {
    "name": "Valkyrie Games",
@@ -1993,7 +2045,7 @@
    "address": "226 Lambton Quay, Wellington Central, Wellington 6011",
    "phone": "04 471 1900",
    "website": "https://www.whitcoulls.co.nz/",
-   "checked_at": "2026-10-17T01:23:54Z"
+   "checked_at": "2026-10-17T01:24:48Z"
   },
   {
    "name": "Wizards Retreat Game Centre",

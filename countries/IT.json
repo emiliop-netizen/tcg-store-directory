@@ -1,8 +1,8 @@
 {
  "country": "IT",
  "currency": "EUR",
- "updated": "2026-10-16",
- "store_count": 969,
+ "updated": "2026-10-20",
+ "store_count": 1212,
  "stores": [
   {
    "name": "Apple Firenze",
@@ -168,19 +168,6 @@
    "checked_at": "2026-10-16T03:00:13Z"
   },
   {
-   "name": "Cards Realm",
-   "group": "blocked",
-   "city": "Bergamo",
-   "region": "Lombardia",
-   "address": "Via Sardegna, 2B, 24127 Bergamo BG, Italy, Bergamo, Lombardia, 24127",
-   "phone": "+393396995955",
-   "website": "https://www.cardmarket.com/it/Magic/Users/CardsRealm?fbclid=IwAR3wzJvgoWsyeF_Eyr2AxQPPHP1TQTbo-WKrzGAX_vlB_NIl8sD8nDjKBOM",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "Carretto di Carta",
    "group": "blocked",
    "city": "Milano",
@@ -203,16 +190,6 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:57:14Z"
-  },
-  {
-   "name": "Collezionami Shop",
-   "group": "blocked",
-   "city": "Forlì",
-   "region": "Emilia-Romagna",
-   "address": "Viale II Giugno, 2/C, 47121 Forlì FC",
-   "phone": "0543 071299",
-   "website": "https://www.cardmarket.com/it/Magic/Users/collezionamishop",
-   "checked_at": "2026-10-16T21:48:37Z"
   },
   {
    "name": "Comics Corner Bologna",
@@ -265,19 +242,6 @@
    "checked_at": "2026-10-16T03:05:30Z"
   },
   {
-   "name": "Dragon Legend",
-   "group": "blocked",
-   "city": "Roma",
-   "region": "Lazio",
-   "address": "Via Acca Larenzia, 32, 00181 Roma RM, Italy, Roma, Lazio, 00181",
-   "phone": "+39 333 322 5160",
-   "website": "https://www.fumettiroma.it/home/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "Dungeon Store - Genova",
    "group": "blocked",
    "city": "Genova",
@@ -298,7 +262,7 @@
    "address": "Via Torino, 49, 20123 Milano MI",
    "phone": "02 3828 9184",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -308,7 +272,7 @@
    "address": "C.so Umberto I, 80138 Napoli NA",
    "phone": "081 1807 3641",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:27Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -318,7 +282,7 @@
    "address": "CC LE PORTE DI NAPOLI, Via Santa Maria la Nova, 1, 80021 Afragola NA",
    "phone": "081 1807 3631",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:27Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -328,7 +292,7 @@
    "address": "Via Provinciale Parete, 2, 81038 Trentola Ducenta CE",
    "phone": "081 1807 3691",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:28Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -338,7 +302,7 @@
    "address": "Centro Comm. Gallery, Via Nizza, 262, 10126 Torino TO",
    "phone": "011 678227",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:31Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -348,7 +312,7 @@
    "address": "Via Livorno, 51, 10149 Sapri TO",
    "phone": "011 069 2731",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:32Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -358,7 +322,7 @@
    "address": "Strada Torino, 30-32, Centro Comm. LE, Via del Commercio, 10092 Beinasco TO",
    "phone": "011 069 4895",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:32Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -368,7 +332,7 @@
    "address": "Centro Comm. Shopville Le Gru, V. Crea, 10, 10095 Grugliasco TO",
    "phone": "011 069 2741",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:32Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -378,7 +342,7 @@
    "address": "Centro Comm. Panorama, Str. di Settimo, 371, 10099 San Mauro Torinese TO",
    "phone": "011 069 0471",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:34Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -388,7 +352,7 @@
    "address": "Centro Comm. Caselle Center, Str. Torino, 23, 10072 Caselle Torinese TO",
    "phone": "011 069 2711",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:34Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -398,7 +362,7 @@
    "address": "Via Francesco de Sanctis, 39, 50136 Firenze FI",
    "phone": "055 013 1177",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:37Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -408,7 +372,7 @@
    "address": "Centro Comm. Sesto, Via Petrosa, 19, 50019 Sesto Fiorentino FI",
    "phone": "055 015 1251",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:39Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -418,7 +382,7 @@
    "address": "Centro Comm. I Gigli, Via San Quirico, 165, 50013 Campi Bisenzio FI",
    "phone": "055 015 1241",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:41Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -428,7 +392,7 @@
    "address": "Via del Giglio, 50053 Empoli FI",
    "phone": "0571 155 8105",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:41Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -438,7 +402,7 @@
    "address": "Corso Italia, 191, 52027 San Giovanni Valdarno AR",
    "phone": "055 015 1261",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:41Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -448,7 +412,7 @@
    "address": "Via Bure Vecchia Nord, 51100 Pistoia PT",
    "phone": "0573 172 7421",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:41Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -458,7 +422,7 @@
    "address": "Via Villanova, 29, 40055 Bologna BO",
    "phone": "051 002 0431",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:44Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "Gamelife",
@@ -468,7 +432,7 @@
    "address": "Centro Commerciale Il Mirto, Corso Alessandro de Stefanis, 114, 16100 Genova GE",
    "phone": "010 813645",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:46Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -478,7 +442,7 @@
    "address": "Corso Cavour, 165, 70121 Bari BA",
    "phone": "080 618 1841",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:48Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -488,7 +452,7 @@
    "address": "Centro Comm. Bari BLU, SP60, 70019 Triggiano BA",
    "phone": "080 618 5401",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:50Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -498,7 +462,7 @@
    "address": "Viale delle Nazioni, 37135 Verona VR",
    "phone": "045 232 0941",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:50Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -508,7 +472,7 @@
    "address": "Via Monte Cristallo, 1, 37057 San Giovanni Lupatoto VR",
    "phone": "045 232 0921",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:52Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "gamelife",
@@ -518,7 +482,7 @@
    "address": "Via Giovanni Verga, 1, 35020 Albignasego PD",
    "phone": "049 096 8491",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:53Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "GameStop",
@@ -528,7 +492,7 @@
    "address": "Via Masullo, Centro Commerciale Quarto Nuovo, 76, 80010 Quarto NA",
    "phone": "081 1807 3081",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:28Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "GameStop",
@@ -537,7 +501,7 @@
    "address": "Località Aurno, 87, 81025 Marcianise CE",
    "phone": "0823 128 0041",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:29Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "GameStop",
@@ -547,7 +511,7 @@
    "address": "Centro Comm. Shopville Gran Reno, Via Marilyn Monroe, 2, 40033 Casalecchio di Reno BO",
    "phone": "051 002 2451",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:45Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "GameStop",
@@ -557,7 +521,7 @@
    "address": "Via Maqueda, 377, 90133 Palermo PA",
    "phone": "091 277 6412",
    "website": "https://www.gamelife.it/",
-   "checked_at": "2026-10-16T21:48:46Z"
+   "checked_at": "2026-10-16T21:48:54Z"
   },
   {
    "name": "GameStop",
@@ -682,11 +646,11 @@
    "region": "Umbria",
    "address": "Via Caduti del Lavoro, 52, 06124 Perugia PG, Italy, Perugia, Umbria, 06124",
    "phone": "+39 351 506 0763",
-   "website": "https://www.cardmarket.com/it/YuGiOh/Users/MagicHistory-PERUGIA",
+   "website": "https://www.cardmarket.com/it/Magic/Users/collezionamishop",
    "games_events": [
     "Flesh and Blood"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T21:48:37Z"
   },
   {
    "name": "Mugiwara Shop TCG Roma",
@@ -815,6 +779,17 @@
    "checked_at": "2026-10-16T03:05:35Z"
   },
   {
+   "name": "16 Games - Neverland",
+   "group": "in_store",
+   "address": "Via della Repubblica 38/a1, Santa Maria delle Mole, RM, 00040, Italy",
+   "phone": "+3906 8370 8374",
+   "website": "https://www.facebook.com/16GamesNeverland/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "3 assi store",
    "group": "in_store",
    "address": "Via Alberto Mario 9, Civitavecchia, RM, 00053, Italy",
@@ -860,9 +835,34 @@
    "group": "in_store",
    "city": "Casalecchio di Reno",
    "region": "Emilia-Romagna",
-   "address": "Via Alessandro Manzoni, 3, 40033 Casalecchio di Reno BO",
-   "phone": "329 662 2621",
+   "address": "Via Alessandro Manzoni 3, Casalecchio di Reno, BO, 40033, Italy",
+   "phone": "+39(0)51 498 7009",
    "website": "https://www.facebook.com/ABCCardsAndGames/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Adventure's Time",
+   "group": "in_store",
+   "address": "via dei latini 12, Nettuno, roma, 00048, italy",
+   "phone": "+393762791760",
+   "website": "https://www.facebook.com/profile.php?id=61576148430743",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "ADVENTURES CHIVASSO",
+   "group": "in_store",
+   "address": "VIA SAN CARLO 35/A, CHIVASSO, TORINO, 10034, Italy",
+   "phone": "+393793346167",
+   "website": "https://www.instagram.com/adventureschivasso?igsh=aG96MzVqY2tpb3Zh",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -876,6 +876,31 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:27Z"
+  },
+  {
+   "name": "Akiba",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+39 3342794866",
+   "website": "https://discord.gg/RtzJ72",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:17Z"
+  },
+  {
+   "name": "Akira",
+   "group": "in_store",
+   "city": "Novi Ligure",
+   "region": "Piemonte",
+   "address": "4 Piazza 27 Aprile, Novi Ligure, Alessandria, 15067, Italy",
+   "phone": "+393516431027",
+   "website": "https://www.instagram.com/akira.fumetterianovi/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Alecardsandgame",
@@ -928,9 +953,23 @@
    "group": "in_store",
    "city": "Genova",
    "region": "Liguria",
-   "address": "Corso Buenos Aires, 10R, 16129 Genova GE",
-   "phone": "351 335 7186",
-   "website": "http://www.instagram.com/arcadiacggenova",
+   "address": "10 Corso Buenos Aires, Genova, Liguria, 16129, Italy",
+   "phone": "+39(0)104592837",
+   "website": "https://www.facebook.com/arcadiacggenova",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Arcadia Comics And Games Mazzetta",
+   "group": "in_store",
+   "address": "83 Via Severino Ferrari, La Spezia, Liguria, 19124, Italy",
+   "phone": "393494701771",
+   "website": "https://www.facebook.com/arcadiacgmazzetta",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -963,6 +1002,17 @@
    "checked_at": "2026-10-16T03:03:20Z"
   },
   {
+   "name": "Aura Tcg",
+   "group": "in_store",
+   "address": "via dell'olmata 25a, nettuno, Roma, 00048, Italy",
+   "phone": "+393881017176",
+   "website": "https://www.instagram.com/auratcg_nettuno/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Automatic Genova (S.R.L.)",
    "group": "in_store",
    "city": "Genova",
@@ -970,6 +1020,37 @@
    "address": "Via Angelo Gianelli, 140, 16166 Genova GE",
    "phone": "010 372 5471",
    "checked_at": "2026-10-16T03:06:17Z"
+  },
+  {
+   "name": "B Games Bologna",
+   "group": "in_store",
+   "address": "Via Aurelio Saffi 15, Bologna, BO, 40100, Italy",
+   "phone": "+39(0)5 128 19702",
+   "website": "https://www.instagram.com/bgamesbologna",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Bankai",
+   "group": "in_store",
+   "address": "78 Via Giuseppe Mazzini, Rapallo, Liguria, 16035, Italy",
+   "phone": "+393381506158",
+   "website": "https://www.instagram.com/bankai.rapallo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Banzai",
+   "group": "in_store",
+   "city": "Padova",
+   "region": "Veneto",
+   "address": "Via Altinate, 109B, 35121 Padova PD",
+   "website": "http://www.instagram.com/banzaipadovaofficial/",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Baratie Collectibles",
@@ -1024,6 +1105,17 @@
    "checked_at": "2026-10-16T03:04:32Z"
   },
   {
+   "name": "Black Lotus",
+   "group": "in_store",
+   "address": "Galleria Mirabello 11/a, Abbiategrasso, AG, 20081, Italy",
+   "phone": "+39(0)25 030-6065",
+   "website": "https://www.facebook.com/BlackLotus.cardstore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Black Lotus - Viterbo",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -1032,6 +1124,16 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:55:48Z"
+  },
+  {
+   "name": "Black Lotus Cardstore",
+   "group": "in_store",
+   "city": "Abbiategrasso",
+   "region": "Lombardia",
+   "address": "Galleria Mirabello, 11, 20081 Abbiategrasso MI",
+   "phone": "346 306 2528",
+   "website": "https://m.facebook.com/BlackLotus.cardstore/",
+   "checked_at": "2026-10-16T02:55:21Z"
   },
   {
    "name": "BloodyMary",
@@ -1129,13 +1231,17 @@
    "checked_at": "2026-10-16T02:58:59Z"
   },
   {
-   "name": "Card 'em All",
+   "name": "Card 'Em All",
    "group": "in_store",
    "city": "Genova",
    "region": "Liguria",
-   "address": "V. Contubernio Giovanni Battista d'Albertis, 63 R, 16143 Genova GE",
-   "phone": "346 378 9240",
-   "checked_at": "2026-10-16T21:48:45Z"
+   "address": "Via Contubernio Giovanni Battista d'Albertis, 63 R, Genova, GE, 16143, Italy",
+   "phone": "+393513789241",
+   "website": "https://www.instagram.com/_card_em_all_/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "CARD CENTER",
@@ -1167,6 +1273,17 @@
    "checked_at": "2026-10-16T02:59:27Z"
   },
   {
+   "name": "CardGameShop Salerno",
+   "group": "in_store",
+   "address": "Corso Garibaldi  31, Salerno, SA, 84123, Italy",
+   "phone": "+390899319579",
+   "website": "https://www.instagram.com/cardgameshopsalerno/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "CardGaming",
    "group": "in_store",
    "city": "Palermo",
@@ -1186,6 +1303,30 @@
    "checked_at": "2026-10-16T02:56:29Z"
   },
   {
+   "name": "Cards Realm",
+   "group": "in_store",
+   "city": "Bergamo",
+   "region": "Lombardia",
+   "address": "2B Via Sardegna, Bergamo, Lombardia, 24127, Italy",
+   "phone": "+39 3394739284",
+   "website": "https://facebook.com/CardsRealmBG",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Carforastore",
+   "group": "in_store",
+   "city": "Napoli",
+   "region": "Campania",
+   "address": "Calata Trinità Maggiore, 24, 80134 Napoli NA",
+   "phone": "081 551 0912",
+   "website": "https://www.instagram.com/carforastore/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Carta Magna",
    "group": "in_store",
    "city": "Firenze",
@@ -1193,6 +1334,28 @@
    "address": "Via Cittadella, 25A, 50144 Firenze FI",
    "phone": "351 979 6135",
    "checked_at": "2026-10-16T03:04:48Z"
+  },
+  {
+   "name": "Cartazzam",
+   "group": "in_store",
+   "address": "Via Caporalino 9/11, Gussago, Brescia, 25064, Italy",
+   "phone": "+393471851257",
+   "website": "https://www.facebook.com/cartazzam",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Carte da Matti",
+   "group": "in_store",
+   "address": "Via Madonnina, 5, Porlezza, CO, 22018, Italy",
+   "phone": "+393755668016",
+   "website": "https://www.instagram.com/cartedamatti?igsh=MXRqZm43a2F2bW9ndg%3D%3D",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Cartoedicola Claudia e Luca",
@@ -1244,9 +1407,34 @@
    "group": "in_store",
    "city": "Firenze",
    "region": "Toscana",
-   "address": "Via Arnolfo, 15, 50121 Firenze FI",
-   "phone": "339 792 2582",
-   "checked_at": "2026-10-16T21:48:37Z"
+   "address": "Via Arnolfo 15 B, Firenze, FI, 50121, Italy",
+   "phone": "+39339 792 2582",
+   "website": "https://www.facebook.com/p/Cartolibreria-Fantasy-100054636271052/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Centro Servizi Bolognina",
+   "group": "in_store",
+   "city": "Bologna",
+   "region": "Emilia-Romagna",
+   "address": "Via Ferrarese, 57 a-b, 40128 Bologna BO",
+   "phone": "051 356315",
+   "website": "https://www.facebook.com/centroservizibolognina/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Check Point - Gallarate",
+   "group": "in_store",
+   "address": "Via G Parini 8, Gallarate, VA, 21013, Italy",
+   "phone": "+39(0)331 149 7530",
+   "website": "https://www.facebook.com/checkpoint.gallarate.fumetteria",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Chimera",
@@ -1268,30 +1456,66 @@
    "checked_at": "2026-10-16T03:06:54Z"
   },
   {
-   "name": "CiccioGamer89tcg.Chiavari",
+   "name": "Cicciogamer89 tcg chiavari",
    "group": "in_store",
    "city": "Chiavari",
    "region": "Liguria",
-   "address": "Via Vittorio Veneto, 17, 16043 Chiavari GE",
-   "phone": "328 704 9559",
-   "checked_at": "2026-10-16T21:48:45Z"
+   "address": "17 Via Vittorio Veneto, Chiavari, Liguria, 16043, Italy",
+   "phone": "+393890506976",
+   "website": "https://www.instagram.com/cicciogamer89tcg_chiavari/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "CiccioGamer89 TCG Roma",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Silvestro II, 2c, 00167 Roma RM",
+   "phone": "347 564 7057",
+   "website": "https://www.instagram.com/cicciogamer89tcg_roma/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Cicciogamer89tcg Genova",
+   "group": "in_store",
+   "city": "Genova",
+   "region": "Liguria",
+   "address": "106r Via 12 Ottobre, Genova, Liguria, 16121, Italy",
+   "phone": "+393347464001",
+   "website": "https://www.instagram.com/cicciogamer89tcg_genova/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Clever Boardgame cafe",
    "group": "in_store",
    "city": "Torino",
    "region": "Piemonte",
-   "address": "Via Onorato Vigliani, 3h, 10135 Torino TO",
-   "phone": "348 719 2997",
-   "checked_at": "2026-10-16T21:48:31Z"
+   "address": "Via Onorato Vigliani 3H, Torino, TO, 10135, Italy",
+   "phone": "+393487192996",
+   "website": "https://www.instagram.com/clever_boardgame_cafe/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "Collezionismo a tutto tondo",
+   "name": "Collezionami Shop",
    "group": "in_store",
-   "city": "Casalecchio di Reno",
+   "city": "Forlì",
    "region": "Emilia-Romagna",
-   "address": "Via de' Carracci, 6, 40033 Casalecchio di Reno BO",
-   "checked_at": "2026-10-16T21:48:43Z"
+   "address": "Viale 2 Giugno, 2/C, Forlì, FC, 47121, Italy",
+   "phone": "+39+39 0543071299",
+   "website": "https://www.instagram.com/collezionami_shop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Comics Corner Alghero",
@@ -1304,6 +1528,41 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:53Z"
+  },
+  {
+   "name": "Comics Heaven",
+   "group": "in_store",
+   "address": "Via Vittorio Veneto, 1, Monopoli, BA, 70043, Italy",
+   "phone": "+393758475018",
+   "website": "https://www.instagram.com/comicsheavenmonopoli/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Comics Sans",
+   "group": "in_store",
+   "city": "Genova",
+   "region": "Liguria",
+   "address": "29 Via Guido Sette, Genova, Liguria, 16154, Italy",
+   "phone": "+393755882980",
+   "website": "https://www.instagram.com/comicssans42/profilecard/?igsh=bjZxajY0cXB6ZGw3",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Comics Tower",
+   "group": "in_store",
+   "address": "6 Via Guglielmo Marconi, Stradella, Lombardia, 27049, Italy",
+   "phone": "+393315354440",
+   "website": "https://www.instagram.com/comicstower?igshid=MzRlODBiNWFlZA%3D%3D",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Comix Café",
@@ -1328,6 +1587,16 @@
    "checked_at": "2026-10-16T02:58:14Z"
   },
   {
+   "name": "Comix Green",
+   "group": "in_store",
+   "city": "Palermo",
+   "region": "Sicilia",
+   "address": "Via Pignatelli Aragona, 78, 90141 Palermo PA",
+   "phone": "091 508 4541",
+   "website": "https://www.facebook.com/comix.green/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Comix&Co. fumetteria - cartoleria",
    "group": "in_store",
    "city": "Novate Milanese",
@@ -1338,13 +1607,15 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "Contea Padova",
+   "name": "Comix&Cream",
    "group": "in_store",
-   "city": "Rubano",
-   "region": "Veneto",
-   "address": "Via Antonio Rossi, 32, 35030 Rubano PD",
-   "phone": "392 680 0590",
-   "checked_at": "2026-10-16T21:48:52Z"
+   "address": "201 Corso dei Mille, Partinico, Sicilia, 90047, Italy",
+   "phone": "+390915557416",
+   "website": "https://www.instagram.com/comix_cream/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Crazy Local TCG",
@@ -1365,6 +1636,17 @@
    "checked_at": "2026-10-16T03:08:27Z"
   },
   {
+   "name": "D20 Ludopub Games & Drinks",
+   "group": "in_store",
+   "address": "817 C.so Calatafimi, Palermo, Sicilia, 90135, Italy",
+   "phone": "+393339275377",
+   "website": "https://www.instagram.com/d20ludoteca/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "DA JIA HAO",
    "group": "in_store",
    "city": "Napoli",
@@ -1377,21 +1659,36 @@
    "group": "in_store",
    "city": "San Giuseppe",
    "region": "Veneto",
-   "address": "Via G. Carducci, 40, 36022 San Giuseppe VI, Italy, San Giuseppe, Veneto, 36022",
-   "phone": "+39 338 378 6343",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "39 (338) 378-6343",
+   "website": "https://www.facebook.com/dadiedraghi",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "Dark Zone",
+   "name": "Dal benza play",
    "group": "in_store",
-   "city": "Roma",
-   "region": "Lazio",
-   "address": "Via Statilio Ottato, 66/A, 00175 Roma RM",
-   "phone": "351 875 6165",
-   "checked_at": "2026-10-16T21:48:23Z"
+   "address": "Circ. Delle valle 35, Bergamo, Bergamo, 24125, Italy",
+   "phone": "+39035238304",
+   "website": "https://www.instagram.com/dalbenzaplay?igsh=ajk1bGlvdDBkamNv&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Dark Bunny Fantasy Store / Dungeons & Drinks Ludopub",
+   "group": "in_store",
+   "address": "Corso Calatafimi 578, Palermo, Italy, 90129, Italy",
+   "phone": "+393713961216",
+   "website": "https://www.instagram.com/darkbunny_dungeonsdrinks/?hl=it",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "davide",
@@ -1439,6 +1736,28 @@
    "checked_at": "2026-10-16T03:06:54Z"
   },
   {
+   "name": "Demon Oni",
+   "group": "in_store",
+   "address": "viale ammiraglio del bono 49, ROMA (RM), Roma, 00122, Italy",
+   "phone": "+393757428100",
+   "website": "https://www.instagram.com/demononi_store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Dice & Games",
+   "group": "in_store",
+   "address": "16 Corte Maggiore, Montebelluna, Treviso, 31044, Italy",
+   "phone": "393461469281",
+   "website": "https://www.instagram.com/dice.and.games/?hl=it",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Digital Slot Srl",
    "group": "in_store",
    "city": "Verona",
@@ -1446,6 +1765,17 @@
    "address": "Via Leonardo Da Vinci, 14, 37138 Verona VR",
    "phone": "045 819 6898",
    "checked_at": "2026-10-16T03:07:56Z"
+  },
+  {
+   "name": "DigitalTCG",
+   "group": "in_store",
+   "address": "via Generale Carlo Alberto dalla chiesa 1, Casarile, Lombardia, 20089, Italy",
+   "phone": "+393520223063",
+   "website": "https://www.instagram.com/digital_tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Dimensione x",
@@ -1481,12 +1811,14 @@
    "group": "in_store",
    "city": "Cologno Monzese",
    "region": "Lombardia",
-   "address": "Viale Piemonte, 19, 20093 Cologno Monzese MI, Italy, Cologno Monzese, Lombardia, 20093",
-   "phone": "3407349297",
+   "address": "Viale Piemonte 19, Cologno Monzese, MILANO (MI), 20096, Italy",
+   "phone": "+393407349297",
+   "website": "https://www.instagram.com/p/DKaYPqEtV2N/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "DomusNerd",
@@ -1499,6 +1831,26 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:43Z"
+  },
+  {
+   "name": "Drago Dormiente Torino",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "C.so Francia, 239, 10146 Torino TO",
+   "phone": "011 473 0084",
+   "website": "https://www.facebook.com/dragodormiente",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Dragon Legend comics",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Acca Larenzia, 32, 00181 Roma RM",
+   "phone": "333 322 5160",
+   "website": "https://www.facebook.com/dragonlegendray",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Dream S.A.S. Di Paganelli Daniele Mantovani Rossano & C.",
@@ -1610,6 +1962,17 @@
    "address": "Piazza Sacro Cuore, 25, 35031 Abano Terme PD",
    "phone": "049 667014",
    "checked_at": "2026-10-16T03:08:27Z"
+  },
+  {
+   "name": "EDICOLA DEL PARCO",
+   "group": "in_store",
+   "address": "203 Viale della Resistenza, Pianoro, Emilia-Romagna, 40065, Italy",
+   "phone": "+3951776687",
+   "website": "https://www.instagram.com/edicoladelparco?igsh=MWExa3hya2M2MG00Nw==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Edicola di Via Dante",
@@ -1752,6 +2115,24 @@
    "checked_at": "2026-10-16T03:07:36Z"
   },
   {
+   "name": "Edicola Sinibaldi",
+   "group": "in_store",
+   "city": "Bari",
+   "region": "Puglia",
+   "address": "Via Caldarola, Via Salapia, 70126 Bari BA",
+   "website": "https://www.facebook.com/EdicolaSinibaldi",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Edicola Una Buona Idea Sas",
+   "group": "in_store",
+   "city": "Padova",
+   "region": "Veneto",
+   "address": "Riviera dei Ponti Romani, 13, 35121 Padova PD",
+   "website": "http://www.facebook.com/edicolarivierapontiromani/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Edicola via Caprera",
    "group": "in_store",
    "city": "Genova",
@@ -1788,6 +2169,16 @@
    "checked_at": "2026-10-16T03:07:28Z"
   },
   {
+   "name": "El Dorado Comics",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Pietro Blaserna, 18, 00146 Roma RM",
+   "phone": "06 8913 7923",
+   "website": "https://www.instagram.com/eldorado.comics/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Elysium",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -1798,6 +2189,71 @@
    "checked_at": "2026-10-16T02:56:39Z"
   },
   {
+   "name": "Ent..ra Game Cafè",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Piazza Gian Pietro Chironi, 1, 10145 Torino TO",
+   "phone": "376 269 5252",
+   "website": "https://www.instagram.com/entragamecafe?igsh=MThwN2xiYnNobHplYg==",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Entropy Games & Tech",
+   "group": "in_store",
+   "address": "Via A. Samaritani 1/A, 48011, Alfonsine (RA), Alfonsine, Emilia-Romagna, 48011, Italy",
+   "phone": "+393751234842",
+   "website": "https://www.instagram.com/entropy.games.tech/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "EON eSports Bar",
+   "group": "in_store",
+   "address": "Via Provinciale 96, Villa Di Briano, Caserta, 81030, Italy",
+   "phone": "+393343828827",
+   "website": "https://www.instagram.com/eon_esportsbar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Essemme Multimedia",
+   "group": "in_store",
+   "address": "11 Via Leonardo Da Vinci, Adria, Veneto, 45011, Italy",
+   "phone": "+39426901719",
+   "website": "https://www.instagram.com/essemme.tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "ESTUS GAMES",
+   "group": "in_store",
+   "address": "Via Cesare Battisti 15, Fucecchio, FI, 50054, Italy",
+   "phone": "+39 0571 260245",
+   "website": "https://www.facebook.com/estusgamefucecchio/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Evergame",
+   "group": "in_store",
+   "address": "via ottaviano fabrizio mossotti 7/b, novara, novara, 28100, Italy",
+   "phone": "+3903211512952",
+   "website": "https://www.instagram.com/evergamenovara?igsh=M2hhMjh1ZzE0ZGM4",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "EXCHANGE EDICOLA E SOUVENIR",
    "group": "in_store",
    "city": "Roma",
@@ -1805,6 +2261,17 @@
    "address": "Via Cavour, 259, 00184 Roma RM",
    "phone": "327 152 8243",
    "checked_at": "2026-10-16T03:00:37Z"
+  },
+  {
+   "name": "Exodya",
+   "group": "in_store",
+   "address": "Via Giuseppe Mazzini, 28a, Monterotondo, RM, 00015, Italy",
+   "phone": "+390664017795",
+   "website": "https://www.instagram.com/exodyagametekk/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "F.lli Cacciari",
@@ -1826,6 +2293,41 @@
    "checked_at": "2026-10-16T02:55:21Z"
   },
   {
+   "name": "Falconia",
+   "group": "in_store",
+   "address": "Via della Giustizia 36, Casaloldo, Mantova, 46040, Italy",
+   "phone": "+393517183524",
+   "website": "https://www.instagram.com/_.falconia._/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fantamagus - Monza",
+   "group": "in_store",
+   "city": "Monza",
+   "region": "Lombardia",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+ 39 0392270529",
+   "website": "https://www.facebook.com/FantamagusMonza/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "FantaShop",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Amico da Venafro, 12, 00176 Roma RM",
+   "phone": "348 742 6368",
+   "website": "https://www.instagram.com/fantashop_roma/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Felice Shopping",
    "group": "in_store",
    "city": "Milano",
@@ -1834,23 +2336,24 @@
    "checked_at": "2026-10-16T03:01:35Z"
   },
   {
-   "name": "Fireball",
+   "name": "Figuriamoci Libreria del Fumetto",
    "group": "in_store",
-   "city": "Lido di Ostia",
-   "region": "Lazio",
-   "address": "Via delle Baleari, 275, 00121 Lido di Ostia RM",
-   "phone": "340 700 5078",
-   "website": "https://www.facebook.com/fireballostia",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Gioachino Rossini, 22, 10124 Torino TO",
+   "phone": "011 839 1692",
+   "website": "https://www.facebook.com/figuriamoci/",
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "Firenze Comics & Games",
+   "name": "Fire & Dice",
    "group": "in_store",
-   "city": "Firenze",
-   "region": "Toscana",
-   "address": "Piazza Dalmazia, 2, 50141 Firenze FI",
-   "phone": "055 532 1462",
-   "website": "https://www.facebook.com/FirenzeComicsAndGames",
+   "address": "38 Via Enzo Togni, Broni, Pavia, 27043, Italy",
+   "phone": "+393515169452",
+   "website": "https://www.instagram.com/fire__and__dice/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -1873,6 +2376,37 @@
    "address": "Piazza Duomo, 35141 Padova PD",
    "phone": "049 656846",
    "checked_at": "2026-10-16T03:08:24Z"
+  },
+  {
+   "name": "Forbidden Planet Roma",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Pinerolo, 11/15, 00182 Roma RM",
+   "phone": "06 4544 7640",
+   "website": "https://www.facebook.com/ForbiddenPlanetRomaa/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Frenzy House",
+   "group": "in_store",
+   "address": "15 Piazza Martiri della Libertà, Faenza, Emilia-Romagna, 48018, Italy",
+   "phone": "+393516391978",
+   "website": "https://www.facebook.com/profile.php?id=61561779575846",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fujisan",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Giovanni Paolo Pannini, 13/A, 00196 Roma RM",
+   "phone": "06 323 1267",
+   "website": "https://www.facebook.com/fujisan.roma",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Fumetteria Argo",
@@ -1898,12 +2432,46 @@
    "group": "in_store",
    "city": "Bergamo",
    "region": "Lombardia",
-   "address": "Via Giuseppe Verdi, 18, 24121 Bergamo BG, Italy, Bergamo, Lombardia, 24121",
-   "phone": "+39 351 332 2782",
+   "address": "18 Via Giuseppe Verdi, Bergamo, Lombardia, 24121, Italy",
+   "phone": "+39 3513322782",
+   "website": "https://instagram.com/eclissi_fumetteria?igshid=YmMyMTA2M2Y=",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "fumetteria l'oracolo",
+   "group": "in_store",
+   "address": "via g. minelli 1, pavullo nel frignano, modena, 41026, Italy",
+   "phone": "+3933972258360",
+   "website": "https://www.facebook.com/fumetteriaoracolo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumetteria La Fumettara",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Salbertrand, 65, 10146 Torino TO",
+   "phone": "333 582 3929",
+   "website": "https://www.facebook.com/profile.php?id%20=100083375765478",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumetteria Neotokyo",
+   "group": "in_store",
+   "address": "Corso Lombardia 144, torino, torino, 10149, Italy",
+   "phone": "+390112763914",
+   "website": "https://www.instagram.com/neotokyo.fumetteria?igsh=MTE0ZWtmaHh1dzVsMQ%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Fumetteria NeoTokyo Torino",
@@ -1913,6 +2481,17 @@
    "address": "Corso Lombardia, 144, 10149 Torino TO",
    "phone": "011 276 3914",
    "checked_at": "2026-10-16T03:03:28Z"
+  },
+  {
+   "name": "Fumetteria Oni",
+   "group": "in_store",
+   "address": "18 Via Giuliano Vanghetti, Empoli, Toscana, 50053, Italy",
+   "phone": "+393296842394",
+   "website": "https://www.facebook.com/FumetteriaOni/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Fumetteria Safarà",
@@ -1927,12 +2506,63 @@
    "checked_at": "2026-10-16T02:59:27Z"
   },
   {
+   "name": "Fumetteria Sturiellet",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Dante Di Nanni, 80/A, 10139 Torino TO",
+   "phone": "011 1945 7208",
+   "website": "https://www.facebook.com/Sturiellet/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Fumetteria Torre di Babele",
    "group": "in_store",
    "city": "Modugno",
    "region": "Puglia",
    "address": "Via S. Paolo, 3, 70026 Modugno BA",
    "website": "https://www.facebook.com/Torre-Di-Babele-98587448543/?ref=bookmarks",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumetti & Gadgets",
+   "group": "in_store",
+   "city": "Napoli",
+   "region": "Campania",
+   "address": "Calata Trinità Maggiore, 24, 80134 Napoli NA",
+   "phone": "081 551 0912",
+   "website": "https://www.instagram.com/carforastore/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumetti Videogiochi & Gadgets",
+   "group": "in_store",
+   "city": "Portici",
+   "region": "Campania",
+   "address": "Via Emanuele Gianturco, 30/c, 80055 Portici NA",
+   "phone": "081 1887 1872",
+   "website": "https://www.facebook.com/fumettiegadgetportici/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumettology Palermo",
+   "group": "in_store",
+   "city": "Palermo",
+   "region": "Sicilia",
+   "address": "Via I. Pizzetti, 34, 90145 Palermo PA",
+   "phone": "091 206944",
+   "website": "https://www.facebook.com/Fumettology-Palermo-107780927669092/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Fumettopoli Star Shop Arezzo",
+   "group": "in_store",
+   "address": "24 Via Piave, Arezzo, Toscana, 52100, Italy",
+   "phone": "+39(0) 0575907255",
+   "website": "https://www.facebook.com/fumettopoliarezzo",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -1948,13 +2578,64 @@
    "checked_at": "2026-10-16T02:59:53Z"
   },
   {
+   "name": "Funside Bergamo",
+   "group": "in_store",
+   "address": "49 Viale Papa Giovanni XXIII, Bergamo, Lombardia, 24122, Italy",
+   "phone": "+39350032134",
+   "website": "https://www.instagram.com/funside_bergamo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Funside La Fattoria",
+   "group": "in_store",
+   "address": "V.le Porta Po, Rovigo, Veneto, 45100, Italy",
+   "phone": "+39425508755",
+   "website": "https://www.instagram.com/funsidelafattoria/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Funside Monza",
+   "group": "in_store",
+   "address": "10 Piazza Roma, Monza, Lombardia, 20900, Italy",
+   "phone": "+396364738",
+   "website": "https://www.instagram.com/games_academy_funside/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Funside Torino",
    "group": "in_store",
    "city": "Torino",
    "region": "Piemonte",
-   "address": "V. Antonio Bertola, 31/f, 10122 Torino TO",
-   "phone": "011 067 4849",
-   "checked_at": "2026-10-16T21:48:31Z"
+   "address": "31 V. Antonio Bertola, Torino, Piemonte, 10122, Italy",
+   "phone": "+39110674849",
+   "website": "https://www.facebook.com/p/Funside-Torino-61553933903341/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Funside Treviglio",
+   "group": "in_store",
+   "city": "Quattromiglia",
+   "region": "Calabria",
+   "address": "Via Gioacchino Rossini n°6, Treviglio, BG, 24047, Italy",
+   "phone": "+390 3 6334 5544",
+   "website": "https://instagram.com/funsidetreviglio",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Funside Verona",
@@ -1964,6 +2645,39 @@
    "address": "Galleria Pellicciai, 3, 37121 Verona VR",
    "phone": "045 225 0406",
    "checked_at": "2026-10-16T03:07:36Z"
+  },
+  {
+   "name": "Fusion Cards",
+   "group": "in_store",
+   "address": "788 Via S. Rocco, Calusco d'Adda, Lombardia, 24033, Italy",
+   "phone": "393456075682",
+   "website": "https://www.instagram.com/fusion.cardscalusco_/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "G.M.D. Sas di Daniele Dondi e c.",
+   "group": "in_store",
+   "address": "Via dei Mille n. 197, Castelfranco Emilia, Modena, 41013, Italy",
+   "phone": "+393475292078",
+   "website": "https://www.instagram.com/publagrotta?igsi=MTFpaWJzb2cwOXRnYg%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Galactus - Tiburtina",
+   "group": "in_store",
+   "address": "Via Malladra 14/16, Roma, RM, 00157, Italy",
+   "phone": "+39064182076",
+   "website": "https://www.facebook.com/GalactusTiburtina",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Game Electronic Virz di Bruno Campassi",
@@ -1999,6 +2713,41 @@
    "address": "Via Graglia, 6/B, 10136 Torino TO",
    "phone": "011 1970 8725",
    "checked_at": "2026-10-16T03:03:45Z"
+  },
+  {
+   "name": "Gamelot - Il regno dei Giochi",
+   "group": "in_store",
+   "city": "Sesto Fiorentino",
+   "region": "Toscana",
+   "address": "Via del Via del Campo Sportivo 4/b, Sesto Fiorentino, Firenze, 50019, Italy",
+   "phone": "+393296666038",
+   "website": "https://www.instagram.com/gamelotilregnodeigiochi/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "GameMania",
+   "group": "in_store",
+   "address": "Via Pierluigi Galluzzi, Polignano a Mare, BA, 70044, Italy",
+   "phone": "+393517093916",
+   "website": "https://www.instagram.com/gamemaniapolignano?utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Gamepeople AV-BN",
+   "group": "in_store",
+   "address": "83 SS7, Arpaia, Campania, 82011, Italy",
+   "phone": "+393773909036",
+   "website": "https://www.facebook.com/gamepeopleavbn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "GamePeople Pozzuoli",
@@ -2045,6 +2794,17 @@
    "checked_at": "2026-10-16T02:57:54Z"
   },
   {
+   "name": "Games Inn",
+   "group": "in_store",
+   "address": "Via Staffarda 9/A, Torino, TO, 10141, Italy",
+   "phone": "+393338024150",
+   "website": "https://www.instagram.com/gamesinnshop/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Games Inn - Giochi di carte collezionabili e da tavolo",
    "group": "in_store",
    "city": "Torino",
@@ -2052,6 +2812,17 @@
    "address": "Via Staffarda, 9/B, 10141 Torino TO",
    "phone": "333 802 4150",
    "checked_at": "2026-10-16T03:03:36Z"
+  },
+  {
+   "name": "Games Time - Partanna",
+   "group": "in_store",
+   "address": "54 Viale d'Italia, Partanna, Sicilia, 91028, Italy",
+   "phone": "+393806454090",
+   "website": "https://www.facebook.com/gamestimepartanna",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Games Time - Telese Terme",
@@ -2064,13 +2835,84 @@
    "checked_at": "2026-10-16T02:57:15Z"
   },
   {
+   "name": "Games Time Alberobello",
+   "group": "in_store",
+   "address": "33 Corso Trieste e Trento, Alberobello, Puglia, 70011, Italy",
+   "phone": "+3929867794",
+   "website": "https://www.facebook.com/gamestimealberobello/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "GAMES TIME ALZATE BRIANZA",
+   "group": "in_store",
+   "address": "VIA IV NOVEMBRE 621, Alzate Brianza, COMO, 22040, Italy",
+   "phone": "+393476861589",
+   "website": "https://www.instagram.com/gamestimealzatebrianza/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Games Time Bologna Ovest",
+   "group": "in_store",
+   "city": "Casalecchio di Reno",
+   "region": "Emilia-Romagna",
+   "address": "24 Via Porrettana, Casalecchio di Reno, Emilia-Romagna, 40033, Italy",
+   "phone": "+393514146024",
+   "website": "https://www.instagram.com/gamestime.bolognaovest",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Games Time Carugate",
+   "group": "in_store",
+   "address": "XX (Twenty) September Street Civic 5/3, Carugate, Lombardia, 20061, Italy",
+   "phone": "+393516946969",
+   "website": "https://www.instagram.com/gamestimecarugate/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Games Time Firenze Scandicci",
+   "group": "in_store",
+   "address": "Via Vincenzo Monti, 14/b-c, Scandicci, Firenze, 50018, Italy",
+   "phone": "+393773117316",
+   "website": "https://www.instagram.com/gamestimefirenzescandicci/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Games Time Palermo Centro",
    "group": "in_store",
    "city": "Palermo",
    "region": "Sicilia",
-   "address": "Via Flavio Gioia, 60, 90145 Palermo PA",
-   "phone": "320 321 8525",
+   "address": "via flavio gioia 60, Palermo, Sicilia, 90145, Italy",
+   "phone": "+393203218525",
    "website": "https://www.facebook.com/gamestimepalermocentro",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Games Time Sanguinetto",
+   "group": "in_store",
+   "address": "44 Via G. Biasi, Sanguinetto, Veneto, 37058, Italy",
+   "phone": "393454565543",
+   "website": "https://www.instagram.com/greenspidertcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -2088,12 +2930,24 @@
    "group": "in_store",
    "city": "Torino",
    "region": "Piemonte",
-   "address": "Via Borgosesia, 90/B, 10145 Torino TO, Italy, Torino, Piemonte, 10145",
-   "phone": "3759377423",
+   "address": "90 Via Borgosesia, Torino, Piemonte, 10145, Italy",
+   "phone": "+393759377423",
+   "website": "https://www.instagram.com/gamestimetorinocentro/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ganzaroli Toys",
+   "group": "in_store",
+   "city": "Firenze",
+   "region": "Toscana",
+   "address": "Via Giovanni Lanza, 45, 50136 Firenze FI",
+   "phone": "055 239 6521",
+   "website": "https://www.facebook.com/Ganzaroli-TOYS-332349900830811/",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "GenShop",
@@ -2113,13 +2967,30 @@
    "checked_at": "2026-10-16T03:08:19Z"
   },
   {
+   "name": "GG-Goodgame",
+   "group": "in_store",
+   "city": "Empoli",
+   "region": "Toscana",
+   "address": "Via Giulio Masini, 10, Empoli, FI, 50053, Italy",
+   "phone": "+39(0)571 534822",
+   "website": "https://www.facebook.com/GeGgoodgame/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Gioca e Conquista",
    "group": "in_store",
    "city": "Roma",
    "region": "Lazio",
-   "address": "Via Francesco Laparelli, 132, 00176 Roma RM",
-   "phone": "338 452 5058",
-   "checked_at": "2026-10-16T21:48:23Z"
+   "address": "132 Via Francesco Laparelli, Roma, Lazio, 00176, Italy",
+   "phone": "+393384525058",
+   "website": "https://www.instagram.com/giocaeconquista/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "GIOCHERIA CASAVATORE FANTASILANDIA STORE",
@@ -2140,6 +3011,41 @@
    "checked_at": "2026-10-16T03:06:26Z"
   },
   {
+   "name": "Gli Starters",
+   "group": "in_store",
+   "address": "Via Aldo Moro II Traversa 77, Pompei, Napoli, 80045, Italy",
+   "phone": "+393883614413",
+   "website": "https://www.instagram.com/gli.starters/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Go Card Collectors",
+   "group": "in_store",
+   "address": "Viale Europa 2/L, Treviolo, Bergamo, 24048, Italy",
+   "phone": "+393482486628",
+   "website": "https://www.instagram.com/gocard.collectors/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Golden Store - Talenti",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Adolfo Albertazzi 74/76, Roma, RM, 00137, Italy",
+   "phone": "+39(0)6 4575 3763",
+   "website": "https://www.facebook.com/goldenstoreromatalenti",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Golden Store Roma Talenti",
    "group": "in_store",
    "city": "Roma",
@@ -2150,16 +3056,6 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:30Z"
-  },
-  {
-   "name": "Golden Store Talenti",
-   "group": "in_store",
-   "city": "Roma",
-   "region": "Lazio",
-   "address": "Via Adolfo Albertazzi, 74/76, 00137 Roma RM",
-   "phone": "06 4575 3763",
-   "website": "https://www.facebook.com/goldenstoreromatalenti",
-   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Grand Eagle Casino Store",
@@ -2180,16 +3076,18 @@
    "checked_at": "2026-10-16T03:08:01Z"
   },
   {
-   "name": "Hall of Game",
+   "name": "Hall Of Game",
    "group": "in_store",
    "city": "Bologna",
    "region": "Emilia-Romagna",
-   "address": "Via Eleonora Duse, 7/B, 40127 Bologna BO, Italy, Bologna, Emilia-Romagna, 40127",
-   "phone": "0515882853",
+   "address": "7b Via Eleonora Duse, Bologna, Emilia-Romagna, 40127, Italy",
+   "phone": "+39(0)515882853",
+   "website": "https://www.instagram.com/hallofgame24/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "HERMÈS Firenze",
@@ -2228,6 +3126,20 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
+   "name": "I Civettoni",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "20 Via Evandro, Roma, Lazio, 00181, Italy",
+   "phone": "+39(0)681157399",
+   "website": "https://www.facebook.com/civettoni/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "I Civettoni giochi da tavolo a Roma",
    "group": "in_store",
    "city": "Roma",
@@ -2235,6 +3147,49 @@
    "address": "Via Evandro, 20, 00181 Roma RM",
    "phone": "06 8115 7399",
    "checked_at": "2026-10-16T03:00:18Z"
+  },
+  {
+   "name": "I Nuovi Bimbi",
+   "group": "in_store",
+   "address": "Viale Suardi, 24,, Arcene, Bergamo, 24040, Italy",
+   "phone": "+393207152224",
+   "website": "https://www.instagram.com/inuovibimbi?igsh=a2tobjZpOTVvZzI0",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ikigai",
+   "group": "in_store",
+   "address": "68 Via Desio, Bovisio Masciago, Lombardia, 20813, Italy",
+   "phone": "+393473126488",
+   "website": "https://www.facebook.com/ikigaibovisio/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Il Castello di Mezzo",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Prenestina, 459/D, 00177 Roma RM",
+   "phone": "06 8911 1142",
+   "website": "https://www.instagram.com/ilcastellodimezzo_official/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Il Castello di Mezzo di Alessandro Iovine",
+   "group": "in_store",
+   "address": "Via Prenestina, 459 C/D, Roma, RM, 00177, Italy",
+   "phone": "+393392949994",
+   "website": "https://www.instagram.com/ilcastellodimezzo_official/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Il Covo del Nerd - Torino",
@@ -2247,6 +3202,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T21:48:23Z"
+  },
+  {
+   "name": "il dojo srl",
+   "group": "in_store",
+   "address": "Via Corsica, 43, dolzago, LC, 23843, Italy",
+   "phone": "+393892545507",
+   "website": "https://www.instagram.com/ildojotcg?igsh=ajMyajQ0NmRycjF0&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Il Drago e la Stella",
@@ -2268,15 +3234,28 @@
    "checked_at": "2026-10-16T02:57:54Z"
   },
   {
+   "name": "IL FUMETTO - MILANO",
+   "group": "in_store",
+   "city": "Milano",
+   "region": "Lombardia",
+   "address": "P.za Ventiquattro Maggio, 12, 20123 Milano MI",
+   "phone": "338 549 2232",
+   "website": "https://www.facebook.com/pages/category/Comic-Bookstore/IL-Fumetto-Milano-294833788082844/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Il Laboratorio Giochi Roma",
    "group": "in_store",
    "city": "Roma",
    "region": "Lazio",
-   "address": "Via Pasquale II, 5, 00168 Roma RM, Italy, Roma, Lazio, 00168",
+   "address": "Via Pasquale II Mercato Primavalle Box 36, Roma, Roma, 00168, Italy",
+   "phone": "+393491970217",
+   "website": "https://www.facebook.com/IlLabbrocca/?locale=it_IT",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Il Magico Mondo Di Laura",
@@ -2288,47 +3267,111 @@
    "checked_at": "2026-10-16T03:04:33Z"
   },
   {
+   "name": "IL MONDO DI MIKY",
+   "group": "in_store",
+   "city": "Selvazzano Dentro",
+   "region": "Veneto",
+   "address": "PIAZZA VITTORIO VENETO 1/E, SELVAZZANO DENTRO, PD, 35030, Italy",
+   "phone": "+393349885832",
+   "website": "https://www.facebook.com/ilmondodimiky.negozio/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Il Mondo Distorto",
+   "group": "in_store",
+   "address": "20 Via Francesco Gualerzi, Reggio Emilia, Emilia-Romagna, 42124, Italy",
+   "phone": "+393663352900",
+   "website": "https://www.facebook.com/profile.php?id=61570104473705&mibextid=LQQJ4d&rdid=1klOeNHrETI1NgKB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1C64sKiA7x%2F%3Fmibextid%3DLQQJ4d#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Il Nascondiglio Dell’Androide Roma",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Giuseppe Bagnera, 46, 00146 Roma RM",
+   "phone": "331 782 5543",
+   "website": "http://www.facebook.com/TheAndroidDungeonShop/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Il Nerdozio",
    "group": "in_store",
    "city": "Figline Valdarno",
    "region": "Toscana",
    "address": "Via della Vetreria, 71, 50063 Figline Valdarno FI, Italy, Figline Valdarno, Toscana, 50063",
-   "phone": "3275720088",
+   "phone": "+39 0554934871",
+   "website": "https://www.facebook.com/nerdozio/?tn-str=k*F",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "IL PAIOLO",
+   "name": "Il Paiolo",
    "group": "in_store",
    "city": "Roma",
    "region": "Lazio",
-   "address": "Via dell'Imbrecciato, 127a, 00149 Roma RM, Italy, Roma, Lazio, 00149",
-   "phone": "+39 06 6469 0587",
+   "address": "127 Via dell'Imbrecciato, Roma, Lazio, 00149, Italy",
+   "phone": "+39664690587",
+   "website": "https://www.facebook.com/ilpaiolo",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Il Pianeta del Collezionista",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "146, Viale S. Giovanni Bosco, 144, 00175 Roma RM",
+   "phone": "06 7158 4053",
+   "website": "https://www.facebook.com/ilpianetadelcollezionista/",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Il Regno",
    "group": "in_store",
    "city": "Milano",
    "region": "Lombardia",
-   "address": "Via Filippo Argelati, 44, 20143 Milano MI",
-   "phone": "331 998 7668",
-   "website": "https://www.instagram.com/il.regno.milano",
+   "address": "44 Via Filippo Argelati, Milano, Lombardia, 20143, Italy",
+   "phone": "+393319987668",
+   "website": "https://www.instagram.com/il.regno.milano/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "Il Tempio di Kronos",
+   "name": "Il Rifugio del Collezionista",
    "group": "in_store",
-   "city": "San Nicola La Strada",
-   "region": "Campania",
-   "address": "Via Santa Croce, 83, 81020 San Nicola la Strada CE",
-   "phone": "0823 132 6888",
-   "checked_at": "2026-10-16T21:48:27Z"
+   "address": "25 Via Maestri del Lavoro, Saronno, Lombardia, 21047, Italy",
+   "phone": "+393519807870",
+   "website": "https://www.instagram.com/ilrifugiodelcollezionista/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "IL RIFUGIO DI TESSIE",
+   "group": "in_store",
+   "address": "Via Marcello Alessio 154, Roma, RM, 00133, Italy",
+   "phone": "+393460750719",
+   "website": "https://www.instagram.com/ilrifugioditessie/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "IlCovoDelNerdParma",
@@ -2366,6 +3409,28 @@
    "checked_at": "2026-10-16T02:59:40Z"
   },
   {
+   "name": "INFINITY GAMES ROMA",
+   "group": "in_store",
+   "address": "Via silicella 26F, Roma, RM, 00169, Italy",
+   "phone": "+390686143365",
+   "website": "https://www.instagram.com/infinity_games_roma/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ink Soul's",
+   "group": "in_store",
+   "address": "136 Via Roma, Castellaneta, Puglia, 74011, Italy",
+   "phone": "+393281484517",
+   "website": "https://www.instagram.com/__inksouls__/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Inkomics cafè",
    "group": "in_store",
    "city": "Napoli",
@@ -2378,6 +3443,17 @@
    "checked_at": "2026-10-16T03:00:01Z"
   },
   {
+   "name": "internet cafè snc",
+   "group": "in_store",
+   "address": "via steffenini 24, San Colombano Al Lambro, Milano, 20078, Italy",
+   "phone": "+393669567518",
+   "website": "https://www.instagram.com/internetcafe_24?igsh=MWxuM3VpcmpxcTl4bA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Iper-Edicola Di Cascione Francesco Daniele",
    "group": "in_store",
    "city": "Bari",
@@ -2385,6 +3461,16 @@
    "address": "Via Camillo Rosalba, 49 Fronte, 70124 Bari BA",
    "phone": "080 512 7352",
    "checked_at": "2026-10-16T03:07:36Z"
+  },
+  {
+   "name": "IQOS RESELLER - Tabaccheria Caviglia Riv 542, Genova",
+   "group": "in_store",
+   "city": "Genova",
+   "region": "Liguria",
+   "address": "Via Ayroli, 3r, 16143 Genova GE",
+   "phone": "010 501807",
+   "website": "https://www.facebook.com/Tabaccheria-542-Marassi-204996243205168/?ref=aymt_homepage_panel&utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Genova_GENOVA-0542",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Italy Souvenir - Gift Shop",
@@ -2414,6 +3500,17 @@
    "checked_at": "2026-10-16T03:00:24Z"
   },
   {
+   "name": "Jolly Giochiamo",
+   "group": "in_store",
+   "address": "Via Nicola Barbantini 112, Lucca, LU, 55100, Italy",
+   "phone": "1+390583321385",
+   "website": "https://www.instagram.com/jolly_giochiamo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Jolly Joker",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -2434,6 +3531,17 @@
    "checked_at": "2026-10-16T02:57:27Z"
   },
   {
+   "name": "Jolly Troll - Ivrea",
+   "group": "in_store",
+   "address": "Via San Giovanni Bosco 1b, Ivrea, TO, 10015, Italy",
+   "phone": "+39(0)125 196 0025",
+   "website": "https://www.instagram.com/explore/locations/112674852104836/jolly-troll-ivrea/?hl=en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Jumanga sas",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -2442,6 +3550,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:56:53Z"
+  },
+  {
+   "name": "Jumangi Comix & Games",
+   "group": "in_store",
+   "address": "via irno 115, Salerno, SA, 84135, Italy",
+   "phone": "+39340 090 4068",
+   "website": "https://www.facebook.com/profile.php?id=100083127858814",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Kaboom Comics and Games",
@@ -2462,6 +3581,60 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:57:14Z"
+  },
+  {
+   "name": "Kai Room",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Calpurnio Fiamma, 64, 00175 Roma RM",
+   "phone": "379 341 2090",
+   "website": "https://www.instagram.com/kairoomroma_",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Kingdom Cards",
+   "group": "in_store",
+   "address": "22 Via Francesco Petrarca, Sant'Antonio, Lombardia, 46047, Italy",
+   "phone": "+393534660321",
+   "website": "https://www.instagram.com/kingdomcardsmn?igsh=MXJycWM3ODlveG44aQ==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Konoha Store di Sara Parisi",
+   "group": "in_store",
+   "address": "Contrada del Quartiere 3, Vicenza, VI, 36100, Italy",
+   "phone": "+393520718586",
+   "website": "https://www.instagram.com/konohastore.vi/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Kraken",
+   "group": "in_store",
+   "address": "83 Via Vittorio Veneto, Alassio, Liguria, 17021, Italy",
+   "phone": "390182038057",
+   "website": "https://www.instagram.com/krakencult/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Kuldotha Bazaar",
+   "group": "in_store",
+   "address": "VIA FIESCHI 117R, Genova, 65, 16121, Italy",
+   "phone": "+39345 810 7326",
+   "website": "https://www.facebook.com/kuldothabazaar/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "kuldotha bazaar snc",
@@ -2511,25 +3684,53 @@
    "checked_at": "2026-10-16T03:05:36Z"
   },
   {
+   "name": "La Bussola",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Po, 9/B, 10124 Torino TO",
+   "phone": "011 812 7530",
+   "website": "https://www.facebook.com/librerialabussola",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "La Casa dei Giochi",
    "group": "in_store",
    "city": "Milano",
    "region": "Lombardia",
    "address": "Via Sant'Uguzzone, 8, 20126 Milano MI",
-   "phone": "338 549 2232",
    "website": "https://www.facebook.com/groups/casadeigiochi/",
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "La Civetta",
    "group": "in_store",
-   "city": "Cogoleto",
-   "region": "Liguria",
    "address": "8 Via Cereate, Roma, Lazio, 00183, Italy",
    "phone": "+3967003752",
    "website": "https://www.facebook.com/ludoteca.lacivetta/?locale=it_IT",
    "games_events": [
-    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La Contea",
+   "group": "in_store",
+   "address": "1110a Via Casilina, Roma, Lazio, 00169, Italy",
+   "phone": "+39 339-466-9660",
+   "website": "https://www.facebook.com/profile.php?id=100092837762323",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La Contea Nerd",
+   "group": "in_store",
+   "address": "54 Via Lung'Orba, Ovada, AL, 15076, Italy",
+   "phone": "393803750163",
+   "website": "https://instagram.com/laconteanerd?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
+   "games_events": [
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:54:50Z"
@@ -2544,6 +3745,28 @@
    "website": "https://www.facebook.com/MagicCorner.it/",
    "games_events": [
     "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La fumetteria - Trani",
+   "group": "in_store",
+   "address": "Via De Roggiero,90, Trani, BT,  76125, Italy",
+   "phone": "+390883 487452",
+   "website": "https://www.facebook.com/lafumetteria1990",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La Gilda del Nerd",
+   "group": "in_store",
+   "address": "Via Principe Amedeo 20, Este, PD, 35042, Italy",
+   "phone": "+393474088558",
+   "website": "https://www.instagram.com/explore/locations/664273350098858/la-gilda-del-nerd/",
+   "games_events": [
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
@@ -2568,22 +3791,62 @@
    "checked_at": "2026-10-16T02:59:11Z"
   },
   {
+   "name": "La Nova Gilda",
+   "group": "in_store",
+   "address": "Corso Torino 32F, Novara, NO, 28100, Italy",
+   "phone": "+393925939092",
+   "website": "https://www.instagram.com/la.nova.gilda?igsh=MXE3bXNlNmJ1dnNocg==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "La Perla Nera",
    "group": "in_store",
    "city": "Palermo",
    "region": "Sicilia",
-   "address": "Via Giovanni Aurispa, 132, 90145 Palermo PA",
-   "phone": "339 387 0264",
-   "checked_at": "2026-10-16T21:48:46Z"
+   "address": "132 Via Giovanni Aurispa, Palermo, PA, 90145, Italy",
+   "phone": "+393393870264",
+   "website": "https://www.instagram.com/la_perla_nera_board_game_cafe?igsh=czFwYmxlNWRvZDVv",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "La scimmia nerd",
+   "name": "La Rocca Del Wargaming",
+   "group": "in_store",
+   "address": "via Corso del Guercino 61/A, cento, Ferrara, 44028, Italy",
+   "phone": "+393803739252",
+   "website": "https://www.instagram.com/la.rocca.del.wargaming?igsh=MWt3bGM1OTRncHZkZw%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La Sala Grande",
+   "group": "in_store",
+   "address": "22 Via Nicola Russo, Cicciano, Campania, 80033, Italy",
+   "phone": "+393278697444",
+   "website": "https://www.instagram.com/la_sala.grande?igsh=MTF2cWZrNDRqMmt2ag==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "La scimmia Nerd",
    "group": "in_store",
    "city": "Palermo",
    "region": "Sicilia",
-   "address": "Via Giuseppe Mulè, 18, 90129 Palermo PA",
-   "phone": "091 652 9449",
+   "address": "16 Via Giuseppe Mulè, Palermo, Sicilia, 90129, Italy",
+   "phone": "+390916529449",
    "website": "https://www.instagram.com/lascimmianerd/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -2596,13 +3859,28 @@
    "checked_at": "2026-10-16T03:06:26Z"
   },
   {
+   "name": "La Tana del Coboldo",
+   "group": "in_store",
+   "address": "Galleria Gorni, Via Favagrossa 54, Casalmaggiore, CR, 26041, Italy",
+   "phone": "393487568034",
+   "website": "https://www.facebook.com/profile.php?id=100087804098089",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "La Tana Dell'Ignorante TCG",
    "group": "in_store",
    "city": "Torino",
    "region": "Piemonte",
-   "address": "Corso Corsica, 26d, 10134 Torino TO",
-   "phone": "351 382 8898",
-   "checked_at": "2026-10-16T21:48:31Z"
+   "address": "Corso Corsica 26d, Torino, TO, 10134, Italy",
+   "phone": "+393513828898",
+   "website": "https://www.instagram.com/latanadellignorante/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "La Tana delle Pulci",
@@ -2645,6 +3923,28 @@
    "checked_at": "2026-10-16T03:01:47Z"
   },
   {
+   "name": "Labyrinth",
+   "group": "in_store",
+   "address": "Via Vittorio Emanuele 28, Sommariva del bosco, Cuneo, 12048, Italy",
+   "phone": "+393343784849",
+   "website": "https://www.instagram.com/labyrinth_negozio_lcg_tgc/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Land Of Nerd",
+   "group": "in_store",
+   "address": "12 Via Fonderia Montini, Padernello, Veneto, 31038, Italy",
+   "phone": "+393757322974",
+   "website": "https://www.instagram.com/landofnerd/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Laugh Tale",
    "group": "in_store",
    "city": "Siracusa",
@@ -2657,6 +3957,28 @@
    "checked_at": "2026-10-16T02:59:43Z"
   },
   {
+   "name": "Le porte di Durin",
+   "group": "in_store",
+   "address": "Via Trieste 38, Santo Stefano Ticino, Milan, 20010, Italy",
+   "phone": "+393516960379",
+   "website": "https://www.instagram.com/leportedidurin",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Lelimù snc",
+   "group": "in_store",
+   "address": "Lelimu’snc di Lelli Gloria Via Roma 23/a Albignasego, Albignasego, Padova, 35020, Italy",
+   "phone": "+393461836716",
+   "website": "https://www.facebook.com/lelimu.giocattoli/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Libreria Le Cure Gioberti",
    "group": "in_store",
    "city": "Firenze",
@@ -2664,6 +3986,17 @@
    "address": "Piazza delle Cure, 14r, 50133 Firenze FI",
    "phone": "055 205 3500",
    "checked_at": "2026-10-16T03:05:36Z"
+  },
+  {
+   "name": "LIBRERIA MONETA",
+   "group": "in_store",
+   "address": "16 Via Venezia, Savona, Liguria, 17100, Italy",
+   "phone": "+3919801852",
+   "website": "https://www.facebook.com/libreria.moneta/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "LIFE IS A GAME",
@@ -2679,6 +4012,20 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
+   "name": "Livello 10",
+   "group": "in_store",
+   "city": "Piove di Sacco",
+   "region": "Veneto",
+   "address": "64 Via Roma, Piove di Sacco, Veneto, 35028, Italy",
+   "phone": "393757246065",
+   "website": "https://www.instagram.com/livello10/?hl=it",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Livello 10: Comics & Games",
    "group": "in_store",
    "city": "Piove di Sacco",
@@ -2687,18 +4034,6 @@
    "phone": "375 724 6065",
    "website": "https://www.instagram.com/livello10/",
    "checked_at": "2026-10-16T02:54:50Z"
-  },
-  {
-   "name": "Livello10",
-   "group": "in_store",
-   "city": "Piove di Sacco",
-   "region": "Veneto",
-   "address": "Via Cavour, 13, 35028 Piove di Sacco PD, Italy, Piove di Sacco, Veneto, 35028",
-   "phone": "375 724 6065",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
   },
   {
    "name": "Lo gnomo",
@@ -2730,6 +4065,39 @@
    "checked_at": "2026-10-16T03:00:01Z"
   },
   {
+   "name": "LOG POSE",
+   "group": "in_store",
+   "address": "Sant'antonio, 47, Veggiano, Padova, 35030, Italy",
+   "phone": "+393384935124",
+   "website": "https://www.instagram.com/logpos3/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Lost Legion",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+393293218756",
+   "website": "https://www.facebook.com/Imperium.Latina/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Lost Town",
+   "group": "in_store",
+   "address": "280 Corso Nazionale, La Spezia, Liguria, 19125, Italy",
+   "phone": "3801894382",
+   "website": "https://www.facebook.com/profile.php?id=100064546734777",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Lost Wood sas di Erika Schillaci & c",
    "group": "in_store",
    "city": "Palermo",
@@ -2740,6 +4108,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:42Z"
+  },
+  {
+   "name": "LPPCollecting",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": " 039 617134",
+   "website": "https://www.facebook.com/lppcollecting/?fref=ts",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Lucky 31 Casino Store",
@@ -2808,6 +4187,31 @@
    "checked_at": "2026-10-16T02:58:06Z"
   },
   {
+   "name": "MAGIC PLANET",
+   "group": "in_store",
+   "city": "Piacenza",
+   "region": "Emilia-Romagna",
+   "address": "Via Leonardo da Vinci 53/A, Piacenza, PC, 29122, Italy",
+   "phone": "+39 320 859 9945",
+   "website": "https://www.facebook.com/magicplanetmtg",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Magic Stupor Mundi",
+   "group": "in_store",
+   "address": "3 Str. delle Pietrare, Viterbo, Lazio, 01100, Italy",
+   "phone": "+393518286314",
+   "website": "https://www.instagram.com/magicstupormundivt?igsh=Z2l4c2p4Mmlyb2Nw&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Magic Warrior - Mestre",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -2826,6 +4230,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:59:23Z"
+  },
+  {
+   "name": "MAGIC WARRIOR VITTORIO",
+   "group": "in_store",
+   "address": "375 Viale della Vittoria, Vittorio Veneto, Veneto, 31029, Italy",
+   "phone": "+393534527138",
+   "website": "https://www.facebook.com/profile.php?id=100089337291854",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Magicfree srls",
@@ -2850,18 +4265,6 @@
    "checked_at": "2026-10-16T02:57:14Z"
   },
   {
-   "name": "MAGICPLANET",
-   "group": "in_store",
-   "city": "Piacenza",
-   "region": "Emilia-Romagna",
-   "address": "Via Leonardo Da Vinci, 53a, 29122 Piacenza PC, Italy, Piacenza, Emilia-Romagna, 29122",
-   "phone": "+39 320 859 9945",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "Magomatto",
    "group": "in_store",
    "phone": "+39 0131 254425",
@@ -2869,6 +4272,39 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:57:02Z"
+  },
+  {
+   "name": "MANA CARDS",
+   "group": "in_store",
+   "address": "Via G. Ferrari 9, san miniato, Ponte a Egola, 56024, Italy",
+   "phone": "+393313141526",
+   "website": "https://www.instagram.com/manacardss?igsh=MWM4Z2FsODBtbWtxNw%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Mana Crypt",
+   "group": "in_store",
+   "address": "Via Sebastiano Silvestri 29, Genzano, RM, 00045, Italy",
+   "phone": "+39(0)6 9395 3141",
+   "website": "https://www.facebook.com/manacryptgenzanodiroma/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Mana Nero",
+   "group": "in_store",
+   "address": "16 Via Alessandro Volta, Tradate, Lombardia, 21049, Italy",
+   "phone": "+393454240215",
+   "website": "https://www.instagram.com/mana_nero_fumetteria/?igsh=MWZxYmxlaXlzdmswaQ%3D%3D",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "mana nero di Busellato A., Martegani L. e Zocchi S. S.N.C.",
@@ -2882,6 +4318,28 @@
    "checked_at": "2026-10-16T02:59:57Z"
   },
   {
+   "name": "ManaFlow",
+   "group": "in_store",
+   "address": "91 Via Isonzo, Rieti, Lazio, 02100, Italy",
+   "phone": "+393401487760",
+   "website": "https://www.instagram.com/manaflow_tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Manarock",
+   "group": "in_store",
+   "address": "Via Antonio Vivaldi 4, Albano Laziale, Lazio, 00041, Italy",
+   "phone": "+39 3519569810",
+   "website": "https://www.facebook.com/profile.php?id=100094374562319",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "MANASTORE",
    "group": "in_store",
    "city": "Milano",
@@ -2892,6 +4350,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T03:00:01Z"
+  },
+  {
+   "name": "ManaTrust",
+   "group": "in_store",
+   "address": "Via Roma, 81, Vernio, Prato, 59024, Italy",
+   "phone": "+393715570656",
+   "website": "https://www.instagram.com/manatrustvi/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Manaweb S.R.L.S.",
@@ -2975,6 +4444,17 @@
    "checked_at": "2026-10-16T03:08:12Z"
   },
   {
+   "name": "Metagames di Cernusco Sul Naviglio",
+   "group": "in_store",
+   "address": "40 Viale Assunta, Cernusco sul Naviglio, Lombardia, 20063, Italy",
+   "phone": "1338-743-4313",
+   "website": "https://www.facebook.com/metagamescsn",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Millennium Games",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
@@ -2998,19 +4478,24 @@
    "group": "in_store",
    "city": "Bari",
    "region": "Puglia",
-   "address": "Via G. Petroni, 104L, 70124 Bari BA",
-   "phone": "080 940 7142",
+   "address": "Via Giulio Petroni 104/L, Bari, Bari, 70124, Italy",
+   "phone": "+390809407142",
    "website": "https://www.instagram.com/miragetcg_store/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "MOBA Store",
+   "name": "Mirmex Store & Café",
    "group": "in_store",
-   "city": "Milano",
-   "region": "Lombardia",
-   "address": "Via Giovanni Antonio Amadeo, 40, 20133 Milano MI",
-   "phone": "352 053 9919",
-   "checked_at": "2026-10-16T21:48:23Z"
+   "address": "Via Bianzana 19, Bergamo, Bergamo, 24124, Italy",
+   "phone": "3337424660",
+   "website": "https://www.facebook.com/mirmex1/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Modena Fumetto",
@@ -3021,6 +4506,28 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:58:32Z"
+  },
+  {
+   "name": "Mondadori Mega Forlì",
+   "group": "in_store",
+   "address": "144 Corso della Repubblica, Forlì, Emilia-Romagna, 47121, Italy",
+   "phone": "+39 0543034974",
+   "website": "https://www.facebook.com/mondadori.forli/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Monkey Pub",
+   "group": "in_store",
+   "address": "VIA CALDAROLA 18 C, BARI, BA, 70126, Italy",
+   "phone": "+3938271320",
+   "website": "https://www.instagram.com/monkeycardsss?igsh=MW5vdnNmcmsxaG05MA==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "MonkeyCards",
@@ -3054,6 +4561,17 @@
    "checked_at": "2026-10-16T03:07:28Z"
   },
   {
+   "name": "MoonLight",
+   "group": "in_store",
+   "address": "via ariosto 13, pomezia, RM, 00071, Italy",
+   "phone": "393495364309",
+   "website": "https://www.facebook.com/MoonLightpmz",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "MoonLight Cards & Games",
    "group": "in_store",
    "city": "Pomezia",
@@ -3066,13 +4584,28 @@
    "checked_at": "2026-10-16T02:59:43Z"
   },
   {
-   "name": "Multiplayer Club",
+   "name": "Mox comics & games",
+   "group": "in_store",
+   "address": "5 Via Giosuè Carducci, Busto Arsizio, Lombardia, 21052, Italy",
+   "phone": "393476402710",
+   "website": "https://www.facebook.com/events/via-carducci-5-busto-arsizio-lombardia/lets-go-apertura-ufficiale-mox-comics-games/1924482595112191/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Multiplayer club",
    "group": "in_store",
    "city": "Palermo",
    "region": "Sicilia",
-   "address": "Via Alfredo Casella, 130, 90145 Palermo PA",
-   "phone": "091 682 8593",
-   "checked_at": "2026-10-16T21:48:46Z"
+   "address": "Via alfredo casella 130, palermo, palermo, 90145, Italy",
+   "phone": "+390916828593",
+   "website": "https://www.facebook.com/multiplayeraction/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Multiverse - La Casa del Collezionismo",
@@ -3099,6 +4632,17 @@
    "checked_at": "2026-10-16T02:56:17Z"
   },
   {
+   "name": "Nakama store",
+   "group": "in_store",
+   "address": "VIA CARLO PELLEGRINI 300, MASSAROSA, LUCCA (LU), 55054, Italy",
+   "phone": "+395841870011",
+   "website": "https://www.instagram.com/nakamastore_it/?igsh=Zm5kbzV3djkzcDhr&utm_source=qr#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Negozio cinesi",
    "group": "in_store",
    "city": "Padova",
@@ -3108,6 +4652,17 @@
    "checked_at": "2026-10-16T03:08:08Z"
   },
   {
+   "name": "NEL MULTIVERSO",
+   "group": "in_store",
+   "address": "PIAZZA PERTINI 59, CARONNO PERTUSELLA, Varese, 21042, Italy",
+   "phone": "+390278645409",
+   "website": "https://www.instagram.com/nelmultiverso_fumetteria/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Nerd Comics Roma",
    "group": "in_store",
    "city": "Roma",
@@ -3115,6 +4670,27 @@
    "address": "Via Luigi Perna, 57, 00142 Roma RM",
    "phone": "06 4549 1989",
    "checked_at": "2026-10-16T03:00:34Z"
+  },
+  {
+   "name": "Nerd Paradise",
+   "group": "in_store",
+   "address": "Via Pietro Adami 53C , Roma, RM, 00168 , Italy",
+   "phone": "+39 06 8923 9331",
+   "website": "https://www.facebook.com/nerdparadiseroma/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Nerd Paradise di Luca Rinaldi",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Pietro Adami, 53/c, 00168 Roma RM",
+   "phone": "06 8923 9331",
+   "website": "https://www.facebook.com/nerdparadiseroma/",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "NerdEmpire",
@@ -3147,13 +4723,21 @@
   {
    "name": "Next Order",
    "group": "in_store",
-   "city": "Novi Ligure",
-   "region": "Piemonte",
    "address": "Via Adolfo Venturi, 27, Roma, RM, 00162, Italy",
    "phone": "+390653096843",
    "website": "https://www.instagram.com/nextordershop/",
    "games_events": [
-    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Nexus",
+   "group": "in_store",
+   "address": "73 Via Po, Casoria, Campania, 80026, Italy",
+   "phone": "+393398453120",
+   "website": "https://www.instagram.com/nexus_fumetteria_casoria/",
+   "games_events": [
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:54:50Z"
@@ -3166,6 +4750,17 @@
    "address": "Via Po, 73, 80026 Casoria NA",
    "phone": "339 845 3120",
    "website": "https://www.instagram.com/nexus_fumetteria_casoria/",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Nexus Ongame Network",
+   "group": "in_store",
+   "address": "8B Via Nicola Fabrizi, Torino, Torino, 10143, Italy",
+   "phone": "+393452584635",
+   "website": "https://www.instagram.com/ongametorinobernini/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -3188,6 +4783,28 @@
    "checked_at": "2026-10-16T03:02:37Z"
   },
   {
+   "name": "Non Solo Fumetto",
+   "group": "in_store",
+   "address": "19 Via Curtatone e Montanara, Empoli, Toscana, 50053, Italy",
+   "phone": "+39(0)571527219",
+   "website": "https://www.facebook.com/p/Non-Solo-Fumetto-100063639489482/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Oasis Gaming Center",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+39 3478608912",
+   "website": "https://www.facebook.com/Oasisgamingcenter/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "OFFTIME",
    "group": "in_store",
    "city": "Roma",
@@ -3197,12 +4814,14 @@
    "checked_at": "2026-10-16T03:00:18Z"
   },
   {
-   "name": "OmarMagic",
+   "name": "On Game Roma Pigneto",
    "group": "in_store",
-   "city": "Sesto San Giovanni",
-   "region": "Lombardia",
-   "address": "Via Felice Lacerra, 74, 20099 Sesto San Giovanni MI",
-   "website": "https://www.instagram.com/omarmagic_mi?igsh=MWYxODd2cTJuaWY3cw==&utm_source=qr",
+   "address": "Via Renzo da Ceri 161, Roma, RM, 00176, Italy",
+   "phone": "+393281893592",
+   "website": "https://www.instagram.com/ongameromapigneto/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -3216,16 +4835,18 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
-   "name": "One store",
+   "name": "one store",
    "group": "in_store",
    "city": "Modena",
    "region": "Emilia-Romagna",
-   "address": "Via Mar Mediterraneo, 142, 41122 Modena MO, Italy, Modena, Emilia-Romagna, 41122",
-   "phone": "3494669548",
+   "address": "via mar mediterraneo 142, modena, Modena, 41122, Italy",
+   "phone": "+393494669548",
+   "website": "https://www.instagram.com/onestore_modena/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "OneDun Casino Store",
@@ -3237,20 +4858,53 @@
    "checked_at": "2026-10-16T03:06:07Z"
   },
   {
+   "name": "Ongame - Mirandola",
+   "group": "in_store",
+   "address": "37 Via Castelfidardo, Mirandola, Emilia-Romagna, 41037, Italy",
+   "phone": "39327-220-3788",
+   "website": "https://www.facebook.com/ongamemirandola",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ongame Aversa",
+   "group": "in_store",
+   "address": "via guglielmo sanfelice 39/41, aversa, caserta, 81031, Italy",
+   "phone": "+390812776389",
+   "website": "https://www.instagram.com/ongameaversa/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Ongame Campi Bisenzio",
    "group": "in_store",
    "city": "Campi Bisenzio",
    "region": "Toscana",
-   "address": "Via Bruno Buozzi, 143, 50013 Campi Bisenzio FI",
-   "phone": "366 381 8631",
-   "website": "https://www.instagram.com/ongamecampibisenzio?igsh=MWtudWhtYmFnZGU1ZA==",
+   "address": "Via bruno buozzi 143/B, Campi Bisenzio, FI, 50013, Italy",
+   "phone": "+393663818631",
+   "website": "https://www.instagram.com/ongamecampibisenzio/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ongame Genova marassi",
+   "group": "in_store",
+   "city": "Genova",
+   "region": "Liguria",
+   "address": "Via Canevari, 326 R, 16137 Genova GE",
+   "phone": "351 836 0198",
+   "website": "https://www.instagram.com/ongamegenova_marassi?igsh=YTczemxlZnRyb256",
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "ONGAME POMEZIA",
    "group": "in_store",
-   "city": "Abbiategrasso",
-   "region": "Lombardia",
    "address": "20 Via Jacopo da Lentini, Pomezia, Lazio, 00071, Italy",
    "phone": "+393492679476",
    "website": "https://m.facebook.com/people/Ongame-Pomezia/61559323951563/",
@@ -3260,13 +4914,52 @@
    "checked_at": "2026-10-16T02:55:21Z"
   },
   {
-   "name": "Ongame Roma Trastevere",
+   "name": "ONGAME Prato",
+   "group": "in_store",
+   "address": "34 Via Santo Stefano, Prato, Toscana, 59100, Italy",
+   "phone": "0574954068",
+   "website": "https://www.instagram.com/ongameprato/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "ongame roma nord",
    "group": "in_store",
    "city": "Roma",
    "region": "Lazio",
-   "address": "Via Carlo Porta, 16, 00153 Roma RM",
-   "phone": "349 892 6833",
-   "checked_at": "2026-10-16T21:48:23Z"
+   "address": "via gaspare pacchiarotti 67, roma, RM, 00139, Italy",
+   "phone": "+393278884417",
+   "website": "https://www.facebook.com/profile.php?id=61576237250801#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ongame XX Settembre",
+   "group": "in_store",
+   "address": "28A Via 20 Settembre, Torino, Torino, 10121, Italy",
+   "phone": "+393473955725",
+   "website": "https://www.instagram.com/ongametorino_xxsettembre/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "ONGAMEROMATRASTEVERE",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via Carlo Porta 16, Roma, RM, 00153, Italy",
+   "phone": "+393498926833",
+   "website": "https://www.instagram.com/ongameromatrastevere",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Orma Giocattoli & Cartoleria",
@@ -3278,6 +4971,17 @@
    "checked_at": "2026-10-16T03:07:58Z"
   },
   {
+   "name": "Otaku Hero",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+39 0331282371",
+   "website": "https://discord.gg/jBgMxCU",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:17Z"
+  },
+  {
    "name": "Otherworld - Fumetteria",
    "group": "in_store",
    "city": "Torino",
@@ -3285,6 +4989,17 @@
    "address": "Via S. Quintino, 6/N, 10121 Torino TO",
    "phone": "011 415 6724",
    "checked_at": "2026-10-16T03:03:36Z"
+  },
+  {
+   "name": "Ottava Brigata Comics & Games",
+   "group": "in_store",
+   "address": "VIA GIOVANNI DA SAN GIOVANNI, 42, SAN GIOVANNI VALDARNO, AR, 52027, Italy",
+   "phone": "+393318095661",
+   "website": "https://www.instagram.com/ottavabrigata",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Ouroboros Store",
@@ -3296,12 +5011,54 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
+   "name": "Outsider Roma",
+   "group": "in_store",
+   "address": "Viale Oscar Sinigaglia 5, Roma, Roma, 00143, Italy",
+   "phone": "+393762715006",
+   "website": "https://www.instagram.com/outsider.roma/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Outsider | Fumetteria & Nerd Hub",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Viale Oscar Sinigaglia, 5, 00143 Roma RM",
+   "phone": "376 271 5006",
+   "website": "https://www.instagram.com/outsider.roma?igsh=MTVjbnAwM3NmNXFrcQ==",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "OXUM",
    "group": "in_store",
    "city": "Torino",
    "region": "Piemonte",
    "address": "Via Nizza, 43, 10125 Torino TO",
    "checked_at": "2026-10-16T03:04:01Z"
+  },
+  {
+   "name": "Pandemonium Cards and Games",
+   "group": "in_store",
+   "address": "Piazza Ginori, Sesto Fiorentino, Toscana, 50019, Italy",
+   "phone": "+393393064178",
+   "website": "https://www.instagram.com/pandemonium_cards_and_games?igsh=MTJ2M3B2eXd5a3AwcQ==",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Panini Store Firenze",
+   "group": "in_store",
+   "city": "Firenze",
+   "region": "Toscana",
+   "address": "Via de' Ginori, 50 R, 50123 Firenze FI",
+   "phone": "059 382483",
+   "website": "https://www.facebook.com/profile.php?id=100061118420327%20https://www.instagram.com/panini.store.fi/%20https://t.me/paninistorefirenze",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Paper di Aricò Massimo & C SaS",
@@ -3340,6 +5097,28 @@
    "checked_at": "2026-10-16T03:06:11Z"
   },
   {
+   "name": "Pensieri Belli",
+   "group": "in_store",
+   "address": "Via Vittorio Veneto, 46, Lucca, Lucca, 55100, Italy",
+   "phone": "+3905831716191",
+   "website": "https://www.instagram.com/libreria_pensieribellilucca/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Phoenix",
+   "group": "in_store",
+   "address": "Via Treves 39, vigevano, pavia, 27029, Italy",
+   "phone": "+393474005725",
+   "website": "https://www.instagram.com/phoenix_tcg_/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Phyrexian Plaguelord",
    "group": "in_store",
    "city": "Pescara",
@@ -3353,6 +5132,16 @@
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
+   "name": "Pietrone Collezionismo",
+   "group": "in_store",
+   "city": "Bologna",
+   "region": "Emilia-Romagna",
+   "address": "Via Cesare Correnti, 40132 Bologna BO",
+   "phone": "349 068 6258",
+   "website": "https://www.facebook.com/profile.php?id=367483074110488&ref=content_filter",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "PIMPTGC",
    "group": "in_store",
    "city": "Bologna",
@@ -3360,6 +5149,72 @@
    "address": "Via Eleonora Duse, 40127 Bologna BO",
    "phone": "331 357 0072",
    "checked_at": "2026-10-16T03:05:42Z"
+  },
+  {
+   "name": "Planet Fun",
+   "group": "in_store",
+   "address": "8 Via Passo del Tonale, Rovato, BS, 25038, Italy",
+   "phone": "+393343099391",
+   "website": "https://www.facebook.com/PlanetFunRovato",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Player Inn",
+   "group": "in_store",
+   "address": "52 Via Tuderte, Narni, TR, 05035, Italy",
+   "phone": "+393455059311",
+   "website": "https://www.instagram.com/player_inn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Playtime - Bergamo",
+   "group": "in_store",
+   "address": "via dei Carrozzai 7/9, Bergamo, BG, 24122, Italy",
+   "phone": "+39(0)35 237798",
+   "website": "https://www.facebook.com/playtime.bergamo.fans/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Playtime - Como",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+39 0314139284",
+   "website": "https://discord.gg/MuuayRe",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:17Z"
+  },
+  {
+   "name": "Playtime - Lecco",
+   "group": "in_store",
+   "address": "Via Cesare Cantu' 14, Lecco, LC, 23900, Italy",
+   "phone": "+39(0)341 361054",
+   "website": "http://facebook.com/solodaplaytime",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Playtime - Merate",
+   "group": "in_store",
+   "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
+   "phone": "+39 039 596 9051",
+   "website": "https://www.facebook.com/PlaytimeMerate/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Playwithenergy CARD SHOP",
@@ -3375,9 +5230,12 @@
    "group": "in_store",
    "city": "Savona",
    "region": "Liguria",
-   "address": "Via Montenotte, 41R, 17100 Savona SV",
-   "phone": "380 758 9254",
-   "website": "https://www.instagram.com/pokemondo_edoardo",
+   "address": "Via Montenotte 41R, Savona, Savona, 17100, Italy",
+   "phone": "+393807589254",
+   "website": "https://www.instagram.com/pokemondo_edoardo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -3411,6 +5269,41 @@
    "checked_at": "2026-10-16T02:59:57Z"
   },
   {
+   "name": "PONTELUNGO COMICS",
+   "group": "in_store",
+   "city": "Bologna",
+   "region": "Emilia-Romagna",
+   "address": "Via Agucchi 77/b 77/c, Bologna, Bologna, 40133, Italy",
+   "phone": "+393455799798",
+   "website": "https://www.instagram.com/pontelungocomics/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Pot of Demons",
+   "group": "in_store",
+   "address": "5 Piazza Aldo Moro, Castelfranco Emilia, Emilia-Romagna, 41013, Italy",
+   "phone": "+39 3331871473",
+   "website": "https://www.facebook.com/potofdemonstournaments/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "PrimoDado",
+   "group": "in_store",
+   "address": "Corso Dante Alighieri 10, illasi, VR, 37031, Italy",
+   "phone": "3938043291",
+   "website": "https://www.instagram.com/primodado/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Punto Joy Games",
    "group": "in_store",
    "city": "Bari",
@@ -3426,6 +5319,26 @@
    "address": "Corso Porta Nuova, 39, 37122 Verona VR",
    "phone": "335 813 5430",
    "checked_at": "2026-10-16T03:07:56Z"
+  },
+  {
+   "name": "ResPawn Shop",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Candido Viberti, 1 bis/A, 10141 Torino TO",
+   "phone": "370 370 9494",
+   "website": "https://www.instagram.com/the_respawn_shop?igsh=Nnpqd2N1ZDFnbnJy",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Retro Game Snc Di Borgognoni Francesco",
+   "group": "in_store",
+   "city": "Firenze",
+   "region": "Toscana",
+   "address": "Via Claudio Monteverdi, 8, 50144 Firenze FI",
+   "phone": "055 351069",
+   "website": "https://www.facebook.com/retrogame.snc",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Ridding Market dell'Usato",
@@ -3456,6 +5369,30 @@
    "checked_at": "2026-10-16T03:03:36Z"
   },
   {
+   "name": "Robotime torino",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via S. Tommaso, 23/c, 10121 Torino TO",
+   "phone": "331 763 3680",
+   "website": "https://www.instagram.com/robotime.torino",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Rocca tre Corvi",
+   "group": "in_store",
+   "city": "Cogoleto",
+   "region": "Liguria",
+   "address": "VIA RATI 95, Cogoleto, Genova, 16016, Italy",
+   "phone": "+39(349) 546-4264",
+   "website": "https://www.facebook.com/roccatrecorvi/",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Rpg Srl",
    "group": "in_store",
    "city": "Genova",
@@ -3465,6 +5402,17 @@
    "checked_at": "2026-10-16T03:06:17Z"
   },
   {
+   "name": "Rullo models & Games",
+   "group": "in_store",
+   "address": "22 Via Grazia Deledda, Martina Franca, Puglia, 74015, Italy",
+   "phone": "+393381570663",
+   "website": "https://www.facebook.com/profile.php?id=61554952364291",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "San Domenico Maggiore Edicola",
    "group": "in_store",
    "city": "Napoli",
@@ -3472,6 +5420,26 @@
    "address": "P.za S. Domenico Maggiore, 80134 Napoli NA",
    "phone": "081 350 9490",
    "checked_at": "2026-10-16T03:03:00Z"
+  },
+  {
+   "name": "Sebastiani Sara Edicola",
+   "group": "in_store",
+   "city": "Bari",
+   "region": "Puglia",
+   "address": "Via Abate Giacinto Gimma, 96, 70122 Bari BA",
+   "phone": "080 521 2476",
+   "website": "https://www.instagram.com/edicola.sebastiani.bari/profilecard/?igsh=MTNnZmhqYzAzbWoxZQ==",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Sergioschi Fumetto Shop",
+   "group": "in_store",
+   "city": "Torino",
+   "region": "Piemonte",
+   "address": "Via Vittorio Asinari di Bernezzo, 84, 10146 Torino TO",
+   "phone": "347 976 6868",
+   "website": "https://www.facebook.com/pages/category/Comic-Bookstore/Sergioschi-Fumettoshop-289763391190455/",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Seven Dragons",
@@ -3503,15 +5471,13 @@
    "checked_at": "2026-10-16T03:05:42Z"
   },
   {
-   "name": "SideQuest",
+   "name": "Shinigames",
    "group": "in_store",
-   "city": "Vicenza",
-   "region": "Veneto",
-   "address": "Corso Padova, 31, 36100 Vicenza VI, Italy, Vicenza, Veneto, 36100",
-   "phone": "+39 347 773 0537",
-   "website": "https://www.instagram.com/sidequest_vicenza/",
+   "address": "13 Via Magenta, San Vittore Olona, Lombardia, 20028, Italy",
+   "phone": "+393519654176",
+   "website": "https://www.instagram.com/shinigame.shop?igsh=MTRyMGdob3FicGVmeQ==",
    "games_events": [
-    "Flesh and Blood"
+    "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
@@ -3551,16 +5517,29 @@
    "checked_at": "2026-10-16T03:00:18Z"
   },
   {
-   "name": "Spellcaster TCG",
+   "name": "SPACE COMICS",
+   "group": "in_store",
+   "address": "8 Via Nazario Sauro, Mantova, Lombardia, 46100, Italy",
+   "phone": "+39376753524",
+   "website": "https://www.facebook.com/profile.php?id=61574097540231&rdid=S2GOtKKhSX865Cqn&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1BrfzUqDey%2F#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Spellcastertcg",
    "group": "in_store",
    "city": "Asti",
    "region": "Piemonte",
-   "address": "Piazza Statuto, 6, 14100 Asti AT, Italy, Asti, Piemonte, 14100",
-   "phone": "+39 342 571 1937",
+   "address": "Piazza Statuto 6, Asti, ASTI, 14100, Italy",
+   "phone": "+393425711937",
+   "website": "https://www.instagram.com/spellcastertcg?igsh=MXRtOGFkMzkwdmJpMA%3D%3D&utm_source=qr",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Splica Groop Di Licciardi Ivan S.A.S.",
@@ -3632,9 +5611,12 @@
    "group": "in_store",
    "city": "Orbassano",
    "region": "Piemonte",
-   "address": "Via Roma, 25c, 10043 Orbassano TO",
-   "phone": "377 046 8217",
+   "address": "Via Roma 25, Orbassano, Torino, 10043, Italy",
+   "phone": "+393514905830",
    "website": "https://www.instagram.com/starshop_orbassano/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -3657,6 +5639,50 @@
    "checked_at": "2026-10-16T03:03:37Z"
   },
   {
+   "name": "Stargate",
+   "group": "in_store",
+   "address": "Via Col di Lana 25, Mantova, MN, 46100, Italy",
+   "phone": "+393491819318",
+   "website": "https://www.facebook.com/stargate.mantova/?locale=it_IT",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Starshop Imola",
+   "group": "in_store",
+   "address": "Piazza Gramsci 11, Imola, Bologna, 40016, Italy",
+   "phone": "+393333809082",
+   "website": "https://www.instagram.com/starshopimola/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Starshop Pozzuoli",
+   "group": "in_store",
+   "address": "6 Via Maso Carrese, Pozzuoli, Campania, 80078, Italy",
+   "phone": "+393426696269",
+   "website": "https://www.instagram.com/starshoppozzuoli/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Steelgamer",
+   "group": "in_store",
+   "address": "30B Via della Fonda, Noale, Venezia, 30033, Italy",
+   "phone": "+393331434209",
+   "website": "https://www.instagram.com/steelgamer.tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Sterlino Toys Giocattoli e Cartoleria",
    "group": "in_store",
    "city": "Bologna",
@@ -3666,10 +5692,32 @@
    "checked_at": "2026-10-16T03:05:53Z"
   },
   {
+   "name": "StormDanno Store",
+   "group": "in_store",
+   "address": "48A Via Giuseppe Mazzini, Scandiano, Emilia-Romagna, 42019, Italy",
+   "phone": "+393758011739",
+   "website": "https://www.instagram.com/stormdannostore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Strategia e Tattica 2",
    "group": "in_store",
    "address": "<div class=\"relative flex flex-col gap-1 p-3.5 rounded-lg bg-background-secondary border border-border-primary hover:border-magic-mythic-orange shadow-[0px_1px_1px_rgba(0,0,0,0.05)] text-base w-full transition-all\"",
    "phone": "+39 0686398756",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "SukCollectibles (Zoolash Gaming House )",
+   "group": "in_store",
+   "address": "Via traversa snc, Mercogliano, Avellino, 83013, Italy",
+   "phone": "+39375624906",
+   "website": "https://www.instagram.com/sukcollectiblestcg?igsh=MXRxeGV4aGZ1dDI2ag%3D%3D&utm_source=qr",
    "games_events": [
     "Magic: The Gathering"
    ],
@@ -3702,6 +5750,28 @@
    "checked_at": "2026-10-16T03:08:24Z"
   },
   {
+   "name": "Tadaima - La Fumetteria del Borgo",
+   "group": "in_store",
+   "address": "39 Via Giovanni Amendola, Angri, Campania, 84012, Italy",
+   "phone": "393339831956",
+   "website": "https://www.instagram.com/explore/locations/244545655411875/tadaima-la-fumetteria-del-borgo/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Tanuki",
+   "group": "in_store",
+   "address": "43 Via Libarna, Arquata Scrivia, Piemonte, 15061, Italy",
+   "phone": "+39 +39 3423 148786",
+   "website": "https://www.facebook.com/profile.php?id=61557231875072",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "TCG Club Torino",
    "group": "in_store",
    "city": "Torino",
@@ -3711,6 +5781,28 @@
    "checked_at": "2026-10-16T03:03:26Z"
   },
   {
+   "name": "TCG YAKUZA",
+   "group": "in_store",
+   "address": "Viale Tommaso De Tommaso 36, Anacapri, NA, 80071, Italy",
+   "phone": "+390818373665",
+   "website": "https://www.instagram.com/tcg.yakuza",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Tempest Store",
+   "group": "in_store",
+   "address": "1 Via Verona, Ardea, Lazio, 00040, Italy",
+   "phone": "+393488785584",
+   "website": "https://www.facebook.com/profile.php?id=61570647347225&sk=reels_tab",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Tesori Di Carta",
    "group": "in_store",
    "city": "Bologna",
@@ -3718,6 +5810,28 @@
    "address": "Via delle Lame, 2/D, 40122 Bologna BO",
    "phone": "339 662 7292",
    "checked_at": "2026-10-16T03:05:44Z"
+  },
+  {
+   "name": "The Box di Piva Andrea & C. S.a.s.",
+   "group": "in_store",
+   "address": "Via Gaspare Campo 18 C, Rovigo, Rovigo, 45100, Italy",
+   "phone": "+393465119652",
+   "website": "https://www.instagram.com/thebox.playground",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "THE CAVE",
+   "group": "in_store",
+   "address": "Via Giorgio La Pira, 17, Agliana, Pistoia, 51031, Italy",
+   "phone": "+393462229747",
+   "website": "https://www.instagram.com/thecave.pub/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "The Joker",
@@ -3761,6 +5875,17 @@
    "checked_at": "2026-10-16T02:59:57Z"
   },
   {
+   "name": "The Next Draw",
+   "group": "in_store",
+   "address": "Via Enrico Rondanini 20, Nerviano, MI, 20014, Italy",
+   "phone": "+3917441723",
+   "website": "https://www.instagram.com/thenextdraw.tcg/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "The Realm",
    "group": "in_store",
    "city": "Firenze",
@@ -3770,6 +5895,28 @@
    "checked_at": "2026-10-16T03:05:34Z"
   },
   {
+   "name": "The Realm S.A.S. di Tucci Damiano e C.",
+   "group": "in_store",
+   "address": "Via di Soffiano 29/A, Firenze, Firenze, 50143, Italy",
+   "phone": "+393357456333",
+   "website": "https://www.instagram.com/therealmfirenze?igsh=MWN6djVhcXFqczBuMQ%3D%3D&utm_source=qr",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "The Spire Card and Games",
+   "group": "in_store",
+   "address": "8 Via G. Belloni, Codogno, Lombardia, 26845, Italy",
+   "phone": "+393516571696",
+   "website": "https://www.instagram.com/thespire.it/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Ticket To Play",
    "group": "in_store",
    "city": "Padova",
@@ -3777,6 +5924,17 @@
    "address": "Via Giambattista Belzoni, 100, 35121 Padova PD",
    "phone": "049 261 7149",
    "website": "https://www.facebook.com/Tickettoplaypadova",
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ticket to Play - Padova",
+   "group": "in_store",
+   "address": "Via Belzoni 108-110, Padova, PD, 35100, Italy",
+   "phone": "+39 049 261 7149",
+   "website": "https://www.facebook.com/Tickettoplaypadova",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
    "checked_at": "2026-10-16T02:54:50Z"
   },
   {
@@ -3812,6 +5970,17 @@
    "checked_at": "2026-10-16T02:55:51Z"
   },
   {
+   "name": "Tolaria Games & Collectibles",
+   "group": "in_store",
+   "address": "Via Paolo Baratta 137, Battipaglia, Salerno, 84091, Italy",
+   "phone": "+393291367291",
+   "website": "https://www.instagram.com/tolariagamesandcollectibles/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Tomberry Junkshop",
    "group": "in_store",
    "city": "Padova",
@@ -3832,6 +6001,17 @@
    "checked_at": "2026-10-16T03:03:45Z"
   },
   {
+   "name": "Torre dei Maghi",
+   "group": "in_store",
+   "address": "via dei carmelitani 10 galleria vitruvius, formia, LT, 04023, Italy",
+   "phone": "+39077123205",
+   "website": "https://www.facebook.com/torredeimaghi",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Torre dei Maghi - Roma",
    "group": "in_store",
    "address": "Via Regilla 121, Roma, RM, 00178, Italy",
@@ -3840,6 +6020,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "Torre di Babele",
+   "group": "in_store",
+   "address": "Via San Paolo 3 , Modugno, BA, 70026, Italy",
+   "phone": "+390807984826",
+   "website": "https://www.facebook.com/fumetteriatorredibabele",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Toys Con Te",
@@ -3905,6 +6096,52 @@
    "checked_at": "2026-10-16T02:59:42Z"
   },
   {
+   "name": "Tsunami Comics",
+   "group": "in_store",
+   "city": "Rivalta di Torino",
+   "region": "Piemonte",
+   "address": "Via Luigi Einaudi 46, Rivalta di Torino, Torino, 10040, Italy",
+   "phone": "+393780693327",
+   "website": "https://www.instagram.com/tsunami_comics/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Ultima Weapon",
+   "group": "in_store",
+   "address": "Corso Novara 45, Vigevano, Pavia, 27029, Italy",
+   "phone": "+393343374019",
+   "website": "https://www.instagram.com/ultimaweaponstore/?utm_source=ig_web_button_share_sheet",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "UnderDark",
+   "group": "in_store",
+   "address": "3/5 Via del Mercato, Fiumicino, Lazio, 00054, Italy",
+   "phone": "+3937064287",
+   "website": "https://www.instagram.com/underdark2025/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Universo Magia",
+   "group": "in_store",
+   "address": "69 Via Silvio Trentin, Lido di Jesolo, Veneto, 30016, Italy",
+   "phone": "+39(0)4211542227",
+   "website": "https://www.instagram.com/universo___magia/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "UpGrade",
    "group": "in_store",
    "address": "20 Via Monsignor Giacomo Gentilin, Verona, Veneto, 37132, Italy",
@@ -3967,11 +6204,14 @@
    "group": "in_store",
    "city": "Vicenza",
    "region": "Veneto",
-   "address": "Via Enrico Fermi, 267, 36100 Vicenza VI, Italy, Vicenza, Veneto, 36100",
+   "address": "Via Enrico Fermi 267, Vicenza, Vicenza, 36100, Italy",
+   "phone": "+393489668749",
+   "website": "https://www.instagram.com/v_one_vicenza?igsh=MW5pZmEwYWZ1eHc1cQ==",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "ViaVai Edicola",
@@ -3986,12 +6226,14 @@
    "group": "in_store",
    "city": "Monselice",
    "region": "Veneto",
-   "address": "Via Dante, 8, 35043 Monselice PD, Italy, Monselice, Veneto, 35043",
-   "phone": "3472365500",
+   "address": "Via Dante 8, Monselice, Padova, 35043, Italy",
+   "phone": "+393472365500",
+   "website": "https://www.instagram.com/vice_district/",
    "games_events": [
-    "Flesh and Blood"
+    "Flesh and Blood",
+    "Magic: The Gathering"
    ],
-   "checked_at": "2026-10-16T21:48:23Z"
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "VideoJays",
@@ -4049,6 +6291,19 @@
    "checked_at": "2026-10-16T21:48:43Z"
   },
   {
+   "name": "Wildfire",
+   "group": "in_store",
+   "city": "Roma",
+   "region": "Lazio",
+   "address": "Via della Fonte Meravigliosa 64, Roma, RM, 00143, Italy",
+   "phone": "+39(0)6 9506 1442",
+   "website": "https://www.facebook.com/Wildfirestore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Wildfire Store",
    "group": "in_store",
    "city": "Roma",
@@ -4059,6 +6314,60 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:30Z"
+  },
+  {
+   "name": "X Games",
+   "group": "in_store",
+   "address": "Via G. Puccini, 90  , Albano Laziale, RM, 00041, Italy",
+   "phone": "+39 348 714 5188",
+   "website": "https://www.facebook.com/XGamesAlbanolaziale/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "yocigaci trading card shop",
+   "group": "in_store",
+   "address": "Corso Manfredo Fanti 97/99, carpi, italia, 41012, Italy",
+   "phone": "+393663044571",
+   "website": "https://www.instagram.com/yocigaci/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Yokai Zone",
+   "group": "in_store",
+   "address": "Via Matteotti, 16, Besnate, Varese, 21010, Italy",
+   "phone": "+393759103204",
+   "website": "https://www.facebook.com/people/YOKAI-ZONE/61576689013042/#",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Zero One",
+   "group": "in_store",
+   "address": "Piazza Cavour 15, Montecchio Emilia, Reggio nell'Emilia, 42027, Italy",
+   "phone": "+393888897070",
+   "website": "https://www.instagram.com/zero__onestore/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Zeta",
+   "group": "in_store",
+   "city": "Milano",
+   "region": "Lombardia",
+   "address": "Via Paolo Sarpi, 12, 20154 Milano MI",
+   "phone": "377 091 1125",
+   "website": "https://www.instagram.com/zeta_milan?igsh=Y2ttMmgwZTNqOHZj",
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "好运百货LA FORTUNA",
@@ -4286,6 +6595,17 @@
    "checked_at": "2026-10-16T03:06:00Z"
   },
   {
+   "name": "Another World (Altamura)",
+   "group": "unknown",
+   "address": "Via dei mille 88/D, Altamura, BA, 70022, Italy",
+   "phone": "+39080 2373152",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Antro della Sibilla",
    "group": "unknown",
    "address": "Via Salerno, 30, Battipaglia, SA, 84091, Italy",
@@ -4316,6 +6636,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:56:25Z"
+  },
+  {
+   "name": "Approdo del Re",
+   "group": "unknown",
+   "address": "Via S. Domenico, 11, Selvazzano Dentro PD, Padova, Padova, 35030, Italy",
+   "phone": "+39049638123",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Arcadia",
@@ -5170,6 +7501,19 @@
    "checked_at": "2026-10-16T03:00:31Z"
   },
   {
+   "name": "Collezionismo a Tutto Tondo",
+   "group": "unknown",
+   "city": "Casalecchio di Reno",
+   "region": "Emilia-Romagna",
+   "address": "6 Via de' Carracci, Casalecchio di Reno, Bologna, 40131, Italy",
+   "phone": "+393758316532",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Comic Mania - Torino",
    "group": "unknown",
    "address": "5 Via Riva del Garda, Torino, Piemonte, 10137, Italy",
@@ -5209,16 +7553,6 @@
    "phone": "055 415614",
    "website": "https://comics.it/",
    "checked_at": "2026-10-16T03:04:53Z"
-  },
-  {
-   "name": "Comics Sans",
-   "group": "unknown",
-   "city": "Genova",
-   "region": "Liguria",
-   "address": "Via Guido Sette, 29 31 r, 16154 Genova GE",
-   "phone": "375 588 2980",
-   "website": "https://www.comicssans.com/",
-   "checked_at": "2026-10-16T21:48:45Z"
   },
   {
    "name": "ComicsToGrade",
@@ -5265,13 +7599,12 @@
   {
    "name": "Contea Padova",
    "group": "unknown",
-   "city": "Quattromiglia",
-   "region": "Calabria",
+   "city": "Rubano",
+   "region": "Veneto",
    "address": "32 Via A. Rossi, Rubano, Veneto, 35030, Italy",
    "phone": "+393926800590",
    "website": "https://www.google.com/maps/place/Contea+Padova/@45.4268885,11.7836949,17z/data=!3m1!4b1!4m6!3m5!1s0x477ed90008bd9e4f:0xe21137f7b4a0fbcf!8m2!3d45.4268848!4d11.7885658!16s%2Fg%2F11mlgz9gg7?entry=tts&g_ep=EgoyMDI2MDQxNS4wIPu8ASoASAFQAw%3D%3D&skid=1aa6e053-2d7e-4ef2-b189-39f10f5f3509",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:59:15Z"
@@ -5288,6 +7621,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:59:06Z"
+  },
+  {
+   "name": "Cosmic Shop Lodi",
+   "group": "unknown",
+   "address": "Via Nino Dall'Oro 15, Lodi, LO, 26900, Italy",
+   "phone": "+39 3209069021 ",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Crazy Comics and Games",
@@ -5397,13 +7741,23 @@
   {
    "name": "Dark Zone",
    "group": "unknown",
-   "city": "Salerno",
-   "region": "Campania",
+   "city": "Roma",
+   "region": "Lazio",
    "address": "Via Statilio Ottato, 66/A, Roma, Roma, 00175, Italy",
    "phone": "+393518756165",
    "website": "https://wpn.wizards.com/en",
    "games_events": [
-    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "DarkDiamondTCG",
+   "group": "unknown",
+   "address": "Corso Giacomo Matteotti 39/D, Castel San Giovanni, Piacenza, 29015, Italy",
+   "phone": "+393472859038",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:55:06Z"
@@ -5429,6 +7783,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:58:52Z"
+  },
+  {
+   "name": "Digital Replay",
+   "group": "unknown",
+   "address": "viale della rimembranza 68/70, Novi Ligure, AL, 15067, Italy",
+   "phone": "39014-351-0558",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Digital Replay Novi Ligure",
@@ -5486,6 +7851,17 @@
    "checked_at": "2026-10-16T03:07:48Z"
   },
   {
+   "name": "Dracarys",
+   "group": "unknown",
+   "address": "Via Galvani 38 c, Viterbo, VT, 01100, Italy",
+   "phone": "393319681114",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Draco Astralis",
    "group": "unknown",
    "city": "Roma",
@@ -5510,10 +7886,21 @@
    "checked_at": "2026-10-16T02:58:55Z"
   },
   {
+   "name": "Draft Milano",
+   "group": "unknown",
+   "address": "9 Viale Misurata, Milano, Lombardia, 20146, Italy",
+   "phone": "+393516922546",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Dragon Legend",
    "group": "unknown",
-   "city": "Montecatini Terme",
-   "region": "Toscana",
+   "city": "Roma",
+   "region": "Lazio",
    "address": "Via Accalarenzia 32/ via Evandro 8, Roma, 62, 00179, Italy",
    "phone": "393337761330",
    "website": "https://magic.wizards.com/en",
@@ -5522,6 +7909,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Dragon's Den Battipaglia",
+   "group": "unknown",
+   "address": "Via Nazario Sauro n°16, Battipaglia, SA, 84091, Italy",
+   "phone": "13209586026",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Dragonero Shop",
@@ -5685,6 +8083,17 @@
    "checked_at": "2026-10-16T02:59:48Z"
   },
   {
+   "name": "Estremo",
+   "group": "unknown",
+   "address": "Via Battistello Caracciolo 35-37 80136 Napoli, Napoli, NA, 80136, Italy",
+   "phone": "108118525628",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "EUR Comics",
    "group": "unknown",
    "city": "Roma",
@@ -5697,6 +8106,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:55:01Z"
+  },
+  {
+   "name": "Excalibur Games",
+   "group": "unknown",
+   "address": "Via G Fiamma 36 , Milano, MI, 20129, Italy",
+   "phone": "+39+39 0283413592",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Excalibur Games Table Games / Boardgames",
@@ -5769,19 +8189,6 @@
    "checked_at": "2026-10-16T21:48:23Z"
   },
   {
-   "name": "Fantamagus Monza",
-   "group": "unknown",
-   "city": "Monza",
-   "region": "Lombardia",
-   "address": "Via Gaetana Agnesi, 2, 20900 Monza MB, Italy, Monza, Lombardia, 20900",
-   "phone": "+39 039 227 0529",
-   "website": "https://www.fantamagus.com/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "Fantasia",
    "group": "unknown",
    "address": "77 V.le Trento, Rovereto, Trentino-Alto Adige, 38068, Italy",
@@ -5816,6 +8223,17 @@
    "checked_at": "2026-10-16T03:02:01Z"
   },
   {
+   "name": "Farmagia",
+   "group": "unknown",
+   "address": "Via XXVIII Aprile 16, Monselice, Padova, 35043, Italy",
+   "phone": "+390429782314",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Faro Ludico",
    "group": "unknown",
    "city": "Bari",
@@ -5827,6 +8245,18 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:55Z"
+  },
+  {
+   "name": "FedEli al TCG",
+   "group": "unknown",
+   "address": "Piazza della Vittoria 8 BIS, Pavia, Pavia, 27100, Italy",
+   "phone": "+393278593753",
+   "website": "https://linktr.ee/MagicNexus",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:18Z"
   },
   {
    "name": "Feltrinelli Librerie",
@@ -5879,6 +8309,32 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:56:18Z"
+  },
+  {
+   "name": "Fireball",
+   "group": "unknown",
+   "city": "Lido di Ostia",
+   "region": "Lazio",
+   "address": "via delle Baleari 215 , Roma, 62, 00121, Italy",
+   "phone": "393407005078",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
+   "name": "Firenze Comics & Games",
+   "group": "unknown",
+   "city": "Firenze",
+   "region": "Toscana",
+   "address": "Piazza Dalmazia 2 , Firenze, FI, 50141, Italy",
+   "phone": "39055 5321462",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Fiumara",
@@ -5935,6 +8391,18 @@
    "phone": "02 8699 1477",
    "website": "http://www.frontini.it/",
    "checked_at": "2026-10-16T03:02:15Z"
+  },
+  {
+   "name": "Fumettando",
+   "group": "unknown",
+   "address": "8a Piazza Urbano Prunotto, Alba, Piemonte, 12051, Italy",
+   "phone": "+393758983692",
+   "website": "https://linktr.ee/MagicNexus",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:18Z"
   },
   {
    "name": "Fumetteria - Kaboom Comics and Games",
@@ -6097,6 +8565,18 @@
    "checked_at": "2026-10-16T02:59:48Z"
   },
   {
+   "name": "Funside San Giorgio a Cremano",
+   "group": "unknown",
+   "address": "Via Bruno Buozzi 34, San Giorgio a Cremano, Napoli, 80046, Italy",
+   "phone": "+390813185811",
+   "website": "https://linktr.ee/MagicNexus",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:18Z"
+  },
+  {
    "name": "Funside To Dream",
    "group": "unknown",
    "city": "Torino",
@@ -6105,19 +8585,6 @@
    "phone": "011 944 7021",
    "website": "https://funside.it/",
    "checked_at": "2026-10-16T02:58:14Z"
-  },
-  {
-   "name": "Funside Treviglio",
-   "group": "unknown",
-   "city": "Quattromiglia",
-   "region": "Calabria",
-   "address": "Via Gioacchino Rossini, 6, 87036 Quattromiglia CS, Italy, Quattromiglia, Calabria, 87036",
-   "phone": "0363345544",
-   "website": "https://www.gamesacademy.it/roma/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T02:54:56Z"
   },
   {
    "name": "G-Dizzle Collectibles",
@@ -6165,10 +8632,13 @@
    "group": "unknown",
    "city": "Firenze",
    "region": "Toscana",
-   "address": "Via Francesco Baracca, 168, 50127 Firenze FI",
-   "phone": "055 374612",
-   "website": "https://www.gamefirenze.com/",
-   "checked_at": "2026-10-16T21:48:36Z"
+   "address": "Via Francesco Baracca 168r, Firenze, 52, 50145, Italy",
+   "phone": "39055374612",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Game boyz Pokemon",
@@ -6201,16 +8671,6 @@
    "phone": "06 0190 8981",
    "website": "https://www.gamestop.it/",
    "checked_at": "2026-10-16T03:00:37Z"
-  },
-  {
-   "name": "Gamelot - Il Regno dei Giochi",
-   "group": "unknown",
-   "city": "Sesto Fiorentino",
-   "region": "Toscana",
-   "address": "V. del Campo Sportivo, 4B, 50019 Sesto Fiorentino FI",
-   "phone": "329 666 6038",
-   "website": "https://www.gamelot.it/",
-   "checked_at": "2026-10-16T21:48:36Z"
   },
   {
    "name": "Gamelover",
@@ -6357,6 +8817,40 @@
    "checked_at": "2026-10-16T03:06:50Z"
   },
   {
+   "name": "Games Time Pavia",
+   "group": "unknown",
+   "address": "Via Volturno 27, PAVIA , PV, 27100, Italy",
+   "phone": "+393397372331",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "games time roma casalpalocco",
+   "group": "unknown",
+   "region": "Lazio",
+   "address": "via eschilo 86d/c, roma, roma, 00125, Italy",
+   "phone": "+390669302949",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "Games Time Trentola Ducenta",
+   "group": "unknown",
+   "address": "via enrico de nicola, 40/42, trentola ducenta, caserta, 81038, Italy",
+   "phone": "+393246340105",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "GameSIDE",
    "group": "unknown",
    "city": "Padova",
@@ -6417,16 +8911,6 @@
    "checked_at": "2026-10-16T03:03:13Z"
   },
   {
-   "name": "GG-GoodGame",
-   "group": "unknown",
-   "city": "Empoli",
-   "region": "Toscana",
-   "address": "Via Giulio Masini, 25, 50053 Empoli FI",
-   "phone": "0571 534822",
-   "website": "https://gg-goodgame.it/",
-   "checked_at": "2026-10-16T21:48:38Z"
-  },
-  {
    "name": "GianGiò Ingrosso Giocattoli dal 1976",
    "group": "unknown",
    "city": "Genova",
@@ -6435,6 +8919,17 @@
    "phone": "010 714921",
    "website": "https://www.giangioingrosso.com/",
    "checked_at": "2026-10-16T03:06:16Z"
+  },
+  {
+   "name": "Gio & Co",
+   "group": "unknown",
+   "address": "Via Diaceto 12, Siena, SI, 53100, Italy",
+   "phone": "+390577288117",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "Giocattoli Lucchi",
@@ -6601,6 +9096,17 @@
    "checked_at": "2026-10-16T03:01:45Z"
   },
   {
+   "name": "Grand Line Cards",
+   "group": "unknown",
+   "address": "VIA BORGO TICINO SNC, Roma, Roma, 00166, Italy",
+   "phone": "+393484208421",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Grande Marvin",
    "group": "unknown",
    "city": "Torino",
@@ -6695,19 +9201,6 @@
    "checked_at": "2026-10-16T02:59:11Z"
   },
   {
-   "name": "I CIVETTONI",
-   "group": "unknown",
-   "city": "Roma",
-   "region": "Lazio",
-   "address": "Via Evandro, 20, 00181 Roma RM, Italy, Roma, Lazio, 00181",
-   "phone": "+39 06 8115 7399",
-   "website": "https://icivettoni.business.site/",
-   "games_events": [
-    "Flesh and Blood"
-   ],
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "I Giochi Di Alice di Fallani Daniele",
    "group": "unknown",
    "city": "Firenze",
@@ -6740,6 +9233,19 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:55:01Z"
+  },
+  {
+   "name": "Il Covo del Nerd - Cosenza",
+   "group": "unknown",
+   "city": "Quattromiglia",
+   "region": "Calabria",
+   "address": "Via Umberto Boccioni, 37, 87036 Quattromiglia CS, Italy, Quattromiglia, Calabria, 87036",
+   "phone": "3477923390",
+   "website": "https://www.google.com/maps/place/Contea+Padova/@45.4268885,11.7836949,17z/data=!3m1!4b1!4m6!3m5!1s0x477ed90008bd9e4f:0xe21137f7b4a0fbcf!8m2!3d45.4268848!4d11.7885658!16s%2Fg%2F11mlgz9gg7?entry=tts&g_ep=EgoyMDI2MDQxNS4wIPu8ASoASAFQAw%3D%3D&skid=1aa6e053-2d7e-4ef2-b189-39f10f5f3509",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-16T02:59:15Z"
   },
   {
    "name": "Il Covo del Nerd - Roma",
@@ -6856,6 +9362,17 @@
    "checked_at": "2026-10-16T02:56:02Z"
   },
   {
+   "name": "il Loto TCG",
+   "group": "unknown",
+   "address": "via montanara 6, castel san giovanni, PC, 29015, Italy",
+   "phone": "+393534163043",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Il Mondo dei Giochi",
    "group": "unknown",
    "city": "Milano",
@@ -6874,16 +9391,6 @@
    "phone": "010 529 8969",
    "website": "https://www.ilmondodelfumetto.it/error.html",
    "checked_at": "2026-10-16T03:06:09Z"
-  },
-  {
-   "name": "IL MONDO DI MIKY",
-   "group": "unknown",
-   "city": "Selvazzano Dentro",
-   "region": "Veneto",
-   "address": "Piazza Vittorio Veneto, 1, 35030 Selvazzano Dentro PD",
-   "phone": "049 897 4095",
-   "website": "https://www.ilmondodimikyshop.it/",
-   "checked_at": "2026-10-16T21:48:50Z"
   },
   {
    "name": "IL MONDO DI MIKY 2.0",
@@ -6915,6 +9422,19 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:58:28Z"
+  },
+  {
+   "name": "Il Tempio di Kronos",
+   "group": "unknown",
+   "city": "San Nicola La Strada",
+   "region": "Campania",
+   "address": "Via Santa Croce 83, San Nicola la Strada, CE, 81020, Italy",
+   "phone": "3908231326888",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Infinity Comics",
@@ -7184,6 +9704,17 @@
    "checked_at": "2026-10-16T02:56:07Z"
   },
   {
+   "name": "KAME HOUSE FUMETTERIA",
+   "group": "unknown",
+   "address": "61 Via Vitale , Ariano Irpino, Campania, 83031, Italy",
+   "phone": "393792681992",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Kamiro Manga Shop",
    "group": "unknown",
    "address": "Via Cesare Battisti, 59, Monsummano, PT, 51015, Italy",
@@ -7395,6 +9926,17 @@
    "checked_at": "2026-10-16T02:55:38Z"
   },
   {
+   "name": "L'Ultima Lanterna Comics & Games",
+   "group": "unknown",
+   "address": "Via Consolare Latina 118, Colleferro, RM, 00034, Italy",
+   "phone": "+393351059671",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "La Bottega del Bimbo",
    "group": "unknown",
    "address": "Via J.Berengario 58, 41012 Carpi (MO), Carpi, Modena, 41012, Italy",
@@ -7457,6 +9999,20 @@
    "checked_at": "2026-10-16T03:00:48Z"
   },
   {
+   "name": "La Rocca di Darsheyalon",
+   "group": "unknown",
+   "city": "Montecatini Terme",
+   "region": "Toscana",
+   "address": "via Palestro 14/a, Montecatini Terme, PT, 51016, Italy",
+   "phone": "393281-321-276",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "La Sala Degli Eroi",
    "group": "unknown",
    "city": "Collegno",
@@ -7468,6 +10024,28 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:57:36Z"
+  },
+  {
+   "name": "la tana della gang",
+   "group": "unknown",
+   "address": "via ca matta 2, PESCHIERA BORROMEO, MILANO, 20068, Italy",
+   "phone": "+393427286696",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "La Tana delle Figure",
+   "group": "unknown",
+   "address": "Corso Garibaldi 91, Borgomanero, Novara, 28021, Italy",
+   "phone": "+393298911342",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "La Tana di Charizard",
@@ -7728,6 +10306,17 @@
    "checked_at": "2026-10-16T03:03:47Z"
   },
   {
+   "name": "M&M COLLECTION CARDS",
+   "group": "unknown",
+   "address": "Via Trento e Trieste 24, Genazzano, Roma, 00030, Italy",
+   "phone": "+390600248272",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Magic Akiba",
    "group": "unknown",
    "city": "Mariano Comense",
@@ -7793,14 +10382,11 @@
   {
    "name": "Magic Nexus",
    "group": "unknown",
-   "city": "Modena",
-   "region": "Emilia-Romagna",
    "address": "Via Padana Superiore 27, Gessate (MI), Italia (IT)., Gessate, MI, 20060, Italy",
    "phone": "393713826355 ",
    "website": "https://linktr.ee/MagicNexus",
    "buylist_url": "https://linktr.ee/buylist",
    "games_events": [
-    "Flesh and Blood",
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:56:18Z"
@@ -8049,6 +10635,19 @@
    "checked_at": "2026-10-16T03:01:35Z"
   },
   {
+   "name": "MOBA Store",
+   "group": "unknown",
+   "city": "Milano",
+   "region": "Lombardia",
+   "address": "Via Giovanni Antonio Amadeo 40, Milano, Italia, 20133, Italy",
+   "phone": "3356148466",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Modellismo Uliano S.R.L.",
    "group": "unknown",
    "city": "Portici",
@@ -8239,6 +10838,20 @@
    "phone": "378 050 6181",
    "website": "https://needfor-slots.it/",
    "checked_at": "2026-10-16T03:07:31Z"
+  },
+  {
+   "name": "Nemesis Store",
+   "group": "unknown",
+   "city": "Salerno",
+   "region": "Campania",
+   "address": "Via Francesco Paolo Volpe 10, Salerno, SA, 84122, Italy",
+   "phone": "+39(0)899 954 703",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "NENASTORE",
@@ -8490,6 +11103,19 @@
    "checked_at": "2026-10-16T03:00:51Z"
   },
   {
+   "name": "OmarMagic",
+   "group": "unknown",
+   "city": "Sesto San Giovanni",
+   "region": "Lombardia",
+   "address": "Via Sassari 10, milano, MI, 20128, Italy",
+   "phone": "+393332466686",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "ON SHOP",
    "group": "unknown",
    "address": "3 Via del Popolo, Vigevano, Lombardia, 27029, Italy",
@@ -8515,6 +11141,17 @@
    "checked_at": "2026-10-16T02:57:06Z"
   },
   {
+   "name": "Ongame Arzignano",
+   "group": "unknown",
+   "address": "Via Vicenza 3/E, Arzignano, Vicenza, 36071, Italy",
+   "phone": "+393928008382",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "ONGAME Caserta",
    "group": "unknown",
    "address": "13 Via Don Giovanni Bosco, Caserta, Caserta, 81100, Italy",
@@ -8524,6 +11161,17 @@
     "Magic: The Gathering"
    ],
    "checked_at": "2026-10-16T02:57:14Z"
+  },
+  {
+   "name": "Ongame Genova",
+   "group": "unknown",
+   "address": "Via Canevari 326r, Genova, ge, 16137, Italy",
+   "phone": "+393518360198",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "ONGAME Modena",
@@ -8572,6 +11220,17 @@
    "checked_at": "2026-10-16T03:05:17Z"
   },
   {
+   "name": "Otaku Dungeon",
+   "group": "unknown",
+   "address": "Via del Collegio 14, Chivasso, TO, 10034, Italy",
+   "phone": "+3922168182",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Otakura",
    "group": "unknown",
    "city": "Villanova d'Asti",
@@ -8607,6 +11266,17 @@
    "checked_at": "2026-10-16T03:02:46Z"
   },
   {
+   "name": "Palantir",
+   "group": "unknown",
+   "address": "Via 20 Settembre, 68, Casale Monferrato, AL, 15033, Italy",
+   "phone": "+393398492838",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Pandora Games",
    "group": "unknown",
    "city": "Castelfranco Veneto",
@@ -8618,6 +11288,21 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:40Z"
+  },
+  {
+   "name": "Pandragon",
+   "group": "unknown",
+   "city": "Modena",
+   "region": "Emilia-Romagna",
+   "address": "Piazza XX Settembre 7/8, Modena, MO, 41121, Italy",
+   "phone": "+393474469569",
+   "website": "https://linktr.ee/MagicNexus",
+   "buylist_url": "https://linktr.ee/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:56:18Z"
   },
   {
    "name": "Paperback Exchange",
@@ -8825,15 +11510,6 @@
    "checked_at": "2026-10-16T02:55:43Z"
   },
   {
-   "name": "Pontelungo Comics",
-   "group": "unknown",
-   "city": "Bologna",
-   "region": "Emilia-Romagna",
-   "address": "Via Agucchi, 77/2, 40133 Bologna BO",
-   "website": "https://pontelungocomics.com/",
-   "checked_at": "2026-10-16T21:48:43Z"
-  },
-  {
    "name": "PoppyCardsTCG",
    "group": "unknown",
    "city": "Milano",
@@ -8935,6 +11611,17 @@
    "phone": "06 9152 4000",
    "website": "https://www.rstore.it/pages/negozi-napoli-chiaia",
    "checked_at": "2026-10-16T03:02:35Z"
+  },
+  {
+   "name": "Raikiri",
+   "group": "unknown",
+   "address": "Piazza italia 29, Magnago, Milano, 20020, Italy",
+   "phone": "+393520974335",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "RasenCard",
@@ -9086,6 +11773,17 @@
    "checked_at": "2026-10-16T03:06:08Z"
   },
   {
+   "name": "Safarà - Avellino",
+   "group": "unknown",
+   "address": "Via F.A. Cappone 21-23, Avellino, AV, 83100, Italy",
+   "phone": "+390825-1910343",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Safarà - Pequod sas di Maddalena Fabiano e C.",
    "group": "unknown",
    "city": "Pordenone",
@@ -9208,6 +11906,31 @@
    "phone": "091 681 9328",
    "website": "https://www.showgame.it/",
    "checked_at": "2026-10-16T03:06:38Z"
+  },
+  {
+   "name": "ShunFa",
+   "group": "unknown",
+   "address": "Cici Elle Srl Via Montenero 79, Novara, Novara, 28066, Italy",
+   "phone": "+393476901649",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
+   "name": "SideQuest",
+   "group": "unknown",
+   "city": "Vicenza",
+   "region": "Veneto",
+   "address": "Corso Padova 31, Vicenza, Vicenza, 36100, Italy",
+   "phone": "+393477730537",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Signum",
@@ -9398,6 +12121,17 @@
    "checked_at": "2026-10-16T03:02:20Z"
   },
   {
+   "name": "Supermarket del Fumetto",
+   "group": "unknown",
+   "address": "32 Via Circumvallazione, Avellino, Campania, 83100, Italy",
+   "phone": "+39-0825-147-0889",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Swamp Store Game People",
    "group": "unknown",
    "city": "Aprilia",
@@ -9447,6 +12181,17 @@
    "checked_at": "2026-10-16T03:01:16Z"
   },
   {
+   "name": "TCG Club",
+   "group": "unknown",
+   "address": "Via San Secondo 64, Torino, Torino, 10128, Italy",
+   "phone": "+3921547924",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "TCG Europe",
    "group": "unknown",
    "city": "San Martino Buon Albergo",
@@ -9478,6 +12223,17 @@
    "checked_at": "2026-10-16T02:56:48Z"
   },
   {
+   "name": "Tempus Fugit",
+   "group": "unknown",
+   "address": "Via Barbarigo, 81, PADOVA, PD, 35126, Italy",
+   "phone": "+390498789482",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
+  },
+  {
    "name": "Tempus Fugit Padova",
    "group": "unknown",
    "city": "Padova",
@@ -9489,6 +12245,17 @@
     "Flesh and Blood"
    ],
    "checked_at": "2026-10-16T02:59:39Z"
+  },
+  {
+   "name": "Terradimezzo",
+   "group": "unknown",
+   "address": "Via Roma 37, Bussolengo, Verona, 37012, Italy",
+   "phone": "+393407085324",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "The Big Jack",
@@ -9535,10 +12302,13 @@
    "group": "unknown",
    "city": "Bari",
    "region": "Puglia",
-   "address": "Via Francesco Lattanzio, 17, 70126 Bari BA",
-   "phone": "339 295 0134",
-   "website": "https://www.ebay.it/str/RISHADAN-MAGIC-STORE",
-   "checked_at": "2026-10-16T03:00:28Z"
+   "address": "Via Lattanzio 17, Bari, BA, 70126, Italy",
+   "phone": "393392950134",
+   "website": "https://magic.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:54:50Z"
   },
   {
    "name": "The Mandrakémon Store S.R.L.S.",
@@ -9579,6 +12349,17 @@
    "phone": "051 522433",
    "website": "https://www.scacco.it/",
    "checked_at": "2026-10-16T03:05:53Z"
+  },
+  {
+   "name": "The Wonderland Shop di Ricciardi Alessandro & C. S.N.C.",
+   "group": "unknown",
+   "address": "Via Alfonso Gatto 51-53, Roma, RM, 00143, Italy",
+   "phone": "+390697994292",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "TicTacToys",
@@ -9667,6 +12448,17 @@
    "phone": "081 420 2131",
    "website": "https://topgames-shop.com/",
    "checked_at": "2026-10-16T03:02:41Z"
+  },
+  {
+   "name": "Towerfun! Pavia",
+   "group": "unknown",
+   "address": "Via Pietro Nenni 72/A, Pavia, PV, 27100, Italy",
+   "phone": "+390382458776",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Toy Dealer",
@@ -9885,16 +12677,6 @@
    "checked_at": "2026-10-16T03:08:08Z"
   },
   {
-   "name": "Tsunami Comics",
-   "group": "unknown",
-   "city": "Rivalta di Torino",
-   "region": "Piemonte",
-   "address": "Via Luigi Einaudi, 46, 10040 Rivalta di Torino TO",
-   "phone": "378 069 3327",
-   "website": "https://tsunamicomics.it/",
-   "checked_at": "2026-10-16T21:48:35Z"
-  },
-  {
    "name": "Tsundoku Comics",
    "group": "unknown",
    "city": "Pescantina",
@@ -9961,6 +12743,17 @@
    "checked_at": "2026-10-16T03:05:25Z"
   },
   {
+   "name": "Up Keep - Comics & Games",
+   "group": "unknown",
+   "address": "Via Unione, 26/A, Cermenate, VA, 22072, Italy",
+   "phone": "+393755241686",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
+  },
+  {
    "name": "Upgrade Cards Service",
    "group": "unknown",
    "city": "Milano",
@@ -9989,6 +12782,17 @@
    "phone": "045 509446",
    "website": "https://stores.vans.it/venezia/verona/P6706/",
    "checked_at": "2026-10-16T03:07:57Z"
+  },
+  {
+   "name": "Vault 21",
+   "group": "unknown",
+   "address": "piazza Carlo alberto 21, Valeggio sul mincio, VR, 37067, Italy",
+   "phone": "+393337952192",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Victoria Card",
@@ -10085,16 +12889,6 @@
    "checked_at": "2026-10-16T03:04:33Z"
   },
   {
-   "name": "Wildfire",
-   "group": "unknown",
-   "city": "Roma",
-   "region": "Lazio",
-   "address": "Via della Fonte Meravigliosa, 64, 00143 Roma RM",
-   "phone": "06 9506 1442",
-   "website": "https://www.wildfirestore.it/",
-   "checked_at": "2026-10-16T21:48:23Z"
-  },
-  {
    "name": "Wonder Club",
    "group": "unknown",
    "city": "Alpignano",
@@ -10170,6 +12964,17 @@
    "phone": "392 320 0586",
    "website": "http://www.zenainternational.com/",
    "checked_at": "2026-10-16T03:06:17Z"
+  },
+  {
+   "name": "ZERO DOGMA SRLS",
+   "group": "unknown",
+   "address": "VIa Nola 62, San Paolo bel sito, NA, 80030, Italy",
+   "phone": "+393347986875",
+   "website": "https://wpn.wizards.com/en",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-16T02:55:06Z"
   },
   {
    "name": "Zeus Compravendita – Antiquariato, Vintage e Modernariato a Firenze",

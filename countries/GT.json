@@ -1,8 +1,8 @@
 {
  "country": "GT",
  "currency": "GTQ",
- "updated": "2026-10-18",
- "store_count": 41,
+ "updated": "2026-10-20",
+ "store_count": 55,
  "stores": [
   {
    "name": "Magic Board Games Oakland Place",
@@ -38,6 +38,26 @@
    "checked_at": "2026-10-18T21:47:15Z"
   },
   {
+   "name": "Amazing Toys",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Interior de, 6 Calle \"A 31-05, Cdad. de Guatemala",
+   "phone": "3567 8259",
+   "website": "http://www.facebook.com/AmazingToysGT",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Black Market Guatemala",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala Department",
+   "address": "HFMM+PGX, Guatemala City 01014",
+   "phone": "4689 0393",
+   "website": "https://www.facebook.com/blackmarketguatemala/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
    "name": "Carros De Coleccion GT",
    "group": "in_store",
    "city": "Guate",
@@ -45,6 +65,56 @@
    "address": "JGG3+FW8, Guatemala City",
    "phone": "5823 8714",
    "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Chiviri4Ta Majadas",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "JCFR+9XJ, Anillo Periférico Diag. 12, Cdad. de Guatemala",
+   "phone": "2472 8154",
+   "website": "https://www.facebook.com/chiviri4ta/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "COLISEO TCG",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "of.522, Edificio ascend oficinas, 13 Calle 05-31, Cdad. de Guatemala 01009",
+   "phone": "2289 3265",
+   "website": "https://www.facebook.com/Coliseo-TCG-103294772356708/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Cyber Games",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "5a. Calle 4-44, Cdad. de Guatemala 01064",
+   "phone": "6672 3290",
+   "website": "http://www.facebook.com/Cyber-Games-688608914567400/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "De Colección",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Ciudad de, 14 Avenida 2-34, Cdad. de Guatemala 01001",
+   "website": "https://www.facebook.com/DE-COLECCION-GUATEMALA-541675062539078/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Deck Box Store",
+   "group": "in_store",
+   "address": "6TA Avenida \"A\" 10-51 ZONA 1, Guatemala, Guatemala, 01001, Guatemala",
+   "phone": "50231982102",
+   "website": "https://www.facebook.com/profile.php?id=100087658004830",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
   },
   {
    "name": "DECKBOX STORE GT",
@@ -83,6 +153,16 @@
    "checked_at": "2026-10-18T21:47:15Z"
   },
   {
+   "name": "GamezGt",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "4ta. Avenida 18 calle, Plaza el Amate, Nivel Local 500, Cdad. de Guatemala 01001",
+   "phone": "3013 7915",
+   "website": "https://www.facebook.com/Gamezgt/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
    "name": "Helepolis Comics & Collectibles",
    "group": "in_store",
    "city": "Guate",
@@ -90,6 +170,19 @@
    "address": "3 Calle A 8-22, Cdad. de Guatemala",
    "phone": "3071 1119",
    "checked_at": "2026-10-18T21:47:27Z"
+  },
+  {
+   "name": "Ilusion Gaming Lounge",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "6av 9-80 zona 1 , edificio plaza vivar local 5p, Guatemala, Guatemala, 01001, Guatemala",
+   "phone": "50222517226",
+   "website": "https://www.facebook.com/Ilusiongamingt",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
   },
   {
    "name": "kamikaze hobby shop",
@@ -109,6 +202,17 @@
    "address": "14 Calle, Cdad. de Guatemala 01003",
    "phone": "5902 3240",
    "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "MadHouse 33",
+   "group": "in_store",
+   "address": "Local 303 FC, Centro Comercial Tikal Futura, Calzada Roosevelt 22-43, Centro Comercial, Cuidad de Guatemala, 01011, Guatemala",
+   "phone": "50224404229",
+   "website": "https://www.facebook.com/madhouse33gt",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-18T21:47:09Z"
   },
   {
    "name": "Madhouse33 Eskala Roosevelt",
@@ -168,6 +272,16 @@
    "checked_at": "2026-10-18T21:47:15Z"
   },
   {
+   "name": "Portal Game Hub",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Centro Comercial Gran Portal Petapa, 45 Calle 19-40, Cdad. de Guatemala",
+   "phone": "3176 5627",
+   "website": "https://www.facebook.com/share/1HP7FWCa9a/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
    "name": "Psyquedelic",
    "group": "in_store",
    "city": "Guate",
@@ -186,6 +300,16 @@
    "checked_at": "2026-10-18T21:47:15Z"
   },
   {
+   "name": "Stella Shop Mangas",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala Department",
+   "address": "Guatemala City",
+   "phone": "4904 9460",
+   "website": "https://www.facebook.com/profile.php?id=100088662327752",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
    "name": "Stock 8 collectibles",
    "group": "in_store",
    "city": "Guate",
@@ -202,6 +326,26 @@
    "address": "12 Calle B 29, Cdad. de Guatemala",
    "phone": "5537 8122",
    "checked_at": "2026-10-18T21:47:15Z"
+  },
+  {
+   "name": "Tsuki no mori Anime",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Centro Comercial Meta Mercado Mixco local \"5\" segundo nivel Pasarela no.2, Calz. San Juan, Cdad. de Guatemala",
+   "phone": "4577 8321",
+   "website": "http://www.facebook.com/TsukinomoriANIME/",
+   "checked_at": "2026-10-18T21:47:09Z"
+  },
+  {
+   "name": "Tsuki no mori Zona 1",
+   "group": "in_store",
+   "city": "Guate",
+   "region": "Guatemala",
+   "address": "Guatemala Ciudad zona 1 plaza el Amate local 325 Guatemala ciudad zona 1, Cdad. de Guatemala 01001",
+   "phone": "4577 8321",
+   "website": "https://www.facebook.com/TsukinomoriANIME",
+   "checked_at": "2026-10-18T21:47:09Z"
   },
   {
    "name": "World Games",
