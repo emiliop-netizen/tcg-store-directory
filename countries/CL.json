@@ -41,6 +41,7 @@
   {
    "name": "PAY2WIN",
    "group": "login_required",
+   "city": "Las Condes",
    "address": "7331 Avenida Apoquindo, Las Condes, RM, 7571554, Chile",
    "phone": "56986874074",
    "website": "https://www.paytowin.cl/",
@@ -197,6 +198,7 @@
   {
    "name": "Akorgi Store",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "Calle Uno Norte N24, San Antonio, Valparaíso, 2660000, Chile",
    "phone": "56945240406",
    "website": "https://www.instagram.com/akorgistore?igsh=ZW1nMGxkM2ZrYmk5",
@@ -253,6 +255,7 @@
   {
    "name": "Bazar Pirexiano",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "4 Valentín Pardo, Los Andes, Valparaíso, 2100000, Chile",
    "phone": "+56 961292113",
    "website": "https://instagram.com/bazarpirexiano",
@@ -358,6 +361,7 @@
   {
    "name": "El Calabozo (Concepción)",
    "group": "in_store",
+   "city": "Concepción",
    "address": "Libertador Gral Bernardo O'Higgins 950b, Concepción, BI, 4030000, Chile",
    "phone": "569 3461 3599",
    "website": "https://discord.gg/U3JRWAs",
@@ -509,6 +513,7 @@
   {
    "name": "Hammer TCG Store",
    "group": "in_store",
+   "city": "Bío Bío",
    "address": "1045 Av. Los Carrera, Concepción, Bío Bío, 4030318, Chile",
    "phone": "56973440445",
    "website": "https://www.instagram.com/p/DK6HdDwNrdd/",
@@ -537,6 +542,7 @@
   {
    "name": "Hydra's Tavern",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "615 1 Nte., Viña, Valparaíso, 2520316, Chile",
    "phone": "56940941234",
    "website": "https://www.instagram.com/hydrastavern/",
@@ -577,6 +583,7 @@
   {
    "name": "J Juegos Casablanca",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "523 Roberto Loyola, Casablanca, Valparaíso, 2480130, Chile",
    "phone": "56920040739",
    "website": "https://www.instagram.com/j__juegos/profilecard/?igsh=MTJjcG9vYnQ5NGRrZQ==",
@@ -625,6 +632,7 @@
   {
    "name": "Kurgan",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "81 2 Pte., Viña, Valparaíso, 2520305, Chile",
    "phone": "+56 942599056",
    "website": "https://facebook.com/TiendaKurgan",
@@ -649,6 +657,7 @@
   {
    "name": "La Posada del Dado",
    "group": "in_store",
+   "city": "Valparaíso",
    "address": "248 La Concepción, Quillota, Valparaíso, 2260000, Chile",
    "phone": "56963-701-171",
    "website": "https://www.instagram.com/laposadadeldado/",
@@ -910,6 +919,7 @@
   {
    "name": "Addiction Model",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "75 San Ignacio de Loyola Local 32, Santiago, Región Metropolitana, 720000, Chile",
    "phone": "56967352238",
    "website": "https://addictionmodel.cl",
@@ -955,6 +965,7 @@
   {
    "name": "Bastión Goblin",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "7750 Av. Apoquindo Torre 2, Local 7, Las Condes, Región Metropolitana, 7560907, Chile",
    "phone": "5699273 9195",
    "website": "https://bastiongoblin.com/",
@@ -995,6 +1006,7 @@
   {
    "name": "Blood Moon Games",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "1228 Pérez Valenzuela, Providencia, Región Metropolitana, 7500562, Chile",
    "phone": "5696-687-7014",
    "website": "https://www.bloodmoongames.cl/",
@@ -1034,6 +1046,7 @@
   {
    "name": "Cartonazo",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "1494 Gerónimo de Alderete, Vitacura, Región Metropolitana, 7630000, Chile",
    "phone": "56992778928",
    "website": "https://cartonazo.com/",
@@ -1045,6 +1058,7 @@
   {
    "name": "Casa de Juegos",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "2594 Av. Nueva Providencia Local 404, Providencia, Región Metropolitana, 7510007, Chile",
    "phone": "5699-448-5696",
    "website": "https://www.casadejuegos.cl/",
@@ -1128,6 +1142,7 @@
   {
    "name": "Command Center - Viña del Mar",
    "group": "unknown",
+   "city": "Viña del Mar",
    "address": "Arlegui 437, Viña del Mar, VS, 7500587, Chile",
    "phone": "+56-32-271-0814 ",
    "website": "https://wpn.wizards.com/en",
@@ -1275,6 +1290,7 @@
   {
    "name": "Dust 2",
    "group": "unknown",
+   "city": "Region Metropolitana",
    "address": "3098 Avenida Cristóbal Colón, Santiago, Region Metropolitana, 7510731, Chile",
    "phone": "56975628853",
    "website": "https://dust2.gg/",
@@ -1296,6 +1312,7 @@
   {
    "name": "El Desafío Cafetería",
    "group": "unknown",
+   "city": "Santiago",
    "address": "96 Av. Vicuña Mackenna, Providencia, Región Metropolitana, Santiago, 8320000, Chile",
    "phone": "56946100777",
    "website": "https://eldesafiostore.cl/",
@@ -1445,6 +1462,7 @@
   {
    "name": "Gaming Place",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "25 Freire, Buin, Región Metropolitana, 9500034, Chile",
    "phone": "569351-62451",
    "website": "http://www.gamingplace.cl",
@@ -1571,6 +1589,7 @@
   {
    "name": "Ilusiones Industriales",
    "group": "unknown",
+   "city": "San Felipe",
    "address": "Ramón Freire 128-104, San Felipe, VS, 2170000, Chile",
    "phone": "+563 4231 1327",
    "website": "https://wpn.wizards.com/en",
@@ -1601,6 +1620,7 @@
   {
    "name": "Iwa TCG & Other Hobbies",
    "group": "unknown",
+   "city": "Region de Valparaiso",
    "address": "Av Concon Reñana 41 Local 15, Concon, Region de Valparaiso, 2520000, Chile",
    "phone": "5656983926904",
    "website": "https://wpn.wizards.com/en",
@@ -1800,6 +1820,7 @@
   {
    "name": "Moii Juegos",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "489 Balmaceda, Puente Alto, Región Metropolitana, 8150000, Chile",
    "phone": "56971095390",
    "website": "https://www.moiijuegos.cl",
@@ -1811,6 +1832,7 @@
   {
    "name": "Moss Eisley",
    "group": "unknown",
+   "city": "Valparaíso",
    "address": "victoria 2486 local 10, Valparaíso, VS, 2340000, Chile",
    "phone": "56+56 3 2249 1190",
    "website": "https://wpn.wizards.com/en",
@@ -1822,6 +1844,7 @@
   {
    "name": "Moss Juegos",
    "group": "unknown",
+   "city": "Valparaíso",
    "address": "2330 Calle Independencia, Valparaíso, VS, 2340000, Chile",
    "phone": "56987548103",
    "website": "https://wpn.com",
@@ -2010,6 +2033,7 @@
   {
    "name": "Puente Elantris",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "1886 Walker Martínez, La Florida, Región Metropolitana, 8150215, CL",
    "phone": "56963538229",
    "website": "https://www.puenteelantris.cl/",
@@ -2030,6 +2054,7 @@
   {
    "name": "Rivendel",
    "group": "unknown",
+   "city": "Santiago",
    "address": "San antonio 65 local 0101, Santiago, RM, 8580000, Chile",
    "phone": "+562 2633 44 39 ",
    "website": "https://wpn.wizards.com/en",
@@ -2098,6 +2123,7 @@
   {
    "name": "Santiago Games",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "83 Paseo Ahumada local 322, Santiago, Región Metropolitana, 8320000, Chile",
    "phone": "56995800075",
    "website": "https://santiagogames.cl",
@@ -2109,6 +2135,7 @@
   {
    "name": "Santiago Games - Mesa 1",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "Av. Recoleta 901, Recoleta, Región Metropolitana, 8420231, Chile",
    "phone": "56995800075",
    "website": "http://www.mesa1.cl",
@@ -2184,6 +2211,7 @@
   {
    "name": "Spells TCG & Tableros",
    "group": "unknown",
+   "city": "Viña del Mar",
    "address": "Av Valparaiso 515, local 102 Portal Alamos., Viña del Mar, VS, 2520000, Chile",
    "phone": "569-5748-2827",
    "website": "https://magic.wizards.com/en",
@@ -2314,6 +2342,7 @@
   {
    "name": "Tienda Oops",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "832 Merced, Santiago, Región Metropolitana, 8320333, Chile",
    "phone": "5694529052",
    "website": "https://www.tiendaoops.cl/",
@@ -2348,6 +2377,7 @@
   {
    "name": "TODOFREAK LIMITADA",
    "group": "unknown",
+   "city": "PROVINCIA",
    "address": "1183 Av. Valparaíso Local 7, VIÑA DEL MAR, PROVINCIA, 2520000, CL",
    "phone": "56956338329",
    "website": "https://www.todofreak.cl",
@@ -2402,6 +2432,7 @@
   {
    "name": "Valhalla Store",
    "group": "unknown",
+   "city": "Región Metropolitana",
    "address": "2080 San Diego, Santiago, Región Metropolitana, 8361216, Chile",
    "phone": "56998347649",
    "website": "https://www.valhallastore.cl/",

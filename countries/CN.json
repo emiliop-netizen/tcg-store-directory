@@ -7,6 +7,7 @@
   {
    "name": "Hamleys",
    "group": "blocked",
+   "city": "Dong Cheng Qu",
    "region": "Bei Jing Shi",
    "address": "255 Wang Fu Jing Da Jie, Dong Cheng Qu, 100062",
    "phone": "010 6526 6108",
@@ -62,6 +63,7 @@
   {
    "name": "A.P. Plaza Tailor-Made & Clothes Market",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Pu Dong Xin Qu, Shi Ji Da Dao, 2002号亚太盛汇旅游购物广场 邮政编码: 201204",
    "checked_at": "2026-10-20T16:33:18Z"
@@ -69,6 +71,7 @@
   {
    "name": "Adidas",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "Jiao Tong Jie, Yu Zhong Qu, Chong Qing Shi, 400016",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -76,6 +79,7 @@
   {
    "name": "Adidas",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "127 Sheng Li Lu, 两路 Yu Bei Qu, Chong Qing Shi, 401124",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -83,6 +87,7 @@
   {
    "name": "Andingmen Baolange Stationery Shop",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "99 An Nei Da Jie, Dong Cheng Qu, Bei Jing Shi, 100011",
    "checked_at": "2026-10-20T16:33:22Z"
@@ -133,6 +138,7 @@
   {
    "name": "Beijing Kaili Kapai Shop",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "W8FF+HW2, Fu Cheng Lu, Hai Dian Qu, Bei Jing Shi, 100048",
    "checked_at": "2026-10-20T16:33:23Z"
@@ -140,6 +146,7 @@
   {
    "name": "Binka Entertainment",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Zhong Qu, Zhong Shan Er Lu, 174号附11号 邮政编码: 400015",
    "phone": "023 8130 5555",
@@ -210,6 +217,7 @@
   {
    "name": "Casio",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Dong Cheng Qu, Wang Fu Jing Da Jie, 东方新天地AA06a 邮政编码: 100006",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -236,6 +244,7 @@
   {
    "name": "CHAMPION HALL",
    "group": "in_store",
+   "city": "中国",
    "address": "香港銅鑼灣糖街15至23號銅鑼灣中心商場9樓903室, Hong Kong, Hong Kong SAR, 000000, 中国",
    "phone": "8592426164",
    "games_events": [
@@ -246,6 +255,7 @@
   {
    "name": "Chang'an Automobile Co.,Ltd.",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "260 Jian Xin Dong Lu, Jiang Bei Qu, Chong Qing Shi, 400020",
    "phone": "023 6759 2007",
@@ -262,6 +272,7 @@
   {
    "name": "Chaoneng Animation",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "69 Jiu Jiao Chang Lu, 四牌楼 Huang Pu Qu, Shang Hai Shi, 200010",
    "checked_at": "2026-10-20T16:33:18Z"
@@ -336,6 +347,7 @@
   {
    "name": "China Mobile International Trade Flagship Shop",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Wan Zhou Qu, 191, 正南方向40米 邮政编码: 404120",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -351,6 +363,7 @@
   {
    "name": "China Mobile Trade and Bus. Comm.",
    "group": "in_store",
+   "city": "重庆市 武隆区 芙蓉中路 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Wu Long Qu, CN 重庆市 武隆区 芙蓉中路 11 11号附10号 邮政编码: 408599",
    "phone": "188 9607 4789",
@@ -359,6 +372,7 @@
   {
    "name": "Chongqing Chang'an Trading Co., Ltd.",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "64 Jian Xin Dong Lu, Jiang Bei Qu, Chong Qing Shi, 400023",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -366,6 +380,7 @@
   {
    "name": "Chongqing Yaxun Commerce And Trade Devlopment Limited Company",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "HQ67+5QH, Xin Xing Jie, Da Zu Qu, Chong Qing Shi, 402384",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -381,6 +396,7 @@
   {
    "name": "CONFLUENCE",
    "group": "in_store",
+   "city": "Fat Lee Industrial Building",
    "address": "RM 607, 6/F, Fat Lee Industrial Building, 17 Hung To Road,",
    "phone": "+8526680 5329",
    "website": "https://www.facebook.com/ConfluenceMTGHK",
@@ -505,6 +521,7 @@
   {
    "name": "Fao Schwarz",
    "group": "in_store",
+   "city": "北京市 朝阳区 建国门外大街 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, CN 北京市 朝阳区 建国门外大街 1 1号国贸商城北区L1层NL1023-1027 邮政编码: 100020",
    "checked_at": "2026-10-20T16:33:20Z"
@@ -609,6 +626,7 @@
   {
    "name": "Fulite Wanjia Youbika Market",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 黄寺大街黄寺大街甲23-3 邮政编码: 100120",
    "checked_at": "2026-10-20T16:33:23Z"
@@ -627,6 +645,7 @@
   {
    "name": "GAME'S LAIR",
    "group": "in_store",
+   "city": "Vigor Industrial Bldg",
    "address": "RM 12, 14/F Block B, Vigor Industrial Bldg.",
    "phone": "+8529470 0777",
    "website": "https://www.facebook.com/GamesLair",
@@ -755,6 +774,7 @@
   {
    "name": "Hongqiao Market",
    "group": "in_store",
+   "city": "Dongcheng",
    "region": "Beijing",
    "address": "Dongcheng, China, 100062",
    "phone": "010 6713 3354",
@@ -796,6 +816,7 @@
   {
    "name": "Huangmao Articles for Amusement",
    "group": "in_store",
+   "city": "重庆市 永川区 星光大道 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yong Chuan Qu, CN 重庆市 永川区 星光大道 789 789号附6号1-41 邮政编码: 402171",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -803,6 +824,7 @@
   {
    "name": "Huyun Articles for Amusement",
    "group": "in_store",
+   "city": "重庆市 江北区 兴隆路 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Jiang Bei Qu, CN 重庆市 江北区 兴隆路 36 36号附30号 邮政编码: 400020",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -821,6 +843,7 @@
   {
    "name": "Island Board Game/小島桌遊",
    "group": "in_store",
+   "city": "Room D",
    "address": "Room D,4/F  Effort Industrial Building  2-8 KungYip Street,",
    "phone": "+852+85261717436",
    "website": "https://www.facebook.com/islandtcg",
@@ -857,6 +880,7 @@
   {
    "name": "Jiefangbei Pedestrian Street",
    "group": "in_store",
+   "city": "步行街重庆时代广场附近 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Zhong Qu, 步行街重庆时代广场附近 邮政编码: 400011",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -889,6 +913,7 @@
   {
    "name": "Jingxi Articles for Amusement Club",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Shi Jing Shan Qu, 103, 正东方向10米 邮政编码: 100041",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -933,6 +958,7 @@
   {
    "name": "K11",
    "group": "in_store",
+   "city": "徐汇区 Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "300 Huai Hai Zhong Lu, 徐汇区 Shang Hai Shi, 200021",
    "phone": "021 2310 3112",
@@ -941,6 +967,7 @@
   {
    "name": "Ka Dun Chao Pai Wanzhou Wanda Br.",
    "group": "in_store",
+   "city": "Wan Zhou Qu",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Wan Zhou Qu, 东南方向5米 CN 重庆市 万州区 2-1-49 邮政编码: 404188",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -948,6 +975,7 @@
   {
    "name": "Kadou Wanzhipai Franchise Store",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "W94C+2XG, Jiao Yu Jie, Xi Cheng Qu, Bei Jing Shi, 100031",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -971,6 +999,7 @@
   {
    "name": "Kapai Youxi Franchise Store",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "38 Tong Lin Ge Lu, Xi Cheng Qu, Bei Jing Shi, 100032",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -997,6 +1026,7 @@
   {
    "name": "League Castle - Mong Kok",
    "group": "in_store",
+   "city": "Canton Plaza",
    "address": "6/F, Canton Plaza , 1125-1127 Canton Road,",
    "phone": "+8522380 0316",
    "website": "https://www.facebook.com/LeagueCastleHK",
@@ -1008,6 +1038,7 @@
   {
    "name": "Lego",
    "group": "in_store",
+   "city": "Dong Cheng Qu",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Dong Cheng Qu, 5层 CN 北京市 东城区 王府井大街 88 88号in88商场 邮政编码: 100006",
    "checked_at": "2026-10-20T16:33:45Z"
@@ -1030,6 +1061,7 @@
   {
    "name": "Longemont",
    "group": "in_store",
+   "city": "Chang Ning Qu",
    "region": "Shang Hai Shi",
    "address": "1018 Chang Ning Lu, Chang Ning Qu, 200050",
    "phone": "021 6115 5555",
@@ -1066,6 +1098,7 @@
   {
    "name": "M3 Kapai Club",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "825-1 Bao Chang Lu, 825, Jing An Qu, Shang Hai Shi, 200081",
    "phone": "159 2149 3670",
@@ -1081,6 +1114,7 @@
   {
    "name": "Mi Home World Trade Tianjie Branch",
    "group": "in_store",
+   "city": "Chao Yang Qu",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 层1号CN 北京市 朝阳区 东大桥路 邮政编码: 100020",
    "phone": "010 5206 1012",
@@ -1100,6 +1134,7 @@
   {
    "name": "Mijing",
    "group": "in_store",
+   "city": "重庆市",
    "region": "重庆市",
    "address": "CN 重庆市, CXWV+952秀山土家族苗族自治县409999",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -1115,6 +1150,7 @@
   {
    "name": "MOX SAGA",
    "group": "in_store",
+   "city": "Jordan",
    "address": "Room 13A, Justen Centre, 44-52 Wai Ching Street, Jordan",
    "phone": "+85293013229",
    "website": "https://www.facebook.com/MTGSAGA",
@@ -1134,6 +1170,7 @@
   {
    "name": "Municipal Administration and Communications Card",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Dong Cheng Qu, 光明路1号-3 邮政编码: 100062",
    "checked_at": "2026-10-20T16:33:22Z"
@@ -1141,6 +1178,7 @@
   {
    "name": "Municipal Administration and Communications Card",
    "group": "in_store",
+   "city": "香河园路 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 香河园路 邮政编码: 100027",
    "checked_at": "2026-10-20T16:33:22Z"
@@ -1172,6 +1210,7 @@
   {
    "name": "One Hundred Percent Convenience Store",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "449 Huan Hu Xi Yi Lu, Pu Dong Xin Qu, Shang Hai Shi, 201308",
    "checked_at": "2026-10-20T16:33:20Z"
@@ -1210,6 +1249,7 @@
   {
    "name": "Pangzi Chess and Cards Supermarket",
    "group": "in_store",
+   "city": "Jiang Jin Qu",
    "region": "Chong Qing Shi",
    "address": "24 Hui Min Jie, 24, Jiang Jin Qu, 402260",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1233,6 +1273,7 @@
   {
    "name": "Pop Mart",
    "group": "in_store",
+   "city": "上海市 黄浦区 西藏中路 邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 西藏中路 268 268号来福士广场地下1层B1-11B 邮政编码: 200003",
    "checked_at": "2026-10-20T16:33:45Z"
@@ -1240,6 +1281,7 @@
   {
    "name": "Pop Mart",
    "group": "in_store",
+   "city": "使馆区CN 北京市 朝阳区 三里屯 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 使馆区CN 北京市 朝阳区 三里屯 B1 楼SLG-47 邮政编码: 100600",
    "checked_at": "2026-10-20T16:33:45Z"
@@ -1254,6 +1296,7 @@
   {
    "name": "Pop Mart Pop Mart Art Toy Heibiao Concept Store",
    "group": "in_store",
+   "city": "北京市",
    "region": "北京市",
    "address": "CN 北京市, WC9X+RWG朝阳区100020",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -1270,6 +1313,7 @@
   {
    "name": "Qi Qi Man Pin Animation Store",
    "group": "in_store",
+   "city": "重庆市 渝北区 红黄路 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Bei Qu, CN 重庆市 渝北区 红黄路 355 355号附57号 邮政编码: 401121",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1294,6 +1338,7 @@
   {
    "name": "Quan Netcom Mobile Phone Store Foreign Trade Business Hall",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "379 Ping Du Da Dao Dong Duan, Feng Du Xian, Chong Qing Shi, 408299",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1309,6 +1354,7 @@
   {
    "name": "Raffles City Chongqing",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "HH7Q+9CC, Chang Jiang Bin Jiang Lu, Chaotianmen, Yu Zhong Qu, Chong Qing Shi, 400013",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1316,6 +1362,7 @@
   {
    "name": "Raffles City Shanghai",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "268 Xi Zang Zhong Lu, Huang Pu Qu, Shang Hai Shi, 200003",
    "phone": "021 6340 3333",
@@ -1360,6 +1407,7 @@
   {
    "name": "Shanghai Game Jidi",
    "group": "in_store",
+   "city": "上海市 黄浦区 打浦路 邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 打浦路 8 8号海华商厦2层218 邮政编码: 200023",
    "phone": "021 5306 3358",
@@ -1368,6 +1416,7 @@
   {
    "name": "Shanghai Guan Jun Ka Pai",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "65 Gong Xing Lu, Jing An Qu, Shang Hai Shi, 200081",
    "phone": "139 1666 1187",
@@ -1434,6 +1483,7 @@
   {
    "name": "TCL王牌专卖店",
    "group": "in_store",
+   "city": "Chongqing",
    "region": "Chongqing",
    "address": "R3HF+633, Changshou District, Chongqing, 408132",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -1469,6 +1519,7 @@
   {
    "name": "The Play Card",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Hong Qiao Zhan, 2层1500 Shen Gui Lu, 1500, Min Hang Qu, Shang Hai Shi, 201106",
    "checked_at": "2026-10-20T16:33:18Z"
@@ -1476,6 +1527,7 @@
   {
    "name": "Three Natural Bridges",
    "group": "in_store",
+   "city": "Wulong District",
    "region": "Chongqing",
    "address": "CQHW+95R, Wulong District, 408513",
    "phone": "023 7779 4266",
@@ -1510,6 +1562,7 @@
   {
    "name": "Toy Shopping Mall",
    "group": "in_store",
+   "city": "杨家坪 Jiu Long Po Qu",
    "region": "Chong Qing Shi",
    "address": "25, Chong Qing Dong Wu Yuan, 杨家坪 Jiu Long Po Qu, 400051",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1528,6 +1581,7 @@
   {
    "name": "Toys R US",
    "group": "in_store",
+   "city": "上海市 长宁区 遵义路 邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Chang Ning Qu, CN 上海市 长宁区 遵义路 100 100号虹桥南丰城南区商场3层318 邮政编码: 200051",
    "phone": "021 6237 1283",
@@ -1544,6 +1598,7 @@
   {
    "name": "VIVITIX SANRIO",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 朝阳北路101号朝阳大悦城4楼09号铺 邮政编码: 100025",
    "checked_at": "2026-10-20T16:33:28Z"
@@ -1568,6 +1623,7 @@
   {
    "name": "Wanzhipai Daban Kapaidian",
    "group": "in_store",
+   "city": "北京市 西城区 新街口外大街 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, CN 北京市 西城区 新街口外大街 12 乙12 邮政编码: 100088",
    "phone": "010 6235 7659",
@@ -1682,6 +1738,7 @@
   {
    "name": "www.mtgmintcard.com",
    "group": "in_store",
+   "city": "Heep Kee Commercial Bldg",
    "address": "Flat B, 9/F, Heep Kee Commercial Bldg.",
    "phone": "+8522815 0097 ",
    "website": "https://www.facebook.com/mtgmintcard",
@@ -1700,6 +1757,7 @@
   {
    "name": "Xiao Ren Guo Qi Bao Wu",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yong Chuan Qu, 999, 正南方向10米 邮政编码: 402168",
    "checked_at": "2026-10-20T16:34:10Z"
@@ -1707,6 +1765,7 @@
   {
    "name": "Xiaoma Baoli",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Huang Pu Qu, 830, Nan Jing Dong Lu, 830号4楼第一百货商店 邮政编码: 200001",
    "checked_at": "2026-10-20T16:33:20Z"
@@ -1746,6 +1805,7 @@
   {
    "name": "Xingzhi Road Animation Kapai Store",
    "group": "in_store",
+   "city": "上海市 黄浦区 广西北路 邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 广西北路 248 248号百米香榭商业街3层308 邮政编码: 200001",
    "phone": "185 0208 4825",
@@ -1762,6 +1822,7 @@
   {
    "name": "Yabaocheng",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "19 Ri Tan Bei Lu, Chao Yang Qu, Bei Jing Shi, 100020",
    "phone": "010 8563 3336",
@@ -1826,6 +1887,7 @@
   {
    "name": "Zhongshu House",
    "group": "in_store",
+   "city": "杨家坪CN 重庆市 九龙坡区 杨家坪正街 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Jiu Long Po Qu, 杨家坪CN 重庆市 九龙坡区 杨家坪正街 68 68号中迪广场欧洲城时尚中心3/4F 邮政编码: 400069",
    "checked_at": "2026-10-20T16:34:13Z"
@@ -1879,6 +1941,7 @@
   {
    "name": "上海汇城卡牌玩具店",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Xu Hui Qu, 龙川北路153号 邮政编码: 200234",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -1886,6 +1949,7 @@
   {
    "name": "上海浦东外高桥丹舟商贸有限公司",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Pu Dong Xin Qu, 浦兴路488号 邮政编码: 200129",
    "phone": "021 5868 0091",
@@ -1894,6 +1958,7 @@
   {
    "name": "上海石库门贸易有限公司",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Xu Hui Qu, 吴中东路501号 邮政编码: 200052",
    "phone": "021 5459 0651",
@@ -1902,6 +1967,7 @@
   {
    "name": "东食贸易（上海）有限公司北京分公司",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 使馆区东三环北路甲19号嘉盛中心2505室 邮政编码: 100020",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -1927,6 +1993,7 @@
   {
    "name": "兰足文体卡牌店",
    "group": "in_store",
+   "city": "Beijing",
    "region": "Beijing",
    "address": "WFH9+MHG, Tuanjiehu, Chaoyang, Beijing, 100026",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -1945,6 +2012,7 @@
   {
    "name": "利清卡牌店",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 万源夹道18号旁 邮政编码: 100052",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -1971,6 +2039,7 @@
   {
    "name": "北京卡豆",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 佟麟阁路戊38号 邮政编码: 100032",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2034,6 +2103,7 @@
   {
    "name": "卡片商店",
    "group": "in_store",
+   "city": "琉璃厂东街 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 琉璃厂东街 邮政编码: 100031",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2151,6 +2221,7 @@
   {
    "name": "市政一卡通复兴门营业部",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 复兴门南大街2号C座 邮政编码: 100032",
    "phone": "010 6603 0392",
@@ -2207,6 +2278,7 @@
   {
    "name": "徕卡测距仪专卖店",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "Da Ping Zhi Lu, Daping, Yu Zhong Qu, Chong Qing Shi, 400016",
    "phone": "151 2396 2657",
@@ -2215,6 +2287,7 @@
   {
    "name": "德国维卡门窗科技维卡重庆办事处",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Bei Qu, 松牌路108 邮政编码: 401147",
    "phone": "023 6189 1675",
@@ -2276,6 +2349,7 @@
   {
    "name": "时光机集换式卡牌店",
    "group": "in_store",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "7FGR+JFG, Da Lian Xi Lu, Hong Kou Qu, Shang Hai Shi, 200083",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2313,6 +2387,7 @@
   {
    "name": "木鸟漫画 Wooden Bird Comic Store",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "97 Bei He Yan Da Jie, Dong Cheng Qu, Bei Jing Shi, 100164",
    "checked_at": "2026-10-20T16:33:30Z"
@@ -2370,6 +2445,7 @@
   {
    "name": "汇富通",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Pu Tuo Qu, 白兰路137弄1号绿洲广场A楼 13F 邮政编码: 200063",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2424,6 +2500,7 @@
   {
    "name": "片刻起雾动漫卡牌/AMoment Hobby Store",
    "group": "in_store",
+   "city": "Zhejiang",
    "address": "浙江省杭州市惠民路75-5号吴山商务综合楼东门605, Hangzhou, Zhejiang, 310001, China",
    "phone": "+8618767151164",
    "website": "https://www.facebook.com/profile.php?id=100090795777026",
@@ -2534,6 +2611,7 @@
   {
    "name": "耐克",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Zhong Qu, 民权路2号解放碑重百大楼 邮政编码: 400011",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2541,6 +2619,7 @@
   {
    "name": "耐克",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Jiang Bei Qu, 北城天街8号北城天街购物广场3层 邮政编码: 401147",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2548,6 +2627,7 @@
   {
    "name": "耐克",
    "group": "in_store",
+   "city": "青田家私商场（人民路） 邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Zhong Qu, Daxigou, 青田家私商场（人民路） 邮政编码: 400023",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2555,6 +2635,7 @@
   {
    "name": "耐克",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Nan An Qu, Sigongli, 南坪东路1号天龙广场重百南坪商场1B 邮政编码: 400066",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2562,6 +2643,7 @@
   {
    "name": "聚福卡",
    "group": "in_store",
+   "city": "大木仓胡同 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Xi Cheng Qu, 大木仓胡同 邮政编码: 100031",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2580,6 +2662,7 @@
   {
    "name": "茉莉花开",
    "group": "in_store",
+   "city": "深喜迪运商场内 邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Hong Kou Qu, 广灵二路,广灵二路与中山北一路路口西南角,沿广灵二路方向,深喜迪运商场内 邮政编码: 200083",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2598,6 +2681,7 @@
   {
    "name": "蜜糖卡牌桌游店",
    "group": "in_store",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "43 Bei San Huan Xi Lu, Shuangyushu, Hai Dian Qu, Bei Jing Shi, 100086",
    "phone": "010 6211 4608",
@@ -2638,6 +2722,7 @@
   {
    "name": "达拉然卡牌店",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Feng Tai Qu, Feng Tai Bei Lu, 79号冠京写字楼 邮政编码: 100161",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2645,6 +2730,7 @@
   {
    "name": "迪菲亚卡牌店",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Shang Hai Shi",
    "address": "Shang Hai Shi, Chang Ning Qu, 上海市长宁路988号花园大厦3楼A座 邮政编码: 200050",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2688,6 +2774,7 @@
   {
    "name": "阿迪达斯",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Zhong Qu, 民权路10号附4号 邮政编码: 400012",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2695,6 +2782,7 @@
   {
    "name": "阿迪达斯",
    "group": "in_store",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Bei Bei Qu, 中山路77号 邮政编码: 400715",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2702,6 +2790,7 @@
   {
    "name": "阿迪达斯",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "58 Nan Ping Xi Lu, Sigongli, Nan An Qu, Chong Qing Shi, 400066",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2709,6 +2798,7 @@
   {
    "name": "阿迪达斯三叶草",
    "group": "in_store",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "8 Bei Cheng Tian Jie, 洋河花园 Jiang Bei Qu, Chong Qing Shi, 401147",
    "checked_at": "2026-10-20T16:34:14Z"
@@ -2738,6 +2828,7 @@
   {
    "name": "鹏飞卡牌北京店",
    "group": "in_store",
+   "city": "Beijing",
    "address": "北京市西城区陶然亭街道中信禧园北区1号院1号楼底商1-6号, Beijing, Beijing, 100040, China",
    "phone": "8618511895105",
    "website": "https://www.facebook.com/share/v/14t3VSNXVz/",
@@ -2760,6 +2851,7 @@
   {
    "name": "123卡牌店/123TCG",
    "group": "unknown",
+   "city": "Jing'an District",
    "address": "上海市静安区江宁路街道西康路928号616, Shanghai, Jing'an District, 200060, China",
    "phone": "+8618600769977",
    "website": "https://www.youtube.com/watch?v=5lOCzhuPfhc&feature=youtu.be",
@@ -2771,6 +2863,7 @@
   {
    "name": "5号档案馆",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市普陀区中山北路2438号2505室, Shanghai, Shanghai, 200000, China",
    "phone": "8615000655770",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2783,6 +2876,7 @@
   {
    "name": "7221俱乐部",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京朝阳区百子湾东里403號沿海赛洛城底商403-106, Beijing, Chaoyang District, 100124, China",
    "phone": "+8613691071252",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2813,6 +2907,7 @@
   {
    "name": "Beijing Postcards",
    "group": "unknown",
+   "city": "Xi Cheng Qu",
    "region": "Bei Jing Shi",
    "address": "No 97 Yang Mei Zhu Xie Jie, Xi Cheng Qu, 100031",
    "phone": "130 1107 8680",
@@ -2822,6 +2917,7 @@
   {
    "name": "BTM超忆卡牌百米店",
    "group": "unknown",
+   "city": "Huangpu",
    "address": "上海市黄浦区浙江中路229号340（百米香榭3楼340超忆卡牌人广EDG卡牌分店）, Shanghai, Huangpu, 200001, China",
    "phone": "13061652531",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -2843,6 +2939,7 @@
   {
    "name": "COPTUS ARENA",
    "group": "unknown",
+   "city": "Yuzhong District",
    "address": "重庆市渝中区化龙桥街道华盛路6号6-3、6-2、6-1（L603、L605、L606）, Chongqing, Yuzhong District, 400000, China",
    "phone": "+8613350300217",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2855,6 +2952,7 @@
   {
    "name": "Diesel",
    "group": "unknown",
+   "city": "Chong Qing Shi",
    "region": "Chong Qing Shi",
    "address": "68 Zou Rong Lu, 解放碑商圈 Yu Zhong Qu, Chong Qing Shi, 400011",
    "website": "https://diesel.com/en-us/",
@@ -2864,6 +2962,7 @@
   {
    "name": "fRUITY SHOP",
    "group": "unknown",
+   "city": "天鹅湾 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 南区底商雅成三里, 天鹅湾 邮政编码: 100020",
    "website": "https://www.urbandictionary.com/define.php?term=fruity",
@@ -2873,6 +2972,7 @@
   {
    "name": "Gambit桌面社交空间（罗湖店）",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "广东省深圳市罗湖区东门街道东门社区人民北路一横街9号鸿展商城负一层--38/39/40号, Shenzhen, Guangdong, 518000, China",
    "phone": "8613380938170",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2885,6 +2985,7 @@
   {
    "name": "Games Workshop",
    "group": "unknown",
+   "city": "Shang Hai Shi",
    "region": "Shang Hai Shi",
    "address": "6F8F+MW8, Ma Dang Lu, Huang Pu Qu, Shang Hai Shi, 200020",
    "website": "https://www.games-workshop.com/",
@@ -2893,6 +2994,7 @@
   {
    "name": "GS Club",
    "group": "unknown",
+   "city": "Tongzhou District",
    "address": "北京市通州区口子村东1号院89号楼1层101, Beijing, Tongzhou District, 101116, China",
    "phone": "+8618611418633",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2913,6 +3015,7 @@
   {
    "name": "Jezero Forge",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市建邺区兴隆街道河西吾悦广场3幢407室, Nanjing, Jiangsu, 210036, China",
    "phone": "8613584043784",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2964,6 +3067,7 @@
   {
    "name": "M3卡牌俱乐部/M3 Club",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市静安区宝昌路825号101-1, Shanghai, Shanghai, 200092, China",
    "phone": "+8615921493670",
    "website": "https://www.cnwizards.com/stores/local",
@@ -2986,6 +3090,7 @@
   {
    "name": "MOX&LOTUS卡牌店/MOX&LOTUS",
    "group": "unknown",
+   "city": "Hebei Province",
    "address": "河北省廊坊市广阳区新世纪步行街第三大街196号, Langfang City, Hebei Province, 065000, China",
    "phone": "+8615333247777",
    "website": "https://space.bilibili.com/33375282",
@@ -2997,6 +3102,7 @@
   {
    "name": "NesT卡牌屋/Nest Card Store",
    "group": "unknown",
+   "city": "北京市",
    "address": "北京市昌平区燕平家园14号14-3-4, 北京市, 北京市, 100299, CHina",
    "phone": "+8613024165029",
    "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
@@ -3008,6 +3114,7 @@
   {
    "name": "P9卡牌/P9 CARD GAME",
    "group": "unknown",
+   "city": "Shenzhen",
    "address": "深圳市福田区八卦一路618栋425室, Shenzhen, 44, 518057, China",
    "phone": "+8613392838519",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3020,6 +3127,7 @@
   {
    "name": "P9荔枝屋/P9 Litchi House",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "广东省深圳市福田区新天世纪商务中心心B座608, Shenzhen City, Guangdong, 518000, China",
    "phone": "+8613590393963",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3041,6 +3149,7 @@
   {
    "name": "SANRIO",
    "group": "unknown",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "33 Guang Shun Bei Da Jie, Wangjing Subdistrict, Chao Yang Qu, Bei Jing Shi, 100102",
    "website": "https://www.sanrio.com.cn/",
@@ -3049,6 +3158,7 @@
   {
    "name": "SANRIO",
    "group": "unknown",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "138 Wang Fu Jing Da Jie, 东单 Dong Cheng Qu, Bei Jing Shi, 100006",
    "website": "https://www.sanrio.com.cn/",
@@ -3057,6 +3167,7 @@
   {
    "name": "Sanrio GIFT GATE",
    "group": "unknown",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Chao Yang Qu, 使馆区三里屯路三里屯VILLAGE南区SLG-55 邮政编码: 100600",
    "website": "https://www.sanriogiftgate.com.hk/",
@@ -3065,6 +3176,7 @@
   {
    "name": "Sanrio Shop",
    "group": "unknown",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "103 Nan Hu Bei Lu, Wangjing Subdistrict, Chao Yang Qu, Bei Jing Shi, 100102",
    "website": "https://shop.sanrio.co.jp/",
@@ -3092,6 +3204,7 @@
   {
    "name": "Surprise Outlets",
    "group": "unknown",
+   "city": "Chaoyang",
    "region": "Beijing",
    "address": "Chaoyang, China, 100018",
    "phone": "010 8434 0006",
@@ -3121,6 +3234,7 @@
   {
    "name": "TOYBOX桌游东门店",
    "group": "unknown",
+   "city": "Shenzhen",
    "address": "广东省深圳市罗湖区东门街道深南东路123号百货广场西座1001号, Shenzhen, 44, 518001, China",
    "phone": "+8613380322263",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3133,6 +3247,7 @@
   {
    "name": "UNDER ARMOUR",
    "group": "unknown",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Jiang Bei Qu, Guan Yin Qiao Bu Xing Jie, 9号新世纪百货6层 邮政编码: 401147",
    "phone": "023 8635 8131",
@@ -3167,6 +3282,7 @@
   {
    "name": "Zoom",
    "group": "unknown",
+   "city": "Bei Jing Shi",
    "region": "Bei Jing Shi",
    "address": "W9MM+46G, Di An Men Xi Da Jie, Shichahai, Xi Cheng Qu, Bei Jing Shi, 100035",
    "website": "https://www.zoom.com/",
@@ -3175,6 +3291,7 @@
   {
    "name": "一起桌游吧/Play board games together",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区悦秀路99号7层1单元701-1, Beijing, Haidian District, 100100, China",
    "phone": "+8613910905094",
    "website": "https://space.bilibili.com/33375282",
@@ -3186,6 +3303,7 @@
   {
    "name": "万物屋卡牌/Wanwu House Card Store",
    "group": "unknown",
+   "city": "Hebei Province",
    "address": "河北省廊坊市广阳区第四大街南内街B-256号, Langfang City, Hebei Province, '065000, China",
    "phone": "+8619568230006",
    "website": "https://space.bilibili.com/33375282",
@@ -3197,6 +3315,7 @@
   {
    "name": "上海幸运猫玩具/lucky cat toys",
    "group": "unknown",
+   "city": "Pudong New Area",
    "address": "上海市浦东新区曹路镇金海路2668弄金泰商务广场1号一层022室, Shanghai, Pudong New Area, 201209, China",
    "phone": "+8618017060773",
    "website": "https://space.bilibili.com/33375282",
@@ -3208,6 +3327,7 @@
   {
    "name": "中关村知春路万智牌店/Zhong Guan Cun Zhi Chun Road Card Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "海淀区知春路128号泛亚大厦一层102, Beijing, 11, 100086, China",
    "phone": "+8613681202367",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3220,6 +3340,7 @@
   {
    "name": "乃咿口道馆",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市虹口区四川北路1688号嘉宏印象荟3楼301-7, Shanghai, Shanghai, 200080, China",
    "phone": "8615317987149",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3232,6 +3353,7 @@
   {
    "name": "二次元空间",
    "group": "unknown",
+   "city": "Chongqing",
    "address": "重庆沙坪坝嘉多利广场22-3, Chongqing, 50, 400000, China",
    "phone": "+8613882288221",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3244,6 +3366,7 @@
   {
    "name": "亚伦国度",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市朝阳区亚运村街道安定路5号院北投购物公园潮街B1-087室, Beijing, Beijing, 10010, China",
    "phone": "8618518233826",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -3255,6 +3378,7 @@
   {
    "name": "信仰社/Faith MTG Club",
    "group": "unknown",
+   "city": "Baoshan District",
    "address": "上海市宝山区沪太路1933号4楼（宝山日月光中心）C403-C404, Shanghai, Baoshan District, 200436, China",
    "phone": "+8618601790011",
    "website": "https://space.bilibili.com/33375282",
@@ -3266,6 +3390,7 @@
   {
    "name": "元宇宙卡牌",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市东城区珠市口街道天鼎218文化金融园N1(园区北门左侧), Beijing, Beijing, 100050, China",
    "phone": "8613810288880",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3278,6 +3403,7 @@
   {
    "name": "冠军卡牌",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市静安区公兴路65号2楼, Shanghai, Shanghai, 200080, China",
    "phone": "+8613916661187",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3290,6 +3416,7 @@
   {
    "name": "北京博润苑商贸有限公司",
    "group": "unknown",
+   "city": "邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Dong Cheng Qu, Dongsi Subdistrict, Beijing, 东中街58号 邮政编码: 100010",
    "phone": "010 6554 6880",
@@ -3299,6 +3426,7 @@
   {
    "name": "北京卡豆卡牌专卖店/BeijinKadou Card Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市西城区西单横二条59号西单明珠7层7020鋪, Beijing, 11, 100055, China",
    "phone": "+86 13701382358",
    "website": "https://www.kadouevents.cn/",
@@ -3310,6 +3438,7 @@
   {
    "name": "北京开立卡牌",
    "group": "unknown",
+   "city": "Haiding Dist",
    "address": "北京市海淀区甘家口街道 景熙国际写字楼6层608, Beijing, Haiding Dist, 100037, China",
    "phone": "+8613521209657",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3322,6 +3451,7 @@
   {
    "name": "北京聚友TCG俱乐部",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区文慧园路6号院1号楼地下1层D107室, Beijing, Beijing, 100080, China",
    "phone": "8613520980326",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3334,6 +3464,7 @@
   {
    "name": "北境卡牌店/The Northen Land",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市朝阳区汤立路218号2层293, Beijing, 11, 100107, China",
    "phone": "+8618611859749",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3346,6 +3477,7 @@
   {
    "name": "千棠卡牌/Qiantangtangcard",
    "group": "unknown",
+   "city": "龙岗区",
    "address": "深圳市龙岗区吉华街心办啊道水径社区上水径布龙路(布吉段)233号振兴云谷A栋203-1, 深圳市, 龙岗区, 518112, China",
    "phone": "+8613410754756",
    "website": "https://space.bilibili.com/33375282",
@@ -3357,6 +3489,7 @@
   {
    "name": "南京码皮卡牌",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市秦淮区洪武路正洪大厦1506室, Nanjing, Jiangsu, 210005, China",
    "phone": "8615851894823",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3369,6 +3502,7 @@
   {
    "name": "南天门卡牌",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市玄武区新街口街道珠江路67号101室华利广场5楼5A05, NanjingN, Jiangsu, 210000, China",
    "phone": "8618951834594",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3381,6 +3515,7 @@
   {
    "name": "卡利欧丽泽店",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市丰台区丽泽天地7层卡利欧, Beijing, Beijing, 100071, China",
    "phone": "8618611505658",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3393,6 +3528,7 @@
   {
    "name": "卡利欧健德门店",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区万盛商务会馆西门 a 区 b1 层 07 卡利欧, Beijing, Beijing, 1000000, China",
    "phone": "8615522533729",
    "website": "https://space.bilibili.com/33375282",
@@ -3404,6 +3540,7 @@
   {
    "name": "卡利欧金源店",
    "group": "unknown",
+   "city": "Beijing",
    "address": "曙光街道远大路一号世纪金源西区五层漫街区卡利欧, Beijing, Beijing, 100097, China",
    "phone": "8613261583977",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3430,6 +3567,7 @@
   {
    "name": "卡研社/Card Research Club",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省南京市江北新区葛塘街道美利广场3-28-1, Nanjing City, Jiangsu Province, 210044, China",
    "phone": "+8619941568612",
    "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
@@ -3450,6 +3588,7 @@
   {
    "name": "卿月卡牌/Qingyue Card Store",
    "group": "unknown",
+   "city": "Tongzhou District",
    "address": "北京市通州区群芳中二路62号1层全部, Beijing, Tongzhou District, 100101, China",
    "phone": "+8618610041633",
    "website": "https://space.bilibili.com/33375282",
@@ -3461,6 +3600,7 @@
   {
    "name": "厉清卡牌店/Li Qing Card Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市西城区万源夹道18号, Beijing, Beijing, 100000, China",
    "phone": "+8613260268225",
    "website": "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fu%2F2643025570&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F130.0%20Safari%2F537.36&_rand=1792513976243&sudaref=",
@@ -3472,6 +3612,7 @@
   {
    "name": "反重力tcg/antigravitytcg",
    "group": "unknown",
+   "city": "河北省",
    "address": "河北省廊坊市广阳区新世纪步行街第四大街南内街二楼B241, 廊坊市, 河北省, 065000, China",
    "phone": "+8618301505450",
    "website": "https://space.bilibili.com/33375282",
@@ -3483,6 +3624,7 @@
   {
    "name": "君君的牌客窝/Packwar's Coffee & Boardgames Store",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市建邺区莫愁湖街道茶亭东街79号西祠街区创意产业园16栋4楼403室, Nanjing, Jiangsu, 210017, China",
    "phone": "+8613505173568",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3495,6 +3637,7 @@
   {
    "name": "启典卡牌/Qi dian Card Store",
    "group": "unknown",
+   "city": "Hubei",
    "address": "湖北省武汉市洪山区珞瑜路20号阜华大厦1栋D单元22A层D22A02B室, Wuhan, Hubei, 430070, China",
    "phone": "+8613986199378",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3507,6 +3650,7 @@
   {
    "name": "呆呆龙卡牌/slowdrake games",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区铸诚大厦A座316, Beijing, Haidian District, 100081, China",
    "phone": "+8618611939080",
    "website": "https://mp.weixin.qq.com/s/FnOhN-7BLZCodR5drMdthQ",
@@ -3518,6 +3662,7 @@
   {
    "name": "嗨豹球桌游",
    "group": "unknown",
+   "city": "Chongqing",
    "address": "重庆市沙坪坝区虎溪街道大学城艺德路13号富力五星名座3栋20-12, Chongqing, Chongqing, 401331, China",
    "phone": "861369869315",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3530,6 +3675,7 @@
   {
    "name": "多魔熊",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市虹口区瑞虹路188号月亮湾LG层多魔熊, Shanghai, Shanghai, 200086, China",
    "phone": "8615316673076",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3542,6 +3688,7 @@
   {
    "name": "大班卡牌店/Big Ban Card Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市西城区新街口外大街8号金丰和 D座五区101 , Beijing, 11, 100000, China",
    "phone": "+8613811810053",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3564,6 +3711,7 @@
   {
    "name": "奇愿卡牌/Qiyuan Card Store",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省镇江市句容经济开发园区华东科技1幢1112, Zhenjiang City, Jiangsu Province, 212400, China",
    "phone": "+8618233121336",
    "website": "https://space.bilibili.com/33375282",
@@ -3575,6 +3723,7 @@
   {
    "name": "奇点战棋（徐汇滨江店）",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市徐汇区东安路888号阳光滨江天地尚湾里B1层C25室, Shanghai, Shanghai, 200032, China",
    "phone": "8613381536686",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3587,6 +3736,7 @@
   {
    "name": "奈奈桌游/NaNa Game Club",
    "group": "unknown",
+   "city": "Shunyi District",
    "address": "北京市顺义区裕曦路9号院11号楼B101, Beijing, Shunyi District, 101318, China",
    "phone": "+8618513561719",
    "website": "https://space.bilibili.com/33375282",
@@ -3598,6 +3748,7 @@
   {
    "name": "奕霖小屋/Yilinxiaowu",
    "group": "unknown",
+   "city": "Hebei Province",
    "address": "河北省廊坊市广阳区华秋里地税局南楼4-102, Langfang City, Hebei Province, 065000, China",
    "phone": "+8618301505450",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3610,6 +3761,7 @@
   {
    "name": "奥秘桌游店",
    "group": "unknown",
+   "city": "武汉市",
    "address": "武汉市江汉区单洞三路东侧万科金色家园二期四楼416商铺, 武汉市, 34, 430000, China",
    "phone": "+8613995699990",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3622,6 +3774,7 @@
   {
    "name": "妃雅莉卡牌",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市朝阳区日坛北路19号雅宝城741, Beijing, Beijing, 100020, China",
    "phone": "8618210229711",
    "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
@@ -3633,6 +3786,7 @@
   {
    "name": "宝卡游艺(后海店)",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "广东省深圳市南山区后海滨路3288号深圳湾后海汇负一层47铺, Shenzhen, Guangdong, 518000, China",
    "phone": "8613538086897",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -3644,6 +3798,7 @@
   {
    "name": "宝卡游艺/BaoKa Game",
    "group": "unknown",
+   "city": "Guangdong Province",
    "address": "广东省深圳市南山区后海大道1021号银沙商务中心211, Shenzhen City, Guangdong Province, 518000, China",
    "phone": "+8613538086897",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -3655,6 +3810,7 @@
   {
    "name": "宝库卡牌",
    "group": "unknown",
+   "city": "Beijing",
    "address": "东城区崇文门外大街18号LG-1宝库卡牌, 北京市, Beijing, 100062, China",
    "phone": "+8613466345634",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3667,6 +3823,7 @@
   {
    "name": "客满得卡牌/Commander Card",
    "group": "unknown",
+   "city": "Hubei",
    "address": "湖北省武汉市汉阳区鹦鹉大道271号附23号, Wuhan City, Hubei, 430000, China",
    "phone": "+8618162775401",
    "website": "https://space.bilibili.com/33375282",
@@ -3678,6 +3835,7 @@
   {
    "name": "巴拉斯卡牌/Blastoderm00's TCG Shop",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省南京市栖霞区马群街道石狮路22号-1栋904室, Nanjing City, Jiangsu Province, 210000, China",
    "phone": "+8613601580310",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3690,6 +3848,7 @@
   {
    "name": "布斑卡牌/BU BAN Card Store",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市普陀区交通路2447弄A107室, Shanghai, 31, 200065, China",
    "phone": "+8617601382275",
    "website": "https://buban.club/",
@@ -3702,6 +3861,7 @@
   {
    "name": "帝企鹅卡牌朝阳大悦城店",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市朝阳区雅成二里18号楼-1层-106, Beijing, Beijing, 10010, China",
    "phone": "8618911737805",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3714,6 +3874,7 @@
   {
    "name": "幻想空间桌游店",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市鼓楼区江东街道华彩荟1楼底商幻D2-1想空间桌游店, Nanjing, Jiangsu, 210011, China",
    "phone": "+8615393125839",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3726,6 +3887,7 @@
   {
    "name": "庚原卡牌/Gengyuan Card Store",
    "group": "unknown",
+   "city": "Shijingshan District",
    "address": "北京市石景山区古城南街9号院6号楼1层3-8, Beijing, Shijingshan District, 100100, China",
    "phone": "+8618500089468",
    "website": "https://space.bilibili.com/33375282",
@@ -3737,6 +3899,7 @@
   {
    "name": "必提卡牌/BEST HIT CARDGAME CLUB",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市朝阳区黑庄户乡大鲁店一村2号二层A5-10室, Beijing, Beijing, 100000, China",
    "phone": "+8615901319310",
    "website": "https://space.bilibili.com/33375282",
@@ -3748,6 +3911,7 @@
   {
    "name": "恺源卡牌/Kaiyuan TCG",
    "group": "unknown",
+   "city": "Jing'an District",
    "address": "上海市静安区恒丰路218号现代交通商务大厦西区508室, Shanghai, Jing'an District, 200070, China",
    "phone": "+8613817896122",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3760,6 +3924,7 @@
   {
    "name": "成冶卡牌/Chengye Card Store",
    "group": "unknown",
+   "city": "Dongcheng District",
    "address": "北京市东城区珠市口东大街4号二层B1单元203号, Beijing, Dongcheng District, 100100, China",
    "phone": "+8613501018608",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3772,6 +3937,7 @@
   {
    "name": "成都MC万智牌店/ChengDu MasterCard Store",
    "group": "unknown",
+   "city": "Chengdu",
    "address": "四川成都市一环路南一段学府花园锦学阁 20楼D座, Chengdu, 51, 610000, China",
    "phone": "+8613880985731",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3784,6 +3950,7 @@
   {
    "name": "成都卡卡星",
    "group": "unknown",
+   "city": "Sichuan",
    "address": "四川省成都市锦江区桦彩路158号德必川报易园A131室, Chengdu, Sichuan, 610023, China",
    "phone": "8615328867820",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3796,6 +3963,7 @@
   {
    "name": "成都火花万智牌/Fire Spark",
    "group": "unknown",
+   "city": "Qingyang District",
    "address": "四川省成都市青羊区清江中路1号西源集2号楼3单元610室, Chengdu City, Qingyang District, 610041, China",
    "phone": "+8618190749116",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -3807,6 +3975,7 @@
   {
    "name": "扬州漫客俱乐部/ Yangzhou Manke Club",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省扬州市邗江区吉安路210号2楼, Yangzhou City, Jiangsu Province, 225000, China",
    "phone": "+8618611350113",
    "website": "https://b23.tv/43xof7i",
@@ -3818,6 +3987,7 @@
   {
    "name": "扬州牌客盟/Yangzhou Card Players League",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省扬州市邗江区江阳中路427号 明月澄生活广场三楼, Yangzhou, Jiangsu Province, 225000, China",
    "phone": "+8613023525997",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3830,6 +4000,7 @@
   {
    "name": "拂晓卡牌",
    "group": "unknown",
+   "city": "Sichuan",
    "address": "四川省成都市龙泉驿区大面街道新建路118号18栋32楼3225号, Chengdu, Sichuan, 610100, China",
    "phone": "8619150030845",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3842,6 +4013,7 @@
   {
    "name": "排谷fun/Paigu Fun",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区 朝阳北路17号常营华联购物中心 三层 F3-36, Beijing, Chaoyang District, 100024, China",
    "phone": "+8618665831180",
    "website": "https://space.bilibili.com/33375282",
@@ -3853,6 +4025,7 @@
   {
    "name": "旦玩桌游·卡牌",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市杨浦区五角场街道锦创路26号801, Shanghai, Shanghai, 200433, China",
    "phone": "8613127751423",
    "website": "https://space.bilibili.com/33375282",
@@ -3873,6 +4046,7 @@
   {
    "name": "时光卡藏（上海五角场）",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市杨浦区国宾路58号三楼, Shanghai, Shanghai, 200433, China",
    "phone": "8618101738107",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3885,6 +4059,7 @@
   {
    "name": "时光卡藏（北京通州）",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市通州区新华西街58号万达广场1号楼5层万达影城内, Beijing, Beijing, 101199, China",
    "phone": "8613911611004",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3897,6 +4072,7 @@
   {
    "name": "时光卡藏（成都锦华）",
    "group": "unknown",
+   "city": "Sichuan",
    "address": "四川省成都市锦江区锦华路一段68号万达广场三楼万达影城, Chengdu, Sichuan, 610000, China",
    "phone": "8613911611004",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3909,6 +4085,7 @@
   {
    "name": "易得趣卡牌",
    "group": "unknown",
+   "city": "Hubei Province",
    "address": "湖北省武汉市江岸区京汉大道义和巷金地京汉19031层D3号, Wuhan, Hubei Province, 430070, China",
    "phone": "+8613871218473",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3921,6 +4098,7 @@
   {
    "name": "星悦卡牌/Kirari's Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市顺义区裕曦路11号院2号楼106, Beijing, 11, 101318, China",
    "phone": "+8618511176448",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3933,6 +4111,7 @@
   {
    "name": "星懿卡牌/Virtous Star",
    "group": "unknown",
+   "city": "Jiangbei District",
    "address": "重庆市江北区观音桥街道红鼎国际b座2单元1616, Chongqing, Jiangbei District, 400000, China",
    "phone": "+8615933240301",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -3944,6 +4123,7 @@
   {
    "name": "星星卡牌/StarCardGame",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区百子园5号楼12层B单元1201, Beijing, Chaoyang District, 100101, China",
    "phone": "+8615810889825",
    "website": "https://b23.tv/43xof7i",
@@ -3955,6 +4135,7 @@
   {
    "name": "星际驿站卡牌/Interstellar Station Card Store",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区东大桥路8号院1号楼22层2606, Beijing, Chaoyang District, 100100, China",
    "phone": "+8613641272687",
    "website": "https://www.cnwizards.com/stores/local",
@@ -3982,6 +4163,7 @@
   {
    "name": "晴岚卡牌/CING-LAN Card Store",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省镇江市京口区中山东路18号京凌大厦1502号, Zhenjiang City, Jiangsu Province, 212000, China",
    "phone": "+8617398988096",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -3993,6 +4175,7 @@
   {
    "name": "暮光卡牌店/Mu Guang Card Game",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区上地东路35号颐泉汇一号楼211, Beijing, 11, 102208, China",
    "phone": "+8618604459779",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4005,6 +4188,7 @@
   {
    "name": "暴风玩具店",
    "group": "unknown",
+   "city": "Hangzhou",
    "address": "武林路100号鸿鼎商务楼300室, Hangzhou, 33, 310000, China",
    "phone": "+8613706710521",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4017,6 +4201,7 @@
   {
    "name": "木星桌游",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "广东省深圳市福田区莲花街道景田站C出口妇儿大厦，儿童探索馆5楼505, Shenzhen, Guangdong, 518034, China",
    "phone": "8617724695733",
    "website": "https://jupitergame.cn/",
@@ -4038,6 +4223,7 @@
   {
    "name": "枫树下桌游俱乐部／FSX",
    "group": "unknown",
+   "city": "Jiaxing City",
    "address": "嘉兴市南湖区经开龙港大厦B座三楼, Jiaxing City, 33, 314000, China",
    "phone": "+8615257382736",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4050,6 +4236,7 @@
   {
    "name": "桌迷藏桌游岗厦店/Meeplepedia-Gangxia Branch Shop",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "深圳市福田区福田街道福山社区彩田路2010号中深花园B1103, Shenzhen, Guangdong, 518000, China",
    "phone": "+8615131167600",
    "website": "https://space.bilibili.com/33375282",
@@ -4061,6 +4248,7 @@
   {
    "name": "桌迷藏桌游车公庙店/Meeplepedia-Chegongmiao Branch Shop",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "深圳市福田区沙头街道天安社区深南大道6009号NEO绿景广场C座13A, Shenzhen, Guangdong, 518000, China",
    "phone": "+8615131167600",
    "website": "https://space.bilibili.com/33375282",
@@ -4072,6 +4260,7 @@
   {
    "name": "棠盛卡牌/Tangshengcard",
    "group": "unknown",
+   "city": "广东省",
    "address": "广东省东莞市雁田村新园中路九巷三号1楼, 东莞市, 广东省, 523000, China",
    "phone": "+8618680664136",
    "website": "https://space.bilibili.com/33375282",
@@ -4083,6 +4272,7 @@
   {
    "name": "森林战棋/Forest Battle Chess",
    "group": "unknown",
+   "city": "Bao'an District",
    "address": "深圳市宝安区宝安大道3061号德信商务中心501A-1, Shenzhen, Bao'an District, 518100, China",
    "phone": "+8618503079948",
    "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F64e99be90000000001012b8b%3Fxhsshare%3DWeixinSession%26appuid%3D64e99be90000000001012b8b%26apptime%3D1726054502%26share_id%3D3ab36ed1b72f4ff0a53bfa6a82cbee06%26exSource%3Dnull",
@@ -4094,6 +4284,7 @@
   {
    "name": "模玩熊卡牌店",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市黄浦区南京东路340号 百联zx 创趣场 6楼 模玩熊卡牌店, Shanghai, Shanghai, 200120, China",
    "phone": "8617511670329",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4106,6 +4297,7 @@
   {
    "name": "橘子群岛",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市西城区马连道路6号6号楼6层708（鼎观大厦6层708B）, Beijing, Beijing, 100055, China",
    "phone": "8617610376977",
    "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
@@ -4117,6 +4309,7 @@
   {
    "name": "次元计画-深圳店/Dimension Plan - Shenzhen Store",
    "group": "unknown",
+   "city": "Guangdong Province",
    "address": "广东省深圳市宝安区新湖路99号壹方城B2-076K, Shenzhen, Guangdong Province, 518101, China",
    "phone": "+8613924004778",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4129,6 +4322,7 @@
   {
    "name": "欧域卡牌/Oycard",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市闵行区中春路8633弄20号(24幢) 510室(万科七宝国际), Shanghai, Shanghai, 201199, China",
    "phone": "+8617717082486",
    "website": "https://space.bilibili.com/33375282",
@@ -4140,6 +4334,7 @@
   {
    "name": "歆然卡牌/Xinran Card Store",
    "group": "unknown",
+   "city": "Shunyi District",
    "address": "北京市顺义区北小营镇水色时光花园5区底商101, Beijing, Shunyi District, 100000, China",
    "phone": "+8613811729062",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4172,6 +4367,7 @@
   {
    "name": "沃尔玛购物广场重庆两路金港国际分店",
    "group": "unknown",
+   "city": "邮政编码:",
    "region": "Chong Qing Shi",
    "address": "Chong Qing Shi, Yu Bei Qu, 胜利路129号金港国际广场 邮政编码: 401124",
    "phone": "023 6780 2866",
@@ -4181,6 +4377,7 @@
   {
    "name": "沉船桌游/Shipwreck Board Games",
    "group": "unknown",
+   "city": "Shaanxi Province",
    "address": "陕西省西安市莲湖区大兴东路MOCO2号楼12层21202室, Xi'an City, Shaanxi Province, 710065, China",
    "phone": "+8618691823370",
    "website": "https://space.bilibili.com/33375282",
@@ -4192,6 +4389,7 @@
   {
    "name": "泰豆",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市长宁区长宁路823号又又中心L305泰豆, Shanghai, Shanghai, 200050, China",
    "phone": "8618939831385",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4204,6 +4402,7 @@
   {
    "name": "泽萱卡牌/ZX card",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区朝外大街乙六号朝外SOHO，B座05069, Beijing, Chaoyang District, 100020, China",
    "phone": "+8613691591539",
    "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F64e99be90000000001012b8b%3Fxhsshare%3DWeixinSession%26appuid%3D64e99be90000000001012b8b%26apptime%3D1726054502%26share_id%3D3ab36ed1b72f4ff0a53bfa6a82cbee06%26exSource%3Dnull",
@@ -4215,6 +4414,7 @@
   {
    "name": "派可卡牌/Packwar Cardgame",
    "group": "unknown",
+   "city": "Jiangsu Province",
    "address": "江苏省南京市建邺区南湖东路81号, Nanjing City, Jiangsu Province, 210017, China",
    "phone": "+8613505173568",
    "website": "https://mp.weixin.qq.com/s/FnOhN-7BLZCodR5drMdthQ",
@@ -4226,6 +4426,7 @@
   {
    "name": "浪险X星野兔",
    "group": "unknown",
+   "city": "Guangdong",
    "address": "广东省深圳市盐田区海景二路1038-145壹海城一区121铺 星野兔咖啡, Shenzhen, Guangdong, 518021, China",
    "phone": "8613686884112",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4238,6 +4439,7 @@
   {
    "name": "淘沙桌游卡牌店/TAOSHA CARD SHOP",
    "group": "unknown",
+   "city": "Zhejiang Province",
    "address": "浙江省绍兴市上虞区崧厦街道高铁新城万达商业广场J4-A2地区A214, Shaoxing City, Zhejiang Province, 312300, China",
    "phone": "+8617557297144",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4268,6 +4470,7 @@
   {
    "name": "清澄桌游俱乐部/QING CHENG Board Game Club",
    "group": "unknown",
+   "city": "Qingpu District",
    "address": "上海市青浦区竹盈路339弄18幢44号601, Shanghai City, Qingpu District, 201799, China",
    "phone": "+8613817706015",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4289,6 +4492,7 @@
   {
    "name": "满足动漫桌游俱乐部",
    "group": "unknown",
+   "city": "Yuzhong District",
    "address": "重庆市渝中区石油路龙湖时代天街d馆11栋4039号, Chongqing City, Yuzhong District, 400000, China",
    "phone": "+8615086708087",
    "website": "https://b23.tv/43xof7i",
@@ -4300,6 +4504,7 @@
   {
    "name": "火花桌游",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市江宁区秣陵街道将军大道9号托乐嘉花园108幢513室, Nanjing, Jiangsu, 210000, China",
    "phone": "8618061431517",
    "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
@@ -4311,6 +4516,7 @@
   {
    "name": "炎舞",
    "group": "unknown",
+   "city": "Zhejiang",
    "address": "浙江省杭州市余杭区仓前街道未来研创园A幢A101, Hangzhou, Zhejiang, 311121, China",
    "phone": "8617758026590",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4323,6 +4529,7 @@
   {
    "name": "烈华桌游·卡牌",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市大兴区嘉悦广场7号楼1115, Beijing, Beijing, 100162, China",
    "phone": "8617611146199",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4335,6 +4542,7 @@
   {
    "name": "片场桌游卡牌俱乐部/Action Card Club",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区朝阳北路104号楼9层902, Beijing, Chaoyang District, 100000, China",
    "phone": "+8615811052161",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4347,6 +4555,7 @@
   {
    "name": "物语卡牌/Story Card Store",
    "group": "unknown",
+   "city": "Fengtai District",
    "address": "北京市丰台区马家堡西路15号时代风帆大厦2区1606, Beijing, Fengtai District, 100068, China",
    "phone": "+8615010353248",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4359,6 +4568,7 @@
   {
    "name": "特里斯汀桌游卡牌/Tristain Board Games & Cards",
    "group": "unknown",
+   "city": "Hubei Province",
    "address": "湖北省武汉市江岸区后湖大道统百中心B1306, Wuhan City, Hubei Province, 430000, China",
    "phone": "+8617786531715",
    "website": "https://space.bilibili.com/33375282",
@@ -4370,6 +4580,7 @@
   {
    "name": "猎人桌游吧-中关村店/Hunter board game ZGC",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区苏州街12号12-5号楼1层S-110, Beijing, Haidian District, 100080, China",
    "phone": "+8615201364355",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4382,6 +4593,7 @@
   {
    "name": "王府井卡牌/Wang Fu Jing Card Store",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市东城区王府井大街218-1号北方佳苑写字间C410, Beijing, Beijing, 100000, China",
    "phone": "+8613683296624",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4394,6 +4606,7 @@
   {
    "name": "玖门TCG club/Jiumen tcgclub",
    "group": "unknown",
+   "city": "Qingyang District",
    "address": "四川省成都市青羊区光华东三路中铁西城写字楼4栋611, Chengdu City, Qingyang District, 610000, China",
    "phone": "+8613628045306",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4406,6 +4619,7 @@
   {
    "name": "玛丽与鼠桌游/Mary and Mouse",
    "group": "unknown",
+   "city": "Sichuan Province",
    "address": "四川省成都市武侯区一环路西一段130号索尔国际2305, Chengdu City, Sichuan Province, 610000, China",
    "phone": "+8615208263440",
    "website": "https://space.bilibili.com/33375282",
@@ -4417,6 +4631,7 @@
   {
    "name": "玛雅源卡牌",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市徐汇区中山西路凯托大厦309室, Shanghai, Shanghai, 200030, China",
    "phone": "+8618601787756",
    "website": "https://space.bilibili.com/33375282",
@@ -4428,6 +4643,7 @@
   {
    "name": "球星卡专营店",
    "group": "unknown",
+   "city": "黄化门街 邮政编码:",
    "region": "Bei Jing Shi",
    "address": "Bei Jing Shi, Dong Cheng Qu, 黄化门街 邮政编码: 100009",
    "website": "https://www.jd.com/brand/167288dbcbfd80fb8330.html",
@@ -4436,6 +4652,7 @@
   {
    "name": "申夜卡堂",
    "group": "unknown",
+   "city": "Shanghai City",
    "address": "上海市黄浦区陆家浜路1100号裙房2层201-204室, Shanghai City, 31, 200011, China",
    "phone": "+8615317878321",
    "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
@@ -4447,6 +4664,7 @@
   {
    "name": "百忍潮玩＆哆来玩吧卡牌电竞馆（龙华会店）",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "徐汇区龙华街道龙华路2778号龙华会商场南区一楼靠近河边C5L1S04商铺百忍潮玩&哆来玩吧, Shanghai, Shanghai, 200000, China",
    "phone": "8618017548294",
    "website": "https://verify.meituan.com/v2/app/general_page?requestCode=04c4a730db4b4f648ec08024372be0c7&adaptor=auto&action=spiderindefence&succCallbackUrl=https%3A%2F%2Foptimus-mtsi.meituan.com%2Foptimus%2FverifyResult%3ForiginUrl%3Dhttps%253A%252F%252Fm.dianping.com%252Fshop%252FH6mzYvMAmoVSE7kA&theme=dianping",
@@ -4468,6 +4686,7 @@
   {
    "name": "真橙卡牌",
    "group": "unknown",
+   "city": "海淀区",
    "address": "北京市海淀区学清路8号科技财富中心B座1501A, 北京市, 海淀区, 100085, China",
    "phone": "+8615510730010",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4480,6 +4699,7 @@
   {
    "name": "福田乐启桌游咖啡",
    "group": "unknown",
+   "city": "Guangdong Province",
    "address": "广东省深圳市福田区福田街道岗厦社区金田路3038号现代商务大厦3001, Shenzhen, Guangdong Province, 518000, China",
    "phone": "+8613424404621",
    "website": "https://space.bilibili.com/33375282",
@@ -4506,6 +4726,7 @@
   {
    "name": "繁言卡牌",
    "group": "unknown",
+   "city": "Zhejiang Province",
    "address": "浙江省杭州市临安区锦北街道武肃街609号, Hangzhou City, Zhejiang Province, 311300, China",
    "phone": "+8615372232039",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -4517,6 +4738,7 @@
   {
    "name": "羽栗卡牌/YURICARDSHOP",
    "group": "unknown",
+   "city": "Guangdong Province",
    "address": "惠州市惠城区东平二街9号光耀荷兰水乡花园(五期二组团花语岸)商务中心2层01号, Huizhou City, Guangdong Province, 516001, China",
    "phone": "+8615018096077",
    "website": "https://space.bilibili.com/33375282",
@@ -4528,6 +4750,7 @@
   {
    "name": "翻云卡牌店/Fan Yun Card Store",
    "group": "unknown",
+   "city": "Nanjing",
    "address": "南京市玄武区新街口街道如意里7号103室, Nanjing, 32, 210018, China",
    "phone": "+8613951890345",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4540,6 +4763,7 @@
   {
    "name": "腰花战棋卡牌俱乐部 /Waist Flower Battle Chess",
    "group": "unknown",
+   "city": "Zhejiang Province",
    "address": "浙江省杭州市拱墅区东新街道机场路163号沁园雅舍商务馆909, Hangzhou City, Zhejiang Province, 310000, China",
    "phone": "+8618368815442",
    "website": "https://space.bilibili.com/33375282",
@@ -4551,6 +4775,7 @@
   {
    "name": "艾斯兰德桌游",
    "group": "unknown",
+   "city": "Sichuan",
    "address": "四川省成都市锦江区航空路7号华尔兹广场b座2203, Chengdu, Sichuan, 610011, China",
    "phone": "+8613330995646",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4563,6 +4788,7 @@
   {
    "name": "英雄卡牌/Hero Card Store",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区东大桥路8号院1号楼2606A, Beijing, Chaoyang District, 100100, China",
    "phone": "+8619120000620",
    "website": "https://space.bilibili.com/33375282",
@@ -4574,6 +4800,7 @@
   {
    "name": "菠萝屋卡牌/Boluowu Card Store",
    "group": "unknown",
+   "city": "Anhui Province",
    "address": "安徽省马鞍山市雨山区安民街道马鞍山市博物馆东门东北50米（菠萝屋卡牌）, Ma'anshan City, Anhui Province, 243000, China",
    "phone": "+8617330670776",
    "website": "https://space.bilibili.com/33375282",
@@ -4585,6 +4812,7 @@
   {
    "name": "萌鲸卡牌桌游",
    "group": "unknown",
+   "city": "Jiaxing",
    "address": "浙江省嘉兴市南湖区建设街道勤俭路1005号禾城商务大厦611, Jiaxing, 33, 314000, China",
    "phone": "+8618606737798",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4597,6 +4825,7 @@
   {
    "name": "蒂企鹅桌游吧/Tui Penguin",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区复兴路47号3层306号, Beijing, Haidian District, 100036, China",
    "phone": "+8613641272687",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4609,6 +4838,7 @@
   {
    "name": "蔷薇龙",
    "group": "unknown",
+   "city": "Zhejiang",
    "address": "杭州市龙潭路7号未来研创园A栋310, Hangzhou, Zhejiang, 310000, China",
    "phone": "8613157199955",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -4620,6 +4850,7 @@
   {
    "name": "薄荷喵卡/Bo He",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区垡头街道双合北街10号楼合憬荟3层311, Beijing, Chaoyang District, 100023, China",
    "phone": "+8618301505450",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4632,6 +4863,7 @@
   {
    "name": "蚌棒屋卡牌club/BangBangWu Club",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区百子湾东里406号楼1层104室A-06, Beijing, Chaoyang District, 100000, China",
    "phone": "+8618811280703",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4644,6 +4876,7 @@
   {
    "name": "诚创卡牌/Chengchuangcard",
    "group": "unknown",
+   "city": "广东省",
    "address": "广东省深圳市龙岗区平湖街道禾花社区华南大道一号华南国际纺织服装原辅料物流区二期1A-085, 深圳市, 广东省, 518111, China",
    "phone": "+8618680664136",
    "website": "https://space.bilibili.com/33375282",
@@ -4655,6 +4888,7 @@
   {
    "name": "谜藏小小桌游图书馆",
    "group": "unknown",
+   "city": "Hangzhou",
    "address": "平海路58号平海旺角807, Hangzhou, 33, 310006, China",
    "phone": "+8619857417336",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4667,6 +4901,7 @@
   {
    "name": "赛弗桌游/Zephyr Boardgame & Cafe",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "杨浦区武川路学府街65号, Shanghai, 31, 200434, China",
    "phone": "+8618918996888",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4679,6 +4914,7 @@
   {
    "name": "赛高卡牌南京店",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省南京市秦淮区水平方购物广场-1层B1-13, Nanjing, Jiangsu, 210000, China",
    "phone": "8618020132513",
    "website": "https://pan.quark.cn/s/50c89746eedc",
@@ -4690,6 +4926,7 @@
   {
    "name": "超忆卡牌滨江大道店",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市浦东新区滨江大道1368号B1, Shanghai, Shanghai, 200120, China",
    "phone": "+8615821894923",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4702,6 +4939,7 @@
   {
    "name": "超玩俱乐部/Chaowan Club",
    "group": "unknown",
+   "city": "Baoshan District",
    "address": "上海市宝山区一二八纪念路968号1号楼2017室, Shanghai, Baoshan District, 200435, China",
    "phone": "+8615921119793",
    "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
@@ -4713,6 +4951,7 @@
   {
    "name": "趣集卡",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市闵行区罗锦路218号麦腾未来城5号楼110A（外侧）, Shanghai, Shanghai, 200120, China",
    "phone": "8618717757573",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4725,6 +4964,7 @@
   {
    "name": "速博卡牌桌游俱乐部/Su Bo Card and Board Game Club",
    "group": "unknown",
+   "city": "Chaoyang District",
    "address": "北京市朝阳区十羽汇B112, Beijing, Chaoyang District, 100022, China",
    "phone": "+8618310986309",
    "website": "https://www.baidu.com/",
@@ -4736,6 +4976,7 @@
   {
    "name": "酷玩桌游",
    "group": "unknown",
+   "city": "Hubei",
    "address": "湖北省武汉市国际会展中心西金字塔负2层星空天下内, Wuhan, Hubei, 430312, China",
    "phone": "+8613871062453",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4748,6 +4989,7 @@
   {
    "name": "野蛮人桌面竞技俱乐部",
    "group": "unknown",
+   "city": "Shanghai",
    "address": "上海市虹口区惠民路36号百空间永兴仓库副楼F315室, Shanghai, Shanghai, 200080, China",
    "phone": "8618964815597",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4770,6 +5012,7 @@
   {
    "name": "集石俱乐部",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区北四环西路方正国际大厦6层602, Beijing, 11, 100080, China",
    "phone": "+8613910811997",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4782,6 +5025,7 @@
   {
    "name": "静电森林/Statica Forest",
    "group": "unknown",
+   "city": "Dongcheng District",
    "address": "北京市东城区方家胡同46号院E108, Beijing, Dongcheng District, 100007, China",
    "phone": "8618601297191",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4794,6 +5038,7 @@
   {
    "name": "顶尖玩家/Dingjianwanjia",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区羊坊店街道18号光耀东方大厦N座626, Beijing, Haidian District, 100086, China",
    "phone": "+86 18515635240",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4806,6 +5051,7 @@
   {
    "name": "顶尖玩家/Top players",
    "group": "unknown",
+   "city": "Haidian District",
    "address": "北京市海淀区羊坊店路18号光耀东方广场N座5层522号, Beijing, Haidian District, 100038, China",
    "phone": "+8615010327852",
    "website": "https://b23.tv/43xof7i",
@@ -4817,6 +5063,7 @@
   {
    "name": "顶峰聚流卡牌研究所/Dingfeng Juliu Card Research Institute",
    "group": "unknown",
+   "city": "Chongqing",
    "address": "重庆市江北区朗晴广场B塔38楼2号, Jiangbei District, Chongqing, 400000, China",
    "phone": "+8613368296125",
    "website": "https://space.bilibili.com/33375282",
@@ -4828,6 +5075,7 @@
   {
    "name": "魔力聚流",
    "group": "unknown",
+   "city": "Jiangsu",
    "address": "江苏省扬州市邗江区文汇西路394号, Yangzhou, Jiangsu, 225000, China",
    "phone": "8617849323322",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -4839,6 +5087,7 @@
   {
    "name": "魔晶卡牌",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区强佑清河新城B座916室, Beijing, Beijing, 100085, China",
    "phone": "+8618600195182",
    "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
@@ -4850,6 +5099,7 @@
   {
    "name": "鱼骰桌游",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区魏公村路6号院1号楼地下二层B2-39、B2-40, Beijing, Beijing, 100081, China",
    "phone": "8618710138165",
    "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
@@ -4861,6 +5111,7 @@
   {
    "name": "鲸梦桌游中关村店",
    "group": "unknown",
+   "city": "Beijing",
    "address": "北京市海淀区中关村大街15号15-17号-01层地下室, Beijing, Beijing, 10010, China",
    "phone": "8613810637458",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4873,6 +5124,7 @@
   {
    "name": "鲸梦桌游社/Whale Dream Board Game store",
    "group": "unknown",
+   "city": "Tongzhou District",
    "address": "北京市通州区海盛一街2号院1号楼(14楼)5层548, Beijing, Tongzhou District, 10010, China",
    "phone": "+8613103933726",
    "website": "https://space.bilibili.com/33375282",
@@ -4899,6 +5151,7 @@
   {
    "name": "鸿儒卡牌/Hongru Card Club",
    "group": "unknown",
+   "city": "Zhejiang Province",
    "address": "浙江省杭州市上城区城星路尊宝大厦银尊3316, Hangzhou City, Zhejiang Province, 310000, China",
    "phone": "+8615669481773",
    "website": "https://space.bilibili.com/33375282",
@@ -4910,6 +5163,7 @@
   {
    "name": "鹏洛客卡牌俱乐部/Planeswalker Cards",
    "group": "unknown",
+   "city": "Hubei",
    "address": "湖北省武汉市汉阳区世茂锦绣长江三期9号楼商铺2层6室, Wuhan, Hubei, 430070, China",
    "phone": "+8613871218473",
    "website": "https://www.cnwizards.com/stores/local",
@@ -4934,6 +5188,7 @@
   {
    "name": "麻袋怪兽/Sack Monster",
    "group": "unknown",
+   "city": "Xicheng District",
    "address": "北京市西城区月坛街道白云路6号云起时珍宝花园A座B1-21, Beijing, Xicheng District, 100045, China",
    "phone": "+8613661396665",
    "website": "https://www.cnwizards.com/stores/local",

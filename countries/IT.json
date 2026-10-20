@@ -18,6 +18,7 @@
   {
    "name": "CarteMagic",
    "group": "login_required",
+   "city": "Lombardia",
    "region": "Lombardia",
    "address": "21 Via XXV Aprile, Scanzorosciate, Lombardia, 24020, Italy",
    "phone": "+390350482925",
@@ -87,6 +88,7 @@
   {
    "name": "Magic Time - Lugo",
    "group": "quote_only",
+   "city": "Emilia-Romagna",
    "address": "42 Via Mentana, Lugo, Emilia-Romagna, 48022, Italy",
    "phone": "+39054534060",
    "website": "https://www.magictime.it/",
@@ -126,6 +128,7 @@
   {
    "name": "Urugames",
    "group": "quote_only",
+   "city": "Guidonia Montecelio",
    "address": "Via Roma 149b, Guidonia Montecelio, RM, 00012, Italy",
    "phone": "+393716327982",
    "website": "https://urugames.it/",
@@ -139,6 +142,7 @@
   {
    "name": "Arcanum",
    "group": "blocked",
+   "city": "Pomigliano d'Arco",
    "address": "Via Fiume, 33A, Pomigliano d'Arco , NA, 80038, Italy",
    "phone": "+393803685563",
    "website": "https://www.arcanumfumetteria.it/",
@@ -183,6 +187,7 @@
   {
    "name": "Chimera Trading",
    "group": "blocked",
+   "city": "Campania",
    "address": "3 Via Galdo Francesco, Salerno, Campania, 84126, Italy",
    "phone": "+393927119906",
    "website": "https://chimeratrading.sumupstore.com/",
@@ -497,6 +502,7 @@
   {
    "name": "GameStop",
    "group": "blocked",
+   "city": "Marcianise",
    "region": "Campania",
    "address": "Località Aurno, 87, 81025 Marcianise CE",
    "phone": "0823 128 0041",
@@ -563,6 +569,7 @@
   {
    "name": "Kaos Tech",
    "group": "blocked",
+   "city": "Milano",
    "address": "via 1 Maggio, 14, Magenta, Milano, 20013, Italy",
    "phone": "+393475744745",
    "website": "https://www.kaostech.net",
@@ -574,6 +581,7 @@
   {
    "name": "Kodama hobbygame",
    "group": "blocked",
+   "city": "DAMIANO D'ASTI",
    "address": "Via Bernardo Cartello 11/a, SAN DAMIANO D'ASTI, AT, 14015, Italy",
    "phone": "+393458028015",
    "website": "https://kodamahobbygame.sumupstore.com/",
@@ -618,6 +626,7 @@
   {
    "name": "LivinGame",
    "group": "blocked",
+   "city": "Piemonte",
    "address": "30 Via Antonio Cantova, Verbania, Piemonte, 28921, Italy",
    "phone": "+393792705090",
    "website": "https://livingame.sumupstore.com/",
@@ -718,6 +727,7 @@
   {
    "name": "Star Shop My World Grande Sud",
    "group": "blocked",
+   "city": "Via Santa Maria a Cubito",
    "region": "Campania",
    "address": "Via Santa Maria a Cubito, 80014 Giugliano in Campania NA",
    "phone": "081 1818 3281",
@@ -760,6 +770,7 @@
   {
    "name": "TcgPoint - Offtime",
    "group": "blocked",
+   "city": "Roma",
    "address": "Via Appia Nuova, 675,, Roma, Roma, 00179, Italy",
    "phone": "+393298505563",
    "website": "https://www.ufficiocamerale.it/9795/off-time-srl",
@@ -781,6 +792,7 @@
   {
    "name": "16 Games - Neverland",
    "group": "in_store",
+   "city": "Santa Maria delle Mole",
    "address": "Via della Repubblica 38/a1, Santa Maria delle Mole, RM, 00040, Italy",
    "phone": "+3906 8370 8374",
    "website": "https://www.facebook.com/16GamesNeverland/?locale=it_IT",
@@ -792,6 +804,7 @@
   {
    "name": "3 assi store",
    "group": "in_store",
+   "city": "Civitavecchia",
    "address": "Via Alberto Mario 9, Civitavecchia, RM, 00053, Italy",
    "phone": "393806467179",
    "games_events": [
@@ -846,6 +859,7 @@
   {
    "name": "Adventure's Time",
    "group": "in_store",
+   "city": "roma",
    "address": "via dei latini 12, Nettuno, roma, 00048, italy",
    "phone": "+393762791760",
    "website": "https://www.facebook.com/profile.php?id=61576148430743",
@@ -857,6 +871,7 @@
   {
    "name": "ADVENTURES CHIVASSO",
    "group": "in_store",
+   "city": "TORINO",
    "address": "VIA SAN CARLO 35/A, CHIVASSO, TORINO, 10034, Italy",
    "phone": "+393793346167",
    "website": "https://www.instagram.com/adventureschivasso?igsh=aG96MzVqY2tpb3Zh",
@@ -905,6 +920,7 @@
   {
    "name": "Alecardsandgame",
    "group": "in_store",
+   "city": "Leini",
    "region": "Piemonte",
    "address": "Via Roveglia Ruffini, 10040 Leini TO",
    "phone": "327 999 0561",
@@ -943,6 +959,7 @@
   {
    "name": "Arcade vintage verona srls",
    "group": "in_store",
+   "city": "Cerea",
    "region": "Veneto",
    "address": "Via Isolella S. P., 134, 37053 Cerea VR",
    "phone": "345 789 4270",
@@ -964,6 +981,7 @@
   {
    "name": "Arcadia Comics And Games Mazzetta",
    "group": "in_store",
+   "city": "Liguria",
    "address": "83 Via Severino Ferrari, La Spezia, Liguria, 19124, Italy",
    "phone": "393494701771",
    "website": "https://www.facebook.com/arcadiacgmazzetta",
@@ -1004,6 +1022,7 @@
   {
    "name": "Aura Tcg",
    "group": "in_store",
+   "city": "Roma",
    "address": "via dell'olmata 25a, nettuno, Roma, 00048, Italy",
    "phone": "+393881017176",
    "website": "https://www.instagram.com/auratcg_nettuno/#",
@@ -1024,6 +1043,7 @@
   {
    "name": "B Games Bologna",
    "group": "in_store",
+   "city": "Bologna",
    "address": "Via Aurelio Saffi 15, Bologna, BO, 40100, Italy",
    "phone": "+39(0)5 128 19702",
    "website": "https://www.instagram.com/bgamesbologna",
@@ -1035,6 +1055,7 @@
   {
    "name": "Bankai",
    "group": "in_store",
+   "city": "Liguria",
    "address": "78 Via Giuseppe Mazzini, Rapallo, Liguria, 16035, Italy",
    "phone": "+393381506158",
    "website": "https://www.instagram.com/bankai.rapallo/",
@@ -1107,6 +1128,7 @@
   {
    "name": "Black Lotus",
    "group": "in_store",
+   "city": "Abbiategrasso",
    "address": "Galleria Mirabello 11/a, Abbiategrasso, AG, 20081, Italy",
    "phone": "+39(0)25 030-6065",
    "website": "https://www.facebook.com/BlackLotus.cardstore/",
@@ -1275,6 +1297,7 @@
   {
    "name": "CardGameShop Salerno",
    "group": "in_store",
+   "city": "Salerno",
    "address": "Corso Garibaldi  31, Salerno, SA, 84123, Italy",
    "phone": "+390899319579",
    "website": "https://www.instagram.com/cardgameshopsalerno/",
@@ -1338,6 +1361,7 @@
   {
    "name": "Cartazzam",
    "group": "in_store",
+   "city": "Brescia",
    "address": "Via Caporalino 9/11, Gussago, Brescia, 25064, Italy",
    "phone": "+393471851257",
    "website": "https://www.facebook.com/cartazzam",
@@ -1349,6 +1373,7 @@
   {
    "name": "Carte da Matti",
    "group": "in_store",
+   "city": "Porlezza",
    "address": "Via Madonnina, 5, Porlezza, CO, 22018, Italy",
    "phone": "+393755668016",
    "website": "https://www.instagram.com/cartedamatti?igsh=MXRqZm43a2F2bW9ndg%3D%3D",
@@ -1428,6 +1453,7 @@
   {
    "name": "Check Point - Gallarate",
    "group": "in_store",
+   "city": "Gallarate",
    "address": "Via G Parini 8, Gallarate, VA, 21013, Italy",
    "phone": "+39(0)331 149 7530",
    "website": "https://www.facebook.com/checkpoint.gallarate.fumetteria",
@@ -1532,6 +1558,7 @@
   {
    "name": "Comics Heaven",
    "group": "in_store",
+   "city": "Monopoli",
    "address": "Via Vittorio Veneto, 1, Monopoli, BA, 70043, Italy",
    "phone": "+393758475018",
    "website": "https://www.instagram.com/comicsheavenmonopoli/",
@@ -1556,6 +1583,7 @@
   {
    "name": "Comics Tower",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "6 Via Guglielmo Marconi, Stradella, Lombardia, 27049, Italy",
    "phone": "+393315354440",
    "website": "https://www.instagram.com/comicstower?igshid=MzRlODBiNWFlZA%3D%3D",
@@ -1609,6 +1637,7 @@
   {
    "name": "Comix&Cream",
    "group": "in_store",
+   "city": "Sicilia",
    "address": "201 Corso dei Mille, Partinico, Sicilia, 90047, Italy",
    "phone": "+390915557416",
    "website": "https://www.instagram.com/comix_cream/",
@@ -1638,6 +1667,7 @@
   {
    "name": "D20 Ludopub Games & Drinks",
    "group": "in_store",
+   "city": "Sicilia",
    "address": "817 C.so Calatafimi, Palermo, Sicilia, 90135, Italy",
    "phone": "+393339275377",
    "website": "https://www.instagram.com/d20ludoteca/",
@@ -1671,6 +1701,7 @@
   {
    "name": "Dal benza play",
    "group": "in_store",
+   "city": "Bergamo",
    "address": "Circ. Delle valle 35, Bergamo, Bergamo, 24125, Italy",
    "phone": "+39035238304",
    "website": "https://www.instagram.com/dalbenzaplay?igsh=ajk1bGlvdDBkamNv&utm_source=qr",
@@ -1682,6 +1713,7 @@
   {
    "name": "Dark Bunny Fantasy Store / Dungeons & Drinks Ludopub",
    "group": "in_store",
+   "city": "Palermo",
    "address": "Corso Calatafimi 578, Palermo, Italy, 90129, Italy",
    "phone": "+393713961216",
    "website": "https://www.instagram.com/darkbunny_dungeonsdrinks/?hl=it",
@@ -1738,6 +1770,7 @@
   {
    "name": "Demon Oni",
    "group": "in_store",
+   "city": "Roma",
    "address": "viale ammiraglio del bono 49, ROMA (RM), Roma, 00122, Italy",
    "phone": "+393757428100",
    "website": "https://www.instagram.com/demononi_store/",
@@ -1749,6 +1782,7 @@
   {
    "name": "Dice & Games",
    "group": "in_store",
+   "city": "Treviso",
    "address": "16 Corte Maggiore, Montebelluna, Treviso, 31044, Italy",
    "phone": "393461469281",
    "website": "https://www.instagram.com/dice.and.games/?hl=it",
@@ -1769,6 +1803,7 @@
   {
    "name": "DigitalTCG",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "via Generale Carlo Alberto dalla chiesa 1, Casarile, Lombardia, 20089, Italy",
    "phone": "+393520223063",
    "website": "https://www.instagram.com/digital_tcg/",
@@ -1966,6 +2001,7 @@
   {
    "name": "EDICOLA DEL PARCO",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "203 Viale della Resistenza, Pianoro, Emilia-Romagna, 40065, Italy",
    "phone": "+3951776687",
    "website": "https://www.instagram.com/edicoladelparco?igsh=MWExa3hya2M2MG00Nw==",
@@ -2201,6 +2237,7 @@
   {
    "name": "Entropy Games & Tech",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "Via A. Samaritani 1/A, 48011, Alfonsine (RA), Alfonsine, Emilia-Romagna, 48011, Italy",
    "phone": "+393751234842",
    "website": "https://www.instagram.com/entropy.games.tech/",
@@ -2212,6 +2249,7 @@
   {
    "name": "EON eSports Bar",
    "group": "in_store",
+   "city": "Caserta",
    "address": "Via Provinciale 96, Villa Di Briano, Caserta, 81030, Italy",
    "phone": "+393343828827",
    "website": "https://www.instagram.com/eon_esportsbar/",
@@ -2223,6 +2261,7 @@
   {
    "name": "Essemme Multimedia",
    "group": "in_store",
+   "city": "Veneto",
    "address": "11 Via Leonardo Da Vinci, Adria, Veneto, 45011, Italy",
    "phone": "+39426901719",
    "website": "https://www.instagram.com/essemme.tcg/",
@@ -2234,6 +2273,7 @@
   {
    "name": "ESTUS GAMES",
    "group": "in_store",
+   "city": "Fucecchio",
    "address": "Via Cesare Battisti 15, Fucecchio, FI, 50054, Italy",
    "phone": "+39 0571 260245",
    "website": "https://www.facebook.com/estusgamefucecchio/",
@@ -2245,6 +2285,7 @@
   {
    "name": "Evergame",
    "group": "in_store",
+   "city": "novara",
    "address": "via ottaviano fabrizio mossotti 7/b, novara, novara, 28100, Italy",
    "phone": "+3903211512952",
    "website": "https://www.instagram.com/evergamenovara?igsh=M2hhMjh1ZzE0ZGM4",
@@ -2265,6 +2306,7 @@
   {
    "name": "Exodya",
    "group": "in_store",
+   "city": "Monterotondo",
    "address": "Via Giuseppe Mazzini, 28a, Monterotondo, RM, 00015, Italy",
    "phone": "+390664017795",
    "website": "https://www.instagram.com/exodyagametekk/",
@@ -2295,6 +2337,7 @@
   {
    "name": "Falconia",
    "group": "in_store",
+   "city": "Mantova",
    "address": "Via della Giustizia 36, Casaloldo, Mantova, 46040, Italy",
    "phone": "+393517183524",
    "website": "https://www.instagram.com/_.falconia._/",
@@ -2348,6 +2391,7 @@
   {
    "name": "Fire & Dice",
    "group": "in_store",
+   "city": "Pavia",
    "address": "38 Via Enzo Togni, Broni, Pavia, 27043, Italy",
    "phone": "+393515169452",
    "website": "https://www.instagram.com/fire__and__dice/",
@@ -2390,6 +2434,7 @@
   {
    "name": "Frenzy House",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "15 Piazza Martiri della Libertà, Faenza, Emilia-Romagna, 48018, Italy",
    "phone": "+393516391978",
    "website": "https://www.facebook.com/profile.php?id=61561779575846",
@@ -2444,6 +2489,7 @@
   {
    "name": "fumetteria l'oracolo",
    "group": "in_store",
+   "city": "modena",
    "address": "via g. minelli 1, pavullo nel frignano, modena, 41026, Italy",
    "phone": "+3933972258360",
    "website": "https://www.facebook.com/fumetteriaoracolo/",
@@ -2465,6 +2511,7 @@
   {
    "name": "Fumetteria Neotokyo",
    "group": "in_store",
+   "city": "torino",
    "address": "Corso Lombardia 144, torino, torino, 10149, Italy",
    "phone": "+390112763914",
    "website": "https://www.instagram.com/neotokyo.fumetteria?igsh=MTE0ZWtmaHh1dzVsMQ%3D%3D&utm_source=qr",
@@ -2485,6 +2532,7 @@
   {
    "name": "Fumetteria Oni",
    "group": "in_store",
+   "city": "Toscana",
    "address": "18 Via Giuliano Vanghetti, Empoli, Toscana, 50053, Italy",
    "phone": "+393296842394",
    "website": "https://www.facebook.com/FumetteriaOni/",
@@ -2557,6 +2605,7 @@
   {
    "name": "Fumettopoli Star Shop Arezzo",
    "group": "in_store",
+   "city": "Toscana",
    "address": "24 Via Piave, Arezzo, Toscana, 52100, Italy",
    "phone": "+39(0) 0575907255",
    "website": "https://www.facebook.com/fumettopoliarezzo",
@@ -2580,6 +2629,7 @@
   {
    "name": "Funside Bergamo",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "49 Viale Papa Giovanni XXIII, Bergamo, Lombardia, 24122, Italy",
    "phone": "+39350032134",
    "website": "https://www.instagram.com/funside_bergamo/",
@@ -2591,6 +2641,7 @@
   {
    "name": "Funside La Fattoria",
    "group": "in_store",
+   "city": "Veneto",
    "address": "V.le Porta Po, Rovigo, Veneto, 45100, Italy",
    "phone": "+39425508755",
    "website": "https://www.instagram.com/funsidelafattoria/",
@@ -2602,6 +2653,7 @@
   {
    "name": "Funside Monza",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "10 Piazza Roma, Monza, Lombardia, 20900, Italy",
    "phone": "+396364738",
    "website": "https://www.instagram.com/games_academy_funside/",
@@ -2649,6 +2701,7 @@
   {
    "name": "Fusion Cards",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "788 Via S. Rocco, Calusco d'Adda, Lombardia, 24033, Italy",
    "phone": "393456075682",
    "website": "https://www.instagram.com/fusion.cardscalusco_/",
@@ -2660,6 +2713,7 @@
   {
    "name": "G.M.D. Sas di Daniele Dondi e c.",
    "group": "in_store",
+   "city": "Modena",
    "address": "Via dei Mille n. 197, Castelfranco Emilia, Modena, 41013, Italy",
    "phone": "+393475292078",
    "website": "https://www.instagram.com/publagrotta?igsi=MTFpaWJzb2cwOXRnYg%3D%3D&utm_source=qr",
@@ -2671,6 +2725,7 @@
   {
    "name": "Galactus - Tiburtina",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Malladra 14/16, Roma, RM, 00157, Italy",
    "phone": "+39064182076",
    "website": "https://www.facebook.com/GalactusTiburtina",
@@ -2730,6 +2785,7 @@
   {
    "name": "GameMania",
    "group": "in_store",
+   "city": "Polignano a Mare",
    "address": "Via Pierluigi Galluzzi, Polignano a Mare, BA, 70044, Italy",
    "phone": "+393517093916",
    "website": "https://www.instagram.com/gamemaniapolignano?utm_source=qr",
@@ -2741,6 +2797,7 @@
   {
    "name": "Gamepeople AV-BN",
    "group": "in_store",
+   "city": "Campania",
    "address": "83 SS7, Arpaia, Campania, 82011, Italy",
    "phone": "+393773909036",
    "website": "https://www.facebook.com/gamepeopleavbn/",
@@ -2796,6 +2853,7 @@
   {
    "name": "Games Inn",
    "group": "in_store",
+   "city": "Torino",
    "address": "Via Staffarda 9/A, Torino, TO, 10141, Italy",
    "phone": "+393338024150",
    "website": "https://www.instagram.com/gamesinnshop/",
@@ -2816,6 +2874,7 @@
   {
    "name": "Games Time - Partanna",
    "group": "in_store",
+   "city": "Sicilia",
    "address": "54 Viale d'Italia, Partanna, Sicilia, 91028, Italy",
    "phone": "+393806454090",
    "website": "https://www.facebook.com/gamestimepartanna",
@@ -2837,6 +2896,7 @@
   {
    "name": "Games Time Alberobello",
    "group": "in_store",
+   "city": "Puglia",
    "address": "33 Corso Trieste e Trento, Alberobello, Puglia, 70011, Italy",
    "phone": "+3929867794",
    "website": "https://www.facebook.com/gamestimealberobello/",
@@ -2848,6 +2908,7 @@
   {
    "name": "GAMES TIME ALZATE BRIANZA",
    "group": "in_store",
+   "city": "COMO",
    "address": "VIA IV NOVEMBRE 621, Alzate Brianza, COMO, 22040, Italy",
    "phone": "+393476861589",
    "website": "https://www.instagram.com/gamestimealzatebrianza/",
@@ -2872,6 +2933,7 @@
   {
    "name": "Games Time Carugate",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "XX (Twenty) September Street Civic 5/3, Carugate, Lombardia, 20061, Italy",
    "phone": "+393516946969",
    "website": "https://www.instagram.com/gamestimecarugate/",
@@ -2883,6 +2945,7 @@
   {
    "name": "Games Time Firenze Scandicci",
    "group": "in_store",
+   "city": "Firenze",
    "address": "Via Vincenzo Monti, 14/b-c, Scandicci, Firenze, 50018, Italy",
    "phone": "+393773117316",
    "website": "https://www.instagram.com/gamestimefirenzescandicci/",
@@ -2907,6 +2970,7 @@
   {
    "name": "Games Time Sanguinetto",
    "group": "in_store",
+   "city": "Veneto",
    "address": "44 Via G. Biasi, Sanguinetto, Veneto, 37058, Italy",
    "phone": "393454565543",
    "website": "https://www.instagram.com/greenspidertcg/",
@@ -3013,6 +3077,7 @@
   {
    "name": "Gli Starters",
    "group": "in_store",
+   "city": "Napoli",
    "address": "Via Aldo Moro II Traversa 77, Pompei, Napoli, 80045, Italy",
    "phone": "+393883614413",
    "website": "https://www.instagram.com/gli.starters/",
@@ -3024,6 +3089,7 @@
   {
    "name": "Go Card Collectors",
    "group": "in_store",
+   "city": "Bergamo",
    "address": "Viale Europa 2/L, Treviolo, Bergamo, 24048, Italy",
    "phone": "+393482486628",
    "website": "https://www.instagram.com/gocard.collectors/",
@@ -3151,6 +3217,7 @@
   {
    "name": "I Nuovi Bimbi",
    "group": "in_store",
+   "city": "Bergamo",
    "address": "Viale Suardi, 24,, Arcene, Bergamo, 24040, Italy",
    "phone": "+393207152224",
    "website": "https://www.instagram.com/inuovibimbi?igsh=a2tobjZpOTVvZzI0",
@@ -3162,6 +3229,7 @@
   {
    "name": "Ikigai",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "68 Via Desio, Bovisio Masciago, Lombardia, 20813, Italy",
    "phone": "+393473126488",
    "website": "https://www.facebook.com/ikigaibovisio/",
@@ -3183,6 +3251,7 @@
   {
    "name": "Il Castello di Mezzo di Alessandro Iovine",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Prenestina, 459 C/D, Roma, RM, 00177, Italy",
    "phone": "+393392949994",
    "website": "https://www.instagram.com/ilcastellodimezzo_official/",
@@ -3206,6 +3275,7 @@
   {
    "name": "il dojo srl",
    "group": "in_store",
+   "city": "dolzago",
    "address": "Via Corsica, 43, dolzago, LC, 23843, Italy",
    "phone": "+393892545507",
    "website": "https://www.instagram.com/ildojotcg?igsh=ajMyajQ0NmRycjF0&utm_source=qr",
@@ -3282,6 +3352,7 @@
   {
    "name": "Il Mondo Distorto",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "20 Via Francesco Gualerzi, Reggio Emilia, Emilia-Romagna, 42124, Italy",
    "phone": "+393663352900",
    "website": "https://www.facebook.com/profile.php?id=61570104473705&mibextid=LQQJ4d&rdid=1klOeNHrETI1NgKB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1C64sKiA7x%2F%3Fmibextid%3DLQQJ4d#",
@@ -3354,6 +3425,7 @@
   {
    "name": "Il Rifugio del Collezionista",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "25 Via Maestri del Lavoro, Saronno, Lombardia, 21047, Italy",
    "phone": "+393519807870",
    "website": "https://www.instagram.com/ilrifugiodelcollezionista/",
@@ -3365,6 +3437,7 @@
   {
    "name": "IL RIFUGIO DI TESSIE",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Marcello Alessio 154, Roma, RM, 00133, Italy",
    "phone": "+393460750719",
    "website": "https://www.instagram.com/ilrifugioditessie/",
@@ -3411,6 +3484,7 @@
   {
    "name": "INFINITY GAMES ROMA",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via silicella 26F, Roma, RM, 00169, Italy",
    "phone": "+390686143365",
    "website": "https://www.instagram.com/infinity_games_roma/",
@@ -3422,6 +3496,7 @@
   {
    "name": "Ink Soul's",
    "group": "in_store",
+   "city": "Puglia",
    "address": "136 Via Roma, Castellaneta, Puglia, 74011, Italy",
    "phone": "+393281484517",
    "website": "https://www.instagram.com/__inksouls__/",
@@ -3445,6 +3520,7 @@
   {
    "name": "internet cafè snc",
    "group": "in_store",
+   "city": "Milano",
    "address": "via steffenini 24, San Colombano Al Lambro, Milano, 20078, Italy",
    "phone": "+393669567518",
    "website": "https://www.instagram.com/internetcafe_24?igsh=MWxuM3VpcmpxcTl4bA==",
@@ -3502,6 +3578,7 @@
   {
    "name": "Jolly Giochiamo",
    "group": "in_store",
+   "city": "Lucca",
    "address": "Via Nicola Barbantini 112, Lucca, LU, 55100, Italy",
    "phone": "1+390583321385",
    "website": "https://www.instagram.com/jolly_giochiamo/",
@@ -3533,6 +3610,7 @@
   {
    "name": "Jolly Troll - Ivrea",
    "group": "in_store",
+   "city": "Ivrea",
    "address": "Via San Giovanni Bosco 1b, Ivrea, TO, 10015, Italy",
    "phone": "+39(0)125 196 0025",
    "website": "https://www.instagram.com/explore/locations/112674852104836/jolly-troll-ivrea/?hl=en",
@@ -3554,6 +3632,7 @@
   {
    "name": "Jumangi Comix & Games",
    "group": "in_store",
+   "city": "Salerno",
    "address": "via irno 115, Salerno, SA, 84135, Italy",
    "phone": "+39340 090 4068",
    "website": "https://www.facebook.com/profile.php?id=100083127858814",
@@ -3575,6 +3654,7 @@
   {
    "name": "Kaboom di Nicola DI Bartolomeo",
    "group": "in_store",
+   "city": "Campania",
    "address": "18 Via Mario Iannelli, Salerno, Campania, 84122, Italy",
    "phone": "39892099438",
    "games_events": [
@@ -3595,6 +3675,7 @@
   {
    "name": "Kingdom Cards",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "22 Via Francesco Petrarca, Sant'Antonio, Lombardia, 46047, Italy",
    "phone": "+393534660321",
    "website": "https://www.instagram.com/kingdomcardsmn?igsh=MXJycWM3ODlveG44aQ==",
@@ -3606,6 +3687,7 @@
   {
    "name": "Konoha Store di Sara Parisi",
    "group": "in_store",
+   "city": "Vicenza",
    "address": "Contrada del Quartiere 3, Vicenza, VI, 36100, Italy",
    "phone": "+393520718586",
    "website": "https://www.instagram.com/konohastore.vi/",
@@ -3617,6 +3699,7 @@
   {
    "name": "Kraken",
    "group": "in_store",
+   "city": "Liguria",
    "address": "83 Via Vittorio Veneto, Alassio, Liguria, 17021, Italy",
    "phone": "390182038057",
    "website": "https://www.instagram.com/krakencult/",
@@ -3628,6 +3711,7 @@
   {
    "name": "Kuldotha Bazaar",
    "group": "in_store",
+   "city": "Genova",
    "address": "VIA FIESCHI 117R, Genova, 65, 16121, Italy",
    "phone": "+39345 810 7326",
    "website": "https://www.facebook.com/kuldothabazaar/",
@@ -3705,6 +3789,7 @@
   {
    "name": "La Civetta",
    "group": "in_store",
+   "city": "Lazio",
    "address": "8 Via Cereate, Roma, Lazio, 00183, Italy",
    "phone": "+3967003752",
    "website": "https://www.facebook.com/ludoteca.lacivetta/?locale=it_IT",
@@ -3716,6 +3801,7 @@
   {
    "name": "La Contea",
    "group": "in_store",
+   "city": "Lazio",
    "address": "1110a Via Casilina, Roma, Lazio, 00169, Italy",
    "phone": "+39 339-466-9660",
    "website": "https://www.facebook.com/profile.php?id=100092837762323",
@@ -3727,6 +3813,7 @@
   {
    "name": "La Contea Nerd",
    "group": "in_store",
+   "city": "Ovada",
    "address": "54 Via Lung'Orba, Ovada, AL, 15076, Italy",
    "phone": "393803750163",
    "website": "https://instagram.com/laconteanerd?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
@@ -3751,6 +3838,7 @@
   {
    "name": "La fumetteria - Trani",
    "group": "in_store",
+   "city": "Trani",
    "address": "Via De Roggiero,90, Trani, BT,  76125, Italy",
    "phone": "+390883 487452",
    "website": "https://www.facebook.com/lafumetteria1990",
@@ -3762,6 +3850,7 @@
   {
    "name": "La Gilda del Nerd",
    "group": "in_store",
+   "city": "Este",
    "address": "Via Principe Amedeo 20, Este, PD, 35042, Italy",
    "phone": "+393474088558",
    "website": "https://www.instagram.com/explore/locations/664273350098858/la-gilda-del-nerd/",
@@ -3793,6 +3882,7 @@
   {
    "name": "La Nova Gilda",
    "group": "in_store",
+   "city": "Novara",
    "address": "Corso Torino 32F, Novara, NO, 28100, Italy",
    "phone": "+393925939092",
    "website": "https://www.instagram.com/la.nova.gilda?igsh=MXE3bXNlNmJ1dnNocg==",
@@ -3817,6 +3907,7 @@
   {
    "name": "La Rocca Del Wargaming",
    "group": "in_store",
+   "city": "Ferrara",
    "address": "via Corso del Guercino 61/A, cento, Ferrara, 44028, Italy",
    "phone": "+393803739252",
    "website": "https://www.instagram.com/la.rocca.del.wargaming?igsh=MWt3bGM1OTRncHZkZw%3D%3D&utm_source=qr",
@@ -3828,6 +3919,7 @@
   {
    "name": "La Sala Grande",
    "group": "in_store",
+   "city": "Campania",
    "address": "22 Via Nicola Russo, Cicciano, Campania, 80033, Italy",
    "phone": "+393278697444",
    "website": "https://www.instagram.com/la_sala.grande?igsh=MTF2cWZrNDRqMmt2ag==",
@@ -3861,6 +3953,7 @@
   {
    "name": "La Tana del Coboldo",
    "group": "in_store",
+   "city": "Casalmaggiore",
    "address": "Galleria Gorni, Via Favagrossa 54, Casalmaggiore, CR, 26041, Italy",
    "phone": "393487568034",
    "website": "https://www.facebook.com/profile.php?id=100087804098089",
@@ -3905,6 +3998,7 @@
   {
    "name": "LA TORRE NERA DI FRATANGELI ANDREA",
    "group": "in_store",
+   "city": "Lazio",
    "region": "Lazio",
    "address": "Viale Fabrateria Vetus, 115, 03023 Ceccano FR, Italy, Lazio, 03023",
    "phone": "+39 0775 488628",
@@ -3925,6 +4019,7 @@
   {
    "name": "Labyrinth",
    "group": "in_store",
+   "city": "Cuneo",
    "address": "Via Vittorio Emanuele 28, Sommariva del bosco, Cuneo, 12048, Italy",
    "phone": "+393343784849",
    "website": "https://www.instagram.com/labyrinth_negozio_lcg_tgc/",
@@ -3936,6 +4031,7 @@
   {
    "name": "Land Of Nerd",
    "group": "in_store",
+   "city": "Veneto",
    "address": "12 Via Fonderia Montini, Padernello, Veneto, 31038, Italy",
    "phone": "+393757322974",
    "website": "https://www.instagram.com/landofnerd/",
@@ -3959,6 +4055,7 @@
   {
    "name": "Le porte di Durin",
    "group": "in_store",
+   "city": "Milan",
    "address": "Via Trieste 38, Santo Stefano Ticino, Milan, 20010, Italy",
    "phone": "+393516960379",
    "website": "https://www.instagram.com/leportedidurin",
@@ -3970,6 +4067,7 @@
   {
    "name": "Lelimù snc",
    "group": "in_store",
+   "city": "Padova",
    "address": "Lelimu’snc di Lelli Gloria Via Roma 23/a Albignasego, Albignasego, Padova, 35020, Italy",
    "phone": "+393461836716",
    "website": "https://www.facebook.com/lelimu.giocattoli/",
@@ -3990,6 +4088,7 @@
   {
    "name": "LIBRERIA MONETA",
    "group": "in_store",
+   "city": "Liguria",
    "address": "16 Via Venezia, Savona, Liguria, 17100, Italy",
    "phone": "+3919801852",
    "website": "https://www.facebook.com/libreria.moneta/?locale=it_IT",
@@ -4067,6 +4166,7 @@
   {
    "name": "LOG POSE",
    "group": "in_store",
+   "city": "Padova",
    "address": "Sant'antonio, 47, Veggiano, Padova, 35030, Italy",
    "phone": "+393384935124",
    "website": "https://www.instagram.com/logpos3/",
@@ -4089,6 +4189,7 @@
   {
    "name": "Lost Town",
    "group": "in_store",
+   "city": "Liguria",
    "address": "280 Corso Nazionale, La Spezia, Liguria, 19125, Italy",
    "phone": "3801894382",
    "website": "https://www.facebook.com/profile.php?id=100064546734777",
@@ -4203,6 +4304,7 @@
   {
    "name": "Magic Stupor Mundi",
    "group": "in_store",
+   "city": "Lazio",
    "address": "3 Str. delle Pietrare, Viterbo, Lazio, 01100, Italy",
    "phone": "+393518286314",
    "website": "https://www.instagram.com/magicstupormundivt?igsh=Z2l4c2p4Mmlyb2Nw&utm_source=qr",
@@ -4234,6 +4336,7 @@
   {
    "name": "MAGIC WARRIOR VITTORIO",
    "group": "in_store",
+   "city": "Veneto",
    "address": "375 Viale della Vittoria, Vittorio Veneto, Veneto, 31029, Italy",
    "phone": "+393534527138",
    "website": "https://www.facebook.com/profile.php?id=100089337291854",
@@ -4276,6 +4379,7 @@
   {
    "name": "MANA CARDS",
    "group": "in_store",
+   "city": "Ponte a Egola",
    "address": "Via G. Ferrari 9, san miniato, Ponte a Egola, 56024, Italy",
    "phone": "+393313141526",
    "website": "https://www.instagram.com/manacardss?igsh=MWM4Z2FsODBtbWtxNw%3D%3D&utm_source=qr",
@@ -4287,6 +4391,7 @@
   {
    "name": "Mana Crypt",
    "group": "in_store",
+   "city": "Genzano",
    "address": "Via Sebastiano Silvestri 29, Genzano, RM, 00045, Italy",
    "phone": "+39(0)6 9395 3141",
    "website": "https://www.facebook.com/manacryptgenzanodiroma/",
@@ -4298,6 +4403,7 @@
   {
    "name": "Mana Nero",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "16 Via Alessandro Volta, Tradate, Lombardia, 21049, Italy",
    "phone": "+393454240215",
    "website": "https://www.instagram.com/mana_nero_fumetteria/?igsh=MWZxYmxlaXlzdmswaQ%3D%3D",
@@ -4320,6 +4426,7 @@
   {
    "name": "ManaFlow",
    "group": "in_store",
+   "city": "Lazio",
    "address": "91 Via Isonzo, Rieti, Lazio, 02100, Italy",
    "phone": "+393401487760",
    "website": "https://www.instagram.com/manaflow_tcg/",
@@ -4331,6 +4438,7 @@
   {
    "name": "Manarock",
    "group": "in_store",
+   "city": "Lazio",
    "address": "Via Antonio Vivaldi 4, Albano Laziale, Lazio, 00041, Italy",
    "phone": "+39 3519569810",
    "website": "https://www.facebook.com/profile.php?id=100094374562319",
@@ -4354,6 +4462,7 @@
   {
    "name": "ManaTrust",
    "group": "in_store",
+   "city": "Prato",
    "address": "Via Roma, 81, Vernio, Prato, 59024, Italy",
    "phone": "+393715570656",
    "website": "https://www.instagram.com/manatrustvi/",
@@ -4446,6 +4555,7 @@
   {
    "name": "Metagames di Cernusco Sul Naviglio",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "40 Viale Assunta, Cernusco sul Naviglio, Lombardia, 20063, Italy",
    "phone": "1338-743-4313",
    "website": "https://www.facebook.com/metagamescsn",
@@ -4489,6 +4599,7 @@
   {
    "name": "Mirmex Store & Café",
    "group": "in_store",
+   "city": "Bergamo",
    "address": "Via Bianzana 19, Bergamo, Bergamo, 24124, Italy",
    "phone": "3337424660",
    "website": "https://www.facebook.com/mirmex1/?locale=it_IT",
@@ -4510,6 +4621,7 @@
   {
    "name": "Mondadori Mega Forlì",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "144 Corso della Repubblica, Forlì, Emilia-Romagna, 47121, Italy",
    "phone": "+39 0543034974",
    "website": "https://www.facebook.com/mondadori.forli/?locale=it_IT",
@@ -4521,6 +4633,7 @@
   {
    "name": "Monkey Pub",
    "group": "in_store",
+   "city": "BARI",
    "address": "VIA CALDAROLA 18 C, BARI, BA, 70126, Italy",
    "phone": "+3938271320",
    "website": "https://www.instagram.com/monkeycardsss?igsh=MW5vdnNmcmsxaG05MA==",
@@ -4563,6 +4676,7 @@
   {
    "name": "MoonLight",
    "group": "in_store",
+   "city": "pomezia",
    "address": "via ariosto 13, pomezia, RM, 00071, Italy",
    "phone": "393495364309",
    "website": "https://www.facebook.com/MoonLightpmz",
@@ -4586,6 +4700,7 @@
   {
    "name": "Mox comics & games",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "5 Via Giosuè Carducci, Busto Arsizio, Lombardia, 21052, Italy",
    "phone": "393476402710",
    "website": "https://www.facebook.com/events/via-carducci-5-busto-arsizio-lombardia/lets-go-apertura-ufficiale-mox-comics-games/1924482595112191/",
@@ -4634,6 +4749,7 @@
   {
    "name": "Nakama store",
    "group": "in_store",
+   "city": "LUCCA (LU)",
    "address": "VIA CARLO PELLEGRINI 300, MASSAROSA, LUCCA (LU), 55054, Italy",
    "phone": "+395841870011",
    "website": "https://www.instagram.com/nakamastore_it/?igsh=Zm5kbzV3djkzcDhr&utm_source=qr#",
@@ -4654,6 +4770,7 @@
   {
    "name": "NEL MULTIVERSO",
    "group": "in_store",
+   "city": "Varese",
    "address": "PIAZZA PERTINI 59, CARONNO PERTUSELLA, Varese, 21042, Italy",
    "phone": "+390278645409",
    "website": "https://www.instagram.com/nelmultiverso_fumetteria/",
@@ -4674,6 +4791,7 @@
   {
    "name": "Nerd Paradise",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Pietro Adami 53C , Roma, RM, 00168 , Italy",
    "phone": "+39 06 8923 9331",
    "website": "https://www.facebook.com/nerdparadiseroma/",
@@ -4723,6 +4841,7 @@
   {
    "name": "Next Order",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Adolfo Venturi, 27, Roma, RM, 00162, Italy",
    "phone": "+390653096843",
    "website": "https://www.instagram.com/nextordershop/",
@@ -4734,6 +4853,7 @@
   {
    "name": "Nexus",
    "group": "in_store",
+   "city": "Campania",
    "address": "73 Via Po, Casoria, Campania, 80026, Italy",
    "phone": "+393398453120",
    "website": "https://www.instagram.com/nexus_fumetteria_casoria/",
@@ -4755,6 +4875,7 @@
   {
    "name": "Nexus Ongame Network",
    "group": "in_store",
+   "city": "Torino",
    "address": "8B Via Nicola Fabrizi, Torino, Torino, 10143, Italy",
    "phone": "+393452584635",
    "website": "https://www.instagram.com/ongametorinobernini/",
@@ -4785,6 +4906,7 @@
   {
    "name": "Non Solo Fumetto",
    "group": "in_store",
+   "city": "Toscana",
    "address": "19 Via Curtatone e Montanara, Empoli, Toscana, 50053, Italy",
    "phone": "+39(0)571527219",
    "website": "https://www.facebook.com/p/Non-Solo-Fumetto-100063639489482/?locale=it_IT",
@@ -4816,6 +4938,7 @@
   {
    "name": "On Game Roma Pigneto",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Renzo da Ceri 161, Roma, RM, 00176, Italy",
    "phone": "+393281893592",
    "website": "https://www.instagram.com/ongameromapigneto/",
@@ -4860,6 +4983,7 @@
   {
    "name": "Ongame - Mirandola",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "37 Via Castelfidardo, Mirandola, Emilia-Romagna, 41037, Italy",
    "phone": "39327-220-3788",
    "website": "https://www.facebook.com/ongamemirandola",
@@ -4871,6 +4995,7 @@
   {
    "name": "Ongame Aversa",
    "group": "in_store",
+   "city": "caserta",
    "address": "via guglielmo sanfelice 39/41, aversa, caserta, 81031, Italy",
    "phone": "+390812776389",
    "website": "https://www.instagram.com/ongameaversa/",
@@ -4905,6 +5030,7 @@
   {
    "name": "ONGAME POMEZIA",
    "group": "in_store",
+   "city": "Lazio",
    "address": "20 Via Jacopo da Lentini, Pomezia, Lazio, 00071, Italy",
    "phone": "+393492679476",
    "website": "https://m.facebook.com/people/Ongame-Pomezia/61559323951563/",
@@ -4916,6 +5042,7 @@
   {
    "name": "ONGAME Prato",
    "group": "in_store",
+   "city": "Toscana",
    "address": "34 Via Santo Stefano, Prato, Toscana, 59100, Italy",
    "phone": "0574954068",
    "website": "https://www.instagram.com/ongameprato/#",
@@ -4940,6 +5067,7 @@
   {
    "name": "Ongame XX Settembre",
    "group": "in_store",
+   "city": "Torino",
    "address": "28A Via 20 Settembre, Torino, Torino, 10121, Italy",
    "phone": "+393473955725",
    "website": "https://www.instagram.com/ongametorino_xxsettembre/",
@@ -4993,6 +5121,7 @@
   {
    "name": "Ottava Brigata Comics & Games",
    "group": "in_store",
+   "city": "GIOVANNI VALDARNO",
    "address": "VIA GIOVANNI DA SAN GIOVANNI, 42, SAN GIOVANNI VALDARNO, AR, 52027, Italy",
    "phone": "+393318095661",
    "website": "https://www.instagram.com/ottavabrigata",
@@ -5013,6 +5142,7 @@
   {
    "name": "Outsider Roma",
    "group": "in_store",
+   "city": "Roma",
    "address": "Viale Oscar Sinigaglia 5, Roma, Roma, 00143, Italy",
    "phone": "+393762715006",
    "website": "https://www.instagram.com/outsider.roma/",
@@ -5042,6 +5172,7 @@
   {
    "name": "Pandemonium Cards and Games",
    "group": "in_store",
+   "city": "Toscana",
    "address": "Piazza Ginori, Sesto Fiorentino, Toscana, 50019, Italy",
    "phone": "+393393064178",
    "website": "https://www.instagram.com/pandemonium_cards_and_games?igsh=MTJ2M3B2eXd5a3AwcQ==",
@@ -5099,6 +5230,7 @@
   {
    "name": "Pensieri Belli",
    "group": "in_store",
+   "city": "Lucca",
    "address": "Via Vittorio Veneto, 46, Lucca, Lucca, 55100, Italy",
    "phone": "+3905831716191",
    "website": "https://www.instagram.com/libreria_pensieribellilucca/",
@@ -5110,6 +5242,7 @@
   {
    "name": "Phoenix",
    "group": "in_store",
+   "city": "pavia",
    "address": "Via Treves 39, vigevano, pavia, 27029, Italy",
    "phone": "+393474005725",
    "website": "https://www.instagram.com/phoenix_tcg_/",
@@ -5153,6 +5286,7 @@
   {
    "name": "Planet Fun",
    "group": "in_store",
+   "city": "Rovato",
    "address": "8 Via Passo del Tonale, Rovato, BS, 25038, Italy",
    "phone": "+393343099391",
    "website": "https://www.facebook.com/PlanetFunRovato",
@@ -5164,6 +5298,7 @@
   {
    "name": "Player Inn",
    "group": "in_store",
+   "city": "Narni",
    "address": "52 Via Tuderte, Narni, TR, 05035, Italy",
    "phone": "+393455059311",
    "website": "https://www.instagram.com/player_inn/",
@@ -5175,6 +5310,7 @@
   {
    "name": "Playtime - Bergamo",
    "group": "in_store",
+   "city": "Bergamo",
    "address": "via dei Carrozzai 7/9, Bergamo, BG, 24122, Italy",
    "phone": "+39(0)35 237798",
    "website": "https://www.facebook.com/playtime.bergamo.fans/",
@@ -5197,6 +5333,7 @@
   {
    "name": "Playtime - Lecco",
    "group": "in_store",
+   "city": "Lecco",
    "address": "Via Cesare Cantu' 14, Lecco, LC, 23900, Italy",
    "phone": "+39(0)341 361054",
    "website": "http://facebook.com/solodaplaytime",
@@ -5284,6 +5421,7 @@
   {
    "name": "Pot of Demons",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "5 Piazza Aldo Moro, Castelfranco Emilia, Emilia-Romagna, 41013, Italy",
    "phone": "+39 3331871473",
    "website": "https://www.facebook.com/potofdemonstournaments/",
@@ -5295,6 +5433,7 @@
   {
    "name": "PrimoDado",
    "group": "in_store",
+   "city": "illasi",
    "address": "Corso Dante Alighieri 10, illasi, VR, 37031, Italy",
    "phone": "3938043291",
    "website": "https://www.instagram.com/primodado/",
@@ -5404,6 +5543,7 @@
   {
    "name": "Rullo models & Games",
    "group": "in_store",
+   "city": "Puglia",
    "address": "22 Via Grazia Deledda, Martina Franca, Puglia, 74015, Italy",
    "phone": "+393381570663",
    "website": "https://www.facebook.com/profile.php?id=61554952364291",
@@ -5473,6 +5613,7 @@
   {
    "name": "Shinigames",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "13 Via Magenta, San Vittore Olona, Lombardia, 20028, Italy",
    "phone": "+393519654176",
    "website": "https://www.instagram.com/shinigame.shop?igsh=MTRyMGdob3FicGVmeQ==",
@@ -5519,6 +5660,7 @@
   {
    "name": "SPACE COMICS",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "8 Via Nazario Sauro, Mantova, Lombardia, 46100, Italy",
    "phone": "+39376753524",
    "website": "https://www.facebook.com/profile.php?id=61574097540231&rdid=S2GOtKKhSX865Cqn&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1BrfzUqDey%2F#",
@@ -5563,6 +5705,7 @@
   {
    "name": "Star Comics Store",
    "group": "in_store",
+   "city": "Napoli",
    "address": "Via Giovanni Merliani, 128, Napoli, NA, 80129, Italy",
    "phone": "+39081 5787320",
    "website": "https://discord.com/invite/KHjXJk7",
@@ -5641,6 +5784,7 @@
   {
    "name": "Stargate",
    "group": "in_store",
+   "city": "Mantova",
    "address": "Via Col di Lana 25, Mantova, MN, 46100, Italy",
    "phone": "+393491819318",
    "website": "https://www.facebook.com/stargate.mantova/?locale=it_IT",
@@ -5652,6 +5796,7 @@
   {
    "name": "Starshop Imola",
    "group": "in_store",
+   "city": "Bologna",
    "address": "Piazza Gramsci 11, Imola, Bologna, 40016, Italy",
    "phone": "+393333809082",
    "website": "https://www.instagram.com/starshopimola/",
@@ -5663,6 +5808,7 @@
   {
    "name": "Starshop Pozzuoli",
    "group": "in_store",
+   "city": "Campania",
    "address": "6 Via Maso Carrese, Pozzuoli, Campania, 80078, Italy",
    "phone": "+393426696269",
    "website": "https://www.instagram.com/starshoppozzuoli/",
@@ -5674,6 +5820,7 @@
   {
    "name": "Steelgamer",
    "group": "in_store",
+   "city": "Venezia",
    "address": "30B Via della Fonda, Noale, Venezia, 30033, Italy",
    "phone": "+393331434209",
    "website": "https://www.instagram.com/steelgamer.tcg/",
@@ -5694,6 +5841,7 @@
   {
    "name": "StormDanno Store",
    "group": "in_store",
+   "city": "Emilia-Romagna",
    "address": "48A Via Giuseppe Mazzini, Scandiano, Emilia-Romagna, 42019, Italy",
    "phone": "+393758011739",
    "website": "https://www.instagram.com/stormdannostore/",
@@ -5715,6 +5863,7 @@
   {
    "name": "SukCollectibles (Zoolash Gaming House )",
    "group": "in_store",
+   "city": "Avellino",
    "address": "Via traversa snc, Mercogliano, Avellino, 83013, Italy",
    "phone": "+39375624906",
    "website": "https://www.instagram.com/sukcollectiblestcg?igsh=MXRxeGV4aGZ1dDI2ag%3D%3D&utm_source=qr",
@@ -5752,6 +5901,7 @@
   {
    "name": "Tadaima - La Fumetteria del Borgo",
    "group": "in_store",
+   "city": "Campania",
    "address": "39 Via Giovanni Amendola, Angri, Campania, 84012, Italy",
    "phone": "393339831956",
    "website": "https://www.instagram.com/explore/locations/244545655411875/tadaima-la-fumetteria-del-borgo/",
@@ -5763,6 +5913,7 @@
   {
    "name": "Tanuki",
    "group": "in_store",
+   "city": "Piemonte",
    "address": "43 Via Libarna, Arquata Scrivia, Piemonte, 15061, Italy",
    "phone": "+39 +39 3423 148786",
    "website": "https://www.facebook.com/profile.php?id=61557231875072",
@@ -5783,6 +5934,7 @@
   {
    "name": "TCG YAKUZA",
    "group": "in_store",
+   "city": "Anacapri",
    "address": "Viale Tommaso De Tommaso 36, Anacapri, NA, 80071, Italy",
    "phone": "+390818373665",
    "website": "https://www.instagram.com/tcg.yakuza",
@@ -5794,6 +5946,7 @@
   {
    "name": "Tempest Store",
    "group": "in_store",
+   "city": "Lazio",
    "address": "1 Via Verona, Ardea, Lazio, 00040, Italy",
    "phone": "+393488785584",
    "website": "https://www.facebook.com/profile.php?id=61570647347225&sk=reels_tab",
@@ -5814,6 +5967,7 @@
   {
    "name": "The Box di Piva Andrea & C. S.a.s.",
    "group": "in_store",
+   "city": "Rovigo",
    "address": "Via Gaspare Campo 18 C, Rovigo, Rovigo, 45100, Italy",
    "phone": "+393465119652",
    "website": "https://www.instagram.com/thebox.playground",
@@ -5825,6 +5979,7 @@
   {
    "name": "THE CAVE",
    "group": "in_store",
+   "city": "Pistoia",
    "address": "Via Giorgio La Pira, 17, Agliana, Pistoia, 51031, Italy",
    "phone": "+393462229747",
    "website": "https://www.instagram.com/thecave.pub/",
@@ -5877,6 +6032,7 @@
   {
    "name": "The Next Draw",
    "group": "in_store",
+   "city": "Nerviano",
    "address": "Via Enrico Rondanini 20, Nerviano, MI, 20014, Italy",
    "phone": "+3917441723",
    "website": "https://www.instagram.com/thenextdraw.tcg/",
@@ -5897,6 +6053,7 @@
   {
    "name": "The Realm S.A.S. di Tucci Damiano e C.",
    "group": "in_store",
+   "city": "Firenze",
    "address": "Via di Soffiano 29/A, Firenze, Firenze, 50143, Italy",
    "phone": "+393357456333",
    "website": "https://www.instagram.com/therealmfirenze?igsh=MWN6djVhcXFqczBuMQ%3D%3D&utm_source=qr",
@@ -5908,6 +6065,7 @@
   {
    "name": "The Spire Card and Games",
    "group": "in_store",
+   "city": "Lombardia",
    "address": "8 Via G. Belloni, Codogno, Lombardia, 26845, Italy",
    "phone": "+393516571696",
    "website": "https://www.instagram.com/thespire.it/",
@@ -5929,6 +6087,7 @@
   {
    "name": "Ticket to Play - Padova",
    "group": "in_store",
+   "city": "Padova",
    "address": "Via Belzoni 108-110, Padova, PD, 35100, Italy",
    "phone": "+39 049 261 7149",
    "website": "https://www.facebook.com/Tickettoplaypadova",
@@ -5961,6 +6120,7 @@
   {
    "name": "Titan Gaming Center",
    "group": "in_store",
+   "city": "Milano",
    "address": "Via Govone, 31, Milano, MI, 20155, Italy",
    "phone": "+390234938108",
    "website": "https://www.instagram.it/titan_milano",
@@ -5972,6 +6132,7 @@
   {
    "name": "Tolaria Games & Collectibles",
    "group": "in_store",
+   "city": "Salerno",
    "address": "Via Paolo Baratta 137, Battipaglia, Salerno, 84091, Italy",
    "phone": "+393291367291",
    "website": "https://www.instagram.com/tolariagamesandcollectibles/",
@@ -6003,6 +6164,7 @@
   {
    "name": "Torre dei Maghi",
    "group": "in_store",
+   "city": "formia",
    "address": "via dei carmelitani 10 galleria vitruvius, formia, LT, 04023, Italy",
    "phone": "+39077123205",
    "website": "https://www.facebook.com/torredeimaghi",
@@ -6014,6 +6176,7 @@
   {
    "name": "Torre dei Maghi - Roma",
    "group": "in_store",
+   "city": "Roma",
    "address": "Via Regilla 121, Roma, RM, 00178, Italy",
    "phone": "+3906 71289129",
    "games_events": [
@@ -6024,6 +6187,7 @@
   {
    "name": "Torre di Babele",
    "group": "in_store",
+   "city": "Modugno",
    "address": "Via San Paolo 3 , Modugno, BA, 70026, Italy",
    "phone": "+390807984826",
    "website": "https://www.facebook.com/fumetteriatorredibabele",
@@ -6111,6 +6275,7 @@
   {
    "name": "Ultima Weapon",
    "group": "in_store",
+   "city": "Pavia",
    "address": "Corso Novara 45, Vigevano, Pavia, 27029, Italy",
    "phone": "+393343374019",
    "website": "https://www.instagram.com/ultimaweaponstore/?utm_source=ig_web_button_share_sheet",
@@ -6122,6 +6287,7 @@
   {
    "name": "UnderDark",
    "group": "in_store",
+   "city": "Lazio",
    "address": "3/5 Via del Mercato, Fiumicino, Lazio, 00054, Italy",
    "phone": "+3937064287",
    "website": "https://www.instagram.com/underdark2025/#",
@@ -6133,6 +6299,7 @@
   {
    "name": "Universo Magia",
    "group": "in_store",
+   "city": "Veneto",
    "address": "69 Via Silvio Trentin, Lido di Jesolo, Veneto, 30016, Italy",
    "phone": "+39(0)4211542227",
    "website": "https://www.instagram.com/universo___magia/",
@@ -6144,6 +6311,7 @@
   {
    "name": "UpGrade",
    "group": "in_store",
+   "city": "Veneto",
    "address": "20 Via Monsignor Giacomo Gentilin, Verona, Veneto, 37132, Italy",
    "phone": "+39 3453221806",
    "games_events": [
@@ -6318,6 +6486,7 @@
   {
    "name": "X Games",
    "group": "in_store",
+   "city": "Albano Laziale",
    "address": "Via G. Puccini, 90  , Albano Laziale, RM, 00041, Italy",
    "phone": "+39 348 714 5188",
    "website": "https://www.facebook.com/XGamesAlbanolaziale/",
@@ -6329,6 +6498,7 @@
   {
    "name": "yocigaci trading card shop",
    "group": "in_store",
+   "city": "italia",
    "address": "Corso Manfredo Fanti 97/99, carpi, italia, 41012, Italy",
    "phone": "+393663044571",
    "website": "https://www.instagram.com/yocigaci/",
@@ -6340,6 +6510,7 @@
   {
    "name": "Yokai Zone",
    "group": "in_store",
+   "city": "Varese",
    "address": "Via Matteotti, 16, Besnate, Varese, 21010, Italy",
    "phone": "+393759103204",
    "website": "https://www.facebook.com/people/YOKAI-ZONE/61576689013042/#",
@@ -6351,6 +6522,7 @@
   {
    "name": "Zero One",
    "group": "in_store",
+   "city": "Reggio nell'Emilia",
    "address": "Piazza Cavour 15, Montecchio Emilia, Reggio nell'Emilia, 42027, Italy",
    "phone": "+393888897070",
    "website": "https://www.instagram.com/zero__onestore/",
@@ -6404,6 +6576,7 @@
   {
    "name": "2 Sicily Loungebar / Duel Sicily TCG Store",
    "group": "unknown",
+   "city": "Battipaglia",
    "address": "Via generale gonzaga, 51, Battipaglia, SA, 84091, Italy",
    "phone": "+393317908081",
    "website": "https://2sicily.it/",
@@ -6428,6 +6601,7 @@
   {
    "name": "4X Trading Shop & Play - Pisa",
    "group": "unknown",
+   "city": "Toscana",
    "address": "93 Via S. Martino, Pisa, Toscana, 56125, Italy",
    "phone": "39+393517803429",
    "website": "https://4xtrading.eu",
@@ -6449,6 +6623,7 @@
   {
    "name": "Adventures",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "108 Corso Dante Alighieri, Asti, Piemonte, 14100, Italy",
    "phone": "39 39 (0)3517 814056",
    "website": "https://ledadventures.it/",
@@ -6473,6 +6648,7 @@
   {
    "name": "Akihabara Shop",
    "group": "unknown",
+   "city": "Venezia",
    "address": "via torre belfredo 124 b/c, 30174 Venezia, Venezia, VE, 30174, Italy",
    "phone": "+393717658022",
    "website": "https://akihabarashop.com",
@@ -6597,6 +6773,7 @@
   {
    "name": "Another World (Altamura)",
    "group": "unknown",
+   "city": "Altamura",
    "address": "Via dei mille 88/D, Altamura, BA, 70022, Italy",
    "phone": "+39080 2373152",
    "website": "https://magic.wizards.com/en",
@@ -6608,6 +6785,7 @@
   {
    "name": "Antro della Sibilla",
    "group": "unknown",
+   "city": "Battipaglia",
    "address": "Via Salerno, 30, Battipaglia, SA, 84091, Italy",
    "phone": "+39320 237 1406",
    "website": "https://lantrodellasibilla.it/eshop/",
@@ -6629,6 +6807,7 @@
   {
    "name": "Apokas Otakushop",
    "group": "unknown",
+   "city": "verderio",
    "address": "via dei tre re, verderio, LC, 23878, Italy",
    "phone": "+3923023618",
    "website": "https://apokas-otakushop.it/",
@@ -6640,6 +6819,7 @@
   {
    "name": "Approdo del Re",
    "group": "unknown",
+   "city": "Padova",
    "address": "Via S. Domenico, 11, Selvazzano Dentro PD, Padova, Padova, 35030, Italy",
    "phone": "+39049638123",
    "website": "https://wpn.wizards.com/en",
@@ -6695,6 +6875,7 @@
   {
    "name": "Archivio Mistico",
    "group": "unknown",
+   "city": "Poggio Mirteto",
    "address": "Piazza Martiri della Libertà, 50, Poggio Mirteto, RI, 02047, Italy",
    "phone": "+393520446244",
    "website": "https://archiviomistico.it/",
@@ -6716,6 +6897,7 @@
   {
    "name": "ARSLUDICA Torino",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "7 Piazza Alberto Pasini, Torino, Piemonte, 10132, Italy",
    "phone": "39110209579",
    "website": "https://www.arsludica.com",
@@ -6727,6 +6909,7 @@
   {
    "name": "Artistic Defense",
    "group": "unknown",
+   "city": "roma",
    "address": "Piazza Francesco Baracca, 8, Guidonia Montecelio, roma, 00012, Italy",
    "phone": "+393343624048",
    "website": "https://artisticdefensestore.com/",
@@ -6945,6 +7128,7 @@
   {
    "name": "Black Dragon",
    "group": "unknown",
+   "city": "Salerno",
    "address": "153 Via Posidonia, Salerno, Salerno, 84128, Italy",
    "phone": "39375-548-1491",
    "website": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/chimeratrading/home-page&followup=https://sites.google.com/view/chimeratrading/home-page&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-701021590:1792119435845453",
@@ -7028,6 +7212,7 @@
   {
    "name": "BSA",
    "group": "unknown",
+   "city": "Cantu'",
    "address": "Via Torino, 3, Cantu', CO, 22063, Italy",
    "phone": "+390316870166",
    "website": "https://www.bsastore.it/",
@@ -7078,6 +7263,7 @@
   {
    "name": "Card Bound",
    "group": "unknown",
+   "city": "Monza e Brianza",
    "address": "via giuseppe verdi 230, seregno, Monza e Brianza, 20831, Italy",
    "phone": "+3935230443",
    "website": "https://www.cardbound.it/",
@@ -7089,6 +7275,7 @@
   {
    "name": "Card Galaxy",
    "group": "unknown",
+   "city": "Bracciano",
    "address": "Via XX Settembre, 29, Bracciano, RM, 00062, Italy",
    "phone": "+393666520429",
    "website": "https://www.cardgalaxy.it/",
@@ -7120,6 +7307,7 @@
   {
    "name": "Cardhunter",
    "group": "unknown",
+   "city": "Monza e Brianza",
    "address": "Via Filippo Villani 4, Desio, Monza e Brianza, 20832, Italy",
    "phone": "+393458099900",
    "website": "https://www.cardhunter.it/",
@@ -7178,6 +7366,7 @@
   {
    "name": "Cardverse",
    "group": "unknown",
+   "city": "Salerno",
    "address": "Via Veneto, 11, Pontecagnano Faiano, Salerno, 84098, Italy",
    "phone": "+393772424227",
    "website": "https://cardverse.it/",
@@ -7189,6 +7378,7 @@
   {
    "name": "cardverse arena",
    "group": "unknown",
+   "city": "Lucca",
    "address": "via sarzanese 1735, lucca, Lucca, 55100, Italy",
    "phone": "+3920943165",
    "website": "https://cardversearena.it/",
@@ -7273,6 +7463,7 @@
   {
    "name": "Cassandra's World",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "4 Via Galileo Galilei, Vaprio d'Adda, Lombardia, 20069, Italy",
    "phone": "393462249841",
    "website": "https://www.cassandrasworld.it/",
@@ -7308,6 +7499,7 @@
   {
    "name": "Cerberus Games",
    "group": "unknown",
+   "city": "Aversa",
    "address": "Via Presidio 18, Aversa, CE, 81031, Italy",
    "phone": "00390818112432",
    "website": "https://cerberus-shop.it/",
@@ -7330,6 +7522,7 @@
   {
    "name": "CeX",
    "group": "unknown",
+   "city": "Viale del Commercio",
    "region": "Veneto",
    "address": "Viale del Commercio, 1/Unità 46, 37036 San Martino Buon Albergo VR",
    "phone": "051 553185",
@@ -7400,6 +7593,7 @@
   {
    "name": "Cisalfa Sport Palermo",
    "group": "unknown",
+   "city": "Palermo",
    "region": "Sicilia",
    "address": "Ang. Laudicina - Loc. Roccella, Centro commerciale Forum Palermo, Via Filippo Pecoraino, snc, 90124 Palermo PA",
    "phone": "091 621 2950",
@@ -7449,6 +7643,7 @@
   {
    "name": "Collector House Asti",
    "group": "unknown",
+   "city": "Asti",
    "address": "18 Via Garetti, Asti, AT, 14100, Italy",
    "phone": "+393517269807",
    "website": "https://www.collectorhouse.it/",
@@ -7516,6 +7711,7 @@
   {
    "name": "Comic Mania - Torino",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "5 Via Riva del Garda, Torino, Piemonte, 10137, Italy",
    "phone": "+391119503910",
    "website": "https://comicmaniatorino.it/",
@@ -7567,6 +7763,7 @@
   {
    "name": "Comix21",
    "group": "unknown",
+   "city": "Campania",
    "address": "37 Via Italia, Battipaglia, Campania, 84091, Italy",
    "phone": "+393486188470",
    "website": "https://www.comix21.it",
@@ -7578,6 +7775,7 @@
   {
    "name": "ComiXrevolution",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "19 Galleria Cosimo Fanzago, Bergamo, Lombardia, 24121, Italy",
    "phone": "39035247984",
    "website": "https://store.comixrevolution.com/wp-content/comix-security-gate-public/gate-1.3.13.html?return_to=/",
@@ -7625,6 +7823,7 @@
   {
    "name": "Cosmic Shop Lodi",
    "group": "unknown",
+   "city": "Lodi",
    "address": "Via Nino Dall'Oro 15, Lodi, LO, 26900, Italy",
    "phone": "+39 3209069021 ",
    "website": "https://wpn.wizards.com/en",
@@ -7636,6 +7835,7 @@
   {
    "name": "Crazy Comics and Games",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "8 Via delle Medaglie D'Oro, Varese, Lombardia, 21100, Italy",
    "phone": "+3903321693045",
    "website": "https://www.crazybricksandgames.it",
@@ -7667,6 +7867,7 @@
   {
    "name": "D20",
    "group": "unknown",
+   "city": "Varese",
    "address": "Via angelo moratti 15, Somma Lombardo, Varese, 21019, Italy",
    "phone": "+393516808400",
    "website": "https://www.d20sommalombardo.it/",
@@ -7708,6 +7909,7 @@
   {
    "name": "Dadi e Mattoncini Terni",
    "group": "unknown",
+   "city": "Terni",
    "region": "Lombardia",
    "address": "Via Montefiorino, 21, Terni, TR, 05100, Italy",
    "phone": "+393428516532",
@@ -7730,6 +7932,7 @@
   {
    "name": "Dark Comics",
    "group": "unknown",
+   "city": "Torino",
    "address": "Via Piave 32, Volpiano, Torino, 10088, Italy",
    "phone": "+393938895225",
    "website": "https://www.darkcomics.it/",
@@ -7754,6 +7957,7 @@
   {
    "name": "DarkDiamondTCG",
    "group": "unknown",
+   "city": "Piacenza",
    "address": "Corso Giacomo Matteotti 39/D, Castel San Giovanni, Piacenza, 29015, Italy",
    "phone": "+393472859038",
    "website": "https://wpn.wizards.com/en",
@@ -7765,6 +7969,7 @@
   {
    "name": "DECIMO PIANETA",
    "group": "unknown",
+   "city": "Certaldo",
    "address": "Viale Fabiani 19, Certaldo, FI, 50052, Italy",
    "phone": "+39(0)571 665870",
    "website": "https://www.decimopianeta.it/",
@@ -7776,6 +7981,7 @@
   {
    "name": "Delta Comics",
    "group": "unknown",
+   "city": "Rovigo",
    "address": "C.so del Popolo, 6 - 8 - 10, Rovigo, RO, 45100, Italy",
    "phone": "+390425 23988",
    "website": "https://www.deltacomics.it/negozio/",
@@ -7787,6 +7993,7 @@
   {
    "name": "Digital Replay",
    "group": "unknown",
+   "city": "Novi Ligure",
    "address": "viale della rimembranza 68/70, Novi Ligure, AL, 15067, Italy",
    "phone": "39014-351-0558",
    "website": "https://wpn.wizards.com/en",
@@ -7853,6 +8060,7 @@
   {
    "name": "Dracarys",
    "group": "unknown",
+   "city": "Viterbo",
    "address": "Via Galvani 38 c, Viterbo, VT, 01100, Italy",
    "phone": "393319681114",
    "website": "https://magic.wizards.com/en",
@@ -7877,6 +8085,7 @@
   {
    "name": "DRACOMIX",
    "group": "unknown",
+   "city": "Liguria",
    "address": "165r Via Canevari, Genova, Liguria, 16137, Italy",
    "phone": "+393406153301",
    "website": "https://www.magnacartashop.it/",
@@ -7888,6 +8097,7 @@
   {
    "name": "Draft Milano",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "9 Viale Misurata, Milano, Lombardia, 20146, Italy",
    "phone": "+393516922546",
    "website": "https://wpn.wizards.com/en",
@@ -7913,6 +8123,7 @@
   {
    "name": "Dragon's Den Battipaglia",
    "group": "unknown",
+   "city": "Battipaglia",
    "address": "Via Nazario Sauro n°16, Battipaglia, SA, 84091, Italy",
    "phone": "13209586026",
    "website": "https://wpn.wizards.com/en",
@@ -7938,6 +8149,7 @@
   {
    "name": "Dragonia",
    "group": "unknown",
+   "city": "Toscana",
    "address": "Via Rinaldesca, Prato, Toscana, 59100, Italy",
    "phone": "+393515994592",
    "website": "https://dragonia.it/?v=501ea60ed5cb",
@@ -7949,6 +8161,7 @@
   {
    "name": "Draw4",
    "group": "unknown",
+   "city": "Lazio",
    "address": "14 Via Lorenzo da Pietrasanta, Roma, Lazio, 00154, Italy",
    "phone": "+390640072530",
    "website": "https://draw4.gg",
@@ -8085,6 +8298,7 @@
   {
    "name": "Estremo",
    "group": "unknown",
+   "city": "Napoli",
    "address": "Via Battistello Caracciolo 35-37 80136 Napoli, Napoli, NA, 80136, Italy",
    "phone": "108118525628",
    "website": "https://magic.wizards.com/en",
@@ -8110,6 +8324,7 @@
   {
    "name": "Excalibur Games",
    "group": "unknown",
+   "city": "Milano",
    "address": "Via G Fiamma 36 , Milano, MI, 20129, Italy",
    "phone": "+39+39 0283413592",
    "website": "https://magic.wizards.com/en",
@@ -8191,6 +8406,7 @@
   {
    "name": "Fantasia",
    "group": "unknown",
+   "city": "Trentino-Alto Adige",
    "address": "77 V.le Trento, Rovereto, Trentino-Alto Adige, 38068, Italy",
    "phone": "+39+390464970082",
    "website": "https://cloudnode.it/",
@@ -8225,6 +8441,7 @@
   {
    "name": "Farmagia",
    "group": "unknown",
+   "city": "Padova",
    "address": "Via XXVIII Aprile 16, Monselice, Padova, 35043, Italy",
    "phone": "+390429782314",
    "website": "https://wpn.wizards.com/en",
@@ -8249,6 +8466,7 @@
   {
    "name": "FedEli al TCG",
    "group": "unknown",
+   "city": "Pavia",
    "address": "Piazza della Vittoria 8 BIS, Pavia, Pavia, 27100, Italy",
    "phone": "+393278593753",
    "website": "https://linktr.ee/MagicNexus",
@@ -8270,6 +8488,7 @@
   {
    "name": "Feltrinelli Librerie",
    "group": "unknown",
+   "city": "Bari",
    "region": "Puglia",
    "address": "Str. Santa Caterina, 70124 Bari BA",
    "website": "https://www.lafeltrinelli.it/?utm_source=google-mybusiness",
@@ -8291,6 +8510,7 @@
   {
    "name": "Ferta Card Store",
    "group": "unknown",
+   "city": "Toscana",
    "address": "1 Via Palazzetto, Bibbiena, Toscana, 52011, Italy",
    "phone": "+39(0)575593078",
    "website": "https://fertacardstore.it/",
@@ -8302,6 +8522,7 @@
   {
    "name": "Figurama",
    "group": "unknown",
+   "city": "Milano",
    "address": "2 Via Emilio Galli, Abbiategrasso, Milano, 20081, Italy",
    "phone": "+393476373385",
    "website": "https://ww.figurama.it",
@@ -8349,6 +8570,7 @@
   {
    "name": "Fortezza Manga Comics",
    "group": "unknown",
+   "city": "Toscana",
    "address": "236 Via Fiorentina, Arezzo, Toscana, 52100, Italy",
    "phone": "+3908546265",
    "website": "https://fortezzamangacomics.com",
@@ -8395,6 +8617,7 @@
   {
    "name": "Fumettando",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "8a Piazza Urbano Prunotto, Alba, Piemonte, 12051, Italy",
    "phone": "+393758983692",
    "website": "https://linktr.ee/MagicNexus",
@@ -8451,6 +8674,7 @@
   {
    "name": "Fumetteria Shadow",
    "group": "unknown",
+   "city": "Veneto",
    "address": "2 Via Cesare Battisti, Cerea, Veneto, 37053, Italy",
    "phone": "+393802192756",
    "website": "https://fumetteriashadow.myshopify.com",
@@ -8492,6 +8716,7 @@
   {
    "name": "Funside Gli Orsi",
    "group": "unknown",
+   "city": "Biella",
    "address": "3b Viale Domenico Modugno, Biella, Biella, 13900, Italy",
    "phone": "+390152472866",
    "website": "https://www.gliorsi.it/store/funside/",
@@ -8503,6 +8728,7 @@
   {
    "name": "Funside Lucca",
    "group": "unknown",
+   "city": "Lucca",
    "region": "Lazio",
    "address": "Via V. Veneto, 30, Lucca, LU, 55100, Italy",
    "phone": "+3905831382563",
@@ -8545,6 +8771,7 @@
   {
    "name": "Funside Porta di Roma",
    "group": "unknown",
+   "city": "Roma",
    "region": "Lazio",
    "address": "Via Alberto Lionello, 201, 00139 Roma RM",
    "phone": "06 5710 3323",
@@ -8567,6 +8794,7 @@
   {
    "name": "Funside San Giorgio a Cremano",
    "group": "unknown",
+   "city": "Napoli",
    "address": "Via Bruno Buozzi 34, San Giorgio a Cremano, Napoli, 80046, Italy",
    "phone": "+390813185811",
    "website": "https://linktr.ee/MagicNexus",
@@ -8619,6 +8847,7 @@
   {
    "name": "Gambit",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "60b Via S. Vitale, Bologna, Emilia-Romagna, 40126, Italy",
    "phone": "+393408128295",
    "website": "https://ludogambit.it",
@@ -8798,6 +9027,7 @@
   {
    "name": "Games Time Molfetta",
    "group": "unknown",
+   "city": "Puglia",
    "address": "23 Via Natale Palummo Senatore, Molfetta, Puglia, 70056, Italy",
    "phone": "+393400522305",
    "website": "https://www.gamestimeitalia.com",
@@ -8819,6 +9049,7 @@
   {
    "name": "Games Time Pavia",
    "group": "unknown",
+   "city": "PAVIA",
    "address": "Via Volturno 27, PAVIA , PV, 27100, Italy",
    "phone": "+393397372331",
    "website": "https://wpn.wizards.com/en",
@@ -8830,6 +9061,7 @@
   {
    "name": "games time roma casalpalocco",
    "group": "unknown",
+   "city": "roma",
    "region": "Lazio",
    "address": "via eschilo 86d/c, roma, roma, 00125, Italy",
    "phone": "+390669302949",
@@ -8842,6 +9074,7 @@
   {
    "name": "Games Time Trentola Ducenta",
    "group": "unknown",
+   "city": "caserta",
    "address": "via enrico de nicola, 40/42, trentola ducenta, caserta, 81038, Italy",
    "phone": "+393246340105",
    "website": "https://wpn.wizards.com/en",
@@ -8923,6 +9156,7 @@
   {
    "name": "Gio & Co",
    "group": "unknown",
+   "city": "Siena",
    "address": "Via Diaceto 12, Siena, SI, 53100, Italy",
    "phone": "+390577288117",
    "website": "https://magic.wizards.com/en",
@@ -8974,6 +9208,7 @@
   {
    "name": "GiOlly Comics",
    "group": "unknown",
+   "city": "Villorba",
    "address": "Largo I Maggio 5/3, Villorba, TV, 31020, Italy",
    "phone": "+393518240795",
    "website": "https://giollycomics.it/",
@@ -8985,6 +9220,7 @@
   {
    "name": "Glitchland pub",
    "group": "unknown",
+   "city": "Lazio",
    "address": "38 Via Aldo Moro, Ladispoli, Lazio, 00055, Italy",
    "phone": "+393884522634",
    "website": "https://glitchland.it",
@@ -9044,6 +9280,7 @@
   {
    "name": "Goblin Café",
    "group": "unknown",
+   "city": "Toscana",
    "address": "31 Via del Borghetto, Pisa, Toscana, 56124, Italy",
    "phone": "+393297521606",
    "website": "https://goblincafeshop.it/",
@@ -9055,6 +9292,7 @@
   {
    "name": "Goblin Market",
    "group": "unknown",
+   "city": "italia Roma",
    "address": "Via Ludovico Altieri nr 17, Roma, italia Roma, 00165, Italy",
    "phone": "+393384119090",
    "website": "https://goblinmarket.it/",
@@ -9098,6 +9336,7 @@
   {
    "name": "Grand Line Cards",
    "group": "unknown",
+   "city": "Roma",
    "address": "VIA BORGO TICINO SNC, Roma, Roma, 00166, Italy",
    "phone": "+393484208421",
    "website": "https://wpn.wizards.com/en",
@@ -9119,6 +9358,7 @@
   {
    "name": "GS Gameon",
    "group": "unknown",
+   "city": "Scandicci",
    "region": "Toscana",
    "address": "Via dei Pratoni, 9, 50018 Scandicci FI",
    "website": "https://www.gs-gameon.com/",
@@ -9147,6 +9387,7 @@
   {
    "name": "Hobby Brothers",
    "group": "unknown",
+   "city": "Milano",
    "address": "Via fratelli di dio 31/E, Sesto san Givanni, Milano, 20099, Italy",
    "phone": "+393397491246",
    "website": "https://hobbybrothers.it/",
@@ -9178,6 +9419,7 @@
   {
    "name": "House of Wonders",
    "group": "unknown",
+   "city": "Bologna",
    "address": "Via Gianbattista Vico 5, Bologna, BO, 40127, Italy",
    "phone": "+393337036131",
    "website": "https://houseofwondershop.com/",
@@ -9316,6 +9558,7 @@
   {
    "name": "IL FORZIERE DEL MANA",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "Via S. Martino, Cornaredo, Lombardia, 20007, Italy",
    "phone": "393517371099",
    "website": "https://www.ilforzieredelmana.com",
@@ -9364,6 +9607,7 @@
   {
    "name": "il Loto TCG",
    "group": "unknown",
+   "city": "castel san giovanni",
    "address": "via montanara 6, castel san giovanni, PC, 29015, Italy",
    "phone": "+393534163043",
    "website": "https://wpn.wizards.com/en",
@@ -9415,6 +9659,7 @@
   {
    "name": "Il Tempio delle Mini4WD",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "15 Via E. Minghetti, Altedo, Emilia-Romagna, 40051, Italy",
    "phone": "+393886288884",
    "website": "https://iltempiodellemini4wd.it/",
@@ -9462,6 +9707,7 @@
   {
    "name": "IntaVolando",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "25 Via Tapparelli D'Azeglio, Savigliano, Piemonte, 12038, Italy",
    "phone": "393248445969",
    "website": "https://www.inta-volando.it",
@@ -9493,6 +9739,7 @@
   {
    "name": "INVELOPIO",
    "group": "unknown",
+   "city": "CASERTA",
    "address": "VIA LUIGI FERRITTO 85, PIEDIMONTE MATESE, CASERTA, 81016, Italy",
    "phone": "+393475920625",
    "website": "https://www.invelopio.net/",
@@ -9504,6 +9751,7 @@
   {
    "name": "IOIAD GAMERS' FIEFDOM",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "18 Piazza del Popolo, Copparo, Emilia-Romagna, 44034, Italy",
    "phone": "+393420642656",
    "website": "https://ioiad.it/",
@@ -9578,6 +9826,7 @@
   {
    "name": "Jaku Toys Fumetteria",
    "group": "unknown",
+   "city": "Lazio",
    "address": "48 Via Ignazio Persico, Roma, Lazio, 00154, Italy",
    "phone": "+39689272647",
    "website": "https://jakutoys.com/",
@@ -9706,6 +9955,7 @@
   {
    "name": "KAME HOUSE FUMETTERIA",
    "group": "unknown",
+   "city": "Campania",
    "address": "61 Via Vitale , Ariano Irpino, Campania, 83031, Italy",
    "phone": "393792681992",
    "website": "https://wpn.wizards.com/en",
@@ -9717,6 +9967,7 @@
   {
    "name": "Kamiro Manga Shop",
    "group": "unknown",
+   "city": "Monsummano",
    "address": "Via Cesare Battisti, 59, Monsummano, PT, 51015, Italy",
    "phone": "+390572509641",
    "website": "https://kamiromangashop.com/",
@@ -9739,6 +9990,7 @@
   {
    "name": "Kazuma - Ravenna",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "13 Viale Francesco Baracca, Ravenna, Emilia-Romagna, 48121, Italy",
    "phone": "390544 453413",
    "website": "https://kazuma.it/",
@@ -9813,6 +10065,7 @@
   {
    "name": "Kraken Giochi&Fumetti",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "47 Via Alberto Pansa, Reggio Emilia, Emilia-Romagna, 42124, Italy",
    "phone": "+393313301148",
    "website": "https://krakenfumetteria.it/",
@@ -9848,6 +10101,7 @@
   {
    "name": "Kumaneko",
    "group": "unknown",
+   "city": "Lazio",
    "address": "15 Via di Donna Olimpia, Roma, Lazio, 00152, Italy",
    "phone": "+390600201823",
    "website": "https://kumaneko.it/",
@@ -9917,6 +10171,7 @@
   {
    "name": "L'olimpo del nerd",
    "group": "unknown",
+   "city": "Lazio",
    "address": "119 Via Vincenzo Ferretti, Civita Castellana, Lazio, 01033, Italy",
    "phone": "+393512821770",
    "website": "https://olimpodelnerd.com/password",
@@ -9928,6 +10183,7 @@
   {
    "name": "L'Ultima Lanterna Comics & Games",
    "group": "unknown",
+   "city": "Colleferro",
    "address": "Via Consolare Latina 118, Colleferro, RM, 00034, Italy",
    "phone": "+393351059671",
    "website": "https://wpn.wizards.com/en",
@@ -9939,6 +10195,7 @@
   {
    "name": "La Bottega del Bimbo",
    "group": "unknown",
+   "city": "Modena",
    "address": "Via J.Berengario 58, 41012 Carpi (MO), Carpi, Modena, 41012, Italy",
    "phone": "+39059642331",
    "website": "https://bottegadelbimbo.it/",
@@ -9980,6 +10237,7 @@
   {
    "name": "La Gilda Busto Arsizio",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "17 Via Gavinana, Busto Arsizio, Lombardia, 21052, Italy",
    "phone": "03311083525",
    "website": "https://lagildastore.it/",
@@ -10028,6 +10286,7 @@
   {
    "name": "la tana della gang",
    "group": "unknown",
+   "city": "MILANO",
    "address": "via ca matta 2, PESCHIERA BORROMEO, MILANO, 20068, Italy",
    "phone": "+393427286696",
    "website": "https://wpn.wizards.com/en",
@@ -10039,6 +10298,7 @@
   {
    "name": "La Tana delle Figure",
    "group": "unknown",
+   "city": "Novara",
    "address": "Corso Garibaldi 91, Borgomanero, Novara, 28021, Italy",
    "phone": "+393298911342",
    "website": "https://wpn.wizards.com/en",
@@ -10207,6 +10467,7 @@
   {
    "name": "Lo Zainetto Pratico",
    "group": "unknown",
+   "city": "Lazio",
    "address": "26 Via Principe di Napoli, Bracciano, Lazio, 00062, Italy",
    "phone": "+390688374044",
    "website": "https://www.lozainettopratico.it/",
@@ -10241,6 +10502,7 @@
   {
    "name": "Lowengrube",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "100 SS 9 Via Emilia, San Rocco al Porto, Lombardia, 26862, Italy",
    "phone": "393283185001",
    "website": "https://lowengrube.it/it/belpo",
@@ -10308,6 +10570,7 @@
   {
    "name": "M&M COLLECTION CARDS",
    "group": "unknown",
+   "city": "Roma",
    "address": "Via Trento e Trieste 24, Genazzano, Roma, 00030, Italy",
    "phone": "+390600248272",
    "website": "https://wpn.wizards.com/en",
@@ -10333,6 +10596,7 @@
   {
    "name": "Magic Dreams Verbania",
    "group": "unknown",
+   "city": "Verbania",
    "address": "Viale Azari, 40/d - 28922 Pallanza (VB), Verbania, VB, 28922, Italy",
    "phone": "393334774698",
    "website": "https://magicdreams.store/",
@@ -10344,6 +10608,7 @@
   {
    "name": "Magic Fun",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "21d Via Gioachino Rossini, Torino, Piemonte, 10124, Italy",
    "phone": "+39110569394 ",
    "website": "https://magicfun.it/",
@@ -10382,6 +10647,7 @@
   {
    "name": "Magic Nexus",
    "group": "unknown",
+   "city": "Gessate",
    "address": "Via Padana Superiore 27, Gessate (MI), Italia (IT)., Gessate, MI, 20060, Italy",
    "phone": "393713826355 ",
    "website": "https://linktr.ee/MagicNexus",
@@ -10428,6 +10694,7 @@
   {
    "name": "Magic World - Civitavecchia",
    "group": "unknown",
+   "city": "Roma",
    "address": "Via M.Buonarroti 102/106, Civitavecchia, Roma, 00053, Italy",
    "phone": "+39076630241",
    "website": "https://magicworldfumetteria.com/",
@@ -10439,6 +10706,7 @@
   {
    "name": "Magicabula Giocattoli",
    "group": "unknown",
+   "city": "Modena",
    "address": "Via Emilio Salgari 10, Modena, Modena, 41123, Italy",
    "phone": "+39059821903",
    "website": "https://magicabulagiocattoli.it/",
@@ -10490,6 +10758,7 @@
   {
    "name": "Mago Nerd",
    "group": "unknown",
+   "city": "Genova",
    "address": "Via Giuseppe Mazzini 8, Busalla, Genova, 16012, Italy",
    "phone": "+393409948543",
    "website": "https://magonerd.com/",
@@ -10510,6 +10779,7 @@
   {
    "name": "Mana Flask",
    "group": "unknown",
+   "city": "Brescia",
    "address": "via Orzinuovi 48/D, Brescia, BS, 25125, Italy",
    "phone": "+39(0)30 837 1392",
    "website": "https://www.manaflaskbrescia.com/",
@@ -10554,6 +10824,7 @@
   {
    "name": "Manuelpoke3store",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "6 Via Giacomo Matteotti, Reggiolo, Emilia-Romagna, 42046, Italy",
    "phone": "+393485526907",
    "website": "https://manuelpoke3.it/",
@@ -10617,6 +10888,7 @@
   {
    "name": "Mitico",
    "group": "unknown",
+   "city": "Ba",
    "address": "Via Giuseppe Garibaldi, 23, monopoli, Ba, 70043, Italy",
    "phone": "+390809142237",
    "website": "https://www.mitico.biz",
@@ -10680,6 +10952,7 @@
   {
    "name": "Mondi Paralleli - Arconate",
    "group": "unknown",
+   "city": "Arconate",
    "address": "Contrada Sant'Eusebio 26, Arconate, MI, 20020, Italy",
    "phone": "+39 (0)331 108 4480",
    "website": "https://www.mondiparalleliarconate.com/",
@@ -10737,6 +11010,7 @@
   {
    "name": "Mr. Magic",
    "group": "unknown",
+   "city": "Savona",
    "address": "Via Untoria 54 R, Savona, SV, 17100, Italy",
    "phone": "+39345 2351099",
    "website": "https://www.mrmagic.it/",
@@ -10801,6 +11075,7 @@
   {
    "name": "Nakama's",
    "group": "unknown",
+   "city": "milano",
    "address": "via cardinal ferrari 44, rho, milano, 20017, Italy",
    "phone": "+ 375 9772202",
    "website": "https://www.wearenakamas.com",
@@ -10856,6 +11131,7 @@
   {
    "name": "NENASTORE",
    "group": "unknown",
+   "city": "ROMA",
    "address": "via Duca degli Abruzzi, 80/82, Ladispoli, ROMA, 00055, Italy",
    "phone": "+393462749574",
    "website": "https://www.nenastore.it/",
@@ -10878,6 +11154,7 @@
   {
    "name": "Nerd Pug",
    "group": "unknown",
+   "city": "favria",
    "address": "Via Ivrea 72, favria, TO, 10086, Italy",
    "phone": "+393806393674",
    "website": "https://www.nerdpug.it/",
@@ -10912,6 +11189,7 @@
   {
    "name": "Nerdream",
    "group": "unknown",
+   "city": "Lazio",
    "address": "5 Via del Mercato, Fiumicino, Lazio, 00054, Italy",
    "phone": "393913586024",
    "website": "https://nerdream.it/",
@@ -10943,6 +11221,7 @@
   {
    "name": "New Game",
    "group": "unknown",
+   "city": "Cinisello Balsamo",
    "address": "Via Carducci 18, Cinisello Balsamo (MI), Cinisello Balsamo, MI, 20092, Italy",
    "phone": "+393342363164",
    "website": "https://newgame.eatbu.com/?lang=en",
@@ -11051,6 +11330,7 @@
   {
    "name": "Ohana di Sbrana Sara",
    "group": "unknown",
+   "city": "Modena",
    "address": "Piazza Leonardo da Vinci 8, Novi di Modena, Modena, 41016, Italy",
    "phone": "+390594723424",
    "website": "https://ohanagiochi.com/",
@@ -11118,6 +11398,7 @@
   {
    "name": "ON SHOP",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "3 Via del Popolo, Vigevano, Lombardia, 27029, Italy",
    "phone": "+393396459058",
    "website": "https://www.onshopitalia.it",
@@ -11143,6 +11424,7 @@
   {
    "name": "Ongame Arzignano",
    "group": "unknown",
+   "city": "Vicenza",
    "address": "Via Vicenza 3/E, Arzignano, Vicenza, 36071, Italy",
    "phone": "+393928008382",
    "website": "https://wpn.wizards.com/en",
@@ -11154,6 +11436,7 @@
   {
    "name": "ONGAME Caserta",
    "group": "unknown",
+   "city": "Caserta",
    "address": "13 Via Don Giovanni Bosco, Caserta, Caserta, 81100, Italy",
    "phone": "398231253829",
    "website": "https://ongamecaserta.it",
@@ -11165,6 +11448,7 @@
   {
    "name": "Ongame Genova",
    "group": "unknown",
+   "city": "ge",
    "address": "Via Canevari 326r, Genova, ge, 16137, Italy",
    "phone": "+393518360198",
    "website": "https://wpn.wizards.com/en",
@@ -11222,6 +11506,7 @@
   {
    "name": "Otaku Dungeon",
    "group": "unknown",
+   "city": "Chivasso",
    "address": "Via del Collegio 14, Chivasso, TO, 10034, Italy",
    "phone": "+3922168182",
    "website": "https://wpn.wizards.com/en",
@@ -11247,6 +11532,7 @@
   {
    "name": "Outplayed Gaming srl",
    "group": "unknown",
+   "city": "Milano (MI)",
    "address": "5 Via Marco Fabio Quintiliano, Milano, Milano (MI), 20138, Italy",
    "phone": "+393520844875",
    "website": "https://www.milangamingdistrict.it/mtg",
@@ -11268,6 +11554,7 @@
   {
    "name": "Palantir",
    "group": "unknown",
+   "city": "Casale Monferrato",
    "address": "Via 20 Settembre, 68, Casale Monferrato, AL, 15033, Italy",
    "phone": "+393398492838",
    "website": "https://wpn.wizards.com/en",
@@ -11347,6 +11634,7 @@
   {
    "name": "Partydea",
    "group": "unknown",
+   "city": "Piemonte",
    "address": "Corso Cadore 17, Torino, Piemonte, 10153, Italy",
    "phone": "+393515123605",
    "website": "https://partydea.eu/",
@@ -11382,6 +11670,7 @@
   {
    "name": "Pick Up Comics Vigevano",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "2C Via Rocca Vecchia, Vigevano, Lombardia, 27029, Italy",
    "phone": "+39 3515930524",
    "website": "https://www.pickupcomicsvigevano.it",
@@ -11402,6 +11691,7 @@
   {
    "name": "Picocards",
    "group": "unknown",
+   "city": "Modena",
    "address": "Via Giovanni Pico 21, Mirandola, Modena, 41037, Italy",
    "phone": "+393283558345",
    "website": "https://www.picocards.it",
@@ -11490,6 +11780,7 @@
   {
    "name": "Pokecardsstore",
    "group": "unknown",
+   "city": "Lazio",
    "address": "9 Via Polia, Roma, Lazio, 00178, Italy",
    "phone": "3514270199",
    "website": "https://www.pokecardsstore.it",
@@ -11501,6 +11792,7 @@
   {
    "name": "Pokestore",
    "group": "unknown",
+   "city": "Latina",
    "address": "Via Leonardo da vinci n9, Cisterna di latina, Latina, 04012, Italy",
    "phone": "+390670453250",
    "website": "https://www.pokestorecisterna.com/",
@@ -11532,6 +11824,7 @@
   {
    "name": "Power Nine",
    "group": "unknown",
+   "city": "Roma",
    "address": "Via Mar Rosso 51/53, Roma, 62, 00122, Italy",
    "phone": "1placeholder",
    "website": "https://placeholder.com",
@@ -11575,6 +11868,7 @@
   {
    "name": "Progct01",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "Via Solferino 3/a, Manerbio, Lombardia, 25025, Italy",
    "phone": "393339783313",
    "website": "https://www.progct.it",
@@ -11615,6 +11909,7 @@
   {
    "name": "Raikiri",
    "group": "unknown",
+   "city": "Milano",
    "address": "Piazza italia 29, Magnago, Milano, 20020, Italy",
    "phone": "+393520974335",
    "website": "https://wpn.wizards.com/en",
@@ -11626,6 +11921,7 @@
   {
    "name": "RasenCard",
    "group": "unknown",
+   "city": "Lazio",
    "address": "27 Via Emilio Nazzani, Roma, Lazio, 00148, Italy",
    "phone": "+393248430924",
    "website": "https://www.rasencard.com",
@@ -11647,6 +11943,7 @@
   {
    "name": "Reggio Comics 2",
    "group": "unknown",
+   "city": "Emilia-Romagna",
    "address": "19a Corso Giuseppe Garibaldi, Reggio Emilia, Emilia-Romagna, 42121, Italy",
    "phone": "390522580607",
    "website": "https://reggiocomics2.it/",
@@ -11678,6 +11975,7 @@
   {
    "name": "RK Computer & Game",
    "group": "unknown",
+   "city": "Susa",
    "address": "Via Mazzini 7, Susa, TO, 10059, Italy",
    "phone": "+39348 335 1657",
    "website": "https://www.rkcomputer.it/",
@@ -11689,6 +11987,7 @@
   {
    "name": "Robe da Elfi",
    "group": "unknown",
+   "city": "Pinerolo",
    "address": "via Rodi 8/c, Pinerolo, TO, 10064, Italy",
    "phone": "+390121 376398",
    "website": "https://robedaelfi.it/password",
@@ -11700,6 +11999,7 @@
   {
    "name": "Robe da Elfi Rivoli",
    "group": "unknown",
+   "city": "Torino",
    "address": "Via Assisi 12, Rivoli, Torino, 10098, Italy",
    "phone": "+39011 9597830",
    "website": "https://robedaelfirivoli.robedaelfirivoli.it/",
@@ -11741,6 +12041,7 @@
   {
    "name": "Ronin il Covo dei Samurai",
    "group": "unknown",
+   "city": "Treviglio",
    "address": "Via giacomo sangalli 24, Treviglio, BG, 24047, Italy",
    "phone": "+393751065481",
    "website": "https://ronintcg.it/",
@@ -11775,6 +12076,7 @@
   {
    "name": "Safarà - Avellino",
    "group": "unknown",
+   "city": "Avellino",
    "address": "Via F.A. Cappone 21-23, Avellino, AV, 83100, Italy",
    "phone": "+390825-1910343",
    "website": "https://magic.wizards.com/en",
@@ -11829,6 +12131,7 @@
   {
    "name": "sbustiamo con kri",
    "group": "unknown",
+   "city": "lazio",
    "address": "via nomentana 66 mentana, mentana, lazio, 00013, Italy",
    "phone": "+393514823971",
    "website": "https://sbustiamoconkri.it/",
@@ -11910,6 +12213,7 @@
   {
    "name": "ShunFa",
    "group": "unknown",
+   "city": "Novara",
    "address": "Cici Elle Srl Via Montenero 79, Novara, Novara, 28066, Italy",
    "phone": "+393476901649",
    "website": "https://wpn.wizards.com/en",
@@ -12014,6 +12318,7 @@
   {
    "name": "Star Shop I Gigli",
    "group": "unknown",
+   "city": "Toscana",
    "address": "via san quirico 165 Campi Bisenzio (FI), Campi Bisenzio, Toscana, 50013, Italy",
    "phone": "+393892411744",
    "website": "https://www.igigli.it/shop/starshop/",
@@ -12078,6 +12383,7 @@
   {
    "name": "STRANGE COMICS & GAMES",
    "group": "unknown",
+   "city": "SEREGNO",
    "address": "VIA SAN CARLO 10, SEREGNO, MB, 20831, Italy",
    "phone": "+393935925902",
    "website": "https://www.strangecomics.it/",
@@ -12123,6 +12429,7 @@
   {
    "name": "Supermarket del Fumetto",
    "group": "unknown",
+   "city": "Campania",
    "address": "32 Via Circumvallazione, Avellino, Campania, 83100, Italy",
    "phone": "+39-0825-147-0889",
    "website": "https://wpn.wizards.com/en",
@@ -12183,6 +12490,7 @@
   {
    "name": "TCG Club",
    "group": "unknown",
+   "city": "Torino",
    "address": "Via San Secondo 64, Torino, Torino, 10128, Italy",
    "phone": "+3921547924",
    "website": "https://wpn.wizards.com/en",
@@ -12214,6 +12522,7 @@
   {
    "name": "TcgenerationS",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "136 Corso XXVII Marzo, Voghera, Lombardia, 27058, Italy",
    "phone": "393336843231",
    "website": "https://www.tcgenerations.it/",
@@ -12225,6 +12534,7 @@
   {
    "name": "Tempus Fugit",
    "group": "unknown",
+   "city": "PADOVA",
    "address": "Via Barbarigo, 81, PADOVA, PD, 35126, Italy",
    "phone": "+390498789482",
    "website": "https://magic.wizards.com/en",
@@ -12249,6 +12559,7 @@
   {
    "name": "Terradimezzo",
    "group": "unknown",
+   "city": "Verona",
    "address": "Via Roma 37, Bussolengo, Verona, 37012, Italy",
    "phone": "+393407085324",
    "website": "https://wpn.wizards.com/en",
@@ -12353,6 +12664,7 @@
   {
    "name": "The Wonderland Shop di Ricciardi Alessandro & C. S.N.C.",
    "group": "unknown",
+   "city": "Roma",
    "address": "Via Alfonso Gatto 51-53, Roma, RM, 00143, Italy",
    "phone": "+390697994292",
    "website": "https://wpn.wizards.com/en",
@@ -12407,6 +12719,7 @@
   {
    "name": "Tony Toys",
    "group": "unknown",
+   "city": "torino",
    "address": "Via Leonardo Bistolfi 31 ab, La loggia, torino, 10040, Italy",
    "phone": "390114831473",
    "website": "https://tonytoys.it/",
@@ -12431,6 +12744,7 @@
   {
    "name": "top games srls",
    "group": "unknown",
+   "city": "li",
    "address": "via don minzoni 10b, cecina, li, 57023, Italy",
    "phone": "+393484190891",
    "website": "https://memorabiliastore.it/",
@@ -12452,6 +12766,7 @@
   {
    "name": "Towerfun! Pavia",
    "group": "unknown",
+   "city": "Pavia",
    "address": "Via Pietro Nenni 72/A, Pavia, PV, 27100, Italy",
    "phone": "+390382458776",
    "website": "https://wpn.wizards.com/en",
@@ -12522,6 +12837,7 @@
   {
    "name": "Toys Center",
    "group": "unknown",
+   "city": "Torino",
    "region": "Piemonte",
    "address": "C/C Le Gru, V. Crea, 10/a, 10095 Torino TO",
    "phone": "011 707 9414",
@@ -12745,6 +13061,7 @@
   {
    "name": "Up Keep - Comics & Games",
    "group": "unknown",
+   "city": "Cermenate",
    "address": "Via Unione, 26/A, Cermenate, VA, 22072, Italy",
    "phone": "+393755241686",
    "website": "https://wpn.wizards.com/en",
@@ -12786,6 +13103,7 @@
   {
    "name": "Vault 21",
    "group": "unknown",
+   "city": "Valeggio sul mincio",
    "address": "piazza Carlo alberto 21, Valeggio sul mincio, VR, 37067, Italy",
    "phone": "+393337952192",
    "website": "https://wpn.wizards.com/en",
@@ -12870,6 +13188,7 @@
   {
    "name": "WD GAMES",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "10 Via Giovanni Pezzotta, Bergamo, Lombardia, 24128, Italy",
    "phone": "+39 0354284891",
    "website": "https://www.wdgamesita.com",
@@ -12947,6 +13266,7 @@
   {
    "name": "ZAMTEKSHOP",
    "group": "unknown",
+   "city": "Lombardia",
    "address": "16 Via XX Settembre, Carugate, Lombardia, 20061, Italy",
    "phone": "+393716452141",
    "website": "https://www.zamtek.it",
@@ -12968,6 +13288,7 @@
   {
    "name": "ZERO DOGMA SRLS",
    "group": "unknown",
+   "city": "San Paolo bel sito",
    "address": "VIa Nola 62, San Paolo bel sito, NA, 80030, Italy",
    "phone": "+393347986875",
    "website": "https://wpn.wizards.com/en",
@@ -12989,6 +13310,7 @@
   {
    "name": "ZOROSTORE CARDS & GAMES",
    "group": "unknown",
+   "city": "Roma",
    "region": "Lazio",
    "address": "Viale dei Romagnoli, 515, 00121 Roma RM",
    "phone": "348 060 6704",

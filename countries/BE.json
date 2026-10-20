@@ -439,6 +439,7 @@
   {
    "name": "2K Company TCG",
    "group": "in_store",
+   "city": "Hainaut",
    "address": "54 Rue des Capucins, Mons, Hainaut, 7000, Belgium",
    "phone": "+32471446284",
    "website": "https://www.facebook.com/profile.php?id=61559841023407",
@@ -450,6 +451,7 @@
   {
    "name": "Albion",
    "group": "in_store",
+   "city": "West Flanders",
    "address": "Doorniksestraat 52, Kortrijk, West Flanders, 8500, Belgium",
    "phone": "+32 (0) 56324307",
    "website": "https://discord.com/invite/2B5GNN6",
@@ -479,6 +481,7 @@
   {
    "name": "Amalgames",
    "group": "in_store",
+   "city": "Hainaut",
    "address": "Rue Neuves 28, Charleroi, Hainaut, 6000, Belgium",
    "phone": "+32071703666",
    "website": "https://www.facebook.com/share/18xHPj9wF1/",
@@ -546,6 +549,7 @@
   {
    "name": "CODE GEEK",
    "group": "in_store",
+   "city": "Hainaut",
    "address": "Rue gallait 9, Tournai, Hainaut, 7500, Belgium",
    "phone": "+320472619684",
    "website": "https://www.facebook.com/profile.php?id=100063804250528",
@@ -626,6 +630,7 @@
   {
    "name": "Hasard Ludique Namur",
    "group": "in_store",
+   "city": "Namur",
    "address": "86 rue de Fer, Namur, WBR, 5000, Belgium",
    "phone": "1(328) 173-8726 ",
    "games_events": [
@@ -636,6 +641,7 @@
   {
    "name": "Het spelcafé",
    "group": "in_store",
+   "city": "Vlaams Gewest",
    "address": "14 Leuvensestraat, Tienen, Vlaams Gewest, 3300, Belgium",
    "phone": "+320499192053",
    "website": "https://www.facebook.com/profile.php?id=61557421228631",
@@ -936,6 +942,7 @@
   {
    "name": "Sod Games Bois-de-Villers",
    "group": "in_store",
+   "city": "Namur",
    "address": "Rue Raymond Noël 54/3, Bois-de-villers, Namur, 5170, Belgium",
    "phone": "+320487375239",
    "website": "https://www.Facebook.com/SodGamesBoisDeVillers",
@@ -947,6 +954,7 @@
   {
    "name": "SOD GAMES Ciney",
    "group": "in_store",
+   "city": "Namur",
    "address": "Rue du Centre, 6, Ciney, Namur, 5590, Belgium",
    "phone": "+3283633611",
    "website": "https://www.facebook.com/people/SOD-GAMES-Ciney/61576497466586/",
@@ -958,6 +966,7 @@
   {
    "name": "Spellcasters",
    "group": "in_store",
+   "city": "Vlaams Gewest",
    "address": "36 Bakkersstraat, Blankenberge, Vlaams Gewest, 8370, Belgium",
    "phone": "+32479836112",
    "website": "https://www.facebook.com/profile.php?id=61575106495114",
@@ -1449,6 +1458,7 @@
   {
    "name": "Case Départ",
    "group": "unknown",
+   "city": "Région Wallonne",
    "address": "31 Rue des Wallons, Ottignies-Louvain-la-Neuve, Région Wallonne, 1348, Belgium",
    "phone": "1X",
    "website": "https://x.com/",
@@ -1518,6 +1528,7 @@
   {
    "name": "Computer Services Theux - Le coffre des Geeks",
    "group": "unknown",
+   "city": "Région Wallonne",
    "address": "12 Pl. du Perron, Theux, Région Wallonne, 4910, Belgium",
    "phone": "+3287787882",
    "website": "https://cstheux.com/",
@@ -1574,6 +1585,7 @@
   {
    "name": "CTRL HUB",
    "group": "unknown",
+   "city": "Oost-Vlaanderen",
    "address": "Wolvenstraat 2, Zottegem, Oost-Vlaanderen, 9620, Belgium",
    "phone": "+32494039828",
    "website": "https://www.ctrlhub.be",
@@ -1661,6 +1673,7 @@
   {
    "name": "De Spelarena",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "46 Mechelsesteenweg, Kontich, Vlaams Gewest, 2550, Belgium",
    "phone": "+32473 99 99 93",
    "website": "https://despelarena.be/",
@@ -1706,6 +1719,7 @@
   {
    "name": "De Vrolijke Viking",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "67 Voskenslaan, Gent, Vlaams Gewest, 9000, Belgium",
    "phone": "32456376310",
    "website": "https://wpn.wizards.com/en",
@@ -1740,6 +1754,7 @@
   {
    "name": "Demo-Spel",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "3 Sint-Hubertusstraat, Leuven, Vlaams Gewest, 3000, Belgium",
    "phone": "1X",
    "website": "https://x.com/",
@@ -1964,6 +1979,7 @@
   {
    "name": "Gamelootz",
    "group": "unknown",
+   "city": "Vlaams Brabant",
    "address": "4 Langveld, Hakendover, Vlaams Brabant, 3300, Belgium",
    "phone": "+320496916270",
    "website": "https://www.gamelootz.be",
@@ -2022,6 +2038,7 @@
   {
    "name": "Hasard Ludique Tournai",
    "group": "unknown",
+   "city": "Hainaut",
    "address": "Rue de l'Yser, 19 , Tournai, Hainaut, 7500, Belgium",
    "phone": "+3269773806",
    "website": "https://wpn.wizards.com/en",
@@ -2060,6 +2077,7 @@
   {
    "name": "House of Wizards",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "20 Wijngaardstraat, Brugge, Vlaams Gewest, 8000, Belgium",
    "phone": "+32 491288385",
    "website": "https://www.atelierverbaert.com/",
@@ -2134,6 +2152,7 @@
   {
    "name": "Koffie & Spel",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "35 Gilainstraat, Tienen, Vlaams Gewest, 3300, Belgium",
    "phone": "+32(0)495 53 81 28",
    "website": "https://www.koffie-spel.be",
@@ -2230,6 +2249,7 @@
   {
    "name": "Le Nexus",
    "group": "unknown",
+   "city": "Luxembourg",
    "address": "rue des savoyards 7, Marche en famenne, Luxembourg, 6900, Belgium",
    "phone": "+320471515063",
    "website": "https://lenexus.be/fr",
@@ -2314,6 +2334,7 @@
   {
    "name": "Ligne Claire",
    "group": "unknown",
+   "city": "Région Wallonne",
    "address": "66 Grand'Rue, Mons, Région Wallonne, 7000, Belgium",
    "phone": "+33(0)65334838",
    "website": "https://ligneclaire.com/",
@@ -2335,6 +2356,7 @@
   {
    "name": "Ludicorner",
    "group": "unknown",
+   "city": "Région wallonne",
    "address": "21 Grand'Rue, Gembloux, Région wallonne, 5030, Belgium",
    "phone": "3281346558",
    "website": "https://www.ludicorner.be",
@@ -2573,6 +2595,7 @@
   {
    "name": "Nexus Games",
    "group": "unknown",
+   "city": "Antwerpen",
    "address": "41 Bovenrij, Herentals, Antwerpen, 2200, Belgium",
    "phone": "+32472537611",
    "website": "https://nexusgames.be/",
@@ -2594,6 +2617,7 @@
   {
    "name": "Nipponzilla",
    "group": "unknown",
+   "city": "Liège",
    "address": "Rue sous-le-château 4, Huy, Liège, 4500, Belgium",
    "phone": "+32085512043",
    "website": "https://nipponzilla.com/",
@@ -2682,6 +2706,7 @@
   {
    "name": "otaku's zone",
    "group": "unknown",
+   "city": "hainaut",
    "address": "42 rue de pont , Tournai, hainaut, 7500, Belgium",
    "phone": "+32470575953",
    "website": "https://www.otaks-zone.be/",
@@ -3145,6 +3170,7 @@
   {
    "name": "Time to Play",
    "group": "unknown",
+   "city": "Région Wallonne",
    "address": "4 Rue Léopold, Gembloux, Région Wallonne, 5030, Belgium",
    "phone": "323281352568",
    "website": "http://www.time-to-play.com",
@@ -3224,6 +3250,7 @@
   {
    "name": "Vinticards",
    "group": "unknown",
+   "city": "Limburg",
    "address": "Wolfsbergstraat 67, Genk, Limburg, 3600, Belgium",
    "phone": "+32492657973",
    "website": "https://vinticards.be/",
@@ -3265,6 +3292,7 @@
   {
    "name": "WASD - Gaming Café",
    "group": "unknown",
+   "city": "Vlaams Gewest",
    "address": "99 Graatakker, Turnhout, Vlaams Gewest, 2300, Belgium",
    "phone": "+32468056885",
    "website": "https://www.wasdgamingcafe.be",

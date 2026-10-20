@@ -175,6 +175,7 @@
   {
    "name": "Japan Collectibles",
    "group": "blocked",
+   "city": "Warminsko-Mazurskie",
    "address": "Rybacka 32a, Elblag, Warminsko-Mazurskie, 82-300, Poland",
    "phone": "+48578512122",
    "website": "https://japancollectibles.shop",
@@ -236,6 +237,7 @@
   {
    "name": "MAGIC Cafe - Skawina",
    "group": "blocked",
+   "city": "Skawina",
    "address": "Piłsudskiego 45, Skawina, MA, 32-050, Poland",
    "phone": "+48601328353",
    "website": "https://magiccafe.pl/",
@@ -610,6 +612,7 @@
   {
    "name": "Gildia Grodzisk",
    "group": "in_store",
+   "city": "Masovian",
    "address": "ks. M. Tokarzewskiego 9A / 5, Grodzisk Mazowiecki, Masovian, 05-825, Poland",
    "phone": "+48511545362",
    "website": "https://www.facebook.com/GildiaGrodzisk",
@@ -664,6 +667,7 @@
   {
    "name": "Gry i Karty Tarnów",
    "group": "in_store",
+   "city": "Woj. Małopolskie",
    "address": "Wałowa 29, Tarnów, Woj. Małopolskie, 33-100, Poland",
    "phone": "+48667139000",
    "website": "https://www.facebook.com/gryikartytarnow/",
@@ -704,6 +708,7 @@
   {
    "name": "Hex Krakow",
    "group": "in_store",
+   "city": "Krakow",
    "address": "Dwernickiego 5, Krakow, MA, 31-530, Poland",
    "phone": "792795272",
    "website": "https://www.facebook.com/hex.krakow",
@@ -756,6 +761,7 @@
   {
    "name": "KADverse",
    "group": "in_store",
+   "city": "Woj. Wielkopolskie",
    "address": "24 plac Przemysława, Buk, Woj. Wielkopolskie, 64-320, Poland",
    "phone": "+48722247714",
    "website": "https://m.facebook.com/profile.php?id=61593376864269",
@@ -776,6 +782,7 @@
   {
    "name": "Karty i Kostka",
    "group": "in_store",
+   "city": "Mazowieckie",
    "address": "Waleriana Łukasińskiego 18/20 LU 103, Żyrardów, Mazowieckie, 96-300, Poland",
    "phone": "+48574366706",
    "website": "https://www.facebook.com/profile.php?id=61592815269718",
@@ -981,6 +988,7 @@
   {
    "name": "Planszowy Raj",
    "group": "in_store",
+   "city": "Śląsk",
    "address": "23 ulica Modrzejowska, Sosnowiec, Śląsk, 41-200, Poland",
    "phone": "+48695592316",
    "website": "https://www.facebook.com/PlanszowyRaj",
@@ -1127,6 +1135,7 @@
   {
    "name": "Strefa Gry",
    "group": "in_store",
+   "city": "Silesia",
    "address": "ul. Gazownicza 21a, Bielsko-Biała, Silesia, 43-300, Poland",
    "phone": "+48503-682-832",
    "website": "https://www.facebook.com/StrefaGry/",
@@ -1373,6 +1382,7 @@
   {
    "name": "Aleplanszowki.pl - CH Manhattan w Gdansku",
    "group": "unknown",
+   "city": "Województwo pomorskie",
    "address": "82 aleja Grunwaldzka, Gdańsk, Województwo pomorskie, 80-244, Poland",
    "phone": "+48725949303",
    "website": "https://aleplanszowki.pl/",
@@ -1716,6 +1726,7 @@
   {
    "name": "Centrum Gier Inny Wymiar",
    "group": "unknown",
+   "city": "Katowice",
    "address": "Bożogrobców 20, Katowice, OP, 40-115, Poland",
    "phone": "48537 902 095",
    "website": "https://kasynoonlineautomaty.pl/",
@@ -2083,6 +2094,7 @@
   {
    "name": "FROST MAGIC",
    "group": "unknown",
+   "city": "Śląskie",
    "address": "Grunwaldzka 39, Jaworzno, Śląskie, 43-600, Poland",
    "phone": "+48535108193",
    "website": "https://frostmagic.pl/pl",
@@ -2094,6 +2106,7 @@
   {
    "name": "Galaktyka Gier",
    "group": "unknown",
+   "city": "Pruszkow",
    "address": "Ul. Koscielna 23, Pruszkow, MZ, 05-800, Poland",
    "phone": "+48697 394 806",
    "website": "https://galaktykagier.com/",
@@ -2283,6 +2296,7 @@
   {
    "name": "Hegemon",
    "group": "unknown",
+   "city": "Śląskie",
    "address": "Stojałowskiego 39/2, Bielsko-Biała, Śląskie, 43-300, Poland",
    "phone": "+48739 213 788",
    "website": "https://hegemonshop.com/pl/",
@@ -2294,6 +2308,7 @@
   {
    "name": "Hobbity.pl",
    "group": "unknown",
+   "city": "Malopolska",
    "address": "Jagiellonska 50a, Nowy Sacz, Malopolska, 33-300, Poland",
    "phone": "+48184435000",
    "website": "https://hobbity.pl/",
@@ -2426,6 +2441,7 @@
   {
    "name": "Klockowy Szop",
    "group": "unknown",
+   "city": "Woj. Mazowieckie",
    "address": "33B ulica Jana Pawła Woronicza, Warszawa, Woj. Mazowieckie, 02-640, Poland",
    "phone": "+4853041733",
    "website": "https://klockowyszop.pl",
@@ -2563,6 +2579,7 @@
   {
    "name": "Lucky 13",
    "group": "unknown",
+   "city": "Mazowsze",
    "address": "Szolc Rogozińskiego 3, Warszawa, Mazowsze, 02-777, Poland",
    "phone": "+48514583515",
    "website": "https://lucky13.com/pl",
@@ -3147,6 +3164,7 @@
   {
    "name": "RollLand",
    "group": "unknown",
+   "city": "Masovia",
    "address": "Sienkiewicza 6/u1, Piaseczno, Masovia, 05-500, Poland",
    "phone": "+48574863779",
    "website": "https://rollland.pl",
@@ -3519,6 +3537,7 @@
   {
    "name": "Swiat Kart Kolekcjonerskich",
    "group": "unknown",
+   "city": "Województwo pomorskie",
    "address": "7 Politechniczna, Gdańsk, Województwo pomorskie, 80-288, Poland",
    "phone": "+48607803426",
    "website": "https://swiatkart.pl",
@@ -3929,6 +3948,7 @@
   {
    "name": "Zagrajnik Club",
    "group": "unknown",
+   "city": "Mazowieckie",
    "address": "Stanislawa Augusta Poniatowskiego 7, Izabelin C, Mazowieckie, 05-080, Poland",
    "phone": "+48737746859",
    "website": "https://zagrajnik.shop/",

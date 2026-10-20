@@ -238,6 +238,7 @@
   {
    "name": "Boutique L'Artefact",
    "group": "feed",
+   "city": "Sorel-Tracy",
    "address": "191 Rue Victoria, Sorel-Tracy, QC, J3P 1Z4, Canada",
    "phone": "1450-899-0442",
    "website": "https://boutiqueartefact.com/",
@@ -2585,6 +2586,7 @@
   {
    "name": "Topdeck Boucherville",
    "group": "feed",
+   "city": "Boucherville",
    "address": "191 Bd de Mortagne, Boucherville, QC, J4B 1A9, Canada",
    "phone": "1450-641-7650",
    "website": "https://www.topdeckboucherville.com/",
@@ -2879,6 +2881,7 @@
   {
    "name": "Bootown's Games and Hobbies",
    "group": "login_required",
+   "city": "Stratford",
    "address": "165 Downie St, Stratford, ON, N5A 1X2, Canada",
    "phone": "1226-210-4692",
    "website": "https://bootownsgamesandhobbies.com/",
@@ -3344,6 +3347,7 @@
   {
    "name": "House of Cards Abbotsford",
    "group": "login_required",
+   "city": "Abbotsford",
    "address": "6-2664 Gladys Ave, Abbotsford, BC, V2S 3X8, CA",
    "phone": "1604-776-0766",
    "website": "https://houseofcards.ca/",
@@ -3474,6 +3478,7 @@
   {
    "name": "La Boîte Mystere",
    "group": "login_required",
+   "city": "Laval",
    "address": "330d Bd du Curé-Labelle, Laval, QC, H7P 2P1, CA",
    "phone": "14509372777",
    "website": "https://laboitemystere.com/",
@@ -4098,6 +4103,7 @@
   {
    "name": "Pakz Gaming",
    "group": "quote_only",
+   "city": "Woodstock",
    "address": "365 Dundas St, Woodstock, ON, N4S 1B6, Canada",
    "phone": "1226-888-4905",
    "website": "https://pakzgaming.com",
@@ -4453,6 +4459,7 @@
   {
    "name": "Guild House Games - Maple Ridge",
    "group": "blocked",
+   "city": "Maple Ridge",
    "address": "#5 20295 113b Ave, Maple Ridge, BC, V2X 7Z9, Canada",
    "phone": "1-236-324-1175",
    "website": "https://guildhousegames.ca/",
@@ -4735,6 +4742,7 @@
   {
    "name": "Niagara Escapement",
    "group": "blocked",
+   "city": "Niagara Falls",
    "address": "5001 Victoria Ave, Niagara Falls, ON, L2E 4C9, Canada",
    "phone": "1289-296-5221",
    "website": "https://www.niagaraescapement.ca/",
@@ -5064,6 +5072,7 @@
   {
    "name": "Atlas Collectables",
    "group": "in_store",
+   "city": "Waterloo",
    "address": "354 King St N, Waterloo, ON, N2J 2Z2, Canada",
    "phone": "1 15192080755 ",
    "buylist_url": "https://www.atlascollectables.com/buying",
@@ -5519,6 +5528,7 @@
   {
    "name": "Core Games - Burnaby",
    "group": "in_store",
+   "city": "Burnaby",
    "address": "3978B Hastings St, Burnaby, BC, V5C 6C1, Canada",
    "phone": "+16043200933",
    "website": "https://www.facebook.com/coregamesbc",
@@ -5837,6 +5847,7 @@
   {
    "name": "Flint's",
    "group": "in_store",
+   "city": "Kitchener",
    "address": "248 Stirling Ave S , Kitchener, ON, N2G 4L1, Canada",
    "phone": "1519-748-0077",
    "website": "https://www.facebook.com/flintsgaming/",
@@ -5848,6 +5859,7 @@
   {
    "name": "Forbes Hobbies",
    "group": "in_store",
+   "city": "Cambridge",
    "address": "626 King Street E, Cambridge, ON, N3H 3N6, Canada",
    "phone": "1519-700-1950",
    "website": "https://www.facebook.com/forbes.hobbies",
@@ -5956,6 +5968,7 @@
   {
    "name": "Gamer's Spot - St. Hyacinthe",
    "group": "in_store",
+   "city": "St. Hyacinthe",
    "address": "2063 Rue Cherrier, St. Hyacinthe, QC, J2S 1G7, Canada",
    "phone": "1450-768-6332",
    "website": "https://www.facebook.com/gamersspotsthyacinthe",
@@ -6204,6 +6217,7 @@
   {
    "name": "Heroic Dreams",
    "group": "in_store",
+   "city": "Pickering",
    "address": "417 Kingston Rd, Pickering, ON, L1V 1A3, Canada",
    "phone": "1905-492-1240",
    "website": "https://www.facebook.com/heroicdreamsltd/",
@@ -6234,6 +6248,7 @@
   {
    "name": "HOB's Game Cafe",
    "group": "in_store",
+   "city": "Strathmore",
    "address": "95 Brent Blvd, Strathmore, AB, T1P 1X6, Canada",
    "phone": "1403-983-1115",
    "games_events": [
@@ -6342,6 +6357,7 @@
   {
    "name": "Imaginary Wars Gaming and Hobbies",
    "group": "in_store",
+   "city": "Calgary",
    "address": "10233 Elbow Dr SW, Calgary, AB, T2W 1E8, Canada",
    "phone": "1(587) 351-1939",
    "website": "https://www.facebook.com/imaginarywars",
@@ -6533,6 +6549,7 @@
   {
    "name": "L'univers Du Fort",
    "group": "in_store",
+   "city": "Chambly",
    "address": "1225 Av. Bourgogne, Chambly, QC, J3L 1X3, Canada",
    "phone": "1450-447-7333",
    "website": "https://www.facebook.com/universdufort",
@@ -7514,6 +7531,7 @@
   {
    "name": "Taverne du Collectionneur",
    "group": "in_store",
+   "city": "Saint-Hyacinthe",
    "address": "1060 Bd Laurier E, Saint-Hyacinthe, QC, J2T 1E2, CA",
    "phone": "14507685541",
    "website": "https://www.facebook.com/profile.php?id=61550727611617",
@@ -8021,6 +8039,7 @@
   {
    "name": "Warp 2",
    "group": "in_store",
+   "city": "Edmonton",
    "address": "12863 97th St, Edmonton, AB, T5E 4C3, Canada",
    "phone": "1780-478-7767",
    "website": "https://www.facebook.com/people/Warp-2-Comics-and-Games/100057544484158/",
@@ -8342,6 +8361,7 @@
   {
    "name": "Metropolis Comics and Toys",
    "group": "not_buying_singles",
+   "city": "Burnaby",
    "address": "4735 Kingsway, Burnaby, BC, V5H 2C3, Canada",
    "phone": "1604-435-4551",
    "website": "https://www.metropoliscomics.com/",
@@ -9012,6 +9032,7 @@
   {
    "name": "Arctic Board Games",
    "group": "unknown",
+   "city": "Steinbach",
    "address": "363 Main St, Steinbach, MB, R5G 1Z4, Canada",
    "phone": "1204-408-1110",
    "website": "https://arcticboardgames.ca",
@@ -9055,6 +9076,7 @@
   {
    "name": "Arrow Wood Games",
    "group": "unknown",
+   "city": "Squamish",
    "address": "38157 2 Ave, Squamish, BC, V8B 0C4, Canada",
    "phone": "16043905009",
    "website": "https://arrowwoodgames.com/",
@@ -9398,6 +9420,7 @@
   {
    "name": "Board to Bits Game Cafe",
    "group": "unknown",
+   "city": "Niagara Falls",
    "address": "3643 Portage Rd, Niagara Falls, ON, L2J 2K8, CA",
    "phone": "1905-356-8293",
    "website": "https://www.boardtobitsgamecafe.ca",
@@ -9422,6 +9445,7 @@
   {
    "name": "Boardwalk Cafe & Games",
    "group": "unknown",
+   "city": "Abbotsford",
    "address": "33760 Essendene Ave, Abbotsford, BC, V2S 2H2, Canada",
    "phone": "17786665006",
    "website": "https://www.abbyboardwalk.com",
@@ -9624,6 +9648,7 @@
   {
    "name": "Brick Mountian Hobbies",
    "group": "unknown",
+   "city": "Niagara Falls",
    "address": "8040 Lundy's Ln, Niagara Falls, ON, L2H 1H1, Canada",
    "phone": "1289-245-6820",
    "website": "https://brickmountainhobbies.ca/",
@@ -9894,6 +9919,7 @@
   {
    "name": "Cartes Dynastie",
    "group": "unknown",
+   "city": "Saint-Sauveur",
    "address": "175 Chem. Jean-Adam, Saint-Sauveur, QC, J0R 1R6, Canada",
    "phone": "1450-227-6904",
    "website": "https://carddynasty.ca/",
@@ -10036,6 +10062,7 @@
   {
    "name": "Chase the Hits",
    "group": "unknown",
+   "city": "Cochrane",
    "address": "15 - 118 1st Ave West, Cochrane, AB, T4C 2E7, Canada",
    "phone": "1403-981-1133",
    "website": "https://chasethehits.ca/password",
@@ -10191,6 +10218,7 @@
   {
    "name": "Collectionick",
    "group": "unknown",
+   "city": "Mirabel",
    "address": "13941 Ch. St Simon, Mirabel, QC, J7N 1P4, CA",
    "phone": "14502753785",
    "website": "https://www.collectionick.com/",
@@ -10655,6 +10683,7 @@
   {
    "name": "D3 Gaming",
    "group": "unknown",
+   "city": "St. Catharines",
    "address": "50 Niagara St, St. Catharines, ON, L2R 2V3, Canada",
    "phone": "1905-329-1184",
    "website": "https://d3gaming.ca/",
@@ -11241,6 +11270,7 @@
   {
    "name": "Enter the Battlefield - Oakville",
    "group": "unknown",
+   "city": "Oakville",
    "address": "2172 Speers Rd, Oakville, ON, L6L 2X8, Canada",
    "phone": "1905-338-2209",
    "website": "https://etboakville.com/",
@@ -11272,6 +11302,7 @@
   {
    "name": "Escaparium - Dorval",
    "group": "unknown",
+   "city": "Dorval",
    "address": "2064 Rte Transcanadienne, Dorval, QC, H9P 2N4, Canada",
    "phone": "1514-548-3307",
    "website": "https://wpn.wizards.com/en",
@@ -11546,6 +11577,7 @@
   {
    "name": "Freegame - Thetford Mines",
    "group": "unknown",
+   "city": "Thetford Mines",
    "address": "520 Blvd Frontenac Ouest, Thetford Mines, QC, G6G 5V9, Canada",
    "phone": "1418-335-6644",
    "website": "https://magic.wizards.com/en",
@@ -11634,6 +11666,7 @@
   {
    "name": "Game Day Hobbies and Collectibles",
    "group": "unknown",
+   "city": "Wetaskiwin",
    "address": "5008 51 Ave, Wetaskiwin, AB, T9A 0V1, Canada",
    "phone": "1780-362-1382",
    "website": "https://docs.google.com/forms/d/e/1FAIpQLScpa7aDKjSHYyKh0PQQTfonZKAMhYIMjd5FdQ103Azd8P-05w/viewform?usp=send_form",
@@ -11910,6 +11943,7 @@
   {
    "name": "Games HQ",
    "group": "unknown",
+   "city": "Scugog",
    "address": "1869 Scugog St, Scugog, ON, L9L 1J1, Canada",
    "phone": "1905-982-7866",
    "website": "https://magic.wizards.com/en",
@@ -12060,6 +12094,7 @@
   {
    "name": "Geek's Gear",
    "group": "unknown",
+   "city": "Bay Roberts",
    "address": "245 Conception Bay Hwy, Bay Roberts, NL, A0A 1G0, Canada",
    "phone": "1709-690-1361",
    "website": "https://magic.wizards.com/en",
@@ -12128,6 +12163,7 @@
   {
    "name": "Gnu Books",
    "group": "unknown",
+   "city": "Oshawa",
    "address": "1120 Simcoe St N, Oshawa, ON, L1G 4W6, CA",
    "phone": "1905-434-1463",
    "website": "https://www.gnubooks.net/",
@@ -12220,6 +12256,7 @@
   {
    "name": "Green Dragon Games",
    "group": "unknown",
+   "city": "Duncan",
    "address": "60 Queens Rd, Duncan, BC, V9L 2W4, Canada",
    "phone": "1250-732-4263\t",
    "website": "https://greendragongames.ca",
@@ -12737,6 +12774,7 @@
   {
    "name": "Hyperspace Comics",
    "group": "unknown",
+   "city": "Spruce Grove",
    "address": "229 First Ave, Spruce Grove, AB, T7X 2K6 , Canada",
    "phone": "1780-571-0900",
    "website": "https://magic.wizards.com/en",
@@ -13072,6 +13110,7 @@
   {
    "name": "Jeuxjubes Saint-Jérôme",
    "group": "unknown",
+   "city": "Saint-Jérôme",
    "address": "90 Rue Valmont, Saint-Jérôme, QC, J7Y 4Y2, CA",
    "phone": "1450-432-5823",
    "website": "https://www.jeuxjubes.com/fc/",
@@ -13148,6 +13187,7 @@
   {
    "name": "Kafée Dragon",
    "group": "unknown",
+   "city": "Beloeil",
    "address": "526 Bd Sir-Wilfrid-Laurier, Beloeil, QC, J3G 4H9, CA",
    "phone": "14502621302",
    "website": "https://shop.kafeedragon.ca/fc/",
@@ -13159,6 +13199,7 @@
   {
    "name": "Kanto Gaming",
    "group": "unknown",
+   "city": "St. John's",
    "address": "394 Kenmount Rd Unit 102, St. John's, NL, A1B 3R2, CA",
    "phone": "1709-808-0261",
    "website": "https://Http://wpn.wizards.com",
@@ -13300,6 +13341,7 @@
   {
    "name": "L'aventure sur table",
    "group": "unknown",
+   "city": "Lévis",
    "address": "49 Rue Fortier, Lévis, QC, G6V 6K9, CA",
    "phone": "1(418) 603-1618",
    "website": "https://wpn.wizards.com/en",
@@ -13335,6 +13377,7 @@
   {
    "name": "La Grotte d'Asam",
    "group": "unknown",
+   "city": "Plessisville",
    "address": "1731 Rue St Calixte, Plessisville, QC, G6L 1R2, CA",
    "phone": "1438-888-6079",
    "website": "https://grottedasam.com/",
@@ -13557,6 +13600,7 @@
   {
    "name": "Les Cartes Légendaires",
    "group": "unknown",
+   "city": "Saint-André-Avellin",
    "address": "225 Rue Principale, Saint-André-Avellin, QC, J0V 1W0, Canada",
    "phone": "1-514-603-5358",
    "website": "https://wpn.wizards.com/en",
@@ -13850,6 +13894,7 @@
   {
    "name": "Maitre de jeu",
    "group": "unknown",
+   "city": "Granby",
    "address": "14 Rue Saint-Joseph, Granby, QC, J2G 6T6, Canada",
    "phone": "1450-776-6669",
    "website": "http://www.bestmtg.com/",
@@ -14091,6 +14136,7 @@
   {
    "name": "Metal Galaxy",
    "group": "unknown",
+   "city": "Calgary",
    "address": "4624 Macleod Tr SW, Calgary, AB, T2G 5E8, Canada",
    "phone": "1403-253-1414 ",
    "website": "https://wpn.wizards.com/en",
@@ -14200,6 +14246,7 @@
   {
    "name": "Mind Games - Oshawa",
    "group": "unknown",
+   "city": "Oshawa",
    "address": "419 King St W, Oshawa, ON, L1J 2K5, Canada",
    "phone": "1905-434-6463",
    "website": "https://magic.wizards.com/en",
@@ -14619,6 +14666,7 @@
   {
    "name": "Never Board Games Lounge",
    "group": "unknown",
+   "city": "Hamilton",
    "address": "784 1/2 Concession St, Hamilton, ON, L8V 1C9, Canada",
    "phone": "1905-385-5454",
    "website": "https://neverboardgames.ca/",
@@ -15128,6 +15176,7 @@
   {
    "name": "Phoenix Rising",
    "group": "unknown",
+   "city": "St. Catherines",
    "address": "325 St Paul St, St. Catherines, ON, L2R 3N1, Canada",
    "phone": "1905-688-0119",
    "website": "https://phoenixrisinggames.square.site/",
@@ -15388,6 +15437,7 @@
   {
    "name": "Pro Sportscards",
    "group": "unknown",
+   "city": "Vancouver",
    "address": "2646 E Hastings St, Vancouver, BC, V5K 1Z6, Canada",
    "phone": "1604-255-8955",
    "website": "https://magic.wizards.com/en",
@@ -15529,6 +15579,7 @@
   {
    "name": "Realm Walker Games",
    "group": "unknown",
+   "city": "Tillsonburg",
    "address": "14 Oxford Street , Tillsonburg, ON, N4G2G1, Canada",
    "phone": "2266415050",
    "website": "https://realmwalkergames.ca",
@@ -15540,6 +15591,7 @@
   {
    "name": "Rebel Comics",
    "group": "unknown",
+   "city": "Cochrane",
    "address": "521 1 St W, Cochrane, AB, T4C 0A4, CA",
    "phone": "1403-981-7715",
    "website": "https://rebelcomics.ca/index.html",
@@ -16018,6 +16070,7 @@
   {
    "name": "Sketchbook Comics and Games",
    "group": "unknown",
+   "city": "St Catharines",
    "address": "224 Glenridge Ave, St Catharines, ON, L2T 3J9, Canada",
    "phone": "905-682-0111",
    "website": "https://sketchbookcomics.ca/",
@@ -16255,6 +16308,7 @@
   {
    "name": "Stony Plain Games and Collectables",
    "group": "unknown",
+   "city": "Stony Plain",
    "address": "5101 50 Street, Stony Plain, AB, T7Z 1T5, Canada",
    "phone": "1(780)968-5666 ",
    "website": "https://wpn.wizards.com/en",
@@ -16292,6 +16346,7 @@
   {
    "name": "Studio Staja",
    "group": "unknown",
+   "city": "Ottawa",
    "address": "507 Rideau St, Ottawa, ON, K1N 5Z5, Canada",
    "phone": "1(343) 644-1008",
    "website": "https://staja.ca",
@@ -16442,6 +16497,7 @@
   {
    "name": "TCG Zone Canada",
    "group": "unknown",
+   "city": "Milton",
    "address": "1224 Main St E, Milton, ON, L9T 8M7, Canada",
    "phone": "13658776262",
    "website": "https://tcgzonecanada.com",
@@ -16487,6 +16543,7 @@
   {
    "name": "The 3D Shoppe",
    "group": "unknown",
+   "city": "Oshawa",
    "address": "74 King St W, Oshawa, ON, L1H 1A6, CA",
    "phone": "13652821467",
    "website": "https://www.the3dshoppe.ca",
@@ -16715,6 +16772,7 @@
   {
    "name": "The Guild House",
    "group": "unknown",
+   "city": "Toronto",
    "address": "579 St. Clair Avenue West, Toronto, ON, M6C 3Y3, Canada",
    "phone": "1(416) 792-1977",
    "website": "https://theguildhouse.ca/",
@@ -17072,6 +17130,7 @@
   {
    "name": "Toujours Jeux / Always Games",
    "group": "unknown",
+   "city": "Laval",
    "address": "1296 Bd du Curé-Labelle, Laval, QC, H7V 2V9, CA",
    "phone": "1(450)934-6565\t",
    "website": "https://alwaysgames.ca/",
@@ -17154,6 +17213,7 @@
   {
    "name": "Trapped",
    "group": "unknown",
+   "city": "Calgary",
    "address": "1139 Kensington Rd NW, Calgary, AB, T2N 3P4, Canada",
    "phone": "1587-356-4488",
    "website": "https://trapped.com/",
@@ -17340,6 +17400,7 @@
   {
    "name": "Untouchables Sports Cards and Gaming - Mississauga",
    "group": "unknown",
+   "city": "Mississauga",
    "address": "377 Burnhamthorpe Rd E, Mississauga, ON, L5A 3Y1, Canada",
    "phone": "+1905-275-0708",
    "website": "https://magic.wizards.com/en",
@@ -17684,6 +17745,7 @@
   {
    "name": "We Got Gamez - Whitby",
    "group": "unknown",
+   "city": "Whitby",
    "address": "1910 Dundas St E, Whitby, ON, L1N 2L6, Canada",
    "phone": "19055766000",
    "website": "https://wegotgamezcanada.com/",
@@ -17843,6 +17905,7 @@
   {
    "name": "Worlds Collide Games",
    "group": "unknown",
+   "city": "Oshawa",
    "address": "10 Simcoe St N, Oshawa, ON, L1G 4R8, Canada",
    "phone": "1905-436-8999",
    "website": "https://www.worldscollide.ca/",

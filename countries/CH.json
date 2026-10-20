@@ -42,6 +42,7 @@
   {
    "name": "Ikigai Manga Shop",
    "group": "quote_only",
+   "city": "Geneva",
    "address": "Rue des Pâquis 4 BIS, Geneva, Geneva, 1201, Switzerland",
    "phone": "+41229011959",
    "website": "https://ikigai-manga.shop/",
@@ -225,6 +226,7 @@
   {
    "name": "Trainerzentrale",
    "group": "blocked",
+   "city": "Liechtenstein",
    "address": "Landstrasse 37, Schaan, Schaan, 9494, Liechtenstein",
    "phone": "+42341788960826",
    "website": "https://trainer-zentrale.ch/",
@@ -374,6 +376,7 @@
   {
    "name": "Historica-Tabletop",
    "group": "in_store",
+   "city": "St. Gallen",
    "address": "Teufener Straße 12, St. Gallen, SG, 9000, Switzerland",
    "phone": "4177 489 0343",
    "games_events": [
@@ -384,6 +387,7 @@
   {
    "name": "La Citadelle Des Jeux",
    "group": "in_store",
+   "city": "Nyon",
    "address": "Route de Saint-Cergue 303, Nyon, VD, 1260, Switzerland",
    "phone": "+41(0) 225256811",
    "website": "https://www.facebook.com/lacitadelledesjeux.ch",
@@ -488,6 +492,7 @@
   {
    "name": "Spiel Chräisel",
    "group": "in_store",
+   "city": "Altdorf",
    "address": "55 Gotthardstrasse, Altdorf, UR, 6460, Switzerland",
    "phone": "+4141 871 12 23",
    "website": "https://www.facebook.com/Chraeisel/?locale=de_DE",
@@ -576,6 +581,7 @@
   {
    "name": "Akihara AkiCafé",
    "group": "unknown",
+   "city": "Zürich",
    "address": "Tössfledstrasse 67B, Winterthur, Zürich, 8406, Switzerland",
    "phone": "+41787046393",
    "website": "https://akihara.ch/cafe",
@@ -626,6 +632,7 @@
   {
    "name": "ARCBLEU",
    "group": "unknown",
+   "city": "Geneve",
    "address": "49 Route de Meyrin, Genève, Geneve, 1203, Switzerland",
    "phone": "+41795711029",
    "website": "https://www.arcbleu.shop/",
@@ -1043,6 +1050,7 @@
   {
    "name": "Drachearena",
    "group": "unknown",
+   "city": "Oberwil",
    "address": "Passage 2, Oberwil, BL, 4104, Switzerland",
    "phone": "+41614014444",
    "website": "https://www.drachearena.ch/",
@@ -1082,6 +1090,7 @@
   {
    "name": "DuBischDra",
    "group": "unknown",
+   "city": "Zürich",
    "address": "Bahnhofstrasse 57, Dübendorf, Zürich, 8600, Switzerland",
    "phone": "+41435081010",
    "website": "https://www.wellplayed.ch",
@@ -1116,6 +1125,7 @@
   {
    "name": "Erupt",
    "group": "unknown",
+   "city": "Bern",
    "address": "Parkterrasse 14, Bern, Bern, 3012, Switzerland",
    "phone": "+41313121222",
    "website": "https://wpn.wizards.com/en",
@@ -1200,6 +1210,7 @@
   {
    "name": "GameGalaxy",
    "group": "unknown",
+   "city": "Mägenwil",
    "address": "9 Hintermättlistrasse, Mägenwil, AG, 5506, Switzerland",
    "phone": "1X",
    "website": "https://x.com/",
@@ -1314,6 +1325,7 @@
   {
    "name": "Graffiti Spiel und Billardcenter",
    "group": "unknown",
+   "city": "Düdingen",
    "address": "22 Bonnstrasse, Düdingen, FR, 3186, Switzerland",
    "phone": "0793726622",
    "website": "https://x.com/",
@@ -1498,6 +1510,7 @@
   {
    "name": "KLG The Sleeping Giant",
    "group": "unknown",
+   "city": "Olten",
    "address": "Maienstrasse 1, Olten, SO, 4600, Switzerland",
    "phone": "1X",
    "website": "https://www.themagicgiants.ch/",
@@ -1529,6 +1542,7 @@
   {
    "name": "Kyzuna Sàrl",
    "group": "unknown",
+   "city": "Vaud",
    "address": "Grand-Rue 21, Orbe, Vaud, 1350, Switzerland",
    "phone": "+41787526919",
    "website": "https://www.kyzuna.store",
@@ -1640,6 +1654,7 @@
   {
    "name": "Le Maitre de Jeux",
    "group": "unknown",
+   "city": "Sion",
    "address": "Rue du Scex 49C, Sion, AG, 1950, Switzerland",
    "phone": "1X",
    "website": "https://x.com/",
@@ -2073,6 +2088,7 @@
   {
    "name": "Revo Sphere GmbH",
    "group": "unknown",
+   "city": "Biel",
    "address": "General-Dufour-Strasse 61A, Biel, BE, 2504, Switzerland",
    "phone": "1X",
    "website": "https://x.com/",
@@ -2148,6 +2164,7 @@
   {
    "name": "RyuLand",
    "group": "unknown",
+   "city": "Biel",
    "address": "30 Neumarktstrasse, Biel, BE, 2502, Switzerland",
    "phone": "+41(0)78239290",
    "website": "https://ryu.land/",
@@ -2226,6 +2243,7 @@
   {
    "name": "Spielstatt GmbH",
    "group": "unknown",
+   "city": "Aarau",
    "address": "14 Vordere Vorstadt, Aarau, AG, 5000, Switzerland",
    "phone": "1062 822 03 02",
    "website": "https://www.spielstatt.ch/",
@@ -2237,6 +2255,7 @@
   {
    "name": "Spielweltenfabrik MTG BL",
    "group": "unknown",
+   "city": "Liestal",
    "address": "1 Meyer-Wiggli-Strasse, Liestal, BL, 4410, Switzerland",
    "phone": "+41793803380",
    "website": "https://mtgbl.ch",
@@ -2417,6 +2436,7 @@
   {
    "name": "Toki",
    "group": "unknown",
+   "city": "St. Gallen",
    "address": "Hauptstrasse 15, Abtwil SG, St. Gallen , 9030, Switzerland",
    "phone": "+41794860527",
    "website": "https://toki.ch/",
@@ -2451,6 +2471,7 @@
   {
    "name": "Tradingcardcave",
    "group": "unknown",
+   "city": "Solothurn",
    "address": "Hauptstrasse 2, Erlinsbach, Solothurn, 5015, Switzerland",
    "phone": "+41797941863",
    "website": "https://www.tradingcardcave.ch/",
@@ -2509,6 +2530,7 @@
   {
    "name": "TwoMoons Weinfelden",
    "group": "unknown",
+   "city": "Weinfelden",
    "address": "6 Felsenstrasse, Weinfelden, TG, 8570, Switzerland",
    "phone": "410716221110",
    "website": "http://www-wild-cards.ch",

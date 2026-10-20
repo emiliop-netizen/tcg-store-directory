@@ -802,6 +802,7 @@
   {
    "name": "La Traverse des Trolls",
    "group": "blocked",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "2 Av. de la Gavine, Hyères, Provence-Alpes-Côte d'Azur, 83400, France",
    "phone": "+33(0) 625742541",
    "website": "https://www.latraversedestrolls.fr/",
@@ -1128,6 +1129,7 @@
   {
    "name": "Tabletop Taverne",
    "group": "blocked",
+   "city": "Ain",
    "address": "350 Rue Marie-Claude VAILLANT-COUTURIER, SAINT-GENIS-POUILLY (AIN), Ain, 01630, France",
    "phone": "+33686010806",
    "website": "https://tabletoptaverne.fr/",
@@ -1264,6 +1266,7 @@
   {
    "name": "Arcaneum",
    "group": "in_store",
+   "city": "Villeurbanne",
    "address": "49 rue des antonins, Villeurbanne, 69, 69100, France",
    "phone": "+33631131278",
    "games_events": [
@@ -1347,6 +1350,7 @@
   {
    "name": "AU DE VIN",
    "group": "in_store",
+   "city": "NORD",
    "address": "182 rue de la mairie, Douai, NORD, 59500, France",
    "phone": "+330627022675",
    "website": "https://www.instagram.com/au_de_vin_douai/",
@@ -1436,6 +1440,7 @@
   {
    "name": "Baraka Jeux",
    "group": "in_store",
+   "city": "Hauts-de-France",
    "address": "6 Rue Ricard, Beauvais, Hauts-de-France, 60000, France",
    "phone": "330660112562",
    "website": "https://www.facebook.com/Barakajeuxbeauvais",
@@ -1468,6 +1473,7 @@
   {
    "name": "Bartopia, Café Ludique",
    "group": "in_store",
+   "city": "Haut de France",
    "address": "2 Place Roger Salengro, Arques, Haut de France, 62510, France",
    "phone": "0686087882",
    "website": "https://www.facebook.com/Bartopia62",
@@ -1543,6 +1549,7 @@
   {
    "name": "BULLE DE JEUX - COURBEVOIE",
    "group": "in_store",
+   "city": "HAUT SEINE",
    "address": "CENTRE COMMERCIAL CHARRAS 12 RUE BAUDIN, COURBEVOIE, HAUT DE SEINE, 92400, France",
    "phone": "+330140990192",
    "website": "https://www.facebook.com/p/Bulle-de-Jeux-Courbevoie-61579987375922/",
@@ -1554,6 +1561,7 @@
   {
    "name": "Bulle de Jeux Chessy",
    "group": "in_store",
+   "city": "Ile-de-France",
    "address": "24 Place d'Ariane, Chessy, Ile-de-France, 77700, France",
    "phone": "+330164170418",
    "website": "https://www.instagram.com/bulledejeuxchessy/",
@@ -1619,6 +1627,7 @@
   {
    "name": "CARDS & PLAY",
    "group": "in_store",
+   "city": "OCCITANIE",
    "address": "18 Rue des Platanettes, Nîmes, OCCITANIE, 30000, France",
    "phone": "+330607952119",
    "website": "https://www.instagram.com/cardsandplaytcg/",
@@ -1824,6 +1833,7 @@
   {
    "name": "Crows Arena",
    "group": "in_store",
+   "city": "Étampes",
    "address": "12 Rue de la Juiverie, Étampes, IDF, 91150, France",
    "phone": "01 60 83 78 02",
    "website": "https://crowsarena.com/",
@@ -1845,6 +1855,7 @@
   {
    "name": "D'entrée de Jeu",
    "group": "in_store",
+   "city": "Gironde",
    "address": "241 rue Pierre Brossolette, Coutras, Gironde, 33230, France",
    "phone": "+330621983993",
    "website": "https://www.facebook.com/profile.php?id=61588863129699",
@@ -1957,6 +1968,7 @@
   {
    "name": "DUCKS&DOCKS",
    "group": "in_store",
+   "city": "Ile de France",
    "address": "34 cours des Lavandières, Saint-Ouen-sur-Seine, Ile de France, 93400, France",
    "phone": "+330186042591",
    "website": "https://www.instagram.com/ducksanddocks_bd/",
@@ -2001,6 +2013,7 @@
   {
    "name": "Espace Culturel Leclerc Paridis",
    "group": "in_store",
+   "city": "Loire atlantique",
    "address": "Espace Culturel Paridis 14 route de Paris, NANTES, Loire atlantique, 44300, France",
    "phone": "+330240186552",
    "website": "https://www.facebook.com/EspaceCulturelNantesParidis/?locale=fr_FR",
@@ -2024,6 +2037,7 @@
   {
    "name": "Esport Nimes Arena",
    "group": "in_store",
+   "city": "Occitanie",
    "address": "81 Rue de la République, Nîmes, Occitanie, 30900, France",
    "phone": "330635120223",
    "website": "https://twitter.com/NimesEsport",
@@ -2177,6 +2191,7 @@
   {
    "name": "Geek Factory Montevrain",
    "group": "in_store",
+   "city": "Montévrain",
    "address": "39 Av. de la Société des Nations, Montévrain, IDF, 77144, France",
    "phone": "33160976023",
    "website": "https://www.facebook.com/geekfactory.montevrain/",
@@ -2319,6 +2334,7 @@
   {
    "name": "Guyajeux Gers",
    "group": "in_store",
+   "city": "Occitanie",
    "address": "8 Rue du Pouy, Auch, Occitanie, 32000, France",
    "phone": "+33634614937",
    "website": "https://www.facebook.com/profile.php?id=61565438966837&locale=fr_FR",
@@ -2341,6 +2357,7 @@
   {
    "name": "Guyajeux Marmande",
    "group": "in_store",
+   "city": "Nouvelle-Aquitaine",
    "address": "15 Rue Charles de Gaulle, Marmande, Nouvelle-Aquitaine, 47200, France",
    "phone": "+330603516465",
    "website": "https://www.facebook.com/profile.php?id=61584114702080",
@@ -2663,6 +2680,7 @@
   {
    "name": "L'instant Ludique",
    "group": "in_store",
+   "city": "Bethune",
    "address": "38 Avenue Jean-Jaurès, Bethune, 62, 62400, France",
    "phone": "+33(0) 321628760",
    "website": "https://www.facebook.com/LinstantLudique/",
@@ -2674,6 +2692,7 @@
   {
    "name": "L'Occitroll",
    "group": "in_store",
+   "city": "Montauban",
    "address": "3 rue porte du moustier, Montauban, SUD, 82000, France",
    "phone": "+335 81 98 30 02",
    "website": "https://www.facebook.com/p/LOccitroll-100057535206388/",
@@ -2705,6 +2724,7 @@
   {
    "name": "La Boutik Ludik",
    "group": "in_store",
+   "city": "Nord",
    "address": "2 rue du maréchal Foch, Haubourdin, Nord, 59320, France",
    "phone": "+330659934328",
    "website": "https://www.facebook.com/laboutikludik/",
@@ -2716,6 +2736,7 @@
   {
    "name": "La Boutique JCL",
    "group": "in_store",
+   "city": "PACA",
    "address": "21 RUE GIMELLI, TOULON, PACA, 83000, France",
    "phone": "+330670474163",
    "website": "https://www.instagram.com/jclpoketcg/",
@@ -2795,6 +2816,7 @@
   {
    "name": "LA DERNIERE CARTE",
    "group": "in_store",
+   "city": "Ile de France",
    "address": "27-29 Rue de Paris, Nemours, Ile de France, 77140, France",
    "phone": "+330986134505",
    "website": "https://www.facebook.com/profile.php?id=61552082932000",
@@ -2894,6 +2916,7 @@
   {
    "name": "La Perle R@re",
    "group": "in_store",
+   "city": "Aix en Provence",
    "address": "2 rue des bernardines, Aix en Provence, SUD, 13100, France",
    "phone": "+334 42 12 48 33",
    "website": "https://www.facebook.com/laperlerare13/",
@@ -2923,6 +2946,7 @@
   {
    "name": "La Règle du Jeu",
    "group": "in_store",
+   "city": "Auvergne-Rhône-Alpes",
    "address": "29 Rue de l'Éperon, Vienne, Auvergne-Rhône-Alpes, 38200, France",
    "phone": "+33671285933",
    "website": "https://www.facebook.com/p/La-R%C3%A8gle-Du-Jeu-61561192825225/?_rdr",
@@ -2956,6 +2980,7 @@
   {
    "name": "La Taniere du Joueur",
    "group": "in_store",
+   "city": "Hauts-de-France",
    "address": "73 Rue des Ferronniers, Douai, Hauts-de-France, 59500, France",
    "phone": "+33(0)327981796",
    "website": "https://www.facebook.com/latanieredujoueur/",
@@ -3008,6 +3033,7 @@
   {
    "name": "Le Castor Marmiteux",
    "group": "in_store",
+   "city": "Hauts-de-France",
    "address": "4 Rue du Collège, Bergues, Hauts-de-France, 59380, France",
    "phone": "+33328622682",
    "website": "https://www.facebook.com/profile.php?id=100095348882450",
@@ -3081,6 +3107,7 @@
   {
    "name": "Le Deck",
    "group": "in_store",
+   "city": "Orsay",
    "address": "13 Rue Archangé, Orsay, IDF, 91400, France",
    "phone": "+33649323465",
    "website": "https://Instagram.com/ledeckbarludique",
@@ -3104,6 +3131,7 @@
   {
    "name": "Le Décompte",
    "group": "in_store",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "30 Rue Carnot, Gap, Provence-Alpes-Côte d'Azur, 05000, France",
    "phone": "+33 0698891257",
    "website": "https://instagram.com/le_de_compte?igshid=OGQ5ZDc2ODk2ZA==",
@@ -3164,6 +3192,7 @@
   {
    "name": "Le Hazard",
    "group": "in_store",
+   "city": "Hauts-de-France",
    "address": "31 Rue du Maréchal Leclerc, Hazebrouck, Hauts-de-France, 59190, France",
    "phone": "+330622142368",
    "website": "https://www.facebook.com/lehazardhaz/",
@@ -3215,6 +3244,7 @@
   {
    "name": "Le P'tit Bar à Jeux",
    "group": "in_store",
+   "city": "Auvergne-Rhône-Alpes",
    "address": "3 Rue du Collège, Saint-Jean-de-Maurienne, Auvergne-Rhône-Alpes, 73300, France",
    "phone": "+33422914049",
    "website": "https://www.facebook.com/profile.php?id=61559240967771&mibextid=wwXIfr",
@@ -3268,6 +3298,7 @@
   {
    "name": "Le Roi de Coeur",
    "group": "in_store",
+   "city": "Pas-de-Calais",
    "address": "174 Rue Ludovic Boutleux, Béthune, Pas-de-Calais, 62400, France",
    "phone": "+330617257405",
    "website": "https://www.facebook.com/profile.php?id=61579451864352",
@@ -3279,6 +3310,7 @@
   {
    "name": "Le Temple des Cartes",
    "group": "in_store",
+   "city": "Pas-de-Calais",
    "address": "21 Rue Saint-Aubert, Arras, Pas-de-Calais, 62000, France",
    "phone": "+330781410244",
    "website": "https://www.facebook.com/letempledescartesarras",
@@ -3290,6 +3322,7 @@
   {
    "name": "Leclerc Jouet Carvin",
    "group": "in_store",
+   "city": "Carvin",
    "address": "ZAC De La Porte De Carembault, Carvin, Carvin, 62220 , France",
    "phone": "+33032185578",
    "website": "https://www.facebook.com/ELeclercCarvin/?locale=fr_FR",
@@ -3416,6 +3449,7 @@
   {
    "name": "Librairie Combo",
    "group": "in_store",
+   "city": "Hauts-de-France",
    "address": "44 Av. Jean Lebas, Roubaix, Hauts-de-France, 59100, France",
    "phone": "33320038116",
    "website": "https://www.instagram.com/librairiecombo/",
@@ -3490,6 +3524,7 @@
   {
    "name": "Ludi'Dragui",
    "group": "in_store",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "43 Rue des Allées d'Azémar, Draguignan, Provence-Alpes-Côte d'Azur, 83300, France",
    "phone": "+33483734913",
    "website": "https://www.instagram.com/ludi.dragui83300?fbclid=IwY2xjawSGYZtleHRuA2FlbQIxMABicmlkETBra2JqbkNOd2Y4aFlsOWZ3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuhSKRD_-1s-I2vwre0Uypp0ZltBfww09ZCkdjbTbWBWaotlI8NNiOZq05_9_aem_rN45HEJr_9WWBGWmlxr48Q#",
@@ -3523,6 +3558,7 @@
   {
    "name": "Ludik - Villefranche-sur-Saône",
    "group": "in_store",
+   "city": "Auvergne-Rhône-Alpes",
    "address": "180 Rue Victor Hugo, Villefranche-sur-Saône, Auvergne-Rhône-Alpes, 69400, France",
    "phone": "+33(0)426470346",
    "website": "https://www.facebook.com/profile.php?id=100032396666858",
@@ -3559,6 +3595,7 @@
   {
    "name": "LUDIVORE",
    "group": "in_store",
+   "city": "HAUT FRANCE",
    "address": "9 RUE EMILE LEGRELLE, ARRAS, HAUT DE FRANCE, 62000, France",
    "phone": "+330761140612",
    "website": "https://www.facebook.com/ludivore?locale=fr_FR",
@@ -3696,6 +3733,7 @@
   {
    "name": "Manga Story Belle Epine",
    "group": "in_store",
+   "city": "ile de france",
    "address": "Centre commercial Belle Epine, Thiais, ile de france, 94320, France",
    "phone": "+33143244709",
    "website": "https://www.instagram.com/mangastory.iledefrance/",
@@ -3867,6 +3905,7 @@
   {
    "name": "ONE MORE Montpellier",
    "group": "in_store",
+   "city": "Occitanie",
    "address": "20 Bd Pasteur, Montpellier, Occitanie, 34000, France",
    "phone": "+33761472621",
    "website": "https://www.instagram.com/onemoremontpellier/",
@@ -3878,6 +3917,7 @@
   {
    "name": "over game",
    "group": "in_store",
+   "city": "CENTRE",
    "address": "7 RUE DE LA HERSE, NOGENT LE ROTROU, CENTRE, 28400, France",
    "phone": "+330953918151",
    "website": "https://www.facebook.com/profile.php?id=100063749416001&sk=about",
@@ -4039,6 +4079,7 @@
   {
    "name": "POP CORN",
    "group": "in_store",
+   "city": "LOIRE ATLANTIQUE",
    "address": "17 RUE DE L'EGLISE, Le Croisic, LOIRE ATLANTIQUE, 44490, France",
    "phone": "+33759952018",
    "website": "https://www.facebook.com/POPCORNLeCroisic/",
@@ -4186,6 +4227,7 @@
   {
    "name": "shiba games",
    "group": "in_store",
+   "city": "Nouvelle Aquitaine",
    "address": "11 rue saint mathias, Barbezieux-Saint-Hilaire, Nouvelle Aquitaine, 16300, France",
    "phone": "+330684512519",
    "website": "https://www.facebook.com/people/Shiba-Games/61575674332168/#",
@@ -4221,6 +4263,7 @@
   {
    "name": "SNGAMES",
    "group": "in_store",
+   "city": "Occitanie",
    "address": "10 Passage de la Madeleine, Gaillac, Occitanie, 81600, France",
    "phone": "+330783104521",
    "website": "https://www.facebook.com/profile.php?id=61578325567514",
@@ -4778,6 +4821,7 @@
   {
    "name": "Arcania La Taverne Ludique",
    "group": "unknown",
+   "city": "Nord",
    "address": "253 AVENUE DE DUNKERQUE, LOMME, Nord, 59160, France",
    "phone": "+330366599037",
    "website": "https://arcaniabar.fr",
@@ -4832,6 +4876,7 @@
   {
    "name": "ARK-Games",
    "group": "unknown",
+   "city": "Val d'Oise",
    "address": "4 rue de la Patelle, Saint-Ouen l'Aumône, Val d'Oise, 95310, France",
    "phone": "+330789573294",
    "website": "https://ark-games.fr/",
@@ -4843,6 +4888,7 @@
   {
    "name": "Arkadia",
    "group": "unknown",
+   "city": "Hauts de Seine",
    "address": "65 Rue de Neuilly, Clichy, Hauts de Seine, 92110, France",
    "phone": "+330783830288",
    "website": "https://www.arkadia92.fr",
@@ -4970,6 +5016,7 @@
   {
    "name": "Au Café du Dragon Noir",
    "group": "unknown",
+   "city": "Bretagne",
    "address": "6 Rue au Froment, Malestroit, Bretagne, 56140, France",
    "phone": "+33611749779",
    "website": "https://cafedudragonnoir.odoo.com",
@@ -5262,6 +5309,7 @@
   {
    "name": "Bulle de Jeu - Fontainebleau",
    "group": "unknown",
+   "city": "Fontainebleau",
    "address": "12-14 rue de la corne, Fontainebleau, 77, 77300, France",
    "phone": "+339 53 14 76 94",
    "website": "https://www.bulledejeux-melun.com/",
@@ -5273,6 +5321,7 @@
   {
    "name": "bulle de jeux (Chelles)",
    "group": "unknown",
+   "city": "Chelles",
    "address": "43-45 boulevard chilperic, Chelles, 77, 77500, France",
    "phone": "339 70 96 40 27",
    "website": "https://magic.wizards.com/en",
@@ -5284,6 +5333,7 @@
   {
    "name": "Bulle de Jeux (Meaux)",
    "group": "unknown",
+   "city": "Meaux",
    "address": "5, Rue Saint-Etienne, Meaux, 77, 77100, France",
    "phone": "+3301 60 38 41 02",
    "website": "http://bulledejeux.com/",
@@ -5295,6 +5345,7 @@
   {
    "name": "Bulle de Jeux (Melun)",
    "group": "unknown",
+   "city": "Melun",
    "address": "5 RUE DE BOISSETTES, Melun, 75, 77000, France",
    "phone": "+33 (0) 984160959",
    "website": "https://magic.wizards.com/en",
@@ -5762,6 +5813,7 @@
   {
    "name": "COMPTOIR DES ARPENTEURS",
    "group": "unknown",
+   "city": "Pas de Calais",
    "address": "331 rue Elie Gruyelle, HENIN-BEAUMONT, Pas de Calais, 62110, France",
    "phone": "+330778140125",
    "website": "https://wpn.wizards.com/en",
@@ -5856,6 +5908,7 @@
   {
    "name": "Deoucafe",
    "group": "unknown",
+   "city": "ile de france",
    "address": "59 avenue de Versailles, paris, ile de france, 75016, France",
    "phone": "+33611744896",
    "website": "https://deoucafe.com/",
@@ -5867,6 +5920,7 @@
   {
    "name": "Des jus et des jeux",
    "group": "unknown",
+   "city": "Auvergne-Rhône-Alpes",
    "address": "10 Pl. Aristide Bouvet, Ambérieu-en-Bugey, Auvergne-Rhône-Alpes, 01500, France",
    "phone": "33042-608-9760",
    "website": "https://jusetjeux.fr/",
@@ -5906,6 +5960,7 @@
   {
    "name": "Difintel Micro Bordeaux",
    "group": "unknown",
+   "city": "Bordeaux",
    "address": "25 rue Judaique, Bordeaux, OUE, 33000, France",
    "phone": "1+33 (0) 556790552",
    "website": "https://x.com/",
@@ -5947,6 +6002,7 @@
   {
    "name": "Dooz Escape Game",
    "group": "unknown",
+   "city": "Strasbourg",
    "address": "19 rue des magasins, 1er étage, Strasbourg, 67, 67000, France",
    "phone": "+33(0) 680136317",
    "website": "https://magic.wizards.com/en",
@@ -5993,6 +6049,7 @@
   {
    "name": "Dynamite Games - Montaigu",
    "group": "unknown",
+   "city": "Montaigu",
    "address": "57 bis rue Georges Clemenceau, Montaigu, 85, 85600, France",
    "phone": "1(+33) 661033288",
    "website": "https://x.com/",
@@ -6005,6 +6062,7 @@
   {
    "name": "DéclicLudik",
    "group": "unknown",
+   "city": "Bourgoin-Jallieu",
    "address": "8 rue Brunet-Lecomte, Bourgoin-Jallieu, EST, 38300, France",
    "phone": "+3 4 74 28 33 59",
    "website": "https://www.declicludik.fr/",
@@ -6016,6 +6074,7 @@
   {
    "name": "Dédale des Jeux",
    "group": "unknown",
+   "city": "Sartrouville",
    "address": "37 Av Jules Rein, Sartrouville, 78, 78500, France",
    "phone": "+3301 39 68 23 44",
    "website": "https://www.dedaledesjeux.fr/",
@@ -6027,6 +6086,7 @@
   {
    "name": "Dés, Rires & des Jeux",
    "group": "unknown",
+   "city": "Montigny-le-Bretonneux",
    "address": "7, rue Joël le Theule, Montigny-le-Bretonneux, 75, 78180, France",
    "phone": "0699833432",
    "website": "https://linktr.ee/desriresdesjeux",
@@ -6123,6 +6183,7 @@
   {
    "name": "Epic Loot - Lens",
    "group": "unknown",
+   "city": "Hauts-de-France",
    "address": "19 Rue de Paris, Lens, Hauts-de-France, 62300, France",
    "phone": "+33(0)366072354",
    "website": "https://epic-loot.fr/",
@@ -6144,6 +6205,7 @@
   {
    "name": "Escape Mind",
    "group": "unknown",
+   "city": "Hénin-Beaumont",
    "address": "1112 Boulevard Fernand Darchicourt, Hénin-Beaumont, 62, 62110, France",
    "phone": "+33321672431",
    "website": "https://buy-the-game.fr/evenements/",
@@ -6200,6 +6262,7 @@
   {
    "name": "Exploration Ludique",
    "group": "unknown",
+   "city": "Castres",
    "address": "10 rue Sabaterie, Castres, 81, 81100, France",
    "phone": "133563613702",
    "website": "https://x.com/",
@@ -6310,6 +6373,7 @@
   {
    "name": "Forges de Lumière",
    "group": "unknown",
+   "city": "Castanet Tolosan",
    "address": "1 Place Clémence Isaure, Castanet Tolosan, SUD, 31320, France",
    "phone": "+33 (0) 561810414",
    "website": "https://magic.wizards.com/en",
@@ -6321,6 +6385,7 @@
   {
    "name": "Fragments TCG (by WZX Vault)",
    "group": "unknown",
+   "city": "Bouches-du-Rhône",
    "address": "1900 RDN7, 13560 Sénas, Alleins, Bouches-du-Rhône, 13560, France",
    "phone": "+330775765276",
    "website": "https://fragmentstcg.com/not-available",
@@ -6436,6 +6501,7 @@
   {
    "name": "Game Shop Maubeuge",
    "group": "unknown",
+   "city": "Nord",
    "address": "32 Avenue Franklin Roosevelt, Maubeuge, Nord, 59600, France",
    "phone": "+33667846712",
    "website": "https://gameshop-maubeuge.fr/",
@@ -6531,6 +6597,7 @@
   {
    "name": "Geek Factory (Matignon)",
    "group": "unknown",
+   "city": "Matignon",
    "address": "11 Place du Général de Gaulle, Matignon, 22, 22550, France",
    "phone": "133 02 96 83 44 18",
    "website": "https://x.com/",
@@ -6543,6 +6610,7 @@
   {
    "name": "Geek Factory - Escape Game",
    "group": "unknown",
+   "city": "Lamballe",
    "address": "29 rue du general Leclerc, Lamballe, 22, 22400, France",
    "phone": "1+33 (0) 256405362",
    "website": "https://lescale-ybur.fr/",
@@ -6621,6 +6689,7 @@
   {
    "name": "GOUPIYA",
    "group": "unknown",
+   "city": "Antony",
    "address": "67 avenue Aristide Briand, Antony, 01, 92160, France",
    "phone": "+33(066) 076-6061",
    "website": "https://www.goupiya.com/fr/",
@@ -6679,6 +6748,7 @@
   {
    "name": "Guyajeux Salon",
    "group": "unknown",
+   "city": "Salon de Provence",
    "address": "239, Boulevard Jean Jaurès, Salon de Provence, 13, 13300, France",
    "phone": "1(+33) 659649542",
    "website": "https://x.com/",
@@ -6824,6 +6894,7 @@
   {
    "name": "Janimes",
    "group": "unknown",
+   "city": "Nimes",
    "address": "3 rue des marchands, Nimes, 30, 30000, France",
    "phone": "+339 82 60 76 96",
    "website": "https://janimes.fr/",
@@ -6888,6 +6959,7 @@
   {
    "name": "Je Console Sarreguemines",
    "group": "unknown",
+   "city": "Sarreguemines",
    "address": "7 Rue des Généraux Crémer, Sarreguemines, EST, 57200, France",
    "phone": "1+33 (0) 387286851",
    "website": "https://x.com/",
@@ -6937,6 +7009,7 @@
   {
    "name": "Jeux Barjo Bordeaux",
    "group": "unknown",
+   "city": "BORDEAUX",
    "address": "12 rue Saint James, BORDEAUX, OUE, 33000, France",
    "phone": "1+33 (0) 556510021",
    "website": "https://x.com/",
@@ -6982,6 +7055,7 @@
   {
    "name": "JEUxDREDI",
    "group": "unknown",
+   "city": "Hyères",
    "address": "24 avenue Alphonse Denis, Hyères, 83, 83400, France",
    "phone": "1X",
    "website": "https://x.com/",
@@ -6994,6 +7068,7 @@
   {
    "name": "JEUXVIDEOPLUS",
    "group": "unknown",
+   "city": "Pithiviers",
    "address": "8 place du Martroi, Pithiviers, 42, 45300, France",
    "phone": "1(+33) 238320170",
    "website": "https://x.com/",
@@ -7147,6 +7222,7 @@
   {
    "name": "Kurhinotama",
    "group": "unknown",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "5 Rue Jean Mermoz, Fréjus, Provence-Alpes-Côte d'Azur, 83600, France",
    "phone": "+33695790696",
    "website": "https://kurhinotama.fr/",
@@ -7185,6 +7261,7 @@
   {
    "name": "L'Aliane",
    "group": "unknown",
+   "city": "Colmar",
    "address": "13 rue de la cigogne, Colmar, 68, 68000, France",
    "phone": "1+33 (0) 983998699",
    "website": "https://hhttps://laliane.com/",
@@ -7220,6 +7297,7 @@
   {
    "name": "L'Antre du Blup",
    "group": "unknown",
+   "city": "Centre-Val de Loire",
    "address": "11 Pl. de la Poissonnerie, Chartres, Centre-Val de Loire, 28000, France",
    "phone": "+33237284853",
    "website": "https://www.antredublup.com/",
@@ -7268,6 +7346,7 @@
   {
    "name": "L'Arcade",
    "group": "unknown",
+   "city": "Puget sur Argens",
    "address": "106 Boulevard Jean Moulin, Puget sur Argens, 83, 83480, France",
    "phone": "+33 (0) 967368516",
    "website": "https://magic.wizards.com/en",
@@ -7293,6 +7372,7 @@
   {
    "name": "L'arène du fou",
    "group": "unknown",
+   "city": "Nîmes",
    "address": "18 BV Gambetta, Nîmes, 30, 30000, France",
    "phone": "1+33(0) 466844389",
    "website": "https://x.com/",
@@ -7329,6 +7409,7 @@
   {
    "name": "l'Echoppe des Jeux",
    "group": "unknown",
+   "city": "Aix-les-Bains",
    "address": "1 rue des Bains, Aix-les-Bains, 69, 73000, France",
    "phone": "133 04 57 34 69 86",
    "website": "https://echoppedesjeux.fr/animations/",
@@ -7379,6 +7460,7 @@
   {
    "name": "La Bonne Excuse",
    "group": "unknown",
+   "city": "Maisons-Laffitte",
    "address": "12 Rue des Plantes, Maisons-Laffitte, IDF, 78600, France",
    "phone": "+33981500876",
    "website": "https://la-bonne-excuse.fr/",
@@ -7438,6 +7520,7 @@
   {
    "name": "La Cabane à Jeux",
    "group": "unknown",
+   "city": "La teste de buch",
    "address": "2 rue Francois Legallais, La teste de buch, 33, 33260, France",
    "phone": "1+33 (0) 557524892",
    "website": "https://x.com/",
@@ -7474,6 +7557,7 @@
   {
    "name": "La Case",
    "group": "unknown",
+   "city": "Occitanie",
    "address": "11 Rue de Reims, Saint-Sulpice-la-Pointe, Occitanie, 81370, France",
    "phone": "330686658204",
    "website": "https://lacasebarajeux.fr/",
@@ -7557,6 +7641,7 @@
   {
    "name": "La Communauté des Jeux",
    "group": "unknown",
+   "city": "Voiron",
    "address": "22 Avenue Jules Ravat, Voiron, EST, 38500, France",
    "phone": "+33 (0) 476652894",
    "website": "https://magic.wizards.com/en",
@@ -7568,6 +7653,7 @@
   {
    "name": "LA COMPAGNIE DES JEUX",
    "group": "unknown",
+   "city": "Île-de-France",
    "address": "169 Espl. Patrice Chéreau, Nanterre, Île-de-France, 92000, France",
    "phone": "+33146910881",
    "website": "https://compagniedesjeux.fr/",
@@ -7579,6 +7665,7 @@
   {
    "name": "La Contrée de Thelvyn",
    "group": "unknown",
+   "city": "Beugny",
    "address": "17 Rue de Vaulx, Beugny, 62, 62124, France",
    "phone": "+33(0) 651566871",
    "website": "https://magic.wizards.com/en",
@@ -7617,6 +7704,7 @@
   {
    "name": "La DECKBOX",
    "group": "unknown",
+   "city": "Eure",
    "address": "35 rue de vienne, Gisors, Eure, 27140, France",
    "phone": "+330972883347",
    "website": "https://ladeckboxfr.com/",
@@ -7731,6 +7819,7 @@
   {
    "name": "La Ludosaure",
    "group": "unknown",
+   "city": "Bretagne",
    "address": "3 rue Aristide Briand, Janzé, Bretagne, 35150, France",
    "phone": "+330223080298",
    "website": "https://www.la-ludosaure.fr/",
@@ -7765,6 +7854,7 @@
   {
    "name": "la malle a jeux",
    "group": "unknown",
+   "city": "St Nazaire",
    "address": "52 rue d'anjou, St Nazaire, OUE, 44600, France",
    "phone": "1+33 (0) 240625036",
    "website": "https://x.com/",
@@ -7813,6 +7903,7 @@
   {
    "name": "la Tanière du Jeu",
    "group": "unknown",
+   "city": "Les Herbiers",
    "address": "3 rue des Halles, Les Herbiers, 85, 85500, France",
    "phone": "1+33 (0) 251912105",
    "website": "https://x.com/",
@@ -7853,6 +7944,7 @@
   {
    "name": "LA TRICHE - BOUTIQUE, BAR A JEUX",
    "group": "unknown",
+   "city": "Gradignan",
    "address": "2 Route de Pessac, Gradignan, NC, 33170, France",
    "phone": "133 05 35 38 60 81",
    "website": "https://x.com/",
@@ -7991,6 +8083,7 @@
   {
    "name": "Le Chat Chouette des Jeux",
    "group": "unknown",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "125 Rue Colbert, Pertuis, Provence-Alpes-Côte d'Azur, 84120, France",
    "phone": "+33(0)9 86 71 66 17",
    "website": "https://www.le-chat-chouette-des-jeux.fr/",
@@ -8021,6 +8114,7 @@
   {
    "name": "Le Dragon Joueur",
    "group": "unknown",
+   "city": "Auvergne-Rhône-Alpes",
    "address": "52 Rue de la République, Saint-Chamond, Auvergne-Rhône-Alpes, 42400, France",
    "phone": "+33685524559",
    "website": "https://www.ledragonjoueur.fr/",
@@ -8032,6 +8126,7 @@
   {
    "name": "Le Dé Audacieux",
    "group": "unknown",
+   "city": "Grand Est",
    "address": "16b rue de la prairie , Saint Dié des Vosges, Grand Est, 88100, France",
    "phone": "+330329555547",
    "website": "https://www.le-de-audacieux.fr/",
@@ -8207,6 +8302,7 @@
   {
    "name": "Le QG des joueurs",
    "group": "unknown",
+   "city": "Loire",
    "address": "12 rue dorine bourneton, ANDREZIEUX-BOUTHEON, Loire, 42110, France",
    "phone": "+330482824770",
    "website": "https://www.qgdesjoueurs.fr/",
@@ -8238,6 +8334,7 @@
   {
    "name": "Le Royaume des jeux",
    "group": "unknown",
+   "city": "Île-de-France",
    "address": "6 Av. de la République, Mantes-la-Jolie, Île-de-France, 78200, France",
    "phone": "+33665268041",
    "website": "https://www.leroyaumedesjeux.fr/",
@@ -8262,6 +8359,7 @@
   {
    "name": "Le Shifumi Bar à Jeux",
    "group": "unknown",
+   "city": "La Teste de Buch",
    "address": "341 Avenue Vulcain, La Teste de Buch, 33, 33260, France",
    "phone": "1+33557611143",
    "website": "https://www.shifumi.eu/",
@@ -8388,6 +8486,7 @@
   {
    "name": "Le Troll à 2 Têtes",
    "group": "unknown",
+   "city": "Saint Ouen l'Aumône",
    "address": "2 rue du mail, Saint Ouen l'Aumône, 95, 95310, France",
    "phone": "1+33 (0) 134424063",
    "website": "https://letrolla2tetes.fr/",
@@ -8419,6 +8518,7 @@
   {
    "name": "Les 3J",
    "group": "unknown",
+   "city": "Occitanie",
    "address": "92 Av. du Languedoc, Saint-Lys, Occitanie, 31470, France",
    "phone": "+33760388486",
    "website": "https://www.les3j.fr",
@@ -8445,6 +8545,7 @@
   {
    "name": "LES BEAUX JOUEURS",
    "group": "unknown",
+   "city": "Alpes-Maritimes",
    "address": "1, rue Vernier, NICE, Alpes-Maritimes, 06000, France",
    "phone": "+330951837776",
    "website": "https://lesbeauxjoueurs.com/agenda/",
@@ -8480,6 +8581,7 @@
   {
    "name": "Les Dés Givrés",
    "group": "unknown",
+   "city": "Coulommiers",
    "address": "37 Rue Beaurepaire, Coulommiers, IDF, 77120, France",
    "phone": "331 64 82 42 62",
    "website": "https://www.les-des-givres.fr",
@@ -8504,6 +8606,7 @@
   {
    "name": "Les Fous du Roy",
    "group": "unknown",
+   "city": "Versailles",
    "address": "31 rue du Général Leclerc, Versailles, 75, 78000, France",
    "phone": "+33 (0) 139533034",
    "website": "https://magic.wizards.com/en",
@@ -8611,6 +8714,7 @@
   {
    "name": "Les Troubajoueurs",
    "group": "unknown",
+   "city": "Bourg",
    "address": "37 rue Valentin Bernard, Bourg, 33, 33710, France",
    "phone": "1+33 (0) 603243212",
    "website": "https://x.com/",
@@ -8796,6 +8900,7 @@
   {
    "name": "Life Is a Game",
    "group": "unknown",
+   "city": "Haut-de-France",
    "address": "91 Rue nationale, Marcq-en-Barœul, Haut-de-France, 59700, France",
    "phone": "+330750255156",
    "website": "https://linktr.ee/desriresdesjeux",
@@ -8961,6 +9066,7 @@
   {
    "name": "Ludotrotter Aulnay",
    "group": "unknown",
+   "city": "Aulnay-sous-Bois",
    "address": "46 Av. Anatole France, Aulnay-sous-Bois, IDF, 93600, France",
    "phone": "33986324627",
    "website": "https://aulnay.ludotrotter.com/",
@@ -8995,6 +9101,7 @@
   {
    "name": "Ludotrotter Lille",
    "group": "unknown",
+   "city": "Hauts-de-France",
    "address": "357 Av. de Dunkerque Lomme, Lille, Hauts-de-France, 59160, France",
    "phone": "+330782024069",
    "website": "https://lille.ludotrotter.com",
@@ -9030,6 +9137,7 @@
   {
    "name": "Lutin ludique",
    "group": "unknown",
+   "city": "Bretagne",
    "address": "11 Grand Rue, Dinan, Bretagne, 22100, France",
    "phone": "+330981396013",
    "website": "https://lutin-ludique.com",
@@ -9648,6 +9756,7 @@
   {
    "name": "Mystic Games",
    "group": "unknown",
+   "city": "Boulogne-Billancourt",
    "address": "270 Bd Jean Jaurès, Boulogne-Billancourt, IDF, 92100, France",
    "phone": "+330141313665",
    "website": "https://mysticgames.fr/",
@@ -9669,6 +9778,7 @@
   {
    "name": "Natsume Corp",
    "group": "unknown",
+   "city": "Occitanie",
    "address": "17 Av. de Toulouse, Cugnaux, Occitanie, 31270, France",
    "phone": "+33674458635",
    "website": "https://natsume-corp.fr/",
@@ -9690,6 +9800,7 @@
   {
    "name": "Nexus saloon",
    "group": "unknown",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "65 Av. du Char Verdun, La Valette-du-Var, Provence-Alpes-Côte d'Azur, 83160, France",
    "phone": "+33623806847",
    "website": "https://nexussaloon.odoo.com/",
@@ -9870,6 +9981,7 @@
   {
    "name": "Osakatoys",
    "group": "unknown",
+   "city": "Valenciennes",
    "address": "1 rue derriere la tour, Valenciennes, EST, 59300, France",
    "phone": "+33(0) 327238144",
    "website": "https://magic.wizards.com/en",
@@ -9995,6 +10107,7 @@
   {
    "name": "Passion du Jeu",
    "group": "unknown",
+   "city": "Cholet",
    "address": "53 rue des vieux greniers, Cholet, OUE, 49300, France",
    "phone": "+332 41 62 78 86",
    "website": "https://www.passiondujeu.fr/",
@@ -10363,6 +10476,7 @@
   {
    "name": "Premier Organizer - Fanfinity",
    "group": "unknown",
+   "city": "Vlaanderen",
    "address": "11 Tulpenstraat, Nazareth-De Pinte, Vlaanderen, 9810, BE",
    "phone": "4420 3998 3018",
    "website": "https://www.fanfinity.gg",
@@ -10414,6 +10528,7 @@
   {
    "name": "Queen's Garden",
    "group": "unknown",
+   "city": "Yvelines",
    "address": "14 rue André Bonnenfant, Saint-Germain-en-Laye, Yvelines, 78100, France",
    "phone": "+330175796807",
    "website": "https://wpn.wizards.com/en",
@@ -10572,6 +10687,7 @@
   {
    "name": "Role Games",
    "group": "unknown",
+   "city": "marseille",
    "address": "32 rue barbaroux, marseille, SUD, 13001, France",
    "phone": "1+33 (0) 491421029",
    "website": "https://x.com/",
@@ -10684,6 +10800,7 @@
   {
    "name": "Salle de billard - La noire blanche",
    "group": "unknown",
+   "city": "Vernon",
    "address": "111 rue carnot, Vernon, 59, 27200, France",
    "phone": "1+33 (0) 232216229",
    "website": "https://x.com/",
@@ -10980,6 +11097,7 @@
   {
    "name": "Sortileges Nantes",
    "group": "unknown",
+   "city": "Nantes",
    "address": "1 rue des 3 croissants, Nantes, OUE, 44000, France",
    "phone": "1X",
    "website": "https://x.com/",
@@ -11400,6 +11518,7 @@
   {
    "name": "Toi Moi Jeux",
    "group": "unknown",
+   "city": "Gironde",
    "address": "14 rue du maréchal Joffre, Castelnau de Medoc, Gironde, 33480, France",
    "phone": "+33665001644",
    "website": "https://wpn.wizards.com/en",
@@ -11436,6 +11555,7 @@
   {
    "name": "Toy Toy",
    "group": "unknown",
+   "city": "Bretagne",
    "address": "5 avenue de Scissy, Cancale, Bretagne, 35260, France",
    "phone": "+330684710282",
    "website": "https://wpn.wizards.com/en",
@@ -11657,6 +11777,7 @@
   {
    "name": "Voyage Ludique",
    "group": "unknown",
+   "city": "Isere",
    "address": "68 rue des frères Montgolfier, Crolles, Isere, 38920, France",
    "phone": "+330438928702",
    "website": "https://www.voyage-ludique.fr",
@@ -11768,6 +11889,7 @@
   {
    "name": "Yakajouer",
    "group": "unknown",
+   "city": "Provence-Alpes-Côte d'Azur",
    "address": "62 Rue de la République, Brignoles, Provence-Alpes-Côte d'Azur, 83170, France",
    "phone": "+33 0952535593",
    "website": "https://yakajouer.fr/",
@@ -11788,6 +11910,7 @@
   {
    "name": "Yokaï Fusion",
    "group": "unknown",
+   "city": "Provence Alple Cote D'Azur",
    "address": "111 Chemin du Mitan, La Motte, Provence Alple Cote D'Azur, 83920, France",
    "phone": "+330422560054",
    "website": "https://www.yokaifusion.fr",

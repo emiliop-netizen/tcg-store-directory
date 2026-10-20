@@ -7,6 +7,7 @@
   {
    "name": "BEASTLAND",
    "group": "login_required",
+   "city": "Pri gymnáziu",
    "region": "Nitriansky kraj",
    "address": "Pri gymnáziu 9696/9, 940 02 Nové Zámky",
    "phone": "0905 730 845",
@@ -16,6 +17,7 @@
   {
    "name": "Antikvariát",
    "group": "blocked",
+   "city": "Zimná",
    "region": "Košický kraj",
    "address": "Zimná 1147/16, 040 01 Košice-Staré Mesto",
    "phone": "055 625 23 95",
@@ -25,6 +27,7 @@
   {
    "name": "Antikvariát",
    "group": "blocked",
+   "city": "Bočná",
    "region": "Košický kraj",
    "address": "Bočná 2, 040 01 Košice-Staré Mesto",
    "phone": "055 622 35 68",
@@ -47,6 +50,7 @@
   {
    "name": "CardHUB",
    "group": "in_store",
+   "city": "Banskobystrický kraj",
    "region": "Banskobystrický kraj",
    "address": "Tomáša Garrigue Masaryka 3138/14A, 984 01 Lučenec, Slovakia, Banskobystrický kraj, 984 01",
    "phone": "+421907855965",
@@ -59,6 +63,7 @@
   {
    "name": "Cards & Collectibles - Řehulka",
    "group": "in_store",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Hviezdna 9368/38, 821 06 Bratislava",
    "phone": "02 452 590 70",
@@ -67,6 +72,7 @@
   {
    "name": "Decks and Drinks",
    "group": "in_store",
+   "city": "Bratislava-Hrad",
    "address": "Zámocká 7327/28, Bratislava, Bratislava-Hrad, 811 01, Slovakia",
    "phone": "+421949371199",
    "website": "https://www.facebook.com/profile.php?id=61585228877955",
@@ -87,6 +93,7 @@
   {
    "name": "Expres Stores Sk s.r.o.",
    "group": "in_store",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Vyšná 1633/9, 821 05 Bratislava",
    "phone": "0902 492 939",
@@ -112,6 +119,7 @@
   {
    "name": "Klubovňa Funtastic",
    "group": "in_store",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Obchodná 14, 811 08 Bratislava",
    "website": "https://www.facebook.com/KlubovnaFuntastic/",
@@ -120,6 +128,7 @@
   {
    "name": "Papierníctvo a viac - Terasa",
    "group": "in_store",
+   "city": "Narcisová",
    "region": "Košický kraj",
    "address": "Narcisová 6, 040 11 Košice - mestská časť Západ",
    "phone": "0915 929 200",
@@ -128,6 +137,7 @@
   {
    "name": "Pocket Cards BS",
    "group": "in_store",
+   "city": "Križovatka",
    "region": "Banskobystrický kraj",
    "address": "Križovatka 910, 969 01 Banská Štiavnica",
    "phone": "0917 431 503",
@@ -136,6 +146,7 @@
   {
    "name": "Pocket Cards Zc",
    "group": "in_store",
+   "city": "Žarnovica",
    "region": "Banskobystrický kraj",
    "address": "Slobody 807/2, 966 81 Žarnovica",
    "phone": "0917 431 503",
@@ -152,6 +163,7 @@
   {
    "name": "Questshop.sk",
    "group": "in_store",
+   "city": "Trnavský kraj",
    "region": "Trnavský kraj",
    "address": "Hlavná 7/13, 917 01 Trnava, Slovakia, Trnavský kraj, 917 01",
    "games_events": [
@@ -197,6 +209,7 @@
   {
    "name": "Svet duelov",
    "group": "in_store",
+   "city": "Trenčiansky kraj",
    "region": "Trenčiansky kraj",
    "address": "Námestie slobody, 971 01 Prievidza, Slovakia, Trenčiansky kraj, 971 01",
    "phone": "+421907332786",
@@ -230,6 +243,7 @@
   {
    "name": "ALLTOYS",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "OC Cassovia, Pri prachárni 4, 040 11 Košice",
    "phone": "0915 728 039",
@@ -269,6 +283,7 @@
   {
    "name": "Artforum Košice",
    "group": "unknown",
+   "city": "Hlavná",
    "region": "Košický kraj",
    "address": "Hlavná 87, 040 01 Staré Mesto",
    "phone": "055 623 26 77",
@@ -278,6 +293,7 @@
   {
    "name": "Belly Button",
    "group": "unknown",
+   "city": "Košice",
    "address": "Timonova 13, Košice, Slovakia, 040 01, Slovakia",
    "phone": "+421950582242",
    "website": "https://bellybutton.sk/events",
@@ -289,6 +305,7 @@
   {
    "name": "BernyGold - darčeky",
    "group": "unknown",
+   "city": "Juh",
    "region": "Košický kraj",
    "address": "OC Cassovia, Pri prachárni 4, 040 11 Juh",
    "phone": "0903 737 632",
@@ -332,6 +349,7 @@
   {
    "name": "Collector Syndicate",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Tolstého 5, 811 06 Bratislava",
    "phone": "0904 976 979",
@@ -379,6 +397,7 @@
   {
    "name": "DRACO",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "Trieda KVP 4, 040 23 Košice",
    "phone": "0905 518 060",
@@ -408,6 +427,7 @@
   {
    "name": "FAMEX, Ltd.",
    "group": "unknown",
+   "city": "Výstavby",
    "region": "Košický kraj",
    "address": "Výstavby 190/1, 040 11 Košice-Košice - mestská časť Západ",
    "phone": "0910 941 161",
@@ -437,6 +457,7 @@
   {
    "name": "FENIX Cards",
    "group": "unknown",
+   "city": "Trnavský kraj",
    "address": "95 Štefánikova, Trnava, Trnavský kraj, 917 01, Slovakia",
    "phone": "+421 944351176",
    "website": "https://www.erdecards.sk",
@@ -468,6 +489,7 @@
   {
    "name": "Flying Tiger Copenhagen",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "Moldavská cesta 32, 040 11 Košice",
    "phone": "0948 091 447",
@@ -489,6 +511,7 @@
   {
    "name": "Galaxy Club",
    "group": "unknown",
+   "city": "Bajzova",
    "region": "Košický kraj",
    "address": "Bajzova 1436/2, 040 01 Staré Mesto",
    "phone": "0910 955 107",
@@ -498,6 +521,7 @@
   {
    "name": "GETGAME - Sloveco s.ro.",
    "group": "unknown",
+   "city": "Popradská",
    "region": "Košický kraj",
    "address": "Popradská 66, 040 11 Košice-Košice - mestská časť Západ",
    "phone": "0903 412 819",
@@ -507,6 +531,7 @@
   {
    "name": "HC Košice Fanshop",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "Nerudova 1627/12, 040 01 Košice",
    "phone": "0907 776 999",
@@ -526,6 +551,7 @@
   {
    "name": "Hornbach",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "Moldavská cesta 22, 040 11 Košice",
    "phone": "055 783 30 00",
@@ -548,6 +574,7 @@
   {
    "name": "iHRYsko, Cloudpost",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Vajnorská 10645/100, Bratislava, BL, 83104, Slovakia",
    "phone": "+421902362306",
@@ -560,6 +587,7 @@
   {
    "name": "Kartovo - Košice",
    "group": "unknown",
+   "city": "Košický kraj",
    "region": "Košický kraj",
    "address": "Mlynská 876/21, 040 01 Staré Mesto, Slovakia, Košický kraj, 040 01",
    "phone": "0904 492 478",
@@ -572,6 +600,7 @@
   {
    "name": "Kartovo - Košice - Play Hub",
    "group": "unknown",
+   "city": "Košický kraj",
    "region": "Prešovský kraj",
    "address": "Mlynská 876/21, Košice, Košický kraj, 04001, Slovakia",
    "phone": "4214219104492478",
@@ -584,6 +613,7 @@
   {
    "name": "Kartovo Herňa - Košice",
    "group": "unknown",
+   "city": "Alžbetina",
    "region": "Košický kraj",
    "address": "Alžbetina 11, 040 01 Staré Mesto",
    "phone": "0904 492 478",
@@ -593,6 +623,7 @@
   {
    "name": "KERE",
    "group": "unknown",
+   "city": "Bačíkova",
    "region": "Košický kraj",
    "address": "Bačíkova 1, 040 01 Košice-Staré Mesto",
    "phone": "055 260 10 11",
@@ -611,6 +642,7 @@
   {
    "name": "Ludopolis",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "1.poschodie, Záhradnícka 95, 821 08 Bratislava",
    "phone": "0948 188 211",
@@ -630,6 +662,7 @@
   {
    "name": "Martinus",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "OC Cubicon, Staré Grunty 24, 841 04 Bratislava",
    "phone": "02 326 603 67",
@@ -639,6 +672,7 @@
   {
    "name": "Martinus",
    "group": "unknown",
+   "city": "Toryská",
    "region": "Košický kraj",
    "address": "OC Galéria, Toryská 5, 040 11 Košice-Košice - mestská časť Západ",
    "phone": "055 321 16 70",
@@ -648,6 +682,7 @@
   {
    "name": "Martinus",
    "group": "unknown",
+   "city": "Hlavná",
    "region": "Košický kraj",
    "address": "Hlavná 111, 040 01 Staré Mesto",
    "phone": "055 555 52 58",
@@ -667,6 +702,7 @@
   {
    "name": "Nekonecno.sk Bory Mall Bratislava",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Lamač 6780, Bory Mall, 841 03 Bratislava",
    "phone": "0947 920 946",
@@ -676,6 +712,7 @@
   {
    "name": "Nekonecno.sk Eurovea Bratislava",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Eurovea, Pribinova 8, 811 09 Bratislava",
    "phone": "0948 950 813",
@@ -685,6 +722,7 @@
   {
    "name": "Numizmatika Košice",
    "group": "unknown",
+   "city": "Mäsiarska",
    "region": "Košický kraj",
    "address": "Mäsiarska 421/5, 040 01 Staré Mesto",
    "website": "http://www.numizmatikakosice.sk/",
@@ -693,6 +731,7 @@
   {
    "name": "OFFTRENDCLUB",
    "group": "unknown",
+   "city": "Bratislava",
    "address": "Čulenova 9, Bratislava, Bratislava, 81109, Slovakia",
    "phone": "+421911040888",
    "website": "https://www.offtrendclub.com/collections/collectibles",
@@ -704,6 +743,7 @@
   {
    "name": "OTS shop",
    "group": "unknown",
+   "city": "Gorkého",
    "region": "Košický kraj",
    "address": "Tabačka Kulturfabrik, Gorkého 2, 040 01 Košice-Staré Mesto",
    "phone": "0951 450 992",
@@ -713,6 +753,7 @@
   {
    "name": "Outdoorline",
    "group": "unknown",
+   "city": "Košice-Juh",
    "region": "Košický kraj",
    "address": "Pri bitúnku 11, 040 01 Košice-Juh",
    "phone": "0948 148 606",
@@ -735,6 +776,7 @@
   {
    "name": "Player, Ltd.",
    "group": "unknown",
+   "city": "Košice",
    "region": "Košický kraj",
    "address": "Pražská 502/4, 040 01 Košice",
    "phone": "0948 950 446",
@@ -744,6 +786,7 @@
   {
    "name": "Pokeherna",
    "group": "unknown",
+   "city": "Pezinok",
    "region": "Bratislavský kraj",
    "address": "M. R. Štefánika 21/11, 902 01 Pezinok",
    "phone": "0911 843 838",
@@ -753,6 +796,7 @@
   {
    "name": "Poring Cards",
    "group": "unknown",
+   "city": "Trnava",
    "address": "8719/7 Dolnopotočná, Trnava, Trnava, 917 01, Slovakia",
    "phone": "+421919129089",
    "website": "https://www.poringcards.eu/",
@@ -764,6 +808,7 @@
   {
    "name": "Present for you",
    "group": "unknown",
+   "city": "Toryská",
    "region": "Košický kraj",
    "address": "Toryská 5, 040 11 Košice - mestská časť Západ",
    "phone": "0905 200 709",
@@ -773,6 +818,7 @@
   {
    "name": "Rare Pocket - Pokémon obchod Bratislava",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "A, Kazanská 5, 821 06 Bratislava",
    "phone": "0903 552 187",
@@ -792,6 +838,7 @@
   {
    "name": "Spellbook s.r.o.",
    "group": "unknown",
+   "city": "Bratislavský kraj",
    "region": "Bratislavský kraj",
    "address": "Vysoká 4265/25, 811 06 Bratislava, Slovakia, Bratislavský kraj, 811 06",
    "phone": "0948 028 486",
@@ -804,6 +851,7 @@
   {
    "name": "SportZoo, s. r. o.",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Stará Vajnorská 11, 831 04 Bratislava",
    "phone": "0948 126 655",
@@ -813,6 +861,7 @@
   {
    "name": "TabletopWargamingSK",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Jarabinková 6B, 821 09 Bratislava",
    "phone": "0908 105 233",
@@ -822,6 +871,7 @@
   {
    "name": "Titi papiernictvo",
    "group": "unknown",
+   "city": "Námestie osloboditeľov",
    "region": "Košický kraj",
    "address": "Námestie osloboditeľov 1, 040 01 Košice-Staré Mesto",
    "phone": "0905 035 031",
@@ -831,6 +881,7 @@
   {
    "name": "Tulnar",
    "group": "unknown",
+   "city": "Banskobystrický kraj",
    "region": "Banskobystrický kraj",
    "address": "Vajanského 823/7, 984 01 Lučenec, Slovakia, Banskobystrický kraj, 984 01",
    "phone": "+421 911 943 934",
@@ -853,6 +904,7 @@
   {
    "name": "Universal cards",
    "group": "unknown",
+   "city": "Bratislava",
    "region": "Bratislavský kraj",
    "address": "Polanki 66, 841 04 Bratislava",
    "website": "https://patrikhrabovec.pb.online/universalcards",

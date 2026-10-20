@@ -32,6 +32,7 @@
   {
    "name": "Geekay - Doha Festival City",
    "group": "blocked",
+   "city": "Ground Floor",
    "region": "Al Daayen Municipality",
    "address": "Shop no. GE-260A, Ground Floor",
    "phone": "5543 8779",
@@ -526,6 +527,7 @@
   {
    "name": "Whiteline Trading and Contracting WLL",
    "group": "in_store",
+   "city": "Outside BLDG",
    "region": "Al Wakra Municipality",
    "address": "Outside BLDG 16",
    "phone": "5175 1780",
@@ -674,6 +676,7 @@
   {
    "name": "Gamer Zone - Mall of Qatar Branch",
    "group": "unknown",
+   "city": "Mall of Qatar",
    "region": "بلدية الريان",
    "address": "Mall of Qatar",
    "phone": "5058 7070",
@@ -874,6 +877,7 @@
   {
    "name": "Toys R Us",
    "group": "unknown",
+   "city": "Building",
    "region": "Al Daayen Municipality",
    "address": "Doha Festival City, Building 80",
    "phone": "4467 0037",

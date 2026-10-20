@@ -7,6 +7,7 @@
   {
    "name": "Pokelageret",
    "group": "public_buylist",
+   "city": "Østfold",
    "region": "Østfold",
    "address": "51 St. Marie gate, Sarpsborg, Østfold, 1706, Norway",
    "phone": "+4790844936",
@@ -22,6 +23,7 @@
   {
    "name": "Playlot",
    "group": "quote_only",
+   "city": "Vestland",
    "region": "Vestland",
    "address": "55 Salhusvegen, Nyborg, Vestland, 5131, Norway",
    "phone": "+4741361146",
@@ -36,6 +38,7 @@
   {
    "name": "PokeMadness",
    "group": "blocked",
+   "city": "Akershus",
    "region": "Akershus",
    "address": "Sørumsgata 3, LILLESTRØM, Akershus, 2000, Norway",
    "phone": "+4799563860",
@@ -48,6 +51,7 @@
   {
    "name": "Poku Spill og Hobby",
    "group": "blocked",
+   "city": "Innlandet",
    "region": "Innlandet",
    "address": "Storgata 61, 2609 Lillehammer, Norway, Innlandet, 2609",
    "website": "https://poku.no/",
@@ -59,6 +63,7 @@
   {
    "name": "Error.exe",
    "group": "in_store",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Karlsminnegata 35, 4015 Stavanger",
    "phone": "48 27 09 22",
@@ -67,6 +72,7 @@
   {
    "name": "Fjord Emporium",
    "group": "in_store",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Langhaugen 18, 5093 Bergen",
    "phone": "97 71 42 87",
@@ -75,6 +81,7 @@
   {
    "name": "Fjordbuda",
    "group": "in_store",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Sjøgangen 6, 7010 Trondheim",
    "website": "http://www.facebook.com/fjordbuda",
@@ -83,6 +90,7 @@
   {
    "name": "Mini Backgammon",
    "group": "in_store",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Josefines gate 1A, 0351 Oslo",
    "phone": "90 14 95 77",
@@ -91,6 +99,7 @@
   {
    "name": "POKEPERLEN",
    "group": "in_store",
+   "city": "Strømmen",
    "region": "Akershus",
    "address": "Nylendet 10, 1467 Strømmen",
    "phone": "99 53 68 24",
@@ -99,6 +108,7 @@
   {
    "name": "Snart Konkurs",
    "group": "in_store",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Olaf Helsets vei 5, 0694 Oslo",
    "phone": "93 66 49 53",
@@ -107,6 +117,7 @@
   {
    "name": "Todal Musikk & Hermetikk",
    "group": "in_store",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Strandveien 37, 7042 Trondheim",
    "phone": "90 79 90 03",
@@ -126,6 +137,7 @@
   {
    "name": "Under Overflaten",
    "group": "in_store",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Sponhoggveien 6a, 0284 Oslo",
    "checked_at": "2026-10-16T03:57:36Z"
@@ -133,6 +145,7 @@
   {
    "name": "All Good Clean Records",
    "group": "not_buying_singles",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Innherredsveien 24, 7042 Trondheim",
    "phone": "93 07 31 92",
@@ -143,6 +156,7 @@
   {
    "name": "Adamstuen Retro",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Vidars gate 18A, 0452 Oslo",
    "phone": "95 17 20 31",
@@ -152,6 +166,7 @@
   {
    "name": "Alt av Spill",
    "group": "unknown",
+   "city": "Sarpsborg",
    "region": "Østfold",
    "address": "Pellygata 57, 1706 Sarpsborg",
    "phone": "69 32 84 30",
@@ -161,6 +176,7 @@
   {
    "name": "ARK Sirkus Shopping Trondheim",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Falkenborgvegen 9, 7044 Trondheim",
    "phone": "96 90 22 19",
@@ -170,6 +186,7 @@
   {
    "name": "Arti læll",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Haakon VIIs gt. 12, 7041 Trondheim",
    "phone": "91 58 16 05",
@@ -179,6 +196,7 @@
   {
    "name": "Asmodee Nordics",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Tvetenveien 32, 0666 Oslo",
    "phone": "23 17 06 90",
@@ -188,6 +206,7 @@
   {
    "name": "Breakpodden",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Lyngveien 7, 4025 Stavanger",
    "phone": "45 47 89 66",
@@ -197,6 +216,7 @@
   {
    "name": "Byporten Shopping",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Jernbanetorget 6, 0154 Oslo",
    "phone": "92 61 44 80",
@@ -206,6 +226,7 @@
   {
    "name": "Cardbreakers - Kilden",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Gartnerveien 15, 4016 Stavanger",
    "phone": "91 66 38 93",
@@ -215,6 +236,7 @@
   {
    "name": "Cardbreakers - Laksevåg senter",
    "group": "unknown",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Kringsjåveien 83-89, 5163 Bergen",
    "phone": "91 66 38 93",
@@ -224,6 +246,7 @@
   {
    "name": "Cardbreakers - Markedet",
    "group": "unknown",
+   "city": "Haugesund",
    "region": "Rogaland",
    "address": "Skåregata 92, 5528 Haugesund",
    "phone": "91 66 38 93",
@@ -233,6 +256,7 @@
   {
    "name": "Cardbreakers - Maxi Sandnes",
    "group": "unknown",
+   "city": "Sandnes",
    "region": "Rogaland",
    "address": "Gravarsveien 7, 4306 Sandnes",
    "phone": "91 66 38 93",
@@ -242,6 +266,7 @@
   {
    "name": "Cardcenter AS",
    "group": "unknown",
+   "city": "Ski",
    "region": "Akershus",
    "address": "Idrettsveien 2, Ski, Ski, 1400, Norway",
    "phone": "+4790277122",
@@ -254,6 +279,7 @@
   {
    "name": "Cardhouse",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Ammerudveien 22, 0958 Oslo",
    "website": "https://cardhouse.no/",
@@ -262,6 +288,7 @@
   {
    "name": "CardWorld",
    "group": "unknown",
+   "city": "Østfold",
    "address": "57 Pellygata, Sarpsborg, Østfold, 1706, Norway",
    "phone": "4793899778",
    "website": "https://www.altavspill.no/",
@@ -273,6 +300,7 @@
   {
    "name": "Collectible AS",
    "group": "unknown",
+   "city": "Vestland",
    "region": "Vestland",
    "address": "Torget 8, Stord, Vestland, 5417, Norway",
    "phone": "+4722120005",
@@ -285,6 +313,7 @@
   {
    "name": "Dragons Nest Gaming",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Ledaalsgata 1, Stavanger, 11, 4008, Norway",
    "phone": "+4794 22 12 56",
@@ -298,6 +327,7 @@
   {
    "name": "Elkjøp Glasmagasinet",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Stortorvet 9, 0155 Oslo",
    "phone": "21 00 21 21",
@@ -307,6 +337,7 @@
   {
    "name": "Extra Leker Alna",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Strømsveien 245, 0668 Oslo",
    "phone": "47 69 59 50",
@@ -316,6 +347,7 @@
   {
    "name": "Extra Leker Bergen Åsane",
    "group": "unknown",
+   "city": "Nyborg",
    "region": "Vestland",
    "address": "Liamyrane 1, 5132 Nyborg",
    "phone": "55 19 67 70",
@@ -325,6 +357,7 @@
   {
    "name": "Extra Leker Forus",
    "group": "unknown",
+   "city": "Sandnes",
    "region": "Rogaland",
    "address": "Stokkamyrveien 3B, 4313 Sandnes",
    "phone": "51 63 07 60",
@@ -334,6 +367,7 @@
   {
    "name": "Extra Leker Lagunen",
    "group": "unknown",
+   "city": "Rådal",
    "region": "Vestland",
    "address": "Lagunen, Laguneveien 17, 5239 Rådal",
    "phone": "47 47 96 00",
@@ -343,6 +377,7 @@
   {
    "name": "Extra Leker Sotra",
    "group": "unknown",
+   "city": "Straume",
    "region": "Vestland",
    "address": "Sartorvegen 12, Sartor Storsenter, 5353 Straume",
    "phone": "56 33 47 00",
@@ -352,6 +387,7 @@
   {
    "name": "Flying Tiger Copenhagen",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Munkegata 27, 7011 Trondheim",
    "phone": "40 70 40 75",
@@ -361,6 +397,7 @@
   {
    "name": "Game And Trade as",
    "group": "unknown",
+   "city": "Vestfold",
    "region": "Vestfold",
    "address": "Kirkegata 8, 3211 Sandefjord, Norway, Vestfold, 3211",
    "phone": "95949070",
@@ -373,6 +410,7 @@
   {
    "name": "Game Ninja AS",
    "group": "unknown",
+   "city": "Rogaland",
    "region": "Rogaland",
    "address": "Raglamyrvegen 2, Haugesund, Rogaland, 5536, Norway",
    "phone": "+47930 89 028",
@@ -386,6 +424,7 @@
   {
    "name": "Good Villain AS",
    "group": "unknown",
+   "city": "Nordland",
    "region": "Nordland",
    "address": "Storgata 48, 8006 Bodø, Norway, Nordland, 8006",
    "phone": "004794281831",
@@ -398,6 +437,7 @@
   {
    "name": "Hatamon TCG",
    "group": "unknown",
+   "city": "Sandefjord",
    "region": "Vestfold",
    "address": "Storgata 14, 3210 Sandefjord",
    "phone": "46 78 22 52",
@@ -407,6 +447,7 @@
   {
    "name": "Hobby Fruit & Tobacco AS",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Muségata 52, 4010 Stavanger",
    "phone": "51 52 63 00",
@@ -416,6 +457,7 @@
   {
    "name": "Hobby og koz AS",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Bakkegata 5, 4006 Stavanger",
    "phone": "46 81 11 39",
@@ -425,6 +467,7 @@
   {
    "name": "House of Nerds",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Vulkan 18, 0178 Oslo",
    "phone": "41 23 85 92",
@@ -434,6 +477,7 @@
   {
    "name": "KanonCon AS",
    "group": "unknown",
+   "city": "Buskerud",
    "region": "Viken",
    "address": "11 Nedre Storgate, Drammen, Buskerud, 3015, Norway",
    "phone": "+4740008701",
@@ -447,6 +491,7 @@
   {
    "name": "Kilden Senter",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Gartnerveien 15, 4016 Stavanger",
    "website": "https://www.kilden.no/",
@@ -455,6 +500,7 @@
   {
    "name": "Kortgradering",
    "group": "unknown",
+   "city": "Langangen",
    "region": "Telemark",
    "address": "Myrhaugvegen 48, 3947 Langangen",
    "phone": "90 93 09 90",
@@ -464,6 +510,7 @@
   {
    "name": "Kortly",
    "group": "unknown",
+   "city": "Os",
    "region": "Vestland",
    "address": "Haugsbrotet 27 A, 5211 Os",
    "website": "https://kortly.io/",
@@ -473,6 +520,7 @@
   {
    "name": "Laboge AS",
    "group": "unknown",
+   "city": "Nesttun",
    "region": "Vestland",
    "address": "Midtunhaugen 10, 5224 Nesttun",
    "website": "https://laboge.no/",
@@ -481,6 +529,7 @@
   {
    "name": "LootLagoon AS",
    "group": "unknown",
+   "city": "Ålesund",
    "region": "Møre og Romsdal",
    "address": "Røysegata 11, 6018 Ålesund",
    "phone": "91 63 08 15",
@@ -490,6 +539,7 @@
   {
    "name": "Lootlagoon Oslo - Pokemon og One piece butikk",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Industrigata 46, 0357 Oslo",
    "phone": "99 51 06 85",
@@ -499,6 +549,7 @@
   {
    "name": "Lucky Eddie",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Trondheimsveien 63, 0565 Oslo",
    "phone": "95 20 82 43",
@@ -508,6 +559,7 @@
   {
    "name": "Manaheim AS",
    "group": "unknown",
+   "city": "Buskerud",
    "region": "Buskerud",
    "address": "15 Myntgata, Konsberg, Buskerud, 3616, Norway",
    "phone": "+4791992473",
@@ -521,6 +573,7 @@
   {
    "name": "Meeple Galaxy",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Stokkaveien 26, 4024 Stavanger",
    "phone": "96 87 31 47",
@@ -530,6 +583,7 @@
   {
    "name": "Mexx",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Kongens gate 11, 7013 Trondheim",
    "phone": "93 46 43 46",
@@ -539,6 +593,7 @@
   {
    "name": "Midgard Games",
    "group": "unknown",
+   "city": "Drammen",
    "region": "Buskerud",
    "address": "Blichs gate 1, 3044 Drammen",
    "phone": "92 22 55 69",
@@ -548,6 +603,7 @@
   {
    "name": "Midgard Games Oslo",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Buskerud",
    "address": "Ensjøveien 22, Oslo, Oslo, 0655, Norway",
    "phone": "+474792225569",
@@ -561,6 +617,7 @@
   {
    "name": "Neo Tokyo Arkaden",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Karl Johans gt. 7, 0154 Oslo",
    "phone": "21 09 59 90",
@@ -570,6 +627,7 @@
   {
    "name": "Obs City Lade",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Haakon VIIs gt. 9, 7041 Trondheim",
    "phone": "40 00 12 01",
@@ -579,6 +637,7 @@
   {
    "name": "Oslo Miniatyrspillklubb (OMSK)",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Ensjøveien 22, 0661 Oslo",
    "phone": "93 85 84 85",
@@ -588,6 +647,7 @@
   {
    "name": "Outland - Bergen",
    "group": "unknown",
+   "city": "Vestland",
    "region": "Vestland",
    "address": "14 Strandkaien, Bergen, Vestland, 5013, Norway",
    "phone": "470-5531-4822",
@@ -600,6 +660,7 @@
   {
    "name": "Outland - Oslo",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Kirkegata 32, Oslo, Oslo, 0153, Norway",
    "phone": "+4740318078",
@@ -613,6 +674,7 @@
   {
    "name": "Outland Stavanger",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Breigata 4, 4006 Stavanger",
    "phone": "51 86 17 11",
@@ -622,6 +684,7 @@
   {
    "name": "Outland Trondheim",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Jomfrugata 4, 7011 Trondheim",
    "phone": "73 52 05 45",
@@ -631,6 +694,7 @@
   {
    "name": "Panduro Hobby",
    "group": "unknown",
+   "city": "Strømmen",
    "region": "Akershus",
    "address": "Støperiveien 5, 2010 Strømmen",
    "phone": "96 94 35 25",
@@ -640,6 +704,7 @@
   {
    "name": "Panduro Hobby",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Falkenborgvegen 1, 7044 Trondheim",
    "phone": "97 40 51 06",
@@ -649,6 +714,7 @@
   {
    "name": "Papiria, papir og hobby",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Sirkus Shopping, Falkenborgvegen 9, 3. etasje, 7044 Trondheim",
    "phone": "99 50 17 59",
@@ -658,6 +724,7 @@
   {
    "name": "Pkhobby",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Forsøkslia 25, 7028 Trondheim",
    "phone": "93 04 87 77",
@@ -667,6 +734,7 @@
   {
    "name": "Platekompaniet",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Storgata 19, 0184 Oslo",
    "phone": "23 29 28 00",
@@ -676,6 +744,7 @@
   {
    "name": "POKE4DAYZ AS",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Storgata 28, 0184 Oslo, Norway, Oslo, 0184",
    "phone": "40085141",
@@ -688,6 +757,7 @@
   {
    "name": "PokeShop",
    "group": "unknown",
+   "city": "Trøndelag",
    "region": "Trøndelag",
    "address": "Fjordgata 64, 7010 Trondheim, Norway, Trøndelag, 7010",
    "phone": "98 54 40 26",
@@ -700,6 +770,7 @@
   {
    "name": "PokeWorld TCG AS",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Stokkaveien 43, 4024 Stavanger",
    "phone": "40 08 00 11",
@@ -709,6 +780,7 @@
   {
    "name": "Poki-heaven",
    "group": "unknown",
+   "city": "Lillehammer",
    "region": "Innlandet",
    "address": "Storgata 38, 2609 Lillehammer",
    "phone": "41 15 95 06",
@@ -718,6 +790,7 @@
   {
    "name": "Pokélink",
    "group": "unknown",
+   "city": "Hafrsfjord",
    "region": "Rogaland",
    "address": "Gamle Rytterstien 74, 4046 Hafrsfjord",
    "website": "https://pokelink.no/",
@@ -726,6 +799,7 @@
   {
    "name": "Retro Bergen AS",
    "group": "unknown",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Olav Kyrres gate 7, 5014 Bergen",
    "phone": "55 55 84 27",
@@ -735,6 +809,7 @@
   {
    "name": "Retro World",
    "group": "unknown",
+   "city": "Vestland",
    "region": "Vestland",
    "address": "2 Dalhaugene, Bergen, Vestland, 5153, Norway",
    "phone": "+4793210638",
@@ -747,6 +822,7 @@
   {
    "name": "Ringo Xhibition Bergen",
    "group": "unknown",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Småstrandgaten 3, 5014 Bergen",
    "phone": "41 15 90 01",
@@ -756,6 +832,7 @@
   {
    "name": "RR Store AS",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Transittgata 18, 7042 Trondheim",
    "phone": "45 80 43 09",
@@ -765,6 +842,7 @@
   {
    "name": "Samler-Børsen AS",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Kirkeveien 44, 0368 Oslo",
    "phone": "22 42 11 11",
@@ -775,6 +853,7 @@
   {
    "name": "Sobrenia",
    "group": "unknown",
+   "city": "Rogaland",
    "region": "Rogaland",
    "address": "Langgata 45, Sandnes, Rogaland, 4306, Norway",
    "phone": "4792626250",
@@ -788,6 +867,7 @@
   {
    "name": "Tabletopbattle AS",
    "group": "unknown",
+   "city": "Østfold",
    "region": "Viken",
    "address": "Høydaveien 17, Moss, Østfold, 1523, Norway",
    "phone": "+4792064378",
@@ -801,6 +881,7 @@
   {
    "name": "Team-united-bakeries App",
    "group": "unknown",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Skoglien 7, 5056 Bergen",
    "phone": "45 20 02 11",
@@ -810,6 +891,7 @@
   {
    "name": "Thefootballidiots Stavanger",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Sølvberggata 25, 4006 Stavanger",
    "phone": "40 34 99 55",
@@ -819,6 +901,7 @@
   {
    "name": "Ting Bergen",
    "group": "unknown",
+   "city": "Bergen",
    "region": "Vestland",
    "address": "Bryggen 13, 5003 Bergen",
    "phone": "40 03 54 08",
@@ -828,6 +911,7 @@
   {
    "name": "Tipshjørnet AS",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Hillevågsveien 85, 4016 Stavanger",
    "phone": "51 58 67 82",
@@ -837,6 +921,7 @@
   {
    "name": "Trondheim Public Library Main Library",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Peter Egges plass 1, 7011 Trondheim",
    "phone": "72 54 75 00",
@@ -846,6 +931,7 @@
   {
    "name": "Trondheim Spektrum",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Klostergata 90, 7030 Trondheim",
    "phone": "73 56 86 00",
@@ -855,6 +941,7 @@
   {
    "name": "Trønderfrim: Frimerker og Hobby",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "St. Olavs gate 11, 7012 Trondheim",
    "phone": "73 52 08 40",
@@ -864,6 +951,7 @@
   {
    "name": "Veslefrikk (Extra Leker)",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Skagen 17, 4006 Stavanger",
    "phone": "51 89 52 32",
@@ -873,6 +961,7 @@
   {
    "name": "Vintra",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "vintrastudio.com, 0191 Oslo",
    "website": "https://www.vintrastudio.com/",
@@ -881,6 +970,7 @@
   {
    "name": "Vitenbutikken",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Kongens gate 1, 7011 Trondheim",
    "phone": "91 90 29 79",
@@ -890,6 +980,7 @@
   {
    "name": "Wangsmo Antikvariat AS",
    "group": "unknown",
+   "city": "Trondheim",
    "region": "Trøndelag",
    "address": "Vår Frue Strete 1, 7013 Trondheim",
    "phone": "73 52 44 55",
@@ -899,6 +990,7 @@
   {
    "name": "Warhammer",
    "group": "unknown",
+   "city": "Oslo",
    "region": "Oslo",
    "address": "Møllergata 5, 0179 Oslo",
    "phone": "22 33 29 90",
@@ -908,6 +1000,7 @@
   {
    "name": "WildGames",
    "group": "unknown",
+   "city": "Vestfold",
    "address": "Storgaten 42, Tønsberg, Vestfold, 3126, Norway",
    "phone": "+4799457019",
    "website": "https://www.wildgames.no/",
@@ -920,6 +1013,7 @@
   {
    "name": "WordVista",
    "group": "unknown",
+   "city": "Stavanger",
    "region": "Rogaland",
    "address": "Jens Tvedts gate 16, 4024 Stavanger",
    "website": "https://playwordvista.com/",

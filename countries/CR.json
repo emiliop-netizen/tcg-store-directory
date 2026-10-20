@@ -7,6 +7,7 @@
   {
    "name": "Imperium Hobby Shop",
    "group": "blocked",
+   "city": "Cartago",
    "address": "200 norte y 25 este del Banco nacional de tejar, contiguo a ferreteria chisco, Cartago, Cartago, 30801, Costa Rica",
    "phone": "50671-96-5348",
    "website": "https://imperiumhobbyshop.com/",
@@ -18,6 +19,7 @@
   {
    "name": "Pinky Singles - Guapiles",
    "group": "blocked",
+   "city": "Guapiles Limon",
    "address": "Centro Comercial Nuevo Guapiles Local 4, San José, Guapiles Limon, 70201, Costa Rica",
    "phone": "50660775305",
    "website": "https://pinkysingles.com/",
@@ -169,6 +171,7 @@
   {
    "name": "D&C Hobby Shop",
    "group": "in_store",
+   "city": "San Jose",
    "address": "Centro Comercial Calle Real, San Pedro, San Jose, 11501, CR",
    "phone": "+50622533536",
    "website": "https://www.facebook.com/profile.php?id=100063704645902",
@@ -291,6 +294,7 @@
   {
    "name": "Krypton",
    "group": "in_store",
+   "city": "C",
    "address": "San José, Vásquez de Coronado, San Isidro 11101, C",
    "phone": "+506-2294-2294",
    "website": "https://www.facebook.com/kryptoncr",
@@ -312,6 +316,7 @@
   {
    "name": "La Comarca",
    "group": "in_store",
+   "city": "A",
    "address": "Sobre Calle 6 entre Avenida 1 y Avenida 3, San Ramon, A, 20201, Costa Rica",
    "phone": "4704 0233",
    "website": "https://www.instagram.com/lacomarcajyc/",
@@ -371,6 +376,7 @@
   {
    "name": "Mystica",
    "group": "in_store",
+   "city": "Alajuela",
    "address": "150 metros sur de la Iglesia de Palmares, Palmares, Alajuela, 20701, Costa Rica",
    "phone": "160509819",
    "website": "https://www.facebook.com/share/t3g8Lq9GKm8rZcrT/?mibextid=kFxxJD",
@@ -442,6 +448,7 @@
   {
    "name": "Pinky Singles - Guadalupe",
    "group": "in_store",
+   "city": "Goicoechea Guadalupe",
    "address": "100m Sur y 50m Norte de la iglesia catolica, parque antigua campos, Guadalupe, Goicoechea Guadalupe, 10801, Costa Rica",
    "phone": "5066077-5305",
    "website": "https://www.facebook.com/groups/517317536115620/",
@@ -586,6 +593,7 @@
   {
    "name": "Arzu Trading Cards Store",
    "group": "unknown",
+   "city": "San Jose",
    "address": "Costa Rica san José san francisco de dos rios frente a la escuela republica dominicana, San francisco de dos rios, San Jose, 10101, Costa Rica",
    "phone": "50684123156",
    "website": "https://arzu-9380c.web.app/",
@@ -690,6 +698,7 @@
   {
    "name": "Fukuro",
    "group": "unknown",
+   "city": "San Jose",
    "address": "frente a la plaza de calle blancos costado noroeste, San Jose, San Jose, 10801, Costa Rica",
    "phone": "506 70558300",
    "website": "https://wpn.wizards.com/en",
@@ -701,6 +710,7 @@
   {
    "name": "Fénix Tienda de Entretenimiento",
    "group": "unknown",
+   "city": "Guadalupe",
    "address": "Contiguo a la pizza Hut de,  San José, Guadalupe, 10801, Costa Rica",
    "phone": "5098383-3649",
    "website": "https://magic.wizards.com/en",
@@ -749,6 +759,7 @@
   {
    "name": "Memories TCG store",
    "group": "unknown",
+   "city": "Puntarenas",
    "address": "100 metros al norte del jardín de niños de Esparza, Diagonal a la vidriera., Esparza, Puntarenas, 60201, Costa Rica",
    "phone": "50686375959",
    "website": "https://www.memoriestcg.store/",
@@ -780,6 +791,7 @@
   {
    "name": "Mystica Heredia",
    "group": "unknown",
+   "city": "CR-H",
    "address": "Plaza Santa Rosa, Santa Rosa, CR-H, 40306, Costa Rica",
    "phone": "50660509819",
    "website": "https://wpn.wizards.com/en",
@@ -791,6 +803,7 @@
   {
    "name": "Mystica San Ramon",
    "group": "unknown",
+   "city": "Alajuela",
    "address": "AVE01, CALLE01, FRENTE A LA ESQ NE IGLESIA DE SAN RAMON, San Ramon, Alajuela, 20201, Costa Rica",
    "phone": "50688706886",
    "website": "https://wpn.wizards.com/en",
@@ -855,6 +868,7 @@
   {
    "name": "Perron Store",
    "group": "unknown",
+   "city": "San Jose",
    "address": "San José, san jose, zapote, plaza del castillo local 16 y 17, San José, San Jose, 10105, Costa Rica",
    "phone": "50689125220",
    "website": "http://perronstrore.com",
@@ -906,6 +920,7 @@
   {
    "name": "Santuario Geek",
    "group": "unknown",
+   "city": "Provincia de Cartago",
    "address": "Calle Puntarenas frente a la delegación de policia, Turrialba, Provincia de Cartago, 30501, Costa Rica",
    "phone": "50662580037",
    "website": "https://wpn.wizards.com/en",

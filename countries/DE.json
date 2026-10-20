@@ -613,6 +613,7 @@
   {
    "name": "Utopia Store",
    "group": "quote_only",
+   "city": "Lüdenscheid",
    "address": "10 Werdohler Str., Lüdenscheid, NRW, 58511, Germany",
    "phone": "+491776081326",
    "website": "https://www.utopia-store.net",
@@ -678,6 +679,7 @@
   {
    "name": "Crossroads - Roleplay, Tabletop and more",
    "group": "blocked",
+   "city": "Hessen",
    "address": "Hauptstraße 17, Bad Nauheim, Hessen, 61231, Germany",
    "phone": "+4906032 9285294",
    "website": "https://www.crossroads-roleplay.de/",
@@ -699,6 +701,7 @@
   {
    "name": "Deckwerk Bammental",
    "group": "blocked",
+   "city": "Baden-Württemberg",
    "address": "Hauptstr. 63, Bammental, Baden-Württemberg, 69245, Germany",
    "phone": "+4915780421654",
    "website": "https://deckwerk.sumupstore.com/",
@@ -710,6 +713,7 @@
   {
    "name": "Dufbros",
    "group": "blocked",
+   "city": "Baden-Württemberg",
    "address": "4 Angelstraße, Mannheim, Baden-Württemberg, 68199, Germany",
    "phone": "+491712321505",
    "website": "https://www.dufbros.de/",
@@ -914,6 +918,7 @@
   {
    "name": "Spiele-Pyramide - Karlsruhe",
    "group": "blocked",
+   "city": "Karlsruhe",
    "address": "Hardstr.39A, Karlsruhe, BW, 76185, Germany",
    "phone": "4972166369786",
    "website": "https://schaufenster.vedes.de/spiele-pyramide-karlsruhe/",
@@ -1158,6 +1163,7 @@
   {
    "name": "Two Tale Games",
    "group": "blocked",
+   "city": "Schwerte",
    "address": "89 Letmather Str., Schwerte, NRW, 58239, Germany",
    "phone": "+4923043097270",
    "website": "https://www.twotalegames.de",
@@ -1182,6 +1188,7 @@
   {
    "name": "1-Card",
    "group": "in_store",
+   "city": "Hessen",
    "address": "Rathausstr. 12, Bad Endbach, Hessen, 35080, Germany",
    "phone": "+4927764049966",
    "website": "https://www.instagram.com/1cardshop?igsh=ODhnZmI5dnFzb2di&utm_source=qr",
@@ -1282,6 +1289,7 @@
   {
    "name": "Arena Games (Ingolstadt)",
    "group": "in_store",
+   "city": "Ingolstadt",
    "address": "14 Tränktorstraße, Ingolstadt, BY, 85049, Germany",
    "phone": "+49(0)1723738166",
    "website": "https://www.facebook.com/thearenaDE",
@@ -1349,6 +1357,7 @@
   {
    "name": "Be Cards",
    "group": "in_store",
+   "city": "Nordrhein-Westfalen",
    "address": "Friedrichstraße 7, Düsseldorf, Nordrhein-Westfalen, 40217, Germany",
    "phone": "+4921187630282",
    "website": "https://www.instagram.com/be_cards_duesseldorf",
@@ -1387,6 +1396,7 @@
   {
    "name": "Blu's Cards and Collectables",
    "group": "in_store",
+   "city": "Bayern",
    "address": "Marktplatz 22, Vilseck, Bayern, 92249, Germany",
    "phone": "+4915251752466",
    "website": "https://www.instagram.com/blus.cards.collectables/",
@@ -1498,6 +1508,7 @@
   {
    "name": "Carl Otto Spiel und Freizeit GmbH",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "Lange Straße 14, Delmenhorst, Niedersachsen, 27753, Germany",
    "phone": "+494221912453",
    "website": "https://www.instagram.com/carlottospielundfreizeitgmbh/",
@@ -1509,6 +1520,7 @@
   {
    "name": "Chukkisgaminglounge",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "Bahnhofstraße 10, Wilhelmshaven, Niedersachsen, 26382, Germany",
    "phone": "+4917681190250",
    "website": "https://www.instagram.com/chukkis_gaminglounge",
@@ -1579,6 +1591,7 @@
   {
    "name": "Dampflion",
    "group": "in_store",
+   "city": "Sachsen-Anhalt",
    "address": "Michaeliskirchhof 1, Zeitz, Sachsen-Anhalt, 06712, Germany",
    "phone": "+4901627166833",
    "website": "https://www.instagram.com/dampflion_store/",
@@ -1661,6 +1674,7 @@
   {
    "name": "Der Tabletopper KG",
    "group": "in_store",
+   "city": "Jena",
    "address": "Steinweg 35, Jena, TH, 07743, Germany",
    "phone": "493641-470550",
    "website": "https://discord.gg/KJ39JgNfJp",
@@ -1690,6 +1704,7 @@
   {
    "name": "Dragons Lair",
    "group": "in_store",
+   "city": "Nordrhein Westfalen",
    "address": "3 Stummrigestraße, Höxter, Nordrhein Westfalen, 37671, Germany",
    "phone": "+4915257838779",
    "website": "https://www.instagram.com/dragonslair_tcg_hx?igsh=MXJ4eThueWZmYTB2NA==",
@@ -1701,6 +1716,7 @@
   {
    "name": "Endless-Cards",
    "group": "in_store",
+   "city": "Baden-Württemberg",
    "address": "Karlsberg Quartier 1-10, Weinheim, Baden-Württemberg, 69469, Germany",
    "phone": "+4917682300955",
    "website": "https://endless-cards.de/",
@@ -1714,6 +1730,7 @@
   {
    "name": "Entertainmentshop Grünberg",
    "group": "in_store",
+   "city": "Grünberg",
    "address": "Londorferstraße 14, Grünberg, HE, 35305, Germany",
    "phone": "1 +49 (0) 64014314 ",
    "games_events": [
@@ -1746,6 +1763,7 @@
   {
    "name": "Fantasy Island",
    "group": "in_store",
+   "city": "Kaufbeuren",
    "address": "Ringweg 15, Kaufbeuren, BY, 87600, Germany",
    "phone": "14983419727313",
    "website": "https://www.instagram.com/fantasy_island_kaufbeuren/",
@@ -1766,6 +1784,7 @@
   {
    "name": "Fantasy Store Euskirchen",
    "group": "in_store",
+   "city": "Euskirchen",
    "address": "Oststr.4, Euskirchen, NW, 53879, Germany",
    "phone": "49+49 (0) 2251774881",
    "website": "https://m.facebook.com/fantasystoreeu/?ref=page_internal&mt_nav=0",
@@ -2113,6 +2132,7 @@
   {
    "name": "MaWaBu",
    "group": "in_store",
+   "city": "Berlin",
    "address": "37-39 Steglitzer Damm, Berlin, Berlin, 12169, Germany",
    "phone": "+493062857017",
    "website": "https://www.instagram.com/mawabu_berlin/",
@@ -2159,6 +2179,7 @@
   {
    "name": "ML Store",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "Harburger Str. 52, Schneverdingen, Niedersachsen, 29640, Germany",
    "phone": "+4951938289502",
    "website": "https://www.instagram.com/mlstore.svd?igsh=dXE1NmNpOWJyazRq&utm_source=qr",
@@ -2222,6 +2243,7 @@
   {
    "name": "Nerd Oase",
    "group": "in_store",
+   "city": "Baden-Württemberg",
    "address": "29 Gerwigstraße, Karlsruhe, Baden-Württemberg, 76131, Germany",
    "phone": "+49X",
    "website": "https://www.instagram.com/nerdoase/",
@@ -2242,6 +2264,7 @@
   {
    "name": "Next Turn Cards&Games",
    "group": "in_store",
+   "city": "Baden-Württemberg",
    "address": "Bleichstraße 5, Göppingen, Baden-Württemberg, 73033, Germany",
    "phone": "+4915256458533",
    "website": "https://www.instagram.com/nextturncards/",
@@ -2314,6 +2337,7 @@
   {
    "name": "Player's Paradise",
    "group": "in_store",
+   "city": "Reutlingen",
    "address": "Nürtingerhofstraße 9, Reutlingen, BW, 72764, Germany",
    "phone": "+497121 513619",
    "website": "https://m.facebook.com/pages/category/Shopping---Retail/Players-Paradise-287912127936036/?locale2=de_DE",
@@ -2366,6 +2390,7 @@
   {
    "name": "PokéXpert",
    "group": "in_store",
+   "city": "Schleswig-Holstein",
    "address": "6 Schmuggelstieg, Norderstedt, Schleswig-Holstein, 22848, Germany",
    "phone": "+4917620047049",
    "website": "https://www.instagram.com/pokexpert.shop/",
@@ -2407,6 +2432,7 @@
   {
    "name": "Prismania Toys",
    "group": "in_store",
+   "city": "Nordrhein Westfalen",
    "address": "Hauptstrasse 66, Schwelm, Nordrhein Westfalen, 58332, Germany",
    "phone": "+491779283764",
    "website": "https://www.instagram.com/prismaniatoys/",
@@ -2440,6 +2466,7 @@
   {
    "name": "Redhead Gaming",
    "group": "in_store",
+   "city": "Bayern",
    "address": "Maybachstraße 6, Landshut, Bayern, 84030, Germany",
    "phone": "+4915126974256",
    "website": "https://www.instagram.com/redhead_gaming_?igsh=MXhoNW5obXd6ODVncw%3D%3D&igsi=MXhoNW5obXd6ODVncw%3D%3D&utm_source=qr",
@@ -2451,6 +2478,7 @@
   {
    "name": "Retroconrep",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "Karlstraße 21, Holzminden, Niedersachsen, 37604, Germany",
    "phone": "+4915566215798",
    "website": "https://www.retroconrep.de/",
@@ -2464,6 +2492,7 @@
   {
    "name": "Rice Cards",
    "group": "in_store",
+   "city": "Nordrhein Westfalen",
    "address": "3 Von-Sandt-Straße, Bonn, Nordrhein Westfalen, 53225, Germany",
    "phone": "+491626068888",
    "website": "https://www.instagram.com/rice.cards?igsh=MTd0d2xxbnNnM3k0Zg%3D%3D&utm_source=qr",
@@ -2475,6 +2504,7 @@
   {
    "name": "Roger's Island",
    "group": "in_store",
+   "city": "Baden-Württemberg",
    "address": "Kirchplatz 4, Mosbach, Baden-Württemberg, 74821, Germany",
    "phone": "+4962619387040",
    "website": "https://www.instagram.com/rogers_island?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -2552,6 +2582,7 @@
   {
    "name": "Siggy Toys",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "Bahnhofstr 27, Peine, Niedersachsen, 31224, Germany",
    "phone": "+4915254916551",
    "website": "https://www.instagram.com/siggy_toys_",
@@ -2563,6 +2594,7 @@
   {
    "name": "Skyracer",
    "group": "in_store",
+   "city": "Minden",
    "address": "An der Tränke 5, Minden, NW, 32423, Germany",
    "phone": "+49(0)571 5093751",
    "website": "https://m.facebook.com/SkyracerShop/?locale2=de_DE",
@@ -2608,6 +2640,7 @@
   {
    "name": "Spellbook",
    "group": "in_store",
+   "city": "Niedersachsen",
    "address": "19 Mauernstraße, Celle, Niedersachsen, 29221, Germany",
    "phone": "+49015232753014",
    "website": "https://www.instagram.com/spellbook_2024/",
@@ -2694,6 +2727,7 @@
   {
    "name": "Table Flip",
    "group": "in_store",
+   "city": "Augsburg",
    "address": "51 Rosenaustraße, Augsburg, BY, 86150, Germany",
    "phone": "4901741831571",
    "website": "https://www.instagram.com/tablefliptcg/",
@@ -2959,6 +2993,7 @@
   {
    "name": "3Vibes",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Elisenstr. 1, Aschaffenburg, Bayern, 63739, Germany",
    "phone": "+4915141377262",
    "website": "https://wpn.wizards.com/en",
@@ -3031,6 +3066,7 @@
   {
    "name": "Abedsantcgworld",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Kölnerstr 119, Ennepetal, Nordrhein Westfalen, 58256, Germany",
    "phone": "+49023336092844",
    "website": "https://abedsantcgworld.de",
@@ -3075,6 +3111,7 @@
   {
    "name": "Aetherium GbR",
    "group": "unknown",
+   "city": "Marl",
    "address": "Bachackerweg 136, Marl, NW, 45772, Germany",
    "phone": "1X",
    "website": "https://-",
@@ -3144,6 +3181,7 @@
   {
    "name": "Anderswelt",
    "group": "unknown",
+   "city": "Peißenberg",
    "address": "Hauptstr. 73a, Peißenberg, Peißenberg, 82380, Germany",
    "phone": "+4988034997530",
    "website": "https://anderswelt-laden.de/",
@@ -3252,6 +3290,7 @@
   {
    "name": "AT Cards",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "10 Münsterstraße, Lüdinghausen, Nordrhein Westfalen, 59348, Germany",
    "phone": "+4917622957226",
    "website": "https://wpn.wizards.com/en",
@@ -3398,6 +3437,7 @@
   {
    "name": "Best Collect",
    "group": "unknown",
+   "city": "Nieder-Olm",
    "address": "5 Oppenheimer Str., Nieder-Olm, RP, 55268, Germany",
    "phone": "4961369544658",
    "website": "https://www.best-collect.de/",
@@ -3514,6 +3554,7 @@
   {
    "name": "Blitz Cards",
    "group": "unknown",
+   "city": "Rheinland Pfalz",
    "address": "9 Stockeraustraße, Andernach, Rheinland Pfalz, 56626, Germany",
    "phone": "+4915129478010",
    "website": "https://blitz-cards.com/",
@@ -3584,6 +3625,7 @@
   {
    "name": "Boneshop",
    "group": "unknown",
+   "city": "Goslar",
    "address": "48 Hauptstraße, Goslar, NDS, 38690, Germany",
    "phone": "+49 53247988660",
    "website": "https://boneshop-tabletop.com/",
@@ -3718,6 +3760,7 @@
   {
    "name": "Brettspielbude",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Neumarkt 4, Schwelm, Nordrhein Westfalen, 58332, Germany",
    "phone": "+4917631624469",
    "website": "https://www.brettspielbude.de/",
@@ -3742,6 +3785,7 @@
   {
    "name": "Brudicards",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Weststraße 21, Remscheid, Nordrhein Westfalen, 42857, Germany",
    "phone": "+4915510290274",
    "website": "https://brudicards.de/",
@@ -3783,6 +3827,7 @@
   {
    "name": "Bürobedarf Dohmen GmbH",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "52 Dürener Str., Frechen, Nordrhein Westfalen, 50226, Germany",
    "phone": "+49223420970",
    "website": "https://www.buerobedarf-dohmen.de/",
@@ -3794,6 +3839,7 @@
   {
    "name": "Cafe Nørd by dice4friends",
    "group": "unknown",
+   "city": "Schleswig-Holstein",
    "address": "24 Stadtweide, Lübeck, Schleswig-Holstein, 23562, Germany",
    "phone": "+49176176495335",
    "website": "https://cafe-noerd.de/",
@@ -3805,6 +3851,7 @@
   {
    "name": "Caiko TCG",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "13 Oststraße, Düsseldorf, Nordrhein Westfalen, 40211, Germany",
    "phone": "+491737282295",
    "website": "https://wpn.wizards.com/en",
@@ -3912,6 +3959,7 @@
   {
    "name": "Card Club - Hockenheim",
    "group": "unknown",
+   "city": "Hockenheim",
    "address": "19 u. Hauptstraße, Hockenheim, BW, 68766, Germany",
    "phone": "+49(0)62052890209",
    "website": "https://linktr.ee/CardClubTCG",
@@ -3964,6 +4012,7 @@
   {
    "name": "CardaniaCity",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "53 Langenstraße, Löningen, Niedersachsen, 49624, Germany",
    "phone": "+491721848399",
    "website": "https://cardaniacity.de/",
@@ -4119,6 +4168,7 @@
   {
    "name": "Cardtrader24 Rinteln",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "Lindenstraße 4, Rinteln, Niedersachsen, 31737, Germany",
    "phone": "+4915223150401",
    "website": "https://wpn.wizards.com/en",
@@ -4323,6 +4373,7 @@
   {
    "name": "Comic Planet Muenster",
    "group": "unknown",
+   "city": "Münster",
    "address": "Warendorfer Straße 44, Münster, NW, 48145, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -4396,6 +4447,7 @@
   {
    "name": "Comic-Tempel",
    "group": "unknown",
+   "city": "Dresden",
    "address": "Hertha-Lindner-Straße 12, Dresden, SN, 01067, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -4417,6 +4469,7 @@
   {
    "name": "Comicbuchversand",
    "group": "unknown",
+   "city": "Zittau",
    "address": "5 Markt, Zittau, SN, 02763, Germany",
    "phone": "+49(0)35835626979",
    "website": "https://www.comicbuchversand.de",
@@ -4469,6 +4522,7 @@
   {
    "name": "Comiculture",
    "group": "unknown",
+   "city": "Braunschweig",
    "address": "Handelsweg 8-9, Braunschweig, NI, 38100, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -4508,6 +4562,7 @@
   {
    "name": "Console Mania",
    "group": "unknown",
+   "city": "Aschaffenburg",
    "address": "Heinse Str. 5, Aschaffenburg, BY, 63739, Germany",
    "phone": "+49 06021 5831971",
    "website": "https://www.consolemania.de/",
@@ -4556,6 +4611,7 @@
   {
    "name": "Craig’s Tabletop Corner",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Brüderstraße 27, Lippstadt, Nordrhein Westfalen, 59555, Germany",
    "phone": "+4929419888090",
    "website": "https://www.craigstabletopcorner.com",
@@ -4607,6 +4663,7 @@
   {
    "name": "Crow's & Owl's Little Shop",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Herrngasse 379-380, Landshut, Bayern, 84028, Germany",
    "phone": "+4987196683535",
    "website": "https://www.crowsandowlslittleshop.de/",
@@ -4662,6 +4719,7 @@
   {
    "name": "Das Spielbrett",
    "group": "unknown",
+   "city": "Hildesheim",
    "address": "Goschenstrasse 26, Hildesheim, NI, 31134, Germany",
    "phone": "1X",
    "website": "https://www.das-spielbrett.de",
@@ -4767,6 +4825,7 @@
   {
    "name": "Dice Heart",
    "group": "unknown",
+   "city": "Berlin",
    "address": "Fürbringerstraße 22, Berlin, Berlin, 10961, Germany",
    "phone": "+4917631505890",
    "website": "https://wpn.wizards.com/en",
@@ -4894,6 +4953,7 @@
   {
    "name": "DrisoCard",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Bamberger Straße 1, Neustadt an der Aisch, Bayern, 91480, Germany",
    "phone": "+491715119704",
    "website": "https://wpn.wizards.com/en",
@@ -4905,6 +4965,7 @@
   {
    "name": "Dungeon Wars",
    "group": "unknown",
+   "city": "Eimke",
    "address": "1 Dorfstraße, Eimke, NDS, 29578, Germany",
    "phone": "+49(0)58737169990",
    "website": "https://www.dungeon-wars.de",
@@ -5150,6 +5211,7 @@
   {
    "name": "Epic Cards",
    "group": "unknown",
+   "city": "Schleswig-Holstein",
    "address": "Großflecken 31, Neumünster, Schleswig-Holstein, 24534, Germany",
    "phone": "+49017642023973",
    "website": "https://epiccardsnms.com/",
@@ -5172,6 +5234,7 @@
   {
    "name": "Escamon",
    "group": "unknown",
+   "city": "Bayern",
    "address": "1 Ettmannsdorfer Str., Schwandorf, Bayern, 92421, Germany",
    "phone": "+4916094165021",
    "website": "https://www.escamon.de/",
@@ -5213,6 +5276,7 @@
   {
    "name": "FANcy Treasure",
    "group": "unknown",
+   "city": "Hessen",
    "address": "Darmstädter Str 1, Biblis, Hessen, 68647, Germany",
    "phone": "+4901605215676",
    "website": "https://fancytreasure.de/",
@@ -5317,6 +5381,7 @@
   {
    "name": "Fantasy-Kontor Bardowick",
    "group": "unknown",
+   "city": "Bardowick",
    "address": "10 Daimlerstraße, Bardowick, NDS, 21357, Germany",
    "phone": "+494131 9694260",
    "website": "https://www.fantasykontor.de/",
@@ -5328,6 +5393,7 @@
   {
    "name": "Feenturm",
    "group": "unknown",
+   "city": "Nordrhein-Westphalen",
    "address": "14 Tenterstraße, Oberhausen, Nordrhein-Westphalen, 46147, Germany",
    "phone": "+4920838899049",
    "website": "https://feenturm.de/",
@@ -5422,6 +5488,7 @@
   {
    "name": "Frozen Cards",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "1 Augustastraße, Witten, Nordrhein Westfalen, 58452, Germany",
    "phone": "+4923021790685",
    "website": "https://wpn.wizards.com/en",
@@ -5655,6 +5722,7 @@
   {
    "name": "Games-Cafe",
    "group": "unknown",
+   "city": "Luhe-Wildenau",
    "address": "Leuchtenberger Straße 9, Luhe-Wildenau, BW, 92706, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -5680,6 +5748,7 @@
   {
    "name": "Gandalph Lübeck",
    "group": "unknown",
+   "city": "Lübeck",
    "address": "Wahmstr. 30, Lübeck, SH, 23552, Germany",
    "phone": "1X",
    "website": "http://www.gandalph-luebeck.de/",
@@ -5854,6 +5923,7 @@
   {
    "name": "Goose Games",
    "group": "unknown",
+   "city": "Hesse",
    "address": "Zeilstraße 4, Wiesbaden, Hesse, 65201, Germany",
    "phone": "+4961198894011",
    "website": "https://goose-games.de/",
@@ -6162,6 +6232,7 @@
   {
    "name": "Holocafé Düsseldorf",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "7 Immermannstraße, Düsseldorf, Nordrhein Westfalen, 40210, Germany",
    "phone": "+4921178174999",
    "website": "https://holocafe.de/duesseldorf",
@@ -6183,6 +6254,7 @@
   {
    "name": "Horns Heldenhort",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Friedrichstraße 9, Iserlohn, Nordrhein Westfalen, 58636, Germany",
    "phone": "+4923717766553",
    "website": "https://hornsheldenhort.de/",
@@ -6257,6 +6329,7 @@
   {
    "name": "Imp's Shop",
    "group": "unknown",
+   "city": "Ulm",
    "address": "Herrenkellergasse 20, Ulm, BW, 89073, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -6375,6 +6448,7 @@
   {
    "name": "JB Spielwaren",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "79 Biefangstraße, Oberhausen, Nordrhein Westfalen, 46149, Germany",
    "phone": "+4920830995339",
    "website": "https://www.jb-spielwaren.de/",
@@ -6461,6 +6535,7 @@
   {
    "name": "Junksplayground",
    "group": "unknown",
+   "city": "Moers",
    "address": "15 Zum Schürmannsgraben, Moers, NRW, 47441, Germany",
    "phone": "+4915565333291",
    "website": "https://junksplayground.de/",
@@ -6473,6 +6548,7 @@
   {
    "name": "Just For Fun Megastore",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "17 Brüdergasse, Bonn, Nordrhein Westfalen, 53111, Germany",
    "phone": "+4915787213813",
    "website": "https://wpn.wizards.com/en",
@@ -6510,6 +6586,7 @@
   {
    "name": "Kame Haus",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Luisenstr.1, Lüdenscheid, Nordrhein Westfalen, 58511, Germany",
    "phone": "+4915734034319",
    "website": "https://www.kame-haus.de/",
@@ -6578,6 +6655,7 @@
   {
    "name": "Kelz0r Spiele Cafe",
    "group": "unknown",
+   "city": "Lage",
    "address": "79A Schötmarsche Str., Lage, NRW, 32791, Germany",
    "phone": "+49(0)17675866107",
    "website": "https://www.kelz0r-cafe.de",
@@ -6609,6 +6687,7 @@
   {
    "name": "Kingdom Wargames Germany",
    "group": "unknown",
+   "city": "Nordrhein-Westfalen",
    "address": "Annenstraße 83, Witten, Nordrhein-Westfalen, 58453, Germany",
    "phone": "+4901773431572",
    "website": "https://deutschland.kingdomwargames.com/",
@@ -6722,6 +6801,7 @@
   {
    "name": "Kuseu",
    "group": "unknown",
+   "city": "Augsburg",
    "address": "29 Jakoberstraße, Augsburg, BY, 86152, Germany",
    "phone": "49017678563142",
    "website": "http://kuseu-cards.de",
@@ -6754,6 +6834,7 @@
   {
    "name": "Lavka dabra",
    "group": "unknown",
+   "city": "Rheinland-Pfalz",
    "address": "7 Wellmicher Straße, Sankt Goarshausen, Rheinland-Pfalz, 56346, Germany",
    "phone": "+491737123236",
    "website": "https://wpn.wizards.com/en",
@@ -6838,6 +6919,7 @@
   {
    "name": "Lola Lasertag GmbH - Lasertag Hameln",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "5 Nienstedter Weg, Hameln, Niedersachsen, 31789, Germany",
    "phone": "+4951518214781",
    "website": "https://lasertag-hameln.de/magic-hameln/",
@@ -6849,6 +6931,7 @@
   {
    "name": "Lolo's Welt",
    "group": "unknown",
+   "city": "Thüringen",
    "address": "Goethestr.3, Jena, Thüringen, 07743, Germany",
    "phone": "+497623135595",
    "website": "https://www.loloswelt.de",
@@ -6881,6 +6964,7 @@
   {
    "name": "LotusSchmiede",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Dachauer Str. 10, Markt Indersdorf, Bayern, 85229, Germany",
    "phone": "+4915175051155",
    "website": "https://www.lotusschmiede.de/",
@@ -6963,6 +7047,7 @@
   {
    "name": "MaBasso",
    "group": "unknown",
+   "city": "Kempen",
    "address": "Peterstraße 32, Kempen, NRW, 47906, Germany",
    "phone": "+49 2152 8762399",
    "website": "https://mabasso.com/",
@@ -7039,6 +7124,7 @@
   {
    "name": "MagicPapa GmbH",
    "group": "unknown",
+   "city": "Schechen",
    "address": "16 Lochberg, Schechen, BY, 83135, Germany",
    "phone": "+4908031 2728694",
    "website": "https://www.magicpapa-shop.de/",
@@ -7050,6 +7136,7 @@
   {
    "name": "Magnifique",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Eichenstraße 4, Hohenthann, Bayern, 84098, Germany",
    "phone": "+4908784556",
    "website": "https://www.magnifique-gbr.de",
@@ -7074,6 +7161,7 @@
   {
    "name": "Mana Games",
    "group": "unknown",
+   "city": "Berlin",
    "address": "5 Blissestraße, Berlin, BE, 10715, Germany",
    "phone": "491522 9585195",
    "website": "https://wpn.wizards.com/en",
@@ -7347,6 +7435,7 @@
   {
    "name": "migas",
    "group": "unknown",
+   "city": "Berlin",
    "address": "Lindower Straße 19, Berlin, Berlin, 13347, Germany",
    "phone": "+49+49 30 41746935",
    "website": "https://migas.berlin",
@@ -7368,6 +7457,7 @@
   {
    "name": "Migos Cards",
    "group": "unknown",
+   "city": "Werl",
    "address": "Salzstr. 2, Werl, NRW, 59457, Germany",
    "phone": "+4917644416917",
    "website": "https://migoscards.de/",
@@ -7413,6 +7503,7 @@
   {
    "name": "Minyarts - Miniatures & More",
    "group": "unknown",
+   "city": "Beckum",
    "address": "Nordstr. 45, Beckum, NW, 59269, Germany",
    "phone": "+4902521 8791087",
    "website": "https://www.minyarts.eu/",
@@ -7425,6 +7516,7 @@
   {
    "name": "MM-Collectables",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Schulstrasse 27, Karlstein am Main, Bayern, 63791, Germany",
    "phone": "+4915150170490",
    "website": "https://wpn.wizards.com/en",
@@ -7436,6 +7528,7 @@
   {
    "name": "Modellbau & Spielwaren Vordermaier GmbH",
    "group": "unknown",
+   "city": "Bayern",
    "address": "Bergstrasse 2, Ottobrunn, Bayern, 85521, Germany",
    "phone": "+498960850777",
    "website": "https://www.spielwaren-vordermaier.de/",
@@ -7447,6 +7540,7 @@
   {
    "name": "Moonshop85",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "78C Heedfelder Straße, Lüdenscheid, Nordrhein Westfalen, 58509, Germany",
    "phone": "+4923518943034",
    "website": "https://moonshop85.com/",
@@ -7485,6 +7579,7 @@
   {
    "name": "MYTHOS Buch&Spiel",
    "group": "unknown",
+   "city": "Lüneburg",
    "address": "Am Sande 34-35, Lüneburg, NI, 21335, Germany",
    "phone": "+49(0)4131 402565",
    "website": "http://www.mythos.de/",
@@ -7596,6 +7691,7 @@
   {
    "name": "Nerdwana",
    "group": "unknown",
+   "city": "Hachenburg",
    "address": "4 Wilhelmstraße, Hachenburg, RP, 57627, Germany",
    "phone": "+4926629380499",
    "website": "https://www.nerdwana-hachenburg.de/magic-the-gathering/magic-spielen-westerwald",
@@ -7679,6 +7775,7 @@
   {
    "name": "No Pixels",
    "group": "unknown",
+   "city": "Wuppertal",
    "address": "Höhne 20, Wuppertal, NW, 42275, Germany",
    "phone": "1X",
    "website": "https://no-pixels.de/",
@@ -7731,6 +7828,7 @@
   {
    "name": "Olli-Baba Sammelkarten",
    "group": "unknown",
+   "city": "Nordrhein -Westphalen",
    "address": "41-43 Maxstraße, Essen, Nordrhein -Westphalen, 45127, Germany",
    "phone": "+491723264255",
    "website": "https://www.olli-baba.de/",
@@ -7838,6 +7936,7 @@
   {
    "name": "Paint and Play",
    "group": "unknown",
+   "city": "Herford",
    "address": "185 Mindener Str., Herford, NRW, 32049, Germany",
    "phone": "+491749171905",
    "website": "https://papl-shop.de",
@@ -7874,6 +7973,7 @@
   {
    "name": "Phoboscards",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "33 Mercklinghausstraße, Wuppertal, Nordrhein Westfalen, 42389, Germany",
    "phone": "+491792067083",
    "website": "https://phoboscards.de/",
@@ -7909,6 +8009,7 @@
   {
    "name": "Pinkepank An- und Verkauf",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "33 In den Blumentriften, Salzgitter, Niedersachsen, 38226, Germany",
    "phone": "+49534113512",
    "website": "https://wpn.wizards.com/en",
@@ -7920,6 +8021,7 @@
   {
    "name": "Pinselschwert",
    "group": "unknown",
+   "city": "Wülfrath",
    "address": "Wilhelmstr. 126, Wülfrath, NRW, 42489, Germany",
    "phone": "+49015561665692",
    "website": "https://pinselschwert.com/",
@@ -7988,6 +8090,7 @@
   {
    "name": "Poke-Brick",
    "group": "unknown",
+   "city": "Bayern",
    "address": "18 Heiligenstadt, Neustadt an der Donau, Bayern, 93333, Germany",
    "phone": "+491608085939",
    "website": "https://wpn.wizards.com/en",
@@ -8164,6 +8267,7 @@
   {
    "name": "RaveCards",
    "group": "unknown",
+   "city": "Neuwied",
    "address": "10 Engerser Str., Neuwied, RP, 56564, Germany",
    "phone": "+492631 9590413",
    "website": "https://ravecards.com/",
@@ -8307,6 +8411,7 @@
   {
    "name": "Rune Store",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Hauptstraße 70, Solingen, Nordrhein Westfalen, 42651, Germany",
    "phone": "+4921278171584",
    "website": "https://rune-online.com/",
@@ -8476,6 +8581,7 @@
   {
    "name": "Schlaumeier",
    "group": "unknown",
+   "city": "Hessen",
    "address": "16 Grunerstraße, Idstein, Hessen, 65510, Germany",
    "phone": "+496126959596",
    "website": "https://schlaumeier-idstein.com/",
@@ -8487,6 +8593,7 @@
   {
    "name": "Schreibwaren Scherer",
    "group": "unknown",
+   "city": "Pforzheim",
    "address": "Westliche Karl-Friedrich-Str. 257a, Pforzheim, BW, 75179, Germany",
    "phone": "07231/451132",
    "website": "https://www.tcg-scherer.de/",
@@ -8508,6 +8615,7 @@
   {
    "name": "Seecrit Card & Games",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "1 Vor den Tannen, Edemissen, Niedersachsen, 31234, Germany",
    "phone": "+4917631473849",
    "website": "https://wpn.wizards.com/en",
@@ -8783,6 +8891,7 @@
   {
    "name": "SouthWestTradingTeam",
    "group": "unknown",
+   "city": "Baden-Württemberg",
    "address": "Hauptstraße 124, Sinsheim, Baden-Württemberg, 74889, Germany",
    "phone": "+4972619736688",
    "website": "https://wpn.wizards.com/en",
@@ -8847,6 +8956,7 @@
   {
    "name": "Spiele Pyramide GmbH",
    "group": "unknown",
+   "city": "Baden-Württemberg",
    "address": "9 Fritz-Erler-Straße, Karlsruhe, Baden-Württemberg, 76133, Germany",
    "phone": "+497218514443",
    "website": "https://wpn.wizards.com/en",
@@ -8871,6 +8981,7 @@
   {
    "name": "Spielebox",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "20 Hauptmarkt, Siegen, Nordrhein Westfalen, 57076, Germany",
    "phone": "+492717032710",
    "website": "https://www.spielebox-siegen.de",
@@ -8908,6 +9019,7 @@
   {
    "name": "Spielespatz",
    "group": "unknown",
+   "city": "Baden-Württemberg",
    "address": "15 Herdbruckerstraße, Ulm, Baden-Württemberg, 89073, Germany",
    "phone": "+4973160274600",
    "website": "https://spielespatz.de",
@@ -8929,6 +9041,7 @@
   {
    "name": "SpieleTaxi",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Siemensstraße 9a, Steinheim, Nordrhein Westfalen, 32839, Germany",
    "phone": "+49523370297710",
    "website": "https://spieletaxi.de",
@@ -8982,6 +9095,7 @@
   {
    "name": "Spielgetuschel",
    "group": "unknown",
+   "city": "Rheinland-Pfalz",
    "address": "2 Brauereistraße, Worms, Rheinland-Pfalz, 67549, Germany",
    "phone": "+4962414819442",
    "website": "https://spielgetuschel.de/",
@@ -9051,6 +9165,7 @@
   {
    "name": "Spielzeit Krefeld",
    "group": "unknown",
+   "city": "Krefeld",
    "address": "Ostwall 92, Krefeld, NW, 47798, Germany",
    "phone": "+492151801718",
    "website": "https://spielzeit-krefeld.de/",
@@ -9238,6 +9353,7 @@
   {
    "name": "Svens Spielzeugparadies",
    "group": "unknown",
+   "city": "Springe",
    "address": "Zum Oberntor 23, Springe, NI, 31832, Germany",
    "phone": "1X",
    "website": "https://x.com/",
@@ -9262,6 +9378,7 @@
   {
    "name": "Tabletop Kontor Heins",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "Lange Straße 22, Horneburg, Niedersachsen, 21640, Germany",
    "phone": "+4917684453803",
    "website": "https://tabletopkontorheins.de/",
@@ -9302,6 +9419,7 @@
   {
    "name": "Tales Untold",
    "group": "unknown",
+   "city": "Berlin",
    "address": "1 Am Comeniuspl., Berlin, Berlin, 10243, Germany",
    "phone": "+49491632604854",
    "website": "https://talesuntold.de",
@@ -9323,6 +9441,7 @@
   {
    "name": "Tante-Sören",
    "group": "unknown",
+   "city": "Eberswalde",
    "address": "Rudolf-Breitscheid-Straße-Str. 16, Eberswalde, BB, 16225, Germany",
    "phone": "+4933343878494",
    "website": "https://tante-soeren.de",
@@ -9344,6 +9463,7 @@
   {
    "name": "TCG Cabin",
    "group": "unknown",
+   "city": "Baden-Württemberg",
    "address": "4 Chisinauer Platz, Mannheim, Baden-Württemberg, 68309, Germany",
    "phone": "+4915223730645",
    "website": "https://tcg-cabin.com/",
@@ -9355,6 +9475,7 @@
   {
    "name": "TCG Café Zwickau",
    "group": "unknown",
+   "city": "Sachsen",
    "address": "44 Heinrich-Heine-Straße, Zwickau, Sachsen, 08508, Germany",
    "phone": "+491731627231",
    "website": "https://wpn.wizards.com/en",
@@ -9431,6 +9552,7 @@
   {
    "name": "TCG Shop Moers",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "25 Scherpenberger Str., Moers, Nordrhein Westfalen, 47443, Germany",
    "phone": "+491722480886",
    "website": "https://tcgshop-moers.com/",
@@ -9487,6 +9609,7 @@
   {
    "name": "TCG-Siegburg",
    "group": "unknown",
+   "city": "Siegburg",
    "address": "51-53 Kaiserstraße, Siegburg, NRW, 53721, Germany",
    "phone": "+4917663107716",
    "website": "https://www.tcg-siegburg.de/",
@@ -9537,6 +9660,7 @@
   {
    "name": "TCGBrothers",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "Neue-Linner-Straße. 59, Krefeld, Nordrhein Westfalen, 47799, Germany",
    "phone": "+491633413061",
    "website": "https://tcgbrothers.de/",
@@ -9594,6 +9718,7 @@
   {
    "name": "The Corner",
    "group": "unknown",
+   "city": "Geilenkirchen",
    "address": "Friedlandplatz 4, Geilenkirchen, NW, 52511, Germany",
    "phone": "00492459400161",
    "website": "https://wpn.wizards.com/en",
@@ -9657,6 +9782,7 @@
   {
    "name": "TopDeck - Krefeld",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "11 Sankt-Anton-Straße, Krefeld, Nordrhein Westfalen, 47799, Germany",
    "phone": "+4915757191930",
    "website": "https://topdeck-krefeld.de/",
@@ -9668,6 +9794,7 @@
   {
    "name": "TopMini",
    "group": "unknown",
+   "city": "Stresemannstraße",
    "address": "15 Stresemannstraße, SG, NRW, 42719, Germany",
    "phone": "49(0) 1719960910",
    "website": "https://www.topmini.de/",
@@ -9946,6 +10073,7 @@
   {
    "name": "WAM - Vechta",
    "group": "unknown",
+   "city": "Vechta",
    "address": "85 Oldenburger Str., Vechta, NDS, 49377, Germany",
    "phone": "+44418875267",
    "website": "https://www.dersockelshop.de/",
@@ -10077,6 +10205,7 @@
   {
    "name": "WeSports Mainz",
    "group": "unknown",
+   "city": "Rheinland-Pfalz",
    "address": "51 Sertoriusring, Mainz, Rheinland-Pfalz, 55126, Germany",
    "phone": "+491627504119",
    "website": "https://wpn.wizards.com/en",
@@ -10212,6 +10341,7 @@
   {
    "name": "Würfel & Bohne",
    "group": "unknown",
+   "city": "Nordrhein Westfalen",
    "address": "27 Cappelstraße, Lippstadt, Nordrhein Westfalen, 59555, Germany",
    "phone": "+491755617427",
    "website": "https://wpn.wizards.com/en",
@@ -10223,6 +10353,7 @@
   {
    "name": "Würfel & Wein",
    "group": "unknown",
+   "city": "Berlin",
    "address": "86 Bölschestraße, Berlin, Berlin, 12587, Germany",
    "phone": "+493062960642",
    "website": "https://www.xn--wrfelundwein-dlb.de",
@@ -10248,6 +10379,7 @@
   {
    "name": "Würfelgarten",
    "group": "unknown",
+   "city": "Schwäbisch Hall",
    "address": "59 Gelbinger G., Schwäbisch Hall, BW, 74523, Germany",
    "phone": "+4979194077221",
    "website": "https://www.wuerfelgarten.com",
@@ -10319,6 +10451,7 @@
   {
    "name": "Y-Magic",
    "group": "unknown",
+   "city": "Niedersachsen",
    "address": "28 Dr.-Heinrich-Jasper-Straße, Bad Harzburg, Niedersachsen, 38667, Germany",
    "phone": "+491736186229",
    "website": "https://wpn.wizards.com/en",
@@ -10470,6 +10603,7 @@
   {
    "name": "Zu den Vier Winden",
    "group": "unknown",
+   "city": "Bochum",
    "address": "Hofsteder Str. 94, Bochum, NW, 44809, Germany",
    "phone": "1X",
    "website": "https://die-winde.de/",
@@ -10481,6 +10615,7 @@
   {
    "name": "Zum Waschbaeren",
    "group": "unknown",
+   "city": "Ulm",
    "address": "42 Zinglerstraße, Ulm, BW, 89077, Germany",
    "phone": "4901718377335",
    "website": "https://racoon-rises.com/",

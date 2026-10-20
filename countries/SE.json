@@ -7,6 +7,7 @@
   {
    "name": "Alara Games",
    "group": "login_required",
+   "city": "O",
    "address": "Föreningsgatan 16., Trollhattan, O, 46130, Sweden",
    "phone": "+46730255419",
    "website": "https://www.alaragames.se/",
@@ -18,6 +19,7 @@
   {
    "name": "Fix My Phone Uppsala",
    "group": "blocked",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Per Gallerian, Svartbäcksgatan 7, 753 20 Uppsala",
    "phone": "076-176 62 45",
@@ -27,6 +29,7 @@
   {
    "name": "Glofen",
    "group": "blocked",
+   "city": "Drejargatan",
    "region": "Stockholms län",
    "address": "tr SE, Drejargatan, 113 42 7",
    "phone": "076-479 45 59",
@@ -36,6 +39,7 @@
   {
    "name": "Lelles MC Center AB",
    "group": "blocked",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Nymansgatan 6C, 753 23 Uppsala",
    "phone": "018-15 60 00",
@@ -45,6 +49,7 @@
   {
    "name": "NordicTCG",
    "group": "blocked",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Ångermannagatan 122, 162 64 Stockholm",
    "phone": "070-731 96 46",
@@ -54,6 +59,7 @@
   {
    "name": "Amir Spelcenter Frölunda",
    "group": "in_store",
+   "city": "Smyckegatan",
    "region": "Västra Götalands län",
    "address": "Smyckegatan 1, 426 50 Västra Frölunda",
    "checked_at": "2026-10-16T03:52:20Z"
@@ -61,6 +67,7 @@
   {
    "name": "Atg Ombud Uppsala",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Bangårdsgatan 28, 753 20 Uppsala",
    "checked_at": "2026-10-16T03:53:11Z"
@@ -68,6 +75,7 @@
   {
    "name": "B-G Bok och Tidskriftsantikvariat",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Carl Hillsgatan 7, 217 56 Malmö",
    "phone": "070-594 70 68",
@@ -76,6 +84,7 @@
   {
    "name": "Bitzboxen",
    "group": "in_store",
+   "city": "Blekinge län",
    "region": "Blekinge län",
    "address": "Konstapelsgatan 29, 371 35 Karlskrona, Sweden, Blekinge län, 371 35",
    "phone": "+46 73 356 02 84",
@@ -87,6 +96,7 @@
   {
    "name": "Blue Frog Games",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Folkungagatan 16A, 753 36 Uppsala",
    "phone": "073-962 67 66",
@@ -95,6 +105,7 @@
   {
    "name": "Cd Fyndet Uppsala",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Olofsgatan 32, 753 32 Uppsala",
    "phone": "076-248 65 11",
@@ -103,6 +114,7 @@
   {
    "name": "CG Premium",
    "group": "in_store",
+   "city": "Skåne län",
    "region": "Skåne län",
    "address": "Hyllie Boulevard 14, 215 32 Malmö, Sweden, Skåne län, 215 32",
    "games_events": [
@@ -113,6 +125,7 @@
   {
    "name": "Coins & Music",
    "group": "in_store",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Friggagatan 15, 411 01 Göteborg",
    "phone": "031-15 80 88",
@@ -121,6 +134,7 @@
   {
    "name": "Disc Center",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 14, 753 20 Uppsala",
    "phone": "018-470 30 30",
@@ -130,6 +144,7 @@
   {
    "name": "Fantastikbokhandeln",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Eriks torg 6, 753 10 Uppsala",
    "phone": "018-55 00 42",
@@ -139,6 +154,7 @@
   {
    "name": "Game Center Majorna",
    "group": "in_store",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Jaegerdorffsplatsen 1B, 414 51 Göteborg",
    "phone": "031-14 19 29",
@@ -148,6 +164,7 @@
   {
    "name": "GameWholeSaler",
    "group": "in_store",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Kungsgatan 77, 112 27 Stockholm",
    "phone": "073-700 70 06",
@@ -156,6 +173,7 @@
   {
    "name": "Gustav Spel & Tobak",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Gustav Adolfs torg 8, 211 39 Malmö",
    "checked_at": "2026-10-16T03:52:54Z"
@@ -163,6 +181,7 @@
   {
    "name": "Jadestone Group AB",
    "group": "in_store",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Östgötagatan 16, 116 25 Stockholm",
    "phone": "08-24 05 01",
@@ -171,6 +190,7 @@
   {
    "name": "Lilla Krabaten",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kungsängsgatan 13, 753 22 Uppsala",
    "website": "https://www.instagram.com/lillakrabateniuppsala/",
@@ -179,6 +199,7 @@
   {
    "name": "Mindstage",
    "group": "in_store",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Aschebergsgatan 11, Göteborg, Göteborg, 411 27, Sweden",
    "phone": "4631 701 08 09",
@@ -195,6 +216,7 @@
   {
    "name": "PH Asian Market Malmö",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Fredsgatan 12 B, 212 12 Malmö",
    "phone": "073-985 41 78",
@@ -204,6 +226,7 @@
   {
    "name": "Playoteket Lund",
    "group": "in_store",
+   "city": "Skåne län",
    "region": "Skåne län",
    "address": "Lilla Fiskaregatan 17, 222 22 Lund, Sweden, Skåne län, 222 22",
    "phone": "+46 40 12 04 10",
@@ -216,6 +239,7 @@
   {
    "name": "Pralinen Tobacco & Souvenirs",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Storgatan 21, 211 34 Malmö",
    "phone": "040-12 55 55",
@@ -224,6 +248,7 @@
   {
    "name": "Royal Spel och Tobak",
    "group": "in_store",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Marklandsgatan 7, 414 77 Göteborg",
    "phone": "031-41 28 96",
@@ -232,6 +257,7 @@
   {
    "name": "Rundgång",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Kristianstadsgatan 14, 214 23 Malmö",
    "website": "https://m.facebook.com/Rundgng",
@@ -240,6 +266,7 @@
   {
    "name": "Secret Card TCG",
    "group": "in_store",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Tomtebogatan 17, 113 39 Stockholm",
    "phone": "073-346 72 96",
@@ -248,6 +275,7 @@
   {
    "name": "Skivesset Records",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Nobelvägen 103, 214 33 Malmö",
    "phone": "040-97 77 35",
@@ -257,6 +285,7 @@
   {
    "name": "Stamps and Postcards",
    "group": "in_store",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Gustaf Rydbergsgatan 1, 217 54 Malmö",
    "phone": "040-26 67 93",
@@ -265,6 +294,7 @@
   {
    "name": "TCG House Sweden",
    "group": "in_store",
+   "city": "Saxtorp",
    "region": "Skåne län",
    "address": "Kalvhagsvägen 6, 261 93 Saxtorp",
    "phone": "076-258 80 41",
@@ -273,6 +303,7 @@
   {
    "name": "The Card Cabinet AB",
    "group": "in_store",
+   "city": "Rönninge",
    "region": "Stockholms län",
    "address": "Förrådsvägen 18, 144 40 Rönninge",
    "phone": "08-643 83 27",
@@ -281,6 +312,7 @@
   {
    "name": "The Lundin Collection",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Otto Myrbergs väg, 752 31 Uppsala",
    "phone": "073-208 28 20",
@@ -289,6 +321,7 @@
   {
    "name": "TKCardGames",
    "group": "in_store",
+   "city": "Nacka",
    "region": "Stockholms län",
    "address": "Tallidsvägen 12e, 131 37 Nacka",
    "phone": "070-955 52 48",
@@ -297,6 +330,7 @@
   {
    "name": "Uppsala Orienthus",
    "group": "in_store",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kvarntorget 3, 754 21 Uppsala",
    "phone": "073-521 44 11",
@@ -305,6 +339,7 @@
   {
    "name": "IKEA Uppsala",
    "group": "not_buying_singles",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Rapsgatan 1L, 753 23 Uppsala",
    "website": "https://www.ikea.com/se/sv/stores/uppsala/?utm_source=google&utm_medium=organic&utm_campaign=map&utm_content=uppsala",
@@ -313,6 +348,7 @@
   {
    "name": "3Butiken Gränby",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Marknadsgatan 1, 754 60 Uppsala",
    "phone": "073-519 17 47",
@@ -322,6 +358,7 @@
   {
    "name": "AB Småland",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södra Förstadsgatan 25-27, 211 43 Malmö",
    "website": "https://absmaland.com/",
@@ -330,6 +367,7 @@
   {
    "name": "Adlibris Pocket",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Kungsportsplatsen 1, 411 10 Göteborg",
    "website": "https://www.adlibris.com/sv/om-adlibris/goteborg-kungsportsplatsen-1",
@@ -338,6 +376,7 @@
   {
    "name": "Adlibris Pocket",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Lokgatan 1, 211 20 Malmö",
    "website": "https://www.adlibris.com/sv/om-adlibris/goteborg-kungsportsplatsen-1",
@@ -346,6 +385,7 @@
   {
    "name": "AIK Shop",
    "group": "unknown",
+   "city": "Solna",
    "region": "Stockholms län",
    "address": "Friends Arena, Putte Kocks Plats 2, 169 79 Solna",
    "phone": "070-431 12 04",
@@ -355,6 +395,7 @@
   {
    "name": "Akademibokhandeln",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Nordstan, Norra Hamngatan 26, 411 06 Göteborg",
    "phone": "010-744 19 00",
@@ -364,6 +405,7 @@
   {
    "name": "Akademibokhandeln",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Marknadsgatan 1, 754 60 Uppsala",
    "phone": "010-744 14 20",
@@ -373,6 +415,7 @@
   {
    "name": "Allt i Kök",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södergatan 3, 211 34 Malmö",
    "phone": "070-479 46 39",
@@ -382,6 +425,7 @@
   {
    "name": "Amart Triangeln",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södra Förstadsgatan 41, 211 46 Malmö",
    "phone": "076-307 34 50",
@@ -391,6 +435,7 @@
   {
    "name": "Annabelle place.to.be",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Davidshallsgatan 27, 211 45 Malmö",
    "phone": "040-26 70 60",
@@ -400,6 +445,7 @@
   {
    "name": "Arcade Dreams",
    "group": "unknown",
+   "city": "Linköping",
    "region": "Östergötlands län",
    "address": "Tornbyvägen 1D, 582 73 Linköping",
    "phone": "010-214 78 50",
@@ -410,6 +456,7 @@
   {
    "name": "Aristocrat Lotteries AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Årstaängsvägen 11, 117 60 Stockholm",
    "phone": "08-522 158 00",
@@ -419,6 +466,7 @@
   {
    "name": "Arken Zoo",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Murstensvägen 6, 752 60 Uppsala",
    "phone": "010-490 62 55",
@@ -428,6 +476,7 @@
   {
    "name": "ATG butik",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Kungsportsplatsen 1, 411 10 Göteborg",
    "phone": "08-620 07 00",
@@ -437,6 +486,7 @@
   {
    "name": "ATG butik",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Amiralsgatan 96, 214 37 Malmö",
    "phone": "08-620 07 00",
@@ -446,6 +496,7 @@
   {
    "name": "ATG butik",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "VÄSTER TORG 5 B, 752 43 Uppsala",
    "phone": "08-620 07 00",
@@ -455,6 +506,7 @@
   {
    "name": "ATG Butik",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 30, 753 31 Uppsala",
    "phone": "08-620 07 00",
@@ -464,6 +516,7 @@
   {
    "name": "Bauhaus Uppsala",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Verkstadsgatan 16, 753 23 Uppsala",
    "phone": "010-180 18 00",
@@ -473,6 +526,7 @@
   {
    "name": "Best buy Sweden AB",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Höjdrodergatan 29, 212 39 Malmö",
    "phone": "040-615 22 51",
@@ -482,6 +536,7 @@
   {
    "name": "Bibblans Cykel",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Olofsgatan 15, 753 32 Uppsala",
    "phone": "018-15 00 01",
@@ -491,6 +546,7 @@
   {
    "name": "Blindbox Sweden",
    "group": "unknown",
+   "city": "Hägersten",
    "region": "Stockholms län",
    "address": "Karusellvägen 53, 126 31 Hägersten",
    "website": "https://blindbox.se/",
@@ -499,6 +555,7 @@
   {
    "name": "Bolandcity",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Stångjärnsgatan 10, 753 23 Uppsala",
    "website": "https://bolandcity.se/",
@@ -507,6 +564,7 @@
   {
    "name": "Brads Spelcafé",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Brogatan 11, 211 44 Malmö",
    "website": "https://www.brads.se/",
@@ -515,6 +573,7 @@
   {
    "name": "Butik lyktan",
    "group": "unknown",
+   "city": "Järfälla",
    "region": "Stockholms län",
    "address": "Veddestabron 8B, Stockholm, Järfälla, 17748, Sweden",
    "phone": "+46739075069",
@@ -528,6 +587,7 @@
   {
    "name": "Catch N Protect",
    "group": "unknown",
+   "city": "Limhamn",
    "region": "Skåne County",
    "address": "216 13 Limhamn",
    "website": "https://catchnprotect.se/",
@@ -536,6 +596,7 @@
   {
    "name": "CG Premium AB",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "14 Hyllie boulevard, Malmö, Malmö, 215 32, Sweden",
    "phone": "+46735352757",
@@ -548,6 +609,7 @@
   {
    "name": "Clas Ohlson",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Gränbystaden, Marknadsgatan 1, 754 60 Uppsala",
    "phone": "0247-445 00",
@@ -557,6 +619,7 @@
   {
    "name": "Collected",
    "group": "unknown",
+   "city": "Arlöv",
    "region": "Skåne län",
    "address": "Repslagaregatan 11, 232 35 Arlöv",
    "phone": "073-728 13 67",
@@ -566,6 +629,7 @@
   {
    "name": "Collecting Smiles AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Folkskolegatan 22C, 117 35 Stockholm",
    "phone": "070-600 14 36",
@@ -575,6 +639,7 @@
   {
    "name": "Comics Heaven",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Stora Nygatan 23, 111 27 Stockholm",
    "website": "https://comicsheaven.se/",
@@ -583,6 +648,7 @@
   {
    "name": "Concept Entertainment Sweden AB",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Friggagatan 5B, 411 01 Göteborg",
    "phone": "070-838 14 65",
@@ -592,6 +658,7 @@
   {
    "name": "Coolcard AB fd.Spel i Focus",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Åvägen 42, 412 51 Göteborg",
    "phone": "031-40 60 15",
@@ -601,6 +668,7 @@
   {
    "name": "Coolcard Göteborg",
    "group": "unknown",
+   "city": "Västra Götalands län",
    "region": "Värmlands län",
    "address": "42 Åvägen, Göteborg, Västra Götalands län, 412 51, Sweden",
    "phone": "4631406015",
@@ -614,6 +682,7 @@
   {
    "name": "Coolcard.se",
    "group": "unknown",
+   "city": "Karlstad",
    "region": "Värmlands län",
    "address": "Östra Torggatan 2, 652 24 Karlstad",
    "phone": "054-15 78 70",
@@ -623,6 +692,7 @@
   {
    "name": "Den Röda Goblinens Spelbutik",
    "group": "unknown",
+   "city": "Västmanlands län",
    "region": "Västmanlands län",
    "address": "35c Sigurdsgatan, Västerås, Västmanlands län, 721 30, Sweden",
    "phone": "+46 738234669",
@@ -636,6 +706,7 @@
   {
    "name": "Dragon's Lair - Sveavägen",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Sveavägen 118, 113 50 Stockholm",
    "phone": "08-654 60 50",
@@ -645,6 +716,7 @@
   {
    "name": "Dragons Lair - Kungsholmen",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Kungsholmstorg 8, Stockholm, Stockholm, 11221, Sweden",
    "phone": "468 654 60 50",
@@ -658,6 +730,7 @@
   {
    "name": "Draklunden",
    "group": "unknown",
+   "city": "Tierp",
    "address": "Norra Esplanaden 4, Tierp, Tierp, 815 41, Sweden",
    "phone": "+46700263622",
    "website": "https://draklunden.se/",
@@ -669,6 +742,7 @@
   {
    "name": "Drewex",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Slussgatan 10 B, 211 30 Malmö",
    "phone": "040-30 48 84",
@@ -678,6 +752,7 @@
   {
    "name": "Elgiganten Megastore Uppsala",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Verkstadsgatan 16, 753 23 Uppsala",
    "phone": "077-111 51 15",
@@ -687,6 +762,7 @@
   {
    "name": "Emporia Shopping Center",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Hyllie Boulevard 19, 215 32 Malmö",
    "phone": "040-36 36 10",
@@ -696,6 +772,7 @@
   {
    "name": "English Bookshop",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Svartbäcksgatan 19, 753 32 Uppsala",
    "phone": "018-10 05 10",
@@ -705,6 +782,7 @@
   {
    "name": "Fair Trade Shop Globalen",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kungsängsgatan 20, 753 22 Uppsala",
    "phone": "076-313 12 26",
@@ -714,6 +792,7 @@
   {
    "name": "Fingerprint Cards AB",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Kungsgatan 20, 411 19 Göteborg",
    "phone": "010-172 00 00",
@@ -723,6 +802,7 @@
   {
    "name": "Flying Tiger Copenhagen",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 7, 753 20 Uppsala",
    "phone": "076-142 57 66",
@@ -732,6 +812,7 @@
   {
    "name": "Forumgallerian",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Forumtorget, 753 20 Uppsala",
    "website": "https://www.forumkvarteret.se/",
@@ -740,6 +821,7 @@
   {
    "name": "Fototorget i Uppsala",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 30, 753 31 Uppsala",
    "phone": "018-12 66 11",
@@ -749,6 +831,7 @@
   {
    "name": "Fracka",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 14, 753 21 Uppsala",
    "phone": "076-271 27 57",
@@ -758,6 +841,7 @@
   {
    "name": "GameShop.se",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Sveavägen 14, 111 57 Stockholm",
    "phone": "08-509 245 73",
@@ -768,6 +852,7 @@
   {
    "name": "GolfUppsala - Citybutiken",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Fyrislundsgatan 68, 754 50 Uppsala",
    "phone": "018-10 02 00",
@@ -777,6 +862,7 @@
   {
    "name": "Gränbystaden",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Marknadsgatan 1, 754 60 Uppsala",
    "phone": "073-400 31 75",
@@ -786,6 +872,7 @@
   {
    "name": "Gräscenter AB",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Libro ringväg 23, 752 28 Uppsala",
    "phone": "018-26 26 46",
@@ -795,6 +882,7 @@
   {
    "name": "Hansa",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Stora Nygatan 50-56, 211 37 Malmö",
    "website": "https://hansamalmo.se/",
@@ -803,6 +891,7 @@
   {
    "name": "Hello There AB",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Drottninggatan 21, 411 14 Göteborg",
    "phone": "076-112 03 86",
@@ -812,6 +901,7 @@
   {
    "name": "Hihopia",
    "group": "unknown",
+   "city": "Västra Götalands län",
    "region": "Västra Götalands län",
    "address": "Brehult Hogen 3, 452 91 Strömstad, Sweden, Västra Götalands län, 452 91",
    "phone": "+46734299108",
@@ -824,6 +914,7 @@
   {
    "name": "Hobby Bookstore Stockholm",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Pipersgatan 25, 112 28 Stockholm",
    "phone": "08-654 84 55",
@@ -833,6 +924,7 @@
   {
    "name": "Hobbyisterna - Alphaspel",
    "group": "unknown",
+   "city": "Hägersten",
    "region": "Stockholms län",
    "address": "Instrumentvägen 2, Hägersten, AB, 126 53, Sweden",
    "phone": "108-645 10 10 ",
@@ -846,6 +938,7 @@
   {
    "name": "Hybriden",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Ahlmansgatan 11A, 214 27 Malmö",
    "website": "https://www.hybriden.se/",
@@ -854,6 +947,7 @@
   {
    "name": "Interpool Sportbar & Restaurang",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Svartbäcksgatan 11, 753 20 Uppsala",
    "phone": "018-51 27 12",
@@ -863,6 +957,7 @@
   {
    "name": "Japon",
    "group": "unknown",
+   "city": "Årsta",
    "region": "Stockholms län",
    "address": "Årstavägen 29, 120 52 Årsta",
    "website": "https://www.japon.se/",
@@ -872,6 +967,7 @@
   {
    "name": "Joumana",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 14, 753 21 Uppsala",
    "phone": "076-271 27 57",
@@ -881,6 +977,7 @@
   {
    "name": "Kandyz",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Svederusgatan 3, 754 50 Uppsala",
    "phone": "018-750 51 62",
@@ -890,6 +987,7 @@
   {
    "name": "Kartbutiken",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Kungsholmsgatan 20, 112 27 Stockholm",
    "phone": "08-20 23 03",
@@ -899,6 +997,7 @@
   {
    "name": "Kawaii.se",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Friisgatan 10, 211 46 Malmö",
    "website": "https://www.kawaii.se/",
@@ -907,6 +1006,7 @@
   {
    "name": "KICKS",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Persgatan 10, 753 20 Uppsala",
    "phone": "020-42 32 22",
@@ -916,6 +1016,7 @@
   {
    "name": "Kjell & Company",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Svartbäcksgatan 14, 753 20 Uppsala",
    "phone": "018-13 88 30",
@@ -925,6 +1026,7 @@
   {
    "name": "Kortbutiken-shop.se",
    "group": "unknown",
+   "city": "Nacka",
    "region": "Stockholms län",
    "address": "Diligensvägen 34, 131 48 Nacka",
    "phone": "073-556 46 47",
@@ -934,6 +1036,7 @@
   {
    "name": "Kreatima",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Kungsgatan 58, 111 22 Stockholm",
    "phone": "08-545 155 60",
@@ -943,6 +1046,7 @@
   {
    "name": "Kv. Caroli",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Östergatan 12, 211 25 Malmö",
    "website": "https://caroli.se/",
@@ -951,6 +1055,7 @@
   {
    "name": "Kvarnens Mobilservice",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Vaksalagatan 30 Kvarnengallerian, 753 31 Uppsala",
    "phone": "018-12 90 80",
@@ -960,6 +1065,7 @@
   {
    "name": "Lekia",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Per Albin Hanssons väg 40, 214 32 Malmö",
    "phone": "040-614 54 02",
@@ -969,6 +1075,7 @@
   {
    "name": "Lekia",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Nornegatan, 215 86 Malmö",
    "phone": "040-643 52 50",
@@ -978,6 +1085,7 @@
   {
    "name": "Lekia Nordstan",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Köpmansgatan 23, 411 06 Göteborg",
    "phone": "031-796 04 91",
@@ -987,6 +1095,7 @@
   {
    "name": "Lekia Uppsala",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Bolandsgatan 20, 753 23 Uppsala",
    "phone": "018-14 11 14",
@@ -996,6 +1105,7 @@
   {
    "name": "Leklust Västerås",
    "group": "unknown",
+   "city": "U",
    "address": "Vasagatan 16, Västerås , U, 72215, Sweden",
    "phone": "+4621 131151",
    "website": "https://www.leklust.se/",
@@ -1007,6 +1117,7 @@
   {
    "name": "Leksaksborgen Östermalmstorg AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Östermalmstorg 2, 114 42 Stockholm",
    "phone": "08-663 93 42",
@@ -1016,6 +1127,7 @@
   {
    "name": "Malmö Game",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Flaggskeppsgatan, 211 14 Malmö",
    "website": "http://malmogame.se/",
@@ -1024,6 +1136,7 @@
   {
    "name": "Manatorsk AB",
    "group": "unknown",
+   "city": "Västra Götalands län",
    "region": "Västra Götalands län",
    "address": "Gustav Adolfs gata 1, 541 49 Skövde, Sweden, Västra Götalands län, 541 49",
    "phone": "+46 500 20 22 22",
@@ -1036,6 +1149,7 @@
   {
    "name": "Miniature Metropolis",
    "group": "unknown",
+   "city": "Stockholms län",
    "address": "17 Vendelsö skolväg, Stockholm, Stockholms län, 136 71, Sweden",
    "phone": "460735722797",
    "website": "https://miniaturemetropolis.se/",
@@ -1047,6 +1161,7 @@
   {
    "name": "Mio",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Takpannegatan 1, 754 60 Uppsala",
    "phone": "018-17 25 60",
@@ -1056,6 +1171,7 @@
   {
    "name": "Mix-Max Nojs & Toys AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Hantverkargatan 20, 112 21 Stockholm",
    "phone": "08-651 72 30",
@@ -1065,6 +1181,7 @@
   {
    "name": "Mystery Shack",
    "group": "unknown",
+   "city": "Västra Götalands län",
    "region": "Västra Götalands län",
    "address": "13 Torggatan, Gothenburg, Västra Götalands län, 411 05, Sweden",
    "phone": "+460708107272",
@@ -1078,6 +1195,7 @@
   {
    "name": "MÅ Fiske & Fritid",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Björkgatan 4, 753 28 Uppsala",
    "phone": "018-10 26 50",
@@ -1087,6 +1205,7 @@
   {
    "name": "Net Gaming Europe AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Birger Jarlsgatan 18, 114 34 Stockholm",
    "phone": "08-410 380 44",
@@ -1096,6 +1215,7 @@
   {
    "name": "NET2WORLD - Datorbutik med service och support",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Nobelvägen 111, 214 33 Malmö",
    "phone": "010-173 72 72",
@@ -1105,6 +1225,7 @@
   {
    "name": "NetGrade",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Vårberg Centrum, 127 43 Stockholm",
    "phone": "070-450 04 30",
@@ -1114,6 +1235,7 @@
   {
    "name": "NEWOLDSWEDEN.se",
    "group": "unknown",
+   "city": "Sävedalen",
    "region": "Västra Götalands län",
    "address": "Göteborgsvägen 46, 433 60 Sävedalen",
    "website": "https://www.newoldsweden.se/sv/",
@@ -1122,6 +1244,7 @@
   {
    "name": "OVRHYPD",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Hyllie Stationsväg 22, 215 32 Malmö",
    "phone": "073-686 66 81",
@@ -1131,6 +1254,7 @@
   {
    "name": "Panduro",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Kungsgatan 34, 111 35 Stockholm",
    "phone": "08-411 50 11",
@@ -1140,6 +1264,7 @@
   {
    "name": "Panduro",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Stora Nygatan 27 C, 211 37 Malmö",
    "phone": "040-611 10 85",
@@ -1149,6 +1274,7 @@
   {
    "name": "Papercut AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Krukmakargatan 24, 118 51 Stockholm",
    "phone": "08-13 35 74",
@@ -1158,6 +1284,7 @@
   {
    "name": "Pen Store",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Hornsgatan 98, 118 21 Stockholm",
    "phone": "08-515 102 50",
@@ -1167,6 +1294,7 @@
   {
    "name": "Pill & Punch",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Claesgatan 8, 214 26 Malmö",
    "website": "https://pill.se/",
@@ -1175,6 +1303,7 @@
   {
    "name": "Playoteket Center - Malmö",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Djäknegatan 2A, Malmö, Malmö, 21134, Sweden",
    "phone": "4640 12 04 10",
@@ -1188,6 +1317,7 @@
   {
    "name": "PokeFeds",
    "group": "unknown",
+   "city": "Askim",
    "region": "Västra Götalands län",
    "address": "Pilegården, 436 35 Askim",
    "phone": "076-555 69 51",
@@ -1197,6 +1327,7 @@
   {
    "name": "PokeTalk",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Svangatan 3, 416 68 Göteborg",
    "phone": "076-565 01 93",
@@ -1206,6 +1337,7 @@
   {
    "name": "PokéPow TCG",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Rosendalsvägen 1, 212 19 Malmö",
    "phone": "072-587 78 52",
@@ -1215,6 +1347,7 @@
   {
    "name": "Prisfyndet",
    "group": "unknown",
+   "city": "Uppland",
    "address": "Kungsgatan 39, Uppsala, Uppland, 75321, Sweden",
    "phone": "+46(0) 18106607",
    "website": "https://magic.wizards.com/en",
@@ -1226,6 +1359,7 @@
   {
    "name": "Prisfyndet Games & Comics",
    "group": "unknown",
+   "city": "Uppsala län",
    "region": "Uppsala län",
    "address": "Kungsgatan 39, 753 21 Uppsala, Sweden, Uppsala län, 753 21",
    "phone": "+46 18 10 66 07",
@@ -1238,6 +1372,7 @@
   {
    "name": "Rajala Pro Shop",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Herkulesgatan 11, 111 52 Stockholm",
    "phone": "08-789 45 00",
@@ -1247,6 +1382,7 @@
   {
    "name": "realxs gaming",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Kortedalavägen, 415 35 Göteborg",
    "phone": "076-922 96 51",
@@ -1256,6 +1392,7 @@
   {
    "name": "Recon Vildmark AB",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "S:t Olofsgatan 33A, 753 30 Uppsala",
    "phone": "070-210 99 24",
@@ -1265,6 +1402,7 @@
   {
    "name": "RGB Kingz",
    "group": "unknown",
+   "city": "Skane",
    "address": "29 Fågelsångsgatan, Helsingborg, Skane, 25220, Sweden",
    "phone": "+46768845821",
    "website": "https://rgbkingz.com",
@@ -1276,6 +1414,7 @@
   {
    "name": "RSL Gaming AB",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Öppet efter schema på vår hemsideblogg, Mintensgatan 3A, 416 63 Göteborg",
    "phone": "070-885 43 33",
@@ -1285,6 +1424,7 @@
   {
    "name": "Rum för Papper",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Vallgatan 19, 411 16 Göteborg",
    "phone": "031-711 34 00",
@@ -1294,6 +1434,7 @@
   {
    "name": "S:t Per Gallerian",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Dragarbrunnsgatan 21, 753 20 Uppsala",
    "website": "https://stper.se/",
@@ -1302,6 +1443,7 @@
   {
    "name": "Scandinavian Car Styling AB",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Libro ringväg 29A, 752 28 Uppsala",
    "phone": "018-14 93 00",
@@ -1311,6 +1453,7 @@
   {
    "name": "Serieboden",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Sven Vintappares gränd 2, 111 27 Stockholm",
    "phone": "08-20 12 81",
@@ -1320,6 +1463,7 @@
   {
    "name": "Seriebörsen",
    "group": "unknown",
+   "city": "Östergötlands län",
    "region": "Östergötlands län",
    "address": "Humlegatan 5, 582 54 Linköping, Sweden, Östergötlands län, 582 54",
    "phone": "+46 73 907 14 16",
@@ -1332,6 +1476,7 @@
   {
    "name": "SerieCentrum",
    "group": "unknown",
+   "city": "Trelleborg",
    "address": "Hedvägen 155, Trelleborg, Trelleborg, 23166, Sweden",
    "phone": "46410 141 51",
    "website": "https://seriecentrum.com/",
@@ -1343,6 +1488,7 @@
   {
    "name": "Seriehörnan",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Sveagatan 3, 413 14 Göteborg",
    "phone": "073-375 70 46",
@@ -1352,6 +1498,7 @@
   {
    "name": "Serier & Sånt",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Upplandsgatan 87, 113 44 Stockholm",
    "phone": "08-736 01 60",
@@ -1361,6 +1508,7 @@
   {
    "name": "Seriezonen",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Drottninggatan 8, 753 10 Uppsala",
    "phone": "018-13 43 20",
@@ -1370,6 +1518,7 @@
   {
    "name": "Shurgard Self Storage Uppsala Danmarksgatan",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Danmarksgatan 34A, 753 23 Uppsala",
    "phone": "018-750 75 68",
@@ -1379,6 +1528,7 @@
   {
    "name": "Souvenir & Gift Store by Tre Kronor",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Adelgatan 4, 211 22 Malmö",
    "phone": "040-50 00 01",
@@ -1388,6 +1538,7 @@
   {
    "name": "SOUVENIR GOTHENBURG",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Lilla Kungsgatan 2A, 411 08 Göteborg",
    "phone": "070-754 65 19",
@@ -1397,6 +1548,7 @@
   {
    "name": "Spel & Sant Norden AB",
    "group": "unknown",
+   "city": "K",
    "region": "Stockholms län",
    "address": "Hantverkaregatan 2, Norrtälje, K, 76130, Sweden",
    "phone": "+46(0)10 585 13 37",
@@ -1409,6 +1561,7 @@
   {
    "name": "Spel i Focus / Card Collector",
    "group": "unknown",
+   "city": "Västra Götalands län",
    "region": "Västra Götalands län",
    "address": "Åvägen 42, 412 51 Göteborg, Sweden, Västra Götalands län, 412 51",
    "phone": "+46 31 406015",
@@ -1421,6 +1574,7 @@
   {
    "name": "Spelbutik ICA",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Hyllie Boulevard 19, 215 32 Malmö",
    "phone": "040-651 80 00",
@@ -1430,6 +1584,7 @@
   {
    "name": "Spelgalaxen",
    "group": "unknown",
+   "city": "Skåne län",
    "region": "Skåne län",
    "address": "41 Södra Förstadsgatan, Malmo, Skåne län, 211 43, Sweden",
    "phone": "+460700920173",
@@ -1443,6 +1598,7 @@
   {
    "name": "Spelgrottan",
    "group": "unknown",
+   "city": "O",
    "region": "Västra Götalands län",
    "address": "Trädgårdsgatan 8, Uddevalla, O, 45131, Sweden",
    "phone": "10",
@@ -1456,6 +1612,7 @@
   {
    "name": "Spelkortsbutiken",
    "group": "unknown",
+   "city": "Karlstad",
    "region": "Värmlands län",
    "address": "Nygatan 1, 652 20 Karlstad",
    "website": "https://www.spelkortsbutiken.se/",
@@ -1464,6 +1621,7 @@
   {
    "name": "Speltrollet AB",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Virkesvägen 9H, Stockholm, Stockholm, 12078, Sweden",
    "phone": "+46700009395",
@@ -1476,6 +1634,7 @@
   {
    "name": "Stadium",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södergatan 22, 211 34 Malmö",
    "website": "https://www.stadium.se/stores",
@@ -1484,6 +1643,7 @@
   {
    "name": "Staffars series",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Bellmansgatan 26A, 118 47 Stockholm",
    "phone": "08-642 91 94",
@@ -1493,6 +1653,7 @@
   {
    "name": "Stockholm Quality Outlet",
    "group": "unknown",
+   "city": "Järfälla",
    "region": "Stockholms län",
    "address": "Flyginfarten 4, 177 38 Järfälla",
    "phone": "08-522 182 41",
@@ -1502,6 +1663,7 @@
   {
    "name": "Svavagallerian",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Dragarbrunnsgatan 50C, 753 20 Uppsala",
    "phone": "018-489 20 00",
@@ -1511,6 +1673,7 @@
   {
    "name": "SvenskaMagic",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "hos Mindstage, Aschebergsgatan 11, 411 27 Göteborg",
    "website": "https://www.svenskamagic.com/",
@@ -1519,6 +1682,7 @@
   {
    "name": "Swepoke",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "57 Lantmannagatan, Malmö, Malmö, 214 48, Sweden",
    "phone": "+46735352757",
@@ -1531,6 +1695,7 @@
   {
    "name": "Symaskinsboden AB",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kungsgatan 70 E, 753 41 Uppsala",
    "phone": "018-15 05 25",
@@ -1540,6 +1705,7 @@
   {
    "name": "Sök & Finn, Malmö 01",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södra Förstadsgatan 19, 211 43 Malmö",
    "phone": "040-97 00 07",
@@ -1549,6 +1715,7 @@
   {
    "name": "Tehörnan",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Svartbäcksgatan 16A, 753 32 Uppsala",
    "phone": "018-10 80 25",
@@ -1558,6 +1725,7 @@
   {
    "name": "The Old Town Souvenir",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Västerlånggatan 15, 111 29 Stockholm",
    "website": "https://www.swedishgifts.se/",
@@ -1566,6 +1734,7 @@
   {
    "name": "The Science Fiction Bookstore",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Västerlånggatan 48, 111 29 Stockholm",
    "phone": "08-440 00 66",
@@ -1575,6 +1744,7 @@
   {
    "name": "The Science Fiction Bookstore",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Kungsgatan 19, 411 19 Göteborg",
    "phone": "08-440 00 66",
@@ -1584,6 +1754,7 @@
   {
    "name": "The Science Fiction Bookstore Malmö",
    "group": "unknown",
+   "city": "Malmö",
    "region": "Skåne län",
    "address": "Södra Förstadsgatan 26, 211 43 Malmö",
    "phone": "08-440 00 66",
@@ -1593,6 +1764,7 @@
   {
    "name": "Toyfans.se",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Maskingatan 5, 417 64 Göteborg",
    "phone": "073-032 22 12",
@@ -1602,6 +1774,7 @@
   {
    "name": "UL Center",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Olof Palmes plats 10, 753 40 Uppsala",
    "phone": "077-114 14 14",
@@ -1611,6 +1784,7 @@
   {
    "name": "Uppsala Photo Company",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Dragarbrunnsgatan 42, 753 20 Uppsala",
    "phone": "018-10 20 40",
@@ -1620,6 +1794,7 @@
   {
    "name": "Viköperdinbil Uppsala",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kungsgatan 115, 753 18 Uppsala",
    "phone": "08-580 973 11",
@@ -1629,6 +1804,7 @@
   {
    "name": "Vålamagasinet",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Sylveniusgatan 7, 754 50 Uppsala",
    "phone": "018-65 03 70",
@@ -1638,6 +1814,7 @@
   {
    "name": "Warhammer",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Mäster Samuelsgatan 67, 111 21 Stockholm",
    "phone": "08-21 38 40",
@@ -1647,6 +1824,7 @@
   {
    "name": "Warhammer",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Drottninggatan 68, 411 07 Göteborg",
    "phone": "031-13 39 58",
@@ -1656,6 +1834,7 @@
   {
    "name": "Webhallen",
    "group": "unknown",
+   "city": "Göteborg",
    "region": "Västra Götalands län",
    "address": "Nordstan, Postgatan 26-32, 411 06 Göteborg",
    "phone": "08-673 60 00",
@@ -1665,6 +1844,7 @@
   {
    "name": "Webhallen",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Marknadsgatan 1, 754 60 Uppsala",
    "phone": "08-673 60 00",
@@ -1674,6 +1854,7 @@
   {
    "name": "Webhallen Stockholm",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "44 Sankt Eriksgatan, Stockholm, Stockholm, 112 34, Sweden",
    "phone": "+4686736000",
@@ -1686,6 +1867,7 @@
   {
    "name": "Willys Uppsala Björkgatan",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Björkgatan 4, 753 27 Uppsala",
    "phone": "018-18 38 30",
@@ -1695,6 +1877,7 @@
   {
    "name": "Willys Uppsala Kungsgatan",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Kungsgatan 95, 753 18 Uppsala",
    "phone": "018-65 85 20",
@@ -1704,6 +1887,7 @@
   {
    "name": "WizeGuy Action Shop",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Söderforsgatan 33, 752 28 Uppsala",
    "phone": "018-13 37 01",
@@ -1713,6 +1897,7 @@
   {
    "name": "World of Toys",
    "group": "unknown",
+   "city": "Stockholm",
    "region": "Stockholms län",
    "address": "Hamngatan 37, 111 53 Stockholm",
    "phone": "08-508 508 88",
@@ -1722,6 +1907,7 @@
   {
    "name": "XXL",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Bolandsgatan 20, 753 23 Uppsala",
    "phone": "010-455 26 00",
@@ -1731,6 +1917,7 @@
   {
    "name": "Årsta Travcafé",
    "group": "unknown",
+   "city": "Uppsala",
    "region": "Uppsala län",
    "address": "Sparrisgatan 5A, 754 46 Uppsala",
    "phone": "018-24 30 44",

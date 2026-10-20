@@ -261,6 +261,7 @@
   {
    "name": "Distrito Zero - Bilbao Zentro",
    "group": "blocked",
+   "city": "Pais Vasco",
    "address": "27 María Díaz Haroko K., Bilbo, Pais Vasco, 48013, Spain",
    "phone": "34672-803-446",
    "website": "https://distritozero.es/",
@@ -322,6 +323,7 @@
   {
    "name": "Equilux",
    "group": "blocked",
+   "city": "Santa Coloma de Gramenet",
    "address": "11 Rambla del Fondo, Santa Coloma de Gramenet, CT, 08922, Spain",
    "phone": "+34651505446",
    "website": "http://www.equiluxjuegos.com/",
@@ -352,6 +354,7 @@
   {
    "name": "Geekkaos",
    "group": "blocked",
+   "city": "barcelona",
    "address": "Jaume isern 69, Mataro, barcelona, 08302, Spain",
    "phone": "+34690040239",
    "website": "https://geekkaos.com/",
@@ -363,6 +366,7 @@
   {
    "name": "ilevel - Lucena",
    "group": "blocked",
+   "city": "Lucena",
    "address": "C/Pza. Alta y Baja, 28, bajo, Lucena, CO, 14900, Spain",
    "phone": "34602 24 41 45",
    "website": "https://ilevel.es/",
@@ -407,6 +411,7 @@
   {
    "name": "Kritik",
    "group": "blocked",
+   "city": "B",
    "address": "c/ Cardona 1D, Vic, B, 08500, Spain",
    "phone": "+34637 74 84 41",
    "website": "https://www.llibreriakritik.com/",
@@ -441,6 +446,7 @@
   {
    "name": "La Pequeña Victoria",
    "group": "blocked",
+   "city": "Malaga",
    "address": "Avenida del Mediterraneo 72, Rincon de la Victoria, Malaga, 29730, Spain",
    "phone": "+34614486577",
    "website": "https://lapequenavictoria.com/",
@@ -485,6 +491,7 @@
   {
    "name": "MINISO",
    "group": "blocked",
+   "city": "Málaga",
    "region": "AN",
    "address": "P.º del Muelle Uno, Distrito Centro, 29016, Málaga",
    "phone": "647 48 34 77",
@@ -580,6 +587,7 @@
   {
    "name": "PINKORK",
    "group": "blocked",
+   "city": "Barcelona",
    "address": "Avda. Onze de Setembre, 32, La Llagosta, Barcelona, 08120, Spain",
    "phone": "+34644362947",
    "website": "https://pinkork.es/",
@@ -852,6 +860,7 @@
   {
    "name": "Aquijabara Store",
    "group": "in_store",
+   "city": "Madrid",
    "address": "73 Av. de Portugal, Mostoles, Madrid, MD, 28934, Spain",
    "phone": "34614367259",
    "games_events": [
@@ -872,6 +881,7 @@
   {
    "name": "Arratek",
    "group": "in_store",
+   "city": "Igorre",
    "address": "Elexalde Kalea 2, Igorre, BI, 48140, Spain",
    "phone": "34946 01 17 72",
    "website": "https://www.facebook.com/arratekigorre",
@@ -1017,6 +1027,7 @@
   {
    "name": "Comic Stores",
    "group": "in_store",
+   "city": "Malaga",
    "address": "Trinidad Grund 11, Malaga, MA, 29001, Spain",
    "phone": "1 34 952 213 056 ",
    "games_events": [
@@ -1065,6 +1076,7 @@
   {
    "name": "Crc DeLorean",
    "group": "in_store",
+   "city": "Baleares",
    "address": "Avenida de Alcudia 224, Inca, Baleares, 07300, Spain",
    "phone": "+34674248803",
    "website": "https://www.instagram.com/crc_delorean?igsh=MTRodjBoenFxbXh1cg==",
@@ -1085,6 +1097,7 @@
   {
    "name": "D20 Jocs",
    "group": "in_store",
+   "city": "Mataró",
    "address": "103 Carrer Miquel Biada, Mataró, CT, 08302, Spain",
    "phone": "34691621863",
    "website": "https://www.instagram.com/d20jocs/",
@@ -1125,6 +1138,7 @@
   {
    "name": "DecksDen",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "Paseo Valldaura 166 LOCAL B, Barelona, Barcelona, 08042, Spain",
    "phone": "+34663929612",
    "website": "https://www.instagram.com/decksden?igsh=MWlra3hicW83ODZ2eg==",
@@ -1149,6 +1163,7 @@
   {
    "name": "Dicewars",
    "group": "in_store",
+   "city": "Castellon",
    "address": "C/ Don Manuel Segarra Ribes, nº1 , Castellon, CS, 12003 , Spain",
    "phone": "+34 635 58 68 11",
    "website": "https://www.facebook.com/Dicewars.sl/",
@@ -1172,6 +1187,7 @@
   {
    "name": "Doctor Game",
    "group": "in_store",
+   "city": "Sitges",
    "address": "23 Carrer d'Angel Vidal, Sitges, CT, 08870, Spain",
    "phone": "+34 931 28 92 20",
    "website": "https://www.instagram.com/explore/locations/354226627/doctor-game/",
@@ -1183,6 +1199,7 @@
   {
    "name": "Doki Doki Daus",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "plaça fiveller 24 baix, Mataró, Barcelona, 08301, Spain",
    "phone": "+34689098980",
    "website": "https://www.instagram.com/dokidokidaus/",
@@ -1226,6 +1243,7 @@
   {
    "name": "EGO LUDO",
    "group": "in_store",
+   "city": "Madrid",
    "address": "Av. Canillejas a Vicalvaro nº 113, Madrid, Madrid, 28022, Spain",
    "phone": "+34912 77 10 57",
    "website": "https://www.instagram.com/egoludo/",
@@ -1237,6 +1255,7 @@
   {
    "name": "El Draconomicó S.C.P",
    "group": "in_store",
+   "city": "La Eliana",
    "address": "20 C. Gral. Pastor, La Eliana, VC, 46183, Spain",
    "phone": "34603612666",
    "website": "https://www.instagram.com/draconomico/",
@@ -1248,6 +1267,7 @@
   {
    "name": "El Lirón",
    "group": "in_store",
+   "city": "Sevilla",
    "address": "C. Venecia, 6, Local 3, Dos Hermanas, Sevilla, 41089, Spain",
    "phone": "+34614060947",
    "website": "https://www.instagram.com/el_liron/",
@@ -1272,6 +1292,7 @@
   {
    "name": "El Rincón Del Papel",
    "group": "in_store",
+   "city": "Bizkaia",
    "address": "Calle Arrandi 22, Barakaldo, Bizkaia, 48901, Spain",
    "phone": "+34679003787",
    "website": "https://www.instagram.com/elrinconpapel/?hl=es",
@@ -1283,6 +1304,7 @@
   {
    "name": "El Taller de Anowk",
    "group": "in_store",
+   "city": "Málaga",
    "address": "Calle Rda., 42, RINCÓN DE LA VICTORIA, Málaga, 29730, Spain",
    "phone": "+34664309440",
    "website": "https://www.instagram.com/eltallerdeanowk/",
@@ -1294,6 +1316,7 @@
   {
    "name": "elrincón",
    "group": "in_store",
+   "city": "Cádiz",
    "address": "Calle tartaneros n6 local B, Sanlúcar de Barrameda, Cádiz, 11540, Spain",
    "phone": "+34640510517",
    "website": "https://www.instagram.com/elrinconfrikitcg/",
@@ -1360,6 +1383,7 @@
   {
    "name": "Friki TournamenT",
    "group": "in_store",
+   "city": "Xàtiva",
    "address": "1B Carrer del Metge Lluís Alcanyís, Xàtiva, VC, 46800, Spain",
    "phone": "669933218",
    "website": "https://www.instagram.com/frikitournament/",
@@ -1380,6 +1404,7 @@
   {
    "name": "Galaxy-comics",
    "group": "in_store",
+   "city": "Madrid",
    "address": "C/ Suecia, 4, Madrid, Madrid, 28022, Spain",
    "phone": "+34 912 33 27 77",
    "website": "https://m.facebook.com/p/Galaxy-Comics-100063759844587/",
@@ -1420,6 +1445,7 @@
   {
    "name": "Gamestcg",
    "group": "in_store",
+   "city": "Alicante",
    "address": "Av. Bassa Perico, 2, Petrer, Alicante, 03610, Spain",
    "phone": "+34627509858",
    "website": "https://www.instagram.com/gamestcg/",
@@ -1431,6 +1457,7 @@
   {
    "name": "Gaming & Tea",
    "group": "in_store",
+   "city": "A",
    "address": "C/ Quintín Esquembre nº 1, Villena, A, 03400, Spain",
    "phone": "+34626 056 174",
    "website": "https://www.facebook.com/gamingtea/",
@@ -1460,6 +1487,7 @@
   {
    "name": "Generacion X - Goya",
    "group": "in_store",
+   "city": "M",
    "address": "Calle de las Mártires Concepcionistas 5, Madrid, M, 28006, Spain",
    "phone": "+34+34 637 16 42 28",
    "website": "https://www.instagram.com/genxtiendas/",
@@ -1506,6 +1534,7 @@
   {
    "name": "Goblin Trader - Madrid Sur",
    "group": "in_store",
+   "city": "Madrid",
    "address": "16 C. de Enrique Fuentes, Madrid, MD, 28026, Spain",
    "phone": "+34910810870",
    "website": "https://www.instagram.com/gtsmadridsur/?hl=en",
@@ -1526,6 +1555,7 @@
   {
    "name": "Hamelin Games",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "Riera Figuera Major, 41-43 Local, Mataró, Barcelona, 08304, Spain",
    "phone": "+34624135920",
    "games_events": [
@@ -1536,6 +1566,7 @@
   {
    "name": "Heretica Store",
    "group": "in_store",
+   "city": "Alava",
    "address": "Av. de Judimendi, 16, bajo, VITORIA-GASTEIZ, Alava, 01003, Spain",
    "phone": "+34611562406",
    "website": "https://www.instagram.com/hereticastore/",
@@ -1558,6 +1589,7 @@
   {
    "name": "Hotei Games",
    "group": "in_store",
+   "city": "Cádiz",
    "address": "Plaza de Andalucía, 8, Trebujena, Cádiz, 11560, Spain",
    "phone": "+34606776269",
    "website": "https://www.instagram.com/hotei.games/",
@@ -1616,6 +1648,7 @@
   {
    "name": "Júpiter Juegos - Guadalajara",
    "group": "in_store",
+   "city": "Guadalajara",
    "address": "Bajo Izquierda, Guadalajara, GU, 19002, Spain",
    "phone": "+34949 40 92 40",
    "website": "https://www.facebook.com/groups/jupiterguadalajara/",
@@ -1656,6 +1689,7 @@
   {
    "name": "Kizuna Hub",
    "group": "in_store",
+   "city": "Bizkaia",
    "address": "Kale Barria 1, Getxo, Bizkaia, 48930, Spain",
    "phone": "+34623825854",
    "website": "https://www.instagram.com/kizuna.hub",
@@ -1689,6 +1723,7 @@
   {
    "name": "La Caverna de Geppetto",
    "group": "in_store",
+   "city": "València",
    "address": "CALLE TURIA 55 BAJO, València, VC, 46008, Spain",
    "phone": "34687965048",
    "games_events": [
@@ -1712,6 +1747,7 @@
   {
    "name": "La Competència",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "47 Carrer dels Marquesos de Barberà, Barberà del Vallès, Barcelona, 08210, Spain",
    "phone": "+34687616149",
    "website": "https://www.instagram.com/lacompetenciajcc/",
@@ -1749,6 +1785,7 @@
   {
    "name": "LA GUARIDA",
    "group": "in_store",
+   "city": "Guadalajara",
    "address": "9 C. de Rufino Blanco, Guadalajara, Guadalajara, 19003, Spain",
    "phone": "+34 611246258",
    "website": "https://www.instagram.com/laguarida.tcg?igsh=MXN1d3VneW80NTVqNw%3D%3D&utm_source=qr",
@@ -1774,6 +1811,7 @@
   {
    "name": "La llama de Chandra",
    "group": "in_store",
+   "city": "Murcia",
    "address": "Calle Miguel Hernandez 60, ALHAMA DE MURCIA, Murcia, 30840, Spain",
    "phone": "+34646984446",
    "website": "https://www.instagram.com/lallamadechandra/",
@@ -1785,6 +1823,7 @@
   {
    "name": "LA ORDEN DEL FRIKI",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "Avenida primero de mayo 15 local 6, La Llagosta, Barcelona, 08120, Spain",
    "phone": "654907009",
    "website": "https://www.instagram.com/laordendelfriki/",
@@ -1809,6 +1848,7 @@
   {
    "name": "La Posada de Aitor y Ane",
    "group": "in_store",
+   "city": "Gasteiz",
    "address": "3 Pintor Jesus Apellaniz Kalea, Gasteiz, PV, 01008, Spain",
    "phone": "+34679449070",
    "games_events": [
@@ -1819,6 +1859,7 @@
   {
    "name": "Laboratoritcg",
    "group": "in_store",
+   "city": "Sevilla",
    "address": "C/ Vereda de Chapatales, nº 3, local 8, San Jose de La Rinconada, Sevilla, 41300, Spain",
    "phone": "+34633261410",
    "website": "https://www.instagram.com/laboratoriotcg/?hl=es",
@@ -1830,6 +1871,7 @@
   {
    "name": "Laluna",
    "group": "in_store",
+   "city": "Premià de Mar",
    "address": "60 Carrer de Mossèn Jacint Verdaguer, Premià de Mar, CT, 08330, Spain",
    "phone": "+34637325727",
    "website": "https://www.instagram.com/laluna.premia/",
@@ -1841,6 +1883,7 @@
   {
    "name": "Level Up Game Shop",
    "group": "in_store",
+   "city": "Canarias",
    "region": "Canarias",
    "address": "C. Pintor Nicolás Massieu, 35018, Las Palmas, Spain, Canarias, 35018",
    "phone": "+34 669 47 98 72",
@@ -1866,6 +1909,7 @@
   {
    "name": "Libreria Retuerto",
    "group": "in_store",
+   "city": "Bk",
    "address": "Grupo Loitzaga 1 (Lonja), Barakaldo, Bk, 48900, Spain",
    "phone": "+34 635 75 00 85",
    "website": "https://m.facebook.com/pages/category/Comic-Bookstore/El-barbas-que-lo-sepas-801910943271907/?locale2=es_LA",
@@ -1899,6 +1943,7 @@
   {
    "name": "Ludokai",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "15 Ctra. Nova, La Garriga, Barcelona, 08530, Spain",
    "phone": "+34623766921",
    "website": "https://www.instagram.com/ludokai_lagarriga/",
@@ -1919,6 +1964,7 @@
   {
    "name": "Magic ´All Goal",
    "group": "in_store",
+   "city": "VITORIA-GASTEIZ",
    "address": "C/ Fermín Lasuen, 7 B, VITORIA-GASTEIZ, VI, 01013, Spain",
    "phone": "34687 90 09 11",
    "website": "https://www.facebook.com/magicallgoal.yugioh.vitoria/",
@@ -1950,6 +1996,7 @@
   {
    "name": "MANSION MARKOV",
    "group": "in_store",
+   "city": "Illes Balears",
    "address": "Carrer Arxiduc Lluís Salvador 55 (local derecha), Palma de Mallorca, Illes Balears, 07004, Spain",
    "phone": "+34623784597",
    "website": "https://www.instagram.com/mansionmarkov/",
@@ -1988,6 +2035,7 @@
   {
    "name": "Medusa Cómics",
    "group": "in_store",
+   "city": "Madrid",
    "address": "Ronda de la Pescadería, 21, Alcalá de Henares, Madrid, 28801, Spain",
    "phone": "+34684298709",
    "website": "https://www.facebook.com/comicsmedusa/",
@@ -2166,6 +2214,7 @@
   {
    "name": "Paladin Store and Events",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "C/ Cinca 51 Local, Barcelona, Barcelona, 08030, Spain",
    "phone": "+34640538630",
    "website": "https://www.instagram.com/paladinstore.es/",
@@ -2186,6 +2235,7 @@
   {
    "name": "Play With Mina",
    "group": "in_store",
+   "city": "T",
    "address": "C/ Sant Magí, 16, El Vendrell, T, 43700, Spain",
    "phone": "34977 53 34 85",
    "website": "https://www.facebook.com/people/Play-With-Mina/100063594672091/",
@@ -2206,6 +2256,7 @@
   {
    "name": "Pocketpiecetcg",
    "group": "in_store",
+   "city": "Valencia",
    "address": "C/ 25 d'Abril, 3, l'Alcúdia, Valencia , 46250, Spain",
    "phone": "+34635829153",
    "website": "https://www.instagram.com/pocketpiecetcg/",
@@ -2325,6 +2376,7 @@
   {
    "name": "RiftNexus",
    "group": "in_store",
+   "city": "Murcia",
    "address": "Angel sanchez 22, Dolores de pacheco, Murcia, 30739, Spain",
    "phone": "+34634403744",
    "website": "https://www.instagram.com/riftnexus?igsh=YnIyajJ0NW43cGJ3&utm_source=qr",
@@ -2336,6 +2388,7 @@
   {
    "name": "Rincon del Friki",
    "group": "in_store",
+   "city": "Sabadell",
    "address": "Av. Onze de Setembre, 62, Sabadell, 2, 08208, Spain",
    "phone": "+34937167132",
    "website": "https://www.instagram.com/rincondelfriki/",
@@ -2383,6 +2436,7 @@
   {
    "name": "Shark Games Vault",
    "group": "in_store",
+   "city": "Málaga",
    "address": "Calle Jerónimo Bobadilla, nº3, Local, Málaga, Málaga, 29003, Spain",
    "phone": "+34951738627",
    "website": "https://www.instagram.com/sharkgamesvault?igsh=aXRtYjl3OXVldzM2&utm_source=qr",
@@ -2424,6 +2478,7 @@
   {
    "name": "SubTerra",
    "group": "in_store",
+   "city": "Alicante",
    "address": "Avenida de la Vega 27, B, Orihuela, Alicante, 03300, Spain",
    "phone": "+34623467658",
    "website": "https://www.instagram.com/subterra_oficial/",
@@ -2465,6 +2520,7 @@
   {
    "name": "TCG Academy Calpe",
    "group": "in_store",
+   "city": "Alicante",
    "address": "C/Goleta nº2 BJ 3, Calp, Alicante, 03710, Spain",
    "phone": "+34648635723",
    "website": "https://www.instagram.com/tcgacademycalpe/",
@@ -2518,6 +2574,7 @@
   {
    "name": "Te Juego Mucho",
    "group": "in_store",
+   "city": "Rivas-Vaciamadrid",
    "address": "1 C. Antonio Muñoz Molina, Rivas-Vaciamadrid, MD, 28521, Spain",
    "phone": "+34614202093",
    "website": "https://www.instagram.com/tejuegomucho/",
@@ -2529,6 +2586,7 @@
   {
    "name": "TecnolandGames",
    "group": "in_store",
+   "city": "Albacete",
    "address": "Calle Sol 7 Bajo, Hellín, Albacete, 02400, Spain",
    "phone": "+34689915382",
    "website": "https://www.instagram.com/tecnoland_tcg_hellin/",
@@ -2563,6 +2621,7 @@
   {
    "name": "The Card Place & newsagent Benimar",
    "group": "in_store",
+   "city": "Alicante",
    "region": "VC",
    "address": "C. Ramón y Cajal, 11, 03178, Alicante",
    "phone": "966 71 32 66",
@@ -2616,6 +2675,7 @@
   {
    "name": "Tokio Cantillana",
    "group": "in_store",
+   "city": "Cantillana",
    "address": "1 C. Sánchez Cotán, Cantillana, AN, 41320, Spain",
    "phone": "+34618-793-435",
    "website": "https://www.facebook.com/laguarida.deldragon.10",
@@ -2627,6 +2687,7 @@
   {
    "name": "TopDeck Store",
    "group": "in_store",
+   "city": "Girona",
    "address": "Rambla de Joaquim Ruyra 103, Bajos 1 (LOCAL), BLANES, Girona, 17300, Spain",
    "phone": "+34640905426",
    "website": "https://www.instagram.com/topdeck_store/",
@@ -2638,6 +2699,7 @@
   {
    "name": "Toreka Games",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "c/Francesc Macià I Llussà, 93, Local, Granollers, Barcelona, 08402, Spain",
    "phone": "+34672497696",
    "website": "https://www.instagram.com/torekagames",
@@ -2662,6 +2724,7 @@
   {
    "name": "Torrejugones",
    "group": "in_store",
+   "city": "Madrid",
    "address": "C/ Circunvalación, 9, Torrejón de Ardoz, Madrid, 28850, Spain",
    "phone": "+34669715379",
    "website": "https://www.instagram.com/torrejugones/",
@@ -2702,6 +2765,7 @@
   {
    "name": "Trastos Frikis",
    "group": "in_store",
+   "city": "Vilanova i la Getru",
    "address": "C/ Gas 16 Local, Vilanova i la Getru, Spain, 08800, Spain",
    "phone": "+34 938 53 18 36",
    "website": "https://www.instagram.com/ainnistrad",
@@ -2732,6 +2796,7 @@
   {
    "name": "UNDEDIEZ",
    "group": "in_store",
+   "city": "B",
    "address": "C/ Carme N°111 Local 7, Malgrat de Mar, B, 08380, Spain",
    "phone": "+34634803527",
    "website": "https://instagram.com/undediez",
@@ -2752,6 +2817,7 @@
   {
    "name": "Vault 37",
    "group": "in_store",
+   "city": "Alicante",
    "address": "Avenida Alicante 35 Bajo, Denia, Alicante, 03700, Spain",
    "phone": "+34667838680",
    "website": "https://www.instagram.com/vault37denia/",
@@ -2776,6 +2842,7 @@
   {
    "name": "Vertice Comics",
    "group": "in_store",
+   "city": "B",
    "address": "Calabria 195, Barcelona, B, 08029, Spain",
    "phone": "34615 77 58 41",
    "website": "https://www.facebook.com/p/Vertice-Comics-100063633007605/",
@@ -2797,6 +2864,7 @@
   {
    "name": "Wild Mana",
    "group": "in_store",
+   "city": "Barcelona",
    "address": "Carrer de Borràs, 4, LOCAL, Sabadell, Barcelona, 08208, Spain",
    "phone": "+34614885892",
    "website": "https://www.instagram.com/wildmanaes/",
@@ -2834,6 +2902,7 @@
   {
    "name": "2 De Piques",
    "group": "unknown",
+   "city": "Manresa",
    "address": "7 Carrer de Sant Miquel, Manresa, CT, 08241, Spain",
    "phone": "34938754980",
    "website": "https://2depiques.com/",
@@ -2845,6 +2914,7 @@
   {
    "name": "2d6 Store S.L.U",
    "group": "unknown",
+   "city": "Málaga",
    "address": "CM. San rafael 115, Málaga, Málaga, 29006, Spain",
    "phone": "+34619247111",
    "website": "https://wpn.wizards.com/en",
@@ -2856,6 +2926,7 @@
   {
    "name": "2TGAMECAFE",
    "group": "unknown",
+   "city": "Alicante",
    "address": "Calle médico temistocles almagro 32 bajo 1, Orihuela, Alicante, 03300, Spain",
    "phone": "+34683521877",
    "website": "https://2tgamecafe.com/",
@@ -2887,6 +2958,7 @@
   {
    "name": "A dado y pluma",
    "group": "unknown",
+   "city": "Sevilla",
    "address": "Avenida Ronda de Triana 39, Local 17, Sevilla, Sevilla, 41010, Spain",
    "phone": "+34955868321",
    "website": "https://www.adadoypluma.es",
@@ -2938,6 +3010,7 @@
   {
    "name": "Aether Alicante",
    "group": "unknown",
+   "city": "Alicante",
    "address": "Calle Virgen del Socorro 54, local 5, Alicante, Alicante, 03002, Spain",
    "phone": "+34625513174",
    "website": "https://wpn.wizards.com/en",
@@ -3028,6 +3101,7 @@
   {
    "name": "ArcaneHall",
    "group": "unknown",
+   "city": "Alicante",
    "address": "Calle constitución 44, Villajoyosa, Alicante, 03570, Spain",
    "phone": "+34622362466",
    "website": "https://arcanehall.com",
@@ -3123,6 +3197,7 @@
   {
    "name": "Asdecromos",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Travesía de la Iglesia, 3, Paracuellos del Jarama, Madrid, 28860, Spain",
    "phone": "+34683475374",
    "website": "https://asdecromos.com/password",
@@ -3259,6 +3334,7 @@
   {
    "name": "Babilonia Tudela",
    "group": "unknown",
+   "city": "Navarra",
    "address": "C/Camino San Marcial Nº10 Bajo, TUDELA, Navarra, 31500, Spain",
    "phone": "+34665105522",
    "website": "https://babiloniatudela.com/",
@@ -3381,6 +3457,7 @@
   {
    "name": "Byte Arena TCG",
    "group": "unknown",
+   "city": "Murcia",
    "address": "Calle Principal Nº61, Archena, Murcia, 30609, Spain",
    "phone": "+34646430218",
    "website": "https://bytearenatcg.com/",
@@ -3392,6 +3469,7 @@
   {
    "name": "Camaleó Lúdic",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "CALLE NADAL 36, BAJOS, Barcelona, Barcelona, 08030, Spain",
    "phone": "+34686428775",
    "website": "https://camaleoludic.com/",
@@ -3738,6 +3816,7 @@
   {
    "name": "Crisis Alcorcon Juegos",
    "group": "unknown",
+   "city": "M",
    "address": "C/Princesa Doña Sofía, Nº 3. Local 2., Alcorcon, M, 28924, Spain",
    "phone": "34910 262 520",
    "website": "https://www.juegoscrisis.com/",
@@ -3825,6 +3904,7 @@
   {
    "name": "Dark Ritual TCG S.L.",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle de la Cañada Real de Toledo Nº16, Pinto, Madrid, 28320, Spain",
    "phone": "+34653036876",
    "website": "https://wpn.wizards.com/en",
@@ -3887,6 +3967,7 @@
   {
    "name": "Delver Games",
    "group": "unknown",
+   "city": "Dos Hermanas",
    "address": "144 Av. de Andalucia, Dos Hermanas, AN, 41701, Spain",
    "phone": "34658629980",
    "website": "http://www.delvergames.com/",
@@ -3941,6 +4022,7 @@
   {
    "name": "Dioses del Cartón",
    "group": "unknown",
+   "city": "Guadalajara",
    "address": "c/Montemar, 1, Guadalajara, Guadalajara, 19001, Spain",
    "phone": "+34642484532",
    "website": "https://diosesdelcarton.com",
@@ -3952,6 +4034,7 @@
   {
    "name": "Distrito Zero - Tolosa",
    "group": "unknown",
+   "city": "Tolosa",
    "address": "4 Larramendi Kalea, Tolosa, PV, 20400, Spain",
    "phone": "34688655342",
    "website": "http://www.theoldschool.eus",
@@ -4016,6 +4099,7 @@
   {
    "name": "Dracarys Juegos",
    "group": "unknown",
+   "city": "Alcobendas",
    "address": "13 C. de la Imaginación, Alcobendas, MD, 28100, Spain",
    "phone": "34608863675",
    "website": "https://wpn.wizards.com/en",
@@ -4100,6 +4184,7 @@
   {
    "name": "DualCollect",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Ctra. de Cardona 47, Manresa, Barcelona, 08241, Spain",
    "phone": "+34694272926",
    "website": "https://dualcollect.com/",
@@ -4121,6 +4206,7 @@
   {
    "name": "Durama",
    "group": "unknown",
+   "city": "Alicante",
    "address": "Carrer Virrei Poveda, Petrer, Alicante, 03610, Spain",
    "phone": "+34.614264787",
    "website": "https://wpn.wizards.com/en",
@@ -4192,6 +4278,7 @@
   {
    "name": "El Cau Lúdic",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "c/Barcelona 45 Local C, Palau-solità i plegamans, Barcelona, 08184, Spain",
    "phone": "+34694264424",
    "website": "https://elcauludic.com/",
@@ -4203,6 +4290,7 @@
   {
    "name": "El Dado Rebelde",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle San josé 20 Local 3, Alcorcón, Madrid, 28921, Spain",
    "phone": "+34619152884",
    "website": "https://dadorebelde.com",
@@ -4276,6 +4364,7 @@
   {
    "name": "El Reino de valinor",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Calle Marquesos de Barbera 47 Local 6, Barcelona, CT, 08210, Spain",
    "phone": "34633518550",
    "website": "https://www.elreinodevalinor.com",
@@ -4317,6 +4406,7 @@
   {
    "name": "El Santuario del Cartón",
    "group": "unknown",
+   "city": "Alicante",
    "address": "Calle Doctor Guerau, 12. , Alcoy, Alicante, 03801, Spain",
    "phone": "+34616030856",
    "website": "https://wpn.wizards.com/en",
@@ -4328,6 +4418,7 @@
   {
    "name": "EL TEMPLO",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Calle Figuera Major 37, Mataró, Barcelona, 08304, Spain",
    "phone": "+34633564758",
    "website": "https://wpn.wizards.com/en",
@@ -4380,6 +4471,7 @@
   {
    "name": "EL TURNO EXTRA",
    "group": "unknown",
+   "city": "Madrid",
    "address": "166 C. del Capitán Angosto Gómez Castrillón, Aranjuez, Madrid, 28300, Spain",
    "phone": "+34620152748",
    "website": "https://wpn.wizards.com/en",
@@ -4418,6 +4510,7 @@
   {
    "name": "Elitestoretcg",
    "group": "unknown",
+   "city": "murcia",
    "address": "C/Rosalinda n2 bajo J, sangonera la verde, murcia, 30833, Spain",
    "phone": "+34640783491",
    "website": "https://elitestoretcg.com",
@@ -4609,6 +4702,7 @@
   {
    "name": "FDMStore",
    "group": "unknown",
+   "city": "Totana",
    "address": "6 C. de Piqueras, Totana, MC, 30850, Spain",
    "phone": "34625374694",
    "website": "http://fdmstore.es",
@@ -5113,6 +5207,7 @@
   {
    "name": "Gladius Games",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle Cánovas del Castillo, 5 , Local 6, Alcalá de Henares, Madrid, 28807, Spain",
    "phone": "+34649035332",
    "website": "https://gladiusgames.net/es/",
@@ -5164,6 +5259,7 @@
   {
    "name": "Goblintrader Barcelona",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "17 Pg. de Sant Joan, Barcelona, CT, 08010, Spain",
    "phone": "34640932703",
    "website": "https://wpn.wizards.com/en",
@@ -5334,6 +5430,7 @@
   {
    "name": "Hobby",
    "group": "unknown",
+   "city": "Alicante",
    "address": "La purisima 6, Almoradi, Alicante, 03160, Spain",
    "phone": "+34744635459",
    "website": "https://wpn.wizards.com/en",
@@ -5355,6 +5452,7 @@
   {
    "name": "Hobby Shop Wargames S.L",
    "group": "unknown",
+   "city": "Alcalá de Henares",
    "address": "18 C. de Talamanca, Alcalá de Henares, MD, 28807, Spain",
    "phone": "+34 602 50 31 43",
    "website": "https://hobbyshopwargames.es/",
@@ -5389,6 +5487,7 @@
   {
    "name": "Homelands",
    "group": "unknown",
+   "city": "A",
    "address": "CALLE SANT VICENT Nº19 BAJO, Elche, A, 03202, Spain",
    "phone": "96 609 00 29",
    "website": "https://www.homelands.es/",
@@ -5755,6 +5854,7 @@
   {
    "name": "Júpiter Madrid Norte",
    "group": "unknown",
+   "city": "C",
    "address": "Calle Marques de la Valdavia 95, Local 2, Alcobendas, C, 28100, Spain",
    "phone": "34(0) 910.254.043",
    "website": "https://magic.wizards.com/en",
@@ -5789,6 +5889,7 @@
   {
    "name": "Kai Store",
    "group": "unknown",
+   "city": "Cádiz",
    "address": "Avenida de Europa 18, local 2C, Jerez de la Frontera, Cádiz, 11407, Spain",
    "phone": "+34652099103",
    "website": "https://kai-store.es",
@@ -5820,6 +5921,7 @@
   {
    "name": "Kame Kame Comics",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "69 Carrer de Narcís Giralt, Sabadell, Barcelona, 08202, Spain",
    "phone": "+34 665541660",
    "website": "https://www.kamekame.es/",
@@ -5844,6 +5946,7 @@
   {
    "name": "Karak 7 Picos",
    "group": "unknown",
+   "city": "Moralzarzal",
    "address": "17 C. de la Iglesia, Moralzarzal, MD, 28411, Spain",
    "phone": "+34655260895",
    "website": "https://karak7picos.com",
@@ -5855,6 +5958,7 @@
   {
    "name": "KARONTEC GAMES",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Av. Ernest lluch 11, local 2, Montornès del Vallès, Barcelona, 08170, Spain",
    "phone": "+34613007777",
    "website": "https://karontecgames.com/",
@@ -5866,6 +5970,7 @@
   {
    "name": "Kbutops",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Carrer de la Marina, Barcelona, CT, 08005, Spain",
    "phone": "+33628939791",
    "website": "https://www.kbutops.com/",
@@ -5968,6 +6073,7 @@
   {
    "name": "La Calavera Azul",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Calle Llinars 100, Cardedeu, Barcelona, 08440, Spain",
    "phone": "34610524004",
    "website": "https://lacalaveraazul.com/",
@@ -6001,6 +6107,7 @@
   {
    "name": "La Colmena TCG",
    "group": "unknown",
+   "city": "Cantabria",
    "address": "C/Magallanes 18, Local 1, Santander, Cantabria, 39007, Spain",
    "phone": "+34687846593",
    "website": "https://app.lacolmenatcg.com",
@@ -6025,6 +6132,7 @@
   {
    "name": "La Comicsaría",
    "group": "unknown",
+   "city": "B",
    "address": "Campfaso nº 7, Cornella de Llobregat, B, 08940, Spain",
    "phone": "+34696 36 27 72 ",
    "website": "https://lacomicsariacornella.es/",
@@ -6036,6 +6144,7 @@
   {
    "name": "La Cripta",
    "group": "unknown",
+   "city": "Blanes",
    "address": "47 Carrer d'Alberes, Blanes, CT, 17300, Spain",
    "phone": "34640587605",
    "website": "https://lacripta.es/",
@@ -6071,6 +6180,7 @@
   {
    "name": "La Cueva TCG's",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "55 Avinguda del Doctor Pasteur, Igualada, Barcelona, 08700, Spain",
    "phone": "+34653899969",
    "website": "https://wpn.wizards.com/en",
@@ -6139,6 +6249,7 @@
   {
    "name": "La Forja de TCG",
    "group": "unknown",
+   "city": "madrid",
    "address": "19 Calle de Eulalia Gil, Madrid, madrid, 28025, Spain",
    "phone": "+34614780373",
    "website": "https://laforjadetcg.com/",
@@ -6150,6 +6261,7 @@
   {
    "name": "La Guarida Del Tiempo",
    "group": "unknown",
+   "city": "Cádiz",
    "address": "Pl. Ciudasol, 6,, Jerez de la Frontera, Cádiz, 11406, Spain",
    "phone": "+34604977538",
    "website": "https://www.laguaridadeltiempo.com/",
@@ -6161,6 +6273,7 @@
   {
    "name": "La Jugación",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle Río Duero, 46, Leganés, Madrid, 28913, Spain",
    "phone": "+34910498477",
    "website": "https://lajugacion.es/",
@@ -6172,6 +6285,7 @@
   {
    "name": "La Jugonzona del Friki",
    "group": "unknown",
+   "city": "Carmona",
    "address": "Calle Sevilla 21, Carmona, SE, 41410, Spain",
    "phone": "34854 70 55 21",
    "website": "https://lajugonzona.com/",
@@ -6207,6 +6321,7 @@
   {
    "name": "La Master",
    "group": "unknown",
+   "city": "València",
    "address": "8 C/ de Molinell, València, VC, 46010, Spain",
    "phone": "+34697559798",
    "website": "https://f20pedia.wixsite.com/lamastervalencia",
@@ -6238,6 +6353,7 @@
   {
    "name": "LA PISADA DEL TROLL SL",
    "group": "unknown",
+   "city": "Madrid",
    "address": "CALLE SORIA Nº 5 LOCAL 1, LAS ROZAS 28231, LAS ROZAS, Madrid, 28231, Spain",
    "phone": "+34647741137",
    "website": "https://lapisadadeltroll.es/",
@@ -6285,6 +6401,7 @@
   {
    "name": "Landromina",
    "group": "unknown",
+   "city": "Terrassa",
    "address": "C/ Sant Llorenc, 24 (local), Terrassa, Terrassa, 08221, Spain",
    "phone": "34937 36 89 17",
    "website": "http://www.landromina.com/",
@@ -6296,6 +6413,7 @@
   {
    "name": "Legadoxtudio",
    "group": "unknown",
+   "city": "Utrera",
    "address": "Calle Virgen de Consolación Nº 23 (Local), Utrera, SE, 41710, Spain",
    "phone": "34722705828",
    "website": "https://www.google.com/maps/place/Legadoxtudio/@37.1822427,-5.7796914,19.75z/data=!4m5!3m4!1s0xd127fe3af9664f5:0x3c8b4e1192b1cbb1!8m2!3d37.1824293!4d-5.7791612",
@@ -6393,6 +6511,7 @@
   {
    "name": "Librería Ulises",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "C/ de Pacífic 34, Barcelona, Barcelona, 08027, Spain",
    "phone": "+34689090703",
    "website": "https://guarespa.com/desconnecta-jugant/",
@@ -6521,6 +6640,7 @@
   {
    "name": "LUDOTECA MALDITA",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle Vicente Espinel 4 local derecha, Madrid, Madrid, 28017, Spain",
    "phone": "+34610508427",
    "website": "https://ludotecamaldita.com/",
@@ -6559,6 +6679,7 @@
   {
    "name": "Magia de Tinta",
    "group": "unknown",
+   "city": "C",
    "address": "C/ España 3, Puigcerda, C, 17520, Spain",
    "phone": "34972 90 18 32",
    "website": "https://www.magiadetinta.com/es/",
@@ -6661,6 +6782,7 @@
   {
    "name": "Manhattan Comics Xativa",
    "group": "unknown",
+   "city": "V",
    "address": "C/ Pintor Perales 6, Bajo, Derecha, Xativa, V, 46800, Spain",
    "phone": "34962 047 095",
    "website": "https://manhattanxativa.com/",
@@ -6672,6 +6794,7 @@
   {
    "name": "Mano del Friki",
    "group": "unknown",
+   "city": "Baracaldo",
    "address": "5 C. Elcano Kalea, Baracaldo, PV, 48901, Spain",
    "phone": "+34946056094",
    "website": "https://manodelfriki.com/",
@@ -6836,6 +6959,7 @@
   {
    "name": "Metamorfo",
    "group": "unknown",
+   "city": "M",
    "address": "Calle ilustración 3, Getafe, M, 28902, Spain",
    "phone": "34627 01 87 96",
    "website": "https://metamorfo.es/",
@@ -7027,6 +7151,7 @@
   {
    "name": "Mundicomics",
    "group": "unknown",
+   "city": "M",
    "address": "C/Ramon y Cajal 3 Local 1, Torrejón de Ardoz, M, 28850, Spain",
    "phone": "+34 653 91 89 10",
    "website": "https://www.mundicomics.com/",
@@ -7051,6 +7176,7 @@
   {
    "name": "Mundo Craft",
    "group": "unknown",
+   "city": "A",
    "address": "AVENIDA DOCTOR GARCÍA ROJEL Nº 20 BAJO, Orihuela, A, 03300, Spain",
    "phone": "+34966 840 265",
    "website": "https://magic.wizards.com/en",
@@ -7102,6 +7228,7 @@
   {
    "name": "Mythic, your shop",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Carrer de la Bruguera, 129, Local, Calella, Barcelona, 08370, Spain",
    "phone": "+34643800405",
    "website": "https://mythicyourshop.com",
@@ -7127,6 +7254,7 @@
   {
    "name": "Nakama World",
    "group": "unknown",
+   "city": "Málaga",
    "address": "87 C. Héroe de Sostoa, Málaga, AN, 29002, Spain",
    "phone": "34634146221",
    "website": "https://nakamaworld.com/",
@@ -7167,6 +7295,7 @@
   {
    "name": "Nemesis",
    "group": "unknown",
+   "city": "S",
    "address": "18, Santander, S, 39001, Spain",
    "phone": "+34942 372 608",
    "website": "https://magic.wizards.com/en",
@@ -7198,6 +7327,7 @@
   {
    "name": "Next Dice",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle de Jorge Manrique S/N, Local 19, Algete, Madrid, 28110, Spain",
    "phone": "+34679425978",
    "website": "https://nextdice.es/contact_next_dice/",
@@ -7209,6 +7339,7 @@
   {
    "name": "Nikochan Arena",
    "group": "unknown",
+   "city": "Terrassa",
    "address": "32 Plaça del Triomf, Terrassa, CT, 08225, Spain",
    "phone": "+34936887854",
    "website": "https://nikochancomics.net/",
@@ -7263,6 +7394,7 @@
   {
    "name": "Nueva Partida Plus",
    "group": "unknown",
+   "city": "valencia",
    "address": "C/ Av. de valencia numero 35,, requena, valencia, 46340, Spain",
    "phone": "+34602098013",
    "website": "https://wpn.wizards.com/en",
@@ -7321,6 +7453,7 @@
   {
    "name": "Ohana Games",
    "group": "unknown",
+   "city": "M",
    "address": "Avenida del Mediterraneo, 38, Madrid, M, 28007, Spain",
    "phone": "34912 32 68 65",
    "website": "https://www.ohanagamesmadrid.com/",
@@ -7455,6 +7588,7 @@
   {
    "name": "Pixelandmalaga Muelle Uno",
    "group": "unknown",
+   "city": "Málaga",
    "region": "AN",
    "address": "Mercado en la plaza frente a Hard Rock Café, P.º del Muelle Uno, Distrito Centro, 29015, Málaga",
    "website": "https://pixelandmalaga.com/",
@@ -7511,6 +7645,7 @@
   {
    "name": "PokeSportsCards",
    "group": "unknown",
+   "city": "MADRID",
    "address": "C/NARVAEZ 4 PORTAL 2 L5, VALDEMORO, MADRID, 28342, Spain",
    "phone": "+34669144884",
    "website": "https://tcgsportscards.es/",
@@ -7570,6 +7705,7 @@
   {
    "name": "Portal Juegos",
    "group": "unknown",
+   "city": "Collado Villalba",
    "address": "24 Av. de Honorio Lozano, Collado Villalba, MD, 28400, Spain",
    "phone": "34608720355",
    "website": "https://portaljuegos.es/index.php",
@@ -7676,6 +7812,7 @@
   {
    "name": "Ragnarok Games",
    "group": "unknown",
+   "city": "B",
    "address": "C/ Bruc, 106, bajos, Manresa, B, 08242, Spain",
    "phone": "34936 26 30 81",
    "website": "https://www.ragnarokgames.es/contacto/",
@@ -7754,6 +7891,7 @@
   {
    "name": "Replay Boardgame Cafe",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle Ribera Curtidores 26 Local 3, Madrid, Madrid, 28005, Spain",
    "phone": "+34912876270",
    "website": "https://www.replayoutletcafe.com",
@@ -7916,6 +8054,7 @@
   {
    "name": "Singleton TCG",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Carrer Lepant 256, Barcelona, Barcelona, 08013, Spain",
    "phone": "+346649147784",
    "website": "https://singletontcg.square.site/",
@@ -7927,6 +8066,7 @@
   {
    "name": "Snafu Store",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "103 Carrer d'Alemanya, Sabadell, Barcelona, 08201, Spain",
    "phone": "+34938338601",
    "website": "https://snafustore.com/",
@@ -7978,6 +8118,7 @@
   {
    "name": "SPARTA SANTA POLA",
    "group": "unknown",
+   "city": "Alicante",
    "address": "C/Mayor 90, Bajo, Santa Pola, Alicante, 03130, Spain",
    "phone": "+34697124471",
    "website": "https://www.spartasantapola.es/",
@@ -8044,6 +8185,7 @@
   {
    "name": "Tabletop Gamers",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "C/ Girona, N29 Local, san feliu de llob, Barcelona, 08980, Spain",
    "phone": "+34676920222",
    "website": "https://tabletopgamers.es/",
@@ -8078,6 +8220,7 @@
   {
    "name": "Tcg67 SL",
    "group": "unknown",
+   "city": "Tarragona",
    "address": "Calle llobregat 8, bajos local 6, Sant salvador, Tarragona, 43880, Spain",
    "phone": "+34622337501",
    "website": "https://www.tcg67.com/",
@@ -8109,6 +8252,7 @@
   {
    "name": "Tempest - Store",
    "group": "unknown",
+   "city": "M",
    "address": "C/ Timoteo Domingo, 17, Madrid, M, 28017, Spain",
    "phone": "34 918 058 594",
    "website": "https://locator.wizards.com",
@@ -8130,6 +8274,7 @@
   {
    "name": "The Big Bang Games",
    "group": "unknown",
+   "city": "Madrid",
    "address": "C/ Arroyo de la media legua 46, Madrid, Madrid, 28030, Spain",
    "phone": "+34664092947",
    "website": "https://www.thebigbanggames.com",
@@ -8438,6 +8583,7 @@
   {
    "name": "Troll Cave",
    "group": "unknown",
+   "city": "Cataluña",
    "address": "6 Carrer del Puig Novell, Terrassa, Cataluña, 08221, Spain",
    "phone": "+34623964758",
    "website": "https://www.troll-cave.com/",
@@ -8488,6 +8634,7 @@
   {
    "name": "Umbral Friki",
    "group": "unknown",
+   "city": "València",
    "address": "C/Mayor N/15, L'alcudia, València, 46250, Spain",
    "phone": "+34617659849",
    "website": "https://umbralfriki.es/",
@@ -8522,6 +8669,7 @@
   {
    "name": "Va de Jocs",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "26 Ronda de Frederic Mistral, Mataró, Barcelona, 08304, Spain",
    "phone": "+34679400005",
    "website": "https://vadejocs.es/",
@@ -8589,6 +8737,7 @@
   {
    "name": "Vortex TCG & Games",
    "group": "unknown",
+   "city": "Madrid",
    "address": "Calle Ugena 3, Carabanchel, Madrid, 28025, Spain",
    "phone": "+34604980650",
    "website": "https://vortextcgstore.com/",
@@ -8765,6 +8914,7 @@
   {
    "name": "Zero Latency Barcelona",
    "group": "unknown",
+   "city": "Barcelona",
    "address": "Avinguda de Rio de Janeiro, 42, Nou Barris,, Barcelona, Barcelona, 08016, Spain",
    "phone": "+34647646870",
    "website": "https://meetspacevr.com/",
@@ -8776,6 +8926,7 @@
   {
    "name": "ZonaBit’s",
    "group": "unknown",
+   "city": "Almuñécar",
    "address": "C/Vélez nº10, Almuñécar , GR, 18690 , Spain",
    "phone": "34958 889 410",
    "website": "https://zonabitsgaming.com/index.php",

@@ -235,6 +235,7 @@
   {
    "name": "Premier Organizer - Big Magic",
    "group": "login_required",
+   "city": "大阪市",
    "address": "中央区博労町3-3-9 6F, 大阪市, 27, 541-0059, Japan",
    "phone": "1555-555-55555",
    "website": "https://ssl.bigmagic.net/players_convention/side-event?lang=en",
@@ -702,6 +703,7 @@
   {
    "name": "カードショップLykke",
    "group": "blocked",
+   "city": "山口県",
    "address": "麻里布町6-14-33 新井ビル201, 岩国市, 山口県, 740-0018, Japan",
    "phone": "(+81)0827-93-3717",
    "website": "https://lykkecards.com/",
@@ -727,6 +729,7 @@
   {
    "name": "多目的カフェ&バー「花唐草」",
    "group": "blocked",
+   "city": "大阪府",
    "address": "須賀2-19-11-2F, 富田林市, 大阪府, 584-0062, Japan",
    "phone": "(+81)072-155-4335",
    "website": "https://hanakarakusa.stores.jp/?category_id=5f7419854b0839620777ef00",
@@ -1131,6 +1134,7 @@
   {
    "name": "CARDGYM石神井公園駅前店",
    "group": "in_store",
+   "city": "練馬区",
    "address": "石神井町3-21-6 中村ビル3F, 練馬区, 13, 177-0041, Japan",
    "phone": "(+81)0369133933",
    "website": "https://twitter.com/cardgym/",
@@ -1628,6 +1632,7 @@
   {
    "name": "MINTGAMES池袋店",
    "group": "in_store",
+   "city": "東京都",
    "address": "東池袋1‐50‐35池袋P’PARCO2F, 豊島区, 東京都, 170‐0013, Japan",
    "phone": "(+81)03-6907-3308",
    "website": "https://twitter.com/MintGames_IKB",
@@ -1836,6 +1841,7 @@
   {
    "name": "SuperKaBoS+GEO敦賀店",
    "group": "in_store",
+   "city": "敦賀市",
    "address": "木崎13-28, 敦賀市, 18, 914-0814, Japan",
    "phone": "(+81)770-3936",
    "website": "https://twitter.com/Cardbox_Tsuruga",
@@ -2005,6 +2011,7 @@
   {
    "name": "TCG専門店Day屋",
    "group": "in_store",
+   "city": "東京都",
    "address": "西蒲田７丁目４−５小山第一ビル 4F, 大田区, 東京都, 144-0051, Japan",
    "phone": "(+81)0366720733",
    "website": "https://twitter.com/dayyashop",
@@ -2304,6 +2311,7 @@
   {
    "name": "ぎゃざりんぐスペース　アンパラ",
    "group": "in_store",
+   "city": "兵庫県",
    "address": "米田町平津426-1 ライフビル３階, 加古川市, 兵庫県, 6750054, Japan",
    "phone": "(+81)070-1210-5121",
    "website": "https://twitter.com/UnparaTcg",
@@ -2451,6 +2459,7 @@
   {
    "name": "アイランド",
    "group": "in_store",
+   "city": "兵庫県",
    "address": "魚住町西岡505‐5‐2階, 明石市, 兵庫県, 674‐0084, Japan",
    "phone": "(+81)07040369985",
    "website": "https://twitter.com/LLC307282719329",
@@ -3188,6 +3197,7 @@
   {
    "name": "カードショップフロンティア天六",
    "group": "in_store",
+   "city": "大阪府",
    "address": "都島区都島本通1-1-1 8R BLD BF1, 大阪市, 大阪府, 534-0021, Japan",
    "phone": "(+81)090-8148-2666",
    "website": "https://twitter.com/frontiertenrock",
@@ -3221,6 +3231,7 @@
   {
    "name": "カードショップライブラリ",
    "group": "in_store",
+   "city": "福島県",
    "address": "五老内町6-14, 福島市, 福島県, 960-8131, Japan",
    "phone": "(+81)0245316410",
    "website": "https://twitter.com/TCG_library",
@@ -3268,6 +3279,7 @@
   {
    "name": "カードショップ宝島千歳店",
    "group": "in_store",
+   "city": "北海道",
    "address": "花園5-6-7 エルドラード千歳1F, 千歳市, 北海道, 066-0028, Japan",
    "phone": "810123-31-1096",
    "website": "https://twitter.com/titoseten0001",
@@ -3610,6 +3622,7 @@
   {
    "name": "カードン 秋葉原本店",
    "group": "in_store",
+   "city": "東京都",
    "address": "外神田二丁目４番４号, 千代田区, 東京都, 101-0021, Japan",
    "phone": "810335262172",
    "website": "https://twitter.com/cardon_tcg",
@@ -3678,6 +3691,7 @@
   {
    "name": "ゲームアーク宝島麻生駅前店",
    "group": "in_store",
+   "city": "北海道",
    "address": "北区北40条西5丁目5-20 石橋ビル2Ｆ, 札幌市, 北海道, 001-0040, Japan",
    "phone": "(+81)011-299-6277",
    "website": "https://twitter.com/trc_azabu1203?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -3872,6 +3886,7 @@
   {
    "name": "シーガル嶋北店",
    "group": "in_store",
+   "city": "山形県",
    "address": "嶋北2-22-20, 山形市, 山形県, 9900885, Japan",
    "phone": "(+81)0236748650",
    "website": "https://twitter.com/seagullyamakita",
@@ -4010,6 +4025,7 @@
   {
    "name": "トイコンプ住道店",
    "group": "in_store",
+   "city": "大阪府",
    "address": "赤井1-13-3 ポップタウン住道1番館2F, 大東市, 大阪府, 574-0046, Japan",
    "phone": "(+81)072-870-3383",
    "website": "https://twitter.com/toycomp1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -4092,6 +4108,7 @@
   {
    "name": "トクジロー浦安店",
    "group": "in_store",
+   "city": "浦安市",
    "address": "猫実4-6-26 ミナモトビル1F, 浦安市, 12, 279-0004, Japan",
    "phone": "(+81)047-355-8112",
    "website": "https://twitter.com/tokuurayasu109c",
@@ -4377,6 +4394,7 @@
   {
    "name": "トレカショップ竜のしっぽ大阪梅田店",
    "group": "in_store",
+   "city": "大阪府",
    "address": "北区芝田2-3-23 メイプルビル芝田2F, 大阪市, 大阪府, 530-0012, Japan",
    "phone": "(+81)06-6136-6246",
    "website": "https://twitter.com/ryuunoshippo_2",
@@ -4389,6 +4407,7 @@
   {
    "name": "トレカショップ竜のしっぽ姫路店",
    "group": "in_store",
+   "city": "兵庫県",
    "address": "駅前町254姫路駅前ビル２F-B, 姫路市, 兵庫県, 670-0927, Japan",
    "phone": "(+81)079-280-1070 ",
    "website": "https://twitter.com/ryuunoshippo_4",
@@ -4485,6 +4504,7 @@
   {
    "name": "トレカチャンピオン江南店",
    "group": "in_store",
+   "city": "江南市",
    "address": "宮後町船渡88, 江南市, 23, 483-8044, Japan",
    "phone": "(+81)0",
    "website": "https://twitter.com/CardKonan/",
@@ -4707,6 +4727,7 @@
   {
    "name": "トーナメントセンターバトロコ八千代台駅前",
    "group": "in_store",
+   "city": "千葉県",
    "address": "八千代台東1-14-1 八千代プラザ2F, 八千代台市, 千葉県, 276-0032, Japan",
    "phone": "(+81)047-409-6795",
    "website": "https://twitter.com/batoloco_ycyd",
@@ -4865,6 +4886,7 @@
   {
    "name": "ビデオインアメリカ大徳寺店",
    "group": "in_store",
+   "city": "京都市",
    "address": "北区紫野上築山町41, 京都市, 26, 603-8221, Japan",
    "phone": "81 0754514888",
    "website": "https://twitter.com/CardDaitokuji",
@@ -5012,6 +5034,7 @@
   {
    "name": "プレイズ大阪日本橋本店",
    "group": "in_store",
+   "city": "大阪市",
    "address": "浪速区日本橋3丁目7-6 1F・2F, 大阪市, 27, 556-0005, Japan",
    "phone": "(+81)06-6684-8444",
    "website": "https://twitter.com/Preyz_N_honten",
@@ -5156,6 +5179,7 @@
   {
    "name": "マックスゲーム浜松町店",
    "group": "in_store",
+   "city": "港区",
    "address": "浜松町2-8-4 高雄ビル3F, 港区, 13, 105-0013, Japan",
    "phone": "(+81)03-6435-6644",
    "website": "https://twitter.com/maxgame8888",
@@ -6775,6 +6799,7 @@
   {
    "name": "Card Pot",
    "group": "unknown",
+   "city": "東京都",
    "address": "上野2-11-12 上野TKSビル4F, 台東区, 東京都, 110-0005, Japan",
    "phone": "(+81)03-6803-2540",
    "website": "https://x.com/uvicmtg",
@@ -6960,6 +6985,7 @@
   {
    "name": "CARDSHOP WISHBOARD",
    "group": "unknown",
+   "city": "東京都",
    "address": "西早稲田3-15-3リアルビルディング西早稲田4F, 新宿区, 東京都, 169-0051, Japan",
    "phone": "(+81)0671781349",
    "website": "https://wishboard.jp/",
@@ -7047,6 +7073,7 @@
   {
    "name": "delight",
    "group": "unknown",
+   "city": "名古屋市",
    "address": "中区大須4-2-47 赤門ビル3F, 名古屋市, 23, 460-0011, Japan",
    "phone": "0522248840",
    "website": "https://x.com/uvicmtg",
@@ -7466,6 +7493,7 @@
   {
    "name": "Ganryu秋葉原",
    "group": "unknown",
+   "city": "東京都",
    "address": "外神田1丁目2-7 オノデン秋葉原本館 B1階, 千代田区, 東京都, 101-0021, JAPAN",
    "phone": "(+81)03-6260-8108",
    "website": "https://x.com/uvicmtg",
@@ -9479,6 +9507,7 @@
   {
    "name": "Reaching Moon",
    "group": "unknown",
+   "city": "大阪府",
    "address": "城東区蒲生1-8-33 千寿シークⅠ 101, 大阪市, 大阪府, 536-0016, Japan",
    "phone": "(+81)080-4482-1166",
    "website": "https://reachingmoon.com/reaching-moon/",
@@ -9732,6 +9761,7 @@
   {
    "name": "Table Game Cafe Sirocco",
    "group": "unknown",
+   "city": "神奈川県",
    "address": "岡本1-6-31　大船田中ビル1F, 鎌倉市, 神奈川県, 247-0072, JP",
    "phone": "(+81)0467386657",
    "website": "https://www.tgcafesirocco.com/",
@@ -10331,6 +10361,7 @@
   {
    "name": "TRPGカフェモノドラコ",
    "group": "unknown",
+   "city": "東京都",
    "address": "東上野2丁目15−11　ニュー佐藤ビル2F, 台東区, 東京都, 110-0015, Japan",
    "phone": "(+81)(+81)03-5834-3190",
    "website": "https://www.monodraco.com/",
@@ -10730,6 +10761,7 @@
   {
    "name": "あけらぼイオンタウン吉川美南店",
    "group": "unknown",
+   "city": "埼玉県",
    "address": "美南3-25-1, 吉川市, 埼玉県, 342-0038, Japan",
    "phone": "(+81)(+81)048-919-2166",
    "website": "https://x.com/uvicmtg",
@@ -10755,6 +10787,7 @@
   {
    "name": "おもちゃの王様",
    "group": "unknown",
+   "city": "宮城県",
    "address": "青葉区錦ヶ丘1丁目3-1 錦ヶ丘ヒルサイドモール2階, 仙台市, 宮城県, 989‐3123, Japan",
    "phone": "(+81)022-797-6555",
    "website": "https://x.com/uvicmtg",
@@ -10824,6 +10857,7 @@
   {
    "name": "ときわ書房本八幡スクエア店",
    "group": "unknown",
+   "city": "市川市",
    "address": "八幡3-4-1-101, 市川市, 12, 272-0021, Japan",
    "phone": "1047-711-1374",
    "website": "https://wpn.wizards.com/en",
@@ -10873,6 +10907,7 @@
   {
    "name": "ぱんだキング元町店",
    "group": "unknown",
+   "city": "兵庫県",
    "address": "中央区下山手通り4-1-17丸中ビル407, 神戸市, 兵庫県, 650-0011, Japan",
    "phone": "(+81)080-4763-9180",
    "website": "https://x.com/uvicmtg",
@@ -10939,6 +10974,7 @@
   {
    "name": "まちキャラ　コクーンシティ店",
    "group": "unknown",
+   "city": "埼玉県",
    "address": "大宮区吉敷町4丁目263－1コクーンシティ2・3F, さいたま市, 埼玉県, 330-0843, Japan",
    "phone": "(+81)048-778-8228",
    "website": "https://x.com/uvicmtg",
@@ -10951,6 +10987,7 @@
   {
    "name": "まちキャラ千葉駅前店",
    "group": "unknown",
+   "city": "千葉県",
    "address": "中央区富士見2-3-1　塚本大千葉ビル4階, 千葉市, 千葉県, 260-0015, Japan",
    "phone": "0433065015",
    "website": "https://x.com/uvicmtg",
@@ -10963,6 +11000,7 @@
   {
    "name": "まちキャラ松戸店",
    "group": "unknown",
+   "city": "千葉県",
    "address": "松戸 1225 良文堂ビル5階, 松戸市, 千葉県, 271-0092, JAPAN",
    "phone": "(+81)047-710-9771",
    "website": "https://x.com/uvicmtg",
@@ -10975,6 +11013,7 @@
   {
    "name": "まちキャラ柏モディ店",
    "group": "unknown",
+   "city": "千葉県",
    "address": "柏1-2-26 柏モディ5階, 柏市, 千葉県, 277-0005, Japan",
    "phone": "(+81)047-199-7600",
    "website": "https://x.com/uvicmtg",
@@ -11032,6 +11071,7 @@
   {
    "name": "アップキープ",
    "group": "unknown",
+   "city": "愛知県",
    "address": "一本木町三丁目103-1, 半田市, 愛知県, 475-0014, Japan",
    "phone": "(+81)090-1284-0229",
    "website": "https://x.com/uvicmtg",
@@ -11044,6 +11084,7 @@
   {
    "name": "アドバンテージ岐阜店",
    "group": "unknown",
+   "city": "岐阜県",
    "address": "住田町1丁目27　新岐阜堂2F, 岐阜市, 岐阜県, 500-8843, Japan",
    "phone": "(+81)058-262-6575",
    "website": "https://x.com/uvicmtg",
@@ -11085,6 +11126,7 @@
   {
    "name": "アメニティードリーム横浜店",
    "group": "unknown",
+   "city": "横浜市",
    "address": "西区南幸1-5-39 大洋ビル3F, 横浜市, 14, 220-0005, Japan",
    "phone": "(+81)045-324-4077",
    "website": "https://x.com/uvicmtg",
@@ -11151,6 +11193,7 @@
   {
    "name": "イエローサブマリン柏店",
    "group": "unknown",
+   "city": "柏市",
    "address": "柏2丁目3-1　フーサワビル6F, 柏市, 12, 277-0005, Japan",
    "phone": "+81047-136-7934",
    "website": "https://x.com/uvicmtg",
@@ -11163,6 +11206,7 @@
   {
    "name": "イエローサブマリン溝口店",
    "group": "unknown",
+   "city": "神奈川県",
    "address": "高津区溝口1-9-5スギザキビル3階, 川崎市, 神奈川県, 213-0001, Japan",
    "phone": "(+81)044-455-5612",
    "website": "https://x.com/uvicmtg",
@@ -11289,6 +11333,7 @@
   {
    "name": "カードゲームショップ どみなり屋",
    "group": "unknown",
+   "city": "兵庫県",
    "address": "本町239 サンワプラザ大手前通202号, 姫路市, 兵庫県, 670-0012, Japan",
    "phone": "(+81)079-263-8766",
    "website": "https://x.com/uvicmtg",
@@ -11301,6 +11346,7 @@
   {
    "name": "カードコレクション",
    "group": "unknown",
+   "city": "名古屋市",
    "address": "北区上飯田北町2-61-1 レジデンス北町1F, 名古屋市, 23, 462-0802, Japan",
    "phone": "+81052-938-8755",
    "website": "https://x.com/uvicmtg",
@@ -11505,6 +11551,7 @@
   {
    "name": "カードショップおうち",
    "group": "unknown",
+   "city": "東京都",
    "address": "外神田4-7-1, 千代田区, 東京都, 101-0021, Japan",
    "phone": "(+81)03-3518-5359",
    "website": "https://www.cardshop-ouchi.com/",
@@ -11531,6 +11578,7 @@
   {
    "name": "カードショップもののふ",
    "group": "unknown",
+   "city": "名古屋市",
    "address": "天白区野並3-196 スライブ野並1F, 名古屋市, 23, 468-0045, Japan",
    "phone": "+81052-842-8096",
    "website": "https://x.com/uvicmtg",
@@ -11543,6 +11591,7 @@
   {
    "name": "カードショップりみ研",
    "group": "unknown",
+   "city": "大阪府",
    "address": "中央区難波千日前6-5音楽ビル901, 大阪市, 大阪府, 542-0075, Japan",
    "phone": "106-6649-5772",
    "website": "https://rimikenn.sakura.ne.jp/",
@@ -11555,6 +11604,7 @@
   {
    "name": "カードショップアニマル蒲田梅屋敷",
    "group": "unknown",
+   "city": "東京都",
    "address": "大森中2-2-10, 大田区, 東京都, 143-0014, Japan",
    "phone": "(+81)03-6404-8637",
    "website": "https://x.com/uvicmtg",
@@ -11567,6 +11617,7 @@
   {
    "name": "カードショップオリオンベース",
    "group": "unknown",
+   "city": "東京都",
    "address": "曙町2丁目42－1, 立川市, 東京都, 190-0023, Japan",
    "phone": "(+81)0425060880",
    "website": "https://x.com/uvicmtg",
@@ -11579,6 +11630,7 @@
   {
    "name": "カードショップガルタ",
    "group": "unknown",
+   "city": "大阪府",
    "address": "中央区内本町1-3-9 内本町中央ビル303, 大阪市, 大阪府, 540-0026, Japan",
    "phone": "(+81)06-6467-4970",
    "website": "https://cardshopghalta.com/",
@@ -11646,6 +11698,7 @@
   {
    "name": "カードショップホビビ 岡崎店",
    "group": "unknown",
+   "city": "愛知県",
    "address": "井田西町2-15, 岡崎市, 愛知県, 444-0912, Japan",
    "phone": "(+81)0564-73-7855",
    "website": "https://www.hobibi.net/",
@@ -11658,6 +11711,7 @@
   {
    "name": "カードショップマーキス",
    "group": "unknown",
+   "city": "大阪府",
    "address": "桜4-1-24-B1, 箕面市, 大阪府, 562-0041, Japan",
    "phone": "(+81)(+81)072-736-8870",
    "website": "https://x.com/uvicmtg",
@@ -11698,6 +11752,7 @@
   {
    "name": "カードショップロピス",
    "group": "unknown",
+   "city": "北海道",
    "address": "上江別427番地の41 マルシェ上江別１階, 江別市, 北海道, 067-0064, Japan",
    "phone": "(+81)(+81)011-378-6712",
    "website": "https://x.com/uvicmtg",
@@ -11768,6 +11823,7 @@
   {
    "name": "カードボックス京都店",
    "group": "unknown",
+   "city": "京都府",
    "address": "下京区七条通烏丸東入真苧屋町214番地 京都駅前第5ビル3階, 京都市, 京都府, 600-8211, Japan",
    "phone": "(+81)075-950-9056",
    "website": "https://cardbox.online/shop/detail/5030/",
@@ -11780,6 +11836,7 @@
   {
    "name": "カードボックス川口店",
    "group": "unknown",
+   "city": "埼玉県",
    "address": "本町2-7-25　ミエルかわぐち3F, 川口市, 埼玉県, 332‐0012, Japan",
    "phone": "(+81)080-3724-5316",
    "website": "https://x.com/uvicmtg",
@@ -11792,6 +11849,7 @@
   {
    "name": "カードボックス池袋店",
    "group": "unknown",
+   "city": "東京都",
    "address": "東池袋1丁目31－1 バロックコート池袋2F, 豊島区, 東京都, 170-0013, Japan",
    "phone": "(+81)03-5843-3836",
    "website": "https://cardbox.online/shop/detail/5054/",
@@ -11804,6 +11862,7 @@
   {
    "name": "カードマウンテン",
    "group": "unknown",
+   "city": "東京都",
    "address": "神田淡路町1-19-8　千代田ビル4階, 千代田区, 東京都, 101-0063, Japan",
    "phone": "(+81)050-3479-0312",
    "website": "https://x.com/uvicmtg",
@@ -11816,6 +11875,7 @@
   {
    "name": "カードマックス秋葉原店",
    "group": "unknown",
+   "city": "東京都",
    "address": "外神田3-15-6 秋葉原M2ビル3F, 千代田区, 東京都, 101-0021, Japan",
    "phone": "(+81)03-3253-7070",
    "website": "https://x.com/uvicmtg",
@@ -11924,6 +11984,7 @@
   {
    "name": "クリプトメリア",
    "group": "unknown",
+   "city": "三重県",
    "address": "太岡寺町529-1, 亀山市, 三重県, 519-0168, Japan",
    "phone": "8105053618794",
    "website": "https://cryptomeria-mie.com/",
@@ -11957,6 +12018,7 @@
   {
    "name": "ゲームカフェ秋葉原集会所",
    "group": "unknown",
+   "city": "千代田区",
    "address": "外神田3-8-5 イサミヤ第2ビル3F, 千代田区, 13, 101-0021, Japan",
    "phone": "(+81)03-3255-5858",
    "website": "https://shukaijo.com/",
@@ -11983,6 +12045,7 @@
   {
    "name": "ゲームショップブリックス",
    "group": "unknown",
+   "city": "京都市",
    "address": "右京区西院三蔵町26-1, 京都市, 26, 615-0021, Japan",
    "phone": "+81075-312-5887",
    "website": "https://x.com/uvicmtg",
@@ -12006,6 +12069,7 @@
   {
    "name": "ゲームショップ武蔵",
    "group": "unknown",
+   "city": "大田区",
    "address": "矢口1-6-16 武蔵野ビル2F, 大田区, 13, 146-0093, Japan",
    "phone": "+8103-5732-2634",
    "website": "https://gameshop634.com/",
@@ -12132,6 +12196,7 @@
   {
    "name": "ジュークボックス",
    "group": "unknown",
+   "city": "堺市",
    "address": "北区長曽根町735-3 新金岡ビル3F, 堺市, 27, 591-8025, Japan",
    "phone": "+81072-249-5570",
    "website": "https://x.com/uvicmtg",
@@ -12209,6 +12274,7 @@
   {
    "name": "テーブルトークカフェDaydream",
    "group": "unknown",
+   "city": "日本",
    "address": "日本橋本石町4-2-6 神田GMビル2階, 中央区, 東京都, 103-0021, 日本",
    "phone": "(+81)03-5204-3156",
    "website": "http://trpgtime.sakura.ne.jp/first/",
@@ -12404,6 +12470,7 @@
   {
    "name": "トレカっち",
    "group": "unknown",
+   "city": "愛知県",
    "address": "中村区椿町19-13カニエビル５F, 名古屋市, 愛知県, 453-0015, Japan",
    "phone": "(+81)052-433-2665",
    "website": "https://x.com/uvicmtg",
@@ -12551,6 +12618,7 @@
   {
    "name": "トレカショップビッグホーン姫路",
    "group": "unknown",
+   "city": "兵庫県",
    "address": "北今宿2丁目1-35 瀬川ビル2 205, 姫路市, 兵庫県, 670-0057, Japan",
    "phone": "(+81)070-4816-3993",
    "website": "https://x.com/uvicmtg",
@@ -12563,6 +12631,7 @@
   {
    "name": "トレカショップビッグホーン姫路",
    "group": "unknown",
+   "city": "兵庫県",
    "address": "北今宿2丁目1-35　瀬川ビル2　205, 姫路市, 兵庫県, 670-0057, JAPAN",
    "phone": "(+81)070-4816-3993",
    "website": "https://x.com/uvicmtg",
@@ -13124,6 +13193,7 @@
   {
    "name": "ドラグーン周南",
    "group": "unknown",
+   "city": "周南市",
    "address": "古市1-4-1, 周南市, 35, 746-0025, Japan",
    "phone": "+810834-33-8569",
    "website": "https://www.aeontown.co.jp/shunan/shop/detail/?id=004538",
@@ -13179,6 +13249,7 @@
   {
    "name": "ニーヨンカードゲームカフェ&バー　24",
    "group": "unknown",
+   "city": "大阪府",
    "address": "東淀川区淡路淡路4-7-25, 大阪市, 大阪府, 533-0032, Japan",
    "phone": "(+81)070-8434-5003",
    "website": "https://x.com/uvicmtg",
@@ -13410,6 +13481,7 @@
   {
    "name": "ブックオフイオンモール大牟田店",
    "group": "unknown",
+   "city": "福岡県",
    "address": "岬町3-4 イオンモール大牟田2F, 大牟田市, 福岡県, 836-0037, Japan",
    "phone": "(+81)094-441-2822",
    "website": "https://x.com/uvicmtg",
@@ -13422,6 +13494,7 @@
   {
    "name": "ブックオフチャチャタウン小倉店",
    "group": "unknown",
+   "city": "福岡県",
    "address": "小倉北区砂津3丁目1-1, 北九州市, 福岡県, 802-0014, Japan",
    "phone": "(+81)093-521-2900",
    "website": "https://x.com/uvicmtg",
@@ -13548,6 +13621,7 @@
   {
    "name": "プレイズ西尾シャオ店",
    "group": "unknown",
+   "city": "西尾市",
    "address": "下町神明下57 ふぁみーず西尾シャオ店内, 西尾市, 23, 445-0891, Japan",
    "phone": "(+81)0563-65-6000",
    "website": "https://x.com/uvicmtg",
@@ -13641,6 +13715,7 @@
   {
    "name": "ホビーショップShelly",
    "group": "unknown",
+   "city": "山口県",
    "address": "糀町1-17　AURA510　101ホール, 周南市, 山口県, 745-0027, JAPAN",
    "phone": "(+81)0834-34-3898",
    "website": "https://x.com/uvicmtg",
@@ -13665,6 +13740,7 @@
   {
    "name": "ホビーステーション所沢店",
    "group": "unknown",
+   "city": "所沢市",
    "address": "日吉町8-5 Ｋ’ｓビル5F, 所沢市, 11, 359-1123, Japan",
    "phone": "(+81)04-2939-4605",
    "website": "https://x.com/uvicmtg",
@@ -13677,6 +13753,7 @@
   {
    "name": "ホビーステーション松戸店",
    "group": "unknown",
+   "city": "千葉県",
    "address": "松戸1307-1　キテミテマツド　３F, 松戸市, 千葉県, 271-0092, Japan",
    "phone": "(+81)047-367-5527",
    "website": "https://x.com/uvicmtg",
@@ -13718,6 +13795,7 @@
   {
    "name": "ホビープラネット",
    "group": "unknown",
+   "city": "大阪府",
    "address": "東大利町2-8若林ビル３F, 寝屋川市, 大阪府, 572-0042, Japan",
    "phone": "(+81)(+81)072-886-4020",
    "website": "https://x.com/uvicmtg",
@@ -13754,6 +13832,7 @@
   {
    "name": "ボードゲームカフェFLiPDROP",
    "group": "unknown",
+   "city": "神奈川県",
    "address": "砂子2-4-20ニュータケウチビル402, 川崎市, 神奈川県, 210-0006, Japan",
    "phone": "1044-201-4199",
    "website": "http://flipdrop.co.jp/",
@@ -13765,6 +13844,7 @@
   {
    "name": "ボードゲーム喫茶天岩庵",
    "group": "unknown",
+   "city": "東京都",
    "address": "東大井3-1-3グランベーネB1F, 品川区, 東京都, 140-0011, Japan",
    "phone": "(+81)0364500798",
    "website": "https://ooimachi-kanoa.com/tengan-an/",
@@ -13870,6 +13950,7 @@
   {
    "name": "マイメーズ",
    "group": "unknown",
+   "city": "茂原市",
    "address": "高師845-30 日建茂原マンション 104 キュイキュイテラス内, 茂原市, 12, 297-0029, Japan",
    "phone": "+81050-7107-2526",
    "website": "https://boardgamershigh.com/users/2001",
@@ -13896,6 +13977,7 @@
   {
    "name": "マスターズスクウェア",
    "group": "unknown",
+   "city": "八王子市",
    "address": "東町12-15 第5セントラルビル6F, 八王子市, 13, 192-0082, Japan",
    "phone": "+81042-649-2319",
    "website": "https://www.tcgacademy.com/",
@@ -14104,6 +14186,7 @@
   {
    "name": "古本市場西大島駅前店",
    "group": "unknown",
+   "city": "東京都",
    "address": "大島3-1-6, 江東区, 東京都, 136-0072, Japan",
    "phone": "(+81)0358367058",
    "website": "https://x.com/uvicmtg",
@@ -14176,6 +14259,7 @@
   {
    "name": "晴れる屋トーナメントセンター大阪",
    "group": "unknown",
+   "city": "大阪府",
    "address": "北区梅田1-11-4, 大阪市, 大阪府, 530-0001, Japan",
    "phone": "+8106-6147-9088",
    "website": "https://x.com/uvicmtg",
@@ -14202,6 +14286,7 @@
   {
    "name": "晴れる屋仙台店",
    "group": "unknown",
+   "city": "仙台市",
    "address": "青葉区一番町3-1-24 4F4C, 仙台市, 04, 980-0811, Japan",
    "phone": "(+81) 022-748-4669",
    "website": "https://x.com/uvicmtg",
@@ -14214,6 +14299,7 @@
   {
    "name": "晴れる屋大須店",
    "group": "unknown",
+   "city": "名古屋市",
    "address": "中区大須4丁目11-5, 名古屋市, 23, 460-0011, Japan",
    "phone": "+810522280355",
    "website": "https://shops.hareruyamtg.com/osu/",
@@ -14349,6 +14435,7 @@
   {
    "name": "秋葉原チェルモ",
    "group": "unknown",
+   "city": "東京都",
    "address": "上野6-3-15, 台東区, 東京都, 110-0005, Japan",
    "phone": "(+81)03-6284-3009",
    "website": "https://x.com/uvicmtg",
@@ -14394,6 +14481,7 @@
   {
    "name": "紙屋敷",
    "group": "unknown",
+   "city": "愛知県",
    "address": "小池2丁目17-6小崎ビル1F, 稲沢市, 愛知県, 492-8144, Japan",
    "phone": "(+81)090-3986-7742",
    "website": "https://x.com/uvicmtg",
@@ -14446,6 +14534,7 @@
   {
    "name": "買取くん",
    "group": "unknown",
+   "city": "立川市",
    "address": "柴崎町3-5-9 イトウビル301, 立川市, 13, 190-0023, Japan",
    "phone": "1042-528-8187",
    "website": "https://www.laughandbefat-mts.com/",
@@ -14576,6 +14665,7 @@
   {
    "name": "遊Vic中野店",
    "group": "unknown",
+   "city": "中野区",
    "address": "中野3丁目34-29　中野パールスカイビル7階, 中野区, 13, 164-0001, Japan",
    "phone": "+8103-3388-4278",
    "website": "https://x.com/uvicmtg",
@@ -14600,6 +14690,7 @@
   {
    "name": "駒の時間",
    "group": "unknown",
+   "city": "兵庫県",
    "address": "米田町船頭624, 加古川市, 兵庫県, 675-0053, Japan",
    "phone": "(+81)090-1952-8300",
    "website": "https://komanotoki.com/",
@@ -14612,6 +14703,7 @@
   {
    "name": "駿河屋高槻店トレカ館",
    "group": "unknown",
+   "city": "大阪府",
    "address": "高槻町15-2 唐崎屋ビル2F, 高槻市, 大阪府, 569-0803, Japan",
    "phone": "(+81)072-683-0080",
    "website": "https://x.com/uvicmtg",

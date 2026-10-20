@@ -7,6 +7,7 @@
   {
    "name": "Big Bear Cards and Hobby",
    "group": "login_required",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "Thanya Park, Room 21 Floor 2, Srinakarin Road, Bangkok, Bangkok, 10250, Thailand",
    "phone": "+66957313536",
@@ -20,6 +21,7 @@
   {
    "name": "Kinoko Card Game Shop",
    "group": "login_required",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "17 Soi Chatsan, Sutthisarn Winijchai Road, Bangkok, Bangkok, 10310, Thailand",
    "phone": "+66952837795",
@@ -34,6 +36,7 @@
   {
    "name": "Power9 Card Store",
    "group": "login_required",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Level 5, Power9 Card Store, 931 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "website": "https://power9cardstore.com/",
@@ -54,6 +57,7 @@
   {
    "name": "A journey in Posters / Shop & studio",
    "group": "blocked",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "92 Tha Phae Road, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "097 989 3594",
@@ -113,6 +117,7 @@
   {
    "name": "High Score TCG",
    "group": "blocked",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "688/82 Srinagarindra Rd,, Nong Bon, Prawet,, Bangkok, 10250, TH",
    "phone": "66969210366",
@@ -133,6 +138,7 @@
   {
    "name": "1st Pick Hobby Store",
    "group": "in_store",
+   "city": "Din-Daeng district",
    "region": "Krung Thep Maha Nakhon",
    "address": "5, Ratchadapisek Road, Din-Daeng district",
    "phone": "66 (066) 154-1959",
@@ -157,6 +163,7 @@
   {
    "name": "A Journey in Posters / Old Town",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "30 Moon Muang Soi 6 Muang Old City Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "097 989 3594",
@@ -174,6 +181,7 @@
   {
    "name": "Alien Kiwi",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "address": "90 Happyland Rd, Bangkok, Krung Thep Maha Nakhon, 10240, Thailand",
    "phone": "+66942412240",
    "website": "https://www.facebook.com/alienkiwicardshop/?locale=th_TH",
@@ -185,6 +193,7 @@
   {
    "name": "Anubis Cards and Craft",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "กรุงเทพมหานคร",
    "address": "2nd Floor, Room 5, Metha Wattana Building, Bangkok, Bangkok, 10110, Thailand",
    "phone": "+660928950359",
@@ -197,6 +206,7 @@
   {
    "name": "Artifax",
    "group": "in_store",
+   "city": "Trinity Mall",
    "region": "กรุงเทพมหานคร",
    "address": "Trinity Complex, Trinity Mall, 425 ซอย สีลม 5 แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
    "phone": "083 062 5266",
@@ -206,6 +216,7 @@
   {
    "name": "Atomic Ant Game Cafe",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "314/2 Prachautit, Tungkru, Bangkok, Bangkok, 10140, Thailand",
    "phone": "+66968835453",
    "website": "https://www.facebook.com/profile.php?id=100062224904281&mibextid=ZbWKwL",
@@ -253,6 +264,7 @@
   {
    "name": "basement basement",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "93 Hua Mak 9, Khwaeng Hua Mak, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand, Krung Thep Maha Nakhon, 10240",
    "phone": "+66 81 922 3907",
@@ -264,6 +276,7 @@
   {
    "name": "Board Game Mania",
    "group": "in_store",
+   "city": "Klong Tei",
    "address": "81/121, Soi Sukhumvit 46, Phra Khanong, Klong Tei",
    "phone": "66 (086) 665-9488",
    "website": "https://www.facebook.com/BoardGameManiaTH",
@@ -275,6 +288,7 @@
   {
    "name": "Bob Card",
    "group": "in_store",
+   "city": "Samyan",
    "region": "กรุงเทพมหานคร",
    "address": "Room F-04, U-Center 1, Samyan",
    "phone": "66 (086) 334-7348",
@@ -287,6 +301,7 @@
   {
    "name": "Box & Brew Board games Café",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "129 Soi Phahon Yothin 40, Khwaeng Sena Nikhom, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand, Krung Thep Maha Nakhon, 10900",
    "phone": "0628185850",
@@ -309,6 +324,7 @@
   {
    "name": "Bumroong Thai Stationery Supply & Art Material",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "220 Phuket Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 216 414",
@@ -327,6 +343,7 @@
   {
    "name": "Card Center (เปิด24ชม.) สาขาไบร์ท พระราม 2",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้นG หน้าลิฟท์ ลานจอดรถ ศูนย์การค้าเดอะไบรท์ เลขที่ 15/9 Rama II Rd, Khwaeng Tha Kham, Khet Bang Khun Thian, Krung Thep Maha Nakhon 10150",
    "checked_at": "2026-10-17T00:43:17Z"
@@ -334,6 +351,7 @@
   {
    "name": "Card Center สาขา กัลปพฤกษ์",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "อาคาร i ชั้น 2 ห้อง 11 ตลาด Kanlapaphruek Rd, Khwaeng Bang Khae, Khet Bang Khae, Krung Thep Maha Nakhon 10160",
    "phone": "092 282 2946",
@@ -342,6 +360,7 @@
   {
    "name": "CARD D.A.Y",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "11/66 Thanon Sathu Pradit, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120",
    "phone": "063 428 9297",
@@ -351,6 +370,7 @@
   {
    "name": "Card Gotcha! CNX",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "18/3.ถ.ช้างม่อยเก่า ต.ช้างม่อยอ.เมืองเชียงใหม่ จ.เชียงใหม่ 50200 Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "081 894 6368",
@@ -360,6 +380,7 @@
   {
    "name": "Card Harbor",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "921, อาคารออล์เวย์วัน ชั้น 1, Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "website": "https://www.facebook.com/profile.php?id=61568108661172&mibextid=LQQJ4d",
@@ -368,6 +389,7 @@
   {
    "name": "Card Island",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "14 Thanon Ratchadaphisek, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400, Thailand, Krung Thep Maha Nakhon, 10400",
    "games_events": [
@@ -378,6 +400,7 @@
   {
    "name": "Card Road Shop สาขา กทม.",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Chan, 224 Soi Lat Phrao 107, Lane 12, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240",
    "checked_at": "2026-10-17T00:43:18Z"
@@ -385,6 +408,7 @@
   {
    "name": "CARD STATIONxBKK",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้น 3, ศูนย์การค้า ยูเนี่ยน มอลล์, 54 Soi Ladprao 1, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900",
    "website": "https://www.facebook.com/profile.php?id=61589116387781",
@@ -393,6 +417,7 @@
   {
    "name": "Cardalise_Cardstore",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Sirithorn Rd, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "080 802 4166",
@@ -401,6 +426,7 @@
   {
    "name": "Cardboard Tavern",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Lotus Laksi, 52 Phahon Yothin Road, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
    "phone": "086 907 8374",
@@ -418,6 +444,7 @@
   {
    "name": "CARDHAUS",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "921 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "093 336 6766",
@@ -426,6 +453,7 @@
   {
    "name": "Cardify ร้านการ์ด TCG & Collectibles พุทธมณฑลสาย 1",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้น2 ตึก, Kingdom Come หน้าร้าน, อยู่ที่ 62/4, บางด้วน, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160",
    "phone": "092 447 6464",
@@ -435,6 +463,7 @@
   {
    "name": "CardON การ์ดออน",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "A539 540 ชั้น5 Megaplaza สะพานเหล็ก Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "095 658 9158",
@@ -443,6 +472,7 @@
   {
    "name": "Cards X Hobbies",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "No. 28, Charoen Krung 57, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120",
    "phone": "092 663 0153",
@@ -452,6 +482,7 @@
   {
    "name": "CARDWORLD BKK",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "126 ซ. จุฬาลงกรณ์ 50 Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "080 051 6725",
@@ -461,6 +492,7 @@
   {
    "name": "Cartoon Today",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "48/27 โกดัง หนังสือ 40 Thanon Srinagarindra, Khwaeng Nong Bon, Khet Prawet, Krung Thep Maha Nakhon 10250",
    "phone": "082 556 2420",
@@ -487,6 +519,7 @@
   {
    "name": "Chrono’s TCG Vault",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "1067 Chrono’s TCG Vault, Ekkachai Rd., Bangkok, Bangkok, 10150, Thailand",
    "phone": "+66954696333",
    "website": "https://www.facebook.com/profile.php?id=100085818643075&mibextid=LQQJ4d",
@@ -498,6 +531,7 @@
   {
    "name": "Chrono’s TCG Vault X",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "25 Soi Mu Ban Golden Heritage Ban Pinklao, Khwaeng Bang Ramat, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand, Krung Thep Maha Nakhon, 10170",
    "phone": "(+66) 0925198826",
@@ -509,6 +543,7 @@
   {
    "name": "CM Card",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "45, 38 Greenhill Place, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "checked_at": "2026-10-17T00:43:28Z"
@@ -516,6 +551,7 @@
   {
    "name": "CNX Toy & Card Game",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "142, 1 ถนน บำรุงราษฎร์ Tambon Wat Ket, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "phone": "093 130 4774",
@@ -536,6 +572,7 @@
   {
    "name": "Cool-Kod TCG",
    "group": "in_store",
+   "city": "Pathum Thani",
    "address": "1/320 Moo18 soi , Khukot, Pathum Thani, 12130, TH",
    "phone": "66917946845",
    "website": "https://www.facebook.com/profile.php?id=61589110352177",
@@ -547,6 +584,7 @@
   {
    "name": "CrossGuild (คลอสกิลด์)",
    "group": "in_store",
+   "city": "Mega Plaza สะพานเหล็ก ชั้น Zone B ห้อง",
    "region": "กรุงเทพมหานคร",
    "address": "Mega Plaza สะพานเหล็ก ชั้น 6 Zone B ห้อง B635, 900 ถ. มหาไชย แขวงวังบูรพาภิรมย์ เขตพระนคร กรุงเทพมหานคร 10200",
    "checked_at": "2026-10-17T00:43:13Z"
@@ -554,6 +592,7 @@
   {
    "name": "Dabush Card & Boardgame",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "246 Sriwara rd., Plabpla, Wangthonglang, Bangkok, Bangkok, 10310, Thailand",
    "phone": "+66897916599",
    "website": "https://www.facebook.com/dabushbkk/",
@@ -565,6 +604,7 @@
   {
    "name": "DaBush Card & Boardgame Cafe",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้น 2 246 Thanon Siwara, Khwaeng Phlabphla, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310",
    "phone": "099 219 5445",
@@ -574,6 +614,7 @@
   {
    "name": "DAILY​ ​RARE​ CARD GAME MBK",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "MBK Canter ชั้น​6 Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "checked_at": "2026-10-17T00:43:17Z"
@@ -626,6 +667,7 @@
   {
    "name": "Dungeons & Wizards Boardgames Cafe",
    "group": "in_store",
+   "city": "Samutprakarn",
    "region": "Krung Thep Maha Nakhon",
    "address": "699/77 Library Town, Prachautit soi 90, Prachautit road, Samutprakarn, Samutprakarn, 10290, Thailand",
    "phone": "+66863625392",
@@ -639,6 +681,7 @@
   {
    "name": "EaRn Card Game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "9 Pradit Manutham Rd, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
    "phone": "083 278 0323",
@@ -648,6 +691,7 @@
   {
    "name": "Elite Collectors",
    "group": "in_store",
+   "city": "Chang Wat Nonthaburi",
    "region": "จ.นนทบุรี",
    "address": "Skywalk ชั้น 1 หน้า H&M เดอะมอลล์ 302 Thanon Ngam Wong Wan, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000",
    "phone": "099 616 7795",
@@ -656,6 +700,7 @@
   {
    "name": "Enjoy Cardgame Shop",
    "group": "in_store",
+   "city": "บึงกุ่ม Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ตลาดปัฐวิกรณ์ ร้านตั้งอยู่หน้าโรงเรียนบดินเดชา2. ซอย.นวมินทร์72 ร้านตั้งอยู่ก่อนถึงตรง ด้านหน้าประตูโรงเรียน ตรงข้ามกับสถาบันกัดไม่ปล่อย Soi 4, Khwaeng Khlong Kum, บึงกุ่ม Krung Thep Maha Nakhon 10240",
    "phone": "096 951 2415",
@@ -675,6 +720,7 @@
   {
    "name": "F Shop Gaming",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "78 7 Soi Sanam Kela Lane 1, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "085 521 5636",
@@ -683,6 +729,7 @@
   {
    "name": "Fenris",
    "group": "in_store",
+   "city": "จ.ปทุมธานี",
    "region": "Krung Thep Maha Nakhon",
    "address": "8 Phahon Yothin Road, กทม, จ.ปทุมธานี, 10220, Thailand",
    "phone": "660932094183",
@@ -706,6 +753,7 @@
   {
    "name": "Flipp the Table",
    "group": "in_store",
+   "city": "Nonthaburi",
    "region": "Chang Wat Nonthaburi",
    "address": "276 Moo 9 Soi Ngamwongwan 23, Nonthaburi, Nonthaburi, 11000, Thailand",
    "phone": "+66819030857",
@@ -719,6 +767,7 @@
   {
    "name": "FordBkk Metro Town",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "212, Floor 2 Room C211, Kanlapaphruek Rd , Phasi Charoen, Bangkok, 10160, TH",
    "phone": "+660636653658",
@@ -741,6 +790,7 @@
   {
    "name": "Future Center shop",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "18 Montri Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "088 879 5009",
@@ -749,6 +799,7 @@
   {
    "name": "G6 TCG & BOARD GAME CAFE",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "371, Soi Bangna-trat 12, Bangna-Tai, Bangna, Bangkok, 10260, Thailand",
    "phone": "+66825282514",
    "website": "https://www.facebook.com/profile.php?id=61555840435686",
@@ -760,6 +811,7 @@
   {
    "name": "Game Tree Cafe",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "Chiang Mai",
    "address": "200/14, B-Avenue, M.1, Suthep Rd., ตำบลสุเทพ Muang, Chiang Mai 50200",
    "phone": "094 968 6384",
@@ -779,6 +831,7 @@
   {
    "name": "GCG Godz Card Game",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "545 Samsen Road , Dusit District , Bangkok, Bangkok, 10300, Thailand",
    "phone": "+66811727646",
    "website": "https://www.facebook.com/profile.php?id=61555541200568&locale=th_TH",
@@ -790,6 +843,7 @@
   {
    "name": "Gemoi Lifestyle Cafe (PZZLE x GEMOI Cafe)",
    "group": "in_store",
+   "city": "เมือง Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "34/1 ซ.สุขเกษม ถ.นิมมานฯ Nimmanhaemin Tambon Su Thep, เมือง Chang Wat Chiang Mai 50200",
    "phone": "080 583 7227",
@@ -799,6 +853,7 @@
   {
    "name": "GET A HOBBY",
    "group": "in_store",
+   "city": "ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่",
    "region": "จ.เชียงใหม่",
    "address": "119/22 Moo.7 Muang, ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200",
    "website": "https://www.facebook.com/getahobbycnx",
@@ -807,6 +862,7 @@
   {
    "name": "Golden Land Solidarity Collective",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Nong Pratheep Rd, Tambon Nong Pa Khrang, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "website": "https://www.facebook.com/goldenlandsolidarity",
@@ -815,6 +871,7 @@
   {
    "name": "Goldenthrone Wargame",
    "group": "in_store",
+   "city": "Chang Wat Rayong",
    "address": "2/86 Tambon Tha Pradu, Amphoe Mueang Rayong, Chang Wat Rayong, 21000, TH",
    "phone": "+66865554241",
    "website": "https://www.facebook.com/Goldenthroneth?mibextid=ZbWKwL",
@@ -835,6 +892,7 @@
   {
    "name": "GrandArena TCG Store",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "85 Soi Lat Phrao 81, Khlong Chaokhun Sing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand, Krung Thep Maha Nakhon, 10310",
    "games_events": [
@@ -845,6 +903,7 @@
   {
    "name": "Grasshopper Hobby Shop",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "The Royal River Hotel, 219 Soi Charan Sanitwong 66/1, Bangkok, Bangkok, 10700, Thailand",
    "phone": "+66839992972",
    "website": "https://www.facebook.com/GrasshopperHobby",
@@ -856,6 +915,7 @@
   {
    "name": "Hazel Cards & Collectibles",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "110/3 Thanon Yen Akat, Bangkok, Krung Thep Maha Nakhon, 10120, Thailand",
    "phone": "660917231702",
@@ -868,6 +928,7 @@
   {
    "name": "HG Hobbz Chiangrai",
    "group": "in_store",
+   "city": "Chang Wat Chiang Rai",
    "region": "จ.เชียงราย",
    "address": "395 หมู่ 21 ซ.สัณติราษฏร์ Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000",
    "phone": "092 919 1961",
@@ -877,6 +938,7 @@
   {
    "name": "Hit Effect Board Game and TCG store",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้น 4, หน้า food court, 139 Thanon Ratchadaphisek, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400",
    "website": "https://www.facebook.com/profile.php?id=61574427309925",
@@ -885,6 +947,7 @@
   {
    "name": "Hit Effect Boardgame & TCG cafe",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "139 Thanon Ratchadaphisek, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400, Thailand, Krung Thep Maha Nakhon, 10400",
    "games_events": [
@@ -919,6 +982,7 @@
   {
    "name": "IPlay Card Shop",
    "group": "in_store",
+   "city": "Phaholyothin Road",
    "region": "Krung Thep Maha Nakhon",
    "address": "412/47 3rd Floor, Phaholyothin Place Plaza, Phaholyothin Road",
    "phone": "+66882426669",
@@ -942,6 +1006,7 @@
   {
    "name": "Isekai shop",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "224/4 Charoen Prathet Rd, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "095 236 6661",
@@ -985,6 +1050,7 @@
   {
    "name": "KaehKlong - แกะกล่อง",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "23 Soi Chumchon Mu Ban Sue Trong Phahonyothin 52, Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand, Krung Thep Maha Nakhon, 10220",
    "phone": "0959069516",
@@ -996,6 +1062,7 @@
   {
    "name": "KAN TCG JAPAN",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "M Floor, The Mall Bangkapi, 3522 Lat Phrao Rd, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240",
    "phone": "087 319 1408",
@@ -1014,6 +1081,7 @@
   {
    "name": "Kitty Card - DD Mall",
    "group": "in_store",
+   "city": "Mall",
    "address": "Room 2A149-2A150, 2nd Floor, DD Mall",
    "phone": "66 (099) 425-4445",
    "games_events": [
@@ -1034,6 +1102,7 @@
   {
    "name": "Kitty's Card MTG",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "3rd floor, 587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900",
    "phone": "099 425 4445",
@@ -1042,6 +1111,7 @@
   {
    "name": "Kona Card รัชดาซอย3",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Dindaeng, Soi Ratchadaphisek 3, Khwaeng Din Daeng, Khet Din Daeng, Krung Thep Maha Nakhon 10400",
    "phone": "081 638 4928",
@@ -1051,6 +1121,7 @@
   {
    "name": "Lee Card",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "QXQX+WWG, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",
    "phone": "092 391 1500",
@@ -1072,6 +1143,7 @@
   {
    "name": "levelmax",
    "group": "in_store",
+   "city": "Bangkhen",
    "address": "76/51 Changwattana rd., Anusaowari, Bangkhen",
    "phone": "080-770-2859",
    "website": "https://facebook.com/levelmaxcafe/",
@@ -1083,6 +1155,7 @@
   {
    "name": "Little Magic",
    "group": "in_store",
+   "city": "Lat phrao",
    "address": "13 Chok Chai 4 Soi 39 Yaek 5, Bangkok, Lat phrao, 10230, TH",
    "phone": "0643429535",
    "website": "https://www.facebook.com/share/1aJz9PNQzo/?mibextid=wwXIfr",
@@ -1094,6 +1167,7 @@
   {
    "name": "LMCafeNeverending",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "52 Soi Rama II, Khwaeng Samae Dam, Khet Bang Khun Thian, Krung Thep Maha Nakhon 10150, Thailand, Krung Thep Maha Nakhon, 10150",
    "phone": "+66 85 140 2541",
@@ -1105,6 +1179,7 @@
   {
    "name": "Magic Century",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "C202 2nd Floor, The Season Mall, 899 Phahonyothin Road, Bangkok, 10, 10400, Thailand",
    "phone": "+66+66(+66) 817778789",
    "website": "https://www.instagram.com/magiccentury/",
@@ -1116,6 +1191,7 @@
   {
    "name": "Mana Brick - Cards & Decks",
    "group": "in_store",
+   "city": "เมือง Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "49 พังงา ซ. 5 Tambon Talat Yai, เมือง Chang Wat Phuket 83000",
    "phone": "080 533 3223",
@@ -1124,6 +1200,7 @@
   {
    "name": "Masaru Japan Anime Shop",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "26/1-2 Soi Sukhumvit 69, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110",
    "phone": "063 969 7999",
@@ -1133,6 +1210,7 @@
   {
    "name": "Meenoiland",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "213, 16 Changpuek, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "096 997 5059",
@@ -1141,6 +1219,7 @@
   {
    "name": "Mega Plaza Saphan Lek",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "02 623 7888",
@@ -1150,6 +1229,7 @@
   {
    "name": "Middle Earth Wargame",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "218,220 Soi Chulalongkorn 50, Wang Mai, Phatum Wan, Bangkok, Bangkok, 10330, Thailand",
    "phone": "+66859996528",
@@ -1163,6 +1243,7 @@
   {
    "name": "Midnight card game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ซ. จุฬาลงกรณ์ 9 Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "checked_at": "2026-10-17T00:43:15Z"
@@ -1170,6 +1251,7 @@
   {
    "name": "Modern Cards",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "921 ภิรมย์, อาคารออลเวย์วัน ชั้น4 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "086 392 1449",
@@ -1179,6 +1261,7 @@
   {
    "name": "Monchu Card Game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "2nd floor, room 2086, 88 Soi Sukhumvit 19, Khlong Toei, Khet Khlong Toei, Krung Thep Maha Nakhon 10110",
    "phone": "094 080 6037",
@@ -1187,6 +1270,7 @@
   {
    "name": "MONITOR CARD SHOP",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "13 ซอยแม่พระ 6 Khwaeng Bang Kho, Khet Chom Thong, Krung Thep Maha Nakhon 10150",
    "phone": "087 993 1206",
@@ -1196,6 +1280,7 @@
   {
    "name": "Monnymon Shop",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "4/1-2 Jhaban Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "086 656 1435",
@@ -1205,6 +1290,7 @@
   {
    "name": "MTGCENTURY",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ห้อง c 202 The Season Mall เลขที่ 899 ถนนพหลโยธิน ถนน 749 Soi Phahon Yothin 1, Phaya Thai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400",
    "phone": "084 546 6546",
@@ -1214,6 +1300,7 @@
   {
    "name": "N Shop",
    "group": "in_store",
+   "city": "Mueang District",
    "address": "139/146 Moo 1, Tambon Samed, Mueang District",
    "phone": "086-844-3200",
    "games_events": [
@@ -1234,6 +1321,7 @@
   {
    "name": "NAIHUA CARDSHOP",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "9, 33 Thaniya Road, 3rd Floor,, Bangkok, Bangkok, 10500, Thailand",
    "phone": "+66+66969092285",
    "website": "https://www.facebook.com/thestadiumrama2/",
@@ -1256,6 +1344,7 @@
   {
    "name": "NerdUnit TCG",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "2172/48 Phahonyothin 34/2 , Bangkok, Bangkok, 10900, Thailand",
    "phone": "+66911097774",
    "website": "https://www.facebook.com/nerdunittcg",
@@ -1267,6 +1356,7 @@
   {
    "name": "Neverland card game",
    "group": "in_store",
+   "city": "chonburi",
    "address": "125/7 Sukhumvit 23 Road , Sriracha, chonburi, 20110, TH",
    "phone": "+660994609301",
    "website": "https://www.facebook.com/profile.php?id=100092335909701",
@@ -1278,6 +1368,7 @@
   {
    "name": "Night Bazaar Chiang Mai",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Changklan Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "checked_at": "2026-10-17T00:43:35Z"
@@ -1293,6 +1384,7 @@
   {
    "name": "Northern Realm",
    "group": "in_store",
+   "city": "A. Mueang",
    "address": "179/12 CHOC A3, , Chiang Mai, A. Mueang,, 50100, TH",
    "phone": "660659552522",
    "website": "https://www.facebook.com/WarhammerNorthernRealm",
@@ -1304,6 +1396,7 @@
   {
    "name": "Northern Realm - Warhammer Shop เชียงใหม่",
    "group": "in_store",
+   "city": "ตำบล หายยา อำเภอเมืองเชียงใหม่ เชียงใหม่",
    "region": "จ.เชียงใหม่",
    "address": "179/12 CHOC (a3) Mahidol Rd Tambon Haiya, District, ตำบล หายยา อำเภอเมืองเชียงใหม่ เชียงใหม่ 50100",
    "phone": "065 955 2522",
@@ -1313,6 +1406,7 @@
   {
    "name": "Nova TCG Thailand (โนวา ทีซีจี ไทยแลนด์)",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Soi Rarm Intra 14 Yaek 8, Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220",
    "checked_at": "2026-10-17T00:43:15Z"
@@ -1320,6 +1414,7 @@
   {
    "name": "Nut Card",
    "group": "in_store",
+   "city": "Mega Plaza",
    "region": "Krung Thep Maha Nakhon",
    "address": "B504-505 5th Floor, Mega Plaza, 900 Maha Chai Rd.",
    "phone": "095-794-2000",
@@ -1344,6 +1439,7 @@
   {
    "name": "Nx Gallery - BTS Ari",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "Ari BTS Station, Samsen Nai, Phaya Thai, Bangkok, 10, 10400, Thailand",
    "phone": "+66879943443",
    "website": "https://www.facebook.com/NxGallery",
@@ -1355,6 +1451,7 @@
   {
    "name": "Nx Gallery - Century Sukhumvit",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "4th fl, Century The Movie Plaza  / 2089 Sukhumvit Rd, Phra Khanong Nuea,, Bangkok, 10260, TH",
    "phone": "+660821082253",
@@ -1367,6 +1464,7 @@
   {
    "name": "Nx Gallery - Esplanade",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "Esplanade Ratchada 99 Ratchadaphisek Rd, Din Daeng, Bangkok, 10400, TH",
    "phone": "+660800789665",
@@ -1379,6 +1477,7 @@
   {
    "name": "Nx Gallery Sc - Plaza",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "24/6 Borommaratchachonnani Rd, Bangkok, Bangkok, 10700, TH",
    "phone": "+660825277886",
@@ -1391,6 +1490,7 @@
   {
    "name": "Oh My Card Game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "address": "3476/5 Lat Phrao Rd, Bangkok, Krung Thep Maha Nakhon, 10240, Thailand",
    "phone": "660954525454",
    "website": "https://www.facebook.com/OhMyCardGame/",
@@ -1402,6 +1502,7 @@
   {
    "name": "OH.Toys Cafe",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1509 Lat Phrao Rd, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310",
    "phone": "088 951 6925",
@@ -1411,6 +1512,7 @@
   {
    "name": "Ohayo​",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1692 The one park Phahon Yothin Road, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900",
    "phone": "062 781 6494",
@@ -1420,6 +1522,7 @@
   {
    "name": "On Stack",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "1436/1 Floor 2 Phahonyothin Rd, , Khet Chatuchak,, Bangkok, 10900, TH",
    "phone": "+66806000020",
    "website": "https://www.facebook.com/p/On-Stack-61585003672545/",
@@ -1450,6 +1553,7 @@
   {
    "name": "P'N Card Games",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "ซอย 7 ซอย 8 บ้านใหม่หลังมอ หมู่ที่ 14 Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "081 952 7416",
@@ -1458,6 +1562,7 @@
   {
    "name": "Pae Game Shop",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "9/4 paegameshop ถนน Charoen Muang Soi 3, Tambon Wat Ket, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "checked_at": "2026-10-17T00:43:35Z"
@@ -1465,6 +1570,7 @@
   {
    "name": "PassAlways - Trading Card Game & Board Games",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Mys.Market (Room 8, 991 Chok Chai 4 Soi 6, Saphan Song, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310",
    "phone": "061 195 9055",
@@ -1494,6 +1600,7 @@
   {
    "name": "Penguin’s Card Games",
    "group": "in_store",
+   "city": "Moo",
    "address": "Room number D15, Mamaigarden Building, 8/10 Moo 6",
    "phone": "66 (095) 461-5194",
    "website": "https://www.facebook.com/Penguins-cardgames-112242348054812",
@@ -1525,6 +1632,7 @@
   {
    "name": "Pika Trading Bangkok",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "591/5 ซอย ลาดพร้าว 101 Khwaeng Khlong Chaokhunsing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand, Krung Thep Maha Nakhon, 10310",
    "games_events": [
@@ -1535,6 +1643,7 @@
   {
    "name": "PKCardGame",
    "group": "in_store",
+   "city": "จตุจักร Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1873, 2 เสนาเซ็นเตอร์ Khwaeng Lat Yao, จตุจักร Krung Thep Maha Nakhon 10900",
    "phone": "062 765 9750",
@@ -1544,6 +1653,7 @@
   {
    "name": "PLAYCAFE PHUKET",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "49 พังงา ซอย 7 Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "081 081 9289",
@@ -1553,6 +1663,7 @@
   {
    "name": "POKODEX Card game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1477 Soi Phatthanakan 31/1, Khwaeng Suan Luang, Khet Suan Luang, Krung Thep Maha Nakhon 10250",
    "phone": "083 602 6662",
@@ -1561,6 +1672,7 @@
   {
    "name": "Pokémon PLAYLAB @B2S CENTRAL WORLD",
    "group": "in_store",
+   "city": "Level",
    "region": "กรุงเทพมหานคร",
    "address": "Level 4, B2S, ถ. ราชดำริ แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
    "checked_at": "2026-10-17T00:43:18Z"
@@ -1568,6 +1680,7 @@
   {
    "name": "Pokémon Trading Card Game Arts and Learning Gallery",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "3rd Fl, 23 Soi Charoen Krung 24, Khwaeng Talat Noi, Khet Samphanthawong, Krung Thep Maha Nakhon 10100",
    "checked_at": "2026-10-17T00:43:18Z"
@@ -1575,6 +1688,7 @@
   {
    "name": "Power9",
    "group": "in_store",
+   "city": "Phanakorn",
    "address": "921 Mahachai Road, Wangburaphapilom, Phanakorn",
    "phone": "089-105-8119",
    "website": "https://www.facebook.com/powernineshop",
@@ -1586,6 +1700,7 @@
   {
    "name": "Prime Comic",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1/5 Thanon Bang Khun Non, Khwaeng Bang Khun Non, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700",
    "website": "https://www.facebook.com/primecomicth",
@@ -1607,6 +1722,7 @@
   {
    "name": "Pull Club Bkk",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "checked_at": "2026-10-17T00:43:13Z"
@@ -1614,6 +1730,7 @@
   {
    "name": "P’N Card Game2",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "ชั้น 5 เมญ่า เชียงใหม่ Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "website": "https://www.facebook.com/share/1FxnSP1LTq/?mibextid=wwXIfr",
@@ -1622,6 +1739,7 @@
   {
    "name": "Q-ซัง Card",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1 Soi Phet Kasem 60/3, Khwaeng Bang Duan, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160",
    "phone": "093 645 6915",
@@ -1631,6 +1749,7 @@
   {
    "name": "Quantum Card and Game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "address": "7-9 Kanchanaphisek Expressway, Bangkok, Krung Thep Maha Nakhon, 10160, Thailand",
    "phone": "660875146265",
    "website": "https://www.facebook.com/profile.php?id=61579610437888#",
@@ -1642,6 +1761,7 @@
   {
    "name": "Quest Board Game Cafe",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "7 Floor, MBK Center, 444 Phaya Thai Rd, Bangkok, 10, 10330, Thailand",
    "phone": "+66819875596",
    "website": "https://www.facebook.com/QuestBoardgame/",
@@ -1653,6 +1773,7 @@
   {
    "name": "Quest Board Game Café",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ห้องเลขที่ M8/2 444 อาคาร MBK Center ชั้น 7 Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "095 387 0346",
@@ -1662,6 +1783,7 @@
   {
    "name": "Rabbit Hole Board Games & Party",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "396/7 Soi Sukonthasawas18/1, Sukonthasawas Road, Bangkok, 10, 10230, Thailand",
    "phone": "+66839726831",
    "website": "https://www.facebook.com/RabbitholeBoardGamesParty/",
@@ -1673,6 +1795,7 @@
   {
    "name": "Rabby Smile",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "2137/27 Phahonyothin Road, Ladprao, Chatuchak, Bangkok, Bangkok, 10900, Thailand",
    "phone": "+66982298203",
@@ -1685,6 +1808,7 @@
   {
    "name": "Rare Finds Bookstore and Cafe",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "18, 2 Chang Moi Kao Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "083 879 9521",
@@ -1703,6 +1827,7 @@
   {
    "name": "Scavengers TCG Bangkok",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "55 Thanon Srinagarindra, Khwaeng Nong Bon, Khet Prawet, Krung Thep Maha Nakhon 10250, Thailand, Krung Thep Maha Nakhon, 10250",
    "phone": "+66814029761",
@@ -1723,6 +1848,7 @@
   {
    "name": "Sedai 4.5",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "695 Sukhumvit Road, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand, Krung Thep Maha Nakhon, 10110",
    "phone": "+66809042545",
@@ -1734,6 +1860,7 @@
   {
    "name": "Shiro Yotsuba Boardgame & Hobby",
    "group": "in_store",
+   "city": "Samut Prakan",
    "address": "99/236 , Village Panason City, Samut Prakan, Samut Prakan, 10270, Thailand",
    "phone": "+66859919560",
    "website": "https://www.facebook.com/profile.php?id=61553246457381",
@@ -1745,6 +1872,7 @@
   {
    "name": "SIT AND PLAY",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "318, Chaloem Phrakiat Ratchakan Thi 9 road, Bangkok, Bangkok, 10250, Thailand",
    "phone": "+66617861661",
@@ -1758,6 +1886,7 @@
   {
    "name": "Sit the Seat",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "Chiang Mai",
    "address": "Doi Saket District, Chiang Mai 50220, Thailand, Chiang Mai, 50220",
    "phone": "+66 808598370",
@@ -1790,6 +1919,7 @@
   {
    "name": "Suriwong Book Center",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "54, 54/1 Sridornchai Rd Lane 1, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "095 162 6449",
@@ -1799,6 +1929,7 @@
   {
    "name": "Tangphanit Toys from Japan",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Huay Kaew Rd, Tambon Su Thep, Mueang, Chang Wat Chiang Mai 50000",
    "phone": "081 649 1594",
@@ -1817,6 +1948,7 @@
   {
    "name": "TCG Ignition ร้านการ์ดเกม",
    "group": "in_store",
+   "city": "เมือง Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "Yaowarad Soi 5, Tambon Talat Yai, เมือง Chang Wat Phuket 83000",
    "phone": "065 389 2666",
@@ -1826,6 +1958,7 @@
   {
    "name": "TCG LAB CNX",
    "group": "in_store",
+   "city": "เมือง Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "239 โครงการมอ สเปซ ร้าน TCG LAB CNX Tambon Su Thep, เมือง Chang Wat Chiang Mai 50200",
    "phone": "084 506 9361",
@@ -1834,6 +1967,7 @@
   {
    "name": "TCG Nexus",
    "group": "in_store",
+   "city": "Likhit Building",
    "region": "กรุงเทพมหานคร",
    "address": "TCG Nexus Shop, 1st Floor, Likhit Building, ถ. ลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพมหานคร 10900",
    "phone": "081 301 6679",
@@ -1878,6 +2012,7 @@
   {
    "name": "The Lost book shop",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "34/4 Soi Ratchamanka 1 Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "052 010 184",
@@ -1886,6 +2021,7 @@
   {
    "name": "The One Card Shop",
    "group": "in_store",
+   "city": "Bangkok",
    "region": "Bangkok",
    "address": "QH68+55H, Din Daeng, Bangkok 10400",
    "checked_at": "2026-10-17T00:43:17Z"
@@ -1893,6 +2029,7 @@
   {
    "name": "The Postcard Rommanee",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "6 Soi Rommani Old Phuket Town, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "website": "https://www.facebook.com/pages/The-Postcard-Rommanee/302959573196101",
@@ -1901,6 +2038,7 @@
   {
    "name": "The Shire Cards & Hobby",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "471/4 Rachwitee road, Bangkok, Bangkok, 10400, Thailand",
    "phone": "+66865700765",
    "website": "https://www.facebook.com/profile.php?id=100088353758336&mibextid=LQQJ4d",
@@ -1912,6 +2050,7 @@
   {
    "name": "The Toys Club",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Q2P4+HR6, 46/1 San Pa Koi Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "phone": "097 978 9894",
@@ -1920,6 +2059,7 @@
   {
    "name": "The Tricker",
    "group": "in_store",
+   "city": "Floor",
    "address": "Unit 309, RiverPlaza, 3nd Floor",
    "phone": "+66985401555",
    "website": "https://www.facebook.com/TheTricker2014",
@@ -1931,6 +2071,7 @@
   {
    "name": "TopLoad TCG",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "448 ซ.93, 20 Phueng Mi, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260",
    "phone": "089 824 1163",
@@ -1940,6 +2081,7 @@
   {
    "name": "Toy Garage",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "341 Soi Charoen Krung 91/1, Khwaeng Wat Phraya Krai, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand, Krung Thep Maha Nakhon, 10120",
    "phone": "0974266474",
@@ -1951,6 +2093,7 @@
   {
    "name": "Toytopia @MBK",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ชั้น7 มาบุญครอง 444 Phaya Thai Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "095 248 8727",
@@ -1959,6 +2102,7 @@
   {
    "name": "Train Station Comic Store",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
    "phone": "053 246 876",
@@ -1968,6 +2112,7 @@
   {
    "name": "Tuktik Comic Book",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "RX4M+3V6, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
    "phone": "083 567 7887",
@@ -1977,6 +2122,7 @@
   {
    "name": "Turn The Tables",
    "group": "in_store",
+   "city": "Bangkok",
    "address": "440/19-20, 3rd floor, Soi. Ratchawithi 3, Bangkok, Bangkok, 10400, Thailand",
    "phone": "+660822415916",
    "website": "https://www.facebook.com/tttboardgamecafe?mibextid=ZbWKwL",
@@ -1988,6 +2134,7 @@
   {
    "name": "Ullanor",
    "group": "in_store",
+   "city": "Nonthaburi",
    "address": "Muang, Nonthaburi, 12, 11000, Thailand",
    "phone": "+66841450445",
    "website": "https://www.facebook.com/UllanorWaaagh",
@@ -1999,6 +2146,7 @@
   {
    "name": "UrGacha",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "944 Thanon Rama IV, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "website": "https://www.tiktok.com/@urgacha.official?_r=1&_t=ZS-98KAuoL0k5N",
@@ -2007,6 +2155,7 @@
   {
    "name": "Vigilant Boardgame Cafe",
    "group": "in_store",
+   "city": "Ramintra rd",
    "address": "4 Soi Ramintra 23, Alley 16 , Ramintra rd.",
    "phone": "0962428799",
    "games_events": [
@@ -2017,6 +2166,7 @@
   {
    "name": "Vip Card and Toys",
    "group": "in_store",
+   "city": "กรุงเทพมหานคร",
    "region": "กรุงเทพมหานคร",
    "address": "417 บางนา กม 2 เขตบางนา, แขวงบางนาใต้ bangna, กรุงเทพมหานคร 10260",
    "phone": "061 049 8980",
@@ -2025,6 +2175,7 @@
   {
    "name": "Warp Gate",
    "group": "in_store",
+   "city": "Nonthaburi",
    "address": "Wong Sawang Subdistrict, Bang Sue Subdistrict, Nonthaburi, 12, 10800, Thailand",
    "phone": "+66948680646",
    "website": "https://www.facebook.com/Letsplayscards",
@@ -2065,6 +2216,7 @@
   {
    "name": "Wua Lai record shop",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "1, 6 Wua Lai Rd, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "095 675 4213",
@@ -2074,6 +2226,7 @@
   {
    "name": "yindee",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "41/1 Samlarn Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "checked_at": "2026-10-17T00:43:38Z"
@@ -2100,6 +2253,7 @@
   {
    "name": "คีย์การ์ด เครื่องบันทึกเวลาทำงาน กล้องวงจรปิด และสินค้าไอทีเชียงใหม่ Success it Center",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "เลขที่ 326 ชั้น 2 ตึกคอมพิวเตอร์ซิตี้ ห้อง B216-B217 Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "053 404 769",
@@ -2108,6 +2262,7 @@
   {
    "name": "จั่ว Card Game & Hobby",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "43 1 ถนนคลองชลประทาน Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "096 831 0129",
@@ -2117,6 +2272,7 @@
   {
    "name": "ติดใจทอย - tidjai toy model&figure",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "Changklan Rd, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "083 766 0317",
@@ -2126,6 +2282,7 @@
   {
    "name": "ตู้กดการ์ดดัสตินพารวย",
    "group": "in_store",
+   "city": "Fa Ham",
    "region": "จ.เชียงใหม่",
    "address": "208, Fa Ham, เทศบาลนครเชียงใหม่ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50000",
    "checked_at": "2026-10-17T00:44:10Z"
@@ -2133,6 +2290,7 @@
   {
    "name": "ตู้จุ่มการ์ด iCardz - Banthatthong Bkk.",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "594 12 Soi Phaya Nak, Khwaeng Thanon Phetchaburi, Khet Ratchathewi, Krung Thep Maha Nakhon 10400",
    "phone": "095 505 2390",
@@ -2151,6 +2309,7 @@
   {
    "name": "บริษัท ที.พี.โอ.ภูเก็ต การ์ดโฟน จำกัด",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "7 Suthat Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 255 127",
@@ -2159,6 +2318,7 @@
   {
    "name": "พิมพ์รักการ์ดแต่งงาน เชียงใหม่ (Pimluck Wedding Stationery)",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "65 Soi Phong Suwan, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "083 764 4388",
@@ -2168,6 +2328,7 @@
   {
    "name": "ร้าน +Like Card Game(คู้บอน)",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "311,4 (ห้องเลขที่ 311/36) อยู่ชั้น 2 Ram Inthra Rd, Khwaeng Ram Inthra, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230",
    "phone": "085 913 5161",
@@ -2177,6 +2338,7 @@
   {
    "name": "ร้าน Oil Card Game",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "20 4 Montfort Rd, Tambon Tha Sala, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "checked_at": "2026-10-17T00:43:45Z"
@@ -2193,6 +2355,7 @@
   {
    "name": "ร้านการ์ด RagnaRogue",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "608 Soi Lat Phrao 109, Lane 3, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240",
    "phone": "085 245 7536",
@@ -2202,6 +2365,7 @@
   {
    "name": "ร้านการ์ดเกมส์พี่เต๋า ENIGMAGIC",
    "group": "in_store",
+   "city": "บางเขน เมือง Chang Wat Nonthaburi",
    "region": "จ.นนทบุรี",
    "address": "ร้าน ENIGMAGIC ชั้น 2 ตรงข้ามเดอะมอลล์ ตึกแกรนด์ พลาซ่า Thanon Ngam Wong Wan, บางเขน เมือง Chang Wat Nonthaburi 11000",
    "phone": "065 923 6359",
@@ -2230,6 +2394,7 @@
   {
    "name": "ร้านบ้านการ์ตูน",
    "group": "in_store",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "เลขที่ 411 Phuket Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 250 325",
@@ -2267,6 +2432,7 @@
   {
    "name": "ร้านสมาร์ทการ์ด",
    "group": "in_store",
+   "city": "เมือง Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "133/14 ถนนรัตนโกสินทร์ Tambon Pa Tan, เมือง Chang Wat Chiang Mai 50300",
    "phone": "063 624 6524",
@@ -2295,6 +2461,7 @@
   {
    "name": "ส.นครพิงค์การพิมพ์ - NAKP Printing",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "40 6, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "095 936 8795",
@@ -2303,6 +2470,7 @@
   {
    "name": "สปีดดารา",
    "group": "in_store",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "11/3 Thung Hotel Soi 2, Tambon Wat Ket, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "checked_at": "2026-10-17T00:44:10Z"
@@ -2310,6 +2478,7 @@
   {
    "name": "อ้อยคิดส์การ์ด การ์ดเกม แวนการ์ด บัดดี้ไฟท์",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "BigCชั้น2 พระราม2(ตรงข้ามโลตัส Khwaeng Samae Dam, Khet Bang Khun Thian, Krung Thep Maha Nakhon 10150",
    "phone": "080 214 8787",
@@ -2328,6 +2497,7 @@
   {
    "name": "เกลือ TCG",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "129 Ramkhamhaeng Rd, Khwaeng Hua Mak, Khet Saphan Sung, Krung Thep Maha Nakhon 10240",
    "phone": "098 284 8412",
@@ -2336,6 +2506,7 @@
   {
    "name": "เยลโล่บี",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "43 Soi Suk Sawat 25, Khwaeng Bang Pakok, Khet Rat Burana, Krung Thep Maha Nakhon 10140",
    "phone": "080 044 5677",
@@ -2345,6 +2516,7 @@
   {
    "name": "แว่นคุง TCG",
    "group": "in_store",
+   "city": "Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "RX33+6JM, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50200",
    "phone": "065 358 1570",
@@ -2372,6 +2544,7 @@
   {
    "name": "้เบียว card game",
    "group": "in_store",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "2/301 Phahon Yothin Road, Khwaeng Sena Nikhom, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand, Krung Thep Maha Nakhon, 10900",
    "games_events": [
@@ -2382,6 +2555,7 @@
   {
    "name": "Yannick The Gathering",
    "group": "not_buying_singles",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "394 Soi Saen Sabai 8, Phra Khanong, Klong Toey, Bangkok, Bangkok, 10110, Thailand",
    "phone": "+66922575154",
@@ -2395,6 +2569,7 @@
   {
    "name": "Animate Bangkok",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Room 7 444 Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "099 782 0064",
@@ -2434,6 +2609,7 @@
   {
    "name": "Bairare",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "244 Charan Sanit Wong Rd, Khwaeng Bang Phlat, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand, Krung Thep Maha Nakhon, 10700",
    "phone": "093 350 9393",
@@ -2446,6 +2622,7 @@
   {
    "name": "Battlefield Bangkok",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "71 Thanon Sukhumvit 101/1, Khwaeng Bang Chak, Prakanong, Krung Thep Maha Nakhon 10260, Thailand, Krung Thep Maha Nakhon, 10260",
    "phone": "66 (063) 884-3864",
@@ -2459,6 +2636,7 @@
   {
    "name": "Board Game Academy",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "42 Thanon Prajadhipok, ตำบล วัดกัลยา อำเภอ ธนบุรี Krung Thep Maha Nakhon 10600, Thailand, Krung Thep Maha Nakhon, 10600",
    "phone": "095-925-5260",
@@ -2471,6 +2649,7 @@
   {
    "name": "Cardster",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Mega Plaza สะพานเหล็ก ชั้น 5 Zone A ห้อง A525-A529 และ Service Zone A543-A546 900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "065 649 9996",
@@ -2480,6 +2659,7 @@
   {
    "name": "Castle Black TCG",
    "group": "unknown",
+   "city": "Bangkok",
    "region": "Krung Thep Maha Nakhon",
    "address": "116/29-33 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi., Bangkok, Bangkok, 10400, Thailand",
    "phone": "+66959080514",
@@ -2492,6 +2672,7 @@
   {
    "name": "CHUBB CAT Board Game",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "100 16 Soi 4 Wat Umong, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "082 159 0956",
@@ -2502,6 +2683,7 @@
   {
    "name": "colleize Thailand @MBK Center",
    "group": "unknown",
+   "city": "Mbk center",
    "region": "กรุงเทพมหานคร",
    "address": "Unit A14, 7th floor, Mbk center, 444 ถ. พญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
    "website": "https://th.colleize.com/",
@@ -2510,6 +2692,7 @@
   {
    "name": "Decathlon Chiang Mai",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "17 R22C+359, 17 หมู่ที่ 4 Lampang - Chiang Mai Superhighway, Tambon Nong Pa Khrang, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000",
    "phone": "053 111 754",
@@ -2519,6 +2702,7 @@
   {
    "name": "Delta TCG Store",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "5, 46 Soi Sukhumvit 69/1, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110",
    "phone": "094 465 9959",
@@ -2528,6 +2712,7 @@
   {
    "name": "Den Souvenir",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "25, 2 Ratvithi Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "086 456 9641",
@@ -2537,6 +2722,7 @@
   {
    "name": "Devcard.TCG Chiang Mai",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "316, 9 หมู่ 8 ตำบลหนองจ๊อม อำเภอสันทราย จังหวัดเชียงใหม่ 50210 เทศบาลเมืองแม่โจ้ Amphoe San Sai, Chang Wat Chiang Mai 50210",
    "phone": "093 624 2543",
@@ -2566,6 +2752,7 @@
   {
    "name": "FIZZY GAME & HOBBY STORE",
    "group": "unknown",
+   "city": "Chiang Mai",
    "region": "Chiang Mai",
    "address": "R2H6+9X2, Nong Chom, San Sai District, Chiang Mai 50210, Thailand, Chiang Mai, 50210",
    "phone": "+66866588855",
@@ -2578,6 +2765,7 @@
   {
    "name": "GL Card Game",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "135 1 Soi Sathon 11 Yaek 5, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120",
    "phone": "091 804 4990",
@@ -2587,6 +2775,7 @@
   {
    "name": "Golden Goblin Games",
    "group": "unknown",
+   "city": "Nong Jom",
    "region": "จ.เชียงใหม่",
    "address": "555/151 Moo 2, Fifth Avenue Ruam Chok, Nong Jom",
    "phone": "080 065 9946",
@@ -2599,6 +2788,7 @@
   {
    "name": "Gunplafe",
    "group": "unknown",
+   "city": "Nonthaburi",
    "address": "64/33 Moo4 Terdprakeart Rd, Nonthaburi, Nonthaburi, 11130, Thailand",
    "phone": "+66945505245",
    "website": "http://www.gunplafe.com/",
@@ -2620,6 +2810,7 @@
   {
    "name": "Jakarade ICS",
    "group": "unknown",
+   "city": "Bangkok",
    "region": "กรุงเทพมหานคร",
    "address": "2nd Floor, ICS  Mall, 168 Charoen Nakhon Rd., Bangkok, Bangkok, 10600, Thailand",
    "phone": "+66627387321",
@@ -2632,6 +2823,7 @@
   {
    "name": "Jing Jai Market Chiang Mai",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "46 Thanon Atsadathon, Tambon Pa Tan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "053 231 520",
@@ -2651,6 +2843,7 @@
   {
    "name": "Kids Planet",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "991 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "02 690 1000",
@@ -2660,6 +2853,7 @@
   {
    "name": "Kinokuniya (centralwOrld)",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ห้างสรรพสินค้าเซ็นทรัลเวิล์ด ชั้น 6 เลขที่ 4/1-4/2,4/4 ห้องเลขที่ B633, B633T Thanon Ratchadamri, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "02 056 4700",
@@ -2669,6 +2863,7 @@
   {
    "name": "Lighthouse Hobby (gunpla phuket)",
    "group": "unknown",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "54/1 Soi Talingchan, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "086 952 7709",
@@ -2678,6 +2873,7 @@
   {
    "name": "Magic Dojo",
    "group": "unknown",
+   "city": "Vanilla Moon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Room B402, 4th Floor, Vanilla Moon",
    "phone": "0990523556 ",
@@ -2691,6 +2887,7 @@
   {
    "name": "MAYA Lifestyle Shopping Center",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "55/5 Huay Kaew Rd, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300",
    "phone": "052 081 555",
@@ -2700,6 +2897,7 @@
   {
    "name": "Metagame Thailand",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "8 Soi Krungthep-Nonthaburi 17, Khwaeng Bang Sue, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand, Krung Thep Maha Nakhon, 10800",
    "phone": "+66 961615999",
@@ -2712,6 +2910,7 @@
   {
    "name": "My Magic",
    "group": "unknown",
+   "city": "Bangkok",
    "address": "Room 360, 3rd Floor, The Street Ratchada, Bangkok, 10, 10400, Thailand",
    "phone": "+66661-564-2002",
    "website": "https://wpn.wizards.com/en",
@@ -2723,6 +2922,7 @@
   {
    "name": "Neverland Toys & Collectibles Mega Plaza",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "Mega Plaza, 900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "061 389 8933",
@@ -2732,6 +2932,7 @@
   {
    "name": "Nox Trading Card Game",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "89, 7 Soi Ban Ram Poang, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "095 392 8965",
@@ -2741,6 +2942,7 @@
   {
    "name": "Nx Gallery - Card Game & Board Game Cafe",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "21 Soi Lat Phrao 78, Khwaeng Wang Thonglang, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand, Krung Thep Maha Nakhon, 10310",
    "phone": "0616179263",
@@ -2753,6 +2955,7 @@
   {
    "name": "Nx Gallery East",
    "group": "unknown",
+   "city": "Rayong",
    "address": "554 Sukhumvit Rd, Noen Phra Sub-district, Rayong, Rayong, 21000, Thailand",
    "phone": "+66981688915",
    "website": "https://www.nxgalleryeast.co/",
@@ -2764,6 +2967,7 @@
   {
    "name": "OMGSTORE",
    "group": "unknown",
+   "city": "Phuket",
    "address": "49 Floor 2, So i7, Phang-Nga Road, Taladyai, Phuket, Phuket, 83000, Thailand",
    "phone": "+66810819289",
    "website": "https://omg-cardstore.com/",
@@ -2775,6 +2979,7 @@
   {
    "name": "PLAYWORKS SHOP&CAFE",
    "group": "unknown",
+   "city": "เมือง Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "165 สุเทพ Nimmanhaemin Tambon Su Thep, เมือง Chang Wat Chiang Mai 50200",
    "phone": "099 214 3191",
@@ -2784,6 +2989,7 @@
   {
    "name": "Pokehub",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "900 Maha Chai Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "website": "https://line.me/R/ti/p/@963vhfkg?ts=05250019&oat_content=url",
@@ -2792,6 +2998,7 @@
   {
    "name": "Pokémon Center BANGKOK",
    "group": "unknown",
+   "city": "Level",
    "region": "กรุงเทพมหานคร",
    "address": "centralwOrld, C604/2 Level 6 4, 4/1-4 ซ. วิภาวดี 2 แยก 4-4 แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
    "website": "https://th.portal-pokemon.com/shop/",
@@ -2819,6 +3026,7 @@
   {
    "name": "Sabai Cards",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "True Space Asoke Building Level 5 235/3-5, Sukhumvit 21 Rd, Bangkok, Krung Thep Maha Nakhon, 10110, TH",
    "phone": "+6666 (099) 443-4378",
@@ -2832,6 +3040,7 @@
   {
    "name": "Samudlanna",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "31 Huay Kaew Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "053 222 700",
@@ -2841,6 +3050,7 @@
   {
    "name": "Sanampinthong Mini4WD - ร้านสนามปิ่นทอง เชียงใหม่",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "106 1 Ratchamanka Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "089 851 9750",
@@ -2860,6 +3070,7 @@
   {
    "name": "The CardZ Shop",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "SF Town ชั้น 7 MBK Center Zone C 444 Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "phone": "065 456 4749",
@@ -2870,6 +3081,7 @@
   {
    "name": "TM CARD SHOP",
    "group": "unknown",
+   "city": "บ้านเลขที่",
    "region": "กรุงเทพมหานคร",
    "address": "บ้านเลขที่ 40, 11 ซอย สุขุมวิท 60/1 แขวงพระโขนงใต้ เขตพระโขนง กรุงเทพมหานคร 10260",
    "phone": "093 252 4443",
@@ -2900,6 +3112,7 @@
   {
    "name": "Tortuga, Art and Weird Cafe | Bangkok, Thailand",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "1612 Banthat Thong Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand, Krung Thep Maha Nakhon, 10330",
    "phone": "0917192029",
@@ -2921,6 +3134,7 @@
   {
    "name": "VG card shop",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "The Old Siam Plaza, ชั้น 3 ห้อง W3-08 Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "090 279 7603",
@@ -2940,6 +3154,7 @@
   {
    "name": "คุณสีฟ้า",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "14/7 See Ping Muang Rd 3, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100",
    "phone": "097 923 1989",
@@ -2949,6 +3164,7 @@
   {
    "name": "ภูเก็ตเสรีเซ็นเตอร์",
    "group": "unknown",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "23/7 Thanon Luangpohw, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "076 224 432",
@@ -2958,6 +3174,7 @@
   {
    "name": "ร้าน เบลล์พ้อยท์ ช๊อป (Bellpoint Shop)",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "219 Phahurat Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200",
    "phone": "02 621 3231",
@@ -2967,6 +3184,7 @@
   {
    "name": "ร้านสารพันสรรหา การ์ดแต่งงาน ของชำร่วย ของรับไหว้",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "51 Siri Mangkalajarn Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "084 654 9694",
@@ -2976,6 +3194,7 @@
   {
    "name": "ร้านหนังสือเส้งโห สาขาภูเก็ต",
    "group": "unknown",
+   "city": "Chang Wat Phuket",
    "region": "จ.ภูเก็ต",
    "address": "2, 14-16, 54 Montri Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000",
    "phone": "086 470 1985",
@@ -2985,6 +3204,7 @@
   {
    "name": "ร้านเครื่องเขียน ไซเรียง (อุดมผล) Zirieng (Udompol) Stationery store",
    "group": "unknown",
+   "city": "Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "20 Ratvithi Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200",
    "phone": "053 223 600",
@@ -2994,6 +3214,7 @@
   {
    "name": "สีครีมการ์ด",
    "group": "unknown",
+   "city": "อำเภอเมือง Chang Wat Chiang Mai",
    "region": "จ.เชียงใหม่",
    "address": "299/25 ชั้น 2 โครงการใจแก้วเอราวัณ 28 หมู่ที่ 3 Tambon Nong Hoi, อำเภอเมือง Chang Wat Chiang Mai 50000",
    "phone": "097 921 0851",
@@ -3003,6 +3224,7 @@
   {
    "name": "アニタイメ",
    "group": "unknown",
+   "city": "Krung Thep Maha Nakhon",
    "region": "Krung Thep Maha Nakhon",
    "address": "ห้อง M8/1 SF Town ชั้น 7 โซน D ศูนย์การค้า MBK Center Phaya Thai Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330",
    "website": "https://shopee.co.th/zirieng",

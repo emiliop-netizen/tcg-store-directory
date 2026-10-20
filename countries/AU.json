@@ -839,6 +839,7 @@
   {
    "name": "Dragons Lair Hobbies and Gaming (Edwardstown)",
    "group": "login_required",
+   "city": "Edwardstown",
    "address": "30 Furness Ave, Edwardstown, SA, 5039, Australia",
    "phone": "610404714805",
    "website": "https://dragonslair.au",
@@ -850,6 +851,7 @@
   {
    "name": "Duellers Den",
    "group": "login_required",
+   "city": "Royal Park",
    "address": "2/36 Tapleys Hill Rd, Royal Park, SA, 5014, AU",
    "phone": "61458587205",
    "website": "https://duellersden.com.au/password",
@@ -2126,6 +2128,7 @@
   {
    "name": "Hobby Lords Frankston",
    "group": "blocked",
+   "city": "Frankston",
    "address": "9 Station St, Frankston, VIC, 3199, AUS",
    "phone": "+610427171185",
    "website": "https://hobbylords.com/",
@@ -2613,6 +2616,7 @@
   {
    "name": "Always Lucki",
    "group": "in_store",
+   "city": "Melbourne",
    "address": "Unit 3 / 458 Sydney Rd, Melbourne, VIC, 3056, AUS",
    "phone": "+610403898090",
    "website": "https://www.instagram.com/always.lucki/",
@@ -2718,6 +2722,7 @@
   {
    "name": "Black & White Collectibles",
    "group": "in_store",
+   "city": "Geelong",
    "address": "24 Ryrie St, Geelong, VIC, 3220, Australia",
    "phone": "610498034200",
    "website": "https://www.facebook.com/people/Black-White-Collectibles/61572626138709/",
@@ -2742,6 +2747,7 @@
   {
    "name": "Braidy's Board Game & Hobby Club",
    "group": "in_store",
+   "city": "Warners Bay",
    "address": "Unit 1/44-46 Medcalf St, Warners Bay, NSW, 2282, Australia",
    "phone": "61403690502",
    "website": "https://www.facebook.com/profile.php?id=61573982132288",
@@ -3139,6 +3145,7 @@
   {
    "name": "Gameology (Clayton South)",
    "group": "in_store",
+   "city": "Clayton South",
    "address": "12 Eileen Rd, Clayton South, VIC, 3169, Australia",
    "phone": "61(03) 9068 6040",
    "website": "https://www.facebook.com/GameologyClayton/",
@@ -3253,6 +3260,7 @@
   {
    "name": "Ghost Dragon Games",
    "group": "in_store",
+   "city": "Toronto",
    "address": "67-73 The Boulevard, Toronto, NSW, 2283, Australia",
    "phone": "+61249596055",
    "website": "https://www.facebook.com/profile.php?id=61567534409532",
@@ -3427,6 +3435,7 @@
   {
    "name": "Good Games Top Ryde City",
    "group": "in_store",
+   "city": "Ryde",
    "address": "Level 3, Devlin St & Blaxland Road, Ryde, NSW, 2112, Australia",
    "phone": "+6102 9807 4929",
    "website": "https://www.facebook.com/goodgamestoprydecity/",
@@ -3476,6 +3485,7 @@
   {
    "name": "Hobby Hub",
    "group": "in_store",
+   "city": "Woolner",
    "address": "303/28 Bishop St, Woolner, NT, 0820, Australia",
    "phone": "61+61488554332",
    "website": "https://www.facebook.com/GamesShed2024",
@@ -3651,6 +3661,7 @@
   {
    "name": "Mage Tower Games AU",
    "group": "in_store",
+   "city": "Murwillumbah",
    "address": "Shop 33 / 27 Wharf St, Murwillumbah, NSW, 2484, AU",
    "phone": "+610423426568",
    "website": "https://www.facebook.com/p/Mage-Tower-Games-61590803138624/",
@@ -3937,6 +3948,7 @@
   {
    "name": "Pokecouple TCG and Collectibles",
    "group": "in_store",
+   "city": "Raceview",
    "address": "56 Cascade St, Raceview, QLD, 4305, AU",
    "phone": "610483746766",
    "website": "https://www.facebook.com/Pokecouple2024/",
@@ -4057,6 +4069,7 @@
   {
    "name": "Realms of Magic and Miniatures",
    "group": "in_store",
+   "city": "Townsville",
    "address": "3 Tavern Street, Kirwan, Townsville, QLD, 4817, Australia",
    "phone": "+6107 47952538",
    "website": "https://www.facebook.com/romamtsv/",
@@ -4110,6 +4123,7 @@
   {
    "name": "Ronin Games Woden",
    "group": "in_store",
+   "city": "Bonner House",
    "address": "Shop 1C, Upper Level, Bonner House",
    "phone": "0451320826",
    "website": "https://discord.gg/ndUGPXr",
@@ -4233,6 +4247,7 @@
   {
    "name": "SpawnPoint Games AU",
    "group": "in_store",
+   "city": "Malaga",
    "address": "6/1904 Beach Rd, Malaga, WA, 6090, AU",
    "phone": "+61455484220",
    "website": "https://www.instagram.com/spawnpointgamesau/",
@@ -4319,6 +4334,7 @@
   {
    "name": "Swap Itt Wollongong",
    "group": "in_store",
+   "city": "Wollongong",
    "address": "62 Burelli St, Wollongong, NSW, 2500, Australia",
    "phone": "61242635209",
    "website": "https://www.instagram.com/swapitttt/?hl=en",
@@ -4517,6 +4533,7 @@
   {
    "name": "The Dice Club",
    "group": "in_store",
+   "city": "Midland",
    "address": "1/27 Old Great Northern Hwy, Midland, WA, 6056, Australia",
    "phone": "+61487749473",
    "website": "https://www.facebook.com/thediceclubmidland",
@@ -4896,6 +4913,7 @@
   {
    "name": "WarGamers Hub",
    "group": "not_buying_singles",
+   "city": "Caboolture South",
    "address": "12/110 Morayfield Rd, Caboolture South, QLD, 4510, Australia",
    "phone": "+61(+61) 403803341",
    "website": "https://www.wargamershub.com.au/",
@@ -5254,6 +5272,7 @@
   {
    "name": "Battlehall",
    "group": "unknown",
+   "city": "Lowood",
    "address": "Shop 13 4 Walters St, Lowood, QLD, 4311, Australia",
    "phone": "61458763964",
    "website": "https://www.battlehall.com.au/",
@@ -5652,6 +5671,7 @@
   {
    "name": "Card Vault Australia",
    "group": "unknown",
+   "city": "Fairfield",
    "address": "36 Dale St, Fairfield, NSW, 2165, AU",
    "phone": "61435204475",
    "website": "https://cardvaultaustralia.square.site/",
@@ -5733,6 +5753,7 @@
   {
    "name": "Cartell Games",
    "group": "unknown",
+   "city": "Brisbane",
    "address": "DFO Jindalee, Shop T57C / 16 Amazons Pl, Brisbane, QLD, 4074, AU",
    "phone": "+610738767283",
    "website": "https://www.cartellgames.com.au/",
@@ -6655,6 +6676,7 @@
   {
    "name": "Game Lobby",
    "group": "unknown",
+   "city": "Mount Barker",
    "address": "22 Hutchinson Street shop 4, Mount Barker, SA, 5251, Australia",
    "phone": "61(08) 8485 1928",
    "website": "https://www.gamelobby.zone/",
@@ -6756,6 +6778,7 @@
   {
    "name": "Games Guild - Belgrave",
    "group": "unknown",
+   "city": "Melbourne",
    "address": "1656 Burwood Hwy, Melbourne, VIC, 3160, AU",
    "phone": "+610468424074",
    "website": "https://gamesguild.com.au/",
@@ -7866,6 +7889,7 @@
   {
    "name": "Havoc Games",
    "group": "unknown",
+   "city": "Geelong",
    "address": "10 Edols Pl, Geelong, VIC, 3215, AU",
    "phone": "610342520771",
    "website": "https://www.havocgames.com.au/",
@@ -7913,6 +7937,7 @@
   {
    "name": "Hectic Decals",
    "group": "unknown",
+   "city": "Sydney",
    "address": "47 King St, Sydney, NSW, 2042, AU",
    "phone": "+610423970887",
    "website": "https://www.hecticdecals.com.au/",
@@ -8770,6 +8795,7 @@
   {
    "name": "Lyneham Brain Space",
    "group": "unknown",
+   "city": "Lyneham",
    "address": "Unit 1B 15 Hall St, Lyneham, ACT, 2602, Australia",
    "phone": "0491 601 407",
    "website": "https://lynehambrainspace.com.au/",
@@ -8841,6 +8867,7 @@
   {
    "name": "Maverick's Collectables",
    "group": "unknown",
+   "city": "Caboolture",
    "address": "2/46 Beerburrum Rd, Caboolture, QLD, 4510, Australia",
    "phone": "61493466504",
    "website": "https://www.maverickscollectables.com.au",
@@ -9021,6 +9048,7 @@
   {
    "name": "Misfits United",
    "group": "unknown",
+   "city": "Brisbane",
    "address": "440 Oxley Ave, Brisbane, QLD, 4020, AU",
    "phone": "+610732838769",
    "website": "https://shop.misfitsunited.com.au/password",
@@ -9603,6 +9631,7 @@
   {
    "name": "Premier Organzier - Let's Play Games",
    "group": "unknown",
+   "city": "Wetherill Park",
    "address": "Let's Play Games , Wetherill Park , NSW, 2164, Australia",
    "phone": "+6111111",
    "website": "https://anzmtg.com.au/",
@@ -10264,6 +10293,7 @@
   {
    "name": "T One Australia",
    "group": "unknown",
+   "city": "Reservoir",
    "address": "23 Johnson St, Reservoir, VIC, 3073, AU",
    "phone": "61433099989",
    "website": "https://www.toneaus.com.au/",
@@ -10722,6 +10752,7 @@
   {
    "name": "The Dark Magician Pop Culture Superstore",
    "group": "unknown",
+   "city": "Ipswich",
    "address": "203 Brisbane Street, Ipswich, QLD, 4305, Australia",
    "phone": "+61450977373",
    "website": "https://dark-magician-games.myshopify.com/",
@@ -10873,6 +10904,7 @@
   {
    "name": "The Goose & Squirrel",
    "group": "unknown",
+   "city": "Maitland",
    "address": "Unit 2, 3-5 Elgin St, Maitland, NSW, 2320, AUS",
    "phone": "610240325685",
    "website": "http://www.gooseandsquirrel.com.au/",
@@ -11476,6 +11508,7 @@
   {
    "name": "Warhold Australia",
    "group": "unknown",
+   "city": "Boonah",
    "address": "2/2a Church St, Boonah, QLD, 4310, Australia",
    "phone": "+61484851368",
    "website": "https://www.warhold.com.au/",

@@ -7,6 +7,7 @@
   {
    "name": "BANTYO TCG HK 番長連合",
    "group": "public_buylist",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "301D&308A, 3/F, Sunbeam Centre, 27, 3樓301D&308A室, 日昇中心, 27號 Shing Yip St, Kwun Tong, Kowloon",
    "phone": "6382 6651",
@@ -17,6 +18,7 @@
   {
    "name": "Card Holo",
    "group": "quote_only",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "19F, The Hedon, 11 Matheson St, Causeway Bay, Hong Kong Island",
    "phone": "9723 9021",
@@ -27,6 +29,7 @@
   {
    "name": "Cardland 卡之島 | 香港卡鋪專門店",
    "group": "quote_only",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "A座5樓12A室, Hoi Luen Industrial Centre, Kwun Tong, Kowloon",
    "phone": "9457 7992",
@@ -37,6 +40,7 @@
   {
    "name": "buyway.hk",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "彌敦道 642-646 號陶德大廈 1/F 646 室 Flat 646, 1 Floor, Building, 642, Tao Tak, 646 Nathan Rd, Mong Kok, Kowloon",
    "phone": "6082 6622",
@@ -46,6 +50,7 @@
   {
    "name": "Card Game Station",
    "group": "blocked",
+   "city": "Castle Peak Rd",
    "region": "Kowloon",
    "address": "Kowloon, Lai Chi Kok, Castle Peak Rd, 658號2樓212室",
    "phone": "6993 1619",
@@ -55,6 +60,7 @@
   {
    "name": "Clark's Comics 簡基勒美國漫畫專門店",
    "group": "blocked",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "B13 Basement, Causeway Bay Centre, 15 Sugar St, Causeway Bay, Hong Kong Island",
    "phone": "2890 7718",
@@ -64,6 +70,7 @@
   {
    "name": "Dragon Centre",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Dragon Centre, 37K號 Yen Chow St, Sham Shui Po, Kowloon",
    "phone": "2360 0982",
@@ -73,6 +80,7 @@
   {
    "name": "Elegant Tang Dynasty",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "SHOP E1, Alpha House, 27-33 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "phone": "3188 5177",
@@ -82,6 +90,7 @@
   {
    "name": "eslite bookstore Causeway Bay",
    "group": "blocked",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "8 樓, 9 樓, 10 樓, 500號 Hennessy Rd, Causeway Bay, Hong Kong Island",
    "phone": "3419 6789",
@@ -100,6 +109,7 @@
   {
    "name": "Perfect10 Entertainment",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop M39 M/F, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
    "phone": "6513 1412",
@@ -117,6 +127,7 @@
   {
    "name": "The RGB 天堂 / The RGB Heaven - RETRO GAME STORE 懷舊遊戲",
    "group": "blocked",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "沙田 石門 京瑞廣場二期 8樓J室 / Unit J, 8/F, Kings Wing Plaza 2, Shek Mun, Sha Tin, New Territories",
    "website": "https://www.carousell.com.hk/u/rgb_heaven/",
@@ -125,6 +136,7 @@
   {
    "name": "Toys Club",
    "group": "blocked",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "9/F, 1-3 Wyndham St, Central, Hong Kong Island",
    "phone": "2167 8474",
@@ -134,6 +146,7 @@
   {
    "name": "Wo Che Plaza",
    "group": "blocked",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "3號 Tak Hau St, Sha Tin, New Territories",
    "phone": "2605 3559",
@@ -143,6 +156,7 @@
   {
    "name": "Ying Kee Trading",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "G/F, 163 Yu Chau St, Sham Shui Po, Kowloon",
    "phone": "2725 2373",
@@ -152,6 +166,7 @@
   {
    "name": "Zeta Trading Co",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "141 Castle Peak Road, Kiu Kiang St, Sham Shui Po, Kowloon",
    "phone": "5226 1210",
@@ -161,6 +176,7 @@
   {
    "name": "電電屋 Den Den House",
    "group": "blocked",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Flat E2, 13/F, Phase 1, Kaiser Estate, 41 Man Yue St, Hung Hom, Kowloon",
    "phone": "6441 4730",
@@ -170,6 +186,7 @@
   {
    "name": "138 Arena",
    "group": "in_store",
+   "city": "Jaffe Rd",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Jaffe Rd, 522號1/F",
    "phone": "5588 4180",
@@ -178,6 +195,7 @@
   {
    "name": "155CSW",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Un Chau St, Cheung Sha Wan, Kowloon",
    "phone": "5662 8896",
@@ -186,6 +204,7 @@
   {
    "name": "9sss.tcg",
    "group": "in_store",
+   "city": "Golden Computer Arcade",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Fuk Wa St, Golden Computer Arcade, 地下7號舖",
    "phone": "6521 2126",
@@ -195,6 +214,7 @@
   {
    "name": "A JOY HK LTD",
    "group": "in_store",
+   "city": "Lai Chi Kok",
    "address": "Room 416A 4/F Elite IND Centre, 883 Cheung Sha Wan Road, Lai Chi Kok, Kln, Hong Kong, Lai Chi Kok, 000, Hong Kong",
    "phone": "+8526704 2789",
    "website": "https://www.facebook.com/ajoyhk",
@@ -206,6 +226,7 @@
   {
    "name": "Ace Card Company Hong Kong",
    "group": "in_store",
+   "city": "商場",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, E Point Rd, 商場 1樓 144號舖",
    "phone": "6296 9692",
@@ -214,6 +235,7 @@
   {
    "name": "ACTION",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Choi Hung Estate Chui King House, 2 Ching Yeung Ave, Choi Hung Estate, Kowloon",
    "phone": "2434 2434",
@@ -222,6 +244,7 @@
   {
    "name": "Aurora 卡牌專門店",
    "group": "in_store",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Un Chau St, 162-188號天悅廣場112號鋪",
    "phone": "6111 9971",
@@ -231,6 +254,7 @@
   {
    "name": "Baoan3rdrd",
    "group": "in_store",
+   "city": "Lai Chi Lok",
    "address": "Room 305, Kowloon Plaza, Castle Peak Rd 485, Hong Kong, Lai Chi Lok, Hong Kong SAR, 000000, Hong Kong",
    "phone": "85252309812",
    "games_events": [
@@ -241,6 +265,7 @@
   {
    "name": "Basic Land Card Game Shop",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "President Commercial Centre, 608 Nathan Rd, Mong Kok, Hong Kong, Kowloon",
    "phone": "93000421 / 67476513",
@@ -253,6 +278,7 @@
   {
    "name": "Basic Land/基本地",
    "group": "in_store",
+   "city": "Mong Kok",
    "address": "FT 1506 15/F President , KOWLOON, Mong Kok, 000, Hong Kong",
    "phone": "+8526747 6513",
    "website": "https://www.facebook.com/Basicland20",
@@ -272,6 +298,7 @@
   {
    "name": "BasicLand Card Game Shop WC",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "On Hong Commercial Building, Hennessy Rd, Wan Chai, Hong Kong, Hong Kong Island",
    "games_events": [
@@ -282,6 +309,7 @@
   {
    "name": "Battlefield",
    "group": "in_store",
+   "city": "Southern District",
    "address": "flat7, 6floor, Fullagar Industrial aberdeen main road, Southern District , Hong Kong, Southern District, 000, Hong Kong",
    "phone": "+85251151002",
    "website": "https://www.facebook.com/profile.php?id=100090249884880",
@@ -293,6 +321,7 @@
   {
    "name": "Battlefield Hobby Card and TCG Shop",
    "group": "in_store",
+   "city": "Fullagar Industrial Building",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Aberdeen, Aberdeen Main Rd, 234號, Fullagar Industrial Building, 607室",
    "phone": "6711 0599",
@@ -301,6 +330,7 @@
   {
    "name": "BATTLEGROUND COMPANY",
    "group": "in_store",
+   "city": "Kowloon",
    "address": "105-107, 1/F, D2 Place Two, Cheung Shun ST 15, Lai Chi Kwok, KLN, Kowloon, Hong Kong SAR, 000, Hong Kong",
    "phone": "+85297555238",
    "website": "https://www.facebook.com/battleground.hk/?locale=zh_TW",
@@ -312,6 +342,7 @@
   {
    "name": "Beard Card",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Un Chau St, Hong Kong, Kowloon",
    "phone": "+852 91884483",
@@ -324,6 +355,7 @@
   {
    "name": "Beehive Trading Card Shop",
    "group": "in_store",
+   "city": "Kwun Tong",
    "region": "Kowloon",
    "address": "Flat A, 1/F Selwyn Factory Building, 404 Kwun Tong Road, Hong Kong, Kwun Tong, 000, Hong Kong",
    "phone": "+85223678086",
@@ -336,6 +368,7 @@
   {
    "name": "Blazing Dragon Cards and Toys Ltd",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "14號 Tai Yau St, San Po Kong, Kowloon",
    "phone": "6717 5715",
@@ -344,6 +377,7 @@
   {
    "name": "Card Buddies",
    "group": "in_store",
+   "city": "North Point",
    "region": "Hong Kong Island",
    "address": "Room 1601, 16/F, Java 108 Commercial Centre, No. 108 Java Road, North Point, , North Point, Hong Kong, 000, Hong Kong",
    "phone": "+85262883062",
@@ -356,6 +390,7 @@
   {
    "name": "Card Cave Co",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Un Chau St, Hong Kong, Kowloon",
    "phone": "+852 5460 0070",
@@ -367,6 +402,7 @@
   {
    "name": "Card Charge 寶卡站",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "Flat 324, 3/F, 1號 Sui Wo Rd, Fo Tan, New Territories",
    "checked_at": "2026-10-16T21:01:22Z"
@@ -374,6 +410,7 @@
   {
    "name": "Card Express",
    "group": "in_store",
+   "city": "Mong Kok",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, 太子彌敦道760號聯合廣場地下G36號舖",
    "phone": "9793 3930",
@@ -382,6 +419,7 @@
   {
    "name": "Card Hobby HK (CWB)",
    "group": "in_store",
+   "city": "Pak Sha Rd",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Pak Sha Rd, 18號5/F",
    "phone": "9038 1840",
@@ -390,6 +428,7 @@
   {
    "name": "Card Hobby HK (Sheung Wan)",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "43 Gough St, Sheung Wan, Hong Kong Island",
    "phone": "9038 3840",
@@ -398,6 +437,7 @@
   {
    "name": "Card Hobby HK (TST)",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "96 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "checked_at": "2026-10-16T21:00:38Z"
@@ -405,6 +445,7 @@
   {
    "name": "Card Lab",
    "group": "in_store",
+   "city": "Room",
    "region": "Kowloon",
    "address": "Kowloon, Tai Wan, Man Yue St, 30號興業工商大廈4/F, Room B1",
    "phone": "6461 2153",
@@ -414,6 +455,7 @@
   {
    "name": "Card Universe",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Fast Industrial Building, 658 Castle Peak Rd, Cheung Sha Wan, Hong Kong, Kowloon",
    "phone": "94772386",
@@ -425,6 +467,7 @@
   {
    "name": "CardChill",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "1/F, 505 Lockhart Rd, Causeway Bay, Hong Kong Island",
    "phone": "5471 2159",
@@ -434,6 +477,7 @@
   {
    "name": "Carddesu",
    "group": "in_store",
+   "city": "Foo Ming St",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Foo Ming St, 1-5號1樓1C室",
    "phone": "6316 1928",
@@ -443,6 +487,7 @@
   {
    "name": "CardKingdomHK",
    "group": "in_store",
+   "city": "Mong Kok",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, 銀城地庫B82鋪",
    "phone": "9402 6974",
@@ -452,6 +497,7 @@
   {
    "name": "Cardtheland",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Kaiser Estate Phase 2, Man Lok St, Hok Yuen, Kowloon",
    "phone": "6573 2844",
@@ -460,6 +506,7 @@
   {
    "name": "CARMEN GAME STORE",
    "group": "in_store",
+   "city": "大圍",
    "region": "New Territories",
    "address": "New Territories, 沙田, 大圍, 上徑口16號地下",
    "phone": "9877 7402",
@@ -468,6 +515,7 @@
   {
    "name": "Century Hobby Models Shop",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Richmond Shopping Arcade, B/F, B20-21, Mong Kok, Kowloon",
    "phone": "2393 7082",
@@ -476,6 +524,7 @@
   {
    "name": "CHIIKAWA SHOP in HONG KONG",
    "group": "in_store",
+   "city": "Mong Kok",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, MOKO新世紀廣場地下M10舖及2樓236舖",
    "website": "https://www.instagram.com/chiikawa.shop.hk",
@@ -484,6 +533,7 @@
   {
    "name": "Chinese products",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Block 1, 303, LIU DI, XIAOTANG, SHISHAN, FOSHAN, Ma Tau Wai, Kowloon",
    "phone": "150 1462 9447",
@@ -492,6 +542,7 @@
   {
    "name": "Comicity",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "20/F Sunrise Ind Bldg, 10 Hong Man St, Chai Wan, Hong Kong Island",
    "phone": "5234 4214",
@@ -500,6 +551,7 @@
   {
    "name": "CONFLUENCE",
    "group": "in_store",
+   "city": "Fat Lee Industrial Building",
    "address": "RM 607, 6/F, Fat Lee Industrial Building, 17 Hung To Road,",
    "phone": "+8526680 5329",
    "website": "https://www.facebook.com/ConfluenceMTGHK",
@@ -519,6 +571,7 @@
   {
    "name": "Dragon Nest Game Limited",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Wui Wah Factory Building, 41 Wing Hong St, Cheung Sha Wan, Kowloon, Hong Kong, Kowloon",
    "phone": "+852 9223 4651",
@@ -530,6 +583,7 @@
   {
    "name": "DREAM TRADING CARD",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "298 Hennessy Rd, Wan Chai, Hong Kong, Hong Kong Island",
    "phone": "5903 6811",
@@ -541,6 +595,7 @@
   {
    "name": "DUBAI TCG LIMITED 杜拜卡牌有限公司",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "UNIT 22A, 4/F, Chiu Tat Factory Building, 108-110 King Fuk St, San Po Kong, Kowloon",
    "phone": "9317 3139",
@@ -550,6 +605,7 @@
   {
    "name": "DuckDraw.Tcg.Store",
    "group": "in_store",
+   "city": "Nathan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號號 2105",
    "phone": "5131 9514",
@@ -559,6 +615,7 @@
   {
    "name": "Faith Select Goods Company",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "4樓03室, 9號 Yin Chong St, Mong Kok, Kowloon",
    "phone": "5117 9904",
@@ -567,6 +624,7 @@
   {
    "name": "Firm TCG",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "1st Floor, 62 Sai Yeung Choi St S, Mong Kok, Kowloon",
    "phone": "9303 6895",
@@ -575,6 +633,7 @@
   {
    "name": "Flawless Card Shop",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Room 246, Sino Centre, Nathan Rd, Mong Kok, Kowloon",
    "phone": "6230 7310",
@@ -583,6 +642,7 @@
   {
    "name": "Game Mega 遊戲極",
    "group": "in_store",
+   "city": "On Kwan St",
    "region": "New Territories",
    "address": "New Territories, Siu Lek Yuen, On Kwan St, 1號京瑞廣場二期1樓101-C15舖",
    "phone": "6685 1177",
@@ -592,6 +652,7 @@
   {
    "name": "GAME'S LAIR",
    "group": "in_store",
+   "city": "Vigor Industrial Bldg",
    "address": "RM 12, 14/F Block B, Vigor Industrial Bldg.",
    "phone": "+8529470 0777",
    "website": "https://www.facebook.com/GamesLair",
@@ -603,6 +664,7 @@
   {
    "name": "Good Bad Creative (Secondhand Vintage Store)",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop B1, 124 Nam Cheong St, Sham Shui Po, Kowloon",
    "website": "https://www.instagram.com/goodbadcreative/",
@@ -611,6 +673,7 @@
   {
    "name": "GR Trading Cards",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm 705B, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
    "phone": "6365 4948",
@@ -619,6 +682,7 @@
   {
    "name": "HilltopCards",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "574, 576 Nathan Rd, Mong Kok, Hong Kong, Kowloon",
    "phone": "+852 97062529",
@@ -630,6 +694,7 @@
   {
    "name": "Hobby Treasure",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "shop 146, ins point, Mong Kok, Kowloon",
    "phone": "5100 1019",
@@ -639,6 +704,7 @@
   {
    "name": "Home-run Fabulous card shop",
    "group": "in_store",
+   "city": "KOWLOON",
    "region": "Kowloon",
    "address": "10/F , I Do Centre , 749A Nathan Road, KOWLOON, Hong Kong, KOWLOON, 000, Hong Kong",
    "phone": "+8529777 5494",
@@ -652,6 +718,7 @@
   {
    "name": "Hot Toys - Secret Base",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "20/F, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
    "phone": "3722 3988",
@@ -661,6 +728,7 @@
   {
    "name": "In's Point",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Wing Kiu Building, 530號 Nathan Rd, Yau Ma Tei, Kowloon",
    "website": "https://www.facebook.com/inspointhk/",
@@ -669,6 +737,7 @@
   {
    "name": "INCUBASE Arena",
    "group": "in_store",
+   "city": "Nathan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, B1及B2",
    "phone": "9319 0184",
@@ -678,6 +747,7 @@
   {
    "name": "Island Board Game/小島桌遊",
    "group": "in_store",
+   "city": "Room D",
    "region": "New Territories",
    "address": "Room D,4/F  Effort Industrial Building  2-8 KungYip Street,",
    "phone": "+852+85261717436",
@@ -691,6 +761,7 @@
   {
    "name": "KaBoom TCG Store",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "6樓B室, 好運工業大廈, 105號 How Ming St, Kwun Tong, Kowloon",
    "phone": "6279 3289",
@@ -699,6 +770,7 @@
   {
    "name": "KAYOU 卡遊香港K11Art Mall 店",
    "group": "in_store",
+   "city": "Hanoi Rd",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, Hanoi Rd, 310-311號, K11, K11 Art Mall, 3层号铺KAYOU(尖沙咀地铁站",
    "phone": "6062 9768",
@@ -707,6 +779,7 @@
   {
    "name": "KeroTCG LIMITED",
    "group": "in_store",
+   "city": "Au Pui Wan St",
    "region": "New Territories",
    "address": "New Territories, Fo Tan, Au Pui Wan St, 37-39號沙⽥峰達工業⼤廈4樓2室",
    "phone": "6060 4061",
@@ -716,6 +789,7 @@
   {
    "name": "KEZ TCG SHOP",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "6/F, F1-08, Phase 1, 2 Hok Yuen St, Hung Hom, Kowloon",
    "phone": "4614 9500",
@@ -724,6 +798,7 @@
   {
    "name": "KOSU CARD",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "3/f, 520 Lockhart Rd, Causeway Bay, Hong Kong Island",
    "phone": "5590 8508",
@@ -732,6 +807,7 @@
   {
    "name": "KURA TCG",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Unit 3B, 3/F, 2-6 Foo Ming St, Causeway Bay, Hong Kong Island",
    "phone": "5213 7852",
@@ -740,6 +816,7 @@
   {
    "name": "League Castle - Mong Kok",
    "group": "in_store",
+   "city": "Canton Plaza",
    "address": "6/F, Canton Plaza , 1125-1127 Canton Road,",
    "phone": "+8522380 0316",
    "website": "https://www.facebook.com/LeagueCastleHK",
@@ -751,6 +828,7 @@
   {
    "name": "League Castle - Wan Chai",
    "group": "in_store",
+   "city": "Wan Chai",
    "address": "Rm1702 , 17/F, Wan Chai Comm .,CTR, 194-206 Johnston Road, Wan Chai, Hong Kong, Hong Kong SAR, 000, Hong Kong",
    "phone": "+8522380 0316",
    "website": "https://www.facebook.com/LeagueCastleHK",
@@ -762,6 +840,7 @@
   {
    "name": "League Castle Company (Langham Plaza)",
    "group": "in_store",
+   "city": "Level",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Argyle St, 8號Langham PlaceShop 30-31, Level 10",
    "phone": "6226 3599",
@@ -770,6 +849,7 @@
   {
    "name": "League Castle Company (Mong Kok Shop)",
    "group": "in_store",
+   "city": "Canton Plaza",
    "region": "九龍",
    "address": "九龍旺角廣東道1125號, Canton Plaza, 6/F",
    "phone": "2380 0316",
@@ -779,6 +859,7 @@
   {
    "name": "League Castle-D.PARK",
    "group": "in_store",
+   "city": "N.T",
    "address": "Shop No. 1056a on Level 1 of D-Park, 398 Castle Peak Road, Tsuen Wan, N.T., Hong Kong, Hong Kong,  N.T., 000, Hong Kong",
    "phone": "+8526226 3599",
    "website": "https://www.facebook.com/LeagueCastleHK.MongKok",
@@ -790,6 +871,7 @@
   {
    "name": "League Castle-Langham Place",
    "group": "in_store",
+   "city": "Mong Kok",
    "address": "K901. 9/F, Langham Place , 8 Argyle Street, Mong Kok , KLN., Hong Kong, Hong Kong, Mong Kok, 000, Hong Kong",
    "phone": "+8526226 3599",
    "website": "https://www.facebook.com/LeagueCastleHK",
@@ -801,6 +883,7 @@
   {
    "name": "League Castle-Tuen Mun",
    "group": "in_store",
+   "city": "Tuen Mun",
    "address": "RM G, 7/F, Wai Cheung Industrial Centre,, 5 Shek Pai Tau Road,, N.T., Tuen Mun, 000, Hong Kong",
    "phone": "+85293403998",
    "website": "https://www.facebook.com/LeagueCastleHK",
@@ -812,6 +895,7 @@
   {
    "name": "Legendary TCG",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 206 2/F, iSQUARE, 63 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9059 8693",
@@ -830,6 +914,7 @@
   {
    "name": "MAGIC STAR",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "182, 190 Tai Lin Pai Rd, Kwai Chung, Hong Kong, New Territories",
    "games_events": [
@@ -840,6 +925,7 @@
   {
    "name": "MAGIC TEENS/魔法少年",
    "group": "in_store",
+   "city": "Kowloon",
    "address": "155-181 Castle Peak road, Sham Shui Po, Hong Kong, Kowloon, 000, Hong Kong",
    "phone": "+852 96385796",
    "website": "https://www.facebook.com/profile.php?id=100057501337839",
@@ -851,6 +937,7 @@
   {
    "name": "May Toys 五月玩具店",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Hong Kong Mong Kok 總店：旺角信和中心一樓121號鋪 分店：旺角信和中心二樓208號鋪 分店：八樓803室 Sino Centre. Hong Kong Mong Kok Head Office: Shop 121 1/F Shun Wo Centre Mong Kok Branch: Shop 208 2/F Shun Wo Centre Mong Kok Branch: Room 803 8/F, Sino Centre, 582-592 Nathan Rd, Mong Kok, Kowloon",
    "phone": "9521 0708",
@@ -860,6 +947,7 @@
   {
    "name": "MegaBox",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "38號 Wang Chiu Rd, Kowloon Bay, Kowloon",
    "phone": "2989 3000",
@@ -869,6 +957,7 @@
   {
    "name": "MENKO - TCG vending machine",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "16 Knutsford Terrace, Tsim Sha Tsui, Kowloon",
    "phone": "6838 3842",
@@ -877,6 +966,7 @@
   {
    "name": "Mikaeru Tcg",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 212, 2F, iSQUARE, 63 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "phone": "6077 9995",
@@ -885,6 +975,7 @@
   {
    "name": "Mithril Grand Centre",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Hong Kong Industrial Centre Block A, 489-491 Castle Peak Rd, Cheung Sha Wan, Hong Kong, Kowloon",
    "phone": "+852 9855 1030",
@@ -916,6 +1007,7 @@
   {
    "name": "MOX SAGA",
    "group": "in_store",
+   "city": "Jordan",
    "region": "Kowloon",
    "address": "Room 13A, Justen Centre, 44-52 Wai Ching Street, Jordan",
    "phone": "+85293013229",
@@ -929,6 +1021,7 @@
   {
    "name": "NBA Store Hong Kong",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 201-202, L2, The Forest, 17 Nelson St, Mong Kok, Kowloon",
    "phone": "2381 6268",
@@ -937,6 +1030,7 @@
   {
    "name": "NBH TRADING HONGKONG",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm 409, Beverley Commercial Centre, 87/107 Chatham Rd S, Tsim Sha Tsui, Kowloon",
    "phone": "6572 2667",
@@ -945,6 +1039,7 @@
   {
    "name": "NEXUSFORGE (NF) TCG",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "2/F, S91/S90/S89, RED MALL, 501-515 Jaffe Rd, Causeway Bay, Hong Kong Island",
    "phone": "5248 8825",
@@ -962,6 +1057,7 @@
   {
    "name": "One Chance",
    "group": "in_store",
+   "city": "Shing Yip St",
    "region": "Kowloon",
    "address": "Kowloon, Kwun Tong, Shing Yip St, 30號8樓807室",
    "phone": "5544 2771",
@@ -971,6 +1067,7 @@
   {
    "name": "ONE OF ONE CARD STORE",
    "group": "in_store",
+   "city": "Nathan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 1樓號582號至592號113號鋪",
    "phone": "4402 7455",
@@ -979,6 +1076,7 @@
   {
    "name": "Ookee ptcghk",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "旺角現時點, 2/F Cube locker i4格, Mong Kok, Kowloon",
    "phone": "6253 8239",
@@ -987,6 +1085,7 @@
   {
    "name": "permanently closed",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "3/F, 26 Russell St, Causeway Bay, Hong Kong Island",
    "phone": "6726 2772",
@@ -995,6 +1094,7 @@
   {
    "name": "Pikabox",
    "group": "in_store",
+   "city": "Apple Mall",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Dragon Centre, Apple Mall, 6樓6162號",
    "phone": "5534 1637",
@@ -1004,6 +1104,7 @@
   {
    "name": "Players’Club TCG",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "2樓210號鋪, 63 I SQUARE, Nathan Rd, Tsim Sha Tsui, Kowloon",
    "phone": "5406 7569",
@@ -1013,6 +1114,7 @@
   {
    "name": "Pocha Cards",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm A, Floor 6, Southgate Commercial Centre, 29 Granville Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9449 4002",
@@ -1022,6 +1124,7 @@
   {
    "name": "Poke Mart Hong Kong",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Unit 1901, 19/F, Grand Place, 560 Nathan Rd, Mong Kok, Kowloon",
    "phone": "6281 2223",
@@ -1030,6 +1133,7 @@
   {
    "name": "R.S.(H.K.) COMPANY LTD",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "Unit 17 , 7/F, 30-32 Au Pui Wan St, Fo Tan, New Territories",
    "phone": "2389 8297",
@@ -1038,6 +1142,7 @@
   {
    "name": "Rapid Star",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Union Hing Yip Factory Building, 20 Hing Yip St, Kwun Tong, Hong Kong, Kowloon",
    "games_events": [
@@ -1048,6 +1153,7 @@
   {
    "name": "Richmond Shopping Arcade",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "109號 Argyle St, Mong Kok, Kowloon",
    "website": "https://www.facebook.com/pages/%E7%9A%86%E6%97%BA%E5%95%86%E5%A0%B4/199872510049374",
@@ -1056,6 +1162,7 @@
   {
    "name": "San Draw",
    "group": "in_store",
+   "city": "Tsuen Wan",
    "address": "m. 1233-34, 12 Floor, Nan Fung Centre, , Tsuen Wan, Hong Kong, HKG, Hong Kong",
    "phone": "85291672820",
    "website": "https://www.instagram.com/sandrawtcg_hk/",
@@ -1067,6 +1174,7 @@
   {
    "name": "SevenToys ( In's Point Shop 251-252)",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "25-27 Luk Hop St, Diamond Hill, Kowloon",
    "phone": "5686 2107",
@@ -1076,6 +1184,7 @@
   {
    "name": "Sham Shui Po Toy Street",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Fuk Wing St, Sham Shui Po, Kowloon",
    "checked_at": "2026-10-16T21:01:00Z"
@@ -1083,6 +1192,7 @@
   {
    "name": "Sharakudou",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Basement, 44, 48 Yun Ping Rd, Causeway Bay, Hong Kong Island",
    "phone": "2576 9929",
@@ -1092,6 +1202,7 @@
   {
    "name": "SHAU SING TRADING CARD SHOP",
    "group": "in_store",
+   "city": "Sino Centre",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, 2樓 241舖",
    "checked_at": "2026-10-16T20:59:44Z"
@@ -1099,6 +1210,7 @@
   {
    "name": "Sino Centre",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Sino Centre, Nathan Rd, Mong Kok, Kowloon",
    "phone": "2770 7598",
@@ -1107,6 +1219,7 @@
   {
    "name": "SMILE Card Shop",
    "group": "in_store",
+   "city": "iSQUARE",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, Nathan Rd, 63號, iSQUARE, 二樓204",
    "phone": "4713 7069",
@@ -1116,6 +1229,7 @@
   {
    "name": "Smiling Plaza",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "174-188號 Un Chau St, Sham Shui Po, Kowloon",
    "phone": "2361 9813",
@@ -1124,6 +1238,7 @@
   {
    "name": "Sportscard Gems Limited",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "S72-73, UG/F China Hong Kong City, 33 Canton Rd, Tsim Sha Tsui, Kowloon",
    "checked_at": "2026-10-16T21:00:42Z"
@@ -1140,6 +1255,7 @@
   {
    "name": "TCG Express",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Sun Kwong Industrial Building, 11B Tung Chau W St, Cheung Sha Wan, Kowloon",
    "phone": "5581 7652",
@@ -1158,6 +1274,7 @@
   {
    "name": "TcgStore.HK",
    "group": "in_store",
+   "city": "Lai Yuen Building",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Russell St, 61號, Lai Yuen Building, 2C",
    "phone": "5505 0077",
@@ -1166,6 +1283,7 @@
   {
    "name": "ThisCARD Taipo",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "新界大埔墟, 3/F, Tai Po Merchants Association Heung Yee Kuk Building, Shung Tak St, Tai Po, New Territories",
    "phone": "5119 3893",
@@ -1174,6 +1292,7 @@
   {
    "name": "TOP DECK TRADING CARD GAME",
    "group": "in_store",
+   "city": "Cheung Sha Wan",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, 天悅廣場2/F215號",
    "phone": "9575 6061",
@@ -1182,6 +1301,7 @@
   {
    "name": "Toy Hunters",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 218, Ctma Centre, 1 Sai Yeung Choi St S, Mong Kok, Kowloon",
    "phone": "2388 4677",
@@ -1190,6 +1310,7 @@
   {
    "name": "Toyeki",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "彌敦道700號T.O.P. 1樓106舖, Mong Kok, Kowloon",
    "phone": "3619 0086",
@@ -1198,6 +1319,7 @@
   {
    "name": "Trigger",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Fast Industrial Building, 658 Castle Peak Rd, Cheung Sha Wan, Hong Kong, Kowloon",
    "games_events": [
@@ -1208,6 +1330,7 @@
   {
    "name": "Turbo TCG",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shing Yip St, Kwun Tong, Kowloon",
    "phone": "5618 1242",
@@ -1216,6 +1339,7 @@
   {
    "name": "Uncle Cards",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "18 Hoi Ting Rd, Mong Kok, Kowloon",
    "checked_at": "2026-10-16T20:59:44Z"
@@ -1223,6 +1347,7 @@
   {
    "name": "Uncle9 Hobby",
    "group": "in_store",
+   "city": "Woon Lee Commercial Building",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, Austin Ave, Woon Lee Commercial Building, 7, 7樓63室",
    "phone": "176 6549 8009",
@@ -1231,6 +1356,7 @@
   {
    "name": "WEATHERLIGHT-HK/晴空號-香港",
    "group": "in_store",
+   "city": "Kowloon",
    "address": "Unit 35, 6/F, Shing Yip Industrial Building, 19-21 Shing Yip Street,, Hong Kong, Kowloon, 000, Hong Kong",
    "phone": "+8529311 1843",
    "website": "https://www.facebook.com/skyshiphk/",
@@ -1242,6 +1368,7 @@
   {
    "name": "wellmax",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Mody Rd, Tsim Sha Tsui, Kowloon",
    "checked_at": "2026-10-16T21:01:00Z"
@@ -1249,6 +1376,7 @@
   {
    "name": "www.mtgmintcard.com",
    "group": "in_store",
+   "city": "Heep Kee Commercial Bldg",
    "address": "Flat B, 9/F, Heep Kee Commercial Bldg.",
    "phone": "+8522815 0097 ",
    "website": "https://www.facebook.com/mtgmintcard",
@@ -1260,6 +1388,7 @@
   {
    "name": "Yamacardo Limited",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "54號 Hoi Yuen Rd, Kwun Tong, Hong Kong, Kowloon",
    "phone": "+852 6551 3120",
@@ -1271,6 +1400,7 @@
   {
    "name": "Yuu Shin Machi",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "615-617 Tai Nan W St, Cheung Sha Wan, Hong Kong, Kowloon",
    "phone": "852 51105961",
@@ -1282,6 +1412,7 @@
   {
    "name": "一代滙集動漫部",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "219室, Sino Centre, 582-592號 Nathan Rd, Mong Kok, Kowloon",
    "phone": "2782 0518",
@@ -1291,6 +1422,7 @@
   {
    "name": "中國書畫古玩瓷藝術品玉器 收購",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "4樓, Granville Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9336 0150",
@@ -1299,6 +1431,7 @@
   {
    "name": "元朗山比高小說漫畫屋",
    "group": "in_store",
+   "city": "地下Q舖閣樓",
    "region": "New Territories",
    "address": "New Territories, Yuen Long, Ma Miu Rd, 12-42號, Wing Fat House, 地下Q舖閣樓",
    "phone": "5344 2628",
@@ -1308,6 +1441,7 @@
   {
    "name": "卡樂師 CARDLOS",
    "group": "in_store",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Un Chau St, 天悅廣場1樓173號舖",
    "phone": "6944 6002",
@@ -1317,6 +1451,7 @@
   {
    "name": "夢幻店",
    "group": "in_store",
+   "city": "W",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, President Commercial Centre, W 商場3樓 324號鋪",
    "phone": "9626 6696",
@@ -1334,6 +1469,7 @@
   {
    "name": "手痕 Card Guy",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Great George St, Causeway Bay, Hong Kong Island",
    "website": "https://www.instagram.com/cwb.ptcg?igsh=MXRrZWlzdWVsdzJyNg%3D%3D&utm_source=qr",
@@ -1342,6 +1478,7 @@
   {
    "name": "日出之國",
    "group": "in_store",
+   "city": "室",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Tonkin St, 31號1206 室",
    "website": "https://www.facebook.com/sunrisekingdom.ptcg/",
@@ -1350,6 +1487,7 @@
   {
    "name": "未知卡店 unknown card shop(旺角店)",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Sino Centre, Nathan Rd, Mong Kok, Kowloon",
    "phone": "5573 1079",
@@ -1358,6 +1496,7 @@
   {
    "name": "樂豐卡社 Lok Fu Card Shop",
    "group": "in_store",
+   "city": "A座C號鋪位閣樓",
    "region": "New Territories",
    "address": "New Territories, Kwai Chung, Castle Peak Rd - Kwai Chung, 450號, Ming Yin Building, A座C號鋪位閣樓",
    "phone": "6480 4338",
@@ -1367,6 +1506,7 @@
   {
    "name": "樓上咭店/Have Card",
    "group": "in_store",
+   "city": "Mong Kok",
    "region": "Kowloon",
    "address": "九龍旺角道97-99號華懋王子大廈2樓J室, Hong Kong, Mong Kok, 000, Hong Kong",
    "phone": "+85251919238",
@@ -1379,6 +1519,7 @@
   {
    "name": "樹皮天堂 RETRO GAME STORE 復古遊戲",
    "group": "in_store",
+   "city": "Ho King Commercial Centre",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Fa Yuen St, 2-16號, Ho King Commercial Centre, 1樓24-25,55-57",
    "website": "https://www.facebook.com/retrogame321/?ref=bookmarks",
@@ -1387,6 +1528,7 @@
   {
    "name": "浩揮遊戲咭專門店",
    "group": "in_store",
+   "city": "Tin Wu Rd",
    "region": "New Territories",
    "address": "New Territories, Tin Shui Wai, Tin Wu Rd, 1號A46號",
    "checked_at": "2026-10-16T21:01:22Z"
@@ -1394,6 +1536,7 @@
   {
    "name": "深之都GAME CLUB 遊戲俱樂部任天堂特約經銷商",
    "group": "in_store",
+   "city": "Cheung Sha Wan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Cheung Sha Wan Rd, 商場1樓158-159",
    "phone": "6908 1071",
@@ -1403,6 +1546,7 @@
   {
    "name": "漫畫店 Comics king 香港漫畫王",
    "group": "in_store",
+   "city": "Wing Lee Industrial Building",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Tong Mi Rd, 54-58號, Wing Lee Industrial Building, 2樓202室",
    "phone": "9259 8527",
@@ -1411,6 +1555,7 @@
   {
    "name": "玩卡地",
    "group": "in_store",
+   "city": "Cheung Sha Wan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Cheung Sha Wan Rd, 21～25號長豐商業大廈12樓1204室",
    "website": "https://www.facebook.com/p/Wanncardda-%E7%8E%A9%E5%8D%A1%E5%9C%B0-100083037985311/?locale=zh_HK",
@@ -1419,6 +1564,7 @@
   {
    "name": "異次元桌遊社 Different Dimension TCG",
    "group": "in_store",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Tsing Fung St, Causeway Bay, Hong Kong, Hong Kong Island",
    "phone": "66540922",
@@ -1431,6 +1577,7 @@
   {
    "name": "益智玩具店",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "9-13 Liberty Avenue, Grateful Time Company, Kwong Wa St, Mong Kok, Kowloon",
    "checked_at": "2026-10-16T21:01:22Z"
@@ -1438,6 +1585,7 @@
   {
    "name": "精品 (旺角Outlet)",
    "group": "in_store",
+   "city": "Sino Centre",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, 11樓1104室",
    "phone": "5938 8267",
@@ -1447,6 +1595,7 @@
   {
    "name": "純白鎮",
    "group": "in_store",
+   "city": "Sha Tin",
    "region": "New Territories",
    "address": "New Territories, Sha Tin, 石門新貿中心B座11樓1107室",
    "phone": "5430 0344",
@@ -1456,6 +1605,7 @@
   {
    "name": "脈動卡牌屋，CardioBeat",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "1樓14號鋪, 18號 Fung Kam St, Yuen Long, New Territories",
    "phone": "9059 8682",
@@ -1465,6 +1615,7 @@
   {
    "name": "至 Goal Club",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "樓231號舖, Sino Centre, Nathan Rd, Mong Kok, Kowloon",
    "phone": "2770 5502",
@@ -1474,6 +1625,7 @@
   {
    "name": "藏卡王香港 Logoman Sports Cards",
    "group": "in_store",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "4/F, Grancastle Commercial Centre, 2T Sai Yeung Choi St S, Mong Kok, Kowloon",
    "checked_at": "2026-10-16T20:59:52Z"
@@ -1481,6 +1633,7 @@
   {
    "name": "通用卡店 General Card Shop",
    "group": "in_store",
+   "city": "Tsuen Wan",
    "region": "New Territories",
    "address": "New Territories, Tsuen Wan, 香港荃灣青山道144號荃豐中心地下A59",
    "phone": "2493 2660",
@@ -1490,6 +1643,7 @@
   {
    "name": "銀河卡社Galaxy Card Store",
    "group": "in_store",
+   "city": "Shaukeiwan Plaza Lai Man Court",
    "region": "香港島",
    "address": "香港島筲箕灣筲箕灣道360A號, Shaukeiwan Plaza Lai Man Court, 天悅1003號舖",
    "phone": "6163 5251",
@@ -1498,6 +1652,7 @@
   {
    "name": "阿林書房",
    "group": "in_store",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "Yale Industrial Centre, Au Pui Wan St, Fo Tan, New Territories",
    "phone": "6974 1608",
@@ -1507,6 +1662,7 @@
   {
    "name": "雲起漫畫店",
    "group": "in_store",
+   "city": "Sino Centre",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, 2/F樓220號舖",
    "phone": "2770 5600",
@@ -1516,6 +1672,7 @@
   {
    "name": "2000Fun",
    "group": "unknown",
+   "city": "Yen Chow St",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Yen Chow St, 94號高登電腦商場43號舖",
    "phone": "2708 3123",
@@ -1525,6 +1682,7 @@
   {
    "name": "3AM TCG",
    "group": "unknown",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Un Chau St, 174-188號天悅廣場129",
    "phone": "5598 3951",
@@ -1544,6 +1702,7 @@
   {
    "name": "808 Board Game",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm 808, 8/F, Pakpolee Commercial Centre, 1A-1K Sai Yeung Choi St S, Mong Kok, Kowloon",
    "phone": "3791 2799",
@@ -1562,6 +1721,7 @@
   {
    "name": "ACard TCG",
    "group": "unknown",
+   "city": "New Treasure Centre",
    "region": "Kowloon",
    "address": "Kowloon, San Po Kong, Ng Fong St, 10號, New Treasure Centre, 19樓06室",
    "phone": "9493 9343",
@@ -1571,6 +1731,7 @@
   {
    "name": "Animate香港",
    "group": "unknown",
+   "city": "Nathan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 700號T.O.P This is Our Place四樓409A",
    "website": "https://www.animate.co.jp/zh-tc/shop/hongkong/",
@@ -1579,6 +1740,7 @@
   {
    "name": "Animes-Pro",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "61 Fuk Wing St, Sham Shui Po, Kowloon",
    "phone": "2148 9483",
@@ -1588,6 +1750,7 @@
   {
    "name": "ANT TOY 螞蟻玩具",
    "group": "unknown",
+   "city": "Tung Choi St",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Tung Choi St, 89號通財大廈1樓",
    "phone": "9087 0011",
@@ -1597,6 +1760,7 @@
   {
    "name": "BasicLand WC",
    "group": "unknown",
+   "city": "Wan Chai",
    "address": "Rm902, 9/F On Hong Commercial Building, 145 Hennessy Road, Wan Chai, Hong Kong, Hong Kong, Hong Kong SAR , 0000, Hong Kong",
    "phone": "85293000421",
    "website": "https://www.cnwizards.com/stores/local",
@@ -1609,6 +1773,7 @@
   {
    "name": "Battleground Flagship Experience House",
    "group": "unknown",
+   "city": "Kwun Tong",
    "address": "Shop Nos. 701–706, 7/F, Scramble Hill, 98 How Ming Street, Kwun Tong, Hong Kong, Hong Kong, Hong Kong SAR, 000000, Hong Kong",
    "phone": "85293672064",
    "website": "https://www.cnwizards.com/stores/local",
@@ -1621,6 +1786,7 @@
   {
    "name": "Battleground 卡牌遊戲及桌遊專門店",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "105-107 1/F, D2 Place Two15 Cheung Shun St, Lai Chi Kok, Kowloon",
    "phone": "9529 5720",
@@ -1630,6 +1796,7 @@
   {
    "name": "BattlegroundHK",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Great Wall Factory Building, 11 Cheung Shun St, Cheung Sha Wan, Hong Kong, Kowloon",
    "phone": "85297555238",
@@ -1642,6 +1809,7 @@
   {
    "name": "Bear一聲漫畫圖書館",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "軒 尼 號 海外 大廈 6 樓 電梯 按 5 字, Overseas Building, 417-421 Hennessy Rd, Causeway Bay, Hong Kong Island",
    "phone": "2574 9436",
@@ -1651,6 +1819,7 @@
   {
    "name": "BENGAL TCG",
    "group": "unknown",
+   "city": "Nathan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 610號荷李活商業中心7樓21室",
    "phone": "6405 5651",
@@ -1660,6 +1829,7 @@
   {
    "name": "Black Label by Unity Toy",
    "group": "unknown",
+   "city": "Place",
    "region": "Kowloon",
    "address": "Kowloon, Lai Chi Kok, Cheung Shun St, 15號D2 Place Two2樓218號舖",
    "phone": "5743 2628",
@@ -1679,6 +1849,7 @@
   {
    "name": "c!ty’super New Town Plaza",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "Shops 204-214, New Town Plaza 1, Sha Tin, New Territories",
    "phone": "2736 3866",
@@ -1688,6 +1859,7 @@
   {
    "name": "Capstone Boardgame 桌上遊戲專門店",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "銅鑼灣軒尼斯道438-444號,金鵝商業大廈, 23樓 全層 23/F, Golden Swan Commercial Building, 438-444 Hennessy Rd, Causeway Bay, Hong Kong Island",
    "phone": "2577 5388",
@@ -1697,6 +1869,7 @@
   {
    "name": "Card Card Fruit",
    "group": "unknown",
+   "city": "floor)",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 582-592號, Sino Centre, Please use the elevators on the right to reach theRoom 1704, 17/F17th floor) 旺角信和中心17樓1704室（請往右邊乘搭升降機到17樓",
    "website": "https://cardcardfruit.com/",
@@ -1705,6 +1878,7 @@
   {
    "name": "Card Galleria",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Unit 62, Apple Mall, 15-31 Hysan Ave, Causeway Bay, Hong Kong Island",
    "phone": "9541 7751",
@@ -1714,6 +1888,7 @@
   {
    "name": "Card's Village",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Ka Ming Court Building, 688-690 Castle Peak Rd, Lai Chi Kok, Hong Kong, Kowloon",
    "phone": "+852 5508 4964",
@@ -1727,6 +1902,7 @@
   {
    "name": "CardBay",
    "group": "unknown",
+   "city": "Pak Sha Rd",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Pak Sha Rd, 13號3樓",
    "phone": "6757 1008",
@@ -1736,6 +1912,7 @@
   {
    "name": "CardGET",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "G/F, Shop D, 2 Pak Sha Rd, Causeway Bay, Hong Kong Island",
    "website": "https://addpockco.wixsite.com/cardget",
@@ -1744,6 +1921,7 @@
   {
    "name": "Chalice Collectibles HK",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "207, Isquare, 63 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "phone": "9445 1179",
@@ -1753,6 +1931,7 @@
   {
    "name": "CHAMPION HALL",
    "group": "unknown",
+   "city": "中国",
    "region": "Hong Kong Island",
    "address": "香港銅鑼灣糖街15至23號銅鑼灣中心商場9樓903室, Hong Kong, Hong Kong SAR, 000000, 中国",
    "phone": "8592426164",
@@ -1774,6 +1953,7 @@
   {
    "name": "CiaoCard 丨日版美版PTCG集換式卡牌專門店",
    "group": "unknown",
+   "city": "Cheung Sha Wan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Lai Chi Kok, Cheung Sha Wan Rd, 883號號億利工業中心2樓17E室",
    "phone": "5476 3965",
@@ -1783,6 +1963,7 @@
   {
    "name": "Collector's Dream TCG",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "LOBBY G/F 208, FOURSEAS BUILDING, 212 Nathan Rd, Jordan, Kowloon",
    "phone": "5510 1350",
@@ -1792,6 +1973,7 @@
   {
    "name": "COMBO TCG",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Hong Kong, Sham Shui Po, Un Chau St, 162號天悅廣場1樓129號店, Kowloon",
    "phone": "+852 98877965",
@@ -1804,6 +1986,7 @@
   {
    "name": "DMA 泛音 - 旺角星際城市門市",
    "group": "unknown",
+   "city": "No",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Shantung St, 47-51號HK 九龍 旺角 九龍旺角山東街 47 - 51 號星際城市 2 樓 219 - 223 號 Unit 219 - 223, 2/F., Sim City, No",
    "phone": "3971 0242",
@@ -1813,6 +1996,7 @@
   {
    "name": "DMZ",
    "group": "unknown",
+   "city": "Ngau Tau Kok",
    "address": "Unit 7A1, 7th Floor, Chuan Yuan Factory Building 342-344 Kwun Tong Road, Hong Kong, Ngau Tau Kok, 000, Hong Kong",
    "phone": "+85296059007",
    "website": "https://playatdmz.com/",
@@ -1824,6 +2008,7 @@
   {
    "name": "Escapade Sports Causeway Bay",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "19 Leighton Rd, Causeway Bay, Hong Kong Island",
    "phone": "2891 1855",
@@ -1833,6 +2018,7 @@
   {
    "name": "Fook Le Model",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "66A Un Chau St, Sham Shui Po, Kowloon",
    "phone": "2386 0233",
@@ -1842,6 +2028,7 @@
   {
    "name": "G POINT 遊戲熱點",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "福華街161-175號 福仁電腦商場 1樓24號舖, Shop 24, 1/F, 地鐵站D2出口, Wonder Building, 161-175 Fuk Wa St, Sham Shui Po, Kowloon",
    "phone": "2429 6192",
@@ -1851,6 +2038,7 @@
   {
    "name": "Gameone 娛樂城",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "519 Lockhart Rd, Causeway Bay, Hong Kong Island",
    "phone": "9212 1530",
@@ -1860,6 +2048,7 @@
   {
    "name": "games",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "25th Floor, 3 On Yiu St, Sha Tin, New Territories",
    "phone": "2210 1388",
@@ -1870,6 +2059,7 @@
   {
    "name": "GIFT & TAKE",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Unit 315, 18 Salisbury Rd, Tsim Sha Tsui, Kowloon",
    "phone": "2638 7398",
@@ -1879,6 +2069,7 @@
   {
    "name": "Han Xing International limited",
    "group": "unknown",
+   "city": "Ng Fong St",
    "region": "Kowloon",
    "address": "Kowloon, San Po Kong, Ng Fong St, 永濟工業大廈12樓",
    "phone": "9298 9958",
@@ -1888,6 +2079,7 @@
   {
    "name": "HKTCG",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "iSQUARE, Shop 208, 63 Nathan Rd, Tsim Sha Tsui, Kowloon",
    "website": "https://www.hktcg.com/",
@@ -1897,6 +2089,7 @@
   {
    "name": "Hobbyland Wan Chai",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Morrison Hill Rd, Wan Chai, Hong Kong Island",
    "phone": "5173 5671",
@@ -1906,6 +2099,7 @@
   {
    "name": "HobbyX (Grading Submission Center)",
    "group": "unknown",
+   "city": "President Commercial Centre",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nathan Rd, 608號, President Commercial Centre, 20樓02室",
    "phone": "6298 0425",
@@ -1915,6 +2109,7 @@
   {
    "name": "Hong Kong Avenue Of Comic Stars",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Kowloon Park Dr, Tsim Sha Tsui, Kowloon",
    "website": "https://www.comicavenue.hk/zh-hant/",
@@ -1923,6 +2118,7 @@
   {
    "name": "Hung Hing Toys",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "19 Tai Yuen St, Wan Chai, Hong Kong Island",
    "phone": "2891 4739",
@@ -1932,6 +2128,7 @@
   {
    "name": "Hysan Place",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "500號 Hennessy Rd, Causeway Bay, Hong Kong Island",
    "phone": "2886 7222",
@@ -1941,6 +2138,7 @@
   {
    "name": "Jumpin Gym U.S.A.",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "號舖, 1樓 A119A, 新城巿廣場第三期, Sha Tin, New Territories",
    "phone": "2606 2848",
@@ -1950,6 +2148,7 @@
   {
    "name": "KK Zone Tcg",
    "group": "unknown",
+   "city": "Wing Kut Industrial Building",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Castle Peak Rd, 608號, Wing Kut Industrial Building, A座6樓04室",
    "phone": "9381 7500",
@@ -1959,6 +2158,7 @@
   {
    "name": "Lily Bookshop",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "1F-G Kai Fung Bldg, 189 Queen's Road Central, Sheung Wan, Hong Kong Island",
    "phone": "6977 5833",
@@ -1968,6 +2168,7 @@
   {
    "name": "Logic Dream",
    "group": "unknown",
+   "city": "香港工業中心B座",
    "region": "Kowloon",
    "address": "Kowloon, Lai Chi Kok, 長沙灣青山道489-491號 香港工業中心B座 4樓01A室",
    "phone": "6769 5787",
@@ -1977,6 +2178,7 @@
   {
    "name": "Mad Max Toys",
    "group": "unknown",
+   "city": "Nathan",
    "region": "九龍",
    "address": "九龍旺角彌敦道562號, Nathan 562, 1 / Floor",
    "phone": "6892 9138",
@@ -1986,6 +2188,7 @@
   {
    "name": "MadMaxToys. Metroplaza",
    "group": "unknown",
+   "city": "號舖",
    "region": "New Territories",
    "address": "New Territories, Kwai Chung, Hing Fong Rd, 223號175 號舖",
    "phone": "6655 8869",
@@ -1995,6 +2198,7 @@
   {
    "name": "MakePlayingCards",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "21F, Kings Wing Plaza 2, Flat J No, Shek Mun, 1 On Kwan St, Sha Tin, New Territories",
    "phone": "2210 1388",
@@ -2005,6 +2209,7 @@
   {
    "name": "Master Games",
    "group": "unknown",
+   "city": "CentreShop",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Nelson St, 8-8A號Computer CentreShop No.103 1/F",
    "phone": "9248 7241",
@@ -2014,6 +2219,7 @@
   {
    "name": "Metro Comics",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "B8, Basement, Causeway Bay Shopping Centre,, 15-23 Sugar Street, Causeway Bay,, Causeway Bay, Hong Kong Island",
    "phone": "2895 1162",
@@ -2023,6 +2229,7 @@
   {
    "name": "Mikawish TCG & Plush store",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Flat 1504, Mongkok Commercial Centre, 16 Argyle St, Mong Kok, Kowloon",
    "phone": "9244 8068",
@@ -2032,6 +2239,7 @@
   {
    "name": "Mirror Force",
    "group": "unknown",
+   "city": "Ki Lung St",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Ki Lung St, 天悅廣場1樓130號鋪",
    "phone": "6365 1461",
@@ -2041,6 +2249,7 @@
   {
    "name": "MOE CRITICAL MOVE 萌之一手",
    "group": "unknown",
+   "city": "Tak Bo Building",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, 洗衣術70號, Tak Bo Building, 地下G29鋪",
    "phone": "6368 9249",
@@ -2050,6 +2259,7 @@
   {
    "name": "MOKO",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "193 Prince Edward Rd W, Mong Kok, Kowloon",
    "phone": "2397 0790",
@@ -2059,6 +2269,7 @@
   {
    "name": "Moonroad Card Shop Mong Kok",
    "group": "unknown",
+   "city": "鋪",
    "region": "九龍",
    "address": "九龍旺角彌敦道582-592號信和中心2樓 246 鋪",
    "phone": "6915 7469",
@@ -2077,6 +2288,7 @@
   {
    "name": "MTG Mint Card LTd - Magic the gathering",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "9F, Heep Kee Commercial Building, 205-211 Wing Lok St, Sheung Wan, Hong Kong Island",
    "phone": "2815 0097",
@@ -2086,6 +2298,7 @@
   {
    "name": "My咭",
    "group": "unknown",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Un Chau St, 174-188號天悅廣場1樓 113/133號鋪",
    "phone": "6121 7343",
@@ -2095,6 +2308,7 @@
   {
    "name": "nsew 任天堂正規商品販賣店 (K11 MUSEA)",
    "group": "unknown",
+   "city": "層",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, Salisbury Rd, 18號B2 層, B211",
    "phone": "2473 6698",
@@ -2104,6 +2318,7 @@
   {
    "name": "OA Card(Oztet Amigo)",
    "group": "unknown",
+   "city": "荔枝角",
    "address": "香港長沙灣長順街11號長城工廠大廈9樓B01室, 荔枝角, Hong Kong SAR, 000, Hong Kong",
    "phone": "85255843788",
    "website": "https://oztetamigo.com/",
@@ -2115,6 +2330,7 @@
   {
    "name": "OVERTIME TCG",
    "group": "unknown",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Un Chau St, 174-188號長沙灣天悅廣場1樓135號舖",
    "phone": "6604 5573",
@@ -2124,6 +2340,7 @@
   {
    "name": "Pika Card TCG",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "銅鑼灣富明街1-5號, 1樓1A室, 寶富大廈, Causeway Bay, Hong Kong Island",
    "phone": "6095 9111",
@@ -2133,6 +2350,7 @@
   {
    "name": "POKEPALACEHK",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm 2302B,23/F, Perfect Industrial Building, 31 Tai Yau St, San Po Kong, Kowloon",
    "phone": "6313 1539",
@@ -2142,6 +2360,7 @@
   {
    "name": "Premier Hobby Collective",
    "group": "unknown",
+   "city": "Kowloon",
    "address": "Unit 2, 2/F, Hope Sea Industrial Centre, 26 Lam Hing Street, Kowloon Bay, , Hong Kong, Kowloon, 000, Hong Kong",
    "phone": "+85262520998",
    "website": "https://linktr.ee/premierhobbycollective",
@@ -2163,6 +2382,7 @@
   {
    "name": "Rapp Collect",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Phase 1, 7/F, F1-A & B, 2G Hok Yuen St, Hung Hom, Kowloon",
    "phone": "9358 6274",
@@ -2172,6 +2392,7 @@
   {
    "name": "SBT",
    "group": "unknown",
+   "city": "Tuen Mun",
    "address": "香港屯門德工業大廈3樓C2室, Hong Kong, Tuen Mun, 000, Hong Kong",
    "phone": "+85291522013",
    "website": "https://www.sbtshop.net/",
@@ -2183,6 +2404,7 @@
   {
    "name": "Scribbles HK 運動卡-寶可夢卡-TCG card-專門店",
    "group": "unknown",
+   "city": "Cameron Rd",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, Cameron Rd, 14A號1/F",
    "phone": "6718 2338",
@@ -2192,6 +2414,7 @@
   {
    "name": "Shatin Plaza",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "21-27 Sha Tin Centre St, Sha Tin, New Territories",
    "phone": "2606 3700",
@@ -2201,6 +2424,7 @@
   {
    "name": "Shop @ Buy Game 2.com",
    "group": "unknown",
+   "city": "Cheung Sha Wan Rd",
    "region": "Kowloon",
    "address": "Kowloon, Sham Shui Po, Cheung Sha Wan Rd, 266-268號昌發商業大廈4樓402-404室",
    "phone": "2702 2044",
@@ -2211,6 +2435,7 @@
   {
    "name": "Sim City",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "331-367 Reclamation Street, Sim City, 47-51 號 Shantung St, Mong Kok, Kowloon",
    "website": "https://mkkcamera.com/",
@@ -2219,6 +2444,7 @@
   {
    "name": "Slash All",
    "group": "unknown",
+   "city": "Cheung Sha Wan",
    "address": "Rm 305, Siu Wai Industrial Centre, 29-33 Wing Hong Street, Cheung Sha Wan, , Hong Kong, KL, 000, Hong Kong",
    "phone": "+85291535754",
    "website": "https://www.slashall.hk",
@@ -2239,6 +2465,7 @@
   {
    "name": "Still House",
    "group": "unknown",
+   "city": "Pak Sha Rd",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Pak Sha Rd, 13號一樓",
    "phone": "2312 7007",
@@ -2248,6 +2475,7 @@
   {
    "name": "T0HK TCG - 香港O2O集換式卡牌專門店",
    "group": "unknown",
+   "city": "Tsuen Wan",
    "region": "New Territories",
    "address": "New Territories, Tsuen Wan, 荃灣青山道南豐中心19樓1908室",
    "phone": "5282 8371",
@@ -2257,6 +2485,7 @@
   {
    "name": "The Commercial Press Sha Tin",
    "group": "unknown",
+   "city": "號鋪HK New Territories 沙田 新城市廣埸三期 二樓",
    "region": "New Territories",
    "address": "New Territories, Sha Tin, 號鋪HK New Territories 沙田 新城市廣埸三期 二樓 A208A",
    "phone": "2329 0678",
@@ -2266,6 +2495,7 @@
   {
    "name": "The Lion Rock Press",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "10th Floor, Unit 1005, Arion Commercial Centre, 2-12 Queen's Rd W, Sheung Wan, Hong Kong Island",
    "website": "https://www.thelionrockpress.com/",
@@ -2274,6 +2504,7 @@
   {
    "name": "The pokekado PTCG Shop",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Room 502B 5/F Hung Hom Commercial Center Block A, 37 Ma Tau Wai Rd, Hok Yuen, Hung Hom, Kowloon",
    "phone": "6558 1545",
@@ -2283,6 +2514,7 @@
   {
    "name": "Times Square",
    "group": "unknown",
+   "city": "Hong Kong Island",
    "region": "Hong Kong Island",
    "address": "Matheson St, Bowrington, Hong Kong Island",
    "phone": "2118 8900",
@@ -2292,6 +2524,7 @@
   {
    "name": "TL Comics",
    "group": "unknown",
+   "city": "Java Rd",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Tsat Tsz Mui, Java Rd, 321號, 321 Java Road, 1207室香港北角渣華道321號柯達大廈二期",
    "phone": "2386 2312",
@@ -2301,6 +2534,7 @@
   {
    "name": "TOP3 Card Game",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "4A, 8/F, Block C Hong Kong Industrial Centre, 489-481 Castle Peak Rd Cheung Sha Wan, Lai Chi Kok, Kowloon",
    "phone": "9072 3581",
@@ -2310,6 +2544,7 @@
   {
    "name": "TOYS & GAMES - Nobletime",
    "group": "unknown",
+   "city": "New Territories",
    "region": "New Territories",
    "address": "Shop 6Z517, Level 6, Lantau Island, Terminal 1, Chek Lap Kok, New Territories",
    "phone": "9542 3479",
@@ -2319,6 +2554,7 @@
   {
    "name": "Toys“R”Us",
    "group": "unknown",
+   "city": "Hoi Hung",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Hoi Hung Road1號Shop G01, G09-G10",
    "phone": "2884 3268",
@@ -2328,6 +2564,7 @@
   {
    "name": "Trading Card Man",
    "group": "unknown",
+   "city": "Hing Yip St",
    "region": "Kowloon",
    "address": "Kowloon, Kwun Tong, Hing Yip St, 15號中美中心B座2樓202室",
    "phone": "9168 4203",
@@ -2338,6 +2575,7 @@
   {
    "name": "Trendy Gift Shop Hong Kong",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Rm K 4 floor, 51 Bedford Rd, Tai Kok Tsui, Kowloon",
    "phone": "3611 0993",
@@ -2347,6 +2585,7 @@
   {
    "name": "Twinner Trading Company",
    "group": "unknown",
+   "city": "Sai Yee St",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Sai Yee St, 125號G/FL",
    "phone": "2395 0043",
@@ -2356,6 +2595,7 @@
   {
    "name": "UP-NEXT 玩具精品店 (T.O.P 分店)",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 301, 3F T.O.P This Is Our Place, 700 Nathan Rd, Mong Kok, Kowloon",
    "phone": "2393 3173",
@@ -2365,6 +2605,7 @@
   {
    "name": "Video Game Network",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "187號 Fuk Wa St, Sham Shui Po, Kowloon",
    "phone": "2307 6666",
@@ -2374,6 +2615,7 @@
   {
    "name": "Weatherlight",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shing Yip Industrial Building, 21 Shing Yip St, Kwun Tong, Hong Kong, Kowloon",
    "phone": "93111843",
@@ -2386,6 +2628,7 @@
   {
    "name": "West Main Toys",
    "group": "unknown",
+   "city": "Mong Kok",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, 太子彌敦道749A愛都中心5/F",
    "phone": "2330 8802",
@@ -2395,6 +2638,7 @@
   {
    "name": "Wonderland Superstore",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop G35, 120 Baker St, Hung Hom, Kowloon",
    "phone": "2303 0313",
@@ -2404,6 +2648,7 @@
   {
    "name": "Yamacardo 嵐山卡店",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Unit 301, Hewlett Centre, 54 Hoi Yuen Rd, Kwun Tong, Kowloon",
    "phone": "6551 3120",
@@ -2413,6 +2658,7 @@
   {
    "name": "Yu GI Card Center",
    "group": "unknown",
+   "city": "Un Chau St",
    "region": "Kowloon",
    "address": "Kowloon, Cheung Sha Wan, Un Chau St, 天悅廣場1樓136號",
    "website": "https://yugicardcenter.store/",
@@ -2421,6 +2667,7 @@
   {
    "name": "YulaYula TCG",
    "group": "unknown",
+   "city": "Foo Ming St",
    "region": "Hong Kong Island",
    "address": "Hong Kong Island, Causeway Bay, Foo Ming St, 2號樓K室",
    "phone": "9026 8890",
@@ -2430,6 +2677,7 @@
   {
    "name": "Zenox (太子店/Prince Edward Store)",
    "group": "unknown",
+   "city": "Kowloon",
    "region": "Kowloon",
    "address": "Shop 204-205, Pioneer Centre, 750 Nathan Road, Prince Edward, Mong Kok, Kowloon",
    "phone": "6563 4820",
@@ -2447,6 +2695,7 @@
   {
    "name": "新手桌遊",
    "group": "unknown",
+   "city": "Sai Yeung Choi St S",
    "region": "Kowloon",
    "address": "Kowloon, Mong Kok, Sai Yeung Choi St S, 5號 1404室",
    "phone": "3954 5967",
@@ -2456,6 +2705,7 @@
   {
    "name": "紙本分格實體店 zbfghk store",
    "group": "unknown",
+   "city": "King Win Factory Building",
    "region": "Kowloon",
    "address": "Kowloon, Kwun Tong, King Yip St, 65至67號, King Win Factory Building, 11樓A室",
    "website": "https://zbfghk.org/store/",
@@ -2464,6 +2714,7 @@
   {
    "name": "香港魔術專門店Cube Magic HK",
    "group": "unknown",
+   "city": "Tsim Sha Tsui",
    "region": "Kowloon",
    "address": "Kowloon, Tsim Sha Tsui, 3053/F, k11 art mall 18 Hanoi Road",
    "phone": "5169 5717",

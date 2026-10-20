@@ -36,6 +36,7 @@
   {
    "name": "CollectionMania IE",
    "group": "quote_only",
+   "city": "Dublin",
    "region": "D",
    "address": "Nangor Road Business Park, Unit 1 Knockmitten Ln, Fox-And-Geese Common, Dublin 12, D12 PX01",
    "phone": "083 078 4353",
@@ -57,6 +58,7 @@
   {
    "name": "Conns Cameras",
    "group": "blocked",
+   "city": "Dublin",
    "region": "D",
    "address": "54 Clarendon St, Dublin 2, D02 AK61",
    "phone": "(01) 677 7179",
@@ -66,6 +68,7 @@
   {
    "name": "hmv",
    "group": "blocked",
+   "city": "Dublin",
    "region": "D",
    "address": "18 Henry St, North City, Dublin, D01 WA24",
    "phone": "(01) 270 7660",
@@ -113,6 +116,7 @@
   {
    "name": "Mark’s Models",
    "group": "blocked",
+   "city": "Dublin",
    "region": "D",
    "address": "14 Hawkins St, Dublin 2, D02 WT29",
    "phone": "(01) 671 5809",
@@ -159,6 +163,7 @@
   {
    "name": "Bookmart & Gamexchange",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "73 Talbot St, Mountjoy, Dublin 1, D01 TW28",
    "checked_at": "2026-10-16T02:13:59Z"
@@ -184,6 +189,7 @@
   {
    "name": "Dublin Model Shop",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "143 James's St, Saint James, Dublin 8, D08 N6FE",
    "phone": "089 608 1748",
@@ -248,6 +254,7 @@
   {
    "name": "Hugmie Toys",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "17 Henry St, North City, Dublin 1, D01 VH00",
    "checked_at": "2026-10-16T02:14:13Z"
@@ -309,6 +316,7 @@
   {
    "name": "Paper Chase",
    "group": "in_store",
+   "city": "Co. Galway",
    "region": "G",
    "address": "Unit 1, Terryland Shopping Centre, Headford Rd, Terryland, Ballinfoyle, Co. Galway, H91 WYF9",
    "phone": "(091) 568 714",
@@ -334,6 +342,7 @@
   {
    "name": "Pride & Joy",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "13 Donaghmede Rd, Grange, Dublin 13, D13 PX37",
    "phone": "(01) 847 6107",
@@ -423,6 +432,7 @@
   {
    "name": "The Card Shop",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "The Square Shopping Centre, Tallaght, Dublin 24, D24 NR29",
    "phone": "(01) 459 9141",
@@ -461,6 +471,7 @@
   {
    "name": "The Guild Hall",
    "group": "in_store",
+   "city": "Killarney",
    "address": "3 New Market Ln High Street, Killarney, KY, V93FA31, Ireland",
    "phone": "3530857575710",
    "website": "https://instagram.com/theguildhallkillarney?igshid=OGQ5ZDc2ODk2ZA==",
@@ -472,6 +483,7 @@
   {
    "name": "The Nook & Hobby",
    "group": "in_store",
+   "city": "Co. Clare",
    "address": "Lower Drumbiggle Road, Clonroad Beg,, Ennis, Co. Clare, V95P9TN, Ireland",
    "phone": "+3530857767717",
    "website": "https://www.instagram.com/thenookandhobby/",
@@ -491,6 +503,7 @@
   {
    "name": "Tokyo Trends, ILac Shopping Center",
    "group": "in_store",
+   "city": "Dublin",
    "region": "D",
    "address": "Unit 27, Ilac Centre, Henry St, North City, Dublin 1, D01 AY70",
    "phone": "083 406 7693",
@@ -528,6 +541,7 @@
   {
    "name": "Waterford Tabletop Gaming Community, Warhammer, Boardgames, Dungeons and Dragons and much much more.",
    "group": "in_store",
+   "city": "Co. Waterford",
    "region": "WD",
    "address": "Unit 2, Boeing Avenue, Airport Business Park, Co. Waterford, X91 H302",
    "website": "https://www.facebook.com/WaterfordTabletop",
@@ -555,6 +569,7 @@
   {
    "name": "Chapters Bookstore",
    "group": "not_buying_singles",
+   "city": "Dublin",
    "region": "D",
    "address": "Ivy Exchange, Parnell St, Rotunda, Dublin 1, D01 P8C2",
    "phone": "(01) 879 2700",
@@ -597,6 +612,7 @@
   {
    "name": "4 Sports & Games",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "4 Wynnefield Rd, Rathmines, Dublin 6, D06 H329",
    "phone": "(01) 497 5819",
@@ -645,6 +661,7 @@
   {
    "name": "Banba Toymaster",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "48 Mary St, North City, Dublin, D01 V527",
    "phone": "(01) 872 7100",
@@ -654,6 +671,7 @@
   {
    "name": "Big Bang Comics",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Sandyford Rd, Dundrum, Dublin 16, D16 Y051",
    "phone": "(01) 216 5093",
@@ -663,6 +681,7 @@
   {
    "name": "Broadsword Wargaming",
    "group": "unknown",
+   "city": "Mayo",
    "address": "Bridge Street, Castlebar, Mayo, F23X448, Ireland",
    "phone": "+353892526992",
    "website": "https://www.broadswordwargaming.com/",
@@ -674,6 +693,7 @@
   {
    "name": "Card Factory",
    "group": "unknown",
+   "city": "Co. Dublin",
    "region": "D",
    "address": "Unit 25, Central Mall, Ilac Centre, Henry St, North City, Dublin 1, Co. Dublin, D01 CK75",
    "phone": "(01) 872 6744",
@@ -846,6 +866,7 @@
   {
    "name": "Cogs Toys & Games",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Unit 4, Stephen's Green Shopping Centre, St Stephen's Green, Dublin 2, D02 Y303",
    "phone": "(01) 556 9237",
@@ -885,6 +906,7 @@
   {
    "name": "Dublin Comic Con",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Spencer Dock, North Wall, Dublin",
    "website": "https://dublincomiccon.com/",
@@ -953,6 +975,7 @@
   {
    "name": "Evans Art Supplies",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "5 - 6 Meetinghouse Ln, Mary's Abbey, North City, Dublin 7, D07 YP89",
    "phone": "(01) 872 6855",
@@ -972,6 +995,7 @@
   {
    "name": "FAO Schwarz",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "12 Henry St, North City, Dublin, D01 C3Y9",
    "website": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/",
@@ -980,6 +1004,7 @@
   {
    "name": "Forbidden Planet Dublin",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "5-7 Crampton Quay, Temple Bar, Dublin 2, D02 VX56",
    "phone": "(01) 671 0688",
@@ -1010,6 +1035,7 @@
   {
    "name": "Gamers World",
    "group": "unknown",
+   "city": "Dublin",
    "region": "County Dublin",
    "address": "Unit 1, Dublin, Dublin, Dublin 1, Ireland",
    "phone": "3530-18-044-540",
@@ -1102,6 +1128,7 @@
   {
    "name": "House of Names",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "8 Fleet St, Temple Bar, Dublin 2, D02 TH74",
    "phone": "(01) 677 7034",
@@ -1111,6 +1138,7 @@
   {
    "name": "Intersport Elverys",
    "group": "unknown",
+   "city": "Galway",
    "region": "G",
    "address": "Galway Retail Park, Headford Rd, Galway, H91 C3N1",
    "phone": "(091) 569 542",
@@ -1178,6 +1206,7 @@
   {
    "name": "Mountain Gremlin Games",
    "group": "unknown",
+   "city": "Castlebridge",
    "address": "1 The Square, Castlebridge, WX, Y35 K188, Ireland",
    "phone": "+3530852240198",
    "website": "https://mountaingremlingames.com/",
@@ -1262,6 +1291,7 @@
   {
    "name": "Rogue Gaming",
    "group": "unknown",
+   "city": "Dublin",
    "region": "County Dublin",
    "address": "58 Francis St, Dublin, Dublin, D08YE39, Ireland",
    "phone": "+353870336901",
@@ -1315,6 +1345,7 @@
   {
    "name": "Smyths Toys Superstores Jervis St",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "1 Jervis St, North City, Dublin, D01 R8Y1",
    "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
@@ -1341,6 +1372,7 @@
   {
    "name": "Smyths Toys Superstores Tallaght",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Tallaght Retail Centre, Belgard Rd, Tallaght, Dublin 24, D24 YK8N",
    "website": "https://www.smythstoys.com/ie/en-ie/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-I008-Jervis-Dublin",
@@ -1377,6 +1409,7 @@
   {
    "name": "Sub-City Comics",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "53 Mary St, Northside, Dublin 1, D01 Y935",
    "phone": "(01) 872 8610",
@@ -1406,6 +1439,7 @@
   {
    "name": "The Art & Hobby Shop Stephens Green",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Top floor Saint Stephen's Green shopping centre, Dublin",
    "phone": "(01) 478 1271",
@@ -1490,6 +1524,7 @@
   {
    "name": "The Gathering Store",
    "group": "unknown",
+   "city": "Limerick",
    "address": "43 Lower Gerald Griffin St, Limerick, LK, V94 Y1F7, Ireland",
    "phone": "353(0) 61 315 133",
    "website": "https://magic.wizards.com/en",
@@ -1501,6 +1536,7 @@
   {
    "name": "The Hobby Space (at McGillicuddy's Toyshop)",
    "group": "unknown",
+   "city": "Listowel",
    "address": "26 William St, Listowel, KY, V31 DY79, Ireland",
    "phone": "+353(0)857360269",
    "website": "https://mcgillicuddystoyshop.ie/",
@@ -1532,6 +1568,7 @@
   {
    "name": "The Secret Book and Record Store",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "15A Wicklow St, Dublin 2, D02 Y765",
    "phone": "087 955 5497",
@@ -1541,6 +1578,7 @@
   {
    "name": "The Temple Bar Trading Company",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "43-44 Temple Bar, Dublin 2, D02 KF86",
    "phone": "(01) 6725 2867",
@@ -1642,6 +1680,7 @@
   {
    "name": "Warhammer",
    "group": "unknown",
+   "city": "Dublin",
    "region": "D",
    "address": "Unit 3 Liffey St. Lower, North City, Dublin, D01 K199",
    "phone": "(01) 872 5791",

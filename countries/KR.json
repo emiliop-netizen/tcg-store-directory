@@ -7,6 +7,7 @@
   {
    "name": "ABOUTTCG/어바웃티씨지",
    "group": "public_buylist",
+   "city": "Republic of",
    "region": "Seoul",
    "address": "16, Jowon-ro, Gwanak-gu, Seoul, Republic of Korea, Seoul, 11, 08769, Korea, Republic of",
    "phone": "+82269586567",
@@ -22,6 +23,7 @@
   {
    "name": "KoreanToyShop",
    "group": "blocked",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "2F, 32-3 Jinheung-ro 1-gil, Eunpyeong District, Seoul",
    "phone": "070-8228-7112",
@@ -31,6 +33,7 @@
   {
    "name": "lululemon Busan Shinsegae Centum City",
    "group": "blocked",
+   "city": "Centum",
    "region": "Busan",
    "address": "Busan, Haeundae, 1 Shinsegae Centum City Mall F 15, Centum 4-ro",
    "phone": "051-745-2283",
@@ -40,6 +43,7 @@
   {
    "name": "Musinsa Store Daegu",
    "group": "blocked",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "12-13 Dongseong-ro 6-gil, Jung-gu, Daegu",
    "phone": "050-7872-3060",
@@ -57,6 +61,7 @@
   {
    "name": "Boardgame cafe Tycoon/ 타이쿤 보드게임카페",
    "group": "in_store",
+   "city": "Michuhol-gu",
    "address": "2f, Gyeonginnam-gil 30beon-gil 49, Michuhol-gu",
    "phone": "(+82) 3 2864 3369",
    "games_events": [
@@ -67,6 +72,7 @@
   {
    "name": "Buruttrak",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "37-1 Myeongdong 8na-gil, Jung District, Seoul",
    "phone": "02-776-6353",
@@ -86,6 +92,7 @@
   {
    "name": "Card Kingdom",
    "group": "in_store",
+   "city": "LK빌딩",
    "region": "Seoul",
    "address": "Seoul, Mapo-gu, Sinchon-ro, 254 LK빌딩 4층",
    "phone": "02-365-6279",
@@ -94,6 +101,7 @@
   {
    "name": "cardhit_busan",
    "group": "in_store",
+   "city": "Jeonpo-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jeonpo-daero 200beon-gil, 12 2층",
    "phone": "050-6667-7361",
@@ -103,6 +111,7 @@
   {
    "name": "Chicken Sampajeon / 치킨삼파전",
    "group": "in_store",
+   "city": "Republic of Korea",
    "address": "1, Namhang-ro 10beon-gil, Yeongdo-gu, Busan, Republic of Korea",
    "phone": "(+82) 10 8277 7816",
    "games_events": [
@@ -113,6 +122,7 @@
   {
    "name": "COLLECT ON",
    "group": "in_store",
+   "city": "floor",
    "region": "Seoul",
    "address": "Seoul, Yeongdeungpo District, Dorim-ro, 178 1st floor",
    "checked_at": "2026-10-16T20:55:11Z"
@@ -120,6 +130,7 @@
   {
    "name": "Cryptobot Trading and shopping",
    "group": "in_store",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "10 Daebong-ro 26-gil, Nam-gu, Daegu",
    "phone": "010-4474-9824",
@@ -128,6 +139,7 @@
   {
    "name": "Daegu OCG card shop",
    "group": "in_store",
+   "city": "Gongpyeong-dong",
    "region": "Daegu",
    "address": "Daegu, Jung-gu, Gongpyeong-dong, 55-34 3층",
    "phone": "010-4535-9268",
@@ -136,6 +148,7 @@
   {
    "name": "Daejeon Duelmall/ 대전 듀얼몰",
    "group": "in_store",
+   "city": "Seo-gu Daejeon",
    "address": "1945, 2F, Dunsan 3-dong, Seo-gu Daejeon",
    "phone": "(+82) 10 3444 3999",
    "games_events": [
@@ -146,6 +159,7 @@
   {
    "name": "Daejeon Jungang Market",
    "group": "in_store",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "783 Daejeon-ro, Dong-gu, Daejeon",
    "phone": "042-226-0319",
@@ -154,6 +168,7 @@
   {
    "name": "Deogusjeu",
    "group": "in_store",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "38 Jungang-ro 164beon-gil, Jung-gu, Daejeon",
    "checked_at": "2026-10-16T20:56:31Z"
@@ -161,6 +176,7 @@
   {
    "name": "Dogok Dual Shop",
    "group": "in_store",
+   "city": "도곡동 지하층 강남구 서울특별시",
    "region": "Seoul",
    "address": "Seoul, 도곡동 416-8번지 지하층 강남구 서울특별시 KR",
    "phone": "02-574-6086",
@@ -169,6 +185,7 @@
   {
    "name": "Dyueolmol",
    "group": "in_store",
+   "city": "둔산동 서구 대전광역시",
    "region": "Daejeon",
    "address": "Daejeon, 둔산동 1945번지 서구 대전광역시 KR",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -176,6 +193,7 @@
   {
    "name": "Fortune Factory/ 포츈 팩토리",
    "group": "in_store",
+   "city": "Korea",
    "address": "B1 One building, 68-10, Daeyeon 3dong, Namgu, Busan, Korea",
    "phone": "(+82) 10 5167 1629",
    "games_events": [
@@ -186,6 +204,7 @@
   {
    "name": "Funny Boardgame / 즐거운 보드게임",
    "group": "in_store",
+   "city": "Masanhappo-gu",
    "address": "3rd floor,5-64,Haeun-dong, Masanhappo-gu,",
    "phone": "(+82) 55 223 1980",
    "games_events": [
@@ -196,6 +215,7 @@
   {
    "name": "Gundam Base I'Park Mall",
    "group": "in_store",
+   "city": "Hangang-daero",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, Hangang-daero 23-gil, 55 아이파크몰 리빙파크 6층",
    "phone": "02-2012-2700",
@@ -204,6 +224,7 @@
   {
    "name": "Hobbybase",
    "group": "in_store",
+   "city": "Gyeonggi-do",
    "address": "72 Anjeongsunhwan-ro 138beon-gil,, Pyeongtaek, Gyeonggi-do, 17983, KR",
    "phone": "8201030366633",
    "games_events": [
@@ -214,6 +235,7 @@
   {
    "name": "J Clover / 제이클로버",
    "group": "in_store",
+   "city": "Busanjin-gu",
    "address": "2F, Jungang-daero 905, Busanjin-gu",
    "phone": "(+82) 10 4937 6318",
    "games_events": [
@@ -224,6 +246,7 @@
   {
    "name": "J-Goods Busan Seomyeon",
    "group": "in_store",
+   "city": "지하",
    "region": "Busan",
    "address": "Busan, Busanjin District, Sincheon-daero 50beon-gil, 65 지하 1층",
    "phone": "051-804-2248",
@@ -232,6 +255,7 @@
   {
    "name": "Kadeupam board game café",
    "group": "in_store",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero 692beon-gil, 33 7층",
    "phone": "070-7799-2818",
@@ -240,6 +264,7 @@
   {
    "name": "Kadeusup",
    "group": "in_store",
+   "city": "Jowonjungang-ro",
    "region": "Seoul",
    "address": "Seoul, Gwanak-gu, Jowonjungang-ro, 13 3층",
    "checked_at": "2026-10-16T20:55:27Z"
@@ -247,6 +272,7 @@
   {
    "name": "KPOP 앨범 및 굿즈 매장",
    "group": "in_store",
+   "city": "Toegye-ro",
    "region": "Seoul",
    "address": "Seoul, Jung District, Toegye-ro 18-gil, 7 1층",
    "phone": "010-9288-3337",
@@ -255,6 +281,7 @@
   {
    "name": "KSTORM MYEONGDONG",
    "group": "in_store",
+   "city": "Toegye-ro",
    "region": "Seoul",
    "address": "Seoul, Jung District, Toegye-ro 18-gil, 7 1층",
    "phone": "010-9288-3337",
@@ -264,6 +291,7 @@
   {
    "name": "KWANGYA",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "83-21 Wangsimni-ro, Seongdong-gu, Seoul",
    "phone": "02-6233-6729",
@@ -272,6 +300,7 @@
   {
    "name": "Marvel Boardgame / 마블 보드게임",
    "group": "in_store",
+   "city": "Uichang-gu",
    "address": "6-5, Woni-daero 589beon-gil, Uichang-gu",
    "phone": "(+82) 10 6551 1110",
    "games_events": [
@@ -282,6 +311,7 @@
   {
    "name": "Marvel Collection",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "40-999 Hangangno 3(sam)-ga, Yongsan District, Seoul",
    "phone": "010-5567-7071",
@@ -290,6 +320,7 @@
   {
    "name": "MTG Humphreys tabletop (United Hobby)",
    "group": "in_store",
+   "city": "경기도",
    "address": "17983 경기도 평택시 팽성읍 안정쇼핑로 14-5 2,3층, 평택, 경기도, 17983, KR",
    "phone": "821035071870",
    "website": "https://www.facebook.com/groups/372792283492384",
@@ -326,6 +357,7 @@
   {
    "name": "Myeongdong CD Shop",
    "group": "in_store",
+   "city": "D",
    "region": "Seoul",
    "address": "Seoul, Jung District, Toegye-ro, 124 D 16.17",
    "phone": "070-8808-7264",
@@ -335,6 +367,7 @@
   {
    "name": "nyunyu myeongdong",
    "group": "in_store",
+   "city": "Myeongdong",
    "region": "Seoul",
    "address": "Seoul, Jung District, Myeongdong 4-gil, 22 1-4F",
    "phone": "010-9884-6925",
@@ -343,6 +376,7 @@
   {
    "name": "One Figure",
    "group": "in_store",
+   "city": "동성로",
    "region": "Daegu",
    "address": "Daegu, Jung-gu, 동성로 8-1",
    "phone": "010-9474-0895",
@@ -352,6 +386,7 @@
   {
    "name": "Orange Bada",
    "group": "in_store",
+   "city": "Busan",
    "region": "Busan",
    "address": "245-1 Gwanganhaebyeon-ro, Suyeong-gu, Busan",
    "phone": "051-758-5308",
@@ -360,6 +395,7 @@
   {
    "name": "Pacific TCG Shop",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "365-3 Seogyo-dong, Mapo-gu, Seoul",
    "phone": "010-2697-5916",
@@ -368,6 +404,7 @@
   {
    "name": "PICKGETCHU",
    "group": "in_store",
+   "city": "Bongcheon-ro",
    "region": "Seoul",
    "address": "Seoul, Gwanak-gu, Bongcheon-ro, 285 2층 201호",
    "phone": "050-6851-6027",
@@ -377,6 +414,7 @@
   {
    "name": "Play Arena",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "21 Donggyo-ro 34-gil, Mapo-gu, Seoul, South Korea, Seoul, 03982",
    "games_events": [
@@ -387,6 +425,7 @@
   {
    "name": "poca poca tcg(Pokemon card)",
    "group": "in_store",
+   "city": "대가빌딩",
    "region": "Busan",
    "address": "Busan, Jung-gu, Gudeok-ro 34beon-gil, 7 대가빌딩 2층",
    "phone": "010-2563-1772",
@@ -405,6 +444,7 @@
   {
    "name": "Pure Magic Trading",
    "group": "in_store",
+   "city": "연남동 마포구 서울특별시",
    "region": "서울특별시",
    "address": "223-14 2F, 연남동 마포구 서울특별시",
    "phone": "010-8543-7638",
@@ -413,6 +453,7 @@
   {
    "name": "REDLABEL seongsu TCG store",
    "group": "in_store",
+   "city": "REDLABEL",
    "region": "Seoul",
    "address": "Seoul, Seongdong-gu, Yeonmujang-gil, 56 2층 REDLABEL",
    "phone": "010-2709-5271",
@@ -432,6 +473,7 @@
   {
    "name": "samuraimembership",
    "group": "in_store",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "soongedong346-6, Michuhol-gu, Incheon",
    "phone": "010-5844-1982",
@@ -440,6 +482,7 @@
   {
    "name": "Seomyeon GACHA SHOP",
    "group": "in_store",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero 702beon-gil, 23 2F,3F",
    "phone": "051-802-6577",
@@ -448,6 +491,7 @@
   {
    "name": "Seoul Record",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "Samsung Jong-Ro Tower, 154 종로1.2.3.4가동 Jongno District, Seoul",
    "phone": "02-2265-9298",
@@ -456,6 +500,7 @@
   {
    "name": "Seungjin Toy",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "30 Jong-ro 52-gil, Jongno District, Seoul",
    "phone": "02-747-1900",
@@ -464,6 +509,7 @@
   {
    "name": "Shuffle TCG Shop",
    "group": "in_store",
+   "city": "Busan",
    "region": "Busan",
    "address": "134-1 Chungnyeol-daero, Dongnae-gu, Busan",
    "checked_at": "2026-10-16T20:55:28Z"
@@ -471,6 +517,7 @@
   {
    "name": "SS듀얼샵",
    "group": "in_store",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "132 Wolbae-ro, Dalseo District, Daegu",
    "checked_at": "2026-10-16T20:56:18Z"
@@ -478,6 +525,7 @@
   {
    "name": "Strange card cafe",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "40-34 Daehyeon-dong, Seodaemun-gu, Seoul",
    "checked_at": "2026-10-16T20:55:26Z"
@@ -485,6 +533,7 @@
   {
    "name": "Strike Pang",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "57-7 Changcheon-dong, Seodaemun-gu, Seoul",
    "checked_at": "2026-10-16T20:55:26Z"
@@ -492,6 +541,7 @@
   {
    "name": "Tarot and gallery",
    "group": "in_store",
+   "city": "Yongsan District",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, 이태원제1동 455-64",
    "phone": "02-749-4142",
@@ -525,6 +575,7 @@
   {
    "name": "TCG labo",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "3층, 251 Gajwa-ro, Eunpyeong District, Seoul",
    "phone": "010-7751-1067",
@@ -534,6 +585,7 @@
   {
    "name": "TCG LIFE - Gyeongsangnam-do",
    "group": "in_store",
+   "city": "Seongsan-gu Changwon-sic",
    "address": "2F 10, Woni-daero 579beon-gil, , Gyeongsangnam-do, Seongsan-gu Changwon-sic, 51436, KO",
    "phone": "+821059558316",
    "games_events": [
@@ -544,6 +596,7 @@
   {
    "name": "TCG Stadium",
    "group": "in_store",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "2f, 107 Yuseong-daero 668beon-gil, Yuseong District, Daejeon, South Korea, Daejeon, 34178",
    "phone": "+82 50-71425-0626",
@@ -555,6 +608,7 @@
   {
    "name": "TCG 카드아지트 인천청라CGV점",
    "group": "in_store",
+   "city": "카드아지트",
    "region": "Incheon",
    "address": "Incheon, 청라 CGV점 KR 인천광역시 서구 청라루비로 76, 323호 TCG 카드아지트",
    "website": "https://www.instagram.com/tcg_cardazit_official",
@@ -563,6 +617,7 @@
   {
    "name": "TCG새틀라이트",
    "group": "in_store",
+   "city": "층",
    "region": "Incheon",
    "address": "Incheon, Bupyeong District, Jangje-ro, 217-1 2 층",
    "checked_at": "2026-10-16T20:55:15Z"
@@ -570,6 +625,7 @@
   {
    "name": "TCG카드노바",
    "group": "in_store",
+   "city": "층",
    "region": "Seoul",
    "address": "Seoul, Gangnam District, Teheran-ro 1-gil, 16 4 층",
    "phone": "010-6403-1020",
@@ -587,6 +643,7 @@
   {
    "name": "The Gundam Base Centum City",
    "group": "in_store",
+   "city": "Busan",
    "region": "Busan",
    "address": "35 Centum nam-daero, U-dong, Haeundae, Busan",
    "phone": "051-745-1468",
@@ -595,6 +652,7 @@
   {
    "name": "The Pollalla Toy Museum",
    "group": "in_store",
+   "city": "지하 서울특별시 마포구 서교동",
    "region": "Seoul",
    "address": "Seoul, 지하 102호 KR 서울특별시 마포구 서교동 335번지 4",
    "phone": "02-3143-3392",
@@ -612,6 +670,7 @@
   {
    "name": "Trader",
    "group": "in_store",
+   "city": "서울특별시 용산구 원효전자상가",
    "region": "Seoul",
    "address": "Seoul, KR 서울특별시 용산구 원효전자상가 4동 2번출입구 2층 214호",
    "phone": "02-714-3425",
@@ -620,6 +679,7 @@
   {
    "name": "Ultra Rare / 울트라레어",
    "group": "in_store",
+   "city": "Geumjeong-gu",
    "address": "2nd floor,138, Geumjeong-ro, Geumjeong-gu",
    "phone": "(+82) 10 4876 5608",
    "games_events": [
@@ -630,6 +690,7 @@
   {
    "name": "WeefunTCG",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "b01, 75 Nonhyeon-ro 175-gil, Gangnam-gu, Seoul, South Korea, Seoul, 06029",
    "games_events": [
@@ -640,6 +701,7 @@
   {
    "name": "Yatap Battle City/ 야탑 배틀시티",
    "group": "in_store",
+   "city": "Seongnam-si",
    "address": "368-6, Yatap-dong, Bundang-gu, Seongnam-si",
    "phone": "+82 (0)31-707-7278",
    "games_events": [
@@ -650,6 +712,7 @@
   {
    "name": "トンデムンToy Market",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "330-93 Changsin-dong, Jongno District, Seoul",
    "checked_at": "2026-10-16T20:55:39Z"
@@ -666,6 +729,7 @@
   {
    "name": "규키아지트 // Gyukieagit",
    "group": "in_store",
+   "city": "Republic Of",
    "address": "302-ho, 38, Singi 12-gil, Jung-gu, Ulsan, 44453, Korea, Republic Of",
    "phone": "01034655962",
    "website": "https://www.instagram.com/gyukieagit/?igsh=MzNlNGNkZWQ4Mg%3D%3D#",
@@ -677,6 +741,7 @@
   {
    "name": "노원 카드홀릭",
    "group": "in_store",
+   "city": "Dongil-ro",
    "region": "Seoul",
    "address": "Seoul, Nowon-gu, Dongil-ro, 1354 5층",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -684,6 +749,7 @@
   {
    "name": "던전다이스",
    "group": "in_store",
+   "city": "Ulsan",
    "region": "Ulsan",
    "address": "2f, 2 Jungang-ro 151beon-gil, Nam-gu, Ulsan, South Korea, Ulsan, 44676",
    "games_events": [
@@ -694,6 +760,7 @@
   {
    "name": "동대문 문구 완구 거리",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "455-9 Changsin-dong, Jongno District, Seoul",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -701,6 +768,7 @@
   {
    "name": "듀얼파크",
    "group": "in_store",
+   "city": "신정동 지층 양천구 서울특별시",
    "region": "Seoul",
    "address": "Seoul, 신정동 902-3번지 지층 양천구 서울특별시 KR",
    "phone": "02-2602-6279",
@@ -709,6 +777,7 @@
   {
    "name": "리얼카드샵 realcardshop",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "17 지하 Yonsei-ro 9-gil, Seodaemun-gu, Seoul",
    "phone": "010-8411-2173",
@@ -718,6 +787,7 @@
   {
    "name": "목동 카드챔프",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "194 Omok-ro, Yangcheon District, Seoul",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -725,6 +795,7 @@
   {
    "name": "미카엘 TCG Shop",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "52 Guuigangbyeon-ro, Gwangjin District, Seoul",
    "phone": "02-447-6279",
@@ -733,6 +804,7 @@
   {
    "name": "부평히어로즈",
    "group": "in_store",
+   "city": "부평동 지층 부평구 인천광역시",
    "region": "Incheon",
    "address": "Incheon, 부평동 203-38번지 지층 부평구 인천광역시 KR",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -740,6 +812,7 @@
   {
    "name": "브라더굿즈",
    "group": "in_store",
+   "city": "지하",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero 680beon-gil, 680 지하 1층",
    "phone": "050-71308-4290",
@@ -749,6 +822,7 @@
   {
    "name": "브레이크앤컴퍼니(break & company)",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "4 층, 15 Yeoksam-ro 8-gil, Gangnam-gu, Seoul, South Korea, Seoul, 06250",
    "games_events": [
@@ -759,6 +833,7 @@
   {
    "name": "앙코르 굿즈",
    "group": "in_store",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "2242-3 Daemyeong-dong, Nam-gu, Daegu",
    "phone": "010-8201-2706",
@@ -767,6 +842,7 @@
   {
    "name": "애니메이트 부산점",
    "group": "in_store",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero, 672 애니메이트 부산점 삼정타워 11F",
    "website": "https://twitter.com/animate_busan",
@@ -775,6 +851,7 @@
   {
    "name": "오늘안녕 / Today Hello",
    "group": "in_store",
+   "city": "Republic of",
    "address": "4f, Eun-hang gil 5-4, Dong-nam gu, Cheon-Ahn, 44, 31129, Korea, Republic of",
    "phone": "+82(+82)1032377637",
    "games_events": [
@@ -785,6 +862,7 @@
   {
    "name": "울트라레어",
    "group": "in_store",
+   "city": "Jangjeon-dong",
    "region": "Busan",
    "address": "Busan, Geumjeong-gu, Jangjeon-dong, 227-5 201호",
    "phone": "051-515-5608",
@@ -804,6 +882,7 @@
   {
    "name": "제이클로버",
    "group": "in_store",
+   "city": "Busan",
    "region": "Busan",
    "address": "905 Jungang-daero, Busanjin District, Busan",
    "phone": "010-4937-6318",
@@ -813,6 +892,7 @@
   {
    "name": "조각모음",
    "group": "in_store",
+   "city": "홍원빌딩",
    "region": "Seoul",
    "address": "Seoul, Jung District, Eulji-ro, 114-6 홍원빌딩 202호",
    "phone": "010-9269-7866",
@@ -822,6 +902,7 @@
   {
    "name": "종로서적 청라점",
    "group": "in_store",
+   "city": "Cheongna emerald-ro",
    "region": "Incheon",
    "address": "Incheon, Seo-gu, Cheongna emerald-ro, 79 청라커넬에비뉴 지하 1층",
    "phone": "032-567-2331",
@@ -830,6 +911,7 @@
   {
    "name": "카드 스퀘어",
    "group": "in_store",
+   "city": "지하",
    "region": "Seoul",
    "address": "Seoul, Jung District, Dasan-ro 40-gil, 51 지하 1층",
    "phone": "02-6015-5689",
@@ -838,6 +920,7 @@
   {
    "name": "카드냥 토너먼트센터",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "2층, 22 Teheran-ro 27-gil, Gangnam District, Seoul, South Korea, Seoul, 06140",
    "games_events": [
@@ -848,6 +931,7 @@
   {
    "name": "카드볼트",
    "group": "in_store",
+   "city": "Galhyeon-ro",
    "region": "Seoul",
    "address": "Seoul, Eunpyeong District, Galhyeon-ro, 10-7 2층",
    "phone": "070-4895-4288",
@@ -857,6 +941,7 @@
   {
    "name": "카드타운",
    "group": "in_store",
+   "city": "카드타운",
    "region": "Seoul",
    "address": "Seoul, Gangdong-gu, Cheonho-daero 151-gil, 43 카드타운 1층",
    "phone": "010-7463-2004",
@@ -866,6 +951,7 @@
   {
    "name": "카드팝 (Cardpop)",
    "group": "in_store",
+   "city": "Bupyeongmunhwa-ro",
    "region": "Incheon",
    "address": "Incheon, Bupyeong District, Bupyeongmunhwa-ro 66beon-gil, 21 4층",
    "phone": "032-221-8502",
@@ -884,6 +970,7 @@
   {
    "name": "쿠로상점(Kuro Store)",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "69 Hangang-daero, Yongsan District, Seoul",
    "website": "https://twitter.com/kurostore_",
@@ -892,6 +979,7 @@
   {
    "name": "티씨지샵 셔플",
    "group": "in_store",
+   "city": "Busan",
    "region": "Busan",
    "address": "134-1 Chungnyeol-daero, Oncheon-dong, Dongnae-gu, Busan",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -899,6 +987,7 @@
   {
    "name": "티씨지서울",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "366-2 Seogyo-dong, Mapo-gu, Seoul",
    "phone": "010-3594-3115",
@@ -908,6 +997,7 @@
   {
    "name": "티씨지스타디움",
    "group": "in_store",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "107 Yuseong-daero 668beon-gil, Yuseong District, Daejeon",
    "phone": "050-71425-0626",
@@ -916,6 +1006,7 @@
   {
    "name": "포츈팩토리",
    "group": "in_store",
+   "city": "번지 지하",
    "region": "Busan",
    "address": "Busan, Nam-gu, Daeyeon-dong, 번지 지하 68-10",
    "phone": "010-5167-1629",
@@ -932,6 +1023,7 @@
   {
    "name": "포켓몬카드숍 아이파크몰점",
    "group": "in_store",
+   "city": "Hangang-daero",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, Hangang-daero 23-gil, 55 용산역 아이파크몰",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -939,6 +1031,7 @@
   {
    "name": "해방촌콤콤오락실",
    "group": "in_store",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "19-17 yongsan-dong 2(i)-ga, Yongsan District, Seoul",
    "checked_at": "2026-10-16T20:56:24Z"
@@ -946,6 +1039,7 @@
   {
    "name": "Aladdin Used Bookstore Incheon Songdo",
    "group": "unknown",
+   "city": "송도국제대로 송도오네스타",
    "region": "Incheon",
    "address": "Incheon, Yeonsu-gu, 송도국제대로 157 송도오네스타 지하1층",
    "phone": "1544-2514",
@@ -956,6 +1050,7 @@
   {
    "name": "Alpha",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "6-2 Namdaemun-ro, Jung District, Seoul",
    "phone": "02-752-0096",
@@ -965,6 +1060,7 @@
   {
    "name": "Alpha Stationery World",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "50 Gonghang-ro 424beon-gil, Jung-gu, Incheon",
    "phone": "032-743-8585",
@@ -974,6 +1070,7 @@
   {
    "name": "Animate Hongdae",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "188 Yanghwa-ro, Mapo-gu, Seoul",
    "phone": "02-3144-7357",
@@ -983,6 +1080,7 @@
   {
    "name": "Anseodang",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "17 Sinchon-ro 6-gil, Mapo-gu, Seoul",
    "phone": "010-7403-1816",
@@ -992,6 +1090,7 @@
   {
    "name": "Artbox Daegu Jungang",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "39 Dongseong-ro, Jung-gu, Daegu",
    "phone": "050-71308-0129",
@@ -1001,6 +1100,7 @@
   {
    "name": "Boonhongene",
    "group": "unknown",
+   "city": "지하",
    "region": "Busan",
    "address": "Busan, Suyeong-gu, 광안제2동 Gwangan-ro 45beon-gil, 2 지하 1층",
    "phone": "050-71366-0523",
@@ -1010,6 +1110,7 @@
   {
    "name": "Busan Shuffle / 부산 셔플",
    "group": "unknown",
+   "city": "Republic of",
    "address": "TCGSHOP SHUFFLE, 1st floor, 134-1, Chungnyeol-daero, Dongnae-gu, Busan, 47823, Korea, Republic of",
    "phone": "+821041972046",
    "website": "https://placeholder.com",
@@ -1021,6 +1122,7 @@
   {
    "name": "Busan the rock",
    "group": "unknown",
+   "city": "Busan",
    "region": "Busan",
    "address": "709-1 Suyeong-ro, Suyeong-gu, Busan, South Korea, Busan, 48227",
    "phone": "051-907-8074",
@@ -1033,6 +1135,7 @@
   {
    "name": "Card Nyang / 카드냥",
    "group": "unknown",
+   "city": "Republic of",
    "region": "Seoul",
    "address": "4F, Nonhyeon-ro 77-gil 9, Gangnam-gu, Seoul, 11, 06247, Korea, Republic of",
    "phone": "+8225683778",
@@ -1046,6 +1149,7 @@
   {
    "name": "Card Planet / 카드플래닛",
    "group": "unknown",
+   "city": "Republic of",
    "address": "3rd Floor, Cheongmyeong-ro 73-1, Yeongtong-gu, Suwon, 41, 16705, Korea, Republic of",
    "phone": "+821020495490",
    "website": "https://wpn.wizards.com/en",
@@ -1057,6 +1161,7 @@
   {
    "name": "Cardholic / 카드홀릭",
    "group": "unknown",
+   "city": "Republic of",
    "address": "3F, Pyeongtaek 2-ro 16, 평택시, 경기도, 450-010, Korea, Republic of",
    "phone": "8201027128884",
    "website": "https://open.kakao.com/o/gakNN7Ue",
@@ -1068,6 +1173,7 @@
   {
    "name": "CardNyang Dangsan",
    "group": "unknown",
+   "city": "Seoul",
    "address": "4  ,Dangsan-ro 38-gil  ,  Yeongdeungpo-gu , Seoul, 07220, KR",
    "phone": "82070-7799-3778",
    "website": "https://magic.wizards.com/en",
@@ -1079,6 +1185,7 @@
   {
    "name": "CARDPOM/ 카드팜",
    "group": "unknown",
+   "city": "Republic of",
    "address": "7F., Cardpom, 33 Jungang-daero 692beon-gil, Busanjin-gu,, Busan, Gyeongsangnamdo, 47295, Korea, Republic of",
    "phone": "+827077992818",
    "website": "https://smartstore.naver.com/cardpom/",
@@ -1090,6 +1197,7 @@
   {
    "name": "Cardport",
    "group": "unknown",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero 666beon-gil, 50 센트럴스타 상가동 지하2층 카드포트 203-10호",
    "phone": "010-7470-0683",
@@ -1099,6 +1207,7 @@
   {
    "name": "CARDRAGON",
    "group": "unknown",
+   "city": "SEOUL",
    "address": "210, Yeongdong-daero, SEOUL, SEOUL, 06286, KR",
    "phone": "+8207077563075",
    "website": "https://cardragon.co.kr/",
@@ -1110,6 +1219,7 @@
   {
    "name": "Collecto TCG",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "3층, 84 Semuseo-gil, Seodaemun-gu, Seoul",
    "phone": "010-7522-2379",
@@ -1119,6 +1229,7 @@
   {
    "name": "Comic Plaza",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "184 Gyeongsanggamyeong-gil, Jung-gu, Daegu",
    "website": "https://www.comicplaza.co.kr/",
@@ -1128,6 +1239,7 @@
   {
    "name": "Comic Zone",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "300 Sillim-ro, Sillim-dong, Gwanak-gu, Seoul",
    "phone": "02-6497-8090",
@@ -1137,6 +1249,7 @@
   {
    "name": "Comme des Garcons Seoul",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "261 Itaewon-ro, Yongsan District, Seoul",
    "phone": "02-749-1153",
@@ -1146,6 +1259,7 @@
   {
    "name": "COS",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "35 Yeonnam-ro, Michuhol-gu, Incheon",
    "phone": "070-4166-2198",
@@ -1155,6 +1269,7 @@
   {
    "name": "Costco Wholesale Daegu",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "97 Geomdan-ro, Buk-gu, Daegu",
    "phone": "1899-9900",
@@ -1164,6 +1279,7 @@
   {
    "name": "Costco Wholesale Daejeon",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "41 Oryu-ro, Jung-gu, Daejeon",
    "phone": "1899-9900",
@@ -1173,6 +1289,7 @@
   {
    "name": "Custom Card Shop",
    "group": "unknown",
+   "city": "동구 대전광역시",
    "region": "대전광역시",
    "address": "66 Gayangnam-ro 33, 401 beon-gil, 동구 대전광역시",
    "website": "https://www.customcardshop.com/",
@@ -1181,6 +1298,7 @@
   {
    "name": "daegugoods",
    "group": "unknown",
+   "city": "Seoseong-ro",
    "region": "Daegu",
    "address": "Daegu, Jung-gu, Seoseong-ro 14-gil, 69 1층",
    "phone": "053-261-5585",
@@ -1190,6 +1308,7 @@
   {
    "name": "Daejeon Skyscrapper",
    "group": "unknown",
+   "city": "Republic Of",
    "address": "31 3rd floor, Mokchuk 8-gil, Daejeon, jung-gu, 34832, Korea, Republic Of",
    "phone": "+821080116646",
    "website": "https://x.com/TCGLifelink",
@@ -1202,6 +1321,7 @@
   {
    "name": "Dice & Comics Cafe (Formerly Dice Latte)",
    "group": "unknown",
+   "city": "동대문구 서울특별시",
    "region": "서울특별시",
    "address": "2F, 428-3 Bldg, Dongwoo, 동대문구 서울특별시",
    "phone": "02-960-7159",
@@ -1211,6 +1331,7 @@
   {
    "name": "Dyueoljon",
    "group": "unknown",
+   "city": "번지",
    "region": "Seoul",
    "address": "Seoul, Nowon-gu, Sanggye-dong, 번지 2층 581-102",
    "phone": "02-939-6625",
@@ -1220,6 +1341,7 @@
   {
    "name": "E-Mart Dunsan Branch",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "41 Dunsanbuk-ro, Seo-gu, Daejeon",
    "website": "https://emartapp.emart.com/branch/view.do?id=1038&mallGbn=M",
@@ -1228,6 +1350,7 @@
   {
    "name": "E-Mart Traders Wolpyeong",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "580 Hanbat-daero, Seo-gu, Daejeon",
    "phone": "042-718-1234",
@@ -1237,6 +1360,7 @@
   {
    "name": "Elves & Espresso",
    "group": "unknown",
+   "city": "Republic of",
    "region": "Seoul",
    "address": "서울 용산구 녹사평대로46길 5 2층, Yongsan-gu, Seoul, 04345, Korea, Republic of",
    "phone": "+821025136408",
@@ -1249,6 +1373,7 @@
   {
    "name": "Figure Friends",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "8 지층 Yanghwa-ro 18an-gil, Mapo-gu, Seoul",
    "phone": "010-8223-7922",
@@ -1259,6 +1384,7 @@
   {
    "name": "Figure Museum W",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "3 Seolleung-ro 158-gil, Gangnam District, Seoul",
    "phone": "02-512-8865",
@@ -1269,6 +1395,7 @@
   {
    "name": "Galleria Department Store Timeworld",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "211 Daedeok-daero, Dunsan-dong, Seo-gu, Daejeon",
    "phone": "042-720-6684",
@@ -1278,6 +1405,7 @@
   {
    "name": "Game Woori",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "304 Hyoryeong-ro, Seocho District, Seoul",
    "phone": "02-3465-0048",
@@ -1287,6 +1415,7 @@
   {
    "name": "GemMint Sports Card",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "25 Changgyeonggung-ro 29-gil, Jongno District, Seoul",
    "website": "http://gemmint.kr/",
@@ -1305,6 +1434,7 @@
   {
    "name": "Gundam base Daegu",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "95 Dongseong-ro 2-gil, 성내1동 Jung-gu, Daegu",
    "phone": "053-426-2805",
@@ -1314,6 +1444,7 @@
   {
    "name": "Gundam Base, Seomyeon",
    "group": "unknown",
+   "city": "삼정타워",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero, 672 삼정타워 7층",
    "phone": "051-818-3440",
@@ -1323,6 +1454,7 @@
   {
    "name": "Hobby Central / Jay computer",
    "group": "unknown",
+   "city": "Republic of",
    "address": "1st floor, 9, Anjeongshopping-ro, Paengseong-eup, , Pyeongtaek-si, 41, 17982, Korea, Republic of",
    "phone": "+821035071870",
    "website": "https://wpn.wizards.com/en",
@@ -1348,6 +1480,7 @@
   {
    "name": "HOBBY KOREA",
    "group": "unknown",
+   "city": "Seocho-daero",
    "region": "Seoul",
    "address": "Seoul, Seocho District, Seocho-daero 77-gil, 55 SEYE 에이프로스퀘어 108호",
    "phone": "02-6368-1120",
@@ -1357,6 +1490,7 @@
   {
    "name": "HOMEPLUS",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "587 Jungbong-daero, Seo-gu, Incheon",
    "phone": "032-723-8800",
@@ -1366,6 +1500,7 @@
   {
    "name": "I'Park Mall",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "55 Hangang-daero 23-gil, Yongsan District, Seoul",
    "phone": "02-2012-0101",
@@ -1375,6 +1510,7 @@
   {
    "name": "Incheon Airport Duty Free Store",
    "group": "unknown",
+   "city": "인천국제공항 동편출국장 GATE",
    "region": "Incheon",
    "address": "Incheon, Jung-gu, 인천국제공항 동편출국장 GATE 12~24",
    "phone": "032-250-2254",
@@ -1384,6 +1520,7 @@
   {
    "name": "Incheon International Airport Terminal 2 Korean Traditional Culture Experience Center (East)",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "272 Gonghang-ro, Jung-gu, Incheon",
    "phone": "032-743-0359",
@@ -1393,6 +1530,7 @@
   {
    "name": "JOYHOBBY",
    "group": "unknown",
+   "city": "Saemal-ro",
    "region": "Seoul",
    "address": "Seoul, Guro District, Saemal-ro, 97 3층",
    "phone": "1800-5015",
@@ -1402,6 +1540,7 @@
   {
    "name": "KADO TCG SEOUL",
    "group": "unknown",
+   "city": "Hongik-ro",
    "region": "Seoul",
    "address": "Seoul, Mapo-gu, Hongik-ro, 10 서교푸르지오 상가 2층 135호",
    "website": "https://kado.trade/",
@@ -1421,6 +1560,7 @@
   {
    "name": "Kindle/킨들",
    "group": "unknown",
+   "city": "Gwang-Jin Gu",
    "region": "Seoul",
    "address": "4th floor, Achasan-Ro 197, Gwang-Jin Gu",
    "phone": "(+82) 2497 7548",
@@ -1433,6 +1573,7 @@
   {
    "name": "Ktown4u Coex",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "513 Yeongdong-daero, Gangnam District, Seoul",
    "website": "https://www.ktown4u.com/stores",
@@ -1441,6 +1582,7 @@
   {
    "name": "Kyobo Book Centre Busan",
    "group": "unknown",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero, 658 1F, B1F",
    "phone": "051-806-3501",
@@ -1450,6 +1592,7 @@
   {
    "name": "Kyobo Book Centre Gwanghwamun",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "1 Jong-ro, B1F, Jongno District, Seoul",
    "phone": "02-397-3400",
@@ -1459,6 +1602,7 @@
   {
    "name": "Kyobo Book Centre Incheon",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "138 Yesul-ro, Namdong-gu, Incheon",
    "phone": "032-455-1000",
@@ -1468,6 +1612,7 @@
   {
    "name": "LAS TCG",
    "group": "unknown",
+   "city": "Republic of",
    "address": "302ho, 2dong, 907, Jungang-daero, Danwon-gu, Ansan-si, Gyeonggi-do, 15361, Korea, Republic of",
    "phone": "+82314109219",
    "website": "https://linktr.ee/lastcg",
@@ -1480,6 +1625,7 @@
   {
    "name": "Le Meilleur Jongno Town",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "19 Jong-ro, Jongno District, Seoul",
    "phone": "02-521-7868",
@@ -1504,6 +1650,7 @@
   {
    "name": "liz studio TCG",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "36-5 Nonhyeon-ro 26-gil, Gangnam District, Seoul, South Korea, Seoul, 06300",
    "phone": "010-3332-5591",
@@ -1516,6 +1663,7 @@
   {
    "name": "LOTTE MART ZETTAPLEX Seoul Station",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "405 Hangang-daero, Jung District, Seoul",
    "phone": "1899-3000",
@@ -1525,6 +1673,7 @@
   {
    "name": "LOTTE OUTLETS Seoul Station",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "405 Hangang-daero, Jung District, Seoul",
    "phone": "1577-0001",
@@ -1534,6 +1683,7 @@
   {
    "name": "LOTTE WORLD MALL",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "300 Olympic-ro, Songpa District, Seoul",
    "phone": "02-3213-5000",
@@ -1543,6 +1693,7 @@
   {
    "name": "Love is Giving Heart Bear Gwangalli",
    "group": "unknown",
+   "city": "Gwangan-ro",
    "region": "Busan",
    "address": "Busan, Suyeong-gu, Gwangan-ro, 51 1층",
    "website": "https://loveisgiving.kr/",
@@ -1551,6 +1702,7 @@
   {
    "name": "mindthings",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "32-1 Supyo-ro, Jung District, Seoul",
    "phone": "070-7775-6002",
@@ -1560,6 +1712,7 @@
   {
    "name": "Miniville Seomyeon / 미니빌 서면점",
    "group": "unknown",
+   "city": "Republic of",
    "address": "4th floor Miniville, 33, Jungang-daero 692beon-gil , Busanjingu, Busan, Busan, 47295, Korea, Republic of",
    "phone": "+827041498228",
    "website": "https://linktr.ee/lastcg",
@@ -1582,6 +1735,7 @@
   {
    "name": "POCA SPOT Myeong-dong",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "33 Myeongdong 8na-gil, Jung District, Seoul",
    "website": "https://www.pocaspot.com/myeongdong",
@@ -1600,6 +1754,7 @@
   {
    "name": "Pokemon Card Shop BUSAN",
    "group": "unknown",
+   "city": "Myeongnyun-ro",
    "region": "Busan",
    "address": "Busan, Dongnae-gu, Myeongnyun-ro 129beon-gil, 54 4층",
    "phone": "050-71491-9697",
@@ -1609,6 +1764,7 @@
   {
    "name": "RIOT STORE",
    "group": "unknown",
+   "city": "Jong-ro",
    "region": "Seoul",
    "address": "Seoul, Jongno District, Jong-ro, 33 그랑서울 타워 3층",
    "website": "https://www.riot-store.co.kr/",
@@ -1617,6 +1773,7 @@
   {
    "name": "Rolling Dice PyeongTaek",
    "group": "unknown",
+   "city": "Gyeonggi-do",
    "address": "Anjeong-ro, 6 7th floor, Pyeongtaek-si, Gyeonggi-do, 17984, KO",
    "phone": "+820316550288",
    "website": "https://rndhobby.com/en",
@@ -1628,6 +1785,7 @@
   {
    "name": "Rolling Dice/ 롤링다이스",
    "group": "unknown",
+   "city": "Mapo-gu",
    "region": "Seoul",
    "address": "3F Rollingdice Shop, 193 Donggyo-ro, Mapo-gu",
    "phone": "(+82) 2 323 7455",
@@ -1641,6 +1799,7 @@
   {
    "name": "Seoul My Soul Shop (Myeong-dong Tourist Information Center)",
    "group": "unknown",
+   "city": "Eulji-ro",
    "region": "Seoul",
    "address": "Seoul, Jung District, Eulji-ro, 66 하나금융그룹 명동사옥 별관 1층",
    "website": "https://english.visitseoul.net/partners-en/seoul-goods",
@@ -1649,6 +1808,7 @@
   {
    "name": "Shilla I-Park Duty Free Store",
    "group": "unknown",
+   "city": "아이파크몰",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, Hangang-daero 23-gil, 55 아이파크몰 3F-5F",
    "phone": "1688-8800",
@@ -1658,6 +1818,7 @@
   {
    "name": "Shinsegae Department store Daegu",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "149 Dongbu-ro, Dong-gu, Daegu",
    "phone": "1877-4326",
@@ -1667,6 +1828,7 @@
   {
    "name": "Shinsegae Duty Free Myeongdong",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "77 Toegye-ro, Jung District, Seoul",
    "phone": "1661-8778",
@@ -1676,6 +1838,7 @@
   {
    "name": "Skyscraper / 스카이스크레이퍼",
    "group": "unknown",
+   "city": "Republic of",
    "address": "5f, 705, Buil-ro, Bucheon-si, 41, 14672, Korea, Republic of",
    "phone": "+821030116133",
    "website": "https://wpn.wizards.com/en",
@@ -1687,6 +1850,7 @@
   {
    "name": "Starfield Coex Mall",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "513 Yeongdong-daero, Gangnam District, Seoul",
    "phone": "02-6002-5300",
@@ -1696,6 +1860,7 @@
   {
    "name": "The Time Namsan",
    "group": "unknown",
+   "city": "쌍용남산플래티넘",
    "region": "Seoul",
    "address": "Seoul, Jung District, Hoehyeon-dong 2(i)-ga, 87번지 쌍용남산플래티넘 103호",
    "phone": "02-3789-0277",
@@ -1705,6 +1870,7 @@
   {
    "name": "Thecardroom TCG Hongdae",
    "group": "unknown",
+   "city": "Yeonnam-ro",
    "region": "Seoul",
    "address": "Seoul, Mapo-gu, Yeonnam-ro 3-gil, 40 2층",
    "phone": "070-7164-0900",
@@ -1714,6 +1880,7 @@
   {
    "name": "Toys \"R\" Us Cheongnyangni",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "214 Wangsan-ro, 전농제1동 Dongdaemun District, Seoul",
    "phone": "02-3706-4911",
@@ -1723,6 +1890,7 @@
   {
    "name": "Toys \"R\" Us ZETTAPLEX Jamsil",
    "group": "unknown",
+   "city": "Olympic-ro",
    "region": "Seoul",
    "address": "Seoul, Songpa District, 잠실3동 Olympic-ro, 240 롯데마트 잠실점 4층",
    "phone": "02-411-8200",
@@ -1732,6 +1900,7 @@
   {
    "name": "TRADERS WHOLESALE CLUB",
    "group": "unknown",
+   "city": "Busan",
    "region": "Busan",
    "address": "31 Simingongwon-ro, Busanjin District, Busan",
    "phone": "051-718-1234",
@@ -1741,6 +1910,7 @@
   {
    "name": "TRADERS WHOLESALE CLUB (Big Emart)",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "82 Bongsu-daero, Dong-gu, Incheon",
    "phone": "032-722-1234",
@@ -1750,6 +1920,7 @@
   {
    "name": "Trainer School / 트레이너 스쿨",
    "group": "unknown",
+   "city": "Republic of",
    "region": "Daegu",
    "address": "2F, Yaoeeumakdang-ro 50, Dalseo-gu, Daegu, 704-080, Korea, Republic of",
    "phone": "8201048362223",
@@ -1763,6 +1934,7 @@
   {
    "name": "TT GAME",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "74 Cheongpa-ro, Yongsan District, Seoul",
    "phone": "010-2665-3814",
@@ -1772,6 +1944,7 @@
   {
    "name": "Universe Gacha",
    "group": "unknown",
+   "city": "서울특별시 강남구 지하동 화성빌딩",
    "region": "Seoul",
    "address": "Seoul, Gangnam District, KR 서울특별시 강남구 봉은사로2길 13 지하동 1층 화성빌딩",
    "phone": "050-71363-9825",
@@ -1781,6 +1954,7 @@
   {
    "name": "Vinyl & Plastic",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "248 Itaewon-ro, Yongsan District, Seoul",
    "phone": "02-2014-7800",
@@ -1790,6 +1964,7 @@
   {
    "name": "Wiggle wiggle Myeongdong",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "24 Myeongdong 8ga-gil, Jung District, Seoul",
    "phone": "070-4149-0111",
@@ -1799,6 +1974,7 @@
   {
    "name": "YES24 Bookstore 부산 수영점-F1963",
    "group": "unknown",
+   "city": "복합문화공간",
    "region": "Busan",
    "address": "Busan, Suyeong-gu, Gurak-ro 123beon-gil, 20 F1963 복합문화공간",
    "phone": "1566-4295",
@@ -1808,6 +1984,7 @@
   {
    "name": "게임다이브",
    "group": "unknown",
+   "city": "Tanbang-dong",
    "region": "Daejeon",
    "address": "Daejeon, Seo-gu, Tanbang-dong, 80-7 2층",
    "phone": "010-7908-1191",
@@ -1817,6 +1994,7 @@
   {
    "name": "게임홀릭",
    "group": "unknown",
+   "city": "Incheon",
    "region": "Incheon",
    "address": "52 Juan-ro, Michuhol-gu, Incheon",
    "phone": "010-4110-3991",
@@ -1837,6 +2015,7 @@
   {
    "name": "까르띠에 신세계백화점 타임스퀘어점",
    "group": "unknown",
+   "city": "Yeongjung-ro",
    "region": "Seoul",
    "address": "Seoul, Yeongdeungpo District, Yeongjung-ro, 9 신세계백화점 타임스퀘어점",
    "phone": "1877-4326",
@@ -1846,6 +2025,7 @@
   {
    "name": "놀숲 신촌점",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "37 Myeongmul-gil, Changcheon-dong, Seodaemun-gu, Seoul",
    "phone": "070-4145-6000",
@@ -1855,6 +2035,7 @@
   {
    "name": "대구듀얼챔프",
    "group": "unknown",
+   "city": "Songna-ro",
    "region": "Daegu",
    "address": "Daegu, Dong-gu, Songna-ro, 66 3층",
    "phone": "053-426-7717",
@@ -1864,6 +2045,7 @@
   {
    "name": "더 타임 남산",
    "group": "unknown",
+   "city": "남산쌍용플래티늄아파트상가",
    "region": "Seoul",
    "address": "Seoul, Jung District, Sogong-ro, 46 남산쌍용플래티늄아파트상가 1층 103호",
    "website": "https://www.the-time.kr/index.html",
@@ -1872,6 +2054,7 @@
   {
    "name": "더벙커게임존",
    "group": "unknown",
+   "city": "Daehak-ro",
    "region": "Daejeon",
    "address": "Daejeon, Yuseong District, Daehak-ro, 34 노블레스타워 지하 1층",
    "phone": "070-8880-0530",
@@ -1894,6 +2077,7 @@
   {
    "name": "데쿠데쿠",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "9 Bongcheon-ro 31-gil, Gwanak-gu, Seoul",
    "phone": "010-5703-9837",
@@ -1903,6 +2087,7 @@
   {
    "name": "듀얼팩토리 // Duel Factory",
    "group": "unknown",
+   "city": "Republic Of",
    "address": "36-7, Boksan-dong, 454 Beonyeong-ro, 울산 (Ulsan), 울산 (Ulsan), 44511, Korea, Republic Of",
    "phone": "+82+82010-8504-0662",
    "website": "https://carddc.co.kr/main.html",
@@ -1914,6 +2099,7 @@
   {
    "name": "모아카드샵",
    "group": "unknown",
+   "city": "Majo-ro",
    "region": "Seoul",
    "address": "Seoul, Seongdong-gu, Majo-ro 5-gil, 3-3 2층",
    "phone": "010-2135-0147",
@@ -1924,6 +2110,7 @@
   {
    "name": "미스틱팩토리",
    "group": "unknown",
+   "city": "핀포인트타워",
    "region": "Seoul",
    "address": "Seoul, Guro District, Gyeongin-ro, 661 핀포인트타워 101동 709호",
    "phone": "050-71382-2179",
@@ -1933,6 +2120,7 @@
   {
    "name": "박서방 대전본점",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "423-3 Goejeong-dong, Seo-gu, Daejeon",
    "phone": "042-537-0083",
@@ -1942,6 +2130,7 @@
   {
    "name": "보드게임카페 미니빌 서면점",
    "group": "unknown",
+   "city": "Jungang-daero",
    "region": "Busan",
    "address": "Busan, Busanjin District, Jungang-daero 692beon-gil, 33 4층",
    "phone": "070-4149-8228",
@@ -1952,6 +2141,7 @@
   {
    "name": "세기P&C",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "24-9 Chungmuro 3(sam)-ga, Jung District, Seoul",
    "phone": "02-3668-3114",
@@ -1971,6 +2161,7 @@
   {
    "name": "아트박스 부산서면점",
    "group": "unknown",
+   "city": "Busan",
    "region": "Busan",
    "address": "39 Jungang-daero 692beon-gil, Busanjin District, Busan",
    "phone": "050-71414-5657",
@@ -1980,6 +2171,7 @@
   {
    "name": "알라딘 중고서점 인천구월점",
    "group": "unknown",
+   "city": "인하로",
    "region": "Incheon",
    "address": "Incheon, Namdong-gu, 인하로 497-22 2층",
    "phone": "1544-2514",
@@ -1990,6 +2182,7 @@
   {
    "name": "알라딘 중고서점 청라점",
    "group": "unknown",
+   "city": "청연프라자",
    "region": "Incheon",
    "address": "Incheon, Seo-gu, Jungbong-daero 586beon-gil, 15 청연프라자 2층",
    "phone": "1544-2514",
@@ -2000,6 +2193,7 @@
   {
    "name": "영풍문고 대전점",
    "group": "unknown",
+   "city": "용전동",
    "region": "Daejeon",
    "address": "Daejeon, Dong-gu, 용전동 68-2 2층",
    "phone": "042-623-4914",
@@ -2010,6 +2204,7 @@
   {
    "name": "영풍문고 인천스퀘어원점",
    "group": "unknown",
+   "city": "Cheongneung-daero",
    "region": "Incheon",
    "address": "Incheon, Yeonsu-gu, Cheongneung-daero, 210 1층",
    "phone": "032-456-4021",
@@ -2020,6 +2215,7 @@
   {
    "name": "용산 마블컬렉션",
    "group": "unknown",
+   "city": "아이파크몰",
    "region": "Seoul",
    "address": "Seoul, Yongsan District, Hangang-daero 23-gil, 55 아이파크몰 6층",
    "phone": "02-6373-3370",
@@ -2029,6 +2225,7 @@
   {
    "name": "이수듀얼파크",
    "group": "unknown",
+   "city": "삼정빌딩 지하",
    "region": "Seoul",
    "address": "Seoul, Dongjak District, Sadang-dong, 삼정빌딩 지하 89-1",
    "phone": "02-535-6212",
@@ -2039,6 +2236,7 @@
   {
    "name": "잠실 무인 스포츠카드샵",
    "group": "unknown",
+   "city": "지하",
    "region": "Seoul",
    "address": "Seoul, Songpa District, Baekjegobun-ro 9-gil, 22 지하 1층",
    "phone": "010-4491-2350",
@@ -2049,6 +2247,7 @@
   {
    "name": "쥬라옵티크 빈티지 안경샵 동묘점 JURAOPTIQUE DONGMYO",
    "group": "unknown",
+   "city": "Nangye-ro",
    "region": "Seoul",
    "address": "Seoul, Dongdaemun District, Nangye-ro 28-gil, 48 1층",
    "phone": "050-71351-0721",
@@ -2058,6 +2257,7 @@
   {
    "name": "카드랩 CARD LAB",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "27 Dongjak-daero 1-gil, Dongjak District, Seoul",
    "phone": "050-71301-2379",
@@ -2068,6 +2268,7 @@
   {
    "name": "카드빌리지 천안점 // Card Village Cheonan",
    "group": "unknown",
+   "city": "Republic Of",
    "address": "2F, 49, Buldang 1-gil, Seobuk-gu, Cheonan-si, Chungcheongnam-do, 31164, Korea, Republic Of",
    "phone": "+8250713160933",
    "website": "https://x.com/TCGLifelink",
@@ -2080,6 +2281,7 @@
   {
    "name": "카드유니버스종로",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "24 Jongno 1(il)-ga, Jongno District, Seoul",
    "website": "https://m.blog.naver.com/yt911",
@@ -2088,6 +2290,7 @@
   {
    "name": "카드킹덤 마린포드(Card Kingdom - Marineford)",
    "group": "unknown",
+   "city": "인경빌딩",
    "region": "Seoul",
    "address": "Seoul, Dongdaemun District, Janghan-ro, 37 인경빌딩 3층",
    "phone": "070-4402-7770",
@@ -2097,6 +2300,7 @@
   {
    "name": "카드하비 Cardhobby",
    "group": "unknown",
+   "city": "Teheran-ro",
    "region": "Seoul",
    "address": "Seoul, Gangnam District, Teheran-ro 82-gil, 14 1층",
    "phone": "02-3452-0120",
@@ -2106,6 +2310,7 @@
   {
    "name": "택매직 - Tek Magic",
    "group": "unknown",
+   "city": "서대문구 아남 인베스텔 지하 층 호",
    "region": "Seoul",
    "address": "Seoul, Seodaemun-gu, Sinchon-ro, 서대문구 121 아남 인베스텔 지하 1 층 B09 호",
    "phone": "02-313-1548",
@@ -2115,6 +2320,7 @@
   {
    "name": "토이친구",
    "group": "unknown",
+   "city": "Busan",
    "region": "Busan",
    "address": "704호, 영진파스타 빌딩, 87 Sesil-ro, Haeundae, Busan",
    "phone": "070-7543-2508",
@@ -2135,6 +2341,7 @@
   {
    "name": "티씨지드로우",
    "group": "unknown",
+   "city": "Suyeong-ro",
    "region": "Busan",
    "address": "Busan, Nam-gu, Suyeong-ro 298beon-gil, 37 용수빌딩 티씨지드로우 6층",
    "phone": "050-71331-3065",
@@ -2145,6 +2352,7 @@
   {
    "name": "파워스테이션",
    "group": "unknown",
+   "city": "Dongcheon-ro",
    "region": "Busan",
    "address": "Busan, Busanjin District, Dongcheon-ro, 70 쌍용플래티넘 상가 2층",
    "phone": "051-808-4030",
@@ -2154,6 +2362,7 @@
   {
    "name": "팝마트 롯데백화점 대전점",
    "group": "unknown",
+   "city": "팝마트",
    "region": "Daejeon",
    "address": "Daejeon, Seo-gu, Gyeryong-ro, 598 팝마트 1층",
    "phone": "042-601-2123",
@@ -2163,6 +2372,7 @@
   {
    "name": "포카드 스포츠카드 (Four Card Sports Store)",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "14 Apgujeong-ro 10-gil, Gangnam District, Seoul",
    "website": "https://4cards.net/",
@@ -2171,6 +2381,7 @@
   {
    "name": "포켓몬 카드샵 카드베이스 부산",
    "group": "unknown",
+   "city": "Busan",
    "region": "Busan",
    "address": "533-115 Myeongnyun-dong, Dongnae-gu, Busan",
    "phone": "050-71491-9697",
@@ -2180,6 +2391,7 @@
   {
    "name": "포켓몬카드샵 트레이너 스쿨 PokemonCard Shop TrainerSchool",
    "group": "unknown",
+   "city": "Yaoeeumakdang-ro",
    "region": "Daegu",
    "address": "Daegu, Dalseo District, Yaoeeumakdang-ro, 50 2층",
    "phone": "070-8872-1341",
@@ -2199,6 +2411,7 @@
   {
    "name": "하비랜드",
    "group": "unknown",
+   "city": "Daegu",
    "region": "Daegu",
    "address": "434 Jungang-daero, Jung-gu, Daegu",
    "phone": "053-425-7866",
@@ -2209,6 +2422,7 @@
   {
    "name": "하비코리아 부산점",
    "group": "unknown",
+   "city": "동호빌딩",
    "region": "Busan",
    "address": "Busan, Busanjin District, Dongcheon-ro, 59 동호빌딩 2층",
    "phone": "051-807-3861",
@@ -2218,6 +2432,7 @@
   {
    "name": "하비홀릭",
    "group": "unknown",
+   "city": "Seoul",
    "region": "Seoul",
    "address": "Seoul, 당산동4가 32-61번지 4동 선명빌딩 영등포구 서울특별시 KR",
    "website": "https://m.smartstore.naver.com/cardkingdom",
@@ -2226,6 +2441,7 @@
   {
    "name": "호키랜드",
    "group": "unknown",
+   "city": "Daejeon",
    "region": "Daejeon",
    "address": "317 Jung-dong, Dong-gu, Daejeon",
    "phone": "042-222-0717",

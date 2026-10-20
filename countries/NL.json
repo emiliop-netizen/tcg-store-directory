@@ -29,6 +29,7 @@
   {
    "name": "Card House Of The East",
    "group": "public_buylist",
+   "city": "Overijssel",
    "address": "Smedenstraat 31, Deventer, Overijssel, 7411RB, Netherlands",
    "phone": "+310611723266",
    "website": "https://card-house.nl/",
@@ -69,6 +70,7 @@
   {
    "name": "Magicers",
    "group": "login_required",
+   "city": "Gouda",
    "address": "Lange Groenendaal 82, Gouda, ZH, 2801LV, Netherlands",
    "phone": "(+31) 0182 235 076",
    "website": "https://www.magicers.nl/home",
@@ -83,6 +85,7 @@
   {
    "name": "Spellhaven",
    "group": "login_required",
+   "city": "Utrecht",
    "address": "5 Plantsoen, Woerden, Utrecht, 3441 EK, Netherlands",
    "phone": "+31611053971",
    "website": "https://magickast.nl/spellhaven",
@@ -129,6 +132,7 @@
   {
    "name": "Joydo",
    "group": "quote_only",
+   "city": "Gelderland",
    "address": "Ambachtstraat 18A, Brummen, Gelderland, 6971BR, Netherlands",
    "phone": "+310611200659",
    "website": "https://www.joydo.nl",
@@ -192,6 +196,7 @@
   {
    "name": "Retro Empire Gaming",
    "group": "quote_only",
+   "city": "Apeldoorn",
    "address": "141 De Eglantier, Apeldoorn, GE, 7329 DD, Netherlands",
    "phone": "+31634007574",
    "website": "https://retro-empire.nl/",
@@ -299,6 +304,7 @@
   {
    "name": "Boekhandel Dominicanen",
    "group": "blocked",
+   "city": "Limburg",
    "address": "1 Dominicanerkerkstraat, Maastricht, Limburg, 6211 CZ, Netherlands",
    "phone": "+31434100010",
    "website": "https://www.boekhandeldominicanen.nl/agenda",
@@ -360,6 +366,7 @@
   {
    "name": "Dracoon",
    "group": "blocked",
+   "city": "Gelderland",
    "address": "Toepadweg 4c, ZALTBOMMEL, Gelderland, 5301 KA, Netherlands",
    "phone": "+310627406546",
    "website": "https://dracoon.nl/",
@@ -530,6 +537,7 @@
   {
    "name": "Player2 Geek & Gamestore",
    "group": "blocked",
+   "city": "Noord Brabant",
    "address": "Sacramentsweg 4, UDEN, Noord Brabant, 5401 GR, Netherlands",
    "phone": "+310629906051",
    "website": "https://www.player2gamestore.nl",
@@ -541,6 +549,7 @@
   {
    "name": "Playourgames Uden",
    "group": "blocked",
+   "city": "Uden",
    "address": "12 Mondriaanplein, Uden, NB, 5401 HX, Netherlands",
    "phone": "+31413289369",
    "website": "https://www.playourgames.nl/444-ops-tickets",
@@ -763,6 +772,7 @@
   {
    "name": "De Witte Raaf",
    "group": "in_store",
+   "city": "Gelderland",
    "address": "Grotestraat 11, Nijmegen, Gelderland, 6511vb, Netherlands",
    "phone": "+31653432555",
    "website": "https://www.instagram.com/dewitteraafnijmegen/",
@@ -837,6 +847,7 @@
   {
    "name": "Gifts Goodies & Fantasy",
    "group": "in_store",
+   "city": "Goes",
    "address": "13 Papegaaistraat, Goes, ZE, 4461 AD, Netherlands",
    "phone": "+31619206041",
    "website": "https://www.facebook.com/p/Gifts-Goodies-Fantasy-100078972700294/",
@@ -942,6 +953,7 @@
   {
    "name": "My Anime Alkmaar",
    "group": "in_store",
+   "city": "Alkmaar",
    "address": "431 Europaboulevard, Alkmaar, NH, 1825 RN, Netherlands",
    "phone": "+31628916340",
    "website": "https://www.instagram.com/myanime_alkmaar/",
@@ -1183,6 +1195,7 @@
   {
    "name": "Towergaming",
    "group": "in_store",
+   "city": "Overijssel",
    "address": "Oosterstraat 91, Steenwijk, Overijssel, 8331HC, Netherlands",
    "phone": "+310651461661",
    "website": "https://www.facebook.com/share/1F5HS69wf6/?mibextid=wwXIfr",
@@ -1194,6 +1207,7 @@
   {
    "name": "Toystars tcg&collectibles",
    "group": "in_store",
+   "city": "Groningen",
    "address": "34 Promenade, Veendam, Groningen, 9641 AK, Netherlands",
    "phone": "+310638274803",
    "website": "https://www.facebook.com/share/17pmLiWHEq/",
@@ -1645,6 +1659,7 @@
   {
    "name": "Arcane Forge",
    "group": "unknown",
+   "city": "North Holland",
    "address": "25-H Rijnstraat, Amsterdam, North Holland, 1078 PV, Netherlands",
    "phone": "+310627222990",
    "website": "https://arcaneforge.nl/",
@@ -1676,6 +1691,7 @@
   {
    "name": "Atomik",
    "group": "unknown",
+   "city": "Sittard",
    "address": "Stationsstraat 19+21, Sittard, LI, 6131AX, Netherlands",
    "phone": "3146 451 5074",
    "website": "https://www.atomik.nl/nl",
@@ -1957,6 +1973,7 @@
   {
    "name": "BRO’s Brielle",
    "group": "unknown",
+   "city": "Zuid Holland",
    "address": "Nobelstraat 40, Brielle, Zuid Holland, 3231BC, Netherlands",
    "phone": "+5990031631046138",
    "website": "https://brosbrielle.nl/",
@@ -2371,6 +2388,7 @@
   {
    "name": "D6gaming",
    "group": "unknown",
+   "city": "Noord-holland",
    "address": "Schagchelstraat 6, Haarlem, Noord-holland, 2011HX, Netherlands",
    "phone": "+310612392056",
    "website": "https://www.d6gaming.nl",
@@ -2415,6 +2433,7 @@
   {
    "name": "Dave & Adam's Card World B.V.",
    "group": "unknown",
+   "city": "Roermond",
    "address": "22 Groeneweg, Roermond, LI, 6041 AX, Netherlands",
    "phone": "31475206025",
    "website": "https://cardculture.com/",
@@ -2604,6 +2623,7 @@
   {
    "name": "De Stripspecialist Breda",
    "group": "unknown",
+   "city": "Breda",
    "address": "Boschstraat 68, Breda, NB, 4811 GJ, Netherlands",
    "phone": "316 528 4700",
    "website": "https://www.destripspecialist.eu/",
@@ -2629,6 +2649,7 @@
   {
    "name": "De Vliegershop",
    "group": "unknown",
+   "city": "Leiden",
    "address": "Haarlemmerstraat 192, Leiden, DR, 2312 GH, Netherlands",
    "phone": "31715132783",
    "website": "https://www.vliegershop.nl/nl/",
@@ -2720,6 +2741,7 @@
   {
    "name": "Dobbel & Dwars",
    "group": "unknown",
+   "city": "Harderwijk",
    "address": "Smeepoortenbrink 3, Harderwijk, GE, 3841 EZ, Netherlands",
    "phone": "31 6 45450558",
    "website": "https://dobbelendwars.nl/",
@@ -2731,6 +2753,7 @@
   {
    "name": "Douze No12",
    "group": "unknown",
+   "city": "Gelderland",
    "address": "12 Weverstraat, Oosterbeek, Gelderland, 6862 DP, Netherlands",
    "phone": "+310263334107",
    "website": "https://douze.nu/",
@@ -2742,6 +2765,7 @@
   {
    "name": "Dr & Dr Samosa",
    "group": "unknown",
+   "city": "Limburg",
    "address": "Grote Gracht 40, Maastricht, Limburg, 6211SX, Netherlands",
    "phone": "+31627319421",
    "website": "https://www.rollwithsamosa.com",
@@ -2823,6 +2847,7 @@
   {
    "name": "Dungeon Freak Minis",
    "group": "unknown",
+   "city": "Coevorden",
    "address": "6 Bentheimerstraat, Coevorden, DR, 7741 JK, Netherlands",
    "phone": "3131683178718",
    "website": "https://www.dungeonfreakminis.nl/",
@@ -3103,6 +3128,7 @@
   {
    "name": "Games-N-Stuff",
    "group": "unknown",
+   "city": "Zwolle",
    "address": "George Stephensonstraat 18a, Zwolle, DR, 8013 NK, Netherlands",
    "phone": "+31646189807",
    "website": "https://gamesnstuff.com/",
@@ -3172,6 +3198,7 @@
   {
    "name": "Goat Enterprise  - Dutch Open Series",
    "group": "unknown",
+   "city": "Rhoon",
    "address": "Waalstraat 9, Rhoon, Rhoon, 3161 XM, Netherlands",
    "phone": "31652022634",
    "website": "https://dutchopenseries.com",
@@ -3192,6 +3219,7 @@
   {
    "name": "Goblin",
    "group": "unknown",
+   "city": "Uden",
    "address": "Sint Janstraat 25, Uden, NB, 5401 BA, Netherlands",
    "phone": "31413 287811",
    "website": "http://www.goblinspeelgoed.eu/",
@@ -3588,6 +3616,7 @@
   {
    "name": "It's all Fun and Games",
    "group": "unknown",
+   "city": "Hoogeveen",
    "address": "104 Hoofdstraat, Hoogeveen, DR, 7901 JT, Netherlands",
    "phone": "+31528314098",
    "website": "https://itsallfunandgames.nl",
@@ -3707,6 +3736,7 @@
   {
    "name": "Koning Bordspel BV",
    "group": "unknown",
+   "city": "Amersfoort",
    "address": "122-126 Emiclaerhof, Amersfoort, UT, 3823ER, Netherlands",
    "phone": "31648526046",
    "website": "https://www.koningbordspel.nl",
@@ -3782,6 +3812,7 @@
   {
    "name": "Labyrinth Den Bosch",
    "group": "unknown",
+   "city": "Noord-Brabant",
    "address": "Orthen 16, 's-Hertogenbosch, Noord-Brabant, 5231XS, Netherlands",
    "phone": "+31736893368",
    "website": "https://labyrinth.shop/",
@@ -3904,6 +3935,7 @@
   {
    "name": "Magus Games",
    "group": "unknown",
+   "city": "Elsloo",
    "address": "Grotestraat 57, Elsloo, LI, 6181NT, Netherlands",
    "phone": "+31(0) 611404600",
    "website": "https://www.magusgames.nl/winkel/nl/",
@@ -3935,6 +3967,7 @@
   {
    "name": "Manatap",
    "group": "unknown",
+   "city": "Heiloo",
    "address": "342 Kennemerstraatweg, Heiloo, NH, 1851 BJ, Netherlands",
    "phone": "31(0) 357111366",
    "website": "https://manatap.nl/",
@@ -4005,6 +4038,7 @@
   {
    "name": "Merch & More",
    "group": "unknown",
+   "city": "Emmen",
    "address": "28 Noorderstraat, Emmen, DR, 7811 AL, Netherlands",
    "phone": "+31591527552",
    "website": "https://www.merchmore.nl",
@@ -4026,6 +4060,7 @@
   {
    "name": "MiniHobby",
    "group": "unknown",
+   "city": "Capelle aan den IJssel",
    "address": "10c Radarstraat, Capelle aan den IJssel, ZH, 2901 AV, Netherlands",
    "phone": "+31 010- 2545648",
    "website": "https://minihobby.nl",
@@ -4090,6 +4125,7 @@
   {
    "name": "Mollys Arena",
    "group": "unknown",
+   "city": "Amsterdam",
    "address": "771 Osdorpplein, Amsterdam, NH, 1068 TC, Netherlands",
    "phone": "+31613582043",
    "website": "https://www.mollys-arena.nl",
@@ -4131,6 +4167,7 @@
   {
    "name": "Mox spellen",
    "group": "unknown",
+   "city": "Heerhugowaard",
    "address": "24 Middenwaard, Heerhugowaard, NH, 1703 SE, Netherlands",
    "phone": "31723034145",
    "website": "https://www.moxspellen.nl/",
@@ -4279,6 +4316,7 @@
   {
    "name": "Paaprika",
    "group": "unknown",
+   "city": "Zutphen",
    "address": "Beukerstraat 66, Zutphen, GE, 7201LG, Netherlands",
    "phone": "(+31)618115443",
    "website": "https://www.paaprika.nl/",
@@ -4369,6 +4407,7 @@
   {
    "name": "Poke-Maat",
    "group": "unknown",
+   "city": "Wolvega",
    "address": "33 Hoofdstraat Oost, Wolvega, FR, 8471 JH, Netherlands",
    "phone": "+31610338532",
    "website": "https://poke-maat.nl/",
@@ -4959,6 +4998,7 @@
   {
    "name": "Spellcast",
    "group": "unknown",
+   "city": "Zuid-Holland",
    "address": "Kanaalstraat 52A, Lisse, Zuid-Holland, 2161 JM, Netherlands",
    "phone": "+31641357961",
    "website": "https://www.spellcast.nl/",
@@ -4970,6 +5010,7 @@
   {
    "name": "Spellekijn",
    "group": "unknown",
+   "city": "Leeuwarden",
    "address": "Peperstraat 12, Leeuwarden, FL, 8911 JA, Netherlands",
    "phone": "3158 213 1112",
    "website": "https://www.spellekijn.nl/",
@@ -5030,6 +5071,7 @@
   {
    "name": "Spellenspeciaalzaak de Windroos",
    "group": "unknown",
+   "city": "Limburg",
    "address": "14 Minckelersstraat, Maastricht, Limburg, 6214PA, Netherlands",
    "phone": "+31043-3114586",
    "website": "https://dewindroosspellen.nl/en/",
@@ -5232,6 +5274,7 @@
   {
    "name": "Table Heroes",
    "group": "unknown",
+   "city": "Limburg",
    "address": "Kerkstraat 45, Nederweert, Limburg, 6031CE, Netherlands",
    "phone": "+59931627322523",
    "website": "https://tableheroes.odoo.com/",
@@ -5385,6 +5428,7 @@
   {
    "name": "TCGDrachten",
    "group": "unknown",
+   "city": "Friesland",
    "address": "Richterlaan 10-3, Drachten, Friesland, 9207JV, Netherlands",
    "phone": "+310512751264",
    "website": "https://tcgdrachten.nl/winkel",
@@ -5496,6 +5540,7 @@
   {
    "name": "The Game-Inn",
    "group": "unknown",
+   "city": "Nieuwerkerk aan den IJssel",
    "address": "20 Dorpsstraat, Nieuwerkerk aan den IJssel, ZH, 2912 CB, Netherlands",
    "phone": "310646106872",
    "website": "https://www.game-inn.nl/",
@@ -5517,6 +5562,7 @@
   {
    "name": "The Games Guild",
    "group": "unknown",
+   "city": "Alphen aan den Rijn",
    "address": "Concordiastraat 29, Alphen aan den Rijn, ZH, 2406, Netherlands",
    "phone": "316 18081858",
    "website": "https://www.gamesguild.nl/",
@@ -5828,6 +5874,7 @@
   {
    "name": "Valhalla Boardgames",
    "group": "unknown",
+   "city": "Noord-Brabant",
    "address": "Molenwieken 2D, Veghel, Noord-Brabant, 5461KG, Netherlands",
    "phone": "+31612094189",
    "website": "https://www.valhallaboardgames.nl/en/",
@@ -5961,6 +6008,7 @@
   {
    "name": "Warenhuis Vanderveen Assen",
    "group": "unknown",
+   "city": "Drenthe",
    "address": "Koopmansplein 16, 9401EL, Assen, Drenthe, 9401EL, Netherlands",
    "phone": "+310640573861",
    "website": "https://www.vanderveen.nl/afdelingen/vrije-tijd/top1toys",
@@ -6032,6 +6080,7 @@
   {
    "name": "Welpie Toys",
    "group": "unknown",
+   "city": "Limburg",
    "address": "30 Corio Center, Heerlen, Limburg, 6411 LX, Netherlands",
    "phone": "+31639622828",
    "website": "https://welpietoys.nl/",
@@ -6156,6 +6205,7 @@
   {
    "name": "Zaanhammer",
    "group": "unknown",
+   "city": "Purmerend",
    "address": "Dubbele buurt 17, Purmerend, NH, 1441CT, Netherlands",
    "phone": "+310616270627",
    "website": "https://www.zaanhammer.nl",

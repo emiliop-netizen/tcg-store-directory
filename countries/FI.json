@@ -252,6 +252,7 @@
   {
    "name": "Basaari",
    "group": "in_store",
+   "city": "Uusimaa",
    "address": "9 Kivipyykintie, Vantaa, Uusimaa, 01260, Finland",
    "phone": "358401733365",
    "games_events": [
@@ -423,6 +424,7 @@
   {
    "name": "Luola Pelit",
    "group": "not_buying_singles",
+   "city": "uusimaa",
    "address": "Kaivokatu 27, porvoo, uusimaa, 06100, Finland",
    "phone": "+358406347441",
    "website": "https://luolapelit.fi",
@@ -573,6 +575,7 @@
   {
    "name": "Backstage Rock Shop Ltd",
    "group": "unknown",
+   "city": "Pirkkala",
    "region": "Pirkanmaa",
    "address": "Turkkirata 7, 33960 Pirkkala",
    "phone": "045 8603557",
@@ -661,6 +664,7 @@
   {
    "name": "Cardset Finland Oy",
    "group": "unknown",
+   "city": "Nokia",
    "region": "Pirkanmaa",
    "address": "PL 717, 20101 Nokia",
    "phone": "02 4693770",
@@ -935,6 +939,7 @@
   {
    "name": "Ikamaan Pelikrypta",
    "group": "unknown",
+   "city": "Pirkanmaa",
    "address": "15-17 Vanha Tampereentie, Ikaalinen, Pirkanmaa, 39500, Finland",
    "phone": "+3580447170094",
    "website": "https://ikamaa-pelit.fi/",
@@ -1200,6 +1205,7 @@
   {
    "name": "Pelienmaa",
    "group": "unknown",
+   "city": "Salo",
    "address": "1 Helsingintie, Salo, Salo, 24100, Finland",
    "phone": "+358451748269",
    "website": "https://pelienmaa.com",
@@ -1211,6 +1217,7 @@
   {
    "name": "Peliparatiisi",
    "group": "unknown",
+   "city": "Varsinais-Suomi",
    "address": "17 Helsingintie, Salo, Varsinais-Suomi, 24100, Finland",
    "phone": "+358405523593",
    "website": "https://peliparatiisi.net",
@@ -1252,6 +1259,7 @@
   {
    "name": "Porvoonpelikauppa.fi",
    "group": "unknown",
+   "city": "Porvoo",
    "address": "Mannerheiminkatu 10, Porvoo, AL, 6100, Finland",
    "phone": "+358 (0)50 3231920",
    "website": "https://porvoonpelikauppa.fi/",
@@ -1283,6 +1291,7 @@
   {
    "name": "Puolenkuun Pelit Helsinki Oy",
    "group": "unknown",
+   "city": "Uusimaa",
    "address": "Keskuskatu 3 A, Helsinki, Uusimaa, 00100, Finland",
    "phone": "+358413288338",
    "website": "https://www.halfmoongamecafe.com",
@@ -1538,6 +1547,7 @@
   {
    "name": "Verkkokauppa.com Pirkkala",
    "group": "unknown",
+   "city": "Pirkkala",
    "region": "Pirkanmaa",
    "address": "Saapastie 2, 33950 Pirkkala",
    "phone": "010 3095555",
