@@ -1,0 +1,4947 @@
+{
+ "country": "CN",
+ "currency": "CNY",
+ "updated": "2026-10-20",
+ "store_count": 516,
+ "stores": [
+  {
+   "name": "Hamleys",
+   "group": "blocked",
+   "region": "Bei Jing Shi",
+   "address": "255 Wang Fu Jing Da Jie, Dong Cheng Qu, 100062",
+   "phone": "010 6526 6108",
+   "website": "https://www.hamleys.com/china/explore-index.irs",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "ONOFF",
+   "group": "blocked",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "Jiang Su Sheng, Nan Jing Shi, 白下区新街口地区延龄巷115号 邮政编码: 210002",
+   "website": "https://www.onoff.app/",
+   "checked_at": "2026-10-20T16:34:04Z"
+  },
+  {
+   "name": "07gamecard",
+   "group": "in_store",
+   "city": "Bao Ding Shi",
+   "region": "He Bei Sheng",
+   "address": "1105 Room, Jingyuan Commercial Building, Qiyizhong Road, Baoding City, Hebei Province, China, Bao Ding Shi, He Bei Sheng, 071051",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "3D JP",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Wu Chang Qu, 6层 CN 湖北省 武汉市 武昌区 和平大道 750 750号绿地缤纷城 邮政编码: 430062",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "666 Foreign Trade Mass Retail",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, Luomashi, Ren Min Zhong Lu Yi Duan, 20号附25 邮政编码: 610015",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "7Holic",
+   "group": "in_store",
+   "city": "Tian Jin Shi",
+   "region": "Tian Jin Shi",
+   "address": "208，181 NanJing Road, HePing District, Tianjin, China, Tian Jin Shi, Tian Jin Shi",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "A.P. Plaza Tailor-Made & Clothes Market",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Pu Dong Xin Qu, Shi Ji Da Dao, 2002号亚太盛汇旅游购物广场 邮政编码: 201204",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Adidas",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Jiao Tong Jie, Yu Zhong Qu, Chong Qing Shi, 400016",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Adidas",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "127 Sheng Li Lu, 两路 Yu Bei Qu, Chong Qing Shi, 401124",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Andingmen Baolange Stationery Shop",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "99 An Nei Da Jie, Dong Cheng Qu, Bei Jing Shi, 100011",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "Antique Collection Store",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "96 Kai Xuan Lu, 城东 Jiang Gan Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310016",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Aosika Digital Technology",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "48JQ+M35, Shi Pai Xi Lu, 天河公园 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510632",
+   "phone": "020 8754 8723",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Baika Kalei Franchise Store",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "59W8+76W, Long Dong Shang Ye Bu Xing Jie, Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510520",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Baoma Shiguang Chongqing Foreign Economic and Trade Group Kua Jing Bao Shui Presentation Branch Chuan 010",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Cheng Hua Qu, CN 四川省 成都市 成华区 万科路 19 19号附35 邮政编码: 610110",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Beijing KaiLi Game Store",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "Room 608, 6th Floor, Jing Xi Guo Ji, GanJiaKou Street, Haidian District, Beijing, Bei Jing Shi, Bei Jing Shi, 100037",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:16Z"
+  },
+  {
+   "name": "Beijing Kaili Kapai Shop",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "W8FF+HW2, Fu Cheng Lu, Hai Dian Qu, Bei Jing Shi, 100048",
+   "checked_at": "2026-10-20T16:33:23Z"
+  },
+  {
+   "name": "Binka Entertainment",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Zhong Qu, Zhong Shan Er Lu, 174号附11号 邮政编码: 400015",
+   "phone": "023 8130 5555",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Boluowu",
+   "group": "in_store",
+   "city": "Ma An Shan Shi",
+   "region": "An Hui Sheng",
+   "address": "Room 14-209, Taibai Blvd, Yushan District, Maanshan, Anhui, China, Ma An Shan Shi, An Hui Sheng",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Boutique Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "141 Fu Min Lu Yi Duan, Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, 610213",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Canton Fair Complex",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Hai Zhu Qu, Zhan Chang Xi Lu, 新窖镇 邮政编码: 510308",
+   "checked_at": "2026-10-20T16:33:44Z"
+  },
+  {
+   "name": "Cany",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "48JV+W53, Shi Pai Dong Lu, 天河公园 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510631",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Card & Chess Room",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "16 Dong Liang Bo Xiang, Gong Shu Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310005",
+   "checked_at": "2026-10-20T16:33:57Z"
+  },
+  {
+   "name": "CARDTIME CARDS",
+   "group": "in_store",
+   "city": "Tian Jin Shi",
+   "region": "Tian Jin Shi",
+   "address": "4F NEW WORLD DEPARTMENT STOREGULOU ST, NANKAI DIST,TIANJIN, Tian Jin Shi, Tian Jin Shi, 300090",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Carol & John's",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "48JV+667, Shi Pai Dong Lu, 天河公园 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510632",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Casio",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Dong Cheng Qu, Wang Fu Jing Da Jie, 东方新天地AA06a 邮政编码: 100006",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Celestial Tabletop赛乐斯",
+   "group": "in_store",
+   "city": "Chong Qing Shi",
+   "region": "Chong Qing Shi",
+   "address": "重庆市沙坪坝区龙湖金沙天街B馆4楼39(红色扶梯旁), Chong Qing Shi, Chong Qing Shi, 401331",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:16Z"
+  },
+  {
+   "name": "Century Yuanhe Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "3 Yu Lin Xi Jie Hou Xiang, 人民南路南延线休闲餐饮一条街 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610044",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "CHAMPION HALL",
+   "group": "in_store",
+   "address": "香港銅鑼灣糖街15至23號銅鑼灣中心商場9樓903室, Hong Kong, Hong Kong SAR, 000000, 中国",
+   "phone": "8592426164",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:33:09Z"
+  },
+  {
+   "name": "Chang'an Automobile Co.,Ltd.",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "260 Jian Xin Dong Lu, Jiang Bei Qu, Chong Qing Shi, 400020",
+   "phone": "023 6759 2007",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Chaogainian Foreign Trade Shop",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "H7RC+8G9, Yin Song Lu, 西北湖 Jiang Han Qu, Wu Han Shi, Hu Bei Sheng, 430022",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Chaoneng Animation",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "69 Jiu Jiao Chang Lu, 四牌楼 Huang Pu Qu, Shang Hai Shi, 200010",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Chen Clan Ancestral Hall",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Li Wan Qu, 中山七八路恩龙里34号 邮政编码: 510040",
+   "phone": "020 8181 4559",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Hehuachi Market Fushi Trading Zone",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, 29, 东南方向180米 邮政编码: 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Lichun Trading Co.,Ltd.",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "4 Yi Huan Lu Xi Yi Duan, 武侯祠 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610041",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Tuolida Electronic Trading Co.,Ltd.",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "11 Dong Feng Lu Bei Yi Xiang, 望平美食区 Cheng Hua Qu, Cheng Du Shi, Si Chuan Sheng, 610065",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Universal Trade Plaza",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "181 Gu Ya Po Lu, Jin Jiang Qu, Cheng Du Shi, Si Chuan Sheng, 610058",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Xuhongda Trading Co., Ltd.",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "JXVV+RF6, Guo Feng Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610045",
+   "phone": "028 8507 6036",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Chengdu Zhonghe Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, Ju Long Lu, 八一装饰材料城A区-118 邮政编码: 610043",
+   "phone": "028 8502 0827",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "China Animation Museum",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Bin Jiang Qu, 336, 东北方向170米 邮政编码: 310052",
+   "checked_at": "2026-10-20T16:33:55Z"
+  },
+  {
+   "name": "China Mobile International Trade Flagship Shop",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Wan Zhou Qu, 191, 正南方向40米 邮政编码: 404120",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "China Mobile International Trade Mobile Marketplace",
+   "group": "in_store",
+   "city": "Jin Hua Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "880 Gong Ren Bei Lu, 880, Yi Wu Shi, Jin Hua Shi, Zhe Jiang Sheng, 322023",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "China Mobile Trade and Bus. Comm.",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Wu Long Qu, CN 重庆市 武隆区 芙蓉中路 11 11号附10号 邮政编码: 408599",
+   "phone": "188 9607 4789",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Chongqing Chang'an Trading Co., Ltd.",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "64 Jian Xin Dong Lu, Jiang Bei Qu, Chong Qing Shi, 400023",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Chongqing Yaxun Commerce And Trade Devlopment Limited Company",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "HQ67+5QH, Xin Xing Jie, Da Zu Qu, Chong Qing Shi, 402384",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "City Impression Boutique Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, 通锦桥路258号-260 邮政编码: 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "CONFLUENCE",
+   "group": "in_store",
+   "address": "RM 607, 6/F, Fat Lee Industrial Building, 17 Hung To Road,",
+   "phone": "+8526680 5329",
+   "website": "https://www.facebook.com/ConfluenceMTGHK",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Decathlon Xinhu Branch",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "address": "Shen Zhen Shi, Bao An Qu, CN 广东省 深圳市 宝安区 创业一路 1002 1002号壹方城1层L1-J062 邮政编码: 518052",
+   "phone": "0755 2300 3547",
+   "checked_at": "2026-10-20T16:33:43Z"
+  },
+  {
+   "name": "Decathlon Zhuque Ave Branch",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Di Ka Nong Zhu Que Da Jie Dian, 石牌岭 Hong Shan Qu, Wu Han Shi, Hu Bei Sheng, 430062",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Deji Plaza",
+   "group": "in_store",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "18 Zhong Shan Lu, 新街口 Xuan Wu Qu, Nan Jing Shi, Jiang Su Sheng, 210005",
+   "phone": "025 8478 8888",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Dijia Kahang",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "48JV+36W, Shi Pai Dong Lu, 天河公园 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510632",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Dongsheng Postal Card Collection Market",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "G4W8+CFX, Ren Min Gong Yuan Lu, Luo Hu Qu, Shen Zhen Shi, Guang Dong Sheng, 518010",
+   "checked_at": "2026-10-20T16:33:31Z"
+  },
+  {
+   "name": "Dudu Communications Trading Co., Ltd.",
+   "group": "in_store",
+   "city": "Xi An Shi",
+   "region": "Shan Xi Sheng",
+   "address": "96C6+CV9, Huan Cheng Bei Lu, Lin Tong Qu, Xi An Shi, Shan Xi Sheng, 710699",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "Duobaozhai Antiques Shop",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "98 Wu Shan Lu, 湖滨商圈 Shang Cheng Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310001",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "East Gate Langhaofang Comic And Animation Cheng",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "68 Li Xin Lu, Luo Hu Qu, Shen Zhen Shi, Guang Dong Sheng, 518001",
+   "phone": "0755 8220 5128",
+   "checked_at": "2026-10-20T16:33:34Z"
+  },
+  {
+   "name": "F R Foreign Trade Garment",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "HXHM+Q52, Xue Fu Xi Lu Bei Er Jie, Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, 610225",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Famous Products Cang Foreign Trade Original Foreign Order Specialty Store",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Wu Hou Qu, CN 四川省 成都市 武侯区 人民南路四段 20 20号附5号 邮政编码: 610044",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Famous Products Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "J2PV+W3F, Gao Sheng Qiao Dong Lu, 人民南路南延线休闲餐饮一条街 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Fancheng Articles for Amusement",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "160 Ti Yu Chang Lu, Tong Lu Xian, Hang Zhou Shi, Zhe Jiang Sheng, 311500",
+   "phone": "134 5687 2118",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Fandouxing",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "address": "Guang Zhou Shi, Yue Xiu Qu, CN 广东省 广州市 越秀区 北京路 295 295号广百百货北京路店7层 邮政编码: 510115",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Fangsuo Chengdu Branch",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Jin Jiang Qu, 远洋太古里M层M068/M069 CN 四川省 成都市 锦江区 中纱帽街 8 8 邮政编码: 610016",
+   "phone": "028 8658 6858",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Fao Schwarz",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, CN 北京市 朝阳区 建国门外大街 1 1号国贸商城北区L1层NL1023-1027 邮政编码: 100020",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Fashion Sports Foreign Trade Shop",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "G98G+VQR, Luo Yu Lu, Hong Shan Qu, Wu Han Shi, Hu Bei Sheng, 430079",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Fashion Storm Foreign Trade Logo Preferential Shop",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "HCJG+J43, Luo Yan Lu, Hong Shan Qu, Wu Han Shi, Hu Bei Sheng, 430084",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "FattyCard",
+   "group": "in_store",
+   "city": "Wen Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "No. 4 Kangning Road, Fuqian Street, Lucheng District, Wenzhou, Zhejiang, China, Wen Zhou Shi, Zhe Jiang Sheng, 325099",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Feidu Foreign Trade Clothing And Accessories",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "17 Wen Hua Lu, Fuqin, Jin Niu Qu, Cheng Du Shi, Si Chuan Sheng, 610032",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Fengying Foreign Trade Btq. No.2",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "99 Ou Tang Jie, Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, 610200",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Fengying Foreign Trade Btq. Store",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "39 Lai Long Lu, Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, 610207",
+   "phone": "158 8224 1779",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Foreign Trade Bargain Price Shop",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "31 Jian She Bei Lu Yi Duan, Cheng Hua Qu, Cheng Du Shi, Si Chuan Sheng, 610054",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Foreign Trade Brand Children's Wear Store",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "24 Long Zhou Dong Xiang, Jin Jiang Qu, Cheng Du Shi, Si Chuan Sheng, 610022",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Foreign Trade Factory Store",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Qing Yang Qu, CN 四川省 成都市 青羊区 青华路 22 22号附9 邮政编码: 610032",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Foreign Trade Jeep",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Jiang Han Qu, CN 湖北省 武汉市 江汉区 1 层 邮政编码: 430019",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Foreign Trade Union (Nanhu Branch)",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "141 Ya An Jie, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430074",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Foreign Trade Youpin Discount Store",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Wu Chang Qu, CN 湖北省 武汉市 武昌区 2 层 邮政编码: 430062",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Fulite Wanjia Youbika Market",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 黄寺大街黄寺大街甲23-3 邮政编码: 100120",
+   "checked_at": "2026-10-20T16:33:23Z"
+  },
+  {
+   "name": "Galaxy Card Station",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "Room 1606, Building 1, Lane 600, Tianshan Road, Changning District, Shanghai, P.R.China, Shang Hai Shi, Shang Hai Shi, 200062",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "GAME'S LAIR",
+   "group": "in_store",
+   "address": "RM 12, 14/F Block B, Vigor Industrial Bldg.",
+   "phone": "+8529470 0777",
+   "website": "https://www.facebook.com/GamesLair",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Good Time Foreign Trade Boutique",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "M28H+775, Cao Tang Bei Zhi Lu, 青羊宫商圈 Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610074",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Grandview Mall",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "228 Tian He Lu, 天河中心 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510620",
+   "phone": "020 3833 1818",
+   "checked_at": "2026-10-20T16:33:44Z"
+  },
+  {
+   "name": "Gu Zhuo Za Huo",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "28-1 Shi Hu Qiao Lu, 28, Xia Cheng Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310025",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Guaibaobei Foreign Trade Children's Wear Discount Store",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "H2HM+H2Q, Han Yang Da Jie, Cai Dian Qu, Wu Han Shi, Hu Bei Sheng, 430199",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Guanggu Bonded Trading Center",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Jiang Xia Qu, CN 湖北省 武汉市 江夏区 60 米 邮政编码: 430205",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Guoling Golf Trade Center",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "15 Hang Kong Lu, 王家墩商圈 Qiao Kou Qu, Wu Han Shi, Hu Bei Sheng, 430030",
+   "phone": "027 6288 5355",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Haifeng Trading Company Qi Branch",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "60 Xiao Guan Miao Jie, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610017",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hangzhou Hubin Yintai In77-Underground Garage",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Shang Cheng Qu, 15, 东北方向60米 邮政编码: 310001",
+   "phone": "0571 8768 6952",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Hangzhou Paradise",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "2555 Feng Qing Da Dao, Xiao Shan Qu, Hang Zhou Shi, Zhe Jiang Sheng, 311231",
+   "phone": "0571 8288 0333",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Hengbao Plaza",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "133 Bao Hua Lu, Li Wan Qu, Guang Zhou Shi, Guang Dong Sheng, 510140",
+   "phone": "020 8124 1826",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hengdeli",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Jiang Qu, Luomashi, Chun Xi Lu Bei Duan, 49号附2 邮政编码: 610016",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hengyang Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "36 Xie Yang Lu, 青羊宫商圈 Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610074",
+   "phone": "028 8732 8990",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hi-tech Trading Center",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "J2CX+3PW, Shen Xian Shu Bei Lu, 神仙树 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610044",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hongfa Commerce And Trade Antique Chamber",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "J74J+8JG, Xiang Jiang Dong Lu, 香港路餐饮街 Jiang Han Qu, Wu Han Shi, Hu Bei Sheng, 430015",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Hongqiao Market",
+   "group": "in_store",
+   "region": "Beijing",
+   "address": "Dongcheng, China, 100062",
+   "phone": "010 6713 3354",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Hongri Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, 簇马路HXRG+5XP 邮政编码: 610225",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Hua Zhi Jiu Ku Chengdu Shu Xiu Liquor Trade and Business Bu",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "657 Ming Du Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610094",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Huaheng Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "135 Qing Yang Shang Jie, 青羊宫商圈 Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610032",
+   "phone": "028 8779 8106",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Huanan International Culture & Sports Utensils Transaction Market F Hall",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "44 Nan An Lu, 中山七八路 Li Wan Qu, Guang Zhou Shi, Guang Dong Sheng, 510160",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Huangmao Articles for Amusement",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yong Chuan Qu, CN 重庆市 永川区 星光大道 789 789号附6号1-41 邮政编码: 402171",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Huyun Articles for Amusement",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Jiang Bei Qu, CN 重庆市 江北区 兴隆路 36 36号附30号 邮政编码: 400020",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "IRONKINGDOM",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "IRONKINGDOM Coffee Shop, 10th Floor, South Building of The Mall, 166 Tibet North Road, Jing'an District, Shanghai, Shang Hai Shi, Shang Hai Shi, 200070",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Island Board Game/小島桌遊",
+   "group": "in_store",
+   "address": "Room D,4/F  Effort Industrial Building  2-8 KungYip Street,",
+   "phone": "+852+85261717436",
+   "website": "https://www.facebook.com/islandtcg",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Jianan Tobacco and Liquor Trade Mingdun Convenience Store",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "104 Yi Zhou Dong Yi Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610094",
+   "phone": "138 8203 7550",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Jiayun Automobile Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, Huo Che Nan Zhan Xi Lu, 机场路神仙树路口 邮政编码: 610041",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Jiecheng Communications Kalei Supermarket",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "48GQ+RRC, Shi Pai Lv He Xi Da Jie, 天河公园 Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510632",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Jiefangbei Pedestrian Street",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Zhong Qu, 步行街重庆时代广场附近 邮政编码: 400011",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Jiejun Foreign Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Hu Bei Sheng, Wu Han Shi, Jiang An Qu, Liu He Lu, 34号附5 邮政编码: 430014",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Jiekai Commerce And Trade Gift",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "H82P+QRX, Dong Hu Xi Lu, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430071",
+   "phone": "027 8727 8625",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Jingda Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, 潮音大道JXQP+Q42 邮政编码: 610045",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Jingxi Articles for Amusement Club",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Shi Jing Shan Qu, 103, 正东方向10米 邮政编码: 100041",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Jinxiang Game Town",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Fu Tian Qu, Hua Fa Bei Lu, 52号-2号2层 邮政编码: 518028",
+   "checked_at": "2026-10-20T16:33:31Z"
+  },
+  {
+   "name": "Jiuheng Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "M3V7+X3M, Er Huan Lu Bei Er Duan, Jin Niu Qu, Cheng Du Shi, Si Chuan Sheng, 610084",
+   "phone": "028 8317 4399",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Jiujiu Foreign Trade Children's Wear",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "36 Da Shi Xi Lu, 青羊宫商圈 Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "JIYAN TCGHub",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "205, 309 Hankou Road, Huang Pu Qu, Shang Hai Shi, China, 200002, Shang Hai Shi, Shang Hai Shi, 200002",
+   "phone": "+86-13917802399",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "K11",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "300 Huai Hai Zhong Lu, 徐汇区 Shang Hai Shi, 200021",
+   "phone": "021 2310 3112",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Ka Dun Chao Pai Wanzhou Wanda Br.",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Wan Zhou Qu, 东南方向5米 CN 重庆市 万州区 2-1-49 邮政编码: 404188",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Kadou Wanzhipai Franchise Store",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "W94C+2XG, Jiao Yu Jie, Xi Cheng Qu, Bei Jing Shi, 100031",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Kamo Convenience Store",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Ka Mo Bian Li Dian, Shipai Village, Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510630",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Kapai T F",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "M2FG+2XH, Luo Jia Nian Jie, Fuqin, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610074",
+   "checked_at": "2026-10-20T16:33:52Z"
+  },
+  {
+   "name": "Kapai Youxi Franchise Store",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "38 Tong Lin Ge Lu, Xi Cheng Qu, Bei Jing Shi, 100032",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Kubang Foreign Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "H7RQ+7GF, Jie Fang Da Dao, Jiang An Qu, Wu Han Shi, Hu Bei Sheng, 430014",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Lanshan Cards",
+   "group": "in_store",
+   "city": "He Fei Shi",
+   "region": "An Hui Sheng",
+   "address": "Building 1002, Baida CBD Apartment Complex, Lu Yang District, Hefei City, Anhui Province, He Fei Shi, An Hui Sheng, 230061",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "League Castle - Mong Kok",
+   "group": "in_store",
+   "address": "6/F, Canton Plaza , 1125-1127 Canton Road,",
+   "phone": "+8522380 0316",
+   "website": "https://www.facebook.com/LeagueCastleHK",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Lego",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Dong Cheng Qu, 5层 CN 北京市 东城区 王府井大街 88 88号in88商场 邮政编码: 100006",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Lego",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Wu Hou Qu, CN 四川省 成都市 武侯区 大悦路 518 518号大悦城1楼 邮政编码: 610043",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Liangzai Foreign Trade Children's Clothing Store",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "1120 Zhong Shan Da Dao, Jiang An Qu, Wu Han Shi, Hu Bei Sheng, 430014",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Longemont",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "1018 Chang Ning Lu, Chang Ning Qu, 200050",
+   "phone": "021 6115 5555",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Longhu Xixi Paradise Walk",
+   "group": "in_store",
+   "city": "Hangzhou",
+   "region": "Zhejiang",
+   "address": "73V9+6Q6, Xihu, Hangzhou, Zhejiang, 310030",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Longteng Business And Trade Plaza",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Hu Bei Sheng, Wu Han Shi, Hong Shan Qu, 李纸路F8P7+Q5V 邮政编码: 430068",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "M3 Club",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "825-1 Bao Chang Lu, Jing An Qu, Shang Hai Shi, China, 200081, Shang Hai Shi, Shang Hai Shi, 200081",
+   "phone": "15921493670",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "M3 Kapai Club",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "825-1 Bao Chang Lu, 825, Jing An Qu, Shang Hai Shi, 200081",
+   "phone": "159 2149 3670",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Mading Foreign Trade Ji He You Pin Wan Ke Golden City Branch",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Hong Shan Qu, CN 湖北省 武汉市 洪山区 60 米 邮政编码: 430065",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Mi Home World Trade Tianjie Branch",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 层1号CN 北京市 朝阳区 东大桥路 邮政编码: 100020",
+   "phone": "010 5206 1012",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "MiaoMiao Card Room",
+   "group": "in_store",
+   "city": "Fu Zhou Shi",
+   "region": "Fu Jian Sheng",
+   "address": "199 Gongye Road, Taijiang District, Fuzhou, Fujian, China, Fu Zhou Shi, Fu Jian Sheng, 350002",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Mijing",
+   "group": "in_store",
+   "region": "重庆市",
+   "address": "CN 重庆市, CXWV+952秀山土家族苗族自治县409999",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Mini Foreign Trade Garment",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Cheng Hua Qu, Jian She Lu, 54号附1 邮政编码: 610056",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "MOX SAGA",
+   "group": "in_store",
+   "address": "Room 13A, Justen Centre, 44-52 Wai Ching Street, Jordan",
+   "phone": "+85293013229",
+   "website": "https://www.facebook.com/MTGSAGA",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Mumu Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "205 Shuang Nan Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610072",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Municipal Administration and Communications Card",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Dong Cheng Qu, 光明路1号-3 邮政编码: 100062",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "Municipal Administration and Communications Card",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 香河园路 邮政编码: 100027",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "Nat'l. Wine Trade Cty. Tianyundian",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Hong Shan Qu, CN 湖北省 武汉市 洪山区 虎泉街 168 168附107 邮政编码: 430079",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Naughty Wu Boutique Foreign Trade Children's Clothing",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "7 Bin Fen Jie, Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, 610213",
+   "phone": "188 0104 4481",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "New Concept Foreign Trade Shop",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, Luomashi, Yang Shi Jie, 18号附19 邮政编码: 610014",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "One Hundred Percent Convenience Store",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "449 Huan Hu Xi Yi Lu, Pu Dong Xin Qu, Shang Hai Shi, 201308",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Ou Channel Leisure Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Cheng Hua Qu, Xin Hong Nan Lu, 100号附1号 邮政编码: 610056",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "P9卡牌广州越秀店",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Room 2218 Guangbaixinyi massion, Xihu No.18, yuexiu  ，Guangzhou，Guangdong, Guang Zhou Shi, Guang Dong Sheng, 510115",
+   "phone": "13622229632",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Packwar Boardgame",
+   "group": "in_store",
+   "city": "Nanjing",
+   "region": "Jiangsu",
+   "address": "Room 403， Building 16，Chatingdongjie 79, Jianye, Nanjing, Jiangsu",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Pangzi Chess and Cards Supermarket",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "24 Hui Min Jie, 24, Jiang Jin Qu, 402260",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Pengluo Kekapai",
+   "group": "in_store",
+   "city": "3",
+   "address": "3, Han Yang Qu, 期9 CN 湖北省 武汉市 邮政编码: 430064",
+   "phone": "027 8476 6110",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Planet Chess and Cards Guangzhou Distribution Center",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "address": "Guang Zhou Shi, Li Wan Qu, CN 广东省 广州市 荔湾区 河柳街 1 1号南澳市场B2 邮政编码: 510160",
+   "phone": "020 8127 1996",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Pop Mart",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 西藏中路 268 268号来福士广场地下1层B1-11B 邮政编码: 200003",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Pop Mart",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 使馆区CN 北京市 朝阳区 三里屯 B1 楼SLG-47 邮政编码: 100600",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Pop Mart",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Wu Hou Qu, CN 四川省 成都市 武侯区 交子大道 300 300悠方购物中心负1层 邮政编码: 610094",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Pop Mart Pop Mart Art Toy Heibiao Concept Store",
+   "group": "in_store",
+   "region": "北京市",
+   "address": "CN 北京市, WC9X+RWG朝阳区100020",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "PT桌游卡牌店",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "187 Da Nan Lu, 北京路 Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, 510115",
+   "phone": "020 3339 4416",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Qi Qi Man Pin Animation Store",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Bei Qu, CN 重庆市 渝北区 红黄路 355 355号附57号 邮政编码: 401121",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Qihui Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, Ju Long Lu, 八一装饰材料城A区-107 邮政编码: 610043",
+   "phone": "028 8502 0529",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Quan Netcom Mobile Phone Chain Linjiang Trade City 4G Chain",
+   "group": "in_store",
+   "city": "Hangzhou",
+   "region": "Zhejiang",
+   "address": "7HQR+PQV, 49, Xiaoshan District, Hangzhou, Zhejiang, 311228",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Quan Netcom Mobile Phone Store Foreign Trade Business Hall",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "379 Ping Du Da Dao Dong Duan, Feng Du Xian, Chong Qing Shi, 408299",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "R T W Foreign Trade Shop",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, Sha Wan Dong Yi Lu, 10号附1号 邮政编码: 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Raffles City Chongqing",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "HH7Q+9CC, Chang Jiang Bin Jiang Lu, Chaotianmen, Yu Zhong Qu, Chong Qing Shi, 400013",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Raffles City Shanghai",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "268 Xi Zang Zhong Lu, Huang Pu Qu, Shang Hai Shi, 200003",
+   "phone": "021 6340 3333",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Red Light Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "34 Ren Min Nan Lu Si Duan, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610044",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Remen 1+1 Boutique Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, Luo Jia Nian Jie, 121号附11 邮政编码: 610074",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Ruika",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "1559 Zu Chong Zhi Lu, Pu Dong Xin Qu, Shang Hai Shi, China, 201203, Shang Hai Shi, Shang Hai Shi, 201203",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Saga It Mall",
+   "group": "in_store",
+   "city": "Xi An Shi",
+   "region": "Shan Xi Sheng",
+   "address": "8 Yan Ta Bei Lu Zhong Duan, Bei Lin Qu, Xi An Shi, Shan Xi Sheng, 710064",
+   "phone": "029 8553 2017",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Shanghai Game Jidi",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 打浦路 8 8号海华商厦2层218 邮政编码: 200023",
+   "phone": "021 5306 3358",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Shanghai Guan Jun Ka Pai",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "65 Gong Xing Lu, Jing An Qu, Shang Hai Shi, 200081",
+   "phone": "139 1666 1187",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Shengji Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, Ren Min Bei Lu Er Duan, 198号附14 邮政编码: 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Shouxuan Boutique Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, Zhan Qi Dong Lu, 7号附5-6 邮政编码: 610074",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Shuguang Commerce and Trade Mall",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "F9JW+P9V, Min Zu Da Dao, Hong Shan Qu, Wu Han Shi, Hu Bei Sheng, 430073",
+   "phone": "027 8753 4999",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Sun Square",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "2001 Jie Fang Lu, Luo Hu Qu, Shen Zhen Shi, Guang Dong Sheng, 518010",
+   "phone": "0755 8239 3789",
+   "checked_at": "2026-10-20T16:33:43Z"
+  },
+  {
+   "name": "Sutong Kakefu Center",
+   "group": "in_store",
+   "city": "Yang Zhou Shi",
+   "region": "Jiang Su Sheng",
+   "address": "Jiang Su Sheng, Yang Zhou Shi, Han Jiang Qu, S28启扬高速入口C9WJ+PGF 邮政编码: 225008",
+   "checked_at": "2026-10-20T16:34:09Z"
+  },
+  {
+   "name": "T+Foreign Trade Children's Clothing Store",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "8-116 Bao Tong Si Lu, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430074",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Taobao 888 Foreign Trade Boutique",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "JXFC+2M7, Jin Xing Zhong Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610045",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "TCL王牌专卖店",
+   "group": "in_store",
+   "region": "Chongqing",
+   "address": "R3HF+633, Changshou District, Chongqing, 408132",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "TeeMall",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Tian He Qu, Tian He Lu, 208号天河城3层 邮政编码: 510620",
+   "phone": "020 8559 0683",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Tenglong Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "G8VW+X6R, Dong Er Lu, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430071",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "The North Land Card Store",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "中国北京市朝阳区立汤路218号明天生活馆B座290, Bei Jing Shi, Bei Jing Shi, 102218",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "The Play Card",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Hong Qiao Zhan, 2层1500 Shen Gui Lu, 1500, Min Hang Qu, Shang Hai Shi, 201106",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Three Natural Bridges",
+   "group": "in_store",
+   "region": "Chongqing",
+   "address": "CQHW+95R, Wulong District, 408513",
+   "phone": "023 7779 4266",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Tianbao Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "J273+2G4, Ju Long Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610043",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Tianyi Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "564 Han Zheng Jie, Qiao Kou Qu, Wu Han Shi, Hu Bei Sheng, 430031",
+   "phone": "027 8565 9851",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Tongxin Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "36 Xiong Chu Da Dao, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430074",
+   "phone": "027 8802 8641",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Toy Shopping Mall",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "25, Chong Qing Dong Wu Yuan, 杨家坪 Jiu Long Po Qu, 400051",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Toybox Cards",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Room  308C,Building B,Tianan Innovation Technology Plaza, Futian District, Shenzhen 518000,China, Shen Zhen Shi, Guang Dong Sheng, 518042",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Toys R US",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Chang Ning Qu, CN 上海市 长宁区 遵义路 100 100号虹桥南丰城南区商场3层318 邮政编码: 200051",
+   "phone": "021 6237 1283",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Toys R US Toysrus",
+   "group": "in_store",
+   "city": "L403",
+   "address": "L403 Xiao Shan Qu, CN 浙江省 杭州市 萧山区 金城路 927 927号杭州万象汇4楼 邮政编码: 311202",
+   "phone": "0571 8239 5759",
+   "checked_at": "2026-10-20T16:33:55Z"
+  },
+  {
+   "name": "VIVITIX SANRIO",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 朝阳北路101号朝阳大悦城4楼09号铺 邮政编码: 100025",
+   "checked_at": "2026-10-20T16:33:28Z"
+  },
+  {
+   "name": "Wanfu Department Store Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "1 Wu Du Lu, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Wangsheng Stationery Cheng",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, Sanyuanli, 广园西路入口562X+VXF 邮政编码: 510499",
+   "phone": "020 8652 3207",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Wanzhipai Daban Kapaidian",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, CN 北京市 西城区 新街口外大街 12 乙12 邮政编码: 100088",
+   "phone": "010 6235 7659",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Weimei Foreign Trade Branch",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "223 Jin Xing Zhong Lu, Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610045",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Weiren Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Hu Bei Sheng, Wu Han Shi, Wu Chang Qu, Shui Guo Hu Heng Lu, 15号鹏程商务中心4层 邮政编码: 430071",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Weiyi Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "2 Wu Sheng Lu, 汉正街商圈 Qiao Kou Qu, Wu Han Shi, Hu Bei Sheng, 430031",
+   "phone": "027 8564 3864",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wentai Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, Xin Nan Lu, 44号附13 邮政编码: 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Wii Boutique Maishou Store",
+   "group": "in_store",
+   "city": "Kun Ming Shi",
+   "address": "Kun Ming Shi, Pan Long Qu, CN 云南省 昆明市 盘龙区 白塔路 131 131号汇都国际B座商务港9层9026 邮政编码: 650011",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "World Trade Plaza",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "686 Jie Fang Da Dao, Jiang Han Qu, Wu Han Shi, Hu Bei Sheng, 430000",
+   "phone": "027 8544 8816",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wuhan Art Trading Center",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Dong Xi Hu Qu, CN 湖北省 武汉市 东西湖区 200 米 邮政编码: 430024",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wuhan Free Trade City",
+   "group": "in_store",
+   "city": "1",
+   "address": "1, Dong Xi Hu Qu, 东北方向80米 CN 湖北省 武汉市 邮政编码: 430043",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wuhan Gem Trading Center",
+   "group": "in_store",
+   "city": "Wuhan",
+   "region": "Hubei",
+   "address": "H8PV+V8W, 45, Wuchang District, Wuhan, Hubei, 430062",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wuhan Jing Peng Zhan Zhi Trading Co.,Ltd. Gaoqiao Direct Sales Stores",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Hu Bei Sheng, Wu Han Shi, Dong Xi Hu Qu, 18, 附78正北方向40米 邮政编码: 430043",
+   "phone": "130 0638 7323",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wuhan Zhonglong Commerce And Trade",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "H789+38X, Wu Sheng Lu, 汉正街商圈 Qiao Kou Qu, Wu Han Shi, Hu Bei Sheng, 430031",
+   "phone": "027 8564 1411",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Wulin Square",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "75C7+F8C, Ti Yu Chang Lu, 武林商圈 Xia Cheng Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310003",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Wushang Asia Trade Plaza Shopping Center",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "628 Wu Luo Lu, 洪山街道口商圈 Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430074",
+   "phone": "027 8764 7927",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "www.mtgmintcard.com",
+   "group": "in_store",
+   "address": "Flat B, 9/F, Heep Kee Commercial Bldg.",
+   "phone": "+8522815 0097 ",
+   "website": "https://www.facebook.com/mtgmintcard",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "Xianggang Design Gallery Levvv (World Trade Plaza Branch)",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "address": "Wu Han Shi, Jiang Han Qu, CN 湖北省 武汉市 江汉区 解放大道 690 690号武汉国际广场C区5楼 邮政编码: 430000",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Xiao Ren Guo Qi Bao Wu",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yong Chuan Qu, 999, 正南方向10米 邮政编码: 402168",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Xiaoma Baoli",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Huang Pu Qu, 830, Nan Jing Dong Lu, 830号4楼第一百货商店 邮政编码: 200001",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "Xin Wo Lai Ma Trading Company",
+   "group": "in_store",
+   "city": "武汉市",
+   "address": "CN 湖北省 武汉市 硚口区 N-211-212, 硚口区武汉市430035",
+   "phone": "027 8398 5465",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Xindongli Foreign Trade Leisure Shop",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "7 Wu Hou Ci Heng Jie, 武侯祠 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Xingxing Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "63 Jin Yuan Xiang, 美领事馆美食区 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610044",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Xingyuan Foreign Trade Famous Products",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "G8XR+PRR, Dong Hu Lu, Wu Chang Qu, Wu Han Shi, Hu Bei Sheng, 430071",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Xingzhi Road Animation Kapai Store",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Huang Pu Qu, CN 上海市 黄浦区 广西北路 248 248号百米香榭商业街3层308 邮政编码: 200001",
+   "phone": "185 0208 4825",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "Xinhua Xin Trade Hang",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Jian De Shi, 38, 正东方向70米 邮政编码: 311612",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Yabaocheng",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "19 Ri Tan Bei Lu, Chao Yang Qu, Bei Jing Shi, 100020",
+   "phone": "010 8563 3336",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "Yide International Exquisite Toy And Stationery Square in Guangzhou",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "390 Yi De Lu, 一德路 Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, 510123",
+   "checked_at": "2026-10-20T16:33:44Z"
+  },
+  {
+   "name": "Yiqiang Electrical Appliance Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "261 Yi Huan Lu Bei Yi Duan, Jin Niu Qu, Cheng Du Shi, Si Chuan Sheng, 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Yitian Holiday Plaza",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "9028 Shen Nan Da Dao, 东门 Nan Shan Qu, Shen Zhen Shi, Guang Dong Sheng, 518058",
+   "phone": "0755 8629 8000",
+   "checked_at": "2026-10-20T16:33:40Z"
+  },
+  {
+   "name": "Yongsheng Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "113 Wu Hou Ci Da Jie, 武侯祠 Wu Hou Qu, Cheng Du Shi, Si Chuan Sheng, 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Yongxiangyi Foreign Trade Branch",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "address": "Cheng Du Shi, Wu Hou Qu, CN 四川省 成都市 武侯区 新南路 77 77号附8号 邮政编码: 610093",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Zhanyou Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "24 Tong Hui Men Lu, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610032",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Zhenfei Commerce And Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, Xiao Jia Cun Si Xiang, 肖四巷116号 邮政编码: 610084",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Zhongshu House",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Jiu Long Po Qu, 杨家坪CN 重庆市 九龙坡区 杨家坪正街 68 68号中迪广场欧洲城时尚中心3/4F 邮政编码: 400069",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Zhuliu Times Boutique Foreign Trade",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Jin Niu Qu, Ma An Xi Lu, 11号附8 邮政编码: 610051",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Zhuliu Times Boutique Foreign Trade Leisure",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "20 Qing Yang Dong Er Lu, Jin Niu Qu, Cheng Du Shi, Si Chuan Sheng, 610032",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Zhuoqika Paizhuan Salesroom",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, 福恩里47GF+Q85 邮政编码: 510055",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "七梦卡牌",
+   "group": "in_store",
+   "city": "Shi Jia Zhuang Shi",
+   "region": "He Bei Sheng",
+   "address": "Shop 2416, Lemoo South Tower, No. 18 Ping‘an North Street, Chang‘an District, Shijiazhuang City, Hebei Province, 050011, China, Shi Jia Zhuang Shi, He Bei Sheng, 050010",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "上海冠军卡牌店",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "上海市静安区公兴路65号, Shang Hai Shi, Shang Hai Shi, 200081",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "上海汇城卡牌玩具店",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Xu Hui Qu, 龙川北路153号 邮政编码: 200234",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "上海浦东外高桥丹舟商贸有限公司",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Pu Dong Xin Qu, 浦兴路488号 邮政编码: 200129",
+   "phone": "021 5868 0091",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "上海石库门贸易有限公司",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Xu Hui Qu, 吴中东路501号 邮政编码: 200052",
+   "phone": "021 5459 0651",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "东食贸易（上海）有限公司北京分公司",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 使馆区东三环北路甲19号嘉盛中心2505室 邮政编码: 100020",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "佳佳游戏卡专卖店",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Luo Hu Qu, 东门东门商业步行街G4X9+3VW 邮政编码: 518001",
+   "phone": "134 1046 3012",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "佳佳游戏卡专卖店",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "222 Ji Hua Lu, 布吉镇 Long Gang Qu, Shen Zhen Shi, Guang Dong Sheng, 518024",
+   "phone": "159 1984 6996",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "兰足文体卡牌店",
+   "group": "in_store",
+   "region": "Beijing",
+   "address": "WFH9+MHG, Tuanjiehu, Chaoyang, Beijing, 100026",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "冰点卡牌/Freezing Point Card",
+   "group": "in_store",
+   "city": "Qing Dao Shi",
+   "region": "Shan Dong Sheng",
+   "address": "No.281-39，RenMinRoad，ShiBeiDistrict，QingDaoCity，ShanDongProvince, Qing Dao Shi, Shan Dong Sheng, 266031",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "利清卡牌店",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 万源夹道18号旁 邮政编码: 100052",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "动漫店",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Bai Yun Qu, 丽康南一街丽德居F幢 邮政编码: 510425",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "北京卡豆",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "中国北京市西城区横二条59号, Bei Jing Shi, Bei Jing Shi, 100031",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "北京卡豆",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 佟麟阁路戊38号 邮政编码: 100032",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "北京速博卡牌",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "北京市 朝阳区 吉祥里 209号B1层B112 邮政编码: 100010, Bei Jing Shi, Bei Jing Shi, 100010",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "北极熊桌游社",
+   "group": "in_store",
+   "city": "Tai Yuan Shi",
+   "region": "Shan Xi Sheng",
+   "address": "中国山西省太原市迎泽区柳巷商圈柳巷南路柳巷万通购物广场, Tai Yuan Shi, Shan Xi Sheng, 030001",
+   "phone": "15333439528",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "博悦卡牌",
+   "group": "in_store",
+   "city": "Xi An Shi",
+   "region": "Shan Xi Sheng",
+   "address": "260 Tai Bai Bei Lu, Bei Lin Qu, Xi An Shi, Shan Xi Sheng, China, 710071, Xi An Shi, Shan Xi Sheng, 710071",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "卡徒部落",
+   "group": "in_store",
+   "city": "Ningbo",
+   "region": "Zhejiang",
+   "address": "No. 54 6-25, Dashanmi Street, Haishu District, Ningbo City, Zhejiang Province,china, Ningbo, Zhejiang",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "卡朋卡牌",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "广州市荔湾区康王北路970号210, Guang Zhou Shi, Guang Dong Sheng, 510170",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "卡片商店",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 琉璃厂东街 邮政编码: 100031",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "卡片都市桌游吧",
+   "group": "in_store",
+   "city": "Harbin",
+   "address": "Nangang, Harbin, China, 150001, Harbin, 150001",
+   "phone": "13903654104",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "卡类专卖",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, 解放路359临时 邮政编码: 510013",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "厦门咖啡社",
+   "group": "in_store",
+   "city": "Xiamen",
+   "region": "Fujian",
+   "address": "中国福建省厦门市思明区虞朝巷9-2号, Xiamen, Fujian",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "古玩店",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Shang Cheng Qu, 湖滨岳王路3-3号 邮政编码: 310006",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "嘉兴萌鲸卡牌",
+   "group": "in_store",
+   "city": "Jia Xing Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "NanHu District，Qinjian Rd. 1005，HeChengShangWuDaSha 6F611, Jia Xing Shi, Zhe Jiang Sheng, 314099",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "壹方城購物中心",
+   "group": "in_store",
+   "city": "Shenzhen",
+   "region": "Guangdong Province",
+   "address": "HV2Q+W3V, Baoan, Shenzhen, Guangdong Province, 518052",
+   "phone": "0755 2310 1111",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "大连众成科技牌店",
+   "group": "in_store",
+   "city": "Da Lian Shi",
+   "region": "Liao Ning Sheng",
+   "address": "B10, Xi'an Road Book City, Shahekou District, Dalian City, Liaoning Province, Da Lian Shi, Liao Ning Sheng",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "天河城百货",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "238 Bei Jing Lu, 北京路 Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, 510115",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "奥秘卡牌",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Room 316, 3rd Floor, Phase II of Vanke Golden Home, No. 742 Jinghan Avenue,Wuhan,Hubei,China, Wu Han Shi, Hu Bei Sheng, 430000",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "宝库卡牌",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "北京市东城区国瑞购物中心LG层宝库卡牌, Bei Jing Shi, Bei Jing Shi, 100062",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "小窝桌游",
+   "group": "in_store",
+   "city": "Zheng Zhou Shi",
+   "region": "He Nan Sheng",
+   "address": "河南省郑州市金水区西太康路58号TK360 三楼中厅L305+L308小窝桌游, Zheng Zhou Shi, He Nan Sheng, 450012",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "市政一卡通复兴门营业部",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 复兴门南大街2号C座 邮政编码: 100032",
+   "phone": "010 6603 0392",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "布斑卡牌",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "中国上海市普陀区交通路2447号A121室, Shang Hai Shi, Shang Hai Shi, 200061",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "幻想空间-Giant Fantasy Space",
+   "group": "in_store",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "319 Jiang Dong Bei Lu, Gu Lou Qu, Nan Jing Shi, Jiang Su Sheng, China, 210036, Nan Jing Shi, Jiang Su Sheng, 210036",
+   "phone": "15189829800",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "广州动漫星城广场",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "1 Ji Xiang Lu, Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, 510408",
+   "phone": "020 6268 1111",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "广州卡宝表业",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, 旺角钟表城A030 邮政编码: 510499",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "广州国际玩具城",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Bai Yun Qu, 黄埔国际物流园区 邮政编码: 510499",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "徕卡测距仪专卖店",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Da Ping Zhi Lu, Daping, Yu Zhong Qu, Chong Qing Shi, 400016",
+   "phone": "151 2396 2657",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "德国维卡门窗科技维卡重庆办事处",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Bei Qu, 松牌路108 邮政编码: 401147",
+   "phone": "023 6189 1675",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "恺源卡牌",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "中国上海市静安区恒丰路上海现代交通商务大厦, Shang Hai Shi, Shang Hai Shi, 200071",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "手机卡店",
+   "group": "in_store",
+   "city": "Guangzhou",
+   "region": "Guangdong Province",
+   "address": "47CP+V97, Yuexiu District, Guangzhou, Guangdong Province, 510199",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "摸鱼桌游",
+   "group": "in_store",
+   "city": "Nantong",
+   "region": "Jiangsu",
+   "address": "摸鱼, Huaya Building4th, Chongchuan District, Nantong City, Jiangsu Province, Nantong, Jiangsu",
+   "phone": "15371996988",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "新蜂卡牌",
+   "group": "in_store",
+   "city": "Shen Yang Shi",
+   "region": "Liao Ning Sheng",
+   "address": "中国辽宁省沈阳市大东区大什字街105-1, Shen Yang Shi, Liao Ning Sheng, 110041",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "旗胜卡牌",
+   "group": "in_store",
+   "city": "Chang Sha Shi",
+   "region": "Hu Nan Sheng",
+   "address": "Xiaoying  Building Fl. 3 No. 1 Shaoshan Middle Road Yuhua District, Changsha Hunan Province, China, Chang Sha Shi, Hu Nan Sheng, 410021",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "时光机集换式卡牌店",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "7FGR+JFG, Da Lian Xi Lu, Hong Kou Qu, Shang Hai Shi, 200083",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "星悦卡牌 Kirari-TCG Store",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "9-2 Yu Xi Lu, Shun Yi Qu, Bei Jing Shi, China, 101318, Bei Jing Shi, Bei Jing Shi, 101318",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "星游卡集",
+   "group": "in_store",
+   "city": "Zheng Zhou Shi",
+   "region": "He Nan Sheng",
+   "address": "Room A2196, 288 Jinshui Road, Jinshui , Zhengzhou, Henan, China, Zheng Zhou Shi, He Nan Sheng, 450003",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "星航动漫卡牌专卖店",
+   "group": "in_store",
+   "city": "Xi An Shi",
+   "region": "Shan Xi Sheng",
+   "address": "1 Ji Xiang Lu, 小寨商业街 Yan Ta Qu, Xi An Shi, Shan Xi Sheng, 710064",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "木鸟漫画 Wooden Bird Comic Store",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "97 Bei He Yan Da Jie, Dong Cheng Qu, Bei Jing Shi, 100164",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "杭州收藏品市场",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Gong Shu Qu, 湖墅南路103号 邮政编码: 310005",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "模型店",
+   "group": "in_store",
+   "city": "广州市",
+   "region": "广东省",
+   "address": "广东省广州市番禺区市桥W9G5+447 邮政编码: 511483",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "欧域卡牌",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "510, 8633-20 Zhong Chun Lu, Min Hang Qu, Shang Hai Shi, China, 201101, Shang Hai Shi, Shang Hai Shi, 201101",
+   "phone": "17717082486",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "歆然卡牌",
+   "group": "in_store",
+   "city": "Beijing",
+   "region": "Beijing",
+   "address": "北京市顺义区北小营镇水色时光花园5区底商101, Beijing, Beijing, 101314",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "武汉鹏洛客卡牌",
+   "group": "in_store",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "271 Ying Wu Da Dao, Han Yang Qu, Wu Han Shi, Hu Bei Sheng, China, 430064, Wu Han Shi, Hu Bei Sheng, 430064",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "汇富通",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Pu Tuo Qu, 白兰路137弄1号绿洲广场A楼 13F 邮政编码: 200063",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "淘沙卡牌桌游店",
+   "group": "in_store",
+   "city": "Shaoxing",
+   "region": "Zhejiang",
+   "address": "A214, Building 3-4, Fanhua Lane, Songxia Street, Shangyu District, Shaoxing City, Zhejiang Province, China, Shaoxing, Zhejiang, 312365",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "深业上城",
+   "group": "in_store",
+   "city": "Shenzhen",
+   "region": "Guangdong Province",
+   "address": "H34C+G6M, Futian District, Shenzhen, Guangdong Province, 518026",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "深圳P9卡牌",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Room 425P9, Building 618 Bagua 1st Road, Yuanling Street, Futian District Shenzhen City, Guangdong Province China, Shen Zhen Shi, Guang Dong Sheng",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "深圳玩家模型专卖店金田路店",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Fu Tian Qu, 金田路1008号时代广场1楼115号铺",
+   "phone": "0755 8386 3316",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "清一色卡类便利店",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Yue Xiu Qu, 文德路43号 邮政编码: 510115",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "片刻起雾动漫卡牌/AMoment Hobby Store",
+   "group": "in_store",
+   "address": "浙江省杭州市惠民路75-5号吴山商务综合楼东门605, Hangzhou, Zhejiang, 310001, China",
+   "phone": "+8618767151164",
+   "website": "https://www.facebook.com/profile.php?id=100090795777026",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "物语卡牌",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "中国北京市丰台区马家堡西路15号, Bei Jing Shi, Bei Jing Shi, 100077",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "玖门tcg club",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "4-611, Zhongtie Xicheng Office Building, Guanghua East 3rd Road, Qingyang District, Chengdu City, Sichuan Province, China, Cheng Du Shi, Si Chuan Sheng",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "玛丽与鼠桌游",
+   "group": "in_store",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "中国四川省成都市武侯区一环路西一段索尔国际, Cheng Du Shi, Si Chuan Sheng, 610093",
+   "phone": "15182525220",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "珠海凤凰社",
+   "group": "in_store",
+   "city": "Zhu Hai Shi",
+   "region": "Guang Dong Sheng",
+   "address": "3rd Floor, Building 3, Nanping Industrial Zone, Xiangzhou District, Zhuhai City, Guangdong Province, China​, Zhu Hai Shi, Guang Dong Sheng, 519060",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "百卡卡类专卖",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Guang Zhou Shi, Tian He Qu, 龙洞环村南街59V8+PVX 邮政编码: 510520",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "礼品玩具",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Long Gang Qu, 大华路 邮政编码: 518024",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "神话卡牌",
+   "group": "in_store",
+   "city": "Kunming",
+   "region": "Yunnan",
+   "address": "昆明市虹山东路版筑翠园后街12栋4楼, Kunming, Yunnan",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "空岛卡牌",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "No. 1298, Shiguang Road, Yangpu District, Shanghai Municipality, P.R.China, Shang Hai Shi, Shang Hai Shi, 200432",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "童梦",
+   "group": "in_store",
+   "city": "Guangzhou",
+   "region": "Guangdong Province",
+   "address": "96Q8+FG2, Huadu District, Guangzhou, Guangdong Province, 510802",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "翻云卡牌",
+   "group": "in_store",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "16 Yi Zhi Yuan, Xuan Wu Qu, Nan Jing Shi, Jiang Su Sheng, 210002",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "耐克",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Zhong Qu, 民权路2号解放碑重百大楼 邮政编码: 400011",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "耐克",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Jiang Bei Qu, 北城天街8号北城天街购物广场3层 邮政编码: 401147",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "耐克",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Zhong Qu, Daxigou, 青田家私商场（人民路） 邮政编码: 400023",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "耐克",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Nan An Qu, Sigongli, 南坪东路1号天龙广场重百南坪商场1B 邮政编码: 400066",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "聚福卡",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Xi Cheng Qu, 大木仓胡同 邮政编码: 100031",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "艾瑞芭蒂潮玩吧",
+   "group": "in_store",
+   "city": "Foshan",
+   "region": "Guangdong Province",
+   "address": "No. 05, 1st Floor, ICC Shopping Mall, No. 18 Mentou Road, Chancheng District, Foshan City, Guangdong Province, Foshan, Guangdong Province",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "茉莉花开",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Hong Kou Qu, 广灵二路,广灵二路与中山北一路路口西南角,沿广灵二路方向,深喜迪运商场内 邮政编码: 200083",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "虫子桌游",
+   "group": "in_store",
+   "city": "San Men Xia Shi",
+   "region": "He Nan Sheng",
+   "address": "Room 1511, Building 4, Jiayi Plaza, heping road，Hubin District, Sanmenxia , Henan Province，China, San Men Xia Shi, He Nan Sheng",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "蜜糖卡牌桌游店",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "43 Bei San Huan Xi Lu, Shuangyushu, Hai Dian Qu, Bei Jing Shi, 100086",
+   "phone": "010 6211 4608",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "观澜湖新城MH MALL",
+   "group": "in_store",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Long Hua Qu, Gao Er Fu Da Dao, 8号邮政编码: 邮政编码: 518111",
+   "phone": "0755 2923 9888",
+   "checked_at": "2026-10-20T16:33:43Z"
+  },
+  {
+   "name": "谜藏Mefun Hobby Store",
+   "group": "in_store",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "RoomA601,Rd.Changsheng #25,Hangzhou,China, Hang Zhou Shi, Zhe Jiang Sheng, 310006",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:16Z"
+  },
+  {
+   "name": "赛弗桌游",
+   "group": "in_store",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "Room 204 building no.3 999 Xiang Yin Lu, Yang Pu Qu, Shang Hai Shi, China, 200093, Shang Hai Shi, Shang Hai Shi, 200093",
+   "phone": "18918996888",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "达拉然卡牌店",
+   "group": "in_store",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Feng Tai Qu, Feng Tai Bei Lu, 79号冠京写字楼 邮政编码: 100161",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "迪菲亚卡牌店",
+   "group": "in_store",
+   "region": "Shang Hai Shi",
+   "address": "Shang Hai Shi, Chang Ning Qu, 上海市长宁路988号花园大厦3楼A座 邮政编码: 200050",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "重庆燃烧的寰宇",
+   "group": "in_store",
+   "city": "Chong Qing Shi",
+   "region": "Chong Qing Shi",
+   "address": "Room 11‑10, Zhongxin Building,No.1 Jianxin South Road, Huaxin Street Sub‑district,Liangjiang New Area, Chongqing   Postal Code: 401147, Chong Qing Shi, Chong Qing Shi, 401147",
+   "phone": "15683975864",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "金岩潮玩",
+   "group": "in_store",
+   "city": "Shen Yang Shi",
+   "region": "Liao Ning Sheng",
+   "address": "238, 31-5-4 Zhi Hui Da Jie, Hun Nan Qu, Shen Yang Shi, Liao Ning Sheng, China, 110167, Shen Yang Shi, Liao Ning Sheng, 110167",
+   "phone": "+8613194223449",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "队友卡牌游戏俱乐部",
+   "group": "in_store",
+   "city": "Shen Yang Shi",
+   "region": "Liao Ning Sheng",
+   "address": "1 门, 62-1-5 Jian She Zhong Lu, Tie Xi Qu, Shen Yang Shi, Liao Ning Sheng, China, 110025, Shen Yang Shi, Liao Ning Sheng, 110025",
+   "phone": "13591686532",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "阿迪达斯",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Zhong Qu, 民权路10号附4号 邮政编码: 400012",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "阿迪达斯",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Bei Bei Qu, 中山路77号 邮政编码: 400715",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "阿迪达斯",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "58 Nan Ping Xi Lu, Sigongli, Nan An Qu, Chong Qing Shi, 400066",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "阿迪达斯三叶草",
+   "group": "in_store",
+   "region": "Chong Qing Shi",
+   "address": "8 Bei Cheng Tian Jie, 洋河花园 Jiang Bei Qu, Chong Qing Shi, 401147",
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "顽皮猴文化店",
+   "group": "in_store",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Room C101, Changdi Cultural Park, No.171, Xichong Street, Shiqiao, Panyu District, Guangzhou City, Guangdong Province, China, Guang Zhou Shi, Guang Dong Sheng, 511488",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "魔晶卡牌 Magic Stone Card Shop",
+   "group": "in_store",
+   "city": "Bei Jing Shi",
+   "region": "Bei Jing Shi",
+   "address": "Room 1401,Building B, Qiangyou Qinghe Xincheng, Qinghe Middle ST, Haidian District, Beijing, Bei Jing Shi, Bei Jing Shi, 100085",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "鹏飞卡牌北京店",
+   "group": "in_store",
+   "address": "北京市西城区陶然亭街道中信禧园北区1号院1号楼底商1-6号, Beijing, Beijing, 100040, China",
+   "phone": "8618511895105",
+   "website": "https://www.facebook.com/share/v/14t3VSNXVz/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "鹏飞卡牌天津店",
+   "group": "in_store",
+   "city": "Tian Jin Shi",
+   "region": "Tian Jin Shi",
+   "address": "天津市翔纬路237号鹏飞卡牌, Tian Jin Shi, Tian Jin Shi, 300010",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:34:14Z"
+  },
+  {
+   "name": "123卡牌店/123TCG",
+   "group": "unknown",
+   "address": "上海市静安区江宁路街道西康路928号616, Shanghai, Jing'an District, 200060, China",
+   "phone": "+8618600769977",
+   "website": "https://www.youtube.com/watch?v=5lOCzhuPfhc&feature=youtu.be",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "5号档案馆",
+   "group": "unknown",
+   "address": "上海市普陀区中山北路2438号2505室, Shanghai, Shanghai, 200000, China",
+   "phone": "8615000655770",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "7221俱乐部",
+   "group": "unknown",
+   "address": "北京朝阳区百子湾东里403號沿海赛洛城底商403-106, Beijing, Chaoyang District, 100124, China",
+   "phone": "+8613691071252",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Angsana Xi'an Lintong",
+   "group": "unknown",
+   "city": "西安市",
+   "address": "No.8 East Yuechun Road, Lintong District, Xian 710600, 临潼区西安市710699",
+   "phone": "029 8387 8888",
+   "website": "https://www.angsana.com/en/china/xian-lintong",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "Baiyun Leather City",
+   "group": "unknown",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "5727+3CF, Gui Hua Lu, Bai Yun Qu, Guang Zhou Shi, Guang Dong Sheng, 510405",
+   "website": "https://www.zhihu.com/question/27510842",
+   "checked_at": "2026-10-20T16:34:09Z"
+  },
+  {
+   "name": "Beijing Postcards",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "No 97 Yang Mei Zhu Xie Jie, Xi Cheng Qu, 100031",
+   "phone": "130 1107 8680",
+   "website": "https://www.beijing-postcards.com/",
+   "checked_at": "2026-10-20T16:33:20Z"
+  },
+  {
+   "name": "BTM超忆卡牌百米店",
+   "group": "unknown",
+   "address": "上海市黄浦区浙江中路229号340（百米香榭3楼340超忆卡牌人广EDG卡牌分店）, Shanghai, Huangpu, 200001, China",
+   "phone": "13061652531",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "COCO Park",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "268 Fu Hua San Lu, 中心城 Fu Tian Qu, Shen Zhen Shi, Guang Dong Sheng, 518020",
+   "phone": "0755 8202 1111",
+   "website": "http://www.cocopark.cn/",
+   "checked_at": "2026-10-20T16:33:34Z"
+  },
+  {
+   "name": "COPTUS ARENA",
+   "group": "unknown",
+   "address": "重庆市渝中区化龙桥街道华盛路6号6-3、6-2、6-1（L603、L605、L606）, Chongqing, Yuzhong District, 400000, China",
+   "phone": "+8613350300217",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Diesel",
+   "group": "unknown",
+   "region": "Chong Qing Shi",
+   "address": "68 Zou Rong Lu, 解放碑商圈 Yu Zhong Qu, Chong Qing Shi, 400011",
+   "website": "https://diesel.com/en-us/",
+   "buylist_url": "https://diesel.com/retailer/buylist",
+   "checked_at": "2026-10-20T16:34:13Z"
+  },
+  {
+   "name": "fRUITY SHOP",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 南区底商雅成三里, 天鹅湾 邮政编码: 100020",
+   "website": "https://www.urbandictionary.com/define.php?term=fruity",
+   "buylist_url": "https://www.urbandictionary.com/define.php?term=buylist",
+   "checked_at": "2026-10-20T16:33:21Z"
+  },
+  {
+   "name": "Gambit桌面社交空间（罗湖店）",
+   "group": "unknown",
+   "address": "广东省深圳市罗湖区东门街道东门社区人民北路一横街9号鸿展商城负一层--38/39/40号, Shenzhen, Guangdong, 518000, China",
+   "phone": "8613380938170",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Games Workshop",
+   "group": "unknown",
+   "region": "Shang Hai Shi",
+   "address": "6F8F+MW8, Ma Dang Lu, Huang Pu Qu, Shang Hai Shi, 200020",
+   "website": "https://www.games-workshop.com/",
+   "checked_at": "2026-10-20T16:33:18Z"
+  },
+  {
+   "name": "GS Club",
+   "group": "unknown",
+   "address": "北京市通州区口子村东1号院89号楼1层101, Beijing, Tongzhou District, 101116, China",
+   "phone": "+8618611418633",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Guangzhou International Toys & Gifts Centre",
+   "group": "unknown",
+   "city": "Guangzhou",
+   "address": "Huangpu, Guangzhou, China, 510730",
+   "website": "https://www.busiunion.com/product/gztoy.html",
+   "checked_at": "2026-10-20T16:33:44Z"
+  },
+  {
+   "name": "Jezero Forge",
+   "group": "unknown",
+   "address": "江苏省南京市建邺区兴隆街道河西吾悦广场3幢407室, Nanjing, Jiangsu, 210036, China",
+   "phone": "8613584043784",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Kafeiqi",
+   "group": "unknown",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "V9FG+P6J, Zhong Xing Jie, Huang Pi Qu, Wu Han Shi, Hu Bei Sheng, 430344",
+   "website": "http://www.chinasspp.com/brand/162629/",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "Kaxi'ou Diwang Square Shop",
+   "group": "unknown",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "26 Jiao Chang Xi Lu, 中华广场 Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, 510050",
+   "phone": "020 8373 8669",
+   "website": "https://www.casio.com.cn/",
+   "checked_at": "2026-10-20T16:33:55Z"
+  },
+  {
+   "name": "Leica",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Jiang Gan Qu, Fu Chun Lu, 701号华润中心万象城B1层B175 邮政编码: 310008",
+   "website": "https://leica-camera.com/en-int",
+   "buylist_url": "https://leica-camera.com/en-int/service/camera-trade-in",
+   "checked_at": "2026-10-20T16:33:57Z"
+  },
+  {
+   "name": "Librairie Avant-Garde",
+   "group": "unknown",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "173 Guang Zhou Lu, Gu Lou Qu, Nan Jing Shi, Jiang Su Sheng, 210008",
+   "phone": "025 8371 1455",
+   "website": "https://www.zhihu.com/question/27510842",
+   "checked_at": "2026-10-20T16:34:09Z"
+  },
+  {
+   "name": "M3卡牌俱乐部/M3 Club",
+   "group": "unknown",
+   "address": "上海市静安区宝昌路825号101-1, Shanghai, Shanghai, 200092, China",
+   "phone": "+8615921493670",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "MOI Department Store",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "2009 Hua Qiang Bei Lu, Fu Tian Qu, Shen Zhen Shi, Guang Dong Sheng, 518028",
+   "phone": "0755 8321 0000",
+   "website": "http://www.maoye.cn/f/index",
+   "checked_at": "2026-10-20T16:33:36Z"
+  },
+  {
+   "name": "MOX&LOTUS卡牌店/MOX&LOTUS",
+   "group": "unknown",
+   "address": "河北省廊坊市广阳区新世纪步行街第三大街196号, Langfang City, Hebei Province, 065000, China",
+   "phone": "+8615333247777",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "NesT卡牌屋/Nest Card Store",
+   "group": "unknown",
+   "address": "北京市昌平区燕平家园14号14-3-4, 北京市, 北京市, 100299, CHina",
+   "phone": "+8613024165029",
+   "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "P9卡牌/P9 CARD GAME",
+   "group": "unknown",
+   "address": "深圳市福田区八卦一路618栋425室, Shenzhen, 44, 518057, China",
+   "phone": "+8613392838519",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "P9荔枝屋/P9 Litchi House",
+   "group": "unknown",
+   "address": "广东省深圳市福田区新天世纪商务中心心B座608, Shenzhen City, Guangdong, 518000, China",
+   "phone": "+8613590393963",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "pierre cardin",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Jiang Gan Qu, 城东 Jing Tan Lu, 18号-26号银泰百货庆春店4层 邮政编码: 310020",
+   "website": "http://www.chinasspp.com/brand/6717/",
+   "checked_at": "2026-10-20T16:34:00Z"
+  },
+  {
+   "name": "SANRIO",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "33 Guang Shun Bei Da Jie, Wangjing Subdistrict, Chao Yang Qu, Bei Jing Shi, 100102",
+   "website": "https://www.sanrio.com.cn/",
+   "checked_at": "2026-10-20T16:33:28Z"
+  },
+  {
+   "name": "SANRIO",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "138 Wang Fu Jing Da Jie, 东单 Dong Cheng Qu, Bei Jing Shi, 100006",
+   "website": "https://www.sanrio.com.cn/",
+   "checked_at": "2026-10-20T16:33:28Z"
+  },
+  {
+   "name": "Sanrio GIFT GATE",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Chao Yang Qu, 使馆区三里屯路三里屯VILLAGE南区SLG-55 邮政编码: 100600",
+   "website": "https://www.sanriogiftgate.com.hk/",
+   "checked_at": "2026-10-20T16:33:28Z"
+  },
+  {
+   "name": "Sanrio Shop",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "103 Nan Hu Bei Lu, Wangjing Subdistrict, Chao Yang Qu, Bei Jing Shi, 100102",
+   "website": "https://shop.sanrio.co.jp/",
+   "checked_at": "2026-10-20T16:33:27Z"
+  },
+  {
+   "name": "Shell Convenience Store",
+   "group": "unknown",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "732 Ri Yue Da Dao Yi Duan, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, 610091",
+   "website": "https://www.shell.com.cn/",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "Shenzhen Book City",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "5033 Shen Nan Dong Lu, Luo Hu Qu, Shen Zhen Shi, Guang Dong Sheng",
+   "phone": "0755 8207 3337",
+   "website": "https://h5.szbookmall.com/",
+   "checked_at": "2026-10-20T16:33:31Z"
+  },
+  {
+   "name": "Surprise Outlets",
+   "group": "unknown",
+   "region": "Beijing",
+   "address": "Chaoyang, China, 100018",
+   "phone": "010 8434 0006",
+   "website": "https://www.surpriseoutlets.com",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "Times Paradise Walk",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "560 Jin Sha Da Dao, Jiang Gan Qu, Hang Zhou Shi, Zhe Jiang Sheng, 311101",
+   "phone": "0571 8725 7777",
+   "website": "https://www.longfor.com/",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "Toread",
+   "group": "unknown",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, Gaosheng Bridge, Wu Hou Ci Da Jie, 243号附8号 邮政编码: 610093",
+   "phone": "028 8178 8188",
+   "website": "https://www.toread.com.cn/",
+   "checked_at": "2026-10-20T16:33:49Z"
+  },
+  {
+   "name": "TOYBOX桌游东门店",
+   "group": "unknown",
+   "address": "广东省深圳市罗湖区东门街道深南东路123号百货广场西座1001号, Shenzhen, 44, 518001, China",
+   "phone": "+8613380322263",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "UNDER ARMOUR",
+   "group": "unknown",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Jiang Bei Qu, Guan Yin Qiao Bu Xing Jie, 9号新世纪百货6层 邮政编码: 401147",
+   "phone": "023 8635 8131",
+   "website": "https://www.underarmour.com/en-us/",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "Wulin Night Market",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "7565+MR3, Long You Lu, 湖滨商圈 Xia Cheng Qu, Hang Zhou Shi, Zhe Jiang Sheng, 310025",
+   "website": "https://zhuanlan.zhihu.com/p/48207604",
+   "buylist_url": "https://zhuanlan.zhihu.com/buylist",
+   "checked_at": "2026-10-20T16:33:52Z"
+  },
+  {
+   "name": "XCARDSGAMES",
+   "group": "unknown",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "上海市闵行区东川路1779-6号, Shanghai, 31, 200240, China",
+   "phone": "+8613917321799",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "Zoom",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "W9MM+46G, Di An Men Xi Da Jie, Shichahai, Xi Cheng Qu, Bei Jing Shi, 100035",
+   "website": "https://www.zoom.com/",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "一起桌游吧/Play board games together",
+   "group": "unknown",
+   "address": "北京市海淀区悦秀路99号7层1单元701-1, Beijing, Haidian District, 100100, China",
+   "phone": "+8613910905094",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "万物屋卡牌/Wanwu House Card Store",
+   "group": "unknown",
+   "address": "河北省廊坊市广阳区第四大街南内街B-256号, Langfang City, Hebei Province, '065000, China",
+   "phone": "+8619568230006",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "上海幸运猫玩具/lucky cat toys",
+   "group": "unknown",
+   "address": "上海市浦东新区曹路镇金海路2668弄金泰商务广场1号一层022室, Shanghai, Pudong New Area, 201209, China",
+   "phone": "+8618017060773",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "中关村知春路万智牌店/Zhong Guan Cun Zhi Chun Road Card Store",
+   "group": "unknown",
+   "address": "海淀区知春路128号泛亚大厦一层102, Beijing, 11, 100086, China",
+   "phone": "+8613681202367",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "乃咿口道馆",
+   "group": "unknown",
+   "address": "上海市虹口区四川北路1688号嘉宏印象荟3楼301-7, Shanghai, Shanghai, 200080, China",
+   "phone": "8615317987149",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "二次元空间",
+   "group": "unknown",
+   "address": "重庆沙坪坝嘉多利广场22-3, Chongqing, 50, 400000, China",
+   "phone": "+8613882288221",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "亚伦国度",
+   "group": "unknown",
+   "address": "北京市朝阳区亚运村街道安定路5号院北投购物公园潮街B1-087室, Beijing, Beijing, 10010, China",
+   "phone": "8618518233826",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "信仰社/Faith MTG Club",
+   "group": "unknown",
+   "address": "上海市宝山区沪太路1933号4楼（宝山日月光中心）C403-C404, Shanghai, Baoshan District, 200436, China",
+   "phone": "+8618601790011",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "元宇宙卡牌",
+   "group": "unknown",
+   "address": "北京市东城区珠市口街道天鼎218文化金融园N1(园区北门左侧), Beijing, Beijing, 100050, China",
+   "phone": "8613810288880",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "冠军卡牌",
+   "group": "unknown",
+   "address": "上海市静安区公兴路65号2楼, Shanghai, Shanghai, 200080, China",
+   "phone": "+8613916661187",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "北京博润苑商贸有限公司",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Dong Cheng Qu, Dongsi Subdistrict, Beijing, 东中街58号 邮政编码: 100010",
+   "phone": "010 6554 6880",
+   "website": "https://www.brygift.com/",
+   "checked_at": "2026-10-20T16:33:22Z"
+  },
+  {
+   "name": "北京卡豆卡牌专卖店/BeijinKadou Card Store",
+   "group": "unknown",
+   "address": "北京市西城区西单横二条59号西单明珠7层7020鋪, Beijing, 11, 100055, China",
+   "phone": "+86 13701382358",
+   "website": "https://www.kadouevents.cn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "北京开立卡牌",
+   "group": "unknown",
+   "address": "北京市海淀区甘家口街道 景熙国际写字楼6层608, Beijing, Haiding Dist, 100037, China",
+   "phone": "+8613521209657",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "北京聚友TCG俱乐部",
+   "group": "unknown",
+   "address": "北京市海淀区文慧园路6号院1号楼地下1层D107室, Beijing, Beijing, 100080, China",
+   "phone": "8613520980326",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "北境卡牌店/The Northen Land",
+   "group": "unknown",
+   "address": "北京市朝阳区汤立路218号2层293, Beijing, 11, 100107, China",
+   "phone": "+8618611859749",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "千棠卡牌/Qiantangtangcard",
+   "group": "unknown",
+   "address": "深圳市龙岗区吉华街心办啊道水径社区上水径布龙路(布吉段)233号振兴云谷A栋203-1, 深圳市, 龙岗区, 518112, China",
+   "phone": "+8613410754756",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "南京码皮卡牌",
+   "group": "unknown",
+   "address": "江苏省南京市秦淮区洪武路正洪大厦1506室, Nanjing, Jiangsu, 210005, China",
+   "phone": "8615851894823",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "南天门卡牌",
+   "group": "unknown",
+   "address": "江苏省南京市玄武区新街口街道珠江路67号101室华利广场5楼5A05, NanjingN, Jiangsu, 210000, China",
+   "phone": "8618951834594",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "卡利欧丽泽店",
+   "group": "unknown",
+   "address": "北京市丰台区丽泽天地7层卡利欧, Beijing, Beijing, 100071, China",
+   "phone": "8618611505658",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "卡利欧健德门店",
+   "group": "unknown",
+   "address": "北京市海淀区万盛商务会馆西门 a 区 b1 层 07 卡利欧, Beijing, Beijing, 1000000, China",
+   "phone": "8615522533729",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "卡利欧金源店",
+   "group": "unknown",
+   "address": "曙光街道远大路一号世纪金源西区五层漫街区卡利欧, Beijing, Beijing, 100097, China",
+   "phone": "8613261583977",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "卡派|KaPai",
+   "group": "unknown",
+   "city": "Cheng Du Shi",
+   "region": "Si Chuan Sheng",
+   "address": "上海市虹口区西江湾路388号A栋04层50/51号, Shanghai, Shanghai, 200000, China",
+   "phone": "8618221802556",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "卡研社/Card Research Club",
+   "group": "unknown",
+   "address": "江苏省南京市江北新区葛塘街道美利广场3-28-1, Nanjing City, Jiangsu Province, 210044, China",
+   "phone": "+8619941568612",
+   "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "卡西欧",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, 下城区延安路179号元华购物中心1楼 邮政编码: 310001",
+   "website": "https://www.casio.com.cn/",
+   "checked_at": "2026-10-20T16:33:55Z"
+  },
+  {
+   "name": "卿月卡牌/Qingyue Card Store",
+   "group": "unknown",
+   "address": "北京市通州区群芳中二路62号1层全部, Beijing, Tongzhou District, 100101, China",
+   "phone": "+8618610041633",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "厉清卡牌店/Li Qing Card Store",
+   "group": "unknown",
+   "address": "北京市西城区万源夹道18号, Beijing, Beijing, 100000, China",
+   "phone": "+8613260268225",
+   "website": "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fu%2F2643025570&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F130.0%20Safari%2F537.36&_rand=1792513976243&sudaref=",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "反重力tcg/antigravitytcg",
+   "group": "unknown",
+   "address": "河北省廊坊市广阳区新世纪步行街第四大街南内街二楼B241, 廊坊市, 河北省, 065000, China",
+   "phone": "+8618301505450",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "君君的牌客窝/Packwar's Coffee & Boardgames Store",
+   "group": "unknown",
+   "address": "江苏省南京市建邺区莫愁湖街道茶亭东街79号西祠街区创意产业园16栋4楼403室, Nanjing, Jiangsu, 210017, China",
+   "phone": "+8613505173568",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "启典卡牌/Qi dian Card Store",
+   "group": "unknown",
+   "address": "湖北省武汉市洪山区珞瑜路20号阜华大厦1栋D单元22A层D22A02B室, Wuhan, Hubei, 430070, China",
+   "phone": "+8613986199378",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "呆呆龙卡牌/slowdrake games",
+   "group": "unknown",
+   "address": "北京市海淀区铸诚大厦A座316, Beijing, Haidian District, 100081, China",
+   "phone": "+8618611939080",
+   "website": "https://mp.weixin.qq.com/s/FnOhN-7BLZCodR5drMdthQ",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:58Z"
+  },
+  {
+   "name": "嗨豹球桌游",
+   "group": "unknown",
+   "address": "重庆市沙坪坝区虎溪街道大学城艺德路13号富力五星名座3栋20-12, Chongqing, Chongqing, 401331, China",
+   "phone": "861369869315",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "多魔熊",
+   "group": "unknown",
+   "address": "上海市虹口区瑞虹路188号月亮湾LG层多魔熊, Shanghai, Shanghai, 200086, China",
+   "phone": "8615316673076",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "大班卡牌店/Big Ban Card Store",
+   "group": "unknown",
+   "address": "北京市西城区新街口外大街8号金丰和 D座五区101 , Beijing, 11, 100000, China",
+   "phone": "+8613811810053",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "天娱广场",
+   "group": "unknown",
+   "city": "Guang Zhou Shi",
+   "region": "Guang Dong Sheng",
+   "address": "623 Tian He Lu, Tian He Qu, Guang Zhou Shi, Guang Dong Sheng, 510635",
+   "phone": "020 8758 8056",
+   "website": "http://www.theplaza.com.cn/",
+   "checked_at": "2026-10-20T16:33:45Z"
+  },
+  {
+   "name": "奇愿卡牌/Qiyuan Card Store",
+   "group": "unknown",
+   "address": "江苏省镇江市句容经济开发园区华东科技1幢1112, Zhenjiang City, Jiangsu Province, 212400, China",
+   "phone": "+8618233121336",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "奇点战棋（徐汇滨江店）",
+   "group": "unknown",
+   "address": "上海市徐汇区东安路888号阳光滨江天地尚湾里B1层C25室, Shanghai, Shanghai, 200032, China",
+   "phone": "8613381536686",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "奈奈桌游/NaNa Game Club",
+   "group": "unknown",
+   "address": "北京市顺义区裕曦路9号院11号楼B101, Beijing, Shunyi District, 101318, China",
+   "phone": "+8618513561719",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "奕霖小屋/Yilinxiaowu",
+   "group": "unknown",
+   "address": "河北省廊坊市广阳区华秋里地税局南楼4-102, Langfang City, Hebei Province, 065000, China",
+   "phone": "+8618301505450",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "奥秘桌游店",
+   "group": "unknown",
+   "address": "武汉市江汉区单洞三路东侧万科金色家园二期四楼416商铺, 武汉市, 34, 430000, China",
+   "phone": "+8613995699990",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "妃雅莉卡牌",
+   "group": "unknown",
+   "address": "北京市朝阳区日坛北路19号雅宝城741, Beijing, Beijing, 100020, China",
+   "phone": "8618210229711",
+   "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "宝卡游艺(后海店)",
+   "group": "unknown",
+   "address": "广东省深圳市南山区后海滨路3288号深圳湾后海汇负一层47铺, Shenzhen, Guangdong, 518000, China",
+   "phone": "8613538086897",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "宝卡游艺/BaoKa Game",
+   "group": "unknown",
+   "address": "广东省深圳市南山区后海大道1021号银沙商务中心211, Shenzhen City, Guangdong Province, 518000, China",
+   "phone": "+8613538086897",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "宝库卡牌",
+   "group": "unknown",
+   "address": "东城区崇文门外大街18号LG-1宝库卡牌, 北京市, Beijing, 100062, China",
+   "phone": "+8613466345634",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "客满得卡牌/Commander Card",
+   "group": "unknown",
+   "address": "湖北省武汉市汉阳区鹦鹉大道271号附23号, Wuhan City, Hubei, 430000, China",
+   "phone": "+8618162775401",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "巴拉斯卡牌/Blastoderm00's TCG Shop",
+   "group": "unknown",
+   "address": "江苏省南京市栖霞区马群街道石狮路22号-1栋904室, Nanjing City, Jiangsu Province, 210000, China",
+   "phone": "+8613601580310",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "布斑卡牌/BU BAN Card Store",
+   "group": "unknown",
+   "address": "上海市普陀区交通路2447弄A107室, Shanghai, 31, 200065, China",
+   "phone": "+8617601382275",
+   "website": "https://buban.club/",
+   "buylist_url": "https://buban.club/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "帝企鹅卡牌朝阳大悦城店",
+   "group": "unknown",
+   "address": "北京市朝阳区雅成二里18号楼-1层-106, Beijing, Beijing, 10010, China",
+   "phone": "8618911737805",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "幻想空间桌游店",
+   "group": "unknown",
+   "address": "江苏省南京市鼓楼区江东街道华彩荟1楼底商幻D2-1想空间桌游店, Nanjing, Jiangsu, 210011, China",
+   "phone": "+8615393125839",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "庚原卡牌/Gengyuan Card Store",
+   "group": "unknown",
+   "address": "北京市石景山区古城南街9号院6号楼1层3-8, Beijing, Shijingshan District, 100100, China",
+   "phone": "+8618500089468",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "必提卡牌/BEST HIT CARDGAME CLUB",
+   "group": "unknown",
+   "address": "北京市朝阳区黑庄户乡大鲁店一村2号二层A5-10室, Beijing, Beijing, 100000, China",
+   "phone": "+8615901319310",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "恺源卡牌/Kaiyuan TCG",
+   "group": "unknown",
+   "address": "上海市静安区恒丰路218号现代交通商务大厦西区508室, Shanghai, Jing'an District, 200070, China",
+   "phone": "+8613817896122",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "成冶卡牌/Chengye Card Store",
+   "group": "unknown",
+   "address": "北京市东城区珠市口东大街4号二层B1单元203号, Beijing, Dongcheng District, 100100, China",
+   "phone": "+8613501018608",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "成都MC万智牌店/ChengDu MasterCard Store",
+   "group": "unknown",
+   "address": "四川成都市一环路南一段学府花园锦学阁 20楼D座, Chengdu, 51, 610000, China",
+   "phone": "+8613880985731",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "成都卡卡星",
+   "group": "unknown",
+   "address": "四川省成都市锦江区桦彩路158号德必川报易园A131室, Chengdu, Sichuan, 610023, China",
+   "phone": "8615328867820",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "成都火花万智牌/Fire Spark",
+   "group": "unknown",
+   "address": "四川省成都市青羊区清江中路1号西源集2号楼3单元610室, Chengdu City, Qingyang District, 610041, China",
+   "phone": "+8618190749116",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "扬州漫客俱乐部/ Yangzhou Manke Club",
+   "group": "unknown",
+   "address": "江苏省扬州市邗江区吉安路210号2楼, Yangzhou City, Jiangsu Province, 225000, China",
+   "phone": "+8618611350113",
+   "website": "https://b23.tv/43xof7i",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "扬州牌客盟/Yangzhou Card Players League",
+   "group": "unknown",
+   "address": "江苏省扬州市邗江区江阳中路427号 明月澄生活广场三楼, Yangzhou, Jiangsu Province, 225000, China",
+   "phone": "+8613023525997",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "拂晓卡牌",
+   "group": "unknown",
+   "address": "四川省成都市龙泉驿区大面街道新建路118号18栋32楼3225号, Chengdu, Sichuan, 610100, China",
+   "phone": "8619150030845",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "排谷fun/Paigu Fun",
+   "group": "unknown",
+   "address": "北京市朝阳区 朝阳北路17号常营华联购物中心 三层 F3-36, Beijing, Chaoyang District, 100024, China",
+   "phone": "+8618665831180",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "旦玩桌游·卡牌",
+   "group": "unknown",
+   "address": "上海市杨浦区五角场街道锦创路26号801, Shanghai, Shanghai, 200433, China",
+   "phone": "8613127751423",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "旧天堂书店",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Nan Shan Qu, 华侨城深圳市鸿艺源建筑室内设计有限公司 邮政编码: 518074",
+   "website": "https://site.douban.com/117859/",
+   "checked_at": "2026-10-20T16:33:31Z"
+  },
+  {
+   "name": "时光卡藏（上海五角场）",
+   "group": "unknown",
+   "address": "上海市杨浦区国宾路58号三楼, Shanghai, Shanghai, 200433, China",
+   "phone": "8618101738107",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "时光卡藏（北京通州）",
+   "group": "unknown",
+   "address": "北京市通州区新华西街58号万达广场1号楼5层万达影城内, Beijing, Beijing, 101199, China",
+   "phone": "8613911611004",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "时光卡藏（成都锦华）",
+   "group": "unknown",
+   "address": "四川省成都市锦江区锦华路一段68号万达广场三楼万达影城, Chengdu, Sichuan, 610000, China",
+   "phone": "8613911611004",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "易得趣卡牌",
+   "group": "unknown",
+   "address": "湖北省武汉市江岸区京汉大道义和巷金地京汉19031层D3号, Wuhan, Hubei Province, 430070, China",
+   "phone": "+8613871218473",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "星悦卡牌/Kirari's Store",
+   "group": "unknown",
+   "address": "北京市顺义区裕曦路11号院2号楼106, Beijing, 11, 101318, China",
+   "phone": "+8618511176448",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "星懿卡牌/Virtous Star",
+   "group": "unknown",
+   "address": "重庆市江北区观音桥街道红鼎国际b座2单元1616, Chongqing, Jiangbei District, 400000, China",
+   "phone": "+8615933240301",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "星星卡牌/StarCardGame",
+   "group": "unknown",
+   "address": "北京市朝阳区百子园5号楼12层B单元1201, Beijing, Chaoyang District, 100101, China",
+   "phone": "+8615810889825",
+   "website": "https://b23.tv/43xof7i",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "星际驿站卡牌/Interstellar Station Card Store",
+   "group": "unknown",
+   "address": "北京市朝阳区东大桥路8号院1号楼22层2606, Beijing, Chaoyang District, 100100, China",
+   "phone": "+8613641272687",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "晴天卡牌/Sunny Card",
+   "group": "unknown",
+   "city": "Shang Hai Shi",
+   "region": "Shang Hai Shi",
+   "address": "上海市松江区谷阳北路2558弄5号楼202商铺, Shanghai, Songjiang District, 200231, China",
+   "phone": "+8613918328702",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "晴岚卡牌/CING-LAN Card Store",
+   "group": "unknown",
+   "address": "江苏省镇江市京口区中山东路18号京凌大厦1502号, Zhenjiang City, Jiangsu Province, 212000, China",
+   "phone": "+8617398988096",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "暮光卡牌店/Mu Guang Card Game",
+   "group": "unknown",
+   "address": "北京市海淀区上地东路35号颐泉汇一号楼211, Beijing, 11, 102208, China",
+   "phone": "+8618604459779",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "暴风玩具店",
+   "group": "unknown",
+   "address": "武林路100号鸿鼎商务楼300室, Hangzhou, 33, 310000, China",
+   "phone": "+8613706710521",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "木星桌游",
+   "group": "unknown",
+   "address": "广东省深圳市福田区莲花街道景田站C出口妇儿大厦，儿童探索馆5楼505, Shenzhen, Guangdong, 518034, China",
+   "phone": "8617724695733",
+   "website": "https://jupitergame.cn/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:33:02Z"
+  },
+  {
+   "name": "杭州大厦",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "Zhe Jiang Sheng, Hang Zhou Shi, Xia Cheng Qu, 武林广场西通道武林广场1号 邮政编码: 310003",
+   "phone": "0571 8515 3911",
+   "website": "http://www.hangzhoutower.com/",
+   "checked_at": "2026-10-20T16:33:53Z"
+  },
+  {
+   "name": "枫树下桌游俱乐部／FSX",
+   "group": "unknown",
+   "address": "嘉兴市南湖区经开龙港大厦B座三楼, Jiaxing City, 33, 314000, China",
+   "phone": "+8615257382736",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "桌迷藏桌游岗厦店/Meeplepedia-Gangxia Branch Shop",
+   "group": "unknown",
+   "address": "深圳市福田区福田街道福山社区彩田路2010号中深花园B1103, Shenzhen, Guangdong, 518000, China",
+   "phone": "+8615131167600",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "桌迷藏桌游车公庙店/Meeplepedia-Chegongmiao Branch Shop",
+   "group": "unknown",
+   "address": "深圳市福田区沙头街道天安社区深南大道6009号NEO绿景广场C座13A, Shenzhen, Guangdong, 518000, China",
+   "phone": "+8615131167600",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "棠盛卡牌/Tangshengcard",
+   "group": "unknown",
+   "address": "广东省东莞市雁田村新园中路九巷三号1楼, 东莞市, 广东省, 523000, China",
+   "phone": "+8618680664136",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "森林战棋/Forest Battle Chess",
+   "group": "unknown",
+   "address": "深圳市宝安区宝安大道3061号德信商务中心501A-1, Shenzhen, Bao'an District, 518100, China",
+   "phone": "+8618503079948",
+   "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F64e99be90000000001012b8b%3Fxhsshare%3DWeixinSession%26appuid%3D64e99be90000000001012b8b%26apptime%3D1726054502%26share_id%3D3ab36ed1b72f4ff0a53bfa6a82cbee06%26exSource%3Dnull",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "模玩熊卡牌店",
+   "group": "unknown",
+   "address": "上海市黄浦区南京东路340号 百联zx 创趣场 6楼 模玩熊卡牌店, Shanghai, Shanghai, 200120, China",
+   "phone": "8617511670329",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "橘子群岛",
+   "group": "unknown",
+   "address": "北京市西城区马连道路6号6号楼6层708（鼎观大厦6层708B）, Beijing, Beijing, 100055, China",
+   "phone": "8617610376977",
+   "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "次元计画-深圳店/Dimension Plan - Shenzhen Store",
+   "group": "unknown",
+   "address": "广东省深圳市宝安区新湖路99号壹方城B2-076K, Shenzhen, Guangdong Province, 518101, China",
+   "phone": "+8613924004778",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "欧域卡牌/Oycard",
+   "group": "unknown",
+   "address": "上海市闵行区中春路8633弄20号(24幢) 510室(万科七宝国际), Shanghai, Shanghai, 201199, China",
+   "phone": "+8617717082486",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "歆然卡牌/Xinran Card Store",
+   "group": "unknown",
+   "address": "北京市顺义区北小营镇水色时光花园5区底商101, Beijing, Shunyi District, 100000, China",
+   "phone": "+8613811729062",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "沃尔玛购物广场",
+   "group": "unknown",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "Hu Bei Sheng, Wu Han Shi, Hong Shan Qu, 关山大道475号 邮政编码: 430223",
+   "phone": "027 8664 3496",
+   "website": "http://www.wal-martchina.com/",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "沃尔玛购物广场",
+   "group": "unknown",
+   "city": "Nan Jing Shi",
+   "region": "Jiang Su Sheng",
+   "address": "Jiang Su Sheng, Nan Jing Shi, Yu Hua Tai Qu, Ying Tian Da Jie, 619号德盈国际广场 负一层 邮政编码: 210006",
+   "phone": "025 8646 7299",
+   "website": "http://www.wal-martchina.com/",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "沃尔玛购物广场重庆两路金港国际分店",
+   "group": "unknown",
+   "region": "Chong Qing Shi",
+   "address": "Chong Qing Shi, Yu Bei Qu, 胜利路129号金港国际广场 邮政编码: 401124",
+   "phone": "023 6780 2866",
+   "website": "http://www.wal-martchina.com/",
+   "checked_at": "2026-10-20T16:34:10Z"
+  },
+  {
+   "name": "沉船桌游/Shipwreck Board Games",
+   "group": "unknown",
+   "address": "陕西省西安市莲湖区大兴东路MOCO2号楼12层21202室, Xi'an City, Shaanxi Province, 710065, China",
+   "phone": "+8618691823370",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "泰豆",
+   "group": "unknown",
+   "address": "上海市长宁区长宁路823号又又中心L305泰豆, Shanghai, Shanghai, 200050, China",
+   "phone": "8618939831385",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "泽萱卡牌/ZX card",
+   "group": "unknown",
+   "address": "北京市朝阳区朝外大街乙六号朝外SOHO，B座05069, Beijing, Chaoyang District, 100020, China",
+   "phone": "+8613691591539",
+   "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F64e99be90000000001012b8b%3Fxhsshare%3DWeixinSession%26appuid%3D64e99be90000000001012b8b%26apptime%3D1726054502%26share_id%3D3ab36ed1b72f4ff0a53bfa6a82cbee06%26exSource%3Dnull",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "派可卡牌/Packwar Cardgame",
+   "group": "unknown",
+   "address": "江苏省南京市建邺区南湖东路81号, Nanjing City, Jiangsu Province, 210017, China",
+   "phone": "+8613505173568",
+   "website": "https://mp.weixin.qq.com/s/FnOhN-7BLZCodR5drMdthQ",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:58Z"
+  },
+  {
+   "name": "浪险X星野兔",
+   "group": "unknown",
+   "address": "广东省深圳市盐田区海景二路1038-145壹海城一区121铺 星野兔咖啡, Shenzhen, Guangdong, 518021, China",
+   "phone": "8613686884112",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "淘沙桌游卡牌店/TAOSHA CARD SHOP",
+   "group": "unknown",
+   "address": "浙江省绍兴市上虞区崧厦街道高铁新城万达商业广场J4-A2地区A214, Shaoxing City, Zhejiang Province, 312300, China",
+   "phone": "+8617557297144",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "深圳电话卡专卖点",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Long Gang Qu, 昌平街 邮政编码: 518111",
+   "website": "https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2Fwww.tmall.com%2Fmlist%2Fcp_ye7b2rXnu7C_qMrWu_q_qA.html",
+   "checked_at": "2026-10-20T16:33:43Z"
+  },
+  {
+   "name": "深圳萬象城",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Luo Hu Qu, Diwang 邮政编码: 518000",
+   "website": "https://utravel.com.hk/news/detail/24383/%E6%B7%B1%E5%9C%B3%E8%90%AC%E8%B1%A1%E5%9F%8E%E4%B8%80%E6%97%A5%E9%81%8A%E6%8E%A8%E4%BB%8B",
+   "checked_at": "2026-10-20T16:33:39Z"
+  },
+  {
+   "name": "清澄桌游俱乐部/QING CHENG Board Game Club",
+   "group": "unknown",
+   "address": "上海市青浦区竹盈路339弄18幢44号601, Shanghai City, Qingpu District, 201799, China",
+   "phone": "+8613817706015",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "游戏中心",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "Guang Dong Sheng, Shen Zhen Shi, Bao An Qu, 创业二路 邮政编码: 518101",
+   "website": "http://www.chinagames.net/",
+   "checked_at": "2026-10-20T16:33:40Z"
+  },
+  {
+   "name": "满足动漫桌游俱乐部",
+   "group": "unknown",
+   "address": "重庆市渝中区石油路龙湖时代天街d馆11栋4039号, Chongqing City, Yuzhong District, 400000, China",
+   "phone": "+8615086708087",
+   "website": "https://b23.tv/43xof7i",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "火花桌游",
+   "group": "unknown",
+   "address": "江苏省南京市江宁区秣陵街道将军大道9号托乐嘉花园108幢513室, Nanjing, Jiangsu, 210000, China",
+   "phone": "8618061431517",
+   "website": "https://www.xiaohongshu.com/login?redirectPath=http%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5eac4ca70000000001007937%3Fxsec_token%3DYBcuKDo5DciaFRVByaNIeTy8QuJbc7COnOjMROhHROkgg%253D%26xsec_source%3Dapp_share%26shareRedId%3DN0tDQzdIRUA2NzUyOTgwNjY0OTc7PjlA%26apptime%3D1770277751%26share_id%3D43b6551f13b44d8aa08080f63c6e360f%26share_channel%3Dcopy_link%26appuid%3D5eac4ca70000000001007937%26xhsshare%3DCopyLink%26exSource%3Dnull",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:55Z"
+  },
+  {
+   "name": "炎舞",
+   "group": "unknown",
+   "address": "浙江省杭州市余杭区仓前街道未来研创园A幢A101, Hangzhou, Zhejiang, 311121, China",
+   "phone": "8617758026590",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "烈华桌游·卡牌",
+   "group": "unknown",
+   "address": "北京市大兴区嘉悦广场7号楼1115, Beijing, Beijing, 100162, China",
+   "phone": "8617611146199",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "片场桌游卡牌俱乐部/Action Card Club",
+   "group": "unknown",
+   "address": "北京市朝阳区朝阳北路104号楼9层902, Beijing, Chaoyang District, 100000, China",
+   "phone": "+8615811052161",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "物语卡牌/Story Card Store",
+   "group": "unknown",
+   "address": "北京市丰台区马家堡西路15号时代风帆大厦2区1606, Beijing, Fengtai District, 100068, China",
+   "phone": "+8615010353248",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "特里斯汀桌游卡牌/Tristain Board Games & Cards",
+   "group": "unknown",
+   "address": "湖北省武汉市江岸区后湖大道统百中心B1306, Wuhan City, Hubei Province, 430000, China",
+   "phone": "+8617786531715",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "猎人桌游吧-中关村店/Hunter board game ZGC",
+   "group": "unknown",
+   "address": "北京市海淀区苏州街12号12-5号楼1层S-110, Beijing, Haidian District, 100080, China",
+   "phone": "+8615201364355",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "王府井卡牌/Wang Fu Jing Card Store",
+   "group": "unknown",
+   "address": "北京市东城区王府井大街218-1号北方佳苑写字间C410, Beijing, Beijing, 100000, China",
+   "phone": "+8613683296624",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "玖门TCG club/Jiumen tcgclub",
+   "group": "unknown",
+   "address": "四川省成都市青羊区光华东三路中铁西城写字楼4栋611, Chengdu City, Qingyang District, 610000, China",
+   "phone": "+8613628045306",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "玛丽与鼠桌游/Mary and Mouse",
+   "group": "unknown",
+   "address": "四川省成都市武侯区一环路西一段130号索尔国际2305, Chengdu City, Sichuan Province, 610000, China",
+   "phone": "+8615208263440",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "玛雅源卡牌",
+   "group": "unknown",
+   "address": "上海市徐汇区中山西路凯托大厦309室, Shanghai, Shanghai, 200030, China",
+   "phone": "+8618601787756",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "球星卡专营店",
+   "group": "unknown",
+   "region": "Bei Jing Shi",
+   "address": "Bei Jing Shi, Dong Cheng Qu, 黄化门街 邮政编码: 100009",
+   "website": "https://www.jd.com/brand/167288dbcbfd80fb8330.html",
+   "checked_at": "2026-10-20T16:33:30Z"
+  },
+  {
+   "name": "申夜卡堂",
+   "group": "unknown",
+   "address": "上海市黄浦区陆家浜路1100号裙房2层201-204室, Shanghai City, 31, 200011, China",
+   "phone": "+8615317878321",
+   "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "百忍潮玩＆哆来玩吧卡牌电竞馆（龙华会店）",
+   "group": "unknown",
+   "address": "徐汇区龙华街道龙华路2778号龙华会商场南区一楼靠近河边C5L1S04商铺百忍潮玩&哆来玩吧, Shanghai, Shanghai, 200000, China",
+   "phone": "8618017548294",
+   "website": "https://verify.meituan.com/v2/app/general_page?requestCode=04c4a730db4b4f648ec08024372be0c7&adaptor=auto&action=spiderindefence&succCallbackUrl=https%3A%2F%2Foptimus-mtsi.meituan.com%2Foptimus%2FverifyResult%3ForiginUrl%3Dhttps%253A%252F%252Fm.dianping.com%252Fshop%252FH6mzYvMAmoVSE7kA&theme=dianping",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "皇庭广场",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "G3M5+FW4, Fu Hua San Lu, 福田ＣＢＤ Fu Tian Qu, Shen Zhen Shi, Guang Dong Sheng, 518048",
+   "phone": "0755 8288 1111",
+   "website": "http://www.wongteeplaza.com/",
+   "checked_at": "2026-10-20T16:33:37Z"
+  },
+  {
+   "name": "真橙卡牌",
+   "group": "unknown",
+   "address": "北京市海淀区学清路8号科技财富中心B座1501A, 北京市, 海淀区, 100085, China",
+   "phone": "+8615510730010",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "福田乐启桌游咖啡",
+   "group": "unknown",
+   "address": "广东省深圳市福田区福田街道岗厦社区金田路3038号现代商务大厦3001, Shenzhen, Guangdong Province, 518000, China",
+   "phone": "+8613424404621",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "秘银大厅/Mithril Hall",
+   "group": "unknown",
+   "city": "Wu Han Shi",
+   "region": "Hu Bei Sheng",
+   "address": "湖北省武汉市洪山区珞珈山路附7号珞珈山大厦A座2805室, Wuhan City, Hubei Province, 430070, China",
+   "phone": "+8618571490612",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "繁言卡牌",
+   "group": "unknown",
+   "address": "浙江省杭州市临安区锦北街道武肃街609号, Hangzhou City, Zhejiang Province, 311300, China",
+   "phone": "+8615372232039",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "羽栗卡牌/YURICARDSHOP",
+   "group": "unknown",
+   "address": "惠州市惠城区东平二街9号光耀荷兰水乡花园(五期二组团花语岸)商务中心2层01号, Huizhou City, Guangdong Province, 516001, China",
+   "phone": "+8615018096077",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "翻云卡牌店/Fan Yun Card Store",
+   "group": "unknown",
+   "address": "南京市玄武区新街口街道如意里7号103室, Nanjing, 32, 210018, China",
+   "phone": "+8613951890345",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "腰花战棋卡牌俱乐部 /Waist Flower Battle Chess",
+   "group": "unknown",
+   "address": "浙江省杭州市拱墅区东新街道机场路163号沁园雅舍商务馆909, Hangzhou City, Zhejiang Province, 310000, China",
+   "phone": "+8618368815442",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "艾斯兰德桌游",
+   "group": "unknown",
+   "address": "四川省成都市锦江区航空路7号华尔兹广场b座2203, Chengdu, Sichuan, 610011, China",
+   "phone": "+8613330995646",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "英雄卡牌/Hero Card Store",
+   "group": "unknown",
+   "address": "北京市朝阳区东大桥路8号院1号楼2606A, Beijing, Chaoyang District, 100100, China",
+   "phone": "+8619120000620",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "菠萝屋卡牌/Boluowu Card Store",
+   "group": "unknown",
+   "address": "安徽省马鞍山市雨山区安民街道马鞍山市博物馆东门东北50米（菠萝屋卡牌）, Ma'anshan City, Anhui Province, 243000, China",
+   "phone": "+8617330670776",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "萌鲸卡牌桌游",
+   "group": "unknown",
+   "address": "浙江省嘉兴市南湖区建设街道勤俭路1005号禾城商务大厦611, Jiaxing, 33, 314000, China",
+   "phone": "+8618606737798",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "蒂企鹅桌游吧/Tui Penguin",
+   "group": "unknown",
+   "address": "北京市海淀区复兴路47号3层306号, Beijing, Haidian District, 100036, China",
+   "phone": "+8613641272687",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "蔷薇龙",
+   "group": "unknown",
+   "address": "杭州市龙潭路7号未来研创园A栋310, Hangzhou, Zhejiang, 310000, China",
+   "phone": "8613157199955",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "薄荷喵卡/Bo He",
+   "group": "unknown",
+   "address": "北京市朝阳区垡头街道双合北街10号楼合憬荟3层311, Beijing, Chaoyang District, 100023, China",
+   "phone": "+8618301505450",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "蚌棒屋卡牌club/BangBangWu Club",
+   "group": "unknown",
+   "address": "北京市朝阳区百子湾东里406号楼1层104室A-06, Beijing, Chaoyang District, 100000, China",
+   "phone": "+8618811280703",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "诚创卡牌/Chengchuangcard",
+   "group": "unknown",
+   "address": "广东省深圳市龙岗区平湖街道禾花社区华南大道一号华南国际纺织服装原辅料物流区二期1A-085, 深圳市, 广东省, 518111, China",
+   "phone": "+8618680664136",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "谜藏小小桌游图书馆",
+   "group": "unknown",
+   "address": "平海路58号平海旺角807, Hangzhou, 33, 310006, China",
+   "phone": "+8619857417336",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "赛弗桌游/Zephyr Boardgame & Cafe",
+   "group": "unknown",
+   "address": "杨浦区武川路学府街65号, Shanghai, 31, 200434, China",
+   "phone": "+8618918996888",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "赛高卡牌南京店",
+   "group": "unknown",
+   "address": "江苏省南京市秦淮区水平方购物广场-1层B1-13, Nanjing, Jiangsu, 210000, China",
+   "phone": "8618020132513",
+   "website": "https://pan.quark.cn/s/50c89746eedc",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:33:09Z"
+  },
+  {
+   "name": "超忆卡牌滨江大道店",
+   "group": "unknown",
+   "address": "上海市浦东新区滨江大道1368号B1, Shanghai, Shanghai, 200120, China",
+   "phone": "+8615821894923",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "超玩俱乐部/Chaowan Club",
+   "group": "unknown",
+   "address": "上海市宝山区一二八纪念路968号1号楼2017室, Shanghai, Baoshan District, 200435, China",
+   "phone": "+8615921119793",
+   "website": "https://www.bilibili.com/video/BV1qX4y1z76y/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "趣集卡",
+   "group": "unknown",
+   "address": "上海市闵行区罗锦路218号麦腾未来城5号楼110A（外侧）, Shanghai, Shanghai, 200120, China",
+   "phone": "8618717757573",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "速博卡牌桌游俱乐部/Su Bo Card and Board Game Club",
+   "group": "unknown",
+   "address": "北京市朝阳区十羽汇B112, Beijing, Chaoyang District, 100022, China",
+   "phone": "+8618310986309",
+   "website": "https://www.baidu.com/",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "酷玩桌游",
+   "group": "unknown",
+   "address": "湖北省武汉市国际会展中心西金字塔负2层星空天下内, Wuhan, Hubei, 430312, China",
+   "phone": "+8613871062453",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "野蛮人桌面竞技俱乐部",
+   "group": "unknown",
+   "address": "上海市虹口区惠民路36号百空间永兴仓库副楼F315室, Shanghai, Shanghai, 200080, China",
+   "phone": "8618964815597",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "金光华广场",
+   "group": "unknown",
+   "city": "Shen Zhen Shi",
+   "region": "Guang Dong Sheng",
+   "address": "2028 Ren Min Nan Lu, Luo Hu Qu, Shen Zhen Shi, Guang Dong Sheng",
+   "phone": "0755 8261 1366",
+   "website": "http://www.kingglory.com.cn/",
+   "checked_at": "2026-10-20T16:33:35Z"
+  },
+  {
+   "name": "集石俱乐部",
+   "group": "unknown",
+   "address": "北京市海淀区北四环西路方正国际大厦6层602, Beijing, 11, 100080, China",
+   "phone": "+8613910811997",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "静电森林/Statica Forest",
+   "group": "unknown",
+   "address": "北京市东城区方家胡同46号院E108, Beijing, Dongcheng District, 100007, China",
+   "phone": "8618601297191",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "顶尖玩家/Dingjianwanjia",
+   "group": "unknown",
+   "address": "北京市海淀区羊坊店街道18号光耀东方大厦N座626, Beijing, Haidian District, 100086, China",
+   "phone": "+86 18515635240",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "顶尖玩家/Top players",
+   "group": "unknown",
+   "address": "北京市海淀区羊坊店路18号光耀东方广场N座5层522号, Beijing, Haidian District, 100038, China",
+   "phone": "+8615010327852",
+   "website": "https://b23.tv/43xof7i",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "顶峰聚流卡牌研究所/Dingfeng Juliu Card Research Institute",
+   "group": "unknown",
+   "address": "重庆市江北区朗晴广场B塔38楼2号, Jiangbei District, Chongqing, 400000, China",
+   "phone": "+8613368296125",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "魔力聚流",
+   "group": "unknown",
+   "address": "江苏省扬州市邗江区文汇西路394号, Yangzhou, Jiangsu, 225000, China",
+   "phone": "8617849323322",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "魔晶卡牌",
+   "group": "unknown",
+   "address": "北京市海淀区强佑清河新城B座916室, Beijing, Beijing, 100085, China",
+   "phone": "+8618600195182",
+   "website": "https://v.youku.com/v_show/id_XNTgzNTMxNjE1Ng==.html",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鱼骰桌游",
+   "group": "unknown",
+   "address": "北京市海淀区魏公村路6号院1号楼地下二层B2-39、B2-40, Beijing, Beijing, 100081, China",
+   "phone": "8618710138165",
+   "website": "https://pan.baidu.com/share/init?surl=tr3wEEW7NqVeSJGZ_zRQMQ&pwd=2t3g",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:56Z"
+  },
+  {
+   "name": "鲸梦桌游中关村店",
+   "group": "unknown",
+   "address": "北京市海淀区中关村大街15号15-17号-01层地下室, Beijing, Beijing, 10010, China",
+   "phone": "8613810637458",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鲸梦桌游社/Whale Dream Board Game store",
+   "group": "unknown",
+   "address": "北京市通州区海盛一街2号院1号楼(14楼)5层548, Beijing, Tongzhou District, 10010, China",
+   "phone": "+8613103933726",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鸽门卡牌/Dove Gate Card",
+   "group": "unknown",
+   "city": "Hang Zhou Shi",
+   "region": "Zhe Jiang Sheng",
+   "address": "浙江省杭州市上城区江城路889号香榭商务大厦7楼C室, Hangzhou, Zhejiang, 310000, China",
+   "phone": "+8613957101191",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Flesh and Blood",
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鸿儒卡牌/Hongru Card Club",
+   "group": "unknown",
+   "address": "浙江省杭州市上城区城星路尊宝大厦银尊3316, Hangzhou City, Zhejiang Province, 310000, China",
+   "phone": "+8615669481773",
+   "website": "https://space.bilibili.com/33375282",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鹏洛客卡牌俱乐部/Planeswalker Cards",
+   "group": "unknown",
+   "address": "湖北省武汉市汉阳区世茂锦绣长江三期9号楼商铺2层6室, Wuhan, Hubei, 430070, China",
+   "phone": "+8613871218473",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  },
+  {
+   "name": "鹏飞卡牌北京店",
+   "group": "unknown",
+   "city": "Beijing",
+   "region": "Beijing",
+   "address": "V9QH+6J9 Xicheng District, Beijing, China, Beijing, Beijing",
+   "website": "https://shop402281445.taobao.com/category.htm?spm=pc_detail.30350276.shop_block.dshopinfo.53237dd67FCMU0",
+   "games_events": [
+    "Flesh and Blood"
+   ],
+   "checked_at": "2026-10-20T16:33:16Z"
+  },
+  {
+   "name": "麻袋怪兽/Sack Monster",
+   "group": "unknown",
+   "address": "北京市西城区月坛街道白云路6号云起时珍宝花园A座B1-21, Beijing, Xicheng District, 100045, China",
+   "phone": "+8613661396665",
+   "website": "https://www.cnwizards.com/stores/local",
+   "buylist_url": "https://www.cnwizards.com/buylist",
+   "games_events": [
+    "Magic: The Gathering"
+   ],
+   "checked_at": "2026-10-20T16:32:48Z"
+  }
+ ]
+}
