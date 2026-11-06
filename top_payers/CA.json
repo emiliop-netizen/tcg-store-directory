@@ -1,0 +1,97 @@
+{
+ "country": "CA",
+ "updated": "2026-11-06",
+ "how": "score = store's median price / median across all feed stores, over a basket of well-known cards; 1.2 = pays 20% above the middle",
+ "games": {
+  "Pokemon": {
+   "top": [
+    {
+     "name": "Hobbiesville - Toronto",
+     "city": "Ottawa",
+     "score": 1.27
+    },
+    {
+     "name": "Derpy Cards",
+     "city": "Richmond Hill",
+     "score": 1.253
+    },
+    {
+     "name": "Card Cycle",
+     "city": "London",
+     "score": 1.231
+    },
+    {
+     "name": "MyPops.ca Hamilton Eastgate Square Toys TCG Funko",
+     "city": "Hamilton",
+     "score": 1.226
+    }
+   ],
+   "well_known": [
+    "401 Games",
+    "Hobbiesville"
+   ],
+   "stores_checked": 45,
+   "checked_at": "2026-11-06T05:47:27Z"
+  },
+  "One Piece": {
+   "top": [
+    {
+     "name": "Derpy Cards",
+     "city": "Richmond Hill",
+     "score": 1.212
+    },
+    {
+     "name": "Eastridge Games",
+     "city": "Calgary",
+     "score": 1.197
+    },
+    {
+     "name": "Ryujin Hobbies",
+     "city": "Kemptville",
+     "score": 1.18
+    },
+    {
+     "name": "Hobbiesville - Toronto",
+     "city": "Ottawa",
+     "score": 1.169
+    }
+   ],
+   "well_known": [
+    "401 Games",
+    "Hobbiesville"
+   ],
+   "stores_checked": 39,
+   "checked_at": "2026-11-06T05:47:42Z"
+  },
+  "Magic: The Gathering": {
+   "top": [
+    {
+     "name": "Hobbiesville - Toronto",
+     "city": "Ottawa",
+     "score": 1.323
+    },
+    {
+     "name": "Jouet Bonhomme de Niege",
+     "city": "Montreal",
+     "score": 1.255
+    },
+    {
+     "name": "Ryujin Hobbies",
+     "city": "Kemptville",
+     "score": 1.252
+    },
+    {
+     "name": "Derpy Cards",
+     "city": "Richmond Hill",
+     "score": 1.248
+    }
+   ],
+   "well_known": [
+    "401 Games",
+    "Hobbiesville"
+   ],
+   "stores_checked": 47,
+   "checked_at": "2026-11-06T05:47:56Z"
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "country": "GB",
+ "updated": "2026-11-06",
+ "how": "score = store's median price / median across all feed stores, over a basket of well-known cards; 1.2 = pays 20% above the middle",
+ "games": {
+  "Pokemon": {
+   "top": [
+    {
+     "name": "Red Sun Collectables",
+     "city": "New Mill",
+     "score": 1.66
+    },
+    {
+     "name": "EZI TCG",
+     "city": "London",
+     "score": 1.195
+    },
+    {
+     "name": "Boards and Swords Hobbies",
+     "city": "Derby",
+     "score": 1.125
+    },
+    {
+     "name": "Union County Games",
+     "city": "DEVON",
+     "score": 1.081
+    }
+   ],
+   "well_known": [
+    "CardRush",
+    "EZI TCG"
+   ],
+   "stores_checked": 12,
+   "checked_at": "2026-11-06T05:50:07Z"
+  },
+  "One Piece": {
+   "top": [
+    {
+     "name": "EZI TCG",
+     "city": "London",
+     "score": 1.462
+    },
+    {
+     "name": "Spellbound Games",
+     "city": "London",
+     "score": 1.226
+    },
+    {
+     "name": "CardRush",
+     "city": "Newcastle upon Tyne",
+     "score": 1.09
+    },
+    {
+     "name": "Boards and Swords Hobbies",
+     "city": "Derby",
+     "score": 1.006
+    }
+   ],
+   "well_known": [
+    "CardRush",
+    "EZI TCG"
+   ],
+   "stores_checked": 9,
+   "checked_at": "2026-11-06T05:50:26Z"
+  },
+  "Magic: The Gathering": {
+   "top": [
+    {
+     "name": "Red Sun Collectables",
+     "city": "New Mill",
+     "score": 1.716
+    },
+    {
+     "name": "Boards and Swords Hobbies",
+     "city": "Derby",
+     "score": 1.142
+    },
+    {
+     "name": "CardRush",
+     "city": "Newcastle upon Tyne",
+     "score": 1.079
+    },
+    {
+     "name": "Union County Games",
+     "city": "DEVON",
+     "score": 1.064
+    }
+   ],
+   "well_known": [
+    "CardRush",
+    "EZI TCG"
+   ],
+   "stores_checked": 13,
+   "checked_at": "2026-11-06T05:50:39Z"
+  }
+ }
+}

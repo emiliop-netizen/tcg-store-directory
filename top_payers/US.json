@@ -1,0 +1,97 @@
+{
+ "country": "US",
+ "updated": "2026-11-06",
+ "how": "score = store's median price / median across all feed stores, over a basket of well-known cards; 1.2 = pays 20% above the middle",
+ "games": {
+  "Pokemon": {
+   "top": [
+    {
+     "name": "The Plug Trading Cards & Collectibles",
+     "city": "Blue Springs",
+     "score": 1.631
+    },
+    {
+     "name": "Game Nerdz - Wylie",
+     "city": "Mesquite",
+     "score": 1.348
+    },
+    {
+     "name": "Josh's Cards",
+     "city": "KCMO",
+     "score": 1.225
+    },
+    {
+     "name": "Phantasma",
+     "city": "Las Vegas",
+     "score": 1.216
+    }
+   ],
+   "well_known": [
+    "Columbus Card Shop",
+    "Vegas Singles Trading Cards"
+   ],
+   "stores_checked": 35,
+   "checked_at": "2026-11-06T05:48:25Z"
+  },
+  "One Piece": {
+   "top": [
+    {
+     "name": "Josh's Cards",
+     "city": "KCMO",
+     "score": 1.499
+    },
+    {
+     "name": "Cardboardia",
+     "city": "Murrieta",
+     "score": 1.425
+    },
+    {
+     "name": "Vegas Singles Trading Cards",
+     "city": "Las Vegas",
+     "score": 1.284
+    },
+    {
+     "name": "Columbus Card Shop",
+     "city": "Hilliard",
+     "score": 1.213
+    }
+   ],
+   "well_known": [
+    "Columbus Card Shop",
+    "Vegas Singles Trading Cards"
+   ],
+   "stores_checked": 27,
+   "checked_at": "2026-11-06T05:48:41Z"
+  },
+  "Magic: The Gathering": {
+   "top": [
+    {
+     "name": "The Plug Trading Cards & Collectibles",
+     "city": "Blue Springs",
+     "score": 1.795
+    },
+    {
+     "name": "The CG Realm",
+     "city": null,
+     "score": 1.402
+    },
+    {
+     "name": "Phantasma",
+     "city": "Las Vegas",
+     "score": 1.333
+    },
+    {
+     "name": "The Warp Gate",
+     "city": "Columbus",
+     "score": 1.295
+    }
+   ],
+   "well_known": [
+    "Columbus Card Shop",
+    "Vegas Singles Trading Cards"
+   ],
+   "stores_checked": 40,
+   "checked_at": "2026-11-06T05:48:58Z"
+  }
+ }
+}

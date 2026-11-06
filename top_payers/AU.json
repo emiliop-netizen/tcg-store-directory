@@ -1,0 +1,97 @@
+{
+ "country": "AU",
+ "updated": "2026-11-06",
+ "how": "score = store's median price / median across all feed stores, over a basket of well-known cards; 1.2 = pays 20% above the middle",
+ "games": {
+  "Pokemon": {
+   "top": [
+    {
+     "name": "Gameology Clayton",
+     "city": "Clayton South",
+     "score": 1.297
+    },
+    {
+     "name": "Groovy Collectables",
+     "city": "Mermaid Beach",
+     "score": 1.208
+    },
+    {
+     "name": "Shuffled LGS - Daw Park",
+     "city": "Daw Park",
+     "score": 1.132
+    },
+    {
+     "name": "One Place Trading Card Shop",
+     "city": "Port Macquarie",
+     "score": 1.121
+    }
+   ],
+   "well_known": [
+    "Gameology Clayton",
+    "Card House"
+   ],
+   "stores_checked": 11,
+   "checked_at": "2026-11-06T05:49:09Z"
+  },
+  "One Piece": {
+   "top": [
+    {
+     "name": "Gameology Clayton",
+     "city": "Clayton South",
+     "score": 1.271
+    },
+    {
+     "name": "Critical Hit Gaming",
+     "city": "Melbourne, Vic",
+     "score": 1.242
+    },
+    {
+     "name": "Crystal collectables TCG",
+     "city": "Hope island",
+     "score": 0.998
+    },
+    {
+     "name": "Plenty of Games",
+     "city": "Melbourne",
+     "score": 0.975
+    }
+   ],
+   "well_known": [
+    "Gameology Clayton",
+    "Card House"
+   ],
+   "stores_checked": 10,
+   "checked_at": "2026-11-06T05:49:17Z"
+  },
+  "Magic: The Gathering": {
+   "top": [
+    {
+     "name": "Shuffled LGS - Daw Park",
+     "city": "Daw Park",
+     "score": 1.293
+    },
+    {
+     "name": "Gameology Clayton",
+     "city": "Clayton South",
+     "score": 1.183
+    },
+    {
+     "name": "Critical Hit Gaming",
+     "city": "Melbourne, Vic",
+     "score": 1.07
+    },
+    {
+     "name": "88 Games Arena",
+     "city": "Canterbury",
+     "score": 1.035
+    }
+   ],
+   "well_known": [
+    "Gameology Clayton",
+    "Card House"
+   ],
+   "stores_checked": 13,
+   "checked_at": "2026-11-06T05:49:22Z"
+  }
+ }
+}
